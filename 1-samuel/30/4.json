@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo Davide ndi anthu amene anali ⟨את⟩ naye anayamba kulira, nadzula ⟨את⟩ mawu awo mpaka pamene sanakhalenso ndi mphamvu yowirikiza.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "anayamba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ndi anthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu awo"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "mawu awo"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "nadzula"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka pamene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אין",
+      "gloss": "sanakhalenso"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mu iwo"
+    },
+    {
+      "surface": "כח",
+      "gloss": "mphamvu"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "yowirikiza"
+    }
+  ],
+  "timestamp": "2026-09-21T13:54:49.590810580Z",
+  "model": "glm-5.3"
+}

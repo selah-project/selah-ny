@@ -1,0 +1,106 @@
+chair                ny
+files scanned        23112
+files touched        369
+surfaces restored    399
+count-mismatch files 0
+moved-token files    0  (skipped — want a re-press)
+non-Hebrew surfaces  76  (REPORTED below, not laundered)
+
+cognate-swap pairs (Hebrew -> what replaced it):
+       8  מ U+05DE HEBREW LETTER MEM            ->  м U+043C CYRILLIC SMALL LETTER EM
+       6  ש U+05E9 HEBREW LETTER SHIN           ->  ш U+0448 CYRILLIC SMALL LETTER SHA
+       4  י U+05D9 HEBREW LETTER YOD            ->  i U+0069 LATIN SMALL LETTER I
+       4  ה U+05D4 HEBREW LETTER HE             ->  h U+0068 LATIN SMALL LETTER H
+       3  ם U+05DD HEBREW LETTER FINAL MEM      ->  m U+006D LATIN SMALL LETTER M
+       3  ו U+05D5 HEBREW LETTER VAV            ->  u U+0075 LATIN SMALL LETTER U
+       3  ב U+05D1 HEBREW LETTER BET            ->  в U+0432 CYRILLIC SMALL LETTER VE
+       3  י U+05D9 HEBREW LETTER YOD            ->  y U+0079 LATIN SMALL LETTER Y
+       2  מ U+05DE HEBREW LETTER MEM            ->  m U+006D LATIN SMALL LETTER M
+       2  נ U+05E0 HEBREW LETTER NUN            ->  н U+043D CYRILLIC SMALL LETTER EN
+       1  נ U+05E0 HEBREW LETTER NUN            ->  Н U+041D CYRILLIC CAPITAL LETTER EN
+       1  ק U+05E7 HEBREW LETTER QOF            ->  q U+0071 LATIN SMALL LETTER Q
+       1  א U+05D0 HEBREW LETTER ALEF           ->  a U+0061 LATIN SMALL LETTER A
+       1  ר U+05E8 HEBREW LETTER RESH           ->  r U+0072 LATIN SMALL LETTER R
+       1  ו U+05D5 HEBREW LETTER VAV            ->  o U+006F LATIN SMALL LETTER O
+       1  ן U+05DF HEBREW LETTER FINAL NUN      ->  n U+006E LATIN SMALL LETTER N
+       1  ל U+05DC HEBREW LETTER LAMED          ->  L U+004C LATIN CAPITAL LETTER L
+       1  ו U+05D5 HEBREW LETTER VAV            ->  و U+0648 ARABIC LETTER WAW
+       1  ד U+05D3 HEBREW LETTER DALET          ->  đ U+0111 LATIN SMALL LETTER D WITH ST
+       1  פ U+05E4 HEBREW LETTER PE             ->  p U+0070 LATIN SMALL LETTER P
+
+   NONHEB 1-chronicles/27/26.json tok 4  'לעבodת' -> 'לעבדת'   [LATIN SMALL LETTER D LATIN SMALL LETTER O]
+   NONHEB 1-chronicles/5/4.json tok 2  'shמעיה' -> 'שמעיה'   [LATIN SMALL LETTER H LATIN SMALL LETTER S]
+   NONHEB 1-chronicles/9/22.json tok 4  'mאתים' -> 'מאתים'   [LATIN SMALL LETTER M]
+   NONHEB 1-kings/7/24.json tok 0  'ופקעim' -> 'ופקעים'   [LATIN SMALL LETTER I LATIN SMALL LETTER M]
+   NONHEB 1-kings/7/24.json tok 4  'סבbbים' -> 'סבבים'   [LATIN SMALL LETTER B]
+   NONHEB 1-samuel/13/5.json tok 19  'ויחנu' -> 'ויחנו'   [LATIN SMALL LETTER U]
+   NONHEB 1-samuel/17/58.json tok 5  'אתha' -> 'אתה'   [LATIN SMALL LETTER A LATIN SMALL LETTER H]
+   NONHEB 1-samuel/28/15.json tok 26  'בחלOMOT' -> 'בחלמות'   [LATIN CAPITAL LETTER M LATIN CAPITAL LETTER O LATIN CAPITAL LETTER T]
+   NONHEB 2-chronicles/18/18.json tok 0  'ויאмר' -> 'ויאמר'   [CYRILLIC SMALL LETTER EM]
+   NONHEB 2-chronicles/4/3.json tok 10  'мקיפים' -> 'מקיפים'   [CYRILLIC SMALL LETTER EM]
+   NONHEB 2-kings/15/33.json tok 5  'вמלכו' -> 'במלכו'   [CYRILLIC SMALL LETTER VE]
+   NONHEB 2-kings/22/3.json tok 3  'шנה' -> 'שנה'   [CYRILLIC SMALL LETTER SHA]
+   NONHEB 2-kings/22/6.json tok 4  'עצim' -> 'עצים'   [LATIN SMALL LETTER I LATIN SMALL LETTER M]
+   NONHEB 2-samuel/22/37.json tok 4  'мעדו' -> 'מעדו'   [CYRILLIC SMALL LETTER EM]
+   NONHEB 2-samuel/5/4.json tok 2  'shana' -> 'שנה'   [LATIN SMALL LETTER A LATIN SMALL LETTER H LATIN SMALL LETTER N LATIN SMALL LETTER S]
+   NONHEB 2-samuel/5/4.json tok 6  'shana' -> 'שנה'   [LATIN SMALL LETTER A LATIN SMALL LETTER H LATIN SMALL LETTER N LATIN SMALL LETTER S]
+   NONHEB amos/5/11.json tok 17  'Нטעתם' -> 'נטעתם'   [CYRILLIC CAPITAL LETTER EN]
+   NONHEB deuteronomy/1/15.json tok 3  'shבטיכם' -> 'שבטיכם'   [LATIN SMALL LETTER H LATIN SMALL LETTER S]
+   NONHEB deuteronomy/2/14.json tok 13  'шана' -> 'שנה'   [CYRILLIC SMALL LETTER A CYRILLIC SMALL LETTER EN CYRILLIC SMALL LETTER SHA]
+   NONHEB deuteronomy/4/12.json tok 8  'шמעים' -> 'שמעים'   [CYRILLIC SMALL LETTER SHA]
+   NONHEB ecclesiastes/11/8.json tok 4  'yחיה' -> 'יחיה'   [LATIN SMALL LETTER Y]
+   NONHEB esther/9/19.json tok 18  'ומשlolוח' -> 'ומשלוח'   [LATIN SMALL LETTER L LATIN SMALL LETTER O]
+   NONHEB exodus/12/22.json tok 11  'shתי' -> 'שתי'   [LATIN SMALL LETTER H LATIN SMALL LETTER S]
+   NONHEB exodus/25/36.json tok 5  'мקשה' -> 'מקשה'   [CYRILLIC SMALL LETTER EM]
+   NONHEB exodus/36/25.json tok 7  'qרשים' -> 'קרשים'   [LATIN SMALL LETTER Q]
+   NONHEB exodus/8/10.json tok 4  'ויתבאש→ותבאש' -> 'ותבאש'   [RIGHTWARDS ARROW]
+   NONHEB ezekiel/20/3.json tok 9  'amr' -> 'אמר'   [LATIN SMALL LETTER A LATIN SMALL LETTER M LATIN SMALL LETTER R]
+   NONHEB ezekiel/20/38.json tok 6  'мגוריהם' -> 'מגוריהם'   [CYRILLIC SMALL LETTER EM]
+   NONHEB ezra/2/43.json tok 1  '-bnj' -> 'בני'   [HYPHEN-MINUS LATIN SMALL LETTER B LATIN SMALL LETTER J LATIN SMALL LETTER N]
+   NONHEB ezra/3/8.json tok 28  'עשרim' -> 'עשרים'   [LATIN SMALL LETTER I LATIN SMALL LETTER M]
+   NONHEB ezra/4/3.json tok 2  'זרubבל' -> 'זרבבל'   [LATIN SMALL LETTER B LATIN SMALL LETTER U]
+   NONHEB genesis/11/31.json tok 9  'bben' -> 'בן'   [LATIN SMALL LETTER B LATIN SMALL LETTER E LATIN SMALL LETTER N]
+   NONHEB genesis/14/18.json tok 10  'עלion' -> 'עליון'   [LATIN SMALL LETTER I LATIN SMALL LETTER N LATIN SMALL LETTER O]
+   NONHEB genesis/42/15.json tok 1  'תבחנu' -> 'תבחנו'   [LATIN SMALL LETTER U]
+   NONHEB genesis/43/31.json tok 1  'панיו' -> 'פניו'   [CYRILLIC SMALL LETTER A CYRILLIC SMALL LETTER EN CYRILLIC SMALL LETTER PE]
+   NONHEB genesis/49/31.json tok 13  'אשתwo' -> 'אשתו'   [LATIN SMALL LETTER O LATIN SMALL LETTER W]
+   NONHEB genesis/7/11.json tok 2  'мאות' -> 'מאות'   [CYRILLIC SMALL LETTER EM]
+   NONHEB isaiah/13/8.json tok 9  'יתמahו' -> 'יתמהו'   [LATIN SMALL LETTER A LATIN SMALL LETTER H]
+   NONHEB isaiah/21/7.json tok 2  'צמed' -> 'צמד'   [LATIN SMALL LETTER D LATIN SMALL LETTER E]
+   NONHEB isaiah/23/15.json tok 6  'шнה' -> 'שנה'   [CYRILLIC SMALL LETTER EN CYRILLIC SMALL LETTER SHA]
+   NONHEB isaiah/29/9.json tok 1  'ותמahu' -> 'ותמהו'   [LATIN SMALL LETTER A LATIN SMALL LETTER H LATIN SMALL LETTER U]
+   NONHEB isaiah/3/18.json tok 5  'תפארet' -> 'תפארת'   [LATIN SMALL LETTER E LATIN SMALL LETTER T]
+   NONHEB isaiah/44/13.json tok 10  'ויעשהhu' -> 'ויעשהו'   [LATIN SMALL LETTER H LATIN SMALL LETTER U]
+   NONHEB jeremiah/41/18.json tok 3  'yראו' -> 'יראו'   [LATIN SMALL LETTER Y]
+   NONHEB jeremiah/51/7.json tok 1  'זהbv' -> 'זהב'   [LATIN SMALL LETTER B LATIN SMALL LETTER V]
+   NONHEB jeremiah/6/3.json tok 8  'רעuu' -> 'רעו'   [LATIN SMALL LETTER U]
+   NONHEB job/16/2.json tok 4  'עמL' -> 'עמל'   [LATIN CAPITAL LETTER L]
+   NONHEB job/20/11.json tok 1  'мלאו' -> 'מלאו'   [CYRILLIC SMALL LETTER EM]
+   NONHEB job/40/20.json tok 2  'Helveticaהרים' -> 'הרים'   [LATIN CAPITAL LETTER H LATIN SMALL LETTER A LATIN SMALL LETTER C LATIN SMALL LETTER E LATIN SMALL LETTER I LATIN SMALL LETTER L LATIN SMALL LETTER T LATIN SMALL LETTER V]
+   NONHEB joel/2/13.json tok 4  'وשובו' -> 'ושובו'   [ARABIC LETTER WAW]
+   NONHEB judges/19/10.json tok 13  'צמđ' -> 'צמד'   [LATIN SMALL LETTER D WITH STROKE]
+   NONHEB leviticus/13/6.json tok 1  'hכהן' -> 'הכהן'   [LATIN SMALL LETTER H]
+   NONHEB leviticus/23/3.json tok 17  'вכל' -> 'בכל'   [CYRILLIC SMALL LETTER VE]
+   NONHEB nehemiah/3/11.json tok 0  'מדha' -> 'מדה'   [LATIN SMALL LETTER A LATIN SMALL LETTER H]
+   NONHEB nehemiah/5/14.json tok 12  'шнת' -> 'שנת'   [CYRILLIC SMALL LETTER EN CYRILLIC SMALL LETTER SHA]
+   NONHEB nehemiah/9/32.json tok 16  'מצאתנu' -> 'מצאתנו'   [LATIN SMALL LETTER U]
+   NONHEB numbers/14/25.json tok 6  'וסעuvo' -> 'וסעו'   [LATIN SMALL LETTER O LATIN SMALL LETTER U LATIN SMALL LETTER V]
+   NONHEB numbers/16/35.json tok 9  'макרי\u05ecי' -> 'מקריבי'   [CYRILLIC SMALL LETTER A CYRILLIC SMALL LETTER KA CYRILLIC SMALL LETTER EM]
+   NONHEB numbers/20/6.json tok 11  'pניהם' -> 'פניהם'   [LATIN SMALL LETTER P]
+   NONHEB numbers/28/5.json tok 1  'האיפha' -> 'האיפה'   [LATIN SMALL LETTER A LATIN SMALL LETTER H]
+   NONHEB numbers/33/35.json tok 1  'мעברנה' -> 'מעברנה'   [CYRILLIC SMALL LETTER EM]
+   NONHEB numbers/4/39.json tok 2  'шנה' -> 'שנה'   [CYRILLIC SMALL LETTER SHA]
+   NONHEB numbers/7/87.json tok 7  'шנים' -> 'שנים'   [CYRILLIC SMALL LETTER SHA]
+   NONHEB proverbs/15/27.json tok 6  'yחיה' -> 'יחיה'   [LATIN SMALL LETTER Y]
+   NONHEB proverbs/16/9.json tok 4  'והוה prefixed' -> 'ויהוה'   [LATIN SMALL LETTER D LATIN SMALL LETTER E LATIN SMALL LETTER F LATIN SMALL LETTER I LATIN SMALL LETTER P LATIN SMALL LETTER R LATIN SMALL LETTER X]
+   NONHEB proverbs/30/25.json tok 4  'ועז… ויכינו' -> 'ויכינו'   [HORIZONTAL ELLIPSIS]
+   NONHEB psalms/104/14.json tok 4  'לעבODת' -> 'לעבדת'   [LATIN CAPITAL LETTER D LATIN CAPITAL LETTER O]
+   NONHEB psalms/106/6.json tok 3  'hעוינו' -> 'העוינו'   [LATIN SMALL LETTER H]
+   NONHEB psalms/106/6.json tok 4  'hרשענו' -> 'הרשענו'   [LATIN SMALL LETTER H]
+   NONHEB psalms/106/7.json tok 3  'hשכילו' -> 'השכילו'   [LATIN SMALL LETTER H]
+   NONHEB psalms/107/12.json tok 3  'כשלwu' -> 'כשלו'   [LATIN SMALL LETTER U LATIN SMALL LETTER W]
+   NONHEB psalms/119/148.json tok 0  '马דמו' -> 'קדמו'   [CJK UNIFIED IDEOGRAPH-9A6C]
+   NONHEB psalms/131/1.json tok 8  'ramu' -> 'רמו'   [LATIN SMALL LETTER A LATIN SMALL LETTER M LATIN SMALL LETTER R LATIN SMALL LETTER U]
+   NONHEB psalms/58/3.json tok 3  'тפעלון' -> 'תפעלון'   [CYRILLIC SMALL LETTER TE]
+   NONHEB psalms/69/17.json tok 5  'kasambula' -> 'כרב'   [LATIN SMALL LETTER A LATIN SMALL LETTER B LATIN SMALL LETTER K LATIN SMALL LETTER L LATIN SMALL LETTER M LATIN SMALL LETTER S LATIN SMALL LETTER U]
+   NONHEB zechariah/14/12.json tok 14  'вשרו' -> 'בשרו'   [CYRILLIC SMALL LETTER VE]
