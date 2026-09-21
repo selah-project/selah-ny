@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Mu kuonetsa ⟨את⟩ chuma cha ulemerero wa ufumu wake, ndi ⟨את⟩ mtengo wokongola wa kukula kwake, masiku ambiri, makumi asanu ndi atatu ndi zana la masiku.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "mu kuonetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chuma cha ulemerero wa ufumu wake"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "chuma"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ulemerero"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ufumu wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mtengo wokongola wa kukula kwake"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "mtengo"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "kukongola"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "kukula kwake"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ambiri"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "makumi asanu ndi atatu"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ndi zana"
+    },
+    {
+      "surface": "יום",
+      "gloss": "la masiku"
+    }
+  ],
+  "timestamp": "2026-09-21T14:27:35.046255543Z",
+  "model": "glm-5.3"
+}

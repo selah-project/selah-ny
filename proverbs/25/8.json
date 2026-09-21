@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Musatuluke mwachangu kulimbana, kho udziwa mungachite chiyani pa mathero ake, pamene mnzako wakuchititsa manyazi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musai-"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "satuluke"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "kulimbana"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "mwachangu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kho"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "mungachite"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "pa mathero ake"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "wakuchititsa manyazi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ iwe",
+      "marks": "mnzako (wakuchititsa manyazi)"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "mnzako"
+    }
+  ],
+  "timestamp": "2026-09-21T14:26:22.392217391Z",
+  "model": "glm-5.3"
+}

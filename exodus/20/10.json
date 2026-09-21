@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Koma tsiku lachisanu ndi chiwiri ndi Sabata kwa Yahwe Elohim wako; usachite ntchito iliyonse, iwe, mwana wako wamwamuna ndi mwana wako wamkazi, kapolo wako ndi mpondantchito wako, nyama zako, ndi mlendo wako amene ali m'masinda ako.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "Koma tsiku"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "lachisanu ndi chiwiri"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabata"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "chite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iliyonse"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "mwana wako wamwamuna"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "mwana wako wamkazi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kapolo wako"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "mpondantchito wako"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "nyama zako"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "mlendo wako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "ali m'masinda ako"
+    }
+  ],
+  "timestamp": "2026-09-21T14:22:56.726902697Z",
+  "model": "glm-5.3"
+}

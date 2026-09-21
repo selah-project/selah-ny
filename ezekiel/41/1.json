@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Ndipo ananditenga kulowa m'chikhalire chake, nayesa ⟨את⟩ mzati wauja: litala zisanu ndi chimodzi m'masanzi kumbuyo; ndipo litala zisanu ndi chimodzi m'masanzi kumbuyo — masanzi a chihema.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "ananditenga kulowa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "m'"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "chikhalire chake"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "nayesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mzati wauja"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "mzati wauja"
+    },
+    {
+      "surface": "שש",
+      "gloss": "zisanu ndi chimodzi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "litala"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "m'masanzi"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "kumbuyo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ndipo litala zisanu ndi chimodzi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "litala"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "m'masanzi"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "kumbuyo"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "masanzi a"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "chihema"
+    }
+  ],
+  "timestamp": "2026-09-21T14:26:37.882043296Z",
+  "model": "glm-5.3"
+}

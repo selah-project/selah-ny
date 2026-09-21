@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 16:1",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "M'chaka chachikhumi ndi chisanu ndi chiwiri cha Pekahi mwana wa Remalyahu, Ahazi mwana wa Yotamu, mfumu ya Yuda, anamfumuwa.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "m'chaka cha"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zisanu ndi chiwiri"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ndi khumi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "chaka"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "cha Pekahi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remalyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "anamfumuwa"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahazi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotamu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    }
+  ],
+  "timestamp": "2026-09-21T14:29:49.742115648Z",
+  "model": "glm-5.3"
+}

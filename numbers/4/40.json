@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo kuwerengedwa kwawo, mwa mafuko awo, m'nyumba za makolo awo, kunali ⟨zinthu⟩ zikwi ziwiri ndi mazana asanu ndi chimodzi ndi makumi atatu.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ndipo kunali"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "kuwerengedwa kwawo"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "mwa mafuko awo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "za makolo awo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "zikwi ziwiri"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ndi mazana asanu ndi chimodzi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ndi makumi atatu"
+    }
+  ],
+  "timestamp": "2026-09-21T14:23:14.037763536Z",
+  "model": "glm-5.3"
+}

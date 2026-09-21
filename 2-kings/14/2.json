@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 14:2",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Wamakumi awiri ndi zisanu zaka anali potha kuwayamba kulinga kwake, ndipo ankalenga zaka makumi awiri ndi zisanu ndi zinayi mu Yerushalayimu; ndipo dzina la amake nali Yehoadani, wa ku Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "wamakumi awiri ndi zisanu zaka"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi awiri"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ndi zisanu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "היה",
+      "gloss": "anali"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "potha kuwayamba kulinga kwake"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "makumi awiri"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ndi zisanu ndi zinayi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ankalenga"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "mu Yerushalayimu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ndipo dzina"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "la amake"
+    },
+    {
+      "surface": "יהועדין",
+      "gloss": "Yehoadani"
+    },
+    {
+      "surface": "מן",
+      "gloss": "wa ku"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T14:25:35.175830972Z",
+  "model": "glm-5.3"
+}

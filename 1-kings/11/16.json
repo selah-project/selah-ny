@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Pakuti miyezi zisanu ndi chimodzi Yowabu ndi Yisraeli onse anakhalapo, mpaka atadula wonse wamwamuna muEdomu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "zisanu ndi chimodzi"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "miyezi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "anakhalapo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "po"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi onse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "atadula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "wamwamuna"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "muEdomu"
+    }
+  ],
+  "timestamp": "2026-09-21T14:25:22.796269335Z",
+  "model": "glm-5.3"
+}

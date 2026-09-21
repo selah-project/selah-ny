@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Elohim adadalitsa ⟨את⟩ tsiku lachisanu ndi chiwiri, ndipo adaikatira ⟨את⟩ li, popeza m'menemo anapereka pa ntchito yake yonse chimene Elohim analenga kulichita.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "adadalitsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsiku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "lachisanu ndi chiwiri"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "adaikatira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ li",
+      "marks": "li (tsikulo)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "בו",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "anapereka"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "ntchito yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "analenga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kulichita"
+    }
+  ],
+  "timestamp": "2026-09-21T14:21:09.086026314Z",
+  "model": "glm-5.3"
+}

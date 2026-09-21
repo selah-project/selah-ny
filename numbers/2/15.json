@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "ndi gulu lake lankhondo, ndi omweredwa ake: zisanu ndi makumi anayi chikwi, ndi mazana asanu ndi limodzi, ndi makumi asanu.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ndi gulu lake lankhondo"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ndi omweredwa ake"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "zisanu"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ndi makumi anayi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "chikwi"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ndi mazana asanu ndi limodzi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ndi makumi asanu"
+    }
+  ],
+  "timestamp": "2026-09-21T14:23:04.654293475Z",
+  "model": "glm-5.3"
+}

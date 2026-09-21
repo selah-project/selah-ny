@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Zaka zisanu ndi limodzi udzafyala munda wako, ndipo zaka zisanu ndi limodzi udzadula mphesa wako, ndipo udzakonza ⟨את⟩ zipatso zake.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "zisanu ndi limodzi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "udzafyala"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "munda wako"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ndipo zisanu ndi limodzi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "udzadula"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "mphesa wako"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ndipo udzakonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chipatso chake"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "chipatso chake"
+    }
+  ],
+  "timestamp": "2026-09-21T14:29:35.584453344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Okwereredwa awo, a mchigawo cha Gad, anali makumi anayi ndi asanu chikwi, ndi mazana asanu ndi limodzi ndi makumi asanu.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "okwereredwa awo"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "a mchigawo cha"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "asanu"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ndi makumi anayi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "chikwi"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ndi mazana asanu ndi limodzi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ndi makumi asanu"
+    }
+  ],
+  "timestamp": "2026-09-21T14:23:34.308598411Z",
+  "model": "glm-5.3"
+}

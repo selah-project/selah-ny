@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo chinachitika tsiku lachisanu ndi chitatu, Moshe anaita Aharoni ndi ana ake, ndi akuluakulu a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo chinachitika"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku la"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "lachisanu ndi chitatu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "anaita"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ndi ana ake"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "ndi akuluakulu a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T14:22:15.318977189Z",
+  "model": "glm-5.3"
+}

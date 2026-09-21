@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 1:13",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Kumbukirani ⟨את⟩ liwu limene Moshe, mtsogoleri wa Yahwe, adalamulira ⟨את⟩ inu, nati: Yahwe Elohim wanu akupatsani mpumulo, ndipo adzapatsani ⟨את⟩ dziko ili.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Kumbukirani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liwu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "liwu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "adalamulira"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mtsogoleri <kapena> kapolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "akupatsani mpumulo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ndipo adzapatsani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko ili"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ili"
+    }
+  ],
+  "timestamp": "2026-09-21T14:23:59.816028885Z",
+  "model": "glm-5.3"
+}

@@ -5,8 +5,81 @@
   "book": "ezekiel",
   "lang": "ny",
   "chapter": 48,
-  "translation": "Ndipo ku mbali yakum'mawa mphambu zinjaḥiri mphambu zinayi ndi zambiri zisanu, ndipo makomo atatu: komo ka Yosefi limodzi, komo ka Binyamini limodzi, komo ka Dani limodzi.",
-  "tokens": [],
-  "timestamp": "2026-09-21T14:18:25.336444464Z",
+  "translation": "Ndipo ku mbali ya kum'mawa, mazana asanu ndi ⟨את⟩ zikwi zinayi; ndipo masanedwe atatu: msanedwe wa Yosefu umodzi, msanedwe wa Binyamin umodzi, msanedwe wa Dani umodzi.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "mbali ya"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "kum'mawa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "asanu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "ndi zinayi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "zikwi"
+    },
+    {
+      "surface": "ושערים",
+      "gloss": "ndipo masanedwe"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "msanedwe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "wa Yosefu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umodzi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "msanedwe"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "wa Binyamin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umodzi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "msanedwe"
+    },
+    {
+      "surface": "דן",
+      "gloss": "wa Dani"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T14:42:27.962440892Z",
   "model": "glm-5.3"
 }

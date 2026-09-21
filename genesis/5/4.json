@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo masiku a Adamu atamubala ⟨את⟩ Sheti anali mazana asanu ndi atatu zaka; ndipo adabala ana aamuna ndi aakazi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ndipo anali"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "masiku a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "atamubala"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "atamubala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheti"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Sheti"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "mazana asanu ndi atatu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mazana asanu ndi atatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ndipo adabala"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ana aamuna"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ndi aakazi"
+    }
+  ],
+  "timestamp": "2026-09-21T14:20:44.380966714Z",
+  "model": "glm-5.3"
+}

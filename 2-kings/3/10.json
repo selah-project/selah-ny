@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo mfumu ya Yisraeli inati: “Awa! Pakuti Yahwe waitana mfumu zitatu izi kuti apereke ⟨את⟩ iwo m'dzanja la Moabu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "inati"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Awa!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "waitana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "zitatu"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kuti apereke"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "mfumu zitatu izi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "m'dzanja"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    }
+  ],
+  "timestamp": "2026-09-21T14:25:15.713141574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Sabata yopuma ndiye yathu kwa inu, ndipo mudzazunza ⟨את⟩ moyo wanu; tsiku lachisanu ndi chinayi la mwezi, madzulo, kuyambira madzulo kufikira madzulo, mudzasunga Sabata yanu.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Sabata"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "yopuma"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "ndipo mudzazunza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wanu"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "moyo wanu"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "tsiku lachisanu ndi chinayi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la mwezi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "madzulo"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "kuyambira madzulo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "madzulo"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "mudzasunga"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "Sabata yanu"
+    }
+  ],
+  "timestamp": "2026-09-21T14:23:18.130799606Z",
+  "model": "glm-5.3"
+}

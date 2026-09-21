@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo Metushelahi anakhalabe zaka zana limodzi ndi makumi asanu ndi atatu ndi zisanu ndi ziwiri, ndipo anabala ⟨את⟩ Lemekhi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "anakhalabe"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metushelahi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zisanu ndi ziwiri"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "makumi asanu ndi atatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "zana limodzi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lemekhi"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemekhi"
+    }
+  ],
+  "timestamp": "2026-09-21T14:21:10.868810668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo anali ndi akazi akulu, mazana asanu ndi awiri, ndi kheteseni mazana atatu; ndipo akazi ake adachozera ⟨את⟩ mtima wake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo anali"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ndi iye"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "akazi"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "akulu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "asanu ndi awiri"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "ndi kheteseni"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "adachozera"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "akazi ake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtima wake"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "mtima wake"
+    }
+  ],
+  "timestamp": "2026-09-21T14:25:35.295768021Z",
+  "model": "glm-5.3"
+}

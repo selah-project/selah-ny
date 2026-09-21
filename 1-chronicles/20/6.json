@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 20:6",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo kunabweranso nkhondo ku Gati; kunapezekanso munthu wachitali, ndi zisindizi zake zisanu ndi chimodzi ndi zisanu ndi chimodzi, makumi awiri ndi zinayi pamodzi; ndipo iye yemweyo anakabadwa kwa Harapa.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "kunabweranso"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "koposa"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "nkhondo"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "ku Gati"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kunapezekanso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "wachitali"
+    },
+    {
+      "surface": "ואצבעתיו",
+      "gloss": "ndi zisindizi zake"
+    },
+    {
+      "surface": "שש",
+      "gloss": "zisanu ndi chimodzi"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ndi zisanu ndi chimodzi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi awiri"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ndi zinayi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndipo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye yemweyo"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "anakabadwa"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "kwa Harapa"
+    }
+  ],
+  "timestamp": "2026-09-21T14:28:32.498423453Z",
+  "model": "glm-5.3"
+}

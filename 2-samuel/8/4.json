@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 8:4",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo Davide anagwira kwa iye chikwi ndi mazana asanu ndi awiri a mahachi, ndi anthu a mapazi makumi awiri a zikwi; ndipo Davide anaphwanya ⟨את⟩ magalimo onse, ndipo anasiyira mwa iwo zana la mahachi.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "anagwira"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "chikwi"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ndi zisanu ndi ziwiri"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "a mahachi"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "makumi awiri"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "a zikwi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "a mapazi"
+    },
+    {
+      "surface": "ויעקר",
+      "gloss": "anaphwanya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magalimo onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "magalimo"
+    },
+    {
+      "surface": "ויותר",
+      "gloss": "anasiyira"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mwa iwo"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zana"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "la mahachi"
+    }
+  ],
+  "timestamp": "2026-09-21T14:24:42.788899471Z",
+  "model": "glm-5.3"
+}

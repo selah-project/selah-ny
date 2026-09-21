@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 14:21",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo anthu onse a Yehuda anatenga ⟨את⟩ Azaria, ndipo iye anali wazaka khumi ndi zisanu ndi chimodzi, ndipo anamulamulitsa ⟨אתו⟩ m'malo mwa abambo ake Amatseya.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaria"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaria"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ndipo iye"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wazaka (wana wa)"
+    },
+    {
+      "surface": "שש",
+      "gloss": "khumi ndi zisanu ndi chimodzi (gawo la nambala)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(gawo la nambala: -nayi ndi chimodzi)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "anamulamulitsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iye (Azaria)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "m'malo mwa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "abambo ake"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatseya"
+    }
+  ],
+  "timestamp": "2026-09-21T14:25:29.006396386Z",
+  "model": "glm-5.3"
+}

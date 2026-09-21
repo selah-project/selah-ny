@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo mikango khumi ndi ziwiri yoyimirira pomwepo, pa makwerero zisanu ndi chimodzi, pa mbali ino ndi pa mbali ino; palibe chomwe chinachitidwa chotere ku maufumu onse.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "ndi ziwiri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "mikango"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "yoyimirira"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pomwepo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "zisanu ndi chimodzi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "makwerero"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "pa mbali ino"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "ndi pa mbali ino"
+    },
+    {
+      "surface": "לא",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "chinachitidwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chotere"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku onse"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "maufumu"
+    }
+  ],
+  "timestamp": "2026-09-21T14:26:04.165441977Z",
+  "model": "glm-5.3"
+}

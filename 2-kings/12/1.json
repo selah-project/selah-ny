@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Mwana wazaka zisanu ndi ziwiri ⟨ali⟩ Yehoash pamene analamulira.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zisanu ndi ziwiri"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "pamene analamulira"
+    }
+  ],
+  "timestamp": "2026-09-21T14:25:50.562563568Z",
+  "model": "glm-5.3"
+}

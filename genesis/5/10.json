@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo Enoshi anakhalabe, atabala ⟨את⟩ Keyinani, zaka zisanu ndi chiwiri ndi mazana asanu ndi atatu, ndipo anabala anaamuna ndi anaakazi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "anakhalabe"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoshi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "atapitirira"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "atabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keyinani"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Keyinani"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "zisanu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ndi chiwiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ndi mazana asanu ndi atatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anaamuna"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "anaakazi"
+    }
+  ],
+  "timestamp": "2026-09-21T14:20:48.774012434Z",
+  "model": "glm-5.3"
+}

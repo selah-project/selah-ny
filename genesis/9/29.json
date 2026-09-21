@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo masiku onse a Noachi anali mazana asanu ndi anayi <0xE0><0xB5><0xA6>aka makumi asanu, ndipo anafa.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "analinedi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "masiku a"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachi"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "mazana asanu ndi anayi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ndi makumi asanu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ndipo anafa"
+    }
+  ],
+  "timestamp": "2026-09-21T14:20:58.145014886Z",
+  "model": "glm-5.3"
+}
