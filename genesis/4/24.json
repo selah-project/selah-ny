@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Pakuti Kayini adzawomboledwa zisanu ndi ziwiri kanayi, koma Lemechi makumi asanu ndi awiri ndi zisanu ndi ziwiri kanayi.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "zisanu ndi ziwiri kanayi"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "adzawomboledwa"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayini"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "koma Lemechi"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "makumi asanu ndi awiri"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ndi zisanu ndi ziwiri"
+    }
+  ],
+  "timestamp": "2026-09-21T15:32:16.257059674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo ine ndidzayenda ndi inu mu mkwiyo wa keri, ndipo ndidzalanga ⟨את⟩ inu, ndiponso ine, kazisanu ndi kaziwiri pa machimo anu.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "ndipo ine ndidzayenda"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ndi inu"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "mu mkwiyo wa"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "keri"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "ndipo ndidzalanga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "kazisanu ndi kaziwiri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "machimo anu"
+    }
+  ],
+  "timestamp": "2026-09-21T15:33:22.724926885Z",
+  "model": "glm-5.3"
+}

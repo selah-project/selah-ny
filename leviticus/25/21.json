@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo Ine ndidzalamula ⟨את⟩ dalitso langa kwa inu mu chaka chachisanu ndi chimodzi, ndipo lidzachita ⟨את⟩ zipatso zake za zaka zitatu.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "ndipo ndidzalamaulira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalitso langa"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "dalitso langa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mu chaka"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "chachisanu ndi chimodzi"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "ndipo lidzachita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zipatso zake"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "zipatso zake"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "za zaka zitatu"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "zaka zitatu"
+    }
+  ],
+  "timestamp": "2026-09-21T15:32:55.762817912Z",
+  "model": "glm-5.3"
+}

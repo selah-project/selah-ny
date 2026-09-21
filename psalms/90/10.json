@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 90,
+  "translation": "Masiku a zaka zathu mu iwo ndi zaka makumi asanu ndi awiri, ndipo ngati mwa mphamvu, zaka makumi asanu ndi atatu; koma kudzikweza kwawo ndi usautso ndi choipa, pakuti ⟨zimadulidwa⟩ mwachangu, ndipo tiphunzira ⟨kupita⟩.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Masiku"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "a zaka zathu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mu iwo"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "makumi asanu ndi awiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ndipo ngati"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "mwa mphamvu"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "makumi asanu ndi atatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "koma kudzikweza kwawo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "usautso"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ndi choipa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "גז",
+      "gloss": "⟨zimadulidwa⟩"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "mwachangu"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "ndipo tiphunzira ⟨kupita⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T15:35:51.782205163Z",
+  "model": "glm-5.3"
+}

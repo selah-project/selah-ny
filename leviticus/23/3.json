@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 23:3",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Masiku asanu ndi limodzi ntchito yidzachitidwa, koma pa tsiku lachisanu ndi chiwiri Sabata, Sabata yathunthu, msonkhano wopatulika; ntchito iliyonse simudzaichita; Sabata ndiyo ⟨iyo⟩ ya Yahwe m'malo onse anu omukhalamo.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "masiku asanu ndi limodzi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yidzachitidwa"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "koma pa tsiku"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "lachisanu ndi chiwiri"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabata"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Sabata yathunthu"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "msonkhano wopatulika"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "wopatulika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iliyonse"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "simudzaichita"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabata"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiyo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "m'malo onse"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "anu omukhalamo"
+    }
+  ],
+  "timestamp": "2026-09-21T15:32:57.804364655Z",
+  "model": "glm-5.3"
+}

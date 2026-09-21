@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 15:1",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "M'chaka lachisanu ndi chiwiri la kulamulira kwa Yaravamu, mfumu ya Yisraeli, Azarya mwana wa Amatsya, mfumu ya Yuda, anayamba kulamulira.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "m'chaka la"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi awiri"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ndi asanu ndi awiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "chaka"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "la kulamulira kwa Yaravamu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "anayamba kulamulira"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amatsya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    }
+  ],
+  "timestamp": "2026-09-21T15:35:14.661492152Z",
+  "model": "glm-5.3"
+}

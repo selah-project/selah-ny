@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 11:19",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Pelegu anakhalabe atabala ⟨את⟩ Rewu zaka zisanu ndi zinayi ndi mazana awiri, natabala ana amuna ndi ana akazi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "anakhalabe"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Pelegu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ata"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "bala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rewu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Rewu"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "zisanu ndi zinayi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ndi mazana awiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "natabala"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ana amuna"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ana akazi"
+    }
+  ],
+  "timestamp": "2026-09-21T15:32:19.034475398Z",
+  "model": "glm-5.3"
+}

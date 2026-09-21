@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo maziko anali miyala ya mtengo wapatali, miyala yaikulu, miyala ya miyeso khumi, ndi miyala ya miyeso zisanu ndi zitatu.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "ndipo maziko"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "miyala"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "ya mtengo wapatali"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "miyala"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "yaikulu"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "miyala ya"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "miyeso"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ndi miyala ya"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "zisanu ndi zitatu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "miyeso"
+    }
+  ],
+  "timestamp": "2026-09-21T15:33:59.529107701Z",
+  "model": "glm-5.3"
+}

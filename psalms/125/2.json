@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 125,
+  "translation": "Yerushalayimu — mapiri ali kuzungulira ⟨iye⟩; ndipo Yahwe ali kuzungulira anthu ake, kuyambira tsopano mpaka ku nthawi zosatha.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kuzungulira"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨iye⟩"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ndipo Yahwe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kuzungulira"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "anthu ake"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kuyambira tsopano"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpaka ku"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nthawi zosatha"
+    }
+  ],
+  "timestamp": "2026-09-21T15:35:50.734183023Z",
+  "model": "glm-5.3"
+}

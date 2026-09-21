@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Yahwe adati kwa Moshe: “Chipolango chimodzi chinanso ndidzabweretsa pa Paro ndi pa Mitsrayimu; pambuyo pake adzatuma ⟨את⟩ inu kuchokera pano. Pamene akutuma ⟨את⟩ inu, mokwanira adzakuchotsani, adzakuchotsani ndithu ⟨את⟩ inu kuchokera pano.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "chinanso"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "chipolango"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "chimodzi"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ndidzabweretsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pambuyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "pake"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "adzatuma"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kuchokera pano"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "pamene akutuma"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "mokwanira"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "adzakuchotsani"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "adzakuchotsani ndithu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kuchokera pano"
+    }
+  ],
+  "timestamp": "2026-09-21T15:32:17.311170853Z",
+  "model": "glm-5.3"
+}

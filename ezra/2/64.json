@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Msonkhano wonse lapansi ⟨munthu⟩ mmodzi: zikwi inayi, zikwi ziwiri, mazana atatu, makumi asanu ndi limodzi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "msonkhano"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "monga munthu mmodzi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "zinayi"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "zikwi (lizunga)"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "zikwi ziwiri"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "zitatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana atatu"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "makumi asanu ndi limodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T15:35:30.193046573Z",
+  "model": "glm-5.3"
+}

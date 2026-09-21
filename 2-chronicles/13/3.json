@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 13:3",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo Aviya anakonza ⟨את⟩ nkhondo ndi gulu la ankhondo olemera, anthu mazana anayi ndi zikwi zinayi, odindikira; ndipo Yeroboyamu anakonza nkhondo ndi iye ndi anthu mazana asanu ndi atatu ndi zikwi zinayi, odindikira, olemera mphamvu.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "Ndipo Aviya anakonza"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhondo"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "nkhondo"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "ndi gulu"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "ankhondo olemera"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ankhondo"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "anayi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "zikwi zinayi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "odindikira"
+    },
+    {
+      "surface": "וירבעם",
+      "gloss": "ndipo Yeroboyamu"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "anakonza"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndi iye"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "nkhondo"
+    },
+    {
+      "surface": "בשמונה",
+      "gloss": "asanu ndi atatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "zikwi zinayi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "odindikira"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "olemera mphamvu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mphamvu"
+    }
+  ],
+  "timestamp": "2026-09-21T15:36:33.416724136Z",
+  "model": "glm-5.3"
+}

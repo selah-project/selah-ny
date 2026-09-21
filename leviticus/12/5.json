@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 12:5",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Koma ngati atabala ⟨את⟩ mwana wamkazi, adzakhala wodetsedwa masabata awiri, monga pa kudontha kwake kwa mwazi; ndipo masiku makumi asanu ndi limodzi ndi masiku zisanu ndi chimodzi adzakhala pa mwazi wa chiyero chake.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "koma ngati"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "mwana wamkazi"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "atabala"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "adzakhala wodetsedwa"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "masabata awiri"
+    },
+    {
+      "surface": "כנדתה",
+      "gloss": "monga pa kudontha kwake kwa mwazi"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "makumi asanu ndi limodzi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "ndi zisanu ndi chimodzi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "mwazi"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "chiyero chake"
+    }
+  ],
+  "timestamp": "2026-09-21T15:32:53.821604708Z",
+  "model": "glm-5.3"
+}

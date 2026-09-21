@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "M'chaka chakhumi ndi chisanu ndi chitatu la ufumu wa mfumu Yarobhawamu, Aviya anachita ufumu pa Yuda.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "m'chaka"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "chisanu ndi chitatu (zisanu ndi zitatu, 8)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "khumi (10)"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "la ufumu wa mfumu"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobhawamu"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "anachita ufumu"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviya"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    }
+  ],
+  "timestamp": "2026-09-21T15:36:59.351425499Z",
+  "model": "glm-5.3"
+}

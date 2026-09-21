@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo masiku onse a Enoshi anali zaka zisanu ndi zaka mazana asanu ndi anayi, naye anafa.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ndipo anali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "a Enoshi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "zisanu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ndi mazana asanu ndi anayi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "naye anafa"
+    }
+  ],
+  "timestamp": "2026-09-21T15:32:05.919078180Z",
+  "model": "glm-5.3"
+}

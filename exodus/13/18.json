@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo Elohim adatembenuza ⟨את⟩ anthu njira ya chipululu kumwamba kwa nyanja ya mpingi; ndipo ana a Yisraeli anakwera ⟨odedwa ndi zida⟩ kuchokera m'dziko la Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "adatembenuza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njira ya"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "chipululu"
+    },
+    {
+      "surface": "ים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ya mpingi"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "⟨odedwa ndi zida⟩"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "anakwera"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "m'dziko la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T15:32:00.983817194Z",
+  "model": "glm-5.3"
+}

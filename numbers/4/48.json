@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo mawerengedwe awo anakhalA zikwi zisanu ndi zitatu ndi mazana asanu ndi makumi asanu ndi atatu.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ndipo … anakhalA"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "mawerengedwe awo"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "zisanu ndi zitatu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "zikwi"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ndi mazana asanu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ndi makumi asanu ndi atatu"
+    }
+  ],
+  "timestamp": "2026-09-21T15:32:54.364664191Z",
+  "model": "glm-5.3"
+}

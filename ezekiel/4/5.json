@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 4:5",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo ineyo ndapatsa iwe ⟨את⟩ zaka za mphulupulu yawo, monga chiwerengero cha masiku, masiku mazana atatu ndi makumi asanu ndi zinayi; ndipo udzanyamula mphulupulu wa nyumba ya Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ndipo ineyo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndapatsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zaka za mphulupulu yawo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "mphulupulu yawo"
+    },
+    {
+      "surface": "למספר",
+      "gloss": "monga chiwerengero"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "ndi makumi asanu ndi zinayi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "ונשאת",
+      "gloss": "ndipo udzanyamula"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mphulupulu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wa nyumba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T15:34:43.795420742Z",
+  "model": "glm-5.3"
+}

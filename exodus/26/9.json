@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo ulumikize ⟨את⟩ mahengo zisanu okha, ndi ⟨את⟩ mahengo zisanu ndi chimodzi okha; ndipo getsanitsa ⟨את⟩ hengo lachisanu ndi chimodzi patsogolo pa ihema.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "Ndipo ulumikize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahengo zisanu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "zisanu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "mahengo"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "okha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mahengo zisanu ndi chimodzi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "zisanu ndi chimodzi"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "mahengo"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "okha"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "ndipo getsanitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hengo lachisanu ndi chimodzi"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "hengo"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "lachisanu ndi chimodzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מול",
+      "gloss": "patsogolo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pa nkhope <patsogolo>"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ihema"
+    }
+  ],
+  "timestamp": "2026-09-21T15:32:19.000184247Z",
+  "model": "glm-5.3"
+}

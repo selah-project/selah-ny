@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 7:15",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo iye anapanga ⟨את⟩ mapilara awiri a mkuwa; miyeso khumi ndi zitatu ndi kutalika kwa pillar limodzi, ndipo chingwe cha miyeso khumi ndi ziwiri chinkazinga ⟨את⟩ pillar lachiwiri.",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapilara awiri"
+    },
+    {
+      "surface": "שני",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "mapilara"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "mkuwa"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "zitatu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "khumi ndi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "miyeso"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "kutalika"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "pillar"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "limodzi"
+    },
+    {
+      "surface": "וחוט",
+      "gloss": "ndipo chingwe"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "khumi ndi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "miyeso"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "chinkazinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pillar lachiwiri"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "pillar"
+    },
+    {
+      "surface": "השני",
+      "gloss": "lachiwiri"
+    }
+  ],
+  "timestamp": "2026-09-21T15:35:03.879605979Z",
+  "model": "glm-5.3"
+}

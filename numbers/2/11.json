@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "ndi gulu lake lankhondo, ndi owerengedwa ake, zisanu ndi chimodzi ndi makumi anayi chikwi, ndi mazana asanu.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ndi gulu lake lankhondo"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "ndi owerengedwa ake"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "zisanu ndi chimodzi"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ndi makumi anayi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "chikwi"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ndi mazana asanu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana asanu"
+    }
+  ],
+  "timestamp": "2026-09-21T15:32:57.648435040Z",
+  "model": "glm-5.3"
+}

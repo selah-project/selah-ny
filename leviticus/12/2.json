@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 12:2",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Yankhula kwa ana a Yisraeli, nati: Mkazi akatayala mbewu ndi kubala mwana wamwamuna, adzakhala wodziyeretsa masiku zisanu ndi ziwiri; monga masiku a chiyeretso cha udwalo wake adzakhala wodziyeretsa.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Yankhula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "Mkazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "aka"
+    },
+    {
+      "surface": "תזריע",
+      "gloss": "katayala mbewu"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "ndi kubala"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mwana wamwamuna"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "adzakhala wodziyeretsa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "zisanu ndi ziwiri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "monga masiku a"
+    },
+    {
+      "surface": "נדת",
+      "gloss": "chiyeretso cha"
+    },
+    {
+      "surface": "דותה",
+      "gloss": "udwalo wake"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "adzakhala wodziyeretsa"
+    }
+  ],
+  "timestamp": "2026-09-21T15:32:20.015750108Z",
+  "model": "glm-5.3"
+}

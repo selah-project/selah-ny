@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo anapanga ⟨את⟩ chipinda cha mizati, kuita kwake amah makumi asanu, ndi m'chifupi chake amah makumi atatu; ndipo chipinda chili pamaso pawo, ndi mizati ndi dongo lambalame chili pamaso pawo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chipinda cha mizati"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "chipinda"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "cha mizati"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "makumi asanu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amah"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "kuita kwake"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "makumi atatu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amah"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "m'chifupi chake"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "ndipo chipinda"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "maso pawo"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "ndi mizati"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "ndi dongo lambalame"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "maso pawo"
+    }
+  ],
+  "timestamp": "2026-09-21T15:34:10.200295375Z",
+  "model": "glm-5.3"
+}

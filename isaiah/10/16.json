@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 10:16",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Choncho Adonayi, Yahwe Tsevaoti, adzatuma kusuta mwa obiriwira ake, ndi pansi pa ulemerero wake kudzayaka moto woyaka, monga kuyaka kwa moto.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Choncho"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "adzatuma"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "במשמניו",
+      "gloss": "mwa obiriwira ake"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "kusuta"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ndi pansi pa"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "ulemerero wake"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "kudzayaka"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "moto woyaka"
+    },
+    {
+      "surface": "כיקוד",
+      "gloss": "monga kuyaka kwa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-09-21T15:34:33.830617971Z",
+  "model": "glm-5.3"
+}

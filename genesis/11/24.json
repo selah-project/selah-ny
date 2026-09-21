@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Nachori anakhalanso zaka makumi awiri ndi zisanu ndi zinayi, ndipo anabala ⟨את⟩ Terahi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "anakhalanso"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachori"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ndi zisanu ndi zinayi"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "makumi awiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ndipo anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terahi"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terahi"
+    }
+  ],
+  "timestamp": "2026-09-21T15:32:08.960561755Z",
+  "model": "glm-5.3"
+}

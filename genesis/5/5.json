@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo masiku onse a Adamu amene anakhalamo moyo adakhala zaka mazana asanu ndi anayi ndi zaka makumi atatu, ndipo anafa.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "adakhala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a Adamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "חי",
+      "gloss": "anakhalamo moyo"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "asanu ndi anayi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ndi makumi atatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ndipo anafa"
+    }
+  ],
+  "timestamp": "2026-09-21T15:31:59.422194929Z",
+  "model": "glm-5.3"
+}
