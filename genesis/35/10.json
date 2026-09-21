@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 35:10",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Ndipo Elohim anamuyankha nati: “Dzina lako ndi Yaakovovi; dzina lako silidzatchedwanso Yaakovovi, koma Yisraeli likhale dzina lako.” Ndipo anaita dzina lake ⟨את⟩ Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anamuyankha nati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dzina lako"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovovi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "lidzatchedwanso"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dzina lako"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kanso"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovovi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨kokha⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "likhale"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dzina lako"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ndipo anaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzina lake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dzina lake"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T15:03:55.084004474Z",
+  "model": "glm-5.3"
+}

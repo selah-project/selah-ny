@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ayi, osati choncho alakwika; koma ali monga chibvutiro chimene mphepo imazidutsa pallitali.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "choncho"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "alakwika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "monga"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "chibvutiro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "imazidutsa pallitali"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mphepo"
+    }
+  ],
+  "timestamp": "2026-09-21T15:10:20.295769643Z",
+  "model": "glm-5.3"
+}

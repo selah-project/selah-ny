@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 76,
+  "translation": "Anavutitsidwa olimbika mtima; anagona tulo lawo, ndipo amuna onse a mphamvu sanapeza manja awo.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "anavutitsidwa"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "olimbika"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "anagona"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "tulo lawo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sanapeza"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "⟨sanapeza⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "amuna"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "a mphamvu"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "manja awo"
+    }
+  ],
+  "timestamp": "2026-09-21T15:14:22.585181826Z",
+  "model": "glm-5.3"
+}

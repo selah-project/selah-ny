@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 128,
+  "translation": "Ntchito za manja ako udzazidya; wodala iwe, ndipo zabwino ⟨zidzakhala⟩ kwa iwe.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "za manja ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨pamene⟩"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "udzazidya"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "wodala iwe"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ndipo zabwino"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T15:10:31.043327052Z",
+  "model": "glm-5.3"
+}

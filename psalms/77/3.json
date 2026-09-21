@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 77,
+  "translation": "Tsiku la chisautso changa ndinafufuza Adonayi; dzanja langa usiku linatambasuka ndipo silinafuke; moyo wango anakana kutonthozedwa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "tsiku la"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "chisautso changa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ndinafufuza"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "dzanja langa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "linatambasuka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si-"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "-linafuke"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "anakana"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "kutonthozedwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wango"
+    }
+  ],
+  "timestamp": "2026-09-21T15:10:26.520343943Z",
+  "model": "glm-5.3"
+}

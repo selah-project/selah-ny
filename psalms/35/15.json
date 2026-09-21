@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Poza chidole changa anakondwera, ndipo anasonkhana; anasonkhana pa ine ochitira nkhaza, ndipo sindinadziwe; anandikwapula, ndipo sanaleke.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "poza chidole changa"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "anakondwera"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "ndipo anasonkhana"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "anasonkhana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "ochitira nkhaza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo ayi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "sindinadziwe"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "anandikwapula"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo ayi"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sanaleke"
+    }
+  ],
+  "timestamp": "2026-09-21T15:10:54.692771192Z",
+  "model": "glm-5.3"
+}

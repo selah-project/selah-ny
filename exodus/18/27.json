@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo Moshe anatuma ⟨את⟩ mkulu wake wa ukwati, ndipo iye anapita ⟨kwa iye⟩ ku dziko lake.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "anatuma"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkulu wake wa ukwati"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "mkulu wake wa ukwati"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "anapita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kwa iye⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "dziko lake"
+    }
+  ],
+  "timestamp": "2026-09-21T15:04:06.198835509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 55,
+  "translation": "Ho! inu onse oludzu, idzani ku madzi; ndipo wosakhala ndi chikhumi, idzani, gulani, ndipo mudye; ndipo idzani, gulani popanda chikhumi ndi popanda malipiro vinyo ndi mkaka.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ho!"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onu onse"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "oludzu"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "idzani"
+    },
+    {
+      "surface": "למים",
+      "gloss": "ku madzi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ndipo iye amene"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alibe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨iye⟩"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "chikhumi"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "idzani"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "gulani"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ndipo mudye"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ndipo idzani"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "gulani"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "popanda"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "chikhumi"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "ndi popanda"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "malipiro"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vinyo"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "ndi mkaka"
+    }
+  ],
+  "timestamp": "2026-09-21T15:08:25.136627803Z",
+  "model": "glm-5.3"
+}

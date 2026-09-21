@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 66:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 66,
+  "translation": "Wolamulira m'mphamvu zake ku nthawi zosatha; maso ake akuyang'anira m'mafuko; opandukira asadzikuze ⟨iwo⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "Wolamulira"
+    },
+    {
+      "surface": "בגבורתו",
+      "gloss": "m'mphamvu zake"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ku nthawi zosatha"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "maso ake"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "m'mafuko"
+    },
+    {
+      "surface": "תצפינה",
+      "gloss": "akuyang'anira"
+    },
+    {
+      "surface": "הסוררים",
+      "gloss": "opandukira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asa-"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "-dzikuze"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨iwo⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah."
+    }
+  ],
+  "timestamp": "2026-09-21T15:10:43.202047027Z",
+  "model": "glm-5.3"
+}

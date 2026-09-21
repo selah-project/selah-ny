@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 48,
+  "translation": "Chifukwa ndinadziwa kuti iwe ndi wokana, ndipo msingo wako ndi chinga cha tshipi, ndi phanda lako ndi mkuwa.",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "chinadziwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "wokana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "ndi chinga"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "cha tshipi"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "msingo wako"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "ndi phanda lako"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "mkuwa"
+    }
+  ],
+  "timestamp": "2026-09-21T15:07:47.501102761Z",
+  "model": "glm-5.3"
+}

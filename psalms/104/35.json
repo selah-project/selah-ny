@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 104,
+  "translation": "Akhetse achimwa m'dziko lapansi, ndipo oipa asabebe: Ndilemekeze moyo wanga ⟨את⟩ Yahwe. Yamikani Yah.",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "Akhetse"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "achimwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "m'"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ndipo oipa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "konse"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "asabebe"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Ndilemekeze"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Yamikani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-21T15:10:44.712148551Z",
+  "model": "glm-5.3"
+}

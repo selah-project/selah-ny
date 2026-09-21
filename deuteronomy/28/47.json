@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 28:47",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Chifukwa cha kuti sunatumikire ⟨את⟩ Yahwe Elohim wako m'chisangalalo ndi m'chisangalalo cha mtima, chifukwa cha kuchuluka kwa zonse.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "sunatumikire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim wako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "m'chisangalalo"
+    },
+    {
+      "surface": "ובטוב",
+      "gloss": "ndi m'chisangalalo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "cha mtima"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "chifukwa cha kuchuluka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kwa zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T15:04:55.488526333Z",
+  "model": "glm-5.3"
+}

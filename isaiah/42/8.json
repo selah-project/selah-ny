@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Ine ndine Yahwe; ameneyo ndiye dzina langa; ndipo ulemerero wanga sindidzapatsa kwa wina, ndi mayamiko anga kwa zithunzi zolembedwa.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ameneyo ndiye"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "dzina langa"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ndipo ulemerero wanga"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "kwa wina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi-"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "-dapatsa"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "ndi mayamiko anga"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "kwa zithunzi zolembedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T15:08:13.896760335Z",
+  "model": "glm-5.3"
+}

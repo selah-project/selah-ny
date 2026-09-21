@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 128,
+  "translation": "Taona, ndithu kotero adadalaledwa munthu woopa Yahwe.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Taona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kotero"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "adadalaledwa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "woopa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T15:10:27.324525205Z",
+  "model": "glm-5.3"
+}

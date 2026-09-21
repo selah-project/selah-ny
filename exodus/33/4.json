@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Ndipo anthu amva ⟨את⟩ mawu olipa awa, nalira; ndipo palibe munthu anaika zokometsera zake pa iye.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "amva"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu olipa awa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "olipa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "nalira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "anaika"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "zokometsera zake"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T15:04:01.787996792Z",
+  "model": "glm-5.3"
+}

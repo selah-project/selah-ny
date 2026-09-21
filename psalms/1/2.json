@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Koma ayi — chikondwerero chake chili m'Tora (chilamulo) ya Yahwe, ndipo m'Tora yake amayibzerezabe usana ndi usiku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "koma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "m'Tora (chilamulo) ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "chikondwerero chake"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "ndipo m'Tora yake"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "amayibzerezabe"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "usana"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ndi usiku"
+    }
+  ],
+  "timestamp": "2026-09-21T15:10:45.858504569Z",
+  "model": "glm-5.3"
+}

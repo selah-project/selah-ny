@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Yahwe adati: Chifukwa chakusiya kwawo ⟨את⟩ Tora yanga imene ndinaika patsogolo pawo, ndipo sanamve m'mawu anga, ndipo sanayende m'meneyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo adati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "Chifukwa chakuti"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "asiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora yanga"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora yanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndinaika"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "patsogolo pawo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sanamuve"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kumva"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "m'mawu anga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sanayende"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "kuyenda"
+    },
+    {
+      "surface": "בה",
+      "gloss": "m'meneyo"
+    }
+  ],
+  "timestamp": "2026-09-21T15:08:09.242444574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo Moshe adalemba ⟨את⟩ mawu onse a Yahwe, nadzuka mmamawa, namanga chiguŵiro pansi pa phiri, ndi mipillala khumi ndi ziwiri ya mafunde khumi ndi awiiri a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "adalemba"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "nadzuka mmamawa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mmamawa"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "namanga"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "chiguŵiro"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "khumi ndi ziwiri"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ziwiri (ya khumi ndi ziwiri)"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "mipillala"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "ya mafunde"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "khumi ndi awiiri"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "mafunde"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T15:03:43.825690639Z",
+  "model": "glm-5.3"
+}

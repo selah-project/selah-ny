@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo dzuwa litagwa, adzayeretsedwa, ndipo pambuyo pake adzadya wa zopatulidwa, chifukwa imeneyi ndi chakudya chake.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "litagwa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dzuwa"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "adzayeretsedwa"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "pambuyo pake"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "adzadya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "zopatulidwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "chakudya chake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "imeneyi"
+    }
+  ],
+  "timestamp": "2026-09-21T15:04:18.526188685Z",
+  "model": "glm-5.3"
+}

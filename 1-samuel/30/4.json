@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo Davide ndi anthu amene anali ⟨את⟩ naye ananyamula ⟨את⟩ mawu awo, ndipo analira, kufikira pamene sanali nako mphamvu mwa iwo yokalira.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ananyamula"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ndi anthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye",
+      "marks": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu awo"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "mawu awo"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "analira"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pamene"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mwa iwo"
+    },
+    {
+      "surface": "כח",
+      "gloss": "mphamvu"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "yokalira"
+    }
+  ],
+  "timestamp": "2026-09-21T15:05:35.247924889Z",
+  "model": "glm-5.3"
+}
