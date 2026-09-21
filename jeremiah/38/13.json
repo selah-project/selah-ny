@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 38:13",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Ndipo adamutulutsa ⟨את⟩ Yirmeyahu ndi zingwe, ndipo adamutulutsa ⟨אתו⟩ m'khole muja, ndipo Yirmeyahu anakhala m'mbuye waotcha.",
+  "tokens": [
+    {
+      "surface": "וימשכו",
+      "gloss": "adamutulutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בחבלים",
+      "gloss": "ndi zingwe"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "adamutulutsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "m'"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "khole muja"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "m'mbuye"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "waotcha"
+    }
+  ],
+  "timestamp": "2026-09-21T13:56:08.813238474Z",
+  "model": "glm-5.3"
+}

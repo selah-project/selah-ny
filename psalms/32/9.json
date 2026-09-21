@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Musakhale ngati bhiza, ngati bulu, opanda kuzindikira; ndi chotchinga ndi chidebe chamu kamwa, ngati kudzikongoletsa kwawo, kuliwaleza, kuti asafike kwa iwe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Musakhale"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "musakhale"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "ngati bhiza"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "ngati bulu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "opanda"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "kuzindikira"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "ndi chotchinga"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "ndi chidebe chamu kamwa"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "ngati kudzikongoletsa kwawo"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "kuliwaleza"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kuti asa-"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "-fike"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T13:56:14.600833020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Zowawa zambiri zidzapeza woipa; koma wokhulupirira mwa Yahwe, khesedi chidzamuzungulira.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "zambiri"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "zowawa"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "zidzapeza woipa"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "koma wokhulupirira"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "mwa Yahwe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesedi"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "chidzamuzungulira"
+    }
+  ],
+  "timestamp": "2026-09-21T13:56:14.601082513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 12:7",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo Natani anati kwa Davide: “Inu ndinunso munthuyo.” Motero anati Yahwe, Elohim wa Yisraeli: “Ine ndinakodzerani kukhala mfumu pa Yisraeli, ndipo Ine ndinakupulumutsani m'dzanja la Shauli.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Inu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ndinunso munthuyo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Motero"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "ndinakodzerani"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kukhala mfumu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ndipo Ine"
+    },
+    {
+      "surface": "הצלתיך",
+      "gloss": "ndinakupulumutsani"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    }
+  ],
+  "timestamp": "2026-09-21T13:55:04.818731305Z",
+  "model": "glm-5.3"
+}

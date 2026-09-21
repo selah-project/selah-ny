@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Masautso awo adzaonjezeka, iwo amathamangira mulungu wina; sadzakatura nsembe zawo za magazi, ndiponso sadzaletsa ⟨את⟩ maina awo pa milomo yanga.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "adzaonjezeka"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "masautso awo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mulungu wina"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "amathamangira"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sadza"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "katura"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "nsembe zawo"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "za magazi"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ndiponso sadza"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "letsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maina awo"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "maina awo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "milomo yanga"
+    }
+  ],
+  "timestamp": "2026-09-21T13:55:46.062414323Z",
+  "model": "glm-5.3"
+}

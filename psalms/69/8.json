@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Pakuti chifukwa cha iwe ndinanyamula chidzudzulo; chinyeso chafunda nkhope yanga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "chifukwa cha iwe"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ndinanyamula"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "chidzudzulo"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "chafunda"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "chinyeso"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope yanga"
+    }
+  ],
+  "timestamp": "2026-09-21T13:55:10.379882366Z",
+  "model": "glm-5.3"
+}

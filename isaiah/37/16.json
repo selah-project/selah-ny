@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Yahwe Tsevaoti, Elohim wa Yisraeli, wokhala pa akherubi, iwe ndiwe Elohim yekha, wa ufumu wonse wa dziko lapansi; iwe anapanga ⟨את⟩ kumwamba ndi ⟨את⟩ dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wokhala"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "pa akherubi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiwe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "yekha"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wa ufumu wonse"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "wa ufumu wonse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa dziko lapansi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kumwamba"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "dziko lapansi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T13:55:40.682526950Z",
+  "model": "glm-5.3"
+}

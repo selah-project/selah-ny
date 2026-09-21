@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Kodi sindinakulemba kwa iwe katatu, m'zamulungu ndi m'chidziwitso?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Kodi si…"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "ndinakulemba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "katatu"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "m'zamulungu"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ndi m'chidziwitso"
+    }
+  ],
+  "timestamp": "2026-09-21T13:55:50.772689818Z",
+  "model": "glm-5.3"
+}

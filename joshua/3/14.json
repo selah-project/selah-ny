@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 3:14",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo chinachitika, potuluka anthu m'mahema awo kulowa ⟨את⟩ Yarden, ndipo ansembe olamba sanduku la pangano anali patsogolo pa anthu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo chinachitika"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "potuluka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "מאהליהם",
+      "gloss": "m'mahema awo"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "kulowa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ndipo ansembe"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "olamba"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sanduku la"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "pangano"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "patsogolo pa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:55:06.494199082Z",
+  "model": "glm-5.3"
+}

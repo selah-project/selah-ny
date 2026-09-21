@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Wachisanu ndi anayi mwa khumi kwa Pitahiya, makumi awiri kwa Yechezkeli.",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "kwa Pitahiya"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "wisanu ndi anayi mwa khumi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(mwa khumi)"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "kwa Yechezkeli"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "makumi awiri"
+    }
+  ],
+  "timestamp": "2026-09-21T13:56:18.530508088Z",
+  "model": "glm-5.3"
+}

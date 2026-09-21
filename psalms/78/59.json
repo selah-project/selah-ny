@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Elohim anamva, nidasira, ndipo anakana kwakukulu m'Yisraeli.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "anamva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "nidasira"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "anakana"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwakukulu"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "m'Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T13:55:36.890106782Z",
+  "model": "glm-5.3"
+}

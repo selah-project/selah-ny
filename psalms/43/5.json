@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 43:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 43,
+  "translation": "Munthu wanga ⟨wanga⟩, chifukwa chiyani umasinkhasinkha, ndi chifukwa chiyani ukangongomerera mwa ine? Yembekezera Elohim, chifukwa ndidzamutamandidabe; ⟨ndithu⟩ chipulumutso cha nkhope yanga, ndi Elohim wanga.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "chifukwa chiyani"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "umasinkhasinkha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ndi chifukwa chiyani"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "ukangongomerera"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mwa ine"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "yembekezera"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dabe"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "ndidzamutamandidabe"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "chipulumutso cha"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhose yanga"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ndi Elohim wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T13:55:21.621051946Z",
+  "model": "glm-5.3"
+}

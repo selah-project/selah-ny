@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 15:18",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo anachita choipa pamaso pa Yahwe; sanatembenuke ku machimo a Yarobhoamu mwana wa Nevata, amene anachimwitsa ⟨את⟩ Yisraeli, masiku onse ake.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ndipo anachita"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sanatembenuke"
+    },
+    {
+      "surface": "סר",
+      "gloss": "kutembenuka"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "machimo a"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobhoamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "anachimwitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse a"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "masiku ake"
+    }
+  ],
+  "timestamp": "2026-09-21T13:55:01.231607353Z",
+  "model": "glm-5.3"
+}
