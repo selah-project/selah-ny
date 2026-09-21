@@ -108,7 +108,7 @@ word) · the order of hundreds and units in Genesis 5's ages.
 `ny_census_fixes.py`: fabricated 1 (Dan 3:12) · missing 0 · bare 0 · short 0 ·
 erasure 0 · convict 0 · number 20 · flownumber 29 · homoglyph 45 files.
 `ny_gate`: את surfaces 9,615 — 12 without a marker in the row (the floor carries
-none on them either; seats where את is *with*), 1 fabricated (Dan 3:12).
+none on them either — not read one by one; likely את as *with*), 1 fabricated (Dan 3:12).
 12 flows with a non-Latin letter outside brackets.
 
 **The hand list:** the 20 + 29 number seats the scan still names · Gen 11:13 ·
