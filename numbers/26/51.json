@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "ny",
   "chapter": 26,
-  "translation": "Awa ndiwo olengedwa mndandanda a ana a Yisraeli: mazana asanu ndi atatu okha mwa zikwi, ndi chikwi chimodzi, mazana asanu ndi awiri okha, ndi makumi atatu ndi asanu.",
+  "translation": "Awa ndi owerengedwa a ana a Yisraeli: mazana asanu ndi atatu a zikwi, ndi chikwi chimodzi, mazana asanu ndi awiri okha, ndi makumi asanu ndi atatu.",
   "tokens": [
     {
       "surface": "אלה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "פקודי",
-      "gloss": "olengedwa mndandanda"
+      "gloss": "owerengedwa a"
     },
     {
       "surface": "בני",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "שש",
-      "gloss": "〈asanu ndi atatu〉"
+      "gloss": "⟨asanu ndi atatu⟩"
     },
     {
       "surface": "מאות",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אלף",
-      "gloss": "okha mwa zikwi"
+      "gloss": "a zikwi"
     },
     {
       "surface": "ואלף",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "שבע",
-      "gloss": "〈asanu ndi awiri〉"
+      "gloss": "⟨asanu ndi awiri⟩"
     },
     {
       "surface": "מאות",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "ושלשים",
-      "gloss": "ndi makumi atatu ndi asanu"
+      "gloss": "ndi makumi asanu ndi atatu"
     }
   ],
-  "timestamp": "2026-09-21T14:23:38.021955390Z",
+  "timestamp": "2026-09-21T14:43:01.661079246Z",
   "model": "glm-5.3"
 }

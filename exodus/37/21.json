@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":21,"ref":"exodus 37:21","book":"exodus","lang":"ny","chapter":37,"translation":"Ndipo kafetora pansi pa mphambu ziwiiri za <kandili>, ndi kafetora pansi pa mphambu ziwiiri za <kandili>, ndi kafetora pansi pa mphambu ziwiiri za <kandili>, ya mphambu zisanu ndi ziwiri zotuluka mwa <kandili>.","tokens":[{"surface":"וכפתר","gloss":"ndi kafetora"},{"surface":"תחת","gloss":"pansi pa"},{"surface":"שני","gloss":"ziwiiri"},{"surface":"הקנים","gloss":"mphambu"},{"surface":"ממנה","gloss":"za <kandili>"},{"surface":"וכפתר","gloss":"ndi kafetora"},{"surface":"תחת","gloss":"pansi pa"},{"surface":"שני","gloss":"ziwiiri"},{"surface":"הקנים","gloss":"mphambu"},{"surface":"ממנה","gloss":"za <kandili>"},{"surface":"וכפתר","gloss":"ndi kafetora"},{"surface":"תחת","gloss":"pansi pa"},{"surface":"שני","gloss":"ziwiiri"},{"surface":"הקנים","gloss":"mphambu"},{"surface":"ממנה","gloss":"za <kandili>"},{"surface":"לששת","gloss":"ya zisanu ndi ziwiri"},{"surface":"הקנים","gloss":"mphambu"},{"surface":"היצאים","gloss":"zotuluka"},{"surface":"ממנה","gloss":"mwa <kandili>"}],"timestamp":"2026-09-21T14:22:47.858525498Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 37:21",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo kamphande pansi pa nthambi ziwiri za meneyo, ndipo kamphande pansi pa nthambi ziwiri za meneyo, ndipo kamphande pansi pa nthambi ziwiri za meneyo, kwa nthambi zisanu ndi chimodzi zotuluka mwa meneyo.",
+  "tokens": [
+    {
+      "surface": "וכפתר",
+      "gloss": "ndipo kamphande"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "הקנים",
+      "gloss": "nthambi"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "za meneyo"
+    },
+    {
+      "surface": "וכפתר",
+      "gloss": "ndipo kamphande"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "הקנים",
+      "gloss": "nthambi"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "za meneyo"
+    },
+    {
+      "surface": "וכפתר",
+      "gloss": "ndipo kamphande"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "הקנים",
+      "gloss": "nthambi"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "za meneyo"
+    },
+    {
+      "surface": "לששת",
+      "gloss": "kwa nthambi zisanu ndi chimodzi"
+    },
+    {
+      "surface": "הקנים",
+      "gloss": "nthambi"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "zotuluka"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "mwa meneyo"
+    }
+  ],
+  "timestamp": "2026-09-21T14:43:07.186371464Z",
+  "model": "glm-5.3"
+}
