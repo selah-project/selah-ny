@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 18:12",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Pakuti wochita zinthu zonse izi ndi manyazi pamaso pa Yahwe, ndipo chifukwa cha zodetsa izi, Yahwe Elohim wako akuwachotsa iwo pamaso pako ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "manyazi pamaso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wochita"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "zinthu izi"
+    },
+    {
+      "surface": "ובגלל",
+      "gloss": "ndipo chifukwa cha"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "zodetsa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "akuwachotsa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨אתם⟩",
+      "marks": "iwo (mitundu)"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "pamaso pako"
+    }
+  ],
+  "timestamp": "2026-09-21T14:18:22.902039150Z",
+  "model": "glm-5.3"
+}

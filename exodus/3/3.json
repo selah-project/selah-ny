@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo Moshe adati: “Ndidzapatuka tsopano, ndipo ndidzaona ⟨את⟩ masomphenya akulu kwambiri awa — chifukwa chiyani sna sichamera?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Ndidzapatuka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ndidzaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masomphenya akulu kwambiri awa"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "masomphenya"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "akulu kwambiri"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "chifukwa chiyani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "chamera"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "sna"
+    }
+  ],
+  "timestamp": "2026-09-21T13:58:11.576432805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 143,
+  "translation": "Ndipo usalowe m'chilamuliro ⟨את⟩ kapolo wako, pakuti palibe wamoyo amene adzakhala wolungama pamaso pako.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ndipo usalowe"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "usalowe"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "m'chilamuliro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapolo wako"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kapolo wako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "adzakhala wolungama"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamaso pako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "palibe (wamoyo onse)"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wamoyo"
+    }
+  ],
+  "timestamp": "2026-09-21T14:00:41.764329461Z",
+  "model": "glm-5.3"
+}

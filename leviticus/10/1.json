@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 10:1",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo ana a Aharon, Nadabu ndi Avihuyu, anawombole chotengera moto, yense ndi chake, ndipo anayika m'menemo moto, nayika pa umenewo fumbi lambuye, ndipo anabweretsera pamaso pa Yahwe moto wachilendo, amene sanawalamulire ⟨את⟩ iwo.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "anawombole"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "a Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadabu"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ndi Avihuyu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yense"
+    },
+    {
+      "surface": "מחתתו",
+      "gloss": "chotengera moto chake"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "anayika"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "nayika"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pa umenewo"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "fumbi lambuye"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "anabweretsera"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "wachilendo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sanai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "walamulire"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo (Nadabu ndi Avihuyu)"
+    }
+  ],
+  "timestamp": "2026-09-21T13:58:43.786936295Z",
+  "model": "glm-5.3"
+}

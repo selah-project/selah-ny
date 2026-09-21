@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo Yitro adati: “Wodala ndi Yahwe, amene anakulambulitsani ⟨את⟩ inu m'dzanja la Mitsrayimu ndi m'dzanja la Paro, iye amene anakolola ⟨את⟩ anthu pansi pa dzanja la Mitsrayimu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo adati"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "wodala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "anakulambulitsani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu (dziko la anthu oyesedwa)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ndi m'dzanja"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "la Paro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "anakolola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dzanja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:58:28.275076975Z",
+  "model": "glm-5.3"
+}

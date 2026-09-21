@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo munthu wa m'banja la Levi anapita, natora ⟨את⟩ mwana wamkazi wa Levi ⟨monga mkazi wake⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "anapita"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wa m'banja"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "natora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wamkazi wa Levi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-09-21T13:57:54.063308365Z",
+  "model": "glm-5.3"
+}

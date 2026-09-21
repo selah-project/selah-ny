@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo Avraham anamuyankha: “Samalira ndekha kuti musabweretse ⟨את⟩ mwana wako kumeneko.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anamuyankha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "samalira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndekha"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kuti musa-"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "bweretse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wanga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana wanga"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kumeneko"
+    }
+  ],
+  "timestamp": "2026-09-21T13:58:04.922500707Z",
+  "model": "glm-5.3"
+}

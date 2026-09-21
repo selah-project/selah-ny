@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "⟨את⟩ zonse izi ndinaona, ndipo ndinapereka ⟨את⟩ mtima wanga ku ntchito iliyonse imene ikuchitidwa pansi pa dzuwa: pakadali pake munthu amalamulira munthu wina kuipsa kwake.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse izi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndinaona"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "ndipo ndinapereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtima wanga"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku iliyonse"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ikuchitidwa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dzuwa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "pakadali pake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "amalamulira"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "munthu wina"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "kuipsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T14:04:25.948191559Z",
+  "model": "glm-5.3"
+}

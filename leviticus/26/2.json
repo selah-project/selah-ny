@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "⟨את⟩ Sabata anga mudzasunga, ndi malo opatulika anga muopa; ndine Yahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sabata anga"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Sabata anga"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "mudzasunga"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "ndi malo opatulika anga"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "muopa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T14:18:19.700562333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 18:3",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Monga ntchito ya dziko la Mitsrayimu kumene munakhalamo, musachite; ndi monga ntchito ya dziko la Kenaani kumune ndikulowetsa ⟨את⟩ inu kutako, musachite; ndi m'malamulo awo musayende.",
+  "tokens": [
+    {
+      "surface": "כמעשה",
+      "gloss": "monga ntchito ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kumene"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "munakhalamo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mus"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "-achite"
+    },
+    {
+      "surface": "וכמעשה",
+      "gloss": "ndi monga ntchito ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko la"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kumune"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ndikulowetsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu (kutulutsidwa kwa Mulungu kulowa ku Kenaani)"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kutako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mus"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "-achite"
+    },
+    {
+      "surface": "ובחקתיהם",
+      "gloss": "ndi m'malamulo awo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mus"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "-ayende"
+    }
+  ],
+  "timestamp": "2026-09-21T13:58:25.286192203Z",
+  "model": "glm-5.3"
+}

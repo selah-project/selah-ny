@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo anthu a dziko lapansi anafewetsa manja a anthu a Yehudha, ndipo anawavutitsa ⟨את⟩ iwo pomanga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a dziko lapansi"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "anafewetsa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "manja"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a anthu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yehudha"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "ndipo anawavutitsa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "pomanga"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "pomanga"
+    }
+  ],
+  "timestamp": "2026-09-21T14:04:28.445939113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 4:3",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo muwaleme kuti: “Mukwaniritse inu kutenga pano, m'kati mwa Yardeni, kuchokera pamalo pamene mapazi a ansembe anayimirira mokhazikika, miyala khumi ndi iwiri, ndipo muzitengera ⟨את⟩ pamodzi ndi inu, ndipo muzikayera ⟨את⟩ pa malo omwe mudzagona ⟨את⟩ usikuuno.”",
+  "tokens": [
+    {
+      "surface": "וצוו",
+      "gloss": "muwaleme"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kuti (mawu a lamulo)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "kutenga"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "pano"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "m'kati mwa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "ממצב",
+      "gloss": "kuchokera pamalo"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mapazi a"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "anayimirira mokhazikika"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "iwiri"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "khumi ndi"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "miyala"
+    },
+    {
+      "surface": "והעברתם",
+      "gloss": "muzitengera"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "miyala (pamodzi ndi inu)"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "pamodzi ndi inu"
+    },
+    {
+      "surface": "והנחתם",
+      "gloss": "muzikayera"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "miyala (pa malo odyera)"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "pa malo omwe mudzagona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omwe"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "mudzagona"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pomwepo"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "usikuuno"
+    }
+  ],
+  "timestamp": "2026-09-21T13:59:13.272205005Z",
+  "model": "glm-5.3"
+}

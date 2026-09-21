@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 18:9",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo anati: “Dzikani, ndipo tiyee kwa iwo, pakuti tinaona ⟨את⟩ dziko, ndipo taona, lili labwino kwambiri; koma inu mukhululuka? Musalephera kupita, kulowa, kulanda ⟨את⟩ dziko.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "anati"
+    },
+    {
+      "surface": "קומה",
+      "gloss": "Dzikani"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "ndipo tiyee"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "tinaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ndipo taona"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "lili labwino"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "komanso inu"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "mukhululuka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Musalephera"
+    },
+    {
+      "surface": "תעצלו",
+      "gloss": "kusachita kanthu"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kupita"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "kulowa"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "kulanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    }
+  ],
+  "timestamp": "2026-09-21T13:59:44.869497104Z",
+  "model": "glm-5.3"
+}

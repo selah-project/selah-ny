@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 22:15",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo iye anati kwa iwo: “Momwamo adati Yahwe, Elohim wa Yisraeli: Muwuze ⟨את⟩ munthu amene anakutumani kwa ine.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "momwamo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "muwuze"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "anakutuma"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ -ni",
+      "marks": "inu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T14:00:29.836269053Z",
+  "model": "glm-5.3"
+}

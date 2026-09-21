@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 34:8",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Ndipo Khamori anakambirana ndi iwo ⟨את⟩ nati: “Shekemu, mwana wanga, moyo wake unakhazikika mwachikondi pa mwana wanu wamkazi; mudziyankhe ⟨את⟩ iye, mupatse iyenso kuti akhale mkazi wake.”",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "anakambirana"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Khamori"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ndi iwo ⟨את⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana wanga"
+    },
+    {
+      "surface": "חשקה",
+      "gloss": "unakhazikika mwachikondi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "בבתכם",
+      "gloss": "pa mwana wanu wamkazi"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "mupatse"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mudziyankhe ⟨iwe⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iye (mwana wanu wamkazi)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iyenso"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kuti akhale mkazi wake"
+    }
+  ],
+  "timestamp": "2026-09-21T13:58:33.887813931Z",
+  "model": "glm-5.3"
+}

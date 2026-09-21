@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "ndi gulu lake lankhondo, ndi owerengedwa ake: sanu ndi awiri ndi makumi asanu zikwi, ndi mazana anayi.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ndi gulu lake lankhondo"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "ndi owerengedwa ake"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sanu ndi awiri"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ndi makumi asanu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "zikwi"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ndi anayi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    }
+  ],
+  "timestamp": "2026-09-21T13:58:58.591891241Z",
+  "model": "glm-5.3"
+}

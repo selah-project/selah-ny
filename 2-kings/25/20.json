@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo Nevuzaradani, mkuza wa ankhondo, anatenga ⟨את⟩ iwo, nadutsa ⟨את⟩ iwo kwa mfumu ya Babiloni, ku Riblahi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "amene anatengedwa"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradani"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mkuza"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wa ankhondo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nadutsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ya Babiloni"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "ku Riblahi"
+    }
+  ],
+  "timestamp": "2026-09-21T14:00:19.807092912Z",
+  "model": "glm-5.3"
+}

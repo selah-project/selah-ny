@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 1:51",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo pamene chihema chikuyenda, Alewi adzachitsika pansi ⟨את⟩; ndipo pamene chihema chikakhazikitsidwa, Alewi adzachiimikitsa ⟨את⟩; ndipo wACHAKUDZI wOYANDIKIRA adzaphedwa.",
+  "tokens": [
+    {
+      "surface": "ובנסע",
+      "gloss": "ndipo pamene chikuyenda"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "יורידו",
+      "gloss": "adzachitsika pansi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chihema"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Alewi"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "ndipo pamene chikakhazikitsidwa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "יקימו",
+      "gloss": "adzachiimikitsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chihema"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Alewi"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "ndipo wachakudzi"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "woyandikira"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "adzaphedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T13:58:56.844270052Z",
+  "model": "glm-5.3"
+}

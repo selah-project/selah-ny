@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo umpange mabalero a guwa, mabalero a mitengo ya shitimu, ndipo uzitipira ⟨את⟩ iwo m'nsanza.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ndipo umpange"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "mabalero"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "a guwa"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "mabalero"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "a mitengo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ya shitimu"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ndipo uzitipira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo (mabalero)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "m'nsanza"
+    }
+  ],
+  "timestamp": "2026-09-21T13:58:23.574050435Z",
+  "model": "glm-5.3"
+}

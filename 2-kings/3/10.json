@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Mfumu ya Yisraeli inati: “Awa! Chifukwa Yahwe waitana mafumu atatuwa kuti awapatse m'manja mwa Moabu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "inati"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Awa!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "waitana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "mafumu atatuwa"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kuti awapatse"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "iwo ⟨את⟩",
+      "marks": "iwo — m'manja mwa Moabu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "m'manja"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:59:41.400647165Z",
+  "model": "glm-5.3"
+}

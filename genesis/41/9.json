@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Ndipo mkulu wa omwazitsa adayankhula ndi ⟨את⟩ Paro, nati: ⟨את⟩ machimo anga ndikukumbukira lero.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "adayankhula"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mkulu"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "wa omwazitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "machimo anga"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "machimo anga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "ndikukumbukira"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    }
+  ],
+  "timestamp": "2026-09-21T13:58:25.262406086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 8:27",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo anapereka ⟨את⟩ zonse pa manja a Aharoni ndi pa manja a ana ake, nakuwawonjeza monga chiwonjezedzo pamaso pa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "anapereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "manja a"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "manja a"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "וינף",
+      "gloss": "nakuwawonjeza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "chiwonjezedzo"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "monga chiwonjezedzo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T13:58:01.658460942Z",
+  "model": "glm-5.3"
+}

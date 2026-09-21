@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 18:11",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Izi zonso mfumu Davide adaletsa kwa Yahwe, pamodzi ndi ⟨את⟩ siliva ndi ⟨את⟩ golide zimene anatenga m'mitundu yonse — m'Edomu ndi m'Mowabu ndi mwa ana a Amoni ndi mwa Afilisti ndi mwa Amaleki.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "zonso"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izi"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "adaletsa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ndi golide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "m'mitundu yonse"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mitundu"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "m'Edomu"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "ndi m'Mowabu"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "ndi mwa ana a"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "ndi mwa Afilisti"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "ndi mwa Amaleki"
+    }
+  ],
+  "timestamp": "2026-09-21T14:04:26.892453431Z",
+  "model": "glm-5.3"
+}

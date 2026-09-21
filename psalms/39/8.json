@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndipo tsopano, chiyani chimene ndikuyembekezera? Adonayi, chiyembekezo changa chili kwa iwe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ndipo tsopano"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ndikuyembekezera"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "chiyembekezo changa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ndi icho"
+    }
+  ],
+  "timestamp": "2026-09-21T14:00:40.623045063Z",
+  "model": "glm-5.3"
+}

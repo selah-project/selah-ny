@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Asakhale m'dzikolo mwako, chifukwa akhoza kukuchititsa machimo ⟨את⟩ iwe kwa ine; pakuti udzatumikira ⟨את⟩ milungu yawo, chifukwa idzakhaladi chidebe cham'pando chako.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Asakhale"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "asakhale"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "m'dzikolo mwako"
+    },
+    {
+      "surface": "פן",
+      "gloss": "chifukwa akhoza"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "kukuchititsa machimo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ iwe",
+      "marks": "iwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "udzatumikira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "milungu yawo"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "milungu yawo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "idzakhaladi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "chako"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "chidebe cham'pando"
+    }
+  ],
+  "timestamp": "2026-09-21T13:58:35.885838017Z",
+  "model": "glm-5.3"
+}

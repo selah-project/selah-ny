@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ngati adati: “Bwerani ndi ife ⟨את⟩, tilizibe ndi kukhulupirira mwazi, tibisike ndi kulindira wosalakwa popanda chifukwa.”",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "adati"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "bwerani"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "ndi ife ⟨את⟩",
+      "marks": "ife"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "tilizibe ndi kukhulupirira"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "mwazi"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "tibisike ndi kulindira"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "wosalakwa"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "popanda chifukwa"
+    }
+  ],
+  "timestamp": "2026-09-21T14:00:46.434777337Z",
+  "model": "glm-5.3"
+}

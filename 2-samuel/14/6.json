@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo kapolo wako wamkazi anali nao ana awiri, nawiriwo anakangana m'thambani, ndipo palibe anawatsekerezera pakati pawo; ndipo mmodzi anamenya ⟨את⟩ mnzake, ndipo anamupha ⟨את⟩ iye.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "ndipo kapolo wako wamkazi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ana"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "anakangana"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "nawiriwo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "m'thambani"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "wotsekerezera"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "pakati pawo"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ndipo anamenya"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mmodzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mnzake"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mnzake"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ndipo anamupha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "mnzake wakewe"
+    }
+  ],
+  "timestamp": "2026-09-21T14:18:26.963767104Z",
+  "model": "glm-5.3"
+}

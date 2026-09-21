@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Adaika iye m'chigwa m'dzikoli la Moabu, kutsimikizira ⟨אתו⟩ pamaso pa Beith-Peori; ndipo palibe munthu wodziwa ⟨את⟩ malo a manda ake mpaka tsiku lino.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "adaika m'manda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "m'chigwa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dzikoli"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "la Moabu"
+    },
+    {
+      "surface": "מול",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beith"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peori"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wodziwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malo a manda ake"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "manda ake"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lino"
+    }
+  ],
+  "timestamp": "2026-09-21T13:58:52.603206266Z",
+  "model": "glm-5.3"
+}

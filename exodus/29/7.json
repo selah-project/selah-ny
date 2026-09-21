@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo ulande ⟨את⟩ mafuta odzoza, nawotse pa mutu wake, ndipo mudzozedwe ⟨את⟩ iye.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ulande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta odzoza"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "odzoza"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "nawotse"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mutu wake"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "mudzozedwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye"
+    }
+  ],
+  "timestamp": "2026-09-21T13:57:59.902396591Z",
+  "model": "glm-5.3"
+}

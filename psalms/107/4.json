@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Anazungulira m'chipululu, m'chilengalenga chakuda, pa njira; mzinda wokhalamo sanapeza.",
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "Anazungulira"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "m'chipululu"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "m'chilengalenga chakuda"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "pa njira"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "wokhalamo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "anapeza"
+    }
+  ],
+  "timestamp": "2026-09-21T14:00:48.474911654Z",
+  "model": "glm-5.3"
+}
