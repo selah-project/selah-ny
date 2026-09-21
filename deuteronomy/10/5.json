@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Nditembenukira ndidutsa pansi kum'malo, ndinaika ⟨את⟩ malo a miyamba m'chikatira chimene ndinapanga, ndipo adakhala kumeneko, monga momwe Yahwe wandiuza.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "nditembenukira"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "ndidutsa pansi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kum'malo"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ndinaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malo a miyamba"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "malo a miyamba"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "m'chikatira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndinapanga"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "adakhala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "wandiuza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T14:46:37.738988646Z",
+  "model": "glm-5.3"
+}

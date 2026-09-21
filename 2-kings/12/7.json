@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo chinachitika mu chaka la makumi awiri ndi zitatu la mfumu Yehoashi, ansembe sanachirikitse ⟨את⟩ mavuto a nyumba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo chinachitika"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "mu chaka"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "la makumi awiri"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ndi zitatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "chaka"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "la mfumu"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoashi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "nachirikitse"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mavuto a nyumba"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "mavuto"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    }
+  ],
+  "timestamp": "2026-09-21T14:47:35.892348979Z",
+  "model": "glm-5.3"
+}

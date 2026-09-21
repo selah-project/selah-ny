@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo chakhala mu masiku a Achashveroshi — iyeyo Achashveroshi, mfumu yachifumu kuchokera ku Hodu mpaka Kush, m'madera olamulira zisanu ndi ziwiri ndi makumi awiri ndi zana imodzi —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "chakhala"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "mu masiku a"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashveroshi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyeyo"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashveroshi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu yachifumu"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "kuchokera ku Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zisanu ndi ziwiri"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ndi makumi awiri"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ndi zana imodzi"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "m'madera olamulira"
+    }
+  ],
+  "timestamp": "2026-09-21T14:47:20.742824512Z",
+  "model": "glm-5.3"
+}

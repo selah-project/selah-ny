@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo Elohim adatemberezera ⟨את⟩ anthu njira ya chipululu, kum'mawa kwa nyanja ya mbadwa; ndipo Bana la Yisraeli analowa okonzeka kunkhondo, kuchoka mu dziko la Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "adatemberezera"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njira ya"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "chipululu"
+    },
+    {
+      "surface": "ים",
+      "gloss": "nyanja ya"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "mbadwa"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "okonzeka kunkhondo"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "analowa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bana la"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuchoka mu dziko la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T14:46:37.758819433Z",
+  "model": "glm-5.3"
+}

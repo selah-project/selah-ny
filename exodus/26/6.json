@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 26:6",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo udzapanga zokolola za chigolide makumi asanu, ndipo udzaphatikiza ⟨את⟩ matemberi, limodzi kwa limodzi, ndi zokololazo; ndipo chihemacho chidzakhala chimodzi.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "udzapanga"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "makumi asanu"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "zokolola"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "chigolide"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "udzaphatikiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matemberi"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "matemberi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "limodzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "limodzi"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "ndi zokololazo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "chidzakhala"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "chihemacho"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "chimodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T14:47:11.184625828Z",
+  "model": "glm-5.3"
+}

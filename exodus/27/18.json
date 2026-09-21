@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 27:18",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Kutalika kwa khamu lija kudzakhala zana la ma-ama, ndi kufotokozidwa kwake makumi asanu m'makumi asanu, ndi kutalika kwake kumwamba zisanu ma-ama, ⟨ndi⟩ ulusi wopindidwa woyera, ndi maziko awo a nkhosi.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "kutalika"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kwa khamu lija"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zana"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "la ma-ama"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ndi kufotokozidwa kwake"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "makumi asanu"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "m'makumi asanu"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "ndi kutalika kwake kumwamba"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "zisanu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ma-ama"
+    },
+    {
+      "surface": "שש",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ulusi wopindidwa"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ndi maziko awo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "a nkhosi"
+    }
+  ],
+  "timestamp": "2026-09-21T14:46:36.424338089Z",
+  "model": "glm-5.3"
+}

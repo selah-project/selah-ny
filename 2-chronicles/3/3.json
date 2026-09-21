@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 3:3",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo awa ndiwo maziko omwe Shelomoh anayika pouza ⟨את⟩ nyumba ya Elohim: kutalika kwake, ndi maphiti, monga mwa muyeso woyamba, maphiti makumi asanu ndi limodzi, ndi m'mimba mwake maphiti makumi awiri.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ndipo awa"
+    },
+    {
+      "surface": "הוסד",
+      "gloss": "anayika maziko"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "pouza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "הארך",
+      "gloss": "kutalika kwake"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ndi maphiti"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "monga mwa muyeso"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "woyamba"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "maphiti"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "makumi asanu ndi limodzi"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ndi m'mimba mwake"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "maphiti"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi awiri"
+    }
+  ],
+  "timestamp": "2026-09-21T14:48:42.304162086Z",
+  "model": "glm-5.3"
+}

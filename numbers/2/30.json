@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo gulu lake la nkhondo, ndi omweredwa awo ⟨ali⟩ zisanu ndi zitatu ndi makumi asanu chikwi, ndi mazana anayi.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Ndipo gulu lake la nkhondo"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ndi omweredwa awo"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "zisanu ndi zitatu"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ndi makumi asanu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "chikwi"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ndi mazana anayi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana anayi"
+    }
+  ],
+  "timestamp": "2026-09-21T14:46:38.956750340Z",
+  "model": "glm-5.3"
+}
