@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Pakuti ndani m'miyamba angafanizidwe ndi Yahwe? Ndani angafanane ndi Yahwe mwa ana a mphamvu?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "m'miyamba"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "angafanizidwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ndi Yahwe"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "angafanane"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ndi Yahwe"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "mwa ana a"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "mphamvu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:45.562029613Z",
+  "model": "glm-5.3"
+}

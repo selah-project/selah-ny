@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 7:5",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo zotseguka zonse ndi mizizi ya zitseko zinali zisanuze, ⟨zili⟩ chishango choyang'anira; ndipo kumalo koyang'anira kunkaikirana ndi koyang'anira, katatu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ndipo zonse"
+    },
+    {
+      "surface": "הפתחים",
+      "gloss": "zotseguka"
+    },
+    {
+      "surface": "והמזוזות",
+      "gloss": "ndi mizizi ya zitseko"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "zinali zisanuze"
+    },
+    {
+      "surface": "שקף",
+      "gloss": "chishango choyang'anira"
+    },
+    {
+      "surface": "ומול",
+      "gloss": "ndipo kumalo"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "koyang'anira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kunkaikirana ndi"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "koyang'anira"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "katatu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "⟨zili⟩ katatu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:34:08.807736826Z",
+  "model": "glm-5.3"
+}

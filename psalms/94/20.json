@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 94,
+  "translation": "Kodi mpando wa chiwonongero umathirana ndi iwe, iye wopanga chiwembu mwa lamulo?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "umathirana ndi iwe"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "mpando"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "wa chiwonongero"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "wopanga"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "chiwembu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "חק",
+      "gloss": "lamulo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:07.240393030Z",
+  "model": "glm-5.3"
+}

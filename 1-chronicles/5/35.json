@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo Achimaatsi anabala ⟨את⟩ Azarya, ndipo Azarya anabala ⟨את⟩ Yochanani.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "ndipo Achimaatsi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarya"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarya"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "ndipo Azarya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yochanani"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yochanani"
+    }
+  ],
+  "timestamp": "2026-09-21T12:23:57.710915316Z",
+  "model": "glm-5.3"
+}

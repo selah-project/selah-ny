@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Pakuti analowera ndi kunyenga mwachinyengo Ine nyumba ya Yisraeli ndi nyumba ya Yehudha, chonena cha Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "mwachinyengo"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "analowera ndi kunyenga"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ndi nyumba ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "chonena cha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T09:29:32.739086393Z",
+  "model": "glm-5.3"
+}

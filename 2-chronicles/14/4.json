@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Adachotsa m'misewu yonse ya m'madera onse a Yehuda ⟨את⟩ bamot ndi ⟨את⟩ chammanim, ndipo ufuma unakhala chete pamaso pake.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Adachotsa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "m'madera onse a"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "m'misewu ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bamot"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bamot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chammanim"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "chammanim"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "unakhala chete"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ufuma"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pamaso pake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:42:10.372535573Z",
+  "model": "glm-5.3"
+}

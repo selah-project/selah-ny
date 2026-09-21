@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 4:3",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Tidapemphera kwa Elohim wathu, ndipo tidayika ucitetezo pa iwo usana ndi usiku chifukwa cha iwo.",
+  "tokens": [
+    {
+      "surface": "ונתפלל",
+      "gloss": "Tidapemphera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    },
+    {
+      "surface": "ונעמיד",
+      "gloss": "ndipo tidayika"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "ucitetezo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pa iwo"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "usana"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ndi usiku"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "chifukwa cha iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:18:29.741575472Z",
+  "model": "glm-5.3"
+}

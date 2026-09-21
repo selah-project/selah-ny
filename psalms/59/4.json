@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 59,
+  "translation": "Pakuti taona, anamera chidole ku moyo wanga; amphamvu akhazikika pa ine — si kulakwa kwanga, ndiponso si tchimo langa, Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "anamera chidole"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ku moyo wanga"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "akhazikika"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "amphamvu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "kulakwa kwanga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndiponso si"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "tchimo langa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:53.211193821Z",
+  "model": "glm-5.3"
+}

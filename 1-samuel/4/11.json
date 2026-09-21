@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo arki ya Elohim inatengedwa, ndipo ana awiri a Eli anafa, Chafni ndi Finehasi.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "Ndipo arki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "inatengedwa"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ana awiri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "anafa"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Chafni"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "ndi Finehasi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:00:53.390282041Z",
+  "model": "glm-5.3"
+}

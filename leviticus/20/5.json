@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo ine ndidzaika nkhope yanga pa munthuyo ndi pa m'banja yake, ndipo ndidzadula ⟨אתו⟩ iye pamodzi ndi ⟨את⟩ onse akuchita chigololo pambuyo pake, kuchichita pambuyo pa Molechi, m'mkati mwa anthu awo.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ndidzaika"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhope yanga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope yanga"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "pa munthu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "ndi pa m'banja yake"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ndidzadula"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "onse akuchita chigololo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "akuchita chigololo"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pambuyo pake"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "kuchichita"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pambuyo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Molechi"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "m'mkati mwa"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "anthu awo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:59.103409313Z",
+  "model": "glm-5.3"
+}

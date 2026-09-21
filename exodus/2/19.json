@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 2:19",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo iwo anati: Munthu wa ku Mitsrayimu anatipulumutsa m'dzanja la abusa; ndiponso anatidolera madzi, nadzowetsa ⟨את⟩ nkhosa.",
+  "tokens": [
+    {
+      "surface": "ותאמרן",
+      "gloss": "anati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Munthu"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "wa ku Mitsrayimu"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "anatipulumutsa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "abusa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "anadola"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa ife"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "nadzowetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhosa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "nkhosa"
+    }
+  ],
+  "timestamp": "2026-09-21T12:55:37.002016828Z",
+  "model": "glm-5.3"
+}

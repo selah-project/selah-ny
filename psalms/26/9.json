@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Musasonkholere moyo wanga pamodzi ndi ochimwa, kapena moyo wanga pamodzi ndi anthu a magazi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musai-"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "sonkholere"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ochimwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kapena pamodzi ndi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "anthu a"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "magazi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "moyo wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:26.740943235Z",
+  "model": "glm-5.3"
+}

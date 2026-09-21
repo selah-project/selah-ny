@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 110,
+  "translation": "Adzaweruza mwa mitundu ya anthu; adzazza ⟨malo⟩ ndi mithyi ya akufa; adzaphwanya mutu pa dziko lalikulu.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "adzaweruza"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mwa mitundu ya anthu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "adzazza"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "ndi mithyi ya akufa"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "adzaphwanya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "lalikulu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:06.230069409Z",
+  "model": "glm-5.3"
+}

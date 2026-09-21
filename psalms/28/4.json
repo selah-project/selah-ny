@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 28:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Apatsa iwo monga mwa ntchito yawo, ndi monga mwa kuipa kwa zochita zawo; monga mwa ntchito ya manja yawo apatsa iwo; bwezerani malipiro awo kwa iwo.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Apatsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "כפעלם",
+      "gloss": "monga mwa ntchito yawo"
+    },
+    {
+      "surface": "וכרע",
+      "gloss": "ndi monga mwa kuipa"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "kwa zochita zawo"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "monga mwa ntchito"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ya manja yawo"
+    },
+    {
+      "surface": "תן",
+      "gloss": "apatsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "השב",
+      "gloss": "bwezerani"
+    },
+    {
+      "surface": "גמולם",
+      "gloss": "malipiro awo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:08.433386022Z",
+  "model": "glm-5.3"
+}

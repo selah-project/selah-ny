@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 68,
+  "translation": "Mafumu a dziko lapansi, imbalani kwa Elohim, yeserani kwa Adonayi, Selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "Mafumu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a dziko lapansi"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "imbalani"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "yeserani"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "kwa Adonayi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:59.185201088Z",
+  "model": "glm-5.3"
+}

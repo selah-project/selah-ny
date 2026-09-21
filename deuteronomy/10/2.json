@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndidzalemba pa matabulowo ⟨את⟩ mawu amene anali pa matabulowo oyamba, amene unawaphwanya; ndipo udzawaika m'chikwatu.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "ndipo ndidzalemba"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "matabulowo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "היו",
+      "gloss": "anali"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "matabulowo"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "oyamba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "unawaphwanya"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ndipo udzawaika"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "m'chikwatu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:18:14.737924687Z",
+  "model": "glm-5.3"
+}

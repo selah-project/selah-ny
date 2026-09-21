@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 14:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndani apatse m'Tsiyoni chipulumutso cha Yisraeli! Poti Yahwe abweretsa umbanda wa anthu ake, Yakobo adzasangalala, Yisraeli adzakondwera.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ndani"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "apatse"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "m'Tsiyoni"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "chipulumutso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "abweretsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "umbanda"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "adzasangalala"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "adzakondwera"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:01.530068891Z",
+  "model": "glm-5.3"
+}

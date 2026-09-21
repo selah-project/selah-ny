@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 14:8",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "ndipo ndinang'amba ⟨את⟩ ufumu kuchoka pa nyumba ya Davide, ndipo ndinakupatsa kwa iwe; koma sunakhale monga kapolo wanga Davide, amene anasunga malamulo anga, ndipo amene anayenda m'mbuyo mwanga ndi mtima wake wonse, kuchita cholungama kokha m'maso anga.",
+  "tokens": [
+    {
+      "surface": "ואקרע",
+      "gloss": "ndipo ndinang'amba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ufumu"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ufumu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kuchoka pa nyumba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya Davide"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ndipo ndinakupatsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma suna-"
+    },
+    {
+      "surface": "היית",
+      "gloss": "khala"
+    },
+    {
+      "surface": "כעבדי",
+      "gloss": "monga kapolo wanga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "anasunga"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "malamulo anga"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ndipo amene"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "m'mbuyo mwanga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ndi mtima wake"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuchita"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kokha"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "cholungama"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "m'maso anga"
+    }
+  ],
+  "timestamp": "2026-09-21T08:41:17.638223088Z",
+  "model": "glm-5.3"
+}

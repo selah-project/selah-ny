@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Wodala ndi anthu anu, ndipo wodala ndi akapolo anu awa, amene ayimirira pamaso panu nthawi zonse, ndipo akumva ⟨את⟩ nzeru zanu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Wodala"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "anthu anu"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "ndipo wodala"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "akapolo anu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "amene ayimirira"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamaso panu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nthawi zonse"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "ndipo akumva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzeru zanu"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "nzeru zanu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:41:23.322422765Z",
+  "model": "glm-5.3"
+}

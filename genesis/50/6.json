@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 50,
+  "translation": "Ndipo Paro anati: “Kwera uko, mukonze ⟨את⟩ atate wako, monga adanalumbiritsa iwe.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Kwera uko"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "mukonze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atate wako"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atate wako"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "adanalumbiritsa iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:06:38.612288232Z",
+  "model": "glm-5.3"
+}

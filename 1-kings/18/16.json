@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo Ovadyahu anapita kukakomana ndi Ahabu, namuuza; ndipo Ahabu anapita kukakomana ndi Eliyahu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ndipo anapita"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadyahu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kukakomana ndi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "nauzitse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ndipo anapita"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kukakomana ndi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:43:41.486862813Z",
+  "model": "glm-5.3"
+}

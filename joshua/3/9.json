@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Yehoshuwa anati kwa ana a Yisraeli: “Bwerani kuno ndipo mverani ⟨את⟩ mawu a Yahwe Elohim wanu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Bwerani"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kuno"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ndipo mverani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:32:58.988015188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Ndidzalemekeza dzina la Elohim ndi nyimbo, ndipo ndidzamkuluza ndi chiyamiko.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Ndidzalemekeza"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dzina"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "la Elohim"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "ndi nyimbo"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "ndipo ndidzamkuluza"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ndi chiyamiko"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:40.786163188Z",
+  "model": "glm-5.3"
+}

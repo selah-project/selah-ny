@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 141,
+  "translation": "Popeza kwa iwe, Yahwe, Adonayi, maso anga ali; mwa Inu ndinasambia; usandisionkere moyo wanga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Popeza"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maso anga"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "mwa Inu"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ndinasambia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תער",
+      "gloss": "ndisionkere"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:56.544033623Z",
+  "model": "glm-5.3"
+}

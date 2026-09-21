@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Uriya anadza kwa iye, ndipo Davidi anafunsa za mtendere wa Yoavu, ndi mtendere wa anthu, ndi mtendere wa nkhondo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "anadza"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "anafunsa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "za mtendere wa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoavu"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "ndi mtendere wa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "ndi mtendere wa"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "nkhondo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:21:16.382568590Z",
+  "model": "glm-5.3"
+}

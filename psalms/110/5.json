@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 110,
+  "translation": "Adonayi pa dzanja lamanja lanu; ⟨iye⟩ waphwanya mafumu tsiku la mkwiyo wake.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dzanja lamanja lanu"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "waphwanya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku la"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "mkwiyo wake"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mafumu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:06.229644530Z",
+  "model": "glm-5.3"
+}

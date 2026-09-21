@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo mzimu wa Elohim unamulowa mwamphamvu Shauli pamene adamva ⟨את⟩ mawu awa, ndipo mkwiyo wake unayaka kwakukulu.",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "Ndipo unamulowa mwamphamvu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "pamene adamva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu awa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ndipo unayaka"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "mkwiyo wake"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwakukulu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:04:45.379746512Z",
+  "model": "glm-5.3"
+}

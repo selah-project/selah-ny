@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo uzodzere ⟨את⟩ autari ya nsembe yolaka ndi ⟨את⟩ zonse zake, ndipo uzipatule ⟨את⟩ autariyo, ndipo autariyo idzakhala chopatulika kwakukulu.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "uzodzere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "autari"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "autari"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya nsembe yolaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zake"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "uzipatule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "autariyo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "autariyo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "idzakhala"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "autariyo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chopatulika"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kwakukulu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:23.941864574Z",
+  "model": "glm-5.3"
+}

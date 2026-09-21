@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 3:6",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo ngati nsembe yake ndi ya m'nkhosa, ku nsembe ya mtendere kwa Yahwe, wamwamuna kapena wamkazi, wopanda chilema adzaipereka.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ndipo ngati"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "nsembe yake"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ku nsembe"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "ya mtendere"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "wamwamuna"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "wamkazi"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "wopanda chilema"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "adzaipereka"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:56.073502384Z",
+  "model": "glm-5.3"
+}

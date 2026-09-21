@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 81,
+  "translation": "Fuulani mfuti mu mwezi, pa mwezi wodzaza, tsiku la chikondwerero chathu.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Fuulani"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mu mwezi"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "mfuti"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "pa mwezi wodzaza"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "tsiku la"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "chikondwerero chathu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:37.705900692Z",
+  "model": "glm-5.3"
+}

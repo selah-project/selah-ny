@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo Lotu yemwe ankayenda ndi ⟨את⟩ Avraham, anali nazo nkhosa, ng'ombe ndi mahema.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ndiponso"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "kwa Lotu"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yemwe ankayenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndi Avraham"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "היה",
+      "gloss": "anali nazo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "mahema"
+    }
+  ],
+  "timestamp": "2026-09-21T05:47:05.203726271Z",
+  "model": "glm-5.3"
+}

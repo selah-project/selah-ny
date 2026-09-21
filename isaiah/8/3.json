@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 8:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo ndinayandikira kwa mneneri wamkazi, ndipo anatenga pa mimba, nabala mwana; ndipo Yahwe ananena kwa ine: “Itanira dzina lake Maher-Shalal-Hash-Bazi.”",
+  "tokens": [
+    {
+      "surface": "ואקרב",
+      "gloss": "Ndipo ndinayandikira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "mneneri wamkazi"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ndipo anatenga pa mimba"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nabala"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo … ananena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Itanira"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dzina lake"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "Maher-"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Shalal-"
+    },
+    {
+      "surface": "חש",
+      "gloss": "Hash-"
+    },
+    {
+      "surface": "בז",
+      "gloss": "Bazi"
+    }
+  ],
+  "timestamp": "2026-09-21T09:04:24.663247413Z",
+  "model": "glm-5.3"
+}

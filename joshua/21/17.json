@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo mwa fuko la Binyamin ⟨את⟩ Givoni ndi ⟨את⟩ malire ake, ⟨את⟩ Geva ndi ⟨את⟩ malire ake.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Ndipo mwa fuko la"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givoni"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malire ake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malire ake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geva"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malire ake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malire ake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:42:40.379864186Z",
+  "model": "glm-5.3"
+}

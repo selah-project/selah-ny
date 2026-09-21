@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo Avraham anali mwana wa zaka zana, kumene kwa iye anabadwa ⟨את⟩ Yitschaki mwana wake.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Ndipo Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "wa zaka zana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "anabadwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschaki"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaki"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    }
+  ],
+  "timestamp": "2026-09-21T05:50:16.866630378Z",
+  "model": "glm-5.3"
+}

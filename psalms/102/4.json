@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "Pakuti masiku anga atha ngati utsi, ndipo mafupa anga ayaka ngati moto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "atha"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "ngati utsi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "masiku anga"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "ndipo mafupa anga"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "קד",
+      "gloss": "moto"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "ayaka"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:05.803957596Z",
+  "model": "glm-5.3"
+}

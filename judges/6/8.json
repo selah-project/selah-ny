@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 6:8",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Yahwe anatumiza munthu, mneneri, kwa ana a Yisraeli, ndipo ananena kwa iwo: “Kotero ananena Yahwe, Elohim wa Yisraeli: Ine ndinakweza ⟨את⟩ inu kuchokera ku Mitsrayimu, ndipo ndinatulutsa ⟨את⟩ inu m'nyumba ya ukapolo.”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "anatumiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "mneneri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo ananena"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Kotero"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "ndinakweza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuchokera ku Mitsrayimu"
+    },
+    {
+      "surface": "ואציא",
+      "gloss": "ndipo ndinatulutsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "m'nyumba ya"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ukapolo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:48:31.632194072Z",
+  "model": "glm-5.3"
+}

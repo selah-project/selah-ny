@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo anayika m'kamwa mwanga nyimbo yatsopano, matamando kwa Elohim wathu; ambiri adzaona, ndipo adzaopa, nadzakhulupirira mwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "anayika"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "m'kamwa mwanga"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yatsopano"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "matamando"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "kwa Elohim wathu"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "adzaona"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ambiri"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "adzaopa"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "nadzakhulupirira"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "mwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:48.769131432Z",
+  "model": "glm-5.3"
+}

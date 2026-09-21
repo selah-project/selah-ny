@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 120,
+  "translation": "Masautso ali pa ine, chifukwa ndakhala mwa Mesheki, ndakhala pamodzi ndi mahema a Kedara.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Masautso"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "ndakhala"
+    },
+    {
+      "surface": "משך",
+      "gloss": "mwa Mesheki"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "ndakhala pamodzi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "mahema a"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedara"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:22.705473178Z",
+  "model": "glm-5.3"
+}

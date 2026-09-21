@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Kodi wolima amalima tsiku londe ndi kubzala mbeu? Kodi amathandaza ndi kufewa nthaka yake?",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "kodi… lonse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku londe"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "amalima"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "wolima"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "ndi kubzala mbeu"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "amathandaza"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "ndi kufewa"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "nthaka yake"
+    }
+  ],
+  "timestamp": "2026-09-21T09:12:14.478322199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 116,
+  "translation": "Malonje ane kwa Yahwe ndidzawalipira, tsopano pamaso pa anthu ake onse.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "malonje ane"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ndidzawalipira"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "onse a"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:08:58.825292070Z",
+  "model": "glm-5.3"
+}

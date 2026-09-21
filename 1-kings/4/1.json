@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo mfumu Shelomo inali mfumu pa Yisraeli wonse.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "inali"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:31:54.191715472Z",
+  "model": "glm-5.3"
+}

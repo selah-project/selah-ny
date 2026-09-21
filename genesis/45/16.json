@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 45:16",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 45,
+  "translation": "Ndipo mawu anamveka m'nyumba ya Paro, kuti: “Abale a Yosef afika”; ndipo zinali zabwino m'maso mwa Paro ndi m'maso mwa akapolo ake.",
+  "tokens": [
+    {
+      "surface": "והקל",
+      "gloss": "Ndipo mawu"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "anamveka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "m'nyumba ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "באו",
+      "gloss": "afika"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Abale a"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "zinali zabwino"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "m'maso mwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ndi m'maso mwa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "akapolo ake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:05:12.828149566Z",
+  "model": "glm-5.3"
+}

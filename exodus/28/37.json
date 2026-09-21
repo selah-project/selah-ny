@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 28:37",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo udzaika ⟨את⟩ chidindocho pa chinga cha buluu, ndipo chidzakhala pa chikwati chamutu; kumaso kwa chikwati chamutu chidzakhala.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "udzaika"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chidindocho (chida cha golide)"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "chinga"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "cha buluu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ndipo chidzakhala"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "chikwati chamutu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kumaso"
+    },
+    {
+      "surface": "מול",
+      "gloss": "kumaso kwa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kumaso kwa"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "chikwati chamutu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "chidzakhala"
+    }
+  ],
+  "timestamp": "2026-09-21T06:21:42.680532718Z",
+  "model": "glm-5.3"
+}

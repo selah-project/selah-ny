@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 73,
+  "translation": "Ndipo ndaganiza kudziwa ichi; ndi ⟨usautso⟩ m'maso anga.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "ndipo ndaganiza"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kudziwa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "usautso"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ndi⟩"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "m'maso anga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:26.326581456Z",
+  "model": "glm-5.3"
+}

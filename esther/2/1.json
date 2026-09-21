@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Atatero zinthu izi, ukali wa mfumu Achashveroshi atathera, adakumbukira ⟨את⟩ Vashti, ndi ⟨את⟩ zimene anachita, ndi ⟨את⟩ zimene chinamweretsedwa pa iye.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Atatero"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "zinthu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "atathera"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ukali"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa mfumu"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashveroshi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "adakumbukira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vashti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zimene anachita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zimene chinamweretsedwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "chinamweretsedwa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T12:00:16.499498074Z",
+  "model": "glm-5.3"
+}

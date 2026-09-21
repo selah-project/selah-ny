@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Yehuda anagwira ⟨את⟩ Aza ndi ⟨את⟩ mipaka yake, ndi ⟨את⟩ Ashkeloni ndi ⟨את⟩ mipaka yake, ndi ⟨את⟩ Ekroni ndi ⟨את⟩ mipaka yake.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "anagwira"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mipaka yake"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "mipaka yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Ashkeloni"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkeloni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mipaka yake"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "mipaka yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Ekroni"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mipaka yake"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "mipaka yake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:45:48.400863783Z",
+  "model": "glm-5.3"
+}

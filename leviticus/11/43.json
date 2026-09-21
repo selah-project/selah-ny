@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Musadzidetsese ⟨את⟩ miyoyo yanu ndi cholowera chilichonse chomwe chimalowera, ndipo musadzetse ndi izo, kuti musadzakhale odetsa mwa izo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "dzidetsese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miyoyo yanu"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "miyoyo yanu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ndi cholowera chilichonse"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "cholowera"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "chomwe chimalowera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo musa"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "dzetse"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ndi izo"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "kuti musadzakhale odetsa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mwa izo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:34:36.830359989Z",
+  "model": "glm-5.3"
+}

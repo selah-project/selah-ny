@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Dzina lako silidzatchedwanso ⟨את⟩ dzina lako Avrami, koma dzina lako lidzakhala Avraham, pakuti wabambo wa mitundu yochuluka ndakupangitsa iwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "si"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "idzatchedwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "-nso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzina lako"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dzina lako"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrami"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "lidzakhala"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dzina lako"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אב",
+      "gloss": "wabambo"
+    },
+    {
+      "surface": "המון",
+      "gloss": "yochuluka"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mitundu"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ndakupangitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T05:49:51.855522096Z",
+  "model": "glm-5.3"
+}

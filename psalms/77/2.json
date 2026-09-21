@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 77,
+  "translation": "Liwu langa lili kwa Elohim, ndipo ndidzalira; liwu langa lili kwa Elohim, kuti amve khutu.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Liwu langa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "ndipo ndidzalira"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "Liwu langa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "kuti amve khutu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ine"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:30.642190561Z",
+  "model": "glm-5.3"
+}

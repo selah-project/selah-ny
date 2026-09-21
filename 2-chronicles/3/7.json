@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 3:7",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Nadziiphimba ⟨את⟩ nyumba — matanda ake, malekezero, makoma ake ndi zipata zake — ndi golide; ndipo anasula kerubimu pa makoma.",
+  "tokens": [
+    {
+      "surface": "ויחף",
+      "gloss": "nadziiphimba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba — matanda ake, malekezero, makoma ake ndi zipata zake"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "הקרות",
+      "gloss": "matanda ake"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "malekezero"
+    },
+    {
+      "surface": "וקירותיו",
+      "gloss": "makoma ake"
+    },
+    {
+      "surface": "ודלתותיו",
+      "gloss": "ndi zipata zake"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ndi golide"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "anasula"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "makoma"
+    }
+  ],
+  "timestamp": "2026-09-21T12:38:11.061983024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Yahwe, m'chikondi chanu munayimiritsa phiri langa la mphamvu; munabisa nkhope yanu, ndipo ndinachitidwa mantha.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "m'chikondi chanu"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "munayimiritsa"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "phiri langa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "la mphamvu"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "munabisa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nkhope yanu"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndipo ndinachitidwa"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "mantha"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:46.424500892Z",
+  "model": "glm-5.3"
+}

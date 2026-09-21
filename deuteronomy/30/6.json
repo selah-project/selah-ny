@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo Yahwe Elohim wako adzadula khomo la mtima wako ndi ⟨את⟩ khomo la mtima la mbewu yako, kuti mukonde ⟨את⟩ Yahwe Elohim wako ndi mtima wako wonse ndi ndi moyo wako wonse, chifukwa cha moyo wako.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "adzadula khomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtima wako"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "mtima wako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "khomo la mtima la mbewu yako"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "khomo la mtima"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "la mbewu yako"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "kuti mukonde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim wako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ndi wonse"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "mtima wako"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ndi wonse"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "למען",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "moyo wako"
+    }
+  ],
+  "timestamp": "2026-09-21T07:29:30.012600470Z",
+  "model": "glm-5.3"
+}

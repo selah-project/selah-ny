@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 86,
+  "translation": "Ndidzakuyamikani, Adonayi Elohim wanga, ndi mtima wanga wonse; ndipo ndidzalemekeza Dzina lanu ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ndidzakuyamikani"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ndi … wonse"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "ndipo ndidzalemekeza"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Dzina lanu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:18.440518512Z",
+  "model": "glm-5.3"
+}

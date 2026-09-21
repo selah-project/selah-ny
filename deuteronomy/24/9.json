@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Kumbukira zimene Yahwe Elohim wako anachitira ⟨את⟩ Miriyamu pa njira, pamene munatuluka ku Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Kumbukira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miriyamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachitira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "Miriyamu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pa njira"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "pamene munatuluka"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ku Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:25:25.949587113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 45,
+  "translation": "Nadzaika ⟨את⟩ liwu lake mu kulira; ndipo Aigupto anamva, ndipo nyumba ya Paro inamva.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "nadzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liwu lake"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "liwu lake"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "mu kulira"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "anamva"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Aigipto"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "inamva"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-21T06:05:51.399703303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Koma chaka chachinayambirichi chidzakhala Sabata ya kmpumulo kwa dziko, Sabata ya Yahwe; munda wako usabzale, ndipo mpesa wako usawotche.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Koma mu chaka"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "chachinayambirichi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabata"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ya kmpumulo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "chidzakhala"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "kwa dziko"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabata"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "munda wako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "-bzale"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "ndipo mpesa wako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "-wotche"
+    }
+  ],
+  "timestamp": "2026-09-21T06:45:34.034204996Z",
+  "model": "glm-5.3"
+}

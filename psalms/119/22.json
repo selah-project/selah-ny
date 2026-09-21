@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Chotsani kuchokera pa ine chinyengo ndi kunyoza, pakuti ndasunga ⟨את⟩ mboni zako.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Chotsani"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "kuchokera pa ine"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "chinyengo"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "ndi kunyoza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "mboni zako"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ndasunga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:10:02.055408847Z",
+  "model": "glm-5.3"
+}

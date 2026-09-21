@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo atate wa mtsikana ndi amayi ake adzatenga nadzatulutsa ⟨את⟩ zizindikiro za usilikali za mtsikana kwa akulu a mzinda, pa khomo.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "adzatenga"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atate"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "wa mtsikana"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ndi amayi ake"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "nadzatulutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zizindikiro za usilikali za mtsikana"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "zizindikiro za usilikali"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "za mtsikana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "akulu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a mzinda"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "pa khomo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:25:21.984955821Z",
+  "model": "glm-5.3"
+}

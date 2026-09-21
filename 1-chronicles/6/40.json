@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo anawapatsa ⟨את⟩ Hebroni mu dziko la Yehuda, ndi ⟨את⟩ malo awo a kunja kuzungulira.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "anawapatsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebroni"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebroni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu dziko la"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malo awo a kunja"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "malo awo a kunja"
+    },
+    {
+      "surface": "סביבותיה",
+      "gloss": "kuzungulira"
+    }
+  ],
+  "timestamp": "2026-09-21T12:25:06.952920125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo ineyo ndinakwezani inu kuchokera m'dziko la Mitsrayimu, ndipo ndinayendetsani inu m'chilengalenga zaka makumi anayi, kuti mupeatse ⟨את⟩ dziko la Aemori.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ndipo ineyo"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "ndinakwezani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuchokera m'dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "ndipo ndinayendetsani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "m'chilengalenga"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi anayi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "kuti mupeatse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko la Aemori"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "la Aemori"
+    }
+  ],
+  "timestamp": "2026-09-21T10:23:57.583062414Z",
+  "model": "glm-5.3"
+}

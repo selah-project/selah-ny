@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 12:43",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo Yahwe anati kwa Moshe ndi Aharoni: Ichi ndi chilamulo cha Pasika — munthu aliyense wakunja sadzadya m'menemo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ndi Aharoni"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Ichi"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "chilamulo cha"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pasika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wa"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wakunja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dzadya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "m'menemo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:13:02.232792345Z",
+  "model": "glm-5.3"
+}

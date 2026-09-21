@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Yahwe Elohim analenga ⟨את⟩ munthu ndi dothi la nthaka, napuma mu mphuno zake mpweya wa moyo; ndipo munthu anakhala moyo wamoyo.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "ndipo analenga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munthu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dothi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "la"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "nthaka"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "napuma"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "mu mphuno zake"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "mpweya"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wa moyo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ndipo anakhala"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "wamoyo"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:23.361016805Z",
+  "model": "glm-5.3"
+}

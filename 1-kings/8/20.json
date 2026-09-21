@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 8:20",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo Yahwe adayimiritsa ⟨את⟩ mawu ake amene ananena, ndipo inayimirira m'malo mwa Davide atate wanga, ndipo ndinakhala pa mpando wachifumu wa Yisraeli, monga ananena Yahwe, ndipo ndinamanga nyumbayi ku dzina la Yahwe, Elohim wa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Ndipo adayimiritsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu ake"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "mawu ake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "ואקם",
+      "gloss": "inayimirira"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "m'malo mwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atate wanga"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "ndipo ndinakhala"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "mpando wachifumu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "ndipo ndinamanga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumbayi"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ku dzina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:36:56.766742669Z",
+  "model": "glm-5.3"
+}

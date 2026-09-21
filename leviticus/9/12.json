@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo anapha ⟨את⟩ nsembe yopsereza, ndipo ana a Aharon anabweretsa kwa iye ⟨את⟩ magazi, nakuuziriza pa guwa,kutali ndi kuyandikana.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "anapha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe yopsereza"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nsembe yopsereza"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "anabweretsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magazi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "magazi"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "nakuuziriza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kutali ndi kuyandikana"
+    }
+  ],
+  "timestamp": "2026-09-21T06:33:42.207864327Z",
+  "model": "glm-5.3"
+}

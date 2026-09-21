@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 150,
+  "translation": "Lemekezani Iye ndi kulira kwa shopala; lemekezani Iye ndi neveli ndi kinora.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "lemekezani Iye"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "ndi kulira kwa"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shopala"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lemekezani Iye"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "ndi neveli"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ndi kinora"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:29.930729698Z",
+  "model": "glm-5.3"
+}

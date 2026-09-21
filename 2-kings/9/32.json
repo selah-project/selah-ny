@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo anayang'itsa nkhope yake ku diri, nati: Ndani ali ⟨את⟩ ndi ine? ndani? Ndipo anayang'ana kwa iye awiri kapena atatu madona.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Ndipo anayang'itsa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "nkhope yake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "diri"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ndani"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ndi ine"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "Ndipo anayang'ana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "awiri kapena atatu"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "awiri kapena atatu"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "madona"
+    }
+  ],
+  "timestamp": "2026-09-21T08:51:13.728203787Z",
+  "model": "glm-5.3"
+}

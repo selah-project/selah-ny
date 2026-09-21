@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Uwatibwezera mmbuyo kuchokera kwa mdani, ndipo odana ndi ife adavunda kwa iwo eni.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "Uwatibwezera"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "mmbuyo"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kuchokera kwa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "mdani"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "ndipo odana ndi ife"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "adavunda"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kwa iwo eni"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:52.357099867Z",
+  "model": "glm-5.3"
+}

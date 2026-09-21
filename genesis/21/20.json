@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo Elohim anali ⟨את⟩ mnyamatayo, ndipo anakula, nakhala ku chipululu, nakhala wosewera uta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mnyamatayo"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mnyamatayo"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "anakula"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nakhala"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ku chipululu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nakhala"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "wosewera"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "uta"
+    }
+  ],
+  "timestamp": "2026-09-21T05:51:06.148130109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo chinali chaka chachitatu, Yehoshafata, mfumu ya Yuda, atatsika kwa mfumu ya Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo chinali"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "chaka"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "chachitatu"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "atatsika"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafata"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T13:10:24.514608395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Yandikira mawu a kufuula kwanga, mfumu yanga ndi Elohim wanga; chifukwa kwa iwe ndimapemphera.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Yandikira"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "kufuula kwanga"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mfumu yanga"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ndi Elohim wanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "ndimapemphera"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:13.563646815Z",
+  "model": "glm-5.3"
+}

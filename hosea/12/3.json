@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 12:3",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo Yahwe ali nayo mkangano ndi Yehuda, ndipo adzaweruzira Yakobo monga mwa makhalidwe ake; monga mwa ntchito zake adzamubwezera iye.",
+  "tokens": [
+    {
+      "surface": "וריב",
+      "gloss": "Ndipo ali nayo mkangano"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ולפקד",
+      "gloss": "ndipo adzaweruzira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "monga mwa makhalidwe ake"
+    },
+    {
+      "surface": "כמעלליו",
+      "gloss": "monga mwa ntchito zake"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "adzamubwezera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    }
+  ],
+  "timestamp": "2026-09-21T10:23:28.145052495Z",
+  "model": "glm-5.3"
+}

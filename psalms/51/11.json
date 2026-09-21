@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 51,
+  "translation": "Bisaniza nkhope yanu ku machimo anga, ndipo wonyololani zoipa zanga zonse.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "Bisaniza"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nkhope yanu"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "ku machimo anga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo zonse"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "za zoipa zanga"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "wonyololani"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:03.207186905Z",
+  "model": "glm-5.3"
+}

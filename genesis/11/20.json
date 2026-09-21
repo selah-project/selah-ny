@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Rewu anakhala zaka awiri ndi makumi atatu, ndipo anabala ⟨את⟩ Serugi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Rewu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ndi makumi atatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serugi"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serugi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:46:23.875714899Z",
+  "model": "glm-5.3"
+}

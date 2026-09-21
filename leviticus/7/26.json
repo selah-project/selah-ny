@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo madzi onse <amntchito> simudzawadya, madzi a mbalame ndi a nyama, m'malo onse amene mukhala.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ndipo madzi onse"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madzi <amntchito>"
+    },
+    {
+      "surface": "לא",
+      "gloss": "simudzawadya"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "simudzawadya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "m'malo onse"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "amene mukhala"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "a mbalame"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "ndi a nyama"
+    }
+  ],
+  "timestamp": "2026-09-21T06:32:40.080788616Z",
+  "model": "glm-5.3"
+}

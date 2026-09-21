@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 6:4",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Tsiku zonse za udindo wake wopatulidwa, chilichonse chimene chimachokera mu mpesa wa vinyo, kuyambira mbewe mpaka khungu, sadzachidya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Tsiku"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "za udindo wake wopatulidwa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "chilichonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "chimachokera mu"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "mu mpesa"
+    },
+    {
+      "surface": "היין",
+      "gloss": "wa vinyo"
+    },
+    {
+      "surface": "מחרצנים",
+      "gloss": "kuyambira mbewe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "זג",
+      "gloss": "khungu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dzachidya"
+    }
+  ],
+  "timestamp": "2026-09-21T06:53:36.060314692Z",
+  "model": "glm-5.3"
+}

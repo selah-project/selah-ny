@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Yahwe amayesa wolungama; koma woipa ndi wokonda chiwembu, moyo wake umawadana.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "amayesa"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "koma woipa"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "ndi wokonda"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "chiwembu"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "umawadana"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moyo wake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:10.942389989Z",
+  "model": "glm-5.3"
+}

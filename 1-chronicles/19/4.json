@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo Hanuni anatenga ⟨את⟩ akapolo a Davide, nadzewetsa, nadula ⟨את⟩ zovala zawo pakati, kufikira pa chikwangwala, nadzatuma.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akapolo a Davide"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "akapolo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "a Davide"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "nadzewetsa"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "nadula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zovala zawo"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "zovala zawo"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "pakati"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "chikwangwala"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "nadzatuma"
+    }
+  ],
+  "timestamp": "2026-09-21T12:30:48.602299787Z",
+  "model": "glm-5.3"
+}

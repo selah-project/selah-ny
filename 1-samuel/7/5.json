@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo Shemueli anati: “Sonkhanitsani ⟨את⟩ Yisraeli wonse ku Mitzipa, ndipo ndidzapemphera chifukwa cha inu kwa Yahwe.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "Sonkhanitsani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli wonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "ku Mitzipa"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "ndipo ndidzapemphera"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "chifukwa cha inu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:01:25.163335422Z",
+  "model": "glm-5.3"
+}

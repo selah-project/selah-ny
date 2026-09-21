@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Poonekera kwawo anali anthu ochepa ka nambala, ochepa pafupifupi, ndipo anali alendo m'menemo.",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "Poonekera kwawo anali"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ochepa ka nambala"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ochepa pafupifupi"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "ndipo anali alendo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "m'menemo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:12.728799480Z",
+  "model": "glm-5.3"
+}

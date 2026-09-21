@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Kenaani anabala ⟨את⟩ Tsидoni wamwazi wake woyamba, ndi ⟨את⟩ Kheti.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Ndipo Kenaani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsидoni"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsидoni"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "wamwazi wake woyamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Kheti"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Kheti"
+    }
+  ],
+  "timestamp": "2026-09-21T12:23:00.208008100Z",
+  "model": "glm-5.3"
+}

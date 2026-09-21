@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Wodzaza manja yoyera, ndi wabwino mtima, amene sananyamule moyo wake ku zopanda pake, ndipo sanalumbire m'chinyengo.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "manja"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "ndi wabwino"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa(na)"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "sananyamule"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ku zopanda pake"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sana"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "sanalumbire"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "m'chinyengo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:26.727855093Z",
+  "model": "glm-5.3"
+}

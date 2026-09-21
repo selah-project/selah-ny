@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Pomwe Efrayimu ankayankhula, kunali ⟨mantha⟩; iye anakwezedwa m'Yisraeli; koma anachimira m'Baali, nadiye anafa.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "Pomwe ankayankhula"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "mantha"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "anakwezedwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "m'Yisraeli"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "anachimira"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "m'Baali"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "anafa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:23:34.010011741Z",
+  "model": "glm-5.3"
+}

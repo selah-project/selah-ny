@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 95,
+  "translation": "Tiyandikire pamaso pake ndi chiyamiko, ndi nyimbo tibvomotse liu kwa iye.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "Tiyandikire pamaso pake"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "pamaso pake"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ndi chiyamiko"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "ndi nyimbo"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "tibvomotse liu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:31.338468764Z",
+  "model": "glm-5.3"
+}

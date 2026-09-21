@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 118,
+  "translation": "Dzanja lamanja la Yahwe lirimitsekedwa; dzanja lamanja la Yahwe likuchita chamlimba.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "dzanja lamanja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "lirimitsekedwa"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "dzanja lamanja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "likuchita"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "chamlimba"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:07.086907169Z",
+  "model": "glm-5.3"
+}

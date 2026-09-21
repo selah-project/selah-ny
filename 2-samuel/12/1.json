@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo Yahwe anatuma ⟨את⟩ Natani kwa Davide; nadza kwa iye, nati kwa iye: “Anthu awiri anali mu mzinda umodzi; wina anali wachuma, ndi wina anali wosasowa.”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "anatuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natani"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nadza"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "שני",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "anali"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mzinda"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "umodzi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wina"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "wachuma"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ndi wina"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "wosasowa"
+    }
+  ],
+  "timestamp": "2026-09-21T08:22:25.836946475Z",
+  "model": "glm-5.3"
+}

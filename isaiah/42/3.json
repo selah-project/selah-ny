@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Nsungununu yophwanyidwa sadzaiphwanya, ndipo linti lofooka sadzafulumizitsa kuizimitsa; m'choonadi adzatulutsa chiweruzo.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "Nsungununu"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "yophwanyidwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadzai-"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "phwanya"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "ndipo linti"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "lofooka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadzai-"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "zimitsa"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "m'choonadi"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "adzatulutsa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chiweruzo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:18:33.151522027Z",
+  "model": "glm-5.3"
+}

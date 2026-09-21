@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Choncho miyambo yonse ya malamulo ako ndayesa yowolenga manja; njira zonse za bodza ndidana.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "cha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "miyambo ya malamulo ako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mwadongosolo"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "ndayesa yowolenga manja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "njira"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "za bodza"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ndidana"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:00.026552563Z",
+  "model": "glm-5.3"
+}

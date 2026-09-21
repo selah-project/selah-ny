@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Zinthu zovuta sichipindulitsa, koma chilungamo chimapulumutsa ku imfa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "chipindulitsa"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "chuma"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "cha zoipa"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "koma chilungamo"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "chimapulumutsa"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ku imfa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:20:47.928636297Z",
+  "model": "glm-5.3"
+}

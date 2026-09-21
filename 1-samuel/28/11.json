@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo mkazi anati: “⟨את⟩ Ndani ndimukweza kwa iwe?” Ndipo iye anati: “⟨את⟩ Shumueli mukwezerani kwa ine.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ndipo anati"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ndimukweza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo iye anati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shumueli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shumueli"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "mukwezerani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T08:13:39.988136252Z",
+  "model": "glm-5.3"
+}

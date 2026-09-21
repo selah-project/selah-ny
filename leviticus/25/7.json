@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndi za ziweto zako, ndi za nyama zakuthengo zili m'dziko lako; chipatso chake chonse chidzakhala chakudya.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "ndi za ziweto zako"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "ndi za nyama zakuthengo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zili"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "m'dziko lako"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "chidzakhala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chonse"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "chipatso chake"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "chakudya"
+    }
+  ],
+  "timestamp": "2026-09-21T06:45:00.502662704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo amunawo analamba ⟨את⟩ dzanja lawo, nabweretsa ⟨את⟩ Loti kwa iwo m'nyumba, ndipo ⟨את⟩ khomo anatseka.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "analamba"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "amuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzanja lawo"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "dzanja lawo"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "nabweretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Loti"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loti"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "khomo"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "khomo"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "anatseka"
+    }
+  ],
+  "timestamp": "2026-09-21T05:48:18.060061616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 18:19",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo tsopano tumiza, sonkhanitsa kwa ine ⟨את⟩ Yisraeli wonse ku phala la Karmeli, ndi ⟨את⟩ aneneri a Baali mazana anayi ndi makumi asanu, ndi aneneri a Ashera mazana anayi, akudya pa gome la Izebeli.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ndipo tsopano"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "tumiza"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "sonkhanitsa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli wonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הר",
+      "gloss": "phala"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "la Karmeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "aneneri a Baali"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "aneneri"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "a Baali"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mazana anayi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(mazana)"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ndi makumi asanu"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "ndi aneneri"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "a Ashera"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mazana anayi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(mazana)"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "akudya"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "pa gome"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "la Izebeli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:44:06.335741718Z",
+  "model": "glm-5.3"
+}

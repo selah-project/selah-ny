@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo mfumu adafa, ndipo <kamutu> anafikitsidwa ku Shomeroni, ndipo anamika ⟨את⟩ mfumu ku Shomeroni.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "adafa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "anafikitsidwa"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ku Shomeroni"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "anamika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfumu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "ku Shomeroni"
+    }
+  ],
+  "timestamp": "2026-09-21T13:10:35.754246115Z",
+  "model": "glm-5.3"
+}

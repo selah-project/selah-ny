@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 124,
+  "translation": "akadati madziwo atitumbiza, mtsinjewo kadapita pa moyo wathu,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "akadati"
+    },
+    {
+      "surface": "המים",
+      "gloss": "madziwo"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "atitumbiza"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "mtsinjewo"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kadapita"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "moyo wathu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:29.953268892Z",
+  "model": "glm-5.3"
+}

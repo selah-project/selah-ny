@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 103,
+  "translation": "Adamuetsa njira zake kwa Moshe, ndi zochita zake kwa ana a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "Adamuetsa"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "njira zake"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kwa Moshe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "zochita zake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:43.647035308Z",
+  "model": "glm-5.3"
+}

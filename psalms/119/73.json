@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 73,
+  "ref": "psalms 119:73",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Manja anu anandipanga ndi kundikhazikitsa; ndipatsire chidziwitso, ndipo ndidzaphunzira malamulo anu.",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "manja anu"
+    },
+    {
+      "surface": "עשוני",
+      "gloss": "anandipanga"
+    },
+    {
+      "surface": "ויכוננוני",
+      "gloss": "ndi kundikhazikitsa"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "ndipatsire chidziwitso"
+    },
+    {
+      "surface": "ואלמדה",
+      "gloss": "ndipo ndidzaphunzira"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "malamulo anu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:34.806150082Z",
+  "model": "glm-5.3"
+}

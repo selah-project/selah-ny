@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndithu chifundo ndi khesedi zidzanditsata masiku onse a moyo wanga; ndipo ndidzakhalabe m'nyumba ya Yahwe mpaka nthawi yayitali.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "chifundo"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "ndi khesedi"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "zidzanditsata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "a moyo wanga"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "ndipo ndidzakhalabe"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "m'nyumba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "mpaka nthawi yayitali"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ya masiku"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:52.540852115Z",
+  "model": "glm-5.3"
+}

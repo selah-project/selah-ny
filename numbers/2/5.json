@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo akakhazikika pafupi ndi iye ndi fuko la Yissaskar, ndipo mtsogoleri wa ana a Yissaskar ndiye Netanayeli mwana wa Tsuari.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "Ndipo akakhazikika pafupi ndi iye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pafupi ndi iye"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "fuko"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "la Yissaskar"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ndipo mtsogoleri"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wa ana a"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanayeli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tsuari"
+    }
+  ],
+  "timestamp": "2026-09-21T06:49:33.897955143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ndiponso mafumu anakhala, analankhula kwa ine; kapolo wako anaganizira za malamulo ako.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ndiponso"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "analankhula"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kapolo wako"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "anaganizira"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "za malamulo ako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:10:02.055587236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 97,
+  "translation": "Mapiri anayera monga maweni pamaso pa Yahwe, pamaso pa Adonayi wa dziko lonse lapansi.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Mapiri"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "monga maweni"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "anayera"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:49.374982878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 7:20",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ana a Adini, mazana asanu ndi limodzi, makumi asanu ndi chirichose (makumi asanu ndi chisanu ndi chimodzi).",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ana a"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "Adini"
+    },
+    {
+      "surface": "שש",
+      "gloss": "mazana asanu ndi limodzi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "makumi asanu"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ndi chisanu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:19:04.001901235Z",
+  "model": "glm-5.3"
+}

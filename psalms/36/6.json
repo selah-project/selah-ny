@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Yahwe, m'kumwamba ndi khesedi kwanu; kukhulupirika kwanu kufikira mitambo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "m'kumwamba"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedi kwanu"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kukhulupirika kwanu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "mitambo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:07.975061439Z",
+  "model": "glm-5.3"
+}

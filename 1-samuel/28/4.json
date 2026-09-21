@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo Pelishtim anasonkhana, nalowa, nagwira msasa ku Shunemu; ndipo Shauli anasonkhitsa ⟨את⟩ Yisraeli onse, nagwira msasa ku Gilbova.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "anasonkhana"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "nalowa"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "nagwira msasa"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "ku Shunemu"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "anasonkhitsa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "nagwira msasa"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "ku Gilbova"
+    }
+  ],
+  "timestamp": "2026-09-21T08:14:57.716039595Z",
+  "model": "glm-5.3"
+}

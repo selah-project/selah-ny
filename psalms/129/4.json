@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 129,
+  "translation": "Yahwe wolungama; anadula zinga za oipa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "anadula"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "zinga"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "za oipa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:56.995378363Z",
+  "model": "glm-5.3"
+}

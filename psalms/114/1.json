@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 114,
+  "translation": "Pokatuluka kwa Yisraeli kuchokera ku Mitsrayimu, nyumba ya Yakobo kuchokera kwa anthu achilendo polankhula",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "pokatuluka kwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuchokera ku Mitsrayimu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Yakobo"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kuchokera kwa anthu"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "achilendo polankhula"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:13.808144118Z",
+  "model": "glm-5.3"
+}

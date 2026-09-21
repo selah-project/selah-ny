@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Moshe ndi Aharoni anatenga ⟨את⟩ anthu amenewa amene anatchulidwa ndi maina.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ndi Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu amenewa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "amenewa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "anatchulidwa"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "ndi maina"
+    }
+  ],
+  "timestamp": "2026-09-21T06:49:18.129563225Z",
+  "model": "glm-5.3"
+}

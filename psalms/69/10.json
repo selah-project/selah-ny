@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Pakuti changu cha nyumba yako chindadya, ndi nyozo za akunyoza iwe zinagwere pa ine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "changu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "cha nyumba yako"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "chindadya"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "ndi nyozo"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "za akunyoza iwe"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "zinagwere"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:50.377723961Z",
+  "model": "glm-5.3"
+}

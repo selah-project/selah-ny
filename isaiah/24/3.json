@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Kudziboza kudzaboza dziko lapansi, ndi kudibozedwa kudzabozedwa konsekonse; popeza Yahwe analankhula ⟨את⟩ mawu awa.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Kudziboza"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "kudzaboza"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "ndi kudibozedwa"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "kudzabozedwa konsekonse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "analankhula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu awa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "awa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:11:33.269576947Z",
+  "model": "glm-5.3"
+}

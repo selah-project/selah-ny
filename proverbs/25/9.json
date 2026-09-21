@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Mlandu wanu weruzani ndi ⟨את⟩ wathu wanu, ndipo chinsinsi cha wina musafulatse.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "mlandu wanu"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "weruzani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wathu wanu"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "wathu wanu"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "ndipo chinsinsi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "cha wina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "-safulatse"
+    }
+  ],
+  "timestamp": "2026-09-21T11:26:01.560426567Z",
+  "model": "glm-5.3"
+}

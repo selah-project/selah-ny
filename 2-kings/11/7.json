@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "ndipo magawo awiri mwa inu, onse akutuluka pa Sabata, adzasunga ⟨את⟩ chitetezo cha nyumba ya Yahwe kufupi ndi mfumu.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "ndipo magawo awiri"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "magawo"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mwa inu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "akutuluka"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "pa Sabata"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "adzasunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chitetezo"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "chitetezo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "cha nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kufupi ndi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:52:09.810398800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Parashi, Kushi ndi Puti, ⟨את⟩ pamodzi ndi iwo; onse awo ali ndi chishango ndi chikopa cha mutu.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Parashi"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushi"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "ndi Puti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "pamodzi ndi iwo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "onse awo"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "chishango"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "ndi chikopa cha mutu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:12:55.077080274Z",
+  "model": "glm-5.3"
+}

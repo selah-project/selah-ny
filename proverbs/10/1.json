@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Miyambo ya Shelomoh. Mwana wanzeru amasangalatsa atate, koma mwana wopusa ndi chisoni cha amake.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "Miyambo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ya Shelomoh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wanzeru"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "amasangalatsa"
+    },
+    {
+      "surface": "אב",
+      "gloss": "atate"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "koma mwana"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "wopusa"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "chisoni"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "cha amake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:20:47.928358584Z",
+  "model": "glm-5.3"
+}

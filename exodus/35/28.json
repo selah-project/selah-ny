@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Ndipo ⟨את⟩ zomera zokometsera ndi ⟨את⟩ mafuta — ku kuwala, ndi ku mafuta odzozera, ndi ku ashesha ya zomera zokometsera.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zomera zokometsera"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "zomera zokometsera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ku kuwala"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "ndi ku mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "odzozera"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "ndi ku ashesha"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ya zomera zokometsera"
+    }
+  ],
+  "timestamp": "2026-09-21T06:26:20.514446781Z",
+  "model": "glm-5.3"
+}

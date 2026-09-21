@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Adaika ⟨iye⟩ mbuye wa nyumba yake, ndi wowulamulira pa zonse zake.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "adaika"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "mbuye"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "wa nyumba yake"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ndi wowulamulira"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pa zonse"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "zake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:07.187444210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo wamkulu wa alonda anatenga ⟨את⟩ Tserayah, mnsembe wamkulu, ndi ⟨את⟩ Tsefanyahu, mnsembe wachiwiri, ndi ⟨את⟩ atatu a osunga khomo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ndipo anatenga"
+    },
+    {
+      "surface": "רב",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wa alonda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tserayah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Tserayah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mnsembe"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Tsefanyahu"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanyahu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mnsembe"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "wachiwiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "atatu a osunga khomo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "a osunga"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "khomo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:02:14.220161307Z",
+  "model": "glm-5.3"
+}

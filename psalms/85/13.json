@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 85,
+  "translation": "Ndithu Yahwe adzapatsa chabwino, ndipo dziko lathu lidzapatsa zokolola zake.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ndithu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "adzapatsa"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "chabwino"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "ndipo dziko lathu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "lidzapatsa"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "zokolola zake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:10.962119255Z",
+  "model": "glm-5.3"
+}

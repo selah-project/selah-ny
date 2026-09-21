@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo Yisraeli onse anatsika kwa Afilishti, kulaphula munthu yense ⟨את⟩ khasu lake, ndi ⟨את⟩ chakulima chake, ndi ⟨את⟩ seke chake, ndi ⟨את⟩ khasu lake lalikulu.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "anatsika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "kwa Afilishti"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "kulaphula"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu yense"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khasu lake"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "khasu lake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chakulima chake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "chakulima chake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "seke chake"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "seke chake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "khasu lake lalikulu"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "khasu lake lalikulu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:04:55.322673057Z",
+  "model": "glm-5.3"
+}

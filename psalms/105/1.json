@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Mvetserani Yahwe, itanani m'dzina lake; dziwitsani mwa anthu ntchito zake.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Mvetserani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "itanani"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "m'dzina lake"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "dziwitsani"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "mwa anthu"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ntchito zake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:26.999120993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Chiphunzitso cha Asafu. Imvani makutu, anthu anga, Tora yanga; tetolani makutu anu ku mawu a pakamwa panga.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Chiphunzitso"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "cha Asafu"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Imvani makutu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "anthu anga"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora yanga"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "tetolani"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "makutu anu"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ku mawu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "a pakamwa panga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:26.265297454Z",
+  "model": "glm-5.3"
+}

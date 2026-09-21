@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo tsopano, taona, ndabweretsa ⟨את⟩ choyamba cha zipatso za dziko, umene uninapatsa ine, Yahwe; ndipo udzaika chimenecho pamaso pa Yahwe Elohim wako, ndipo udzagwadira pamaso pa Yahwe Elohim wako.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ndipo tsopano"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "ndabweretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "choyamba cha zipatso"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "choyamba"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "zipatso"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "za dziko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "uninapatsa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "udzaika chimenecho"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "udzagwadira"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    }
+  ],
+  "timestamp": "2026-09-21T07:26:30.868974789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Wachikhumi ndi kamodzi Elyashivi, wachikhumi ndi iwiri Yakimi.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "ndi Elyashivi"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "wachikhumi ndi kamodzi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "ndi Yakimi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iwiri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "khumi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:33:03.495403625Z",
+  "model": "glm-5.3"
+}

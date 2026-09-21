@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Ndipo adathetsa masiku awo m'chabe, ndi zaka zawo m'mmantha.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "adathetsa"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "m'chabe"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "masiku awo"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "ndi zaka zawo"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "m'mmantha"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:47.490374116Z",
+  "model": "glm-5.3"
+}

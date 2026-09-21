@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Ine ndidzabweza mawu kwa iwe, ndi ⟨את⟩ anzanako pamodzi ndi iwe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "ndidzabweza mawu kwa iwe"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "anzanako"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "anzanako"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pamodzi ndi iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:44:36.043758585Z",
+  "model": "glm-5.3"
+}

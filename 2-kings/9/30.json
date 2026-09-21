@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 9:30",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Yehu anafika ku Yizreeli, ndipo Izeveli pamene anamva, nadzayika pafuko pa maso ake, nakonzetsa ⟨את⟩ mutu wake, nayang'anira m'khomo la diri.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "Ndipo Yehu anafika"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "ku Yizreeli"
+    },
+    {
+      "surface": "ואיזבל",
+      "gloss": "ndipo Izeveli"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "pamene anamva"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "nadzayika"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "pafuko"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "pa maso ake"
+    },
+    {
+      "surface": "ותיטב",
+      "gloss": "nakonzetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutu wake"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "mutu wake"
+    },
+    {
+      "surface": "ותשקף",
+      "gloss": "nayang'anira"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "m'khomo la"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "diri"
+    }
+  ],
+  "timestamp": "2026-09-21T08:51:13.727879556Z",
+  "model": "glm-5.3"
+}

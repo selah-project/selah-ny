@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "M'nthambi zawo simudzadya, ndi matupi awo akufa simudzakhudza; odetsedwa ndi okha kwa inu.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "m'nthambi zawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mudzadya"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "ndi matupi awo akufa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "mudzakhudza"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "odetsedwa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ndi okha"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:58:05.493587052Z",
+  "model": "glm-5.3"
+}

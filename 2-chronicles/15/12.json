@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo analowa m'pangano kufunafuna ⟨את⟩ Yahwe, Elohim wa makolo awo, ndi mtima wawo wonse ndi ndi moyo wawo wonse.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "analowa"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "m'pangano"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "kufunafuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "makolo awo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "mtima wawo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ndi wonse"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "moyo wawo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:41:55.101135334Z",
+  "model": "glm-5.3"
+}

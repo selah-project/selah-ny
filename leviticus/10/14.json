@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 10:14",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo chifuwa chowombedwa ndi ⟨את⟩ chighero chopereko mudzadya m'malo woyera, iwe ndi ana ako ndi ana akazi ako ndi ⟨את⟩ iwe; popeza gawo lako ndi gawo la ana ako zimaperekedwa, kuchokera m'nsembe za mtendere za ana a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chifuwa chowombedwa"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "chifuwa"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "chowombedwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chighero chopereko"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "chighero"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "chopereko"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mudzadya"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "m'malo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ndi ana ako"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "ndi ana akazi ako"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ndi ⟨את⟩ iwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "gawo lako"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "ndi gawo"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "la ana ako"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "zimaperekedwa"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "kuchokera m'nsembe"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "za mtendere"
+    },
+    {
+      "surface": "בני",
+      "gloss": "za ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T06:35:14.480353950Z",
+  "model": "glm-5.3"
+}

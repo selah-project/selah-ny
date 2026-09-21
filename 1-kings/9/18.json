@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo ⟨את⟩ Baalathi ndi ⟨את⟩ Tamari m'chipululu, m'dzikolo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Baalathi"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baalathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Tamari"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamari"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "m'chipululu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dzikolo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:36:41.405347460Z",
+  "model": "glm-5.3"
+}

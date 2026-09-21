@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Mawu ako ⟨anayeretsedwa⟩ ndi moto kwambiri ⟨ndipo⟩ oyera, ndipo kapolo wako adawakonda.",
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "anayeretsedwa ndi moto"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "Mawu ako"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "ndipo kapolo wako"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "adawakonda"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:09.105172652Z",
+  "model": "glm-5.3"
+}

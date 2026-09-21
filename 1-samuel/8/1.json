@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo zinachitika, pamene Shemuweli anakalamba, adaika ⟨את⟩ ana ake akhale aweruzi kuYisraeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zinachitika"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "pamene"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "anakalamba"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "adaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana ake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "aweruzi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kuYisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:01:26.896918423Z",
+  "model": "glm-5.3"
+}

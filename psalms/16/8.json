@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndakhazikitsa Yahwe pamaso panga nthawi zonse; chifukwa ali kudzanja langa lamanja, sindidzasunthika.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "Ndakhazikitsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "pamaso panga"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nthawi zonse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "ali kudzanja langa lamanja"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sindi-"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "didzasunthika"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:48.437583652Z",
+  "model": "glm-5.3"
+}

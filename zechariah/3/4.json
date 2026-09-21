@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 3:4",
+  "book": "zechariah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Najo iyo anayankha, nati kwa iwo akuyimirira pamaso pake, kuti: “Chotsani zovala zoipa za pa iye.” Nayenso anati kwa iye: “Ona, ndapambutsa cholakwa chako kuchoka pa iwe, ndipo ndidzakuvala ⟨את⟩ zovala zokongola.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "anayankha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "iwo akuyimirira"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pamaso pake"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "chotsani"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "zovala"
+    },
+    {
+      "surface": "הצאים",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "za pa iye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "העברתי",
+      "gloss": "ndapambutsa"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "kuchoka pa iwe"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "cholakwa chako"
+    },
+    {
+      "surface": "והלבש",
+      "gloss": "ndipo ndidzakuvala"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "zovala zokongola"
+    },
+    {
+      "surface": "מחלצות",
+      "gloss": "zovala zokongola"
+    }
+  ],
+  "timestamp": "2026-09-21T10:36:40.852922669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo ⟨את⟩ Aharoni ndi ⟨את⟩ ana ake udzawatimbutsa ku khomo la chihema cha kasonkhano, ndipo udzawatsuka ⟨את⟩ iwo ndi madzi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana ake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "udzawatimbutsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "khomo la"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "cha kasonkhano"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "udzawatsuka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ndi madzi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:56:51.288198573Z",
+  "model": "glm-5.3"
+}

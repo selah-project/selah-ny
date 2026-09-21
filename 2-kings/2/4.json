@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 2:4",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Eliyahu anati kwa iye, Elisha: “Khala apa, chonde, chifukwa Yahwe watuma ine Yerikho.” Ndipo iye anati: “Monga Yahwe ali ndi moyo, ndi monga moyo wako uli ndi moyo, sindidzakusiya.” Ndipo analowa Yerikho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Khala"
+    },
+    {
+      "surface": "נא",
+      "gloss": "chonde"
+    },
+    {
+      "surface": "פה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "watuma ine"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yerikho"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ali ndi moyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ndi monga … uli ndi moyo"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ngati⟩"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "sindidzakusiya"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "analowa"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yerikho"
+    }
+  ],
+  "timestamp": "2026-09-21T08:48:05.077115791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Pakuti Yahwe amvera olakwa, ndipo samnyozera ⟨את⟩ akumunda ake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "amvera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "olakwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "akumunda ake"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "akumunda ake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "kunyoza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:07.435756065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Moshe anatenga ⟨את⟩ mkazi wake ndi ⟨את⟩ ana ake, nawakweza pa bulu, nabwerera ku dziko la Mitsrayimu; ndipo Moshe anatenga ⟨את⟩ ndodo ya Elohim m'dzanja lake.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkazi wake"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mkazi wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana ake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "nawakweza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "bulu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nabwerera"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ku dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndodo ya Elohim"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ndodo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "m'dzanja lake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:09:07.974724862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 67,
+  "translation": "Dziko lapansi lapereka zokolola zake; Elohim, Elohim wathu, atidalitse.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "lapereka"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "zokolola zake"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "atidalitse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:54.165762218Z",
+  "model": "glm-5.3"
+}

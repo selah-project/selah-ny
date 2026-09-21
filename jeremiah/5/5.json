@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 5:5",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndidzapita kwa akulu ndipo ndidzayankhula ⟨את⟩ ndi iwo, pakuti iwo amadziwa njira ya Yahwe, lamulo la Elohim wawo; koma iwo limodzi-limodzi adambara golo, adawulula maunyolo ake.",
+  "tokens": [
+    {
+      "surface": "אלכה",
+      "gloss": "Ndidzapita"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "akulu"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ndipo ndidzayankhula"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ndi iwo",
+      "marks": "iwo (akuluwo)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "amadziwa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "lamulo"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wawo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "koma"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "limodzi-limodzi"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "adambara"
+    },
+    {
+      "surface": "על",
+      "gloss": "goli"
+    },
+    {
+      "surface": "נתקו",
+      "gloss": "adawulula"
+    },
+    {
+      "surface": "מוסרות",
+      "gloss": "maunyolo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:30:41.297364569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 17:10",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ine Yahwe ndiyang'anira mtima, ndiyesera mauro, ndi kupatsa munthu aliyense monga mwa njira zake, monga mwa zipatso za ntchito zake.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "ndiyang'anira"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "ndiyesera"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "mauro"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "ndi kupatsa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "munthu aliyense"
+    },
+    {
+      "surface": "כדרכו",
+      "gloss": "monga mwa njira zake"
+    },
+    {
+      "surface": "כפרי",
+      "gloss": "monga mwa zipatso"
+    },
+    {
+      "surface": "מעלליו",
+      "gloss": "za ntchito zake"
+    }
+  ],
+  "timestamp": "2026-09-21T09:34:40.897067677Z",
+  "model": "glm-5.3"
+}

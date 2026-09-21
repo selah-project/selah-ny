@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Koma ine ndikudziwa kuti mfumu ya Mitsrayimu sidzakupatsani ⟨את⟩ inu kulowa, kupanda ⟨⟨cho⟩⟩ dzanja lamphamvu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Koma ine"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndikudziwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dzakupatsani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "kulowa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kupanda"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dzanja"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "lamphamvu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:09:41.532150166Z",
+  "model": "glm-5.3"
+}

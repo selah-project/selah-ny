@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Mawu pa mapiri akum'chere ambadwa: kulira, mapemphero a ana a Yisraeli, popeza anachimbiza ⟨את⟩ njira yawo, anaiwala ⟨את⟩ Yahwe Elohim wawo.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Mawu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "mapiri akum'chere"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ambadwa"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "kulira"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mapemphero"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "anachimbiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njira yawo"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "njira yawo"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "anaiwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim wawo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wawo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:29:51.997822905Z",
+  "model": "glm-5.3"
+}

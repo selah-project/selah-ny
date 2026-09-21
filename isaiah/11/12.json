@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 11:12",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo adzawulula chizindikiro cha midzi, ndipo adzasonkhanitsa otsutsidwa a Yisraeli, ndipo osasazidwa a Yehudaha adzawasonkhanitsa, kuchokera kumakona anayi a dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "adzawulula"
+    },
+    {
+      "surface": "נס",
+      "gloss": "chizindikiro"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "cha midzi"
+    },
+    {
+      "surface": "ואסף",
+      "gloss": "ndipo adzasonkhanitsa"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "otsutsidwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "ונפצות",
+      "gloss": "ndipo osasazidwa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yehudaha"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "adzawasonkhanitsa"
+    },
+    {
+      "surface": "מארבע",
+      "gloss": "kuchokera ku … anayi"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "makona"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T09:06:00.599364162Z",
+  "model": "glm-5.3"
+}

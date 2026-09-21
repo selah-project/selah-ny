@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 108:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 108,
+  "translation": "Kuti omewedwa ndiwe apulumutsidwe; mupulumutse ndi dzanja lako lamanja, ndipo undiyankhe ine.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Kuti"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "apulumutsidwe"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "omewedwa ndiwe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "mupulumutse"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dzanja lako lamanja"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ndipo undiyankhe ine"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:52.334412027Z",
+  "model": "glm-5.3"
+}

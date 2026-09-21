@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo chuma chija chidatayika m'chisautso chosalala; ndipo adabala mwana, koma palibe kanthu m'dzanja lake.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "chidatayika"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "chuma chija"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chija"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "m'chisautso chosalala"
+    },
+    {
+      "surface": "רע",
+      "gloss": "chosala"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "adabala"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "koma palibe"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "m'dzanja lake"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "kanthu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:56:40.568408747Z",
+  "model": "glm-5.3"
+}

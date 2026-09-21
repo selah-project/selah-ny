@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo Adamu anatcha dzina la mkazi wake Khava, pakuti iye anali amayi a zonse zamoyo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "anatcha"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adamu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dzina la"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mkazi wake"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Khava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "anali"
+    },
+    {
+      "surface": "אם",
+      "gloss": "amayi a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "חי",
+      "gloss": "zamoyo"
+    }
+  ],
+  "timestamp": "2026-09-21T05:43:18.424189964Z",
+  "model": "glm-5.3"
+}

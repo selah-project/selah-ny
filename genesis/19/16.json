@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 19:16",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Koma iye anachedwa, ndipo amuna adamugwirira m'dzanja lake, ndi m'dzanja la mkazi wake, ndi m'dzanja la makanda awiri ake, mwachifundo cha Yahwe pa iye; ndipo adamutulutsa, ndipo adamusiya kunja kwa mzinda.",
+  "tokens": [
+    {
+      "surface": "ויתמהמה",
+      "gloss": "anachedwa"
+    },
+    {
+      "surface": "ויחזקו",
+      "gloss": "adamugwirira"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "amuna"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "m'dzanja lake"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ndi m'dzanja"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "la mkazi wake"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ndi m'dzanja"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "la awiri"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "makanda ake"
+    },
+    {
+      "surface": "בחמלת",
+      "gloss": "mwachifundo cha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "ויצאהו",
+      "gloss": "adamutulutsa"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "adamusiya"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kunja"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kwa mzinda"
+    }
+  ],
+  "timestamp": "2026-09-21T12:53:52.554406520Z",
+  "model": "glm-5.3"
+}

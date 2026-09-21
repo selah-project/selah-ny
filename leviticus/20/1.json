@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 20:1",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo Yahwe anayankhula kwa Moshe, nati:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ndipo anayankhula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    }
+  ],
+  "timestamp": "2026-09-21T06:43:13.934955388Z",
+  "model": "glm-5.3"
+}

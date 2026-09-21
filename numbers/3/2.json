@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo awa ndi maina a ana a Aharoni: wobadwa yamba Nadabu, ndi Abihuwa, Elazara ndi Itamara.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ndipo awa"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a ana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "a Aharoni"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "wobadwa yamba"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadabu"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ndi Abihuwa"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazara"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "ndi Itamara"
+    }
+  ],
+  "timestamp": "2026-09-21T06:51:00.917231564Z",
+  "model": "glm-5.3"
+}

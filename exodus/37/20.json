@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 37:20",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo pa menorah pali zikho zinayi zopangidwa ngati maluwa amondi, maudindi ake ndi maluwa ake.",
+  "tokens": [
+    {
+      "surface": "ובמנרה",
+      "gloss": "ndipo pa menorah"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "zinayi"
+    },
+    {
+      "surface": "גבעים",
+      "gloss": "zikho"
+    },
+    {
+      "surface": "משקדים",
+      "gloss": "zopangidwa ngati maluwa amondi"
+    },
+    {
+      "surface": "כפתריה",
+      "gloss": "maudindi ake"
+    },
+    {
+      "surface": "ופרחיה",
+      "gloss": "ndi maluwa ake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:02.463671752Z",
+  "model": "glm-5.3"
+}

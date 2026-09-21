@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Estere sananena ⟨את⟩ anthu ake ndi ⟨את⟩ mbadwo wake, chifukwa Mordekai analamula pa iye kuti sananene.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "nanena"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu ake"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "anthu ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mbadwo wake"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "mbadwo wake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "analamula"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "anene"
+    }
+  ],
+  "timestamp": "2026-09-21T11:59:34.716160430Z",
+  "model": "glm-5.3"
+}

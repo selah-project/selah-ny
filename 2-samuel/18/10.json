@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo munthu mmodzi anaona, nadziwitsa kwa Yowavu, nati: “Taona, ndinaona ⟨את⟩ Avshalomu womangidwa pa ela.”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmodzi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "nadziwitsa"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "kwa Yowavu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Taona"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndinaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalomu"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avshalomu"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "womangidwa"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "pa ela"
+    }
+  ],
+  "timestamp": "2026-09-21T08:25:09.281869014Z",
+  "model": "glm-5.3"
+}

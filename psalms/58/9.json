@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 58,
+  "translation": "Monga kankhomba chimizizima chakayenda; monga wobadwa ngakhalidwe wa mkazi — sadzaona dzuwa.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "monga"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "kankhomba"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "kuzungunuka"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "adzayenda"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "wobadwa ngakhalidwe"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "wa mkazi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sadzaona"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "dzuwa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:09.336683424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 4:8",
+  "book": "lamentations",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Maonekedwe awo anakhala akuda koposa malasha, sanadziwidwe m'misewu; khungu lawo linamangika pa mafupa awo, linuma, linakhala ngati khuni.",
+  "tokens": [
+    {
+      "surface": "חשך",
+      "gloss": "anakhala akuda"
+    },
+    {
+      "surface": "משחור",
+      "gloss": "koposa malasha"
+    },
+    {
+      "surface": "תארם",
+      "gloss": "maonekedwe awo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sanadziwidwe (ayi)"
+    },
+    {
+      "surface": "נכרו",
+      "gloss": "sanadziwidwe"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "m'misewu"
+    },
+    {
+      "surface": "צפד",
+      "gloss": "linamangika"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "khungu lawo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עצמם",
+      "gloss": "mafupa awo"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "linuma"
+    },
+    {
+      "surface": "היה",
+      "gloss": "linakhala"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "ngati khuni"
+    }
+  ],
+  "timestamp": "2026-09-21T11:53:24.553083604Z",
+  "model": "glm-5.3"
+}

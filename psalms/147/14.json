@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 147,
+  "translation": "Amene apanga mtendere ku mipanda yako, ndi mafuta a tirigu akukwaniritsa.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Amene apanga"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "ku mipanda yako"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mtendere"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mafuta a"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "tirigu"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "akukwaniritsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:06.475085604Z",
+  "model": "glm-5.3"
+}

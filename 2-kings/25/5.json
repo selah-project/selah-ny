@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo ankhondo a Akashdi analonda mfumu, nam'peza ⟨אתו⟩ ku mabwalo a Yerikho; ndipo ankhondo onse ake anabalalika, anamusiya.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "analonda"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ankhondo"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "a Akashdi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kutsata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "nam'peza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "mfumu"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "ku mabwalo"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "a Yerikho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo onse"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ankhondo ake"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "anabalalika"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "anamusiya"
+    }
+  ],
+  "timestamp": "2026-09-21T09:01:03.252047234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Lalani ⟨את⟩ ana a Yisraeli, ndipo atumize kuchokera mu msasa aliyense wodwala chiferya, ndi aliyense wotayitsa, ndi aliyense wodetsedwa ndi mtembo.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Lalani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ndipo atumize"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchokera"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "mu msasa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "wodwala chiferya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi aliyense"
+    },
+    {
+      "surface": "זב",
+      "gloss": "wotayitsa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi aliyense"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "wodetsedwa"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ndi mtembo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:59:09.811627349Z",
+  "model": "glm-5.3"
+}

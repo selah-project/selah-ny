@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Ikhale njira yawo mdima ndi yonyezimira, ndipo mthenga wa Yahwe awalondole.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Ikhale"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "njira yawo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mdima"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "ndi yonyezimira"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ndipo mthenga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "awalondole"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:06.342152084Z",
+  "model": "glm-5.3"
+}

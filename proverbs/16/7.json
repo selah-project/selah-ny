@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Pokondweretsa Yahwe njira za munthu, adzapanganso adozi ake kukhala pa mtendere ndi ⟨את⟩ iye.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "pokondweretsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "njira"
+    },
+    {
+      "surface": "איש",
+      "gloss": "za munthu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nanso"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "adozi ake"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "adzapanga mtendere"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "naye"
+    }
+  ],
+  "timestamp": "2026-09-21T11:23:18.974834543Z",
+  "model": "glm-5.3"
+}

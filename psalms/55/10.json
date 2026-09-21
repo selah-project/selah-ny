@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 55,
+  "translation": "Galangani, Adonayi, gapatani pakati lilime lawo; pakuti ndaona chiwawa ndi mkangano m'mzinda.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "galangani"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "gapatani pakati"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lilime lawo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndaona"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "chiwawa"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "ndi mkangano"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "m'mzinda"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:58.827209429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Mtima wanga watasochera, mantha andibera; ⟨את⟩ madigiri a kusamalira kwanga wasandulika ndi kukhala mantha kwa ine.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "watasochera"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "mantha"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "andibera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madigiri a kusamalira kwanga"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "madigiri"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "kusamalira kwanga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wasandulika ndi kukhala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "mantha <kutanthauza kugwedezeka>"
+    }
+  ],
+  "timestamp": "2026-09-21T13:11:49.135683274Z",
+  "model": "glm-5.3"
+}

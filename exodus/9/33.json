@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 9:33",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Moshe anatuluka mwa Paro, m'munda ⟨wa⟩ ⟨את⟩ mzindawo ⟨kumene anali Paro⟩, nayosera manja ake kwa Yahwe; ndipo mawu a mphamvu ndi chivunde chidalephera, ndipo mvula sinamtsikire dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "anatuluka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mzindawo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mzindawo"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "nayosera"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "manja ake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "ndipo chidalephera"
+    },
+    {
+      "surface": "הקלות",
+      "gloss": "mawu a mphamvu"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "ndi chivunde"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "ndipo mvula"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sina-"
+    },
+    {
+      "surface": "נתך",
+      "gloss": "-mtsikire"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:10:36.770767063Z",
+  "model": "glm-5.3"
+}

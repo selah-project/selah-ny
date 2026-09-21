@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 16:13",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo Davide ndi anthu ake anayenda pa njira; ndipo Shimeyi anali kuyenda ku mbali ya phiri, kufupana naye, ndipo pakupita kwake anatemberera, nakuopocha ndi miyala kufupana naye, ndi kuulula ndi dothi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ndipo anayenda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ndi anthu ake"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pa njira"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "ndipo Shimeyi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "anali kuyenda"
+    },
+    {
+      "surface": "בצלע",
+      "gloss": "ku mbali ya"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "לעמתו",
+      "gloss": "kufupana naye"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "pakupita kwake"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "anatemberera"
+    },
+    {
+      "surface": "ויסקל",
+      "gloss": "nakuopocha"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "ndi miyala"
+    },
+    {
+      "surface": "לעמתו",
+      "gloss": "kufupana naye"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "ndi kuulula"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "ndi dothi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:24:14.034544445Z",
+  "model": "glm-5.3"
+}

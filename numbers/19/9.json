@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 19:9",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo munthu woyera adasonkha ⟨את⟩ phala la ng'ombe yachikazi, nadzayika kuseri kwa msasa, pamalo oyera; ndipo idzakhala kwa msonkhano wa ana a Yisraeli, chosungika, ku madzi a kudetsedwa; ndiyo nsembe ya machimo.",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "adasonkha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phala"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "phala"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "la ng'ombe yachikazi"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "adzayika"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kuseri"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kwa msasa"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "pamalo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "oyera"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "idzakhala"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "kwa msonkhano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "chosungika"
+    },
+    {
+      "surface": "למי",
+      "gloss": "ku madzi"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "a kudetsedwa"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "nsembe ya machimo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiyo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:02:47.695273794Z",
+  "model": "glm-5.3"
+}

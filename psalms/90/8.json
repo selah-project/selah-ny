@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 90,
+  "translation": "Waika zolakwika zathu pamaso pako; zobisika zathu pakuwala kwa nkhope yako.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "Waika"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "zolakwika zathu"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "pamaso pako"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "zobisika zathu"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "pakuwala"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kwa nkhope yako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:32.524277085Z",
+  "model": "glm-5.3"
+}

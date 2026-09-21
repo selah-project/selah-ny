@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo ndinati: “Ukapita kuti iwe?” Ndipo anandiuza: “Kuyesa ⟨את⟩ Yerushalayimu, kuona kuti ndi yam'lifupi bwanji ndi yaitali bwanji.”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ndinati"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ukapita"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "anandiuza"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "למד",
+      "gloss": "kuyesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "bwanji"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "yam'lifupi"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "ndi bwanji"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "yaitali"
+    }
+  ],
+  "timestamp": "2026-09-21T13:25:14.511438775Z",
+  "model": "glm-5.3"
+}

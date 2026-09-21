@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-samuel 25:43",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo Davide anatora ⟨את⟩ Akhinoamu wa ku Yizreeli; ndipo iwo awiri onse anakhala akazi ake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Akhinoamu"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Akhinoamu"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "anatora"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "מיזרעאל",
+      "gloss": "wa ku Yizreeli"
+    },
+    {
+      "surface": "ותהיין",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "גם",
+      "gloss": "onso"
+    },
+    {
+      "surface": "שתיהן",
+      "gloss": "iwo awiri onse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ake"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "akazi a"
+    }
+  ],
+  "timestamp": "2026-09-21T08:13:11.796191896Z",
+  "model": "glm-5.3"
+}

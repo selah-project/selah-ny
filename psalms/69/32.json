@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Ndipo izi zidzakomera Yahwe koposa nkhosa yamphongo yakuthwa machira ndi mapanga.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "zidzakomera koposa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "משור",
+      "gloss": "nkhosa yamphongo yakuthwa machira"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ya nkhosa yamphongo"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "yakuthwa mapanga"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "yakuthwa machira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:40.786390052Z",
+  "model": "glm-5.3"
+}

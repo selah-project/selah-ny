@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Kulira kwa mkango, ndi mawu a mkango wankhanza, ndi mano a makanga ang'onoang'ono amanathidwa.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "kulira"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "kwa mkango"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ndi mawu a"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "mkango wankhanza"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ndi mano a"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "makanga ang'onoang'ono"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "amanathidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:29:13.260336714Z",
+  "model": "glm-5.3"
+}

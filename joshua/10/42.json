@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo ⟨את⟩ mafumu onse awa ndi ⟨את⟩ dziko lawo Yehoshuwa adalanda kamodzi kokha, chifukwa Yahwe Elohim wa Yisraeli anamenya nkhondo kwa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ndipo ⟨את⟩",
+      "marks": "mafumu onse awa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "dziko lawo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dziko lawo"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "adalanda"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "kamodzi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kokha (kamodzi)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "anamenya nkhondo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kwa Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T07:38:31.111115024Z",
+  "model": "glm-5.3"
+}

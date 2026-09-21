@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Ndipo anaika ⟨את⟩ akazitumiki ndi ⟨את⟩ ana awo choyamba, ndi ⟨את⟩ Lea ndi ana ake pambuyo pake, ndi ⟨את⟩ Raheli ndi ⟨את⟩ Yosefe potsirizira.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "anaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akazitumiki"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "akazitumiki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana awo"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "ana awo"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "choyamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "ndi ana ake"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "pambuyo pake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Raheli"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raheli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Yosefe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "potsirizira"
+    }
+  ],
+  "timestamp": "2026-09-21T05:58:08.629029986Z",
+  "model": "glm-5.3"
+}

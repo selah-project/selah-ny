@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndidzawamenya ndi matenda, ndipo ndidzawataya cholowa chawo; ndipo ndidzakupanga ⟨את⟩ iwe kukhala mtundu waukulu ndi wamphamvu koposa iwo.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "ndidzawamenya"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ndi matenda"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "ndipo ndidzawataya cholowa chawo"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ndipo ndidzakupanga"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "iwe kukhala mtundu waukulu"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "kukhala mtundu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "waukulu"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "ndi wamphamvu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "koposa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:57:27.173745056Z",
+  "model": "glm-5.3"
+}

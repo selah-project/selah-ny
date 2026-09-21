@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 14:1",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Inu ndi ana a Yahwe Elohim wanu; musadzidule ⟨kwa inu nokha⟩, kapena musaike khoomu pakati pa maso anu kwa akufa.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "ana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musadzidule — osati"
+    },
+    {
+      "surface": "תתגדדו",
+      "gloss": "musadzidule"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kapena osati"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "musaike"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "khoomu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "maso anu"
+    },
+    {
+      "surface": "למת",
+      "gloss": "kwa akufa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:20:16.883752814Z",
+  "model": "glm-5.3"
+}

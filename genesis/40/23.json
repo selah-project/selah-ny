@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Koma mfumu ya omwesa sanamchere ⟨את⟩ Yosef, namaiwala.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Koma sana"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "-mchere"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "ya omwesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "namaiwala"
+    }
+  ],
+  "timestamp": "2026-09-21T05:59:36.577007140Z",
+  "model": "glm-5.3"
+}

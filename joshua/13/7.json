@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo tsopano gawani ⟨את⟩ dziko ili monga cholowa kwa mafuko nsanu ndi inayi, ndi hafu ya fuko la Menashe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ndipo tsopano"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "gawani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ili"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "monga cholowa"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "kwa mafuko nsanu ndi inayi"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "mafuko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ndi hafu"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "ya fuko"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "la Menashe"
+    }
+  ],
+  "timestamp": "2026-09-21T07:39:24.927854952Z",
+  "model": "glm-5.3"
+}

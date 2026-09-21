@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Salmonu analenga ⟨את⟩ Boazi, ndipo Boazi analenga ⟨את⟩ Obedi.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "Ndipo Salmonu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "analenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boazi"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazi"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "ndipo Boazi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "analenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obedi"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obedi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:49:45.432843508Z",
+  "model": "glm-5.3"
+}

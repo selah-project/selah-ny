@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Koma asalowe kuona ⟨את⟩ chinthu chopatulika pangokha, adzafa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Koma sa"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "lalowe"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "pangokha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chinthu chopatulika"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "chinthu chopatulika"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "adzafa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:50:44.657446689Z",
+  "model": "glm-5.3"
+}

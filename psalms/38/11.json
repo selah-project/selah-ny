@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Mtima wanga wapapatika, mphamvu yanga yandisiya, ndipo kuwala kwa maso anga — ngakhale iwo suli ⟨ndi ine⟩.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "wapapatika"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "yandisiya"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "mphamvu yanga"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ndipo kuwala"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "kwa maso anga"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ngakhale"
+    },
+    {
+      "surface": "הם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "suli"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ndi ine",
+      "marks": "ndi ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:37.702071212Z",
+  "model": "glm-5.3"
+}

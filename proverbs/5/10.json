@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "kuti alendo asakhutire ndi mphamvu zako, ndi ntchito zako zikhale m'nyumba ya mlendo;",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "kuti asa-"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "akhutire"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "alendo"
+    },
+    {
+      "surface": "כחך",
+      "gloss": "ndi mphamvu zako"
+    },
+    {
+      "surface": "ועצביך",
+      "gloss": "ndi ntchito zako"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "ya mlendo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:18:29.393598278Z",
+  "model": "glm-5.3"
+}

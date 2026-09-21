@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 96,
+  "translation": "Lalikirani mwa mitundu ya anthu ulemerero wake; mwa anthu onse zodabwitsa zake.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "lalikirani"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mwa mitundu ya anthu"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ulemerero wake"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mwa onse"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "zodabwitsa zake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:55.411163670Z",
+  "model": "glm-5.3"
+}

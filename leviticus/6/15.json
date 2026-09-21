@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 6:15",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo wansembe wodzozedwa, amene adzakhala m'malo mwake mwa ana ake, adzachiititsa ⟨אתה⟩; ndi chikhalire cha kale kwa Yahwe; konsekonse chidzayekedwa moto.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Ndipo wansembe"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "wodzozedwa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "m'malo mwake"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "mwa ana ake"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "adzachiititsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "nsembe (icho)"
+    },
+    {
+      "surface": "חק",
+      "gloss": "chikhalire"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "cha kale"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "konsekonse"
+    },
+    {
+      "surface": "תקטר",
+      "gloss": "chidzayekedwa moto"
+    }
+  ],
+  "timestamp": "2026-09-21T06:32:10.400195134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Pa nthawi zonse zovala zako zikhale zoyera, ndipo mafuta pa mutu wako asachepedwe.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Pa zonse"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nthawi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "zikhale"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "zovala zako"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "zoyera"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ndipo mafuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "mutu wako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a-"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "sachepedwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:42.415873068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 119:48",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ndipo ndidzanyamula manja anga kumalo kwa malamulo anu, amene ndawakonda; ndipo ndidzaganizira za malembo anu.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "ndipo ndidzanyamula"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "manja anga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kumalo kwa"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "malamulo anu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ndawakonda"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "ndipo ndidzaganizira za"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "malembo anu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:10:29.237624272Z",
+  "model": "glm-5.3"
+}

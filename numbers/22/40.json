@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 22:40",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo Balaki anapereka nsembe za ng'ombe ndi nkhosa, natumira kwa Bilamu ndi kwa atsogoleri amene anali naye ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "anapereka nsembe"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balaki"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "natumira"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "kwa Bilamu"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "ndi kwa atsogoleri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "naye ⟨את⟩",
+      "marks": "Bilamu ndi atsogoleri"
+    }
+  ],
+  "timestamp": "2026-09-21T07:04:18.759467971Z",
+  "model": "glm-5.3"
+}

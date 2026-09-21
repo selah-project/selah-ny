@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Imbani kwa iye, yimbani nyimbo kwa iye, kambirani za zozizwitsa zake zonse.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Imbani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "yimbani nyimbo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "kambirani"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "za ... zonse"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "zozizwitsa zake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:27:51.221610375Z",
+  "model": "glm-5.3"
+}

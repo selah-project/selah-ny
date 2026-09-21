@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Ndani anachita ndi kupanga izi, akuitana mibadwo kuchokera chiyambi? Ine, Yahwe, woyamba, ndi ⟨את⟩ omaliza — Ine ndine Iye.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ndani"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ndi kupanga"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "akuitana"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "mibadwo"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "kuchokera chiyambi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "woyamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "omaliza"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "omaliza"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndine Iye"
+    }
+  ],
+  "timestamp": "2026-09-21T09:18:38.410103915Z",
+  "model": "glm-5.3"
+}

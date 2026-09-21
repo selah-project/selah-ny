@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Dzina la choyamba ndi Pishoni; ndiwo umene umazungulira ⟨את⟩ dziko lonse la Havila, kumene kuli golide.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Dzina"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "la choyamba"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Pishoni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiwo"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "umazungulira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko lonse la Havila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "la Havila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kumene"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuli"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "golide"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:47.437160794Z",
+  "model": "glm-5.3"
+}

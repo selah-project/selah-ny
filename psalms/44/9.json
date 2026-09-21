@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Mwa Elohim tatilemekeza tsiku lonse, ndipo dzina lako tidzayamika ku nthawi zonse. Sela.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Mwa Elohim"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "tatilemekeza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "ndipo dzina lako"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "tidzayamika"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:52.356756568Z",
+  "model": "glm-5.3"
+}

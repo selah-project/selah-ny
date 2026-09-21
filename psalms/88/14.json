@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 88,
+  "translation": "Koma ndinayamba nalira kwa Yahwe, ndipo m'mawa mapemphero anga adzakupanani.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Koma ndinayamba"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "nalira"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ndipo m'mawa"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mapemphero anga"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "adzakupanani"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:13.299989026Z",
+  "model": "glm-5.3"
+}

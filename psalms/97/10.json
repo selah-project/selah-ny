@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 97,
+  "translation": "Inu akonda Yahwe, danani ndi choipa; Iye amasunga miyoyo ya a khesedi ake, ndipo adzawapulumutsa m'dzanja la anthu oipa.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "akonda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "danani"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ndi choipa"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "amasunga"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "miyoyo"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "a khesedi ake"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "la anthu oipa"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "adzawapulumutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:27.568723282Z",
+  "model": "glm-5.3"
+}

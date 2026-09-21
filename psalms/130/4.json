@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 130,
+  "translation": "Pakuti kwa iwe muli ⟨nayo⟩ chikhululukiro, kuti uopedwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "chikhululukiro"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "uopedwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:05.478120075Z",
+  "model": "glm-5.3"
+}

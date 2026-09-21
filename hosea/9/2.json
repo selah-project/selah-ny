@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Mwala wa kusesa ndi wakufinya mphesowe sudzawadyetsa iwo, ndipo vinyo watsopano udzawabera mwa ⟨iyo⟩.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "mwala wa kusesa"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "ndi wakufinya mphesowe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "dzawadyetsa iwo"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "ndipo vinyo watsopano"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "udzawabera"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mwa ⟨iyo⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T10:23:06.375376416Z",
+  "model": "glm-5.3"
+}

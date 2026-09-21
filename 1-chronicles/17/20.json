@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Yahwe, palibe wofanana ndi iwe, ndipo palibe Elohim koma iwe yekha, monga zonse zimene tinamva ndi makutu athu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "wofanana ndi iwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "koma iwe yekha"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "monga zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "tinamva"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "ndi makutu athu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:35:45.063919804Z",
+  "model": "glm-5.3"
+}

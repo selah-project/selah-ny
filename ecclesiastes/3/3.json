@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Nthawi yakupha, ndi nthawi yachiritsa; nthawi yokhwima, ndi nthawi yomanga.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "nthawi"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "yakupha"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ndi nthawi"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "yachiritsa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nthawi"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "yokhwima"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ndi nthawi"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "yomanga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:54:59.807412785Z",
+  "model": "glm-5.3"
+}

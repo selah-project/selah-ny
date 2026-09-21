@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo ndidzaika ⟨את⟩ mbewu yako monga dothi la dziko lapansi, kotero kuti ngati munthu atha kuwerengede ⟨את⟩ dothi la dziko lapansi, ndiponso mbewu yako idzawerengezedwa.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Ndipo ndidzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbewu yako"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbewu yako"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "monga dothi la"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kotero kuti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "atha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "kuwerengede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dothi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dothi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la dziko lapansi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbewu yako"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "idzawerengezedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T05:46:19.234573637Z",
+  "model": "glm-5.3"
+}

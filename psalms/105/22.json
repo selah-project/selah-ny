@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Kukaka akulu ake mwa moyo wake, ndipo akuluakulu ake awaphunzitsa nzeru.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "kukaka"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "akulu ake"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "mwa moyo wake"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "ndipo akuluakulu ake"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "awaphunzitsa nzeru"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:07.187791909Z",
+  "model": "glm-5.3"
+}

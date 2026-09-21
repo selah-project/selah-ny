@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Khesedi za Yahwe ndidaziyimba ku nthawi zonse; kwa mbadwo ndi mbadwo ndidziwika chikhulupiriro chako ndi kamwa mwanga.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "khesedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ndidaziyimba"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwa mbadwo"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ndi mbadwo"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "ndidziwika"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "chikhulupiriro chako"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ndi kamwa mwanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:40.823219478Z",
+  "model": "glm-5.3"
+}

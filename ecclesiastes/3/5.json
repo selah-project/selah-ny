@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Nthawi yoponya miyala, ndi nthawi yokusonkhanitsa miyala; nthawi yofatiza, ndi nthawi yokhala kutali ndi kufatizana.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "nthawi"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "yoponya"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "miyala"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ndi nthawi"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "yokusonkhanitsa"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "miyala"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nthawi"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "yofatiza"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ndi nthawi"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "yokhala kutali"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "ndi kufatizana"
+    }
+  ],
+  "timestamp": "2026-09-21T11:54:39.248554324Z",
+  "model": "glm-5.3"
+}

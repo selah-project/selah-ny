@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 68,
+  "translation": "Atate wa amasiye ndi woweruza wa akhalidwa amasiye ⟨ndi⟩ Elohim, m'chikhalire chake chopatulika.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Atate wa"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "amasiye"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "ndi woweruza wa"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "akhalidwa amasiye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "m'chikhalire"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "chake chopatulika"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:40.632063066Z",
+  "model": "glm-5.3"
+}

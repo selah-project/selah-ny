@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo ana a Yehuda anallimbana ndi Yerushalayimu, natenga ⟨את⟩ iye, namugunda ndi kope kwa lupanga; ndipo ⟨את⟩ mzindawo anautsa moto.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "analimbana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ndi Yerushalayimu"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "natenga"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ iye",
+      "marks": "Yerushalayimu"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "namugunda"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ndi kope kwa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "lupanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "mzindawo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mzindawo"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "anautsa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-09-21T07:45:37.076017667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 13:22",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo panatha tsiku la nkhondo, sipinaonekere lupanga kapena mkwangwanu m'dzanja la anthu onse amene anali ndi ⟨את⟩ Shauli ndi ⟨את⟩ Yonathani; koma Shauli ndi Yonathani mwana wake anaonekera ndi zida.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ndipo panatha"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "la nkhondo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "pinaonekere"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "lupanga"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "kapena mkwangwanu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "m'dzanja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "la anthu onse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shauli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Yonathani"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonathani"
+    },
+    {
+      "surface": "ותמצא",
+      "gloss": "anaonekera"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kwa Shauli"
+    },
+    {
+      "surface": "וליונתן",
+      "gloss": "ndi kwa Yonathani"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:03:38.232632596Z",
+  "model": "glm-5.3"
+}

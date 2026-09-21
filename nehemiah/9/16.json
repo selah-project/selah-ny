@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Koma iwo ndi makolo athu anachitira udamvu, ndipo anakhwimitsa ⟨את⟩ khosi lwawo, ndipo sanamvere malamudo.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Koma iwo"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "ndi makolo athu"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "anachitira udamvu"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "ndipo anakhwimitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khosi lwawo"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "khosi lwawo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sana—"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "—mvere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "malamudo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:19:54.873473999Z",
+  "model": "glm-5.3"
+}

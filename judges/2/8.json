@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Yehoshuwa mwana wa Nuni, mtumiki wa Yahwe, anafa, ali mwana wa zaka zana ndi khumi.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "anafa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nuni"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mtumiki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zana"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ndi khumi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zaka"
+    }
+  ],
+  "timestamp": "2026-09-21T07:44:19.030235845Z",
+  "model": "glm-5.3"
+}

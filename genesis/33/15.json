@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 33:15",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Ndipo Esavu adati: Ndisiye, ndapapita, kwa iwe ena mwa anthu ⟨את⟩ amene ali ndi ine; ndipo iye adati: Chifukwa chiyani izi? Ndipeze chisomo m'maso a mbuye wanga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "אציגה",
+      "gloss": "ndisiye"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapapita"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ena mwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ndi ine",
+      "marks": "ndi ine"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "למה",
+      "gloss": "chifukwa chiyani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ndipeze"
+    },
+    {
+      "surface": "חן",
+      "gloss": "chisomo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "m'maso a"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mbuye wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T05:57:27.379219541Z",
+  "model": "glm-5.3"
+}

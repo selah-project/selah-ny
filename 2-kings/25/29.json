@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 25:29",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo adasintha ⟨את⟩ zovala za m'ndende yake, nadya mkate mwamuyayi pamaso pake tsiku lonse la moyo wake.",
+  "tokens": [
+    {
+      "surface": "ושנא",
+      "gloss": "adasintha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zovala za m'ndende yake"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "zovala"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "za m'ndende yake"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "nadya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mwamuyayi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pamaso pake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "la moyo wake"
+    }
+  ],
+  "timestamp": "2026-09-21T09:00:14.539560563Z",
+  "model": "glm-5.3"
+}

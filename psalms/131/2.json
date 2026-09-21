@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 131,
+  "translation": "Inde, ndinasunga mtendere moyo wanga, monga mwana wachotsedwa m'madzi pa amake; monga mwana wachotsedwa m'madzi, motero moyo wanga uli ndi ine.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "⟨Inde⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨si-⟩"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "ndinasunga mtendere"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "ndipo ndayimitsa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "monga mwana wachotsedwa m'madzi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "amake"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "monga mwana wachotsedwa m'madzi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "uli ndi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:47.415735213Z",
+  "model": "glm-5.3"
+}

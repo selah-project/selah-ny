@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Mwana wanga, sunga malamulo a makolo ako, ndipo usasiye Tora ya amayi ako;",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "sunga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Mwana wanga"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "malamulo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "a makolo ako"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo usasiye"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "usasiye"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ya amayi ako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:19:49.306706364Z",
+  "model": "glm-5.3"
+}

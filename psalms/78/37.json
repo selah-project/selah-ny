@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Ndipo mtima wawo sunakhazikike ndi Iye, ndipo sanakhulupirike m'pangano lake.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "Ndipo mtima wawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si- (kwatsimikizika)"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "sunakhazikike"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndi Iye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sa-"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "anakhulupirike"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "m'pangano lake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:55.160285694Z",
+  "model": "glm-5.3"
+}

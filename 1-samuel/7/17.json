@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Kubweranso kwake kunali ku Ramata, chifukwa kumeneko kunali nyumba yake; ndipo kumeneko anaweruza ⟨את⟩ Yisraeli; ndipo kumeneko anamanga guwa la nsembe kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "kubweranso kwake"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "ku Ramata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ndipo kumeneko"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "anaweruza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ndipo anamanga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "guwa la nsembe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:00:09.544671147Z",
+  "model": "glm-5.3"
+}

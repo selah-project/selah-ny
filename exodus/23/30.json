@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Pang'onopang'ono ndidzawatulutsa pamaso pako, mpaka utachuluka, ndipo ulandire ⟨את⟩ dziko.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "pang'ono"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "pang'ono"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "ndidzawatulutsa"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "pamaso pako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨pamene⟩"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "utachuluka"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "ndipo ulandire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:32.379788193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Iye anauka, anayenda; ndipo Yehonatani analowa m'mudzi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "anauka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ndipo Yehonatani"
+    },
+    {
+      "surface": "בא",
+      "gloss": "analowa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "m'mudzi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:11:03.696827819Z",
+  "model": "glm-5.3"
+}

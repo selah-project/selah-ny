@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "mfumu ya makumi asanu, ndi wolemeka nkhope, ndi mlangizi, ndi wodziwa za antchito akatswiri, ndi wamvetsetsa wa zinsinsi.",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ya makumi asanu"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "ndi wolemeka"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "nkhope"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "ndi mlangizi"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ndi wodziwa"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "za antchito akatswiri"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "ndi wamvetsetsa"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "wa zinsinsi"
+    }
+  ],
+  "timestamp": "2026-09-21T09:02:40.964853432Z",
+  "model": "glm-5.3"
+}

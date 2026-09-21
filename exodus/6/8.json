@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo ndidzakulowetsani ⟨את⟩ inu m'dziko limene ndinatambasula ⟨את⟩ dzanja langa kuti ndipereke ⟨את⟩ lori kwa Avraham, kwa Yitshaki ndi kwa Yakobi, ndipo ndidzakupereka ⟨את⟩ lori kwa inu cholowa; ine ndine Yahwe.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "ndidzakulowetsani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ndinatambasula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzanja langa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "dzanja langa"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kuti ndipereke"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lori (dzikoli)"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kwa Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kwa Yitshaki"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "ndi kwa Yakobi"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ndidzakupereka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lori (dzikoli)"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "cholowa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:09:55.919345097Z",
+  "model": "glm-5.3"
+}

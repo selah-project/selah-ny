@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Choncho Elohim adachotsa ⟨את⟩ ziweto za abambo anu, ndipo adapatsa ine.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "adachotsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziweto"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ziweto"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "abambo anu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "adapatsa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    }
+  ],
+  "timestamp": "2026-09-21T05:57:31.755474944Z",
+  "model": "glm-5.3"
+}

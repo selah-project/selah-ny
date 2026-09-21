@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo amenewo awiri, Machloni ndi Kilioni, anafanso; ndipo mkaziyo anasiyidwa ndi ana ake awiri ndi ndi mwuna wake.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "anafa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "anso"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "onenso awiri"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Machloni"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "ndi Kilioni"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "ndipo anasiyidwa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mkaziyo"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ndi awiri"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "ndi mwuna wake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:51:15.335705760Z",
+  "model": "glm-5.3"
+}

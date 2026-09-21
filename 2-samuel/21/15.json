@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo panachitikanso nkhondo ya Afilistimu ndi ⟨את⟩ Yisraeli; ndipo Davide anatsika pamodzi ndi akapolo ake, ndipo anamenya nkhondo ndi ⟨את⟩ Afilistimu; ndipo Davide anafowoka.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "panachitika"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kanso"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "nkhondo"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "ya Afilistimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "anatsika"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "akapolo ake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamodzi ndi iye"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "anamenya nkhondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Afilistimu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilistimu"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "anafowoka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    }
+  ],
+  "timestamp": "2026-09-21T08:27:24.879890360Z",
+  "model": "glm-5.3"
+}

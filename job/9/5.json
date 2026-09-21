@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 9:5",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Amene amasunthitsa mapiri, ndipo saiwa; amene awatembenuza m'mkwiyo wake.",
+  "tokens": [
+    {
+      "surface": "המעתיק",
+      "gloss": "amasunthitsa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sakudziwa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "saiwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "הפכם",
+      "gloss": "awatembenuza"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "m'mkwiyo wake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:31:56.536724642Z",
+  "model": "glm-5.3"
+}

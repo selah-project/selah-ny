@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 74,
+  "translation": "Koma Elohim ndiye Mfumu yanga yakale, wochita zipulumutso pakati pa dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "koma Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Mfumu yanga"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "yakale"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "wochita"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "zipulumutso"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:44.555818412Z",
+  "model": "glm-5.3"
+}

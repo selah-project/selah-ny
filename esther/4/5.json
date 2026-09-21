@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 4:5",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Estere anaitana LaHatiki, mmodzi wa akapolo a mfumu, amene mfumu adaika patsogolo pake, namulamulira za Mordekayi, kudziwa kuti nchiyani ichi, ndipo chifukwa chiyani ichi.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "anaitana"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estere"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "LaHatiki"
+    },
+    {
+      "surface": "מסריסי",
+      "gloss": "wa akapolo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a mfumu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "adaika"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "patsogolo pake"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "namulamulira"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekayi"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kudziwa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kuti nchiyani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndipo chifukwa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ichi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:01:04.727702899Z",
+  "model": "glm-5.3"
+}

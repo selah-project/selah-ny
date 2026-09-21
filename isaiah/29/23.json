@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 29:23",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Pakuti pamene iye awona ana ake, ntchito za manja anga, pakati pathawo, adzapatula dzina langa; ndipo adzapatula ⟨את⟩ Woyera wa Yakobo, ndi ⟨את⟩ Elohim wa Yisraeli adzaopa ndi ulemu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "בראתו",
+      "gloss": "pamene awona"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "za manja anga"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "pakati pathawo"
+    },
+    {
+      "surface": "יקדישו",
+      "gloss": "adzapatula"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "dzina langa"
+    },
+    {
+      "surface": "והקדישו",
+      "gloss": "ndipo adzapatula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Woyera wa Yakobo"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Woyera"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "wa Yakobo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Elohim wa Yisraeli"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "יעריצו",
+      "gloss": "adzaopa ndi ulemu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:12:43.699616073Z",
+  "model": "glm-5.3"
+}

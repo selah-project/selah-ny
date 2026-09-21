@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Munthu adadya mkate wa ⟨אַבִּירִים⟩ amphamvu; adawatumizira chakudya kudzaza.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "amphamvu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "adadya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "chakudya"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "adawatumizira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "kudzaza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:33.034459514Z",
+  "model": "glm-5.3"
+}

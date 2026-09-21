@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Pakuti ndani angadye, ndipo ndani angasangalale, kupatula ine?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "angadye"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ndipo ndani"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "angasangalale"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "kupatula"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ine"
+    }
+  ],
+  "timestamp": "2026-09-21T11:54:47.072907831Z",
+  "model": "glm-5.3"
+}

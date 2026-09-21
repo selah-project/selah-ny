@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo Yehoshuwa anabwerera ndi Yisraeli wonse pamodzi ndi iye ku msasa ku Giligala.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "anabwerera"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi … wonse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamodzi ndi iye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "msasa"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "ku Giligala"
+    }
+  ],
+  "timestamp": "2026-09-21T07:36:48.022640590Z",
+  "model": "glm-5.3"
+}

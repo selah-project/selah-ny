@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 119:47",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ndipo ndidzakondwera ndi malamulo anu, amene ndawakonda.",
+  "tokens": [
+    {
+      "surface": "ואשתעשע",
+      "gloss": "ndipo ndidzakondwera ndi"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "malamulo anu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ndawakonda"
+    }
+  ],
+  "timestamp": "2026-09-21T11:10:29.237513565Z",
+  "model": "glm-5.3"
+}

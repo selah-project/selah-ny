@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo ndidzachitira mkwiyo ndi mwa ukali chilango ⟨את⟩ amitundu amene sanamvera.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "Ndipo ndidzachitira"
+    },
+    {
+      "surface": "באף",
+      "gloss": "mkwiyo"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "ndi mwa ukali"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "chilango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amitundu"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amitundu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "namvera"
+    }
+  ],
+  "timestamp": "2026-09-21T10:28:21.524384926Z",
+  "model": "glm-5.3"
+}

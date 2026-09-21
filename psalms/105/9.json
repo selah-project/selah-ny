@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "amene anadula ⟨את⟩ Avraham, ndi kulumbira kwake kwa Yitschak,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "anadula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "ndi kulumbira kwake"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "kwa Yitschak"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:12.728134466Z",
+  "model": "glm-5.3"
+}

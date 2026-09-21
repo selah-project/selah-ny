@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Munthu aliense aope amayi ake ndi abambo ake, ndipo ⟨את⟩ masabata anga asunge; ine ndine Yahwe Elohim wanu.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Munthu aliense"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "amayi ake"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "ndi abambo ake"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "aope"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "masabata anga"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "masabata anga"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "asunge"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:40:50.278953335Z",
+  "model": "glm-5.3"
+}

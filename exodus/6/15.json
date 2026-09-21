@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 6:15",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo ana a Shimoni: Yemueli ndi Yaming, Ohadi ndi Yakhini, Tsochari ndi Shauli mwana wa mkazi wa Kenani; awa ndiwo mabanja a Shimoni.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ndipo ana"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "a Shimoni"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yemueli"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ndi Yaming"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "Ohadi"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "ndi Yakhini"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "Tsochari"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ndi Shauli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "wa mkazi wa Kenani"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mabanja"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "a Shimoni"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:57.382211942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo ike pa tebulo mkate wa pamaso panga, pamaso panga nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ndipo ike"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tebulo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "wa pamaso panga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso panga"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T06:20:55.516217368Z",
+  "model": "glm-5.3"
+}

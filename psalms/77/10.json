@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 77,
+  "translation": "Kodi El waiwala chikhulupiriro? Kodi wabatiza m'kusirira chifundo chake? Selah.",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "waiwala"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "chikhulupiriro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kodi"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "wabatiza"
+    },
+    {
+      "surface": "באף",
+      "gloss": "m'kusirira"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "chifundo chake"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:39.166822193Z",
+  "model": "glm-5.3"
+}

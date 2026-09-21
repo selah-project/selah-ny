@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 98,
+  "translation": "Fokozani kwa Yahwe, dziko lonse lapansi; furanani ndi kufuula mokondwa, ndipo imbirani.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Fokozani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "furanani"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "ndi kufuula mokondwa"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "ndipo imbirani"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:02.846685544Z",
+  "model": "glm-5.3"
+}

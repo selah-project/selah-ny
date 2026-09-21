@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Yahwe anati kwa Moshe: “Ona, ndakuiika iwe Elohim kwa Paro, ndipo Aharoni m'bale wako adzakhala mneneri wako.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ndakuiika iwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kwa Paro"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ndipo Aharoni"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "m'bale wako"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "mneneri wako"
+    }
+  ],
+  "timestamp": "2026-09-21T06:09:51.701206866Z",
+  "model": "glm-5.3"
+}

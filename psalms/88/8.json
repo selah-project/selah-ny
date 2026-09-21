@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 88,
+  "translation": "Kukwiira kwako kunayandikira pa ine, ndipo ndi mafunde onse ako wandizunza. Sela.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "kunayandikira"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "Kukwiira kwako"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo onse"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "mafunde ako"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "wandizunza"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:15.641440721Z",
+  "model": "glm-5.3"
+}

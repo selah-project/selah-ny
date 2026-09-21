@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 140,
+  "translation": "Kwa wotsogolera ⟨nyimbo⟩. Nyimbo ya Davide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kwa wotsogolera"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Davide"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:36.777298492Z",
+  "model": "glm-5.3"
+}

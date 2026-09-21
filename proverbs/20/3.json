@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ulemerero kwa munthu ndi kuleza kusiya kusutsana; koma mwamwachibwana aliyense amayamba kuchitana nkhondo.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "ulemerero"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kwa munthu"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "kusiya"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "kusutsana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "koma aliyense"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "mwamwachibwana"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "amayamba kuchitana nkhondo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:24:52.584127506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 48,
+  "translation": "Ndipo Yisraeli anaona ⟨את⟩ ana a Yosefe, nati: “Ndi anthu ådnı awa?”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ndipo anaona"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Yosefe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "awa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:05:55.809196164Z",
+  "model": "glm-5.3"
+}

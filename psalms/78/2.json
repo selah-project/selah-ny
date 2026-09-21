@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Ndidzatsegula pakamwa panga pa fanizo; ndidzatsitsa zinsinsi za kale kale.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Ndidzatsegula"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "pa fanizo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "pakamwa panga"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "ndidzatsitsa"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "zinsinsi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "za"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kale kale"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:26.265525715Z",
+  "model": "glm-5.3"
+}

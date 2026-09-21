@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Pakuti anathawa pamaso pa mipanga, pamaso pa lupanga lodundulira, ndi pamaso pa uta wokokedwa, ndi pamaso pa kulemera kwa nkhondo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "mipanga"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "anathawa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "lupanga"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "lodundulira"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ndi pamaso pa"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "wokokedwa"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ndi pamaso pa"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "kulemera"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "nkhondo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:07:43.171220186Z",
+  "model": "glm-5.3"
+}

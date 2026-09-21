@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Elohim, makutu athu tamva; makolo athu anatiuza ntchito imene unaichiya m'masiku awo, m'masiku a kale.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "makutu athu"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "tamva"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "makolo athu"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "anatiuza"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "unaichiya"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "m'masiku awo"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "m'masiku a"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kale"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:31.476306607Z",
+  "model": "glm-5.3"
+}

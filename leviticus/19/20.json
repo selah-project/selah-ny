@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 19:20",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo munthu ngati agona ndi ⟨את⟩ mkazi — kugona kwa mbewu — ndipo iyeyu ndiye kapolo wamkazi wokonzedwa kwa mwamuna, ndipo kupulumutsidwa sanapulumutsidwe, kapena ufulu sanapatsidwe iye; chiweruzo chidzakhala; sadzaphedwa, chifukwa iye sanakhale waulunthu.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ndipo munthu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "agona"
+    },
+    {
+      "surface": "את",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mkazi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "kugona"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kwa mbewu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ndipo iyeyu"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "kapolo wamkazi"
+    },
+    {
+      "surface": "נחרפת",
+      "gloss": "wokonzedwa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kwa mwamuna"
+    },
+    {
+      "surface": "והפדה",
+      "gloss": "ndipo kupulumutsidwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נפדתה",
+      "gloss": "napulumutsidwe"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "חפשה",
+      "gloss": "ufulu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "napatsidwe"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iye"
+    },
+    {
+      "surface": "בקרת",
+      "gloss": "chiweruzo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "chidzakhala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "dzaphedwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חפשה",
+      "gloss": "nakhale waulunthu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:40.121122534Z",
+  "model": "glm-5.3"
+}

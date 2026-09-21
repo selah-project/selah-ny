@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 11:14",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo adzalumpha pa khosi la Afilisiti kumadzulo; pamodzi adzabala ⟨את⟩ ana a kum'mawa; Edomu ndi Mowabu adzatambasula manja awo, ndipo ana a Amoni adzamvera iwo.",
+  "tokens": [
+    {
+      "surface": "ועפו",
+      "gloss": "adzalumpha"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "pa khosi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "la Afilisiti"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "kumadzulo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamodzi"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "adzabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a kum'mawa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "a kum'mawa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "ומואב",
+      "gloss": "ndi Mowabu"
+    },
+    {
+      "surface": "משלוח",
+      "gloss": "adzatambasula"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "manja awo"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ndipo ana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "a Amoni"
+    },
+    {
+      "surface": "משמעתם",
+      "gloss": "adzamvera iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:07:06.504544929Z",
+  "model": "glm-5.3"
+}

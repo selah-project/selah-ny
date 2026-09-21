@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zephaniah 2:8",
+  "book": "zephaniah",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndamva kuchititsa manyazi kwa Mowabu, ndi kunyoza kwa ana a Amoni, amene ananyeza ⟨את⟩ anthu anga, ndipo anakulirapo pa mphaka wawo.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Ndamva"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "kuchititsa manyazi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "kwa Mowabu"
+    },
+    {
+      "surface": "וגדופי",
+      "gloss": "ndi kunyoza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "a Amoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "ananyeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu anga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "anthu anga"
+    },
+    {
+      "surface": "ויגדילו",
+      "gloss": "ndipo anakulirapo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "mphaka wawo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:34:26.323593659Z",
+  "model": "glm-5.3"
+}

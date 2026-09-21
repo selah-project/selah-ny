@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Koma ndithu ayenera kudziŵaŵa pokhala ndi vuto limeneli, popeza akadakhala ⟨את⟩ ndi matenda obisika ndiyo mbadwo yovuta; koma amene akhulupirira, adzapulumuka; ndipo amene asakhulupirira, adzalangidwa.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Koma"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ayenera"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "kudziŵaŵa"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "ndi vuto limeneli"
+    },
+    {
+      "surface": "רר",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "akadakhala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ndi matenda",
+      "marks": "matenda obisika"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "obisika"
+    },
+    {
+      "surface": "או",
+      "gloss": "ndiyo mbadwo"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "yovuta"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "koma amene akhulupirira"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "adzapulumuka"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "ndipo amene asakhulupirira"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "adzalangidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:38:14.471224300Z",
+  "model": "glm-5.3"
+}

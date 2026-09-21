@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 7:21",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo chiyani sukweza pudzigu langa, ndipo suchotse ⟨את⟩ cholakwa changa? Pakuti tsopano ndidzagona m'dothi, ndipo udzandifufuza, koma sindidzakhalapo.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "ndipo chiyani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "su-"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "kweza"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pudzigu langa"
+    },
+    {
+      "surface": "ותעביר",
+      "gloss": "ndipo suchotse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cholakwa changa"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "cholakwa changa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "m'dothi"
+    },
+    {
+      "surface": "אשכב",
+      "gloss": "ndidzagona"
+    },
+    {
+      "surface": "ושחרתני",
+      "gloss": "udzandifufuza"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "koma sindidzakhalapo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:30:28.570953119Z",
+  "model": "glm-5.3"
+}

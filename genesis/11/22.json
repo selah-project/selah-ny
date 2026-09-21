@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Serugi anakhalabe zaka makumi atatu, nadabala ⟨את⟩ Nachori.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "anakhalabe"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serugi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "makumi atatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "nadabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachori"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachori"
+    }
+  ],
+  "timestamp": "2026-09-21T05:46:10.273906915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 94,
+  "translation": "Pakuti chiweruzo chidzabwerera ku chilungamo, ndipo pambuyo pake ⟨adzakhala⟩ onse olungama mtima.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "chilungamo"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "chidzabwerera"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chiweruzo"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "ndipo pambuyo pake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "olungama"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:38.559145910Z",
+  "model": "glm-5.3"
+}

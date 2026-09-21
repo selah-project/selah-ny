@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo adzasambitsa ⟨את⟩ nyumba ndi mnkhwa wa mbalimbali, ndi madzi okhala ndi moyo, ndi mbalimbali yamoyo, ndi katundu wa mtengo wa kedere, ndi zvobvu, ndi utoto wofiira.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "adzasambitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ndi mnkhwa"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "wa mbalimbali"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ndi madzi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "okhala ndi moyo"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "ndi mbalimbali"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "yamoyo"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "ndi katundu wa mtengo"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "wa kedere"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "ndi zvobvu"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "ndi utoto"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "woyiwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:36:26.092549266Z",
+  "model": "glm-5.3"
+}

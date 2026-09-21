@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 93,
+  "translation": "Mpando wako waUfumu wakhazikika kuchokera mmuyandami; uli wachikhalire.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "wakhazikika"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "Mpando wako waUfumu"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "kuchokera mmuyandami"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "wachikhalire"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uli ⟨iwe⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:56.444106790Z",
+  "model": "glm-5.3"
+}

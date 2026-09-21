@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Pa iwe ndinaponyedwa, kuchokera m'chiberekero; kuchokera m'mimba pa amayi wanga El wanga ndiwe ⟨iwe⟩.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Pa iwe"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "ndinaponyedwa"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "kuchokera m'chiberekero"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "m'mimba"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "pa amayi wanga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El wanga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ndiwe iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:42.844131193Z",
+  "model": "glm-5.3"
+}

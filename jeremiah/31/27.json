@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Onani, masiku akubwera, nena Yahwe, ndipo ndidzafesa ⟨את⟩ nyumba ya Yisraeli ndi ⟨את⟩ nyumba ya Yehudha mbewu ya munthu ndi mbewu ya nyama.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Onani"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "באים",
+      "gloss": "akubwera"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "ndipo ndidzafesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba ya Yisraeli"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyumba ya Yehudha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbewu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya munthu"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ndi mbewu"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ya nyama"
+    }
+  ],
+  "timestamp": "2026-09-21T09:41:47.313979252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Adamu anakhala zaka zana limodzi ndi makumi atatu, nabala mwana m'chifaniziro chake, monga mwa chithunzi chake; nayitana ⟨את⟩ dzina lake Sheti.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamu"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "makumi atatu"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ndi zana limodzi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "nabala"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "m'chifaniziro chake"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "monga mwa chithunzi chake"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nayitana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzina lake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dzina lake"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Sheti"
+    }
+  ],
+  "timestamp": "2026-09-21T05:43:24.622192913Z",
+  "model": "glm-5.3"
+}

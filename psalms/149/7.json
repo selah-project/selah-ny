@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 149,
+  "translation": "Kuchita chiwombolo pa mitundu, ndi zitsutso pa anthu a mitundu ina.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "kuchita"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "chiwombolo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "pa mitundu"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "zitsutso"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨anthu a⟩"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "mitundu ina"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:02.781089625Z",
+  "model": "glm-5.3"
+}

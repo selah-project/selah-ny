@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Atalyahu anamva ⟨את⟩ phwirivwiri la othamanga a anthu, ndipo analowa kwa anthu m'nyumba ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "anamva"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phwirivwiri la othamanga a anthu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "phwirivwiri la"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "othamanga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a anthu"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ndipo analowa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "m'nyumba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:54:48.416533464Z",
+  "model": "glm-5.3"
+}

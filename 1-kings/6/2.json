@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 6:2",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo nyumba imene mfumu Shelomoh anamanga kwa Yahwe: kutalika kwake kunali makumi atatu <censored>, lifupi lake makumi awiri <censored>, ndi kukweza kwake makumi atatu <censored>.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "ndipo nyumba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anamanga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "makumi atatu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amama (kipimiro)"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "kutalika kwake"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "makumi awiri"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lifupi lake"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "makumi atatu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amama (kipimiro)"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "kukweza kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:34:09.630447722Z",
+  "model": "glm-5.3"
+}

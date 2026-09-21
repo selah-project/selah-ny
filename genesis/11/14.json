@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Shelachi anakhalamo zaka makumi atatu ndi mphambu ziwiri, nabala ⟨את⟩ Everi.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Ndipo Shelachi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "anakhalamo"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "makumi atatu ndi mphambu ziwiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "nabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Everi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Everi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:46:14.955252792Z",
+  "model": "glm-5.3"
+}

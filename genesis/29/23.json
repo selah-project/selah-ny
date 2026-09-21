@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Madzulo kunali, Lavan anatenga ⟨את⟩ Lea mwana wake wamkazi, namulowetsa ⟨את⟩ kwa iye; ndipo iye analowa kwa iye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kunali"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "madzulo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea mwana wake wamkazi"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "mwana wake wamkazi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "namulowetsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iye (Lea)"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "analowa"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kwa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T05:54:10.017953097Z",
+  "model": "glm-5.3"
+}

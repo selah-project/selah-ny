@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 43,
+  "translation": "Ndipo anakonzekereza ⟨את⟩ mphatyo mpaka Yosefe atafika masana, chifukwa anamva kuti kumeneko adzadya chakudya.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "anakonzekereza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mphatyo"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mphatyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "atafika"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "masana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "anamva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "adzadya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chakudya"
+    }
+  ],
+  "timestamp": "2026-09-21T06:02:34.728008003Z",
+  "model": "glm-5.3"
+}

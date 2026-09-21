@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 135,
+  "translation": "Sihoni mfumu ya Aemori, ndi Ogi mfumu ya Bashani, ndi ufumu wonse wa Kenakani;",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Sihoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Aemori"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "ndi Ogi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashani"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ndi wonse wa"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ufumu"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenakani"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:57.525521227Z",
+  "model": "glm-5.3"
+}

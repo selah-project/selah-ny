@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Ndipo panachitika pa nthawi imeneyo, Yehudha adatsika mwa ⟨את⟩ abale ake, napoloka kufika kwa munthu wa ku Adulamu, ndipo dzina lake linala Khirah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "panachitika"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pa nthawi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "imeneyo"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "adatsika"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mwa ⟨את⟩"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abale ake"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "napoloka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufika kwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "wa ku Adulamu"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ndipo dzina lake"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "Khirah"
+    }
+  ],
+  "timestamp": "2026-09-21T05:59:54.926438325Z",
+  "model": "glm-5.3"
+}

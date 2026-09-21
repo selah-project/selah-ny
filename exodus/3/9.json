@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo tsopano, taona, kulira kwa ana a Yisraeli kwafika kwa Ine; ndiponso ndinaona ⟨את⟩ kusautso chimene a Mitsrayimu amakankha ⟨את⟩ iwo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ndipo tsopano"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "kulira"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "באה",
+      "gloss": "kwafika"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa Ine"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndinaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kusautso"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "kusautso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "amakankha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:09:50.538855427Z",
+  "model": "glm-5.3"
+}

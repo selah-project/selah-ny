@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 144,
+  "translation": "Walaze kuwala kwa mphepo yamkuntho ndi uwatsekutse, tuma mivi yako ndipo uwagwedeze.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "walaze kuwala kwa"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "mphepo yamkuntho"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "ndi uwatsekutse"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "tuma"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "mivi yako"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "ndipo uwagwedeze"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:10.044942286Z",
+  "model": "glm-5.3"
+}

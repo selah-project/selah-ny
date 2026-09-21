@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Misasa yawo ikhale yathazidwe, m'ohema mwawo musakhale wokhala.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "ikhale"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "misasa yawo"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "yathazidwe"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "m'ohema mwawo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu(‑)"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "usakhale"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wokhala"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:24.172342886Z",
+  "model": "glm-5.3"
+}

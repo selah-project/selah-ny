@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo uika m'linga ⟨את⟩ umboni umene ndidzakupatsa iwe.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "uika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "m'"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "linga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umboni"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "umboni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndidzakupatsa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:20:00.078422027Z",
+  "model": "glm-5.3"
+}

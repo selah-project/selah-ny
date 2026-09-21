@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo abambo awo anati kwa iwo: “Njira iti anakayenda?” Ndipo ana ake anaona ⟨את⟩ njira imene munthu wa Elohim anakayenda, yemwe anabwera ku Yehudah.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ndipo anati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "abambo awo"
+    },
+    {
+      "surface": "אי",
+      "gloss": "iti"
+    },
+    {
+      "surface": "זה",
+      "gloss": "njira imeneyi"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "anakayenda"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ndipo anaona"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njira"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "anakayenda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yemwe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "anabwera"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "ku Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-21T08:39:32.438969915Z",
+  "model": "glm-5.3"
+}

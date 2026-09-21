@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Tsoka kwa iwo akufotokoza miyambo ya chinyengo, ndi olemba chisautso akulemba.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Tsoka kwa"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "iwo akufotokoza"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "miyambo"
+    },
+    {
+      "surface": "און",
+      "gloss": "ya chinyengo"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "ndi olemba"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "chisautso"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "akulemba"
+    }
+  ],
+  "timestamp": "2026-09-21T09:06:44.686603914Z",
+  "model": "glm-5.3"
+}

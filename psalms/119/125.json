@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Kapolo wako ndine; ndipatsa kuzindikira, kuti ndidziwe mboni zako.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "kapolo wako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "ndipatsa kuzindikira"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "kuti ndidziwe"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "mboni zako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:00.025975696Z",
+  "model": "glm-5.3"
+}

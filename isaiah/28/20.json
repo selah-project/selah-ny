@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 28:20",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Pakuti malo ogona ndi wamng'ono kuti munthu adzazolere, ndi chophimba chochepa kuti munthu adzazingilira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "wamng'ono"
+    },
+    {
+      "surface": "המצע",
+      "gloss": "malo ogona"
+    },
+    {
+      "surface": "מהשתרע",
+      "gloss": "kuti munthu adzazolere"
+    },
+    {
+      "surface": "והמסכה",
+      "gloss": "ndi chophimba"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "chochepa"
+    },
+    {
+      "surface": "כהתכנס",
+      "gloss": "kuti munthu adzazingilira"
+    }
+  ],
+  "timestamp": "2026-09-21T09:12:08.062693953Z",
+  "model": "glm-5.3"
+}

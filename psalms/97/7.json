@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 97,
+  "translation": "Onse akutumikira zithunzi adzachita manyazi, amene amadzikuza m'zithunzi; mugwadireni Iye, milungu yonse.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "adzachita manyazi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Onse"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "akutumikira"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "zithunzi"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "amene amadzikuza"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "m'zithunzi"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "mugwadireni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Iye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "milungu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:49.375389876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 104,
+  "translation": "Amadziritsa mapiri m'chipinda chake chapamwamba; dziko lapansi limakhutitsidwa ndi zipatso za ntchito zako.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "Amadziritsa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "m'chipinda chake chapamwamba"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ndi zipatso za"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ntchito zako"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "limakhutitsidwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:29.275227679Z",
+  "model": "glm-5.3"
+}

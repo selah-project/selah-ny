@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Funkani mokondwa, inu olungama, mwa Yahwe; kwa olungama ndi koyenera kutamanda.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "Funkani mokondwa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "olungama"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "mwa Yahwe"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "kwa olungama"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ndi koyenera"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "kutamanda"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:30.789503506Z",
+  "model": "glm-5.3"
+}

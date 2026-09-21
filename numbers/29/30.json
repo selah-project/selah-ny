@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 29:30",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndi nsembe yao ya ufa ndi nsembe zamadzi awo, kwa ng'ombe zamuna tsinkhu, kwa nkhosa zamuna zazikulu, ndi kwa nkhosa zazing'ono, monga mwa chiwerengero chao, monga mwa chilamulo.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "Ndi nsembe yao ya ufa"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "ndi nsembe zamadzi awo"
+    },
+    {
+      "surface": "לפרים",
+      "gloss": "kwa ng'ombe zamuna tsinkhu"
+    },
+    {
+      "surface": "לאילם",
+      "gloss": "kwa nkhosa zamuna zazikulu"
+    },
+    {
+      "surface": "ולכבשים",
+      "gloss": "ndi kwa nkhosa zazing'ono"
+    },
+    {
+      "surface": "במספרם",
+      "gloss": "monga mwa chiwerengero chao"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "monga mwa chilamulo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:00:39.525744365Z",
+  "model": "glm-5.3"
+}

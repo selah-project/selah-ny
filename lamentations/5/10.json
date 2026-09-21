@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Khungu lathu lofinya monga ng'anjo, chifukwa cha kunyezimira kwa njala.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "khungu lathu"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "monga ng'anjo"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "lofinya"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "kunyezimira"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kwa njala"
+    }
+  ],
+  "timestamp": "2026-09-21T11:54:24.456990834Z",
+  "model": "glm-5.3"
+}

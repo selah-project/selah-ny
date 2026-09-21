@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 77,
+  "translation": "Mwapulumutsa ndi dzanja lanu anthu anu, ana a Yakobo ndi a Yosefe. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "Mwapulumutsa"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "ndi dzanja lanu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "anthu anu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ndi a Yosefe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:45.524051670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Khalani kutali ndi nkhani ya bodza; ndipo wopanda choipa ndi wolungama musawapha; pakuti sindilungamitsa woipa.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "nkhani"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ya bodza"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "khalani kutali"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "wopanda choipa"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa-"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "waphe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "ndilungamitsa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "woipa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:26.609134582Z",
+  "model": "glm-5.3"
+}

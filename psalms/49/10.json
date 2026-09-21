@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Ndipo adzakhaladi ndi moyo ku nthawi zonse; sadzaona manda.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "adzakhaladi ndi moyo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "be"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "adzaona"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "manda"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:24.777122867Z",
+  "model": "glm-5.3"
+}

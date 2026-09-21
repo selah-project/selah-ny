@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo Eliyahu anati kwa anthu onse: “Idzandiyandikira inu.” Ndipo anthu onse anamuyandikira. Ndiye anakonza ⟨את⟩ guwa la Yahwe, lomwe linatumikidwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo anati"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa onse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "idzandiyandikira"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "ndipo anamuyandikira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ndiye anakonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guwa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "guwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "lomwe linatumikidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T08:44:34.956991214Z",
+  "model": "glm-5.3"
+}

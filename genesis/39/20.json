@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndipo mbuye wa Yosefe anamuta ⟨אתו⟩, namupereka ku nyumba yolowera ndende, malo amene akaidi a mfumu ali kumangidwa; ndipo anakhala kumeneko m'nyumba yolowera ndende.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anamuta"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mbuye wa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "anamuta"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "namupereka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "yolowera ndende"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "malo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "akaidi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a mfumu"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "ali kumangidwa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "yolowera ndende"
+    }
+  ],
+  "timestamp": "2026-09-21T06:00:40.865211713Z",
+  "model": "glm-5.3"
+}

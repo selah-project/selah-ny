@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Sadzafuula, ndipo sadzakweza, ndipo sadzawombetsa m'kunja liwu wake.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "fuula"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sadza-"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "kweza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sadza-"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "wombetsa"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "m'kunja"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "liwu wake"
+    }
+  ],
+  "timestamp": "2026-09-21T09:18:33.151335606Z",
+  "model": "glm-5.3"
+}

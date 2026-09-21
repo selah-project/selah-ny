@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Uphungu wa Yahwe umayimirira ku nthawi zonse, malingaliro a mtima wake kwa mibadwo ndi mibadwo.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "Uphungu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "umayimirira"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "malingaliro"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "a mtima wake"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwa mibadwo"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ndi mibadwo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:38.635697176Z",
+  "model": "glm-5.3"
+}

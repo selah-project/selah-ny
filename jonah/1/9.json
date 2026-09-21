@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo anawawu kwa iwo: “Heebri ndine, ndipo ⟨את⟩ Yahwe, Elohim wa kumwamba, ndimamuiopa — amene anapanga ⟨את⟩ nyanja ndi ⟨את⟩ dziko lamadzi.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anawawu"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Heebri"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ndimamuiopa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyanja"
+    },
+    {
+      "surface": "הים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "dziko lamadzi"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "dziko lamadzi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:29:12.732091148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 37:21",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo Reuvheni adamva, namulamulira iye m'dzanja lawo, nati: “Tisamupange iye mfundo ya moyo ⟨moyo⟩.”",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "adamva"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuvheni"
+    },
+    {
+      "surface": "ויצלהו",
+      "gloss": "namulamulira iye"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "m'dzanja lawo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tisamu-"
+    },
+    {
+      "surface": "נכנו",
+      "gloss": "-pange iye mfundo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moyo"
+    }
+  ],
+  "timestamp": "2026-09-21T05:59:51.150310690Z",
+  "model": "glm-5.3"
+}

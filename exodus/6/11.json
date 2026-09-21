@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Lowa, ulankhule kwa Paro, mfumu ya Mitsrayimu, kuti atumize ⟨את⟩ ana a Yisraeli kuchokera m'dziko lake.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Lowa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ulankhule"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "kuti atumize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "kuchokera m'dziko lake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:27.479111107Z",
+  "model": "glm-5.3"
+}

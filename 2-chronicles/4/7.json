@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo anapanga ⟨את⟩ manito a ngakhumi, monga malamulo awo, ndipo anaika m'chipinda choyera chakati patali, asanu kudzanja lamanja ndi asanu kudzanja lamanzere.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ndipo anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manito a ngakhumi"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "manito"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ngakhumi"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "monga malamulo awo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ndipo anaika"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "m'chipinda choyera chakati patali"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "asanu"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "kudzanja lamanja"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ndi asanu"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "kudzanja lamanzere"
+    }
+  ],
+  "timestamp": "2026-09-21T12:37:03.913439252Z",
+  "model": "glm-5.3"
+}

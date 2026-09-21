@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ng'ombe idziwa m'mwake woyamba, ndi bulu amadziwa phanga la mbuye wake; koma Yisraeli sadziwa, anthu anga sakuzindikira.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "idziwa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "m'mwake woyamba"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "ndi bulu"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "phanga"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "la mbuye wake"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dziwa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "anthu anga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "kuzindikira"
+    }
+  ],
+  "timestamp": "2026-09-21T13:13:00.436159152Z",
+  "model": "glm-5.3"
+}

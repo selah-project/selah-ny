@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Atai anabala ⟨את⟩ Natani, ndipo Natani anabala ⟨את⟩ Zabadi.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "Ndipo Atai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natani"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natani"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ndipo Natani"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zabadi"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zabadi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:23:11.937114864Z",
+  "model": "glm-5.3"
+}

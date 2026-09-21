@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndinaona ⟨את⟩ nthito kavuto imene Elohim anapatsa ana a anthu, kuti azitumikira m'menemo.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ndinaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nthito kavuto"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "nthito kavuto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anapatsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "kutitengera ntchito"
+    },
+    {
+      "surface": "בו",
+      "gloss": "m'menemo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:09.161220630Z",
+  "model": "glm-5.3"
+}

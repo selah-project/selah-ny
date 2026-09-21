@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Ndipo Yaakob anamva kuti anadetsa ⟨את⟩ Dina mwana wake wamkazi, ndipo ana ake anali ndi ⟨את⟩ ziweto zake m'munda; ndipo Yaakob anachita chete mpaka analowa.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Ndipo Yaakob"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "anamva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "anadetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "mwana wake wamkazi"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ndipo ana ake"
+    },
+    {
+      "surface": "היו",
+      "gloss": "anali"
+    },
+    {
+      "surface": "את",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ziweto zake"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "ziweto zake"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "m'munda"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "ndipo anachita chete"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "באם",
+      "gloss": "analowa"
+    }
+  ],
+  "timestamp": "2026-09-21T05:59:13.239150020Z",
+  "model": "glm-5.3"
+}

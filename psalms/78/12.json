@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 78:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Pamaso pa makolo awo anachita zodabwitsa m'dziko la Mitsrayimu, m'chimango cha Tsoani.",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "Pamaso pa"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "makolo awo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "zodabwitsa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "m'chimango cha"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoani"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:27.010450396Z",
+  "model": "glm-5.3"
+}

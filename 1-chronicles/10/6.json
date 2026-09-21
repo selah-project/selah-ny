@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo Shauli anafa, ndi ana ake amuna atatu, ndi nyumba yake yonse — pamodzi anafa.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "anafa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake amuna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamodzi"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "anafa"
+    }
+  ],
+  "timestamp": "2026-09-21T12:27:02.202234387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo amalume wa Shauli anati: “Ndikauze, chonde, Shemueli ananenedi chiyani kwa inu?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "amalume wa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ndikauze"
+    },
+    {
+      "surface": "נא",
+      "gloss": "chonde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ananenedi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:04:12.782653268Z",
+  "model": "glm-5.3"
+}

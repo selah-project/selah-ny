@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 25:5",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "nati: “Bwererani tsopano, munthu aliyense kuchokera ku njira yake yoipa ndi kuchokera ku koipa kwa zochita zanu, ndipo khazikani pa dziko limene Yahwe anapatsa inu ndi makolo anu, kuyambira kale ndi mpaka ku nthawi zonse.”",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Bwererani"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu aliyense"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "kuchokera ku njira yake"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "yoipa"
+    },
+    {
+      "surface": "ומרע",
+      "gloss": "ndi kuchokera ku koipa"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "kwa zochita zanu"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ndipo khazikani"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anapatsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "ולאבותיכם",
+      "gloss": "ndi makolo anu"
+    },
+    {
+      "surface": "למן",
+      "gloss": "kuyambira"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kale"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ndi mpaka ku"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T09:38:32.699303226Z",
+  "model": "glm-5.3"
+}

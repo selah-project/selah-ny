@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Kapena wabanganda mwana wamwamuna, kapena wabanganda mwana wamkazi — monga chweruzo ichi chidzachitika kwa iye.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wamwamuna"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "wabanganda"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "wabanganda"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "monga chweruzo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "chidzachitika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:40.949696526Z",
+  "model": "glm-5.3"
+}

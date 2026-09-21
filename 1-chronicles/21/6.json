@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Koma Levi ndi Benjamini sanawerengedwe mwa iwo, chifukwa lamulo la mfumu linadetsa ⟨את⟩ Yowabu.",
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "ndi Levi"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ndi Benjamini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "werenge"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "mwa iwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "linadetsa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lamulo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "la mfumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yowabu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:31:04.794753791Z",
+  "model": "glm-5.3"
+}

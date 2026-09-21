@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo Yahwe anapita, atatha kulankhula ndi Avraham, ndipo Avraham anabwerera ku malo ake.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "anapita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "atatha"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "atatha"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kulankhula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "ndipo Avraham"
+    },
+    {
+      "surface": "שב",
+      "gloss": "anabwerera"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "ku malo ake"
+    }
+  ],
+  "timestamp": "2026-09-21T05:47:31.167792591Z",
+  "model": "glm-5.3"
+}

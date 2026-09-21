@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 47,
+  "translation": "Anthu onse, phukani ⟨ma⟩manja, fuulirani kwa Elohim ndi liwu lakusangalala.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "Anthu"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "phukani"
+    },
+    {
+      "surface": "כף",
+      "gloss": "⟨ma⟩manja"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "fuulirani"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ndi liwu la"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "kusangalala"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:37.138562253Z",
+  "model": "glm-5.3"
+}

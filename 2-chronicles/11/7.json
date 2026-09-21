@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "ndi ⟨את⟩ Beti-Tsuru, ndi ⟨את⟩ Sokohu, ndi ⟨את⟩ Adulamu,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Beti-Tsuru"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Sokohu"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Sokohu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Adulamu"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adulamu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:39:11.963116682Z",
+  "model": "glm-5.3"
+}

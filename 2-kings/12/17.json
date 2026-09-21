@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 12:17",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Siliva ya ashamu ndi siliva ya machimo sidzalowedwa m'nyumba ya Yahwe; ya ansembe idzakhala.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ya ashamu (chophulira)"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ndi siliva"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "ya machimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "idzalowedwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "ya ansembe"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "idzakhala"
+    }
+  ],
+  "timestamp": "2026-09-21T08:53:34.831891039Z",
+  "model": "glm-5.3"
+}

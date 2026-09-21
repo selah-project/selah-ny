@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 63,
+  "translation": "Pakuti munakhala thandizo langa, ndipo m'mthunzi wa mapiko anu ndidzayimba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "היית",
+      "gloss": "munakhala"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "thandizo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "langa"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "ndipo m'mthunzi"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "wa mapiko anu"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ndidzayimba"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:56.907751212Z",
+  "model": "glm-5.3"
+}

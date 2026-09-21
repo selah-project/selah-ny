@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 66,
+  "translation": "Zolakwa ngati ndinaona m'mtimba mwanga, Adonayi sakandvera.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "zolakwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndinaona"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "m'mtimba mwanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "amvera"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:28.101352924Z",
+  "model": "glm-5.3"
+}

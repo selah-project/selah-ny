@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo adzalandira ⟨את⟩ mbali ya magazi, ndipo adzaiika pa miyeso iwiri ya khomo ndi pa mtanda wa pa khomo, pa nyumba zimene adzadya ⟨את⟩ ilo mkati mwazo.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "adzalandira"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mbali ya"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "magazi"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "adzaiika"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iwiri"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "miyeso ya khomo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "mtanda wa pa khomo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "adzadya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ilo",
+      "marks": "ilo (nyama ya Pasikha)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mkati mwazo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:55:59.392304511Z",
+  "model": "glm-5.3"
+}

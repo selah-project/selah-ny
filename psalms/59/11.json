@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 59,
+  "translation": "Elohim wa khesedi wanga adzandifika; Elohim adzaonetsa pa adani anga.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi wanga"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "adzandifika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "adzaonetsa"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "pa adani anga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:56.058819125Z",
+  "model": "glm-5.3"
+}

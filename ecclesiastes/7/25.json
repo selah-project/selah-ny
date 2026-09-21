@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 7:25",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ine ndinatembenuzira ndi mtima wangu kudziwa, ndi kufufuza, ndi kusaka nzeru ndi chiweruzo, ndi kudziwa kuti kuipa ndi usatulu, ndi upusu ndi uzembero.",
+  "tokens": [
+    {
+      "surface": "סבותי",
+      "gloss": "ndinatembenuzira"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ndi mtima wangu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kudziwa"
+    },
+    {
+      "surface": "ולתור",
+      "gloss": "ndi kufufuza"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "ndi kusaka"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "nzeru"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "ndi chiweruzo"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "ndi kudziwa kuti"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kuipa"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "usatulu"
+    },
+    {
+      "surface": "והסכלות",
+      "gloss": "ndi upusu"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "uzembero"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:19.739840454Z",
+  "model": "glm-5.3"
+}

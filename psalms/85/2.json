@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 85,
+  "translation": "Unakondwera, Yahwe, ndi dziko lako; unabweretsa ubandiro wa Yaakobi.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "Unakondwera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "dziko lako"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "unabweretsa"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ubandiro"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:23.455322858Z",
+  "model": "glm-5.3"
+}

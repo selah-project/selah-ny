@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "⟨את⟩ mawu amene ndinayankha ⟨את⟩ ndi inu poti mukatuluka ku Mitsrayimu, ndipo mzimu wangu ukayima pakati panu; musaope.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "ndinayankha ⟨pangano⟩"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ndi inu"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "poti mukatuluka"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ku Mitsrayimu"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "ndipo mzimu wangu"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ukayima"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "pakati panu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa-"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ope"
+    }
+  ],
+  "timestamp": "2026-09-21T10:34:39.597015884Z",
+  "model": "glm-5.3"
+}

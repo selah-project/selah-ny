@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Elohim anaona ⟨את⟩ dziko lapansi, ndipo taona, linaonongoka; chifukwa thupi lonse linaonongola ⟨את⟩ njira yake pa dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko lapansi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ndipo taona"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "linaonongoka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "linaonongola"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "thupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njira yake"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "njira yake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:35.910498970Z",
+  "model": "glm-5.3"
+}

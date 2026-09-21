@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndi Yahwe ananena kwa ine, ndi kunena kuti:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ndi kunena kuti"
+    }
+  ],
+  "timestamp": "2026-09-21T07:13:26.122057242Z",
+  "model": "glm-5.3"
+}

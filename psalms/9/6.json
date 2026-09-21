@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Mwakwiyitsa anthu a mitundu, mwawononga woipa; dzina lawo mwachotsa mpaka nthawi zonse, ku nthawi yopanda tsanza.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "mwakwiyitsa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "anthu a mitundu"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "mwawononga"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "woipa"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "dzina lawo"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "mwachotsa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mpaka nthawi zonse"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ku nthawi yopanda tsanza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:58.616198859Z",
+  "model": "glm-5.3"
+}

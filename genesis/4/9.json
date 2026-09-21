@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Yahwe anati kwa Kayini: “Heveli, bale wako, ali kuti?” Ndipo iye anati: “Sindidziwa; ine ndine wosunga bale wanga?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo Yahwe anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayini"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ali kuti"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Heveli"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "bale wako"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo iye anati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "-ndidziwa"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "wosunga"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bale wanga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ine"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:20.086198989Z",
+  "model": "glm-5.3"
+}

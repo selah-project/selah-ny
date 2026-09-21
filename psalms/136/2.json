@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 136,
+  "translation": "Yamikani Elohim wa milungu, chifukwa kwa nthawi zonse ndi khesedi wake.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Yamikani"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "milungu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kwa nthawi zonse"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi wake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:05.593189637Z",
+  "model": "glm-5.3"
+}

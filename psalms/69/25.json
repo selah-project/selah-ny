@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Thira pa iwo mkwiyo wako, ndipo kuyaka kwa nkhawa zako kuzawapeza.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Thira"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pa iwo"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "mkwiyo wako"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "ndipo kuyaka"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "kwa nkhawa zako"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "kuzawapeza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:24.172100168Z",
+  "model": "glm-5.3"
+}

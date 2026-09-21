@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Nipo adabweza ⟨את⟩ mfumu ya omwesa pa kumwesa kwake, nadzikomera chikho pa dzanja la Paro.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "adabweza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfumu ya omwesa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "ya omwesa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "kumwesa kwake"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nadzikomera"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "chikho"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כף",
+      "gloss": "dzanja"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-21T05:59:36.576561026Z",
+  "model": "glm-5.3"
+}

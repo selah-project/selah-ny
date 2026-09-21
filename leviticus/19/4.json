@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Musatembenuzire mitundu ya mafano, ndipo milungu yowirikiza musaiyenerere kwa inuokha; ine ndine Yahwe Elohim wanu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mu(satembenuzire)"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "Musatembenuzire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "mitundu ya mafano"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ndipo milungu"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "yowirikiza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musaiyenerere"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "musaiyenerere"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inuokha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:40:50.279090864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ngati mitambo ijaza, mvula idzayilikira pa dziko lapansi; ndipo ngati mtengo wagwa kumwera, kapena ngati kumpoto, malo amene mtengo ungagulere, kumeneko udzakhala.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "ijaza"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "mitambo"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "mvula"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "idzayilikira"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ndipo ngati"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "wagwa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mtengo"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "kumwera"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kapena ngati"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "kumpoto"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "malo"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "amene ungagulere"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "mtengo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "udzakhala"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:55.475651221Z",
+  "model": "glm-5.3"
+}

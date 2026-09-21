@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Pakuti nzeru zidzalowa mu mtima wako, ndipo chidziwitso chidzakondweretsa moyo wako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "zidzalowa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "nzeru"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "mu mtima wako"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ndipo chidziwitso"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "chidzakondweretsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:18:01.379542878Z",
+  "model": "glm-5.3"
+}

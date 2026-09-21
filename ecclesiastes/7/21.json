@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Komanso pa mawu onse amene adzanena, usapereke mtima wako, kuti usamve ⟨את⟩ kapolo wako wakutukwanira.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Komanso"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pa onse"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "adzanena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "pereke"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "mtima wako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "mve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapolo wako"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kapolo wako"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "wakutukwanira"
+    }
+  ],
+  "timestamp": "2026-09-21T11:56:43.443094505Z",
+  "model": "glm-5.3"
+}

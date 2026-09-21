@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Ndipo mkwiyo wa Yahwe unayaka pa anthu ake, nadauna ⟨את⟩ cholowa chake.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "unayaka (mkwiyo)"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mkwiyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "pa anthu ake"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "nadauna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cholowa chake"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "cholowa chake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:11.367150180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo adzapha ⟨את⟩ pa mbali ya guwa la nsembe kumpoto, pamaso pa Yahwe; ndipo ana a Aharoni, ansembe, adzatasa ⟨את⟩ mwazi wake pa guwa la nsembe kozungulira.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "adzapha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (nyamayo)"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "mbali"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ya guwa la nsembe"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "kumpoto"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "adzatasa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwazi wake"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "mwazi wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa la nsembe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kozungulira"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:25.875127035Z",
+  "model": "glm-5.3"
+}

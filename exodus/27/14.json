@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 27:14",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo makumi anayi ndi asanu a miyeso ya dzanja zikhale zolembedwa pa mbali imodzi; mipando yawo ikhale itatu, ndipo maziko awo ikhale atatu.",
+  "tokens": [
+    {
+      "surface": "וחמש",
+      "gloss": "ndipo asanu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ndi khumi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "miyeso ya dzanja"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "zolembedwa"
+    },
+    {
+      "surface": "לכתף",
+      "gloss": "pa mbali imodzi (pa khomo)"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "mipando yawo"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "itatu"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ndipo maziko awo"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "atatu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:19:29.386615828Z",
+  "model": "glm-5.3"
+}

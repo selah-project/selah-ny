@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 10:21",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Pakuti abusa abafulumira uchifwamba, ndipo Yahwe sanamufufuze ⟨את⟩; chifukwa chake sanazindikire, ndipo gulu lawo lonse la nkhosa lasasidwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "נבערו",
+      "gloss": "abadwa uchifwamba"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "abusa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "san- (ayi)"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "anamufufuza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa (m'malo)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chifukwa chake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana- (ayi)"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "anazindikira"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo gulu lonse"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "la nkhosa zawo"
+    },
+    {
+      "surface": "נפוצה",
+      "gloss": "lasasidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:31:48.311359414Z",
+  "model": "glm-5.3"
+}

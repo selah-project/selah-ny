@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Elohim, iwe mudziwa upusu wanga; ndipo zolakwa zanga sizinabisike ndi iwe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "mudziwa"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "upusu wanga"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "ndipo zolakwa zanga"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ndi iwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sizi-"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "ninabisike"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:54.330004627Z",
+  "model": "glm-5.3"
+}

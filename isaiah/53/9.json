@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 53,
+  "translation": "Anampatsa ⟨את⟩ olakwa manda ake, ndi ⟨את⟩ wachuma pa imfa yake, popeza sanachitire chiwawa, kapena chinyengo sichinapezeka pakamwa pake.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Anampatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olakwa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "olakwa"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "manda ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "wachuma"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "wachuma"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "pa imfa yake"
+    },
+    {
+      "surface": "על",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana-"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "chiwawa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "-chitire"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kapena sichina-"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "chinyengo"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "pakamwa pake"
+    }
+  ],
+  "timestamp": "2026-09-21T09:22:06.015388606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo mudulidwe ⟨את⟩ masamu a chodula chanu, ndipo chidzakhala chizindikiro cha pangano pakati pa ine ndi inu.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "Ndipo mudulidwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masamu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "masamu"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "a chodula chanu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ndipo chidzakhala"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "chizindikiro"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "cha pangano"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "pakati pa ine"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "ndi pakati pa inu"
+    }
+  ],
+  "timestamp": "2026-09-21T05:47:59.934465444Z",
+  "model": "glm-5.3"
+}

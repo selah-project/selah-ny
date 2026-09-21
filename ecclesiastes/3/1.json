@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Kwa chinthu chilichonse pali nthawi yake, ndipo nthawi ya chilichonse chofunika pansi pa kumwamba.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "kwa chinthu chilichonse"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "nthawi yake"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ndipo nthawi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ya chilichonse"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "chofunika"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    }
+  ],
+  "timestamp": "2026-09-21T11:54:59.807034215Z",
+  "model": "glm-5.3"
+}

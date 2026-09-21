@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 125,
+  "translation": "Yerushalayimu — mapiri ozungulira m'modzi m'modzi <0#> <1#> <2#> <3#>",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ozungulira"
+    },
+    {
+      "surface": "לה",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ndipo Yahwe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ozungulira"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "kwa anthu ake"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kuchokera tsopano"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ndi mpaka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ku nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:37.118240715Z",
+  "model": "glm-5.3"
+}

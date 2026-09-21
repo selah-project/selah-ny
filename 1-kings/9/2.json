@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Yahwe anaonekera kwa Shelomoh kachiwiri, monga mo anaonekera kwa iye muGibhoni.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "anaonekera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "kachiwiri"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga mo"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "anaonekera"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "muGibhoni"
+    }
+  ],
+  "timestamp": "2026-09-21T08:37:12.627631323Z",
+  "model": "glm-5.3"
+}

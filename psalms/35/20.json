@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Pakuti iwo sakanena mtendere, koma okhala m'mtendere pa dziko lapansi, mawu a chinyengo amawaganiza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mtendere"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "-kanena"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "okhala m'mtendere"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pa dziko lapansi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "a chinyengo"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "amawaganiza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:16.616504890Z",
+  "model": "glm-5.3"
+}

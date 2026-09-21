@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo amafuna minda, ndi kuwomba ⟨izo⟩; ndi nyumba, ndi kuzitenga; ndi kusautsa munthu ndi nyumba yake, munthu ndi cholowa chake.",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "amafuna"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "minda"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "ndi kuwomba"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "ndi nyumba"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "ndi kuzitenga"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "ndi kusautsa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "ndi nyumba yake"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "ndi cholowa chake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:30:28.980010856Z",
+  "model": "glm-5.3"
+}

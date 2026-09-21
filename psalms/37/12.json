@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Woipa apanga chiwembu pa wolungama, nagumula m'menyo mwake pa iye.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "apanga chiwembu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "woipa"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "pa wolungama"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "nagumula m'menyo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "m'menyo mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:12.595407732Z",
+  "model": "glm-5.3"
+}

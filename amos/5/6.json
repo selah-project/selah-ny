@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 5:6",
+  "book": "amos",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Funani ⟨את⟩ Yahwe, ndipo mukhale ndi moyo; kuti ⟨iye⟩ asaphulire ngati moto m'nyumba ya Yosefu, ndipo udzadya, ndipo sadzakhala wozimitsa ku Beth-El.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Funani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "mukhale ndi moyo"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kuti (usakhale)"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "asaphulire"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "ngati moto"
+    },
+    {
+      "surface": "בית",
+      "gloss": "m'nyumba ya"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "udzadya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "sadzakhala"
+    },
+    {
+      "surface": "מכבה",
+      "gloss": "wozimitsa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ku Beth-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-21T10:27:18.567902183Z",
+  "model": "glm-5.3"
+}

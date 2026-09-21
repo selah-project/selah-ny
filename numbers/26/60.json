@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo kwa Aharoni anabadwa ⟨את⟩ Nadabi ndi ⟨את⟩ Abihuyi, ⟨את⟩ Elazari ndi ⟨את⟩ Itamari.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Ndipo anabadwa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kwa Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadabi"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadabi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Abihuyi"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Abihuyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazari"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Itamari"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamari"
+    }
+  ],
+  "timestamp": "2026-09-21T07:06:24.733750043Z",
+  "model": "glm-5.3"
+}

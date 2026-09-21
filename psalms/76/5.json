@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 76,
+  "translation": "Wokhawala ndi wamkulu iwe, ⟨koposa⟩ mapiri a zokhathamira.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "wokhawala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "zokhathamira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:55.165454153Z",
+  "model": "glm-5.3"
+}

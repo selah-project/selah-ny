@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Tsoka kwa iwo akunena ku choipa “chabwino” ndi ku chabwino “choipa”; amayika mdima monga kuwala, ndi kuwala monga mdima; amayika chikha monga chakoma, ndi chakoma monga chikha.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Tsoka"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "kwa iwo akunena"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ku choipa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "“chabwino”"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "ndi ku chabwino"
+    },
+    {
+      "surface": "רע",
+      "gloss": "“choipa”"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amayika"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mdima"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "monga kuwala"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ndi kuwala"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "monga mdima"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amayika"
+    },
+    {
+      "surface": "מר",
+      "gloss": "chikha"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "monga chakoma"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "ndi chakoma"
+    },
+    {
+      "surface": "למר",
+      "gloss": "monga chikha"
+    }
+  ],
+  "timestamp": "2026-09-21T09:03:30.197314142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo Paro anati: “Taonani, tsopano anthu a dziko lapansi ndi ambiri, ndipo inu mwayimitsa iwo ku misolo yao ⟨את⟩.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo Paro anati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Taonani"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ambiri"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a dziko lapansi"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "mwayimitsa iwo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ku misolo yao"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "ku misolo yao"
+    }
+  ],
+  "timestamp": "2026-09-21T06:09:30.819794784Z",
+  "model": "glm-5.3"
+}

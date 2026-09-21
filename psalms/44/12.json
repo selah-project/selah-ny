@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Watipatsa ife ngati nkhosa za kudya, ndipo pakati pa mitundu wathazika ife.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "Watipatsa ife"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "ngati nkhosa"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "za kudya"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "ndipo pakati pa mitundu"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "wathazika ife"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:52.357236697Z",
+  "model": "glm-5.3"
+}

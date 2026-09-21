@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Pa tsiku limenelo ndidzayimiritsa ⟨את⟩ hema ya Davide yomwe yagwa, ndipo ndidzazinga ⟨את⟩ mathito ake, ndipo ziwombolo zake ndidzayimiritsa, ndipo ndidzamanganso monga m'masiku akale.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "pa tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "limenelo"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ndidzayimiritsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hema ya Davide"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "hema"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "yomwe yagwa"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "ndipo ndidzazinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mathito ake"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "mathito ake"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "ndipo ziwombolo zake"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ndidzayimiritsa"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "ndipo ndidzamanganso"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "monga m'masiku"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "akale"
+    }
+  ],
+  "timestamp": "2026-09-21T13:24:24.488217690Z",
+  "model": "glm-5.3"
+}

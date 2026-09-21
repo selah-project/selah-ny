@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 84,
+  "translation": "Ndi kanthu Ntchenche wasanga nyumba, ndi Chigonthamuti chikhomo cha iye, kumene waika ana ake; ⟨את⟩ ma altare ako, Yahwe Tsevaoti, mfumu yanga ndi Mulungu wanga.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ndi"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "kanthu Ntchenche"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "wasanga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "ndi Chigonthamuti"
+    },
+    {
+      "surface": "קן",
+      "gloss": "chikhomo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "cha iye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kumene"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "waika"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ma altare ako"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "ma altare ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mfumu yanga"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ndi Mulungu wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:18.186978285Z",
+  "model": "glm-5.3"
+}

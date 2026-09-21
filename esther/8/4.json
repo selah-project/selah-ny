@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo mfumu inatambasula kwa Esteri ⟨את⟩ ndodo ya golide; ndipo Esteri anauka, anayima pamaso pa mfumu.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "inatambasula"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kwa Esteri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndodo ya golide"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "ndodo"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ya golide"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "anauka"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "anayima"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:02:05.234970249Z",
+  "model": "glm-5.3"
+}

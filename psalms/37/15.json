@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Lupanga lawo lidzalowa mu mtima wawo, ndipo uta wawo udzavunda.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "Lupanga lawo"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "lidzalowa"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "mu mtima wawo"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "ndipo uta wawo"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "udzavunda"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:25.653778534Z",
+  "model": "glm-5.3"
+}

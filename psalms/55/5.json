@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 55,
+  "translation": "Mtima wanga wakulira mkati mwa ine, ndi mantha a imfa anagwa pa ine.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "wakulira"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "mkati mwa ine"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "ndi mantha a"
+    },
+    {
+      "surface": "מות",
+      "gloss": "imfa"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "anagwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:48.282951985Z",
+  "model": "glm-5.3"
+}

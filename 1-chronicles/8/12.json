@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo ana a Elpaali: Evera ndi Mishiyamu ndi Shamedi; iye anamanga ⟨את⟩ Ono ndi ⟨את⟩ Lodi ndi midzi yake.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ndipo ana a"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaali"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Evera"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "ndi Mishiyamu"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "ndi Shamedi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anamanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Lodi"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lodi"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ndi midzi yake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:25:01.069952914Z",
+  "model": "glm-5.3"
+}

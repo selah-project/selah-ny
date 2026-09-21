@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 141,
+  "translation": "Monga wonyala ndi kukweza m'dziko lapansi, mafupa athu atasazarika pa mkomo mwa Sheoli.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "Monga"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "wonyala"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "ndi kukweza"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko lapansi"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "atasazarika"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "mafupa athu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "pa mkomo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheoli"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:56.543875489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo ndinamva ⟨את⟩ liwu la Adonayi likuti: “Ndithumize ndani, ndipo ndani adzayenda ife?” Ndipo ndinati: “Taona ndili pano; ndithumize.”",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "ndipo ndinamva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liwu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "liwu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "la Adonayi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "likuti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ndithumize"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ndipo ndani"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "adzayenda"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ndipo ndinati"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "taona ndili pano"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ndithumize"
+    }
+  ],
+  "timestamp": "2026-09-21T13:12:12.571540211Z",
+  "model": "glm-5.3"
+}

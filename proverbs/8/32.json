@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 8:32",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo tsopano, inu ana, mverani ine, pakuti odala ndi iwo amasunga m njira zanga.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ndipo tsopano"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "inu ana"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mverani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "pakuti odala"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "njira zanga"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "amasunga <את>"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:43.741109710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo adzawola ⟨את⟩ nsembe yopserezedwa, ndipo adzagawanya ⟨את⟩ yekha ku zigawo zake.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "adzawola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe yopserezedwa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nsembe yopserezedwa"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "adzagawanya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yekha",
+      "marks": "nsembe yopserezedwa"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "ku zigawo zake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:18.681631926Z",
+  "model": "glm-5.3"
+}

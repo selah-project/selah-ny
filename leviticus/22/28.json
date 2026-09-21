@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo ng'ombe kapena nkhosa, ⟨את⟩ iyoyo ndi ⟨את⟩ mwana wake, musawaphere pa tsiku limodzi.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Ndipo ng'ombe"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "שה",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "iyoyo ⟨את⟩",
+      "marks": "ng'ombe kapena nkhosa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mwana wake"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa-"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "-wapere"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pa tsiku"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "limodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:58.734378146Z",
+  "model": "glm-5.3"
+}

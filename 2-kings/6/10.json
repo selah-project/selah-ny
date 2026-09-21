@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 6:10",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo mfumu ya Yisraeli anatumiza ku malo amene munthu wa Elohim ananena kwa iye ndi kumuchenjeza; ndipo adadzisunga komweko, si kamodzi koma katatu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "anatumiza"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "malo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "והזהירה",
+      "gloss": "ndi kumuchenjeza"
+    },
+    {
+      "surface": "ונשמר",
+      "gloss": "adadzisunga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "komweko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kamodzi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma si"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "katatu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:49:31.317825112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo madzi adzathera m'nyanja, ndipo mtsinje udzaphwa, udzouma.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "adzathera"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "m'nyanja"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "ndipo mtsinje"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "udzaphwa"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "udzouma"
+    }
+  ],
+  "timestamp": "2026-09-21T09:07:39.044742817Z",
+  "model": "glm-5.3"
+}

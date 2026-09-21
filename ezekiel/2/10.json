@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Nadzatambasula ⟨את⟩ pamaso panga, ndipo iyo inalembedwa patsogolo ndi kumbuyo; ndipo kulembedwako kunali malilime achisoni, ndi kulira, ndi chisoni.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "nadzatambasula"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "iyo (chidole cha buku)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso panga"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ndipo iyo"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "inalembedwa"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "patsogolo"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "ndi kumbuyo"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "ndipo kulembedwako"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "pa iyo"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "malilime achisoni"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "ndi kulira"
+    },
+    {
+      "surface": "והי",
+      "gloss": "ndi chisoni"
+    }
+  ],
+  "timestamp": "2026-09-21T09:55:09.200823343Z",
+  "model": "glm-5.3"
+}

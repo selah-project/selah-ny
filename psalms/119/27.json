@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 119:27",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Undipatsere kuzindikira njira ya malamulo anu, ndipo ndidzalankhula za zodabwitsa zanu.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ya malamulo anu"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "undipatsere kuzindikira"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "ndipo ndidzalankhula"
+    },
+    {
+      "surface": "בנפלאותיך",
+      "gloss": "za zodabwitsa zanu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:10:04.214867660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 92,
+  "translation": "Munthu wamblankhosi sadziwa; ndi wopusa sakumvetsa izi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "בער",
+      "gloss": "wamblankhosi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "adziwa"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ndi wopusa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "akumvetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izi (זאת)"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:38.858468809Z",
+  "model": "glm-5.3"
+}

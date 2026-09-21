@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Pa tsiku limenelo mudzakhala njira kuchokera ku Mitsrayimu mpaka ku Ashuru; ndipo Ashuru idzalowa ku Mitsrayimu, ndipo Mitsrayimu idzalowa ku Ashuru; ndipo a Mitsrayimu adzatumikira pamodzi ndi ⟨את⟩ Ashuru.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "pa tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "limenelo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mudzakhala"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "njira yothamanga"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuchokera ku Mitsrayimu"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "mpaka ku Ashuru"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ndipo idzalowa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ku Mitsrayimu"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "ndipo Mitsrayimu"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "ku Ashuru"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ndipo adzatumikira"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "a Mitsrayimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashuru"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    }
+  ],
+  "timestamp": "2026-09-21T13:11:57.577965046Z",
+  "model": "glm-5.3"
+}

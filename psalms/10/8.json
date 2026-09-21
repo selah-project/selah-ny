@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Akhala m'bisa m'midzi; m'mabisa akupha wosalakwa; maso ake amasunga m'bisa ⟨kuona⟩ opheweza.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "akhala"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "m'bisa"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "m'midzi"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "m'mabisa"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "akupha"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "wosalakwa"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "maso ake"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "opheweza"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "amasunga m'bisa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:41.715001436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Chibare cha mkazi wa mwana wako usiuvumbulire; mkazi wa mwana wako iye; chibare chake usiuvumbulire.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "chibare"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "cha mkazi wa mwana wako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usi-"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "uvumbulire"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wa mwana wako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usi-"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "uvumbulire"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "chibare chake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:39:47.901063051Z",
+  "model": "glm-5.3"
+}

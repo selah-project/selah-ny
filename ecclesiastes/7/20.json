@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Pakuti palibe munthu wolungama pa dziko lapansi amene amachita chabwino, ndipo sachimwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pa dziko lapansi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "amachita"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "chabwino"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sakhala"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "akachimwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:16.926997747Z",
+  "model": "glm-5.3"
+}

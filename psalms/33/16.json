@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Palibe mfumu yapulumutsidwa ndi gulu lalikulu la nkhondo; munthu wamphamvu saleredwa ndi mphamvu zambiri.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "yapulumutsidwa"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ndi gulu lalikulu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "la nkhondo"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "munthu wamphamvu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "saleredwa"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ndi zambiri"
+    },
+    {
+      "surface": "כח",
+      "gloss": "mphamvu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:10.690255683Z",
+  "model": "glm-5.3"
+}

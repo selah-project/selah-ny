@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 104,
+  "translation": "Miti ya Yahwe imakhutitsidwa; macedara a Lebanoni, imene iye adawalima.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "imakhutitsidwa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "Miti ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "macedara a"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "adawalima"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:29.275778423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Pemphero la Davide. Mvera, Yahwe, ⟨cha⟩ chilungamo; chersani khutu rino langa; mvera pemphero langa, chosachokera m'milomo ya chinyengo.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Pemphero"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "la Davide"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Mvera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "chilungamo"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "chersani khutu"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "rino langa"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "mvera"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "pemphero langa"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "chosachokera"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "m'milomo"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ya chinyengo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:12.364430520Z",
+  "model": "glm-5.3"
+}

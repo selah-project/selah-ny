@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Pamene m'bale wako wasowa, nagulitsa gawo la chuma chake, ndipo wobwezera wake wozama naye adzadza, nabwezera ⟨את⟩ chogulitsidwa cha m'bale wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pamene"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "wasowa"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "m'bale wako"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "nagulitsa"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "gawo la chuma chake"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "adzadza"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "wobwezera wake"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "wozama"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "nabwezera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chogulitsidwa"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "chogulitsidwa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "cha m'bale wake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:46:00.183459874Z",
+  "model": "glm-5.3"
+}

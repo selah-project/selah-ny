@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 137,
+  "translation": "Kumbukira, Yahwe, mwana wa Edomu ⟨את⟩ tsiku la Yerushalayimu; amene anati: “Wonongani, wonongani, mpaka maziko ake!”",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Kumbukira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsiku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "la Yerushalayimu"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "amene anati"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "“Wonongani"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "wonongani"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "maziko"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ake”"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:11.132170768Z",
+  "model": "glm-5.3"
+}

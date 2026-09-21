@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 52,
+  "translation": "Ndipo olungama adzaona, ndi kuopa, nadzusekera iye:",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "adzaona"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "olungama"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ndi kuopa"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "nadzusekera"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:20.168492057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo wansembe adzalandira ⟨את⟩ nkhosa ya nsembe ya cholakwika ndi ⟨את⟩ logi la mafuta, ndipo wansembe adzazigwedezera ⟨את⟩ monga kugwedezera pamaso pa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "adzalandira"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhosa ya nsembe ya cholakwika"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ya nsembe ya cholakwika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "logi la mafuta"
+    },
+    {
+      "surface": "לג",
+      "gloss": "logi"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "la mafuta"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "adzazigwedezera"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo — nkhosayo ndi logilo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "monga kugwedezera"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:37:51.566924108Z",
+  "model": "glm-5.3"
+}

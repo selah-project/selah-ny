@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 2:10",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo chilichonse chimene maso angu anachipempha, sindinachikanire; sindinatsekereza mtima wanga ⟨את⟩ ku chimwemwe chilichonse, chifukwa mtima wanga unakondwera ndi ntchito yanga yonse; ndipo ichi ndiwo chakuumba changa chochokera mu ntchito yanga yonse.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ndipo chilichonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "anachipempha"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maso angu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi"
+    },
+    {
+      "surface": "אצלתי",
+      "gloss": "-nachikanire"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "-natsekereza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtima wanga"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ku chimwemwe chilichonse"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "chimwemwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "unakondwera"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ndi ntchito yanga yonse"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "ntchito yanga"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ndipo ichi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ndiwo"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "chakuumba changa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "chochokera mu ntchito yanga yonse"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "ntchito yanga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:41.439072904Z",
+  "model": "glm-5.3"
+}

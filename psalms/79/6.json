@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 79,
+  "translation": "Thira mkwiyo wako pa amitundu amene sakudziwa iwe, ndi pa maufumu amene sadaitana m'Dzina lako.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "thira"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "mkwiyo wako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amitundu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "kudziwa iwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "maufumu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "m'Dzina lako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "kuitana"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:56.305528655Z",
+  "model": "glm-5.3"
+}

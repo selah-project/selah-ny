@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 79,
+  "translation": "Takhala ⟨את⟩ chituteso kwa anansi athu, chisekeretsi ndi chinyengo kwa akuzungulira ife.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "Takhala"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "chituteso"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "kwa anansi athu"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "chisekeretsi"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "ndi chinyengo"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "kwa akuzungulira ife"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:59.797939136Z",
+  "model": "glm-5.3"
+}

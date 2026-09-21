@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Okhala pa khomo anayankhula za ine; ndipo nyimbo ya oledzera chidakwa ndi ine.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "anayankhula"
+    },
+    {
+      "surface": "בי",
+      "gloss": "za ine"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "okhala"
+    },
+    {
+      "surface": "שער",
+      "gloss": "pa khomo"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "ndipo nyimbo"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "ya oledzera"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "chidakwa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:29.666836170Z",
+  "model": "glm-5.3"
+}

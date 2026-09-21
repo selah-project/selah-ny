@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Chitonthole, iwo akhala pa chilumba; wosochera wa Tsidoni, wovala nyanja, adakudzazani.",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "chitonthole"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "iwo akhala"
+    },
+    {
+      "surface": "אי",
+      "gloss": "chilumba"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "wosochera"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "wa Tsidoni"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "wovala"
+    },
+    {
+      "surface": "ים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "adakudzazani"
+    }
+  ],
+  "timestamp": "2026-09-21T13:11:38.826524989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Mdani angalondole moyo wanga, namlandire, natapire ku dziko lapansi moyo wanga; ndipo ulemerero wanga ukakhale ku dothi. Selahi.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "angalondole"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mdani"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "namlandire"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "natapire"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ku dziko lapansi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ndipo ulemerero wanga"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "ku dothi"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ukakhale"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:35.159334985Z",
+  "model": "glm-5.3"
+}

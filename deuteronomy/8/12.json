@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "kuti musadye ndi kukhuta, ndipo mudzamanga nyumba zabwino ndi kukhala mmenemo;",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "kuti musadye — kuti"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "musadye"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ndi kukhuta"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "ndipo nyumba"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "zabwino"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "mudzamanga"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ndi kukhala mmenemo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:17:23.485426285Z",
+  "model": "glm-5.3"
+}

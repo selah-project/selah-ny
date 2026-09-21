@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 61,
+  "translation": "Pakuti inu, Elohim, mwamva mavoti anga; mwapatsa chilowa kwa akuopa dzina lanu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "mwamva"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "mavoti anga"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "mwapatsa"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "chilowa"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "kwa akuopa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dzina lanu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:59.519579029Z",
+  "model": "glm-5.3"
+}

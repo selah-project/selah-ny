@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 127,
+  "translation": "Onani, ana ndi chololedwe cha Yahwe; mphotho ndi chipatso cha mimba.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Onani"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "chololedwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ana"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "mphotho"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "chipatso"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "cha mimba"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:08.542602856Z",
+  "model": "glm-5.3"
+}

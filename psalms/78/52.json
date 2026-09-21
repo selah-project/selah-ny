@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Nautsegula anthu ake monga nkhosa, nawatenga monga gulu la nkhosa zam'madambwe.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Nautsegula"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "monga nkhosa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "nawatenga"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "monga gulu la nkhosa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "m'madambwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:45.151377100Z",
+  "model": "glm-5.3"
+}

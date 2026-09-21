@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 20:25",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo iwe werengere gulu lankhondo monga gulu lomwe linagwa ⟨את⟩ mwako, ndi akavalo monga akavalo, ndi magalimodzi monga magalimodzi; ndipo tidzalimbana ⟨את⟩ iwo m'dambo — kodi sitikhala mphamvu koposa iwo? Ndipo iye anamvera mawu awo, nachita chimodzimodzi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ndipo iwe"
+    },
+    {
+      "surface": "תמנה",
+      "gloss": "werengere"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "gulu lankhondo"
+    },
+    {
+      "surface": "כחיל",
+      "gloss": "monga gulu"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "lomwe linagwa"
+    },
+    {
+      "surface": "מאותך",
+      "gloss": "⟨את⟩ mwako",
+      "marks": "gulu lankhondo lako"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "ndi akavalo"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "monga akavalo"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ndi magalimodzi"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "monga magalimodzi"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "ndipo tidzalimbana"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "Aramu"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "m'dambo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kodi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "sitikhala mphamvu koposa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "anamvera"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "mawu awo"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "nachita"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chimodzimodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:45:26.486046525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Yahwe analankhula kwa Moshe ndi kwa Aharoni, nati:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "analankhula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi kwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    }
+  ],
+  "timestamp": "2026-09-21T06:49:47.430311670Z",
+  "model": "glm-5.3"
+}

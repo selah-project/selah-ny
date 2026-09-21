@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo Aharon adzaika matala pa mbawala ziwiri: matala limodzi la Yahwe, ndi matala limodzi la Azazeli.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "adzaika"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "mbawala ija"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "matala"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "matala"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "limodzi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "ndi matala"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "limodzi"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "la Azazeli"
+    }
+  ],
+  "timestamp": "2026-09-21T06:40:02.572472763Z",
+  "model": "glm-5.3"
+}

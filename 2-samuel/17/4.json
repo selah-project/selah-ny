@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 17:4",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo mawuwo anaoneka olungama maso mwa Abshalomu ndi maso mwa akuluakulu onse a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "anaoneka olungama"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mawuwo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "maso mwa"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Abshalomu"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ndi maso mwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "akuluakulu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:23:57.896937253Z",
+  "model": "glm-5.3"
+}

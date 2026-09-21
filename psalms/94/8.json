@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 94,
+  "translation": "Muzindikire, inu akhungu mwa anthu, ndi inu opusa, kufika liti mudzazindikira?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "Muzindikire"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "akhungu"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "mwa anthu"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "ndi inu opusa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kufika liti"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "mudzazindikira"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:30.123294947Z",
+  "model": "glm-5.3"
+}

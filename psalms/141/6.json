@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 141,
+  "translation": "Aweruzi awo atumidwa m'manja mwa ⟨את⟩ lwande, ndipo adzamva mawu anga, pakuti ali okoma.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "atumidwa"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "m'manja"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "lwande"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "aweruzi awo"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ndipo adzamva"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mawu anga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "ali okoma"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:56.543720499Z",
+  "model": "glm-5.3"
+}

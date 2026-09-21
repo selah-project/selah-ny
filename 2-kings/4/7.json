@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo iye anabwera, nakuwaza kwa munthu wa Elohim; ndipo iye anati: “Kani, ugule ⟨את⟩ mafuta, ndipo ulipire ⟨את⟩ ngongole zako; ndipo iwe ndi ana ako mukhale ndi ⟨zinthu⟩ zotsalapo.”",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "anabwera"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "nakuwaza"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kwa munthu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "kani"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "ugule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafu"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "ulipire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngongole zako"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "ngongole zako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo iwe"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "ana ako"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "mukhale ndi"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "ndi zotsalapo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:10:37.105389983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ukagonapo sudzaopsa; ndipo wagona, ndipo tulo lako lidzakhala lokoma.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "uka-"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "-gonapo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "su-"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "-dzaopsa"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "ndipo wagona"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "ndipo lidzakhala lokoma"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "tulo lako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:54.024129485Z",
+  "model": "glm-5.3"
+}

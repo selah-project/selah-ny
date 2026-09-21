@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Amuna onse a kwa ansembe adzadya ⟨את⟩ choperekocho; ndicho chopatulika cha koposa chopatulika.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "amuna"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "a kwa ansembe"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "adzadya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "choperekocho"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chopatulika"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "cha koposa chopatulika"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndicho"
+    }
+  ],
+  "timestamp": "2026-09-21T06:31:11.886572325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo atumwa a mfumu Chizkiyahu anabwera kwa Yeshayahu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "anabwera"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "atumwa a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:56:31.792374152Z",
+  "model": "glm-5.3"
+}

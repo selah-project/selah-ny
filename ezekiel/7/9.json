@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 7:9",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo diso langa silidzachitira chifundo, ndipo sindidzachitira chifundo; monga mwa makoma anu pa inu ndidzapatsa, ndi zodetsa zanu zidzakhala pakati panu; ndipo mudzadziwa kuti ine ndine Yahwe wakumenya.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "idzachitira chifundo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "diso langa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si"
+    },
+    {
+      "surface": "אחמול",
+      "gloss": "ndidzachitira chifundo"
+    },
+    {
+      "surface": "כדרכיך",
+      "gloss": "monga mwa makoma anu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pa inu"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndidzapatsa"
+    },
+    {
+      "surface": "ותועבותיך",
+      "gloss": "ndi zodetsa zanu"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "pakati panu"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "zidzakhala"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ndipo mudzadziwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "wakumenya"
+    }
+  ],
+  "timestamp": "2026-09-21T09:55:46.345003191Z",
+  "model": "glm-5.3"
+}

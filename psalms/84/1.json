@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 84,
+  "translation": "Kwa woyang'anira ⟨pa⟩ nyimbo ya Giti, wa ana a Korachi, nyimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨pa⟩"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "nyimbo ya Giti"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wa ana a"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nyimbo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:18.186277439Z",
+  "model": "glm-5.3"
+}

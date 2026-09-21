@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 86,
+  "translation": "Pakuti inu nuli wamkulu, ndi wochita zodabwitsa; inu ndinu Elohim yekha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inu"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ndi wochita"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "zodabwitsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "yekha"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:18.440205737Z",
+  "model": "glm-5.3"
+}

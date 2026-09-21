@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Mudzalondola ⟨את⟩ adani anu, ndipo adzagwa pamaso panu ndi lupanga.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "Mudzalondola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adani anu"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "adani anu"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "adzagwa"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pamaso panu"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "ndi lupanga"
+    }
+  ],
+  "timestamp": "2026-09-21T06:46:08.387706929Z",
+  "model": "glm-5.3"
+}

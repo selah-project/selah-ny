@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndinakafika ku Yerushalayimu, ndipo ndinakhala kumeneko masiku atatu.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "Ndinakafika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ndipo ndinakhala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "atatu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:17:01.085069123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo nyama iliyonse yopatsa parasa ndi kudula chiwundu m'maparasa awiri, ikukweza kugayitsanso mwa nyama — ⟨את⟩ imeneyo muidya.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ndipo iliyonse"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "yopatsa"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "parasa"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "ndi kudula"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "chiwundu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "m'maparasa"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "ikukweza"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "kugayitsanso"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "mwa nyama"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "imeneyo (nyama yomweyo)"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "muidya"
+    }
+  ],
+  "timestamp": "2026-09-21T07:21:44.400563152Z",
+  "model": "glm-5.3"
+}

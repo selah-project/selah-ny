@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 5:2",
+  "book": "song-of-songs",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ine ndinagona, koma mtima wanga unadzuka; liwu la wokondedwa wango lili kugunda ⟨khomo⟩, loti: “Tsegulira ndi, mlongo wanga, bwenzi langa, nkhunda yanga, wangwiro wanga; chifukwa mutu wango wasindikizidwa unthondi, ndipo tsiye zanga ndi madontho a usiku.”",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "ndinagona"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "koma mtima wanga"
+    },
+    {
+      "surface": "ער",
+      "gloss": "unadzuka"
+    },
+    {
+      "surface": "קול",
+      "gloss": "liwu"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "la wokondedwa wango"
+    },
+    {
+      "surface": "דופק",
+      "gloss": "lili kugunda"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "Tsegulira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "mlongo wanga"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "bwenzi langa"
+    },
+    {
+      "surface": "יונתי",
+      "gloss": "nkhunda yanga"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "wangwiro wanga"
+    },
+    {
+      "surface": "שראשי",
+      "gloss": "chifukwa mutu wango"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "wasindikizidwa"
+    },
+    {
+      "surface": "טל",
+      "gloss": "unthondi"
+    },
+    {
+      "surface": "קוצותי",
+      "gloss": "tsiye zanga"
+    },
+    {
+      "surface": "רסיסי",
+      "gloss": "madontho"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "a usiku"
+    }
+  ],
+  "timestamp": "2026-09-21T11:49:09.418935493Z",
+  "model": "glm-5.3"
+}

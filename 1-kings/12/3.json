@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 12:3",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "ndipo anatumiza namuitana; ndipo Yeravamu ndi msonkhano wonse wa Yisraeli anadza, nanena kwa Rehavamu, kuti:",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "anatumiza"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "namuitana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "anadza"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yeravamu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi wonse"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "msonkhano"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "nanena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavamu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti"
+    }
+  ],
+  "timestamp": "2026-09-21T08:40:34.742211601Z",
+  "model": "glm-5.3"
+}

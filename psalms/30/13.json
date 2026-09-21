@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Kuti ulemerero ⟨wanga⟩ ukuyimbirire nyimbo, ndipo usakhale chetechete. Yahwe Elohim wanga, kosatha ndidzakuyamika.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "ukuyimbirire nyimbo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ulemerero ⟨wanga⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo usakhale"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "chetechete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kosatha"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ndidzakuyamika"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:46.120257865Z",
+  "model": "glm-5.3"
+}

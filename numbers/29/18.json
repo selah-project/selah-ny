@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 29:18",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo nsembe yawo ya ifu ndi nthitito zawo za madzi — za zipolozo, za makhosweo, ndi za maanasiwo — monga mwa chiwerengero chawo, monga mwa chilamulo.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "Ndipo nsembe yawo ya ifu"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "ndi nthitito zawo za madzi"
+    },
+    {
+      "surface": "לפרים",
+      "gloss": "za zipolo"
+    },
+    {
+      "surface": "לאילם",
+      "gloss": "za makhoswe"
+    },
+    {
+      "surface": "ולכבשים",
+      "gloss": "ndi za maanasi"
+    },
+    {
+      "surface": "במספרם",
+      "gloss": "monga mwa chiwerengero chawo"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "monga mwa chilamulo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:07:39.777611531Z",
+  "model": "glm-5.3"
+}

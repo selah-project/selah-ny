@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "ndipo ⟨את⟩ nkhosa yaying'ono adzabweza ka zinayi, chifukwa chakuti anachita ⟨את⟩ chinthu ichi, ndipo chifukwa chakuti sanachitire chifundo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "nkhosa yaying'ono"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "nkhosa yaying'ono"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "adzabweza"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "ka zinayi"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chakuti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chinthu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chinthu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndipo chifukwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "nachitire chifundo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:07:51.381809567Z",
+  "model": "glm-5.3"
+}

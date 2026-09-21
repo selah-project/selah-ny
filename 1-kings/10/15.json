@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Kupyola zochokera kwa anthu amalonda okhayenda, ndi malonda a osungitsa katundu, ndi onse afumu a Haarabu, ndi olamulira a dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "Kupyola"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "zochokera kwa anthu"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "amalonda okhayenda"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "ndi malonda"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "a osungitsa katundu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi onse"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "afumu"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "a Haarabu"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "ndi olamulira"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:37:07.448714042Z",
+  "model": "glm-5.3"
+}

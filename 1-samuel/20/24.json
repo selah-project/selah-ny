@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo Davide anabisala m’tsitsimbadwa; ndipo mwezi watsopano unadza, ndipo mfumu inakhala pa chakudya kudya.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "anabisala"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "m’tsitsimbadwa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ndipo unadza"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "mwezi watsopano"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "inakhala"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "chakudya"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "kudya"
+    }
+  ],
+  "timestamp": "2026-09-21T08:08:50.270505615Z",
+  "model": "glm-5.3"
+}

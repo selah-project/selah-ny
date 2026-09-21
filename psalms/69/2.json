@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Ndapulumutseni, Elohim; chifukwa madzi afika mpaka ⟨moyo wanga⟩.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Ndapulumutseni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "באו",
+      "gloss": "afika"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moyo wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:47.490039819Z",
+  "model": "glm-5.3"
+}

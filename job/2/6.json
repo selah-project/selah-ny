@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Yahwe anati kwa Satana: “Taona, ali m'dzanja lako; koma ⟨את⟩ moyo wake um'chengetere.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satana"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Taona, ali"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "m'dzanja lako"
+    },
+    {
+      "surface": "אך",
+      "gloss": "koma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wake"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "um'chengetere"
+    }
+  ],
+  "timestamp": "2026-09-21T11:29:50.345704424Z",
+  "model": "glm-5.3"
+}

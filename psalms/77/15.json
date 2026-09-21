@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 77,
+  "translation": "Inu ndinu ⟨the⟩ El wochita zozizwitsa; mwadziwitsa mitundu ya anthu mphamvu yanu.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Inu"
+    },
+    {
+      "surface": "האל",
+      "gloss": "⟨the⟩ El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wochita"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "zozizwitsa"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "mwadziwitsa"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "mitundu ya anthu"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "mphamvu yanu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:45.523937680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 45,
+  "translation": "Wakonda cholungama, nadana ndi chosalungama; chifukwa chake Elohim, Elohim wako, wakudzozedwa ndi mafuta a chimwemwe koposa anzako.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "wakonda"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cholungama"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "nadana ndi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "chosalungama"
+    },
+    {
+      "surface": "על",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chake"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "wakudzozedwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "a chimwemwe"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "anzako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:11.487982424Z",
+  "model": "glm-5.3"
+}

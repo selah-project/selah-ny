@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 3:22",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo mayi aliyense adzafunsa kwa wakunyumba yake ndi kwa mlanda wa mu nyumba yake zinthu za siliva ndi zinthu za golide, ndi zovala; mudzaika pa ana anu amuna ndi pa ana anu akazi; ndipo mudzavuna ⟨את⟩ Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ושאלה",
+      "gloss": "ndipo adzafunsa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mayi aliyense"
+    },
+    {
+      "surface": "משכנתה",
+      "gloss": "kwa wakunyumba yake"
+    },
+    {
+      "surface": "ומגרת",
+      "gloss": "ndi kwa mlanda"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "wa mu nyumba yake"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zinthu za"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ndi zinthu za"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "ndi zovala"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "mudzaika"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ana anu amuna"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "ana anu akazi"
+    },
+    {
+      "surface": "ונצלתם",
+      "gloss": "ndipo mudzavuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:02.126520998Z",
+  "model": "glm-5.3"
+}

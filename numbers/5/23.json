@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo wansembe adzalemba ⟨את⟩ matembererowo mu buku, nadzawapukuta mu mayi owawa.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "adzalemba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matembererowo"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "matembererowo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "mu buku"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "nadzawapukuta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mayi"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "owawa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:53:34.754826672Z",
+  "model": "glm-5.3"
+}

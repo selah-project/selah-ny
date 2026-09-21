@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 101,
+  "translation": "Wa Davide, mazamu. Khesedi ndi chilamulo ndidzayimba, kwa iwe, Yahwe, ndidzazamura.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "wa Davide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazamu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesedi"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ndi chilamulo"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ndidzayimba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ndidzazamura"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:00.209570646Z",
+  "model": "glm-5.3"
+}

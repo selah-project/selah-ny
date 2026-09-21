@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Dzanu lidzapeza mdani wanu yense; dzanja lanu lamanja lidzapeza iwo akudana nanu.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "lidzapeza"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Dzanu lanu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wanu yense"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "mdani anu"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dzanja lanu lamanja"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "lidzapeza"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "akudana nanu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:10.001634236Z",
+  "model": "glm-5.3"
+}

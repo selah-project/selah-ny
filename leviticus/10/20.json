@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo Moshe anamva, nakhala bwino m'maso mwake.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ndipo…anamva"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "nakhala bwino"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "m'maso mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:35:50.197428350Z",
+  "model": "glm-5.3"
+}

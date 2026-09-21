@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo adzakhala ngati mtengo wodzalidwa pa mitsinje ya madzi, umene ulendo wake udzapatsa chipatso chake pa nthawi yake, ndipo tsamba lake silidzafota; zonse zimene adzachita zidzatheka.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ndipo adzakhala"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "ngati mtengo"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "wodzalidwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "mitsinje ya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "chipatso chake"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "udzapatsa"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "pa nthawi yake"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "tsamba lake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "dzafota"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "adzachita"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "zidzatheka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:05.995457317Z",
+  "model": "glm-5.3"
+}

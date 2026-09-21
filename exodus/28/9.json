@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo udzalandira ⟨את⟩ malaibwe awiri a shohamu, ndipo udzakudzula pa iwo maina a ana a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "udzalandira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malaibwe awiri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "malaibwe"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "a shohamu"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "udzakudzula"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pa iwo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T06:20:30.682430172Z",
+  "model": "glm-5.3"
+}

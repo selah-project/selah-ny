@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 111,
+  "translation": "Zosungidwa kusatha, ku nthawi zonse; zapangidwa m'choonadi ndi chilungamo.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "Zosungidwa"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kusatha"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "zapangidwa"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "m'choonadi"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ndi chilungamo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:01.898667833Z",
+  "model": "glm-5.3"
+}

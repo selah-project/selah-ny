@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 55,
+  "translation": "Amene pamodzi tinakometsa chinsinsi, m'nyumba ya Elohim tinayenda m'gulu la anthu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Amene"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamodzi"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "tinakometsa"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "chinsinsi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "m'nyumba ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "tinayenda"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "m'gulu la anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:11.136937612Z",
+  "model": "glm-5.3"
+}

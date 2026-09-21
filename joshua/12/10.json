@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "mfumu wa Yerushalayimu, imodzi; mfumu wa Cheveroni, imodzi;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "mfumu wa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imodzi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu wa"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Cheveroni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:38:18.962148851Z",
+  "model": "glm-5.3"
+}

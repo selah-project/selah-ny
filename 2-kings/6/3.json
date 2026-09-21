@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo mmodzi ananena: “Kondweretsani chonde, ndipo pitani ⟨את⟩ akapolo ako.” Ndipo iye ananena: “Ine ndidzapita.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo mmodzi ananena"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mmodzi"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "Kondwerertsani"
+    },
+    {
+      "surface": "נא",
+      "gloss": "chonde"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ndipo pitani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akapolo ako"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "akapolo ako"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo iye ananena"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ndidzapita"
+    }
+  ],
+  "timestamp": "2026-09-21T08:49:39.023745981Z",
+  "model": "glm-5.3"
+}

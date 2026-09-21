@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo anapha ⟨את⟩ mombe yamuna, ndipo anabweretsa ⟨את⟩ mwana kwa Eli.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "anapha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mombe yamuna"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "mombe yamuna"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "anabweretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-09-21T07:59:57.162782576Z",
+  "model": "glm-5.3"
+}

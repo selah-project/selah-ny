@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Anauka mmamawa, ndipo dzuwa linawala pamadzi, ndipo Moab anaona kutsanjira kwawo ⟨את⟩ madzi ofiira ngati magazi.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "Anauka mmamawa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mmamawa"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "ndipo dzuwa"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "linawala"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "kutsanjira kwawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madzi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "ofiira"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "ngati magazi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:48:23.936070909Z",
+  "model": "glm-5.3"
+}

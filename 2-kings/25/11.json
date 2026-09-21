@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 25:11",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo ⟨את⟩ otsala a anthu amene anasiya mu mzinda, ndi ⟨את⟩ ogwa amene anagwa kufika kwa mfumu ya Baveli, ndi ⟨את⟩ otsala a msonkhano, anawatengera Nebuzaradan, wamkulu wa asilikali.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ndipo ⟨את⟩",
+      "marks": "otsala a anthu"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "otsala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a anthu"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "amene anasiya"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mzinda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ogwa"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "ogwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "anagwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kufika kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ya Baveli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "otsala a msonkhano"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "otsala"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "a msonkhano"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "anawatengera"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wa asilikali"
+    }
+  ],
+  "timestamp": "2026-09-21T09:01:17.050359585Z",
+  "model": "glm-5.3"
+}

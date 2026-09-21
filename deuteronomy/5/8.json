@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Usapange kwa wekha chithunzi chodulidwa, chifaniziro chilichonse chili m'kumwamba pamwamba, kapenanso chili m'dziko lapansi pansi, kapenanso chili m'madzi pansi pa dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "U-sa-"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "-pange"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa wekha"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "chithunzi chodulidwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chilichonse"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "chifaniziro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chili"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "m'kumwamba"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "pamwamba"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kapenanso chili"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko lapansi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pansi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kapenanso chili"
+    },
+    {
+      "surface": "במים",
+      "gloss": "m'madzi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:15:25.019130737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Wakufa wa Yaravamu mu mzinda adyedwa ndi agalu, ndipo wakufa m'thambo adyedwa ndi mbalame zam'mlengalenga; popeza Yahwe wanena.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "wakufa"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "wa Yaravamu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mzinda"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "adyedwa"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "ndi agalu"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "ndipo wakufa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "m'thambo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "adyedwa"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ndi mbalame"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "zam'mlengalenga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wanena"
+    }
+  ],
+  "timestamp": "2026-09-21T08:40:50.009032367Z",
+  "model": "glm-5.3"
+}

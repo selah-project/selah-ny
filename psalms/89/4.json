@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Ndaphytha pangano ndi wosankhika wanga; ndalumbira kwa Davide, kapolo wanga,",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "Ndaphytha"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pangano"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "ndi wosankhika wanga"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ndalumbira"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kwa Davide"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kapolo wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:40.823804167Z",
+  "model": "glm-5.3"
+}

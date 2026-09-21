@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo anapha; ndipo Moshe anafafaniza ⟨את⟩ mwazi pa guwa m'mbali zonse.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "anapha"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "anafafaniza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwazi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "mwazi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "m'mbali zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T06:35:11.988143178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Ndipo anakana chihema cha Yosefe, ndipo laEfereyimu sanasankhe.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "Ndipo anakana"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "cha Yosefe"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "ndipo gawo la"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efereyimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "sankhe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:53.370702799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo ⟨את⟩ nkhosa yambuta ya kudzaza manja mudzatenga, ndipo mudzaphika ⟨את⟩ inyama yake pamalo opatulika.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "איל",
+      "gloss": "nkhosa yambuta"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "ya kudzaza manja"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "mudzatenga"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "ndipo mudzaphika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyama yake"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "inyama yake"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "pa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "malo opatulika"
+    }
+  ],
+  "timestamp": "2026-09-21T06:22:47.593294584Z",
+  "model": "glm-5.3"
+}

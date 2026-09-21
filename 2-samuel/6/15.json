@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo Davidi ndi nyumba yonse ya Yisraeli analikwera ⟨את⟩ chakuda cha Yahwe ndi kufuula kwakukulu ndi mawu a lipenga la nyanga.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Ndipo Davidi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi yonse ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "analikwera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chakuda"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chakuda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "cha Yahwe"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ndi kufuula kwakukulu"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "ndi mawu a"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "lipenga la nyanga"
+    }
+  ],
+  "timestamp": "2026-09-21T08:20:14.159623954Z",
+  "model": "glm-5.3"
+}

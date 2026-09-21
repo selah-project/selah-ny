@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 112,
+  "translation": "Nkhani yoyipa sadzaopa; mtima wake ndi wokhazikika, wakhulupirira mwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "Nkhani"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yoyipa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "opa"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "wokhazikika"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "mtima wake"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "wakhulupirira"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "mwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:05.144767873Z",
+  "model": "glm-5.3"
+}

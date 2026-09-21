@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo ⟨את⟩ Aharoni ndi ⟨את⟩ ana ake uzozera, ndipo uzawapatulira ⟨אתם⟩ kuti akhale ansembe kwa Ine.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "uzozera"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "uzawapatulira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "Aharoni ndi ana ake"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kuti akhale ansembe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa Ine"
+    }
+  ],
+  "timestamp": "2026-09-21T12:56:22.502170580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 18:12",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Chifukwa sanamvera mawu a Yahwe Elohim wawo, koma anapwanya ⟨את⟩ pangano lake, ⟨את⟩ zonse zimene analamulira Moshe kapolo wa Yahwe; sanamvera, ndipo sanachite.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "namvera"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wawo"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "anapwanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangano lake"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "pangano lake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "analamulira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kapolo wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sa-"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "namvera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sa-"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nachite"
+    }
+  ],
+  "timestamp": "2026-09-21T08:55:52.295755261Z",
+  "model": "glm-5.3"
+}

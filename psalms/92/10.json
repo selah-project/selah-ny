@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 92,
+  "translation": "Pakuti taona, adani ako, Yahwe; pakuti taona, adani ako adzathera; onse ochita zoipa adzafafanika.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "adani ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "adani ako"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "adzathera"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "adzafafanika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ochita"
+    },
+    {
+      "surface": "און",
+      "gloss": "zoipa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:51.302946086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ndine wachibale kwa onse amene akukuopani, ndi akasunga malamulo anu.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "wachibale"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ndine"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa onse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "akukuopani"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "ndi akasunga"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "malamulo anu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:28.192512768Z",
+  "model": "glm-5.3"
+}

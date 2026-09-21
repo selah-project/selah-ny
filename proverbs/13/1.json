@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Mwana wozira ⟨ali ndi⟩ chilango cha abambo, koma wonyoza samva kudzudzulo.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wozira"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "chilango"
+    },
+    {
+      "surface": "אב",
+      "gloss": "cha abambo"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "koma wonyoza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "-mva"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "kudzudzulo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:22:13.543677284Z",
+  "model": "glm-5.3"
+}

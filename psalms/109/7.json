@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "Pokayedwa kwake, atuluke wolakwa, ndipo pemphero lake likhale lamachimo.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "pokayedwa kwake"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "atuluke"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wolakwa"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "ndipo pemphero lake"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "likhale"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "lamachimo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:50.952337363Z",
+  "model": "glm-5.3"
+}

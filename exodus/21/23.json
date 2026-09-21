@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo ngati kudzakhala chionongeko, udzapereka moyo m'malo mwa moyo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ndipo ngati"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "chionongeko"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kudzakhala"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "udzapereka"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "m'malo mwa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moyo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:18.529997802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndiponso Yahwe Elohim wanu adzatuma ⟨את⟩ chiwembu pakati pawo, mpaka otsalawo ndi obisawo pamaso panu aziwonongoka.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ndiponso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiwembu"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "chiwembu"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "adzatuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pakati pawo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "aziwonongoka"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "otsalawo"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "ndi obisawo"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "pamaso panu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:17:43.184074745Z",
+  "model": "glm-5.3"
+}

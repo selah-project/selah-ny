@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo mitoka yake idzakhala makumi awiri, ndi maziko ake makumi awiri, a kopala; makhwacha a mitoka ndi mizinga yawo idzakhala yafaida.",
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "mitoka yake"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi awiri"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ndi maziko ake"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi awiri"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "a kopala"
+    },
+    {
+      "surface": "ותוי",
+      "gloss": "makhwacha"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "a mitoka"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "ndi mizinga yawo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "yafaida"
+    }
+  ],
+  "timestamp": "2026-09-21T06:19:48.788654003Z",
+  "model": "glm-5.3"
+}

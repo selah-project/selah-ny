@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo chitachitika, pamene ufumu unakhazikika pa iye, anapha ⟨את⟩ atumiki ake, amene anamenya ⟨את⟩ mfumu atate wake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo chitachitika"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "pamene"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "unakhazikika"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ufumu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "anapha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atumiki ake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "atumiki ake"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "amene anamenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfumu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atate wake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:48:00.363072340Z",
+  "model": "glm-5.3"
+}

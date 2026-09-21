@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Dzoka, Yahwe; chotsa moyo wanga; ndipulumutsa chifukwa cha khesedi yako.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Dzoka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "chotsa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ndipulumutsa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedi yako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:38.190082391Z",
+  "model": "glm-5.3"
+}

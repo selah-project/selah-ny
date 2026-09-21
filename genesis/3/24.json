@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo anachotsa ⟨את⟩ munthu, nakakhazikitsa kum’mawa kwa munda wa Edeni ⟨את⟩ akerubimu ndi ⟨את⟩ mlengere wa lupanga lomwe limapindapinda, kusunga ⟨את⟩ njira ya mtengo wa moyo.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "anachotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munthu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "nakakhazikitsa"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "kum’mawa kwa"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "munda"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "wa Edeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akerubimu"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "akerubimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mlengere"
+    },
+    {
+      "surface": "להט",
+      "gloss": "mlengere"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "wa lupanga"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "lomapindapinda"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kusunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njira"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "wa mtengo"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "wa moyo"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:58.721127909Z",
+  "model": "glm-5.3"
+}

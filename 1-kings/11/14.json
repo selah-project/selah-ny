@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Yahwe anaukitsa mdani kwa Shelomo: ⟨את⟩ Hadadi Mwedomi, wachokera m'mbadwa wa mfumu — iye ali mu Edomu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "anaukitsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "mdani"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kwa Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadi"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadi"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Mwedomi"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "wachokera m'mbadwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa mfumu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "mu Edomu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:39:30.041708891Z",
+  "model": "glm-5.3"
+}

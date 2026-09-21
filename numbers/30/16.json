@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Koma ngati awataya ⟨את⟩ atamva, adzanyamula ⟨את⟩ mphuluphulu yake.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Koma ngati"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "wataya"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "awataya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nazarivo ndi zikwangwani zake"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "atamva"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "anamva"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "adzanyamula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mphuluphulu yake"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "mphuluphulu yake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:09:28.121572773Z",
+  "model": "glm-5.3"
+}

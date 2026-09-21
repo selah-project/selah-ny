@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndalamba ndi kudza kwanga; usiku wonse ndimalowetsa bedi yanga mu madzi ⟨a misozi⟩; ndi misozi yanga ndizipweteka mpando wanga.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Ndalamba"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "ndi kudza kwanga"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "ndimalowetsa mu madzi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "usiku wonse ⟨wa⟩"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "bedi yanga"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "ndi misozi yanga"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "mpando wanga"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "ndizipweteka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:38.190529412Z",
+  "model": "glm-5.3"
+}

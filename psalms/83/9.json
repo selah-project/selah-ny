@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 83,
+  "translation": "Ashuru nawonso anagwirizana nawo; anakhaladi dzanja la ana a Loti. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nawonso"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "anagwirizana"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "nawo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "anakhaladi"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "dzanja"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "la ana a"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loti"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:20.567589373Z",
+  "model": "glm-5.3"
+}

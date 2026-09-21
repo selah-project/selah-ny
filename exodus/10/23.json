@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Munthu sanaona ⟨את⟩ m'bale wake, ndipo munthu sanauke m'malo make masiku atatu; koma kwa ana onse a Yisraeli kunali kuwala m'malo awo okhala.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sanaona munthu"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "sanaona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "m'bale wake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "m'bale wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sanauke"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "sanauke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "m'malo make"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "koma kwa onse"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kunali"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kuwala"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "m'malo awo okhala"
+    }
+  ],
+  "timestamp": "2026-09-21T06:11:17.499843811Z",
+  "model": "glm-5.3"
+}

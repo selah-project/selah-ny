@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 90,
+  "translation": "Ndani adziwa mphamvu ya mkwiyo wako? Ndipo monga kuopa kwako, kotero kusirira kwako.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "adziwa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mphamvu"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ya mkwiyo wako"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "ndipo monga kuopa kwako"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "kusirira kwako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:51.558043649Z",
+  "model": "glm-5.3"
+}

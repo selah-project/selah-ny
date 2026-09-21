@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 17:30",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo adatembenuka kuchokera kwa iye kwa wina, nati monga mawu amenewa; ndipo anthu anamuyankha ndi mawu monga mawu oyamba.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "adatembenuka"
+    },
+    {
+      "surface": "מאצלו",
+      "gloss": "kuchokera kwa iye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מול",
+      "gloss": "⟨kwa⟩ pamaso pa"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wina"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "monga mawu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "amenewa"
+    },
+    {
+      "surface": "וישבהו",
+      "gloss": "anamuyankha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ndi mawu"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "monga mawu"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "oyamba"
+    }
+  ],
+  "timestamp": "2026-09-21T08:08:22.184099246Z",
+  "model": "glm-5.3"
+}

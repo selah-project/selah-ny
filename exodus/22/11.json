@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Koma ngati yabedwa kwa iye — ndithu yabedwa — adzalipira kwa mwini wake.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "koma ngati"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ndithu yabedwa"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "yabedwa"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "adzalipira"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "kwa mwini wake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:13.858066403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 31:8",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo Yahwe, ndiye amene ayenda pamaso pako; iye adzakhala ndi iwe; sadzakulephera ndipo sadzakusiya; usaope ndipo usadade.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ndipo Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "amene ayenda"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamaso pako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndi iwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "kulephera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sadza-"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "kusiya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ope"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo usada-"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "de"
+    }
+  ],
+  "timestamp": "2026-09-21T07:32:18.758368996Z",
+  "model": "glm-5.3"
+}

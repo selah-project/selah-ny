@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo mkwiyo wanga udzatentha, ndipo ndidzakupha inu ⟨את⟩ ndi lupanga; ndipo akazi anu adzakhala akazi amasiye, ndi ana anu adzakhala apasiye.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "udzatentha"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "mkwiyo wanga"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "ndipo ndidzakupha inu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inu"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ndi lupanga"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "akazi anu"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "akazi amasiye"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "ndi ana anu"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "adzakhala apasiye"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:47.285706358Z",
+  "model": "glm-5.3"
+}

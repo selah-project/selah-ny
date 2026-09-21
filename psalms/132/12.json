@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 132:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 132,
+  "translation": "Ngati ana ako asunga pangano langa ndi mboni zanga izi ndidzawaphunzitsa, ana awo ndiwo adzakhalabe pa mpando wachifumu wako mpaka muyaya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "asunga"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ana ako"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "pangano langa"
+    },
+    {
+      "surface": "ועדתי",
+      "gloss": "ndi mboni zanga"
+    },
+    {
+      "surface": "זו",
+      "gloss": "izi"
+    },
+    {
+      "surface": "אלמדם",
+      "gloss": "ndidzawaphunzitsa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ndiwo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ana awo"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "muyaya"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "adzakhalabe"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "pa mpando wachifumu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:41.548136323Z",
+  "model": "glm-5.3"
+}

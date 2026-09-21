@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 5:4",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Davide anali wazaka makumi atatu pamene anayamba kulamulira, ndipo analamulira zaka makumi anayi.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "wazaka"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "makumi atatu"
+    },
+    {
+      "surface": "shana",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "pamene anayamba kulamulira"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi anayi"
+    },
+    {
+      "surface": "shana",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "analamulira"
+    }
+  ],
+  "timestamp": "2026-09-21T08:19:42.342275170Z",
+  "model": "glm-5.3"
+}

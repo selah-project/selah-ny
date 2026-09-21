@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 79,
+  "translation": "Mpaka liti, Yahwe? Udzakwiya kwamuyaya? Kodi kudula kwanu kudzayaka monga moto?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "liti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "udzakwiya"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kwamuyaya"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "kudzayaka"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "monga"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "kudula kwanu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:56.305262188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Ndipo usabise nkhope yako kwa kapolo wako, pakuti ndili mu chisautso; msanga andiyankhe.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ndipo usa"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "abise"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nkhope yako"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "kwa kapolo wako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "צר",
+      "gloss": "chisautso"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndili"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "msanga"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "andiyankhe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:54.981920282Z",
+  "model": "glm-5.3"
+}

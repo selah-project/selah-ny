@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Elohim adatcha kuwala kuti ndi usana, ndipo mdima adanatcha kuti ndi usiku; ndipo kunakhala madzulo, ndipo kunakhala m'mawa — usana umodzi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ndipo adatcha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "kuwala"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usana"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "ndipo mdima"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "adanatcha"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ndipo kunakhala"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "madzulo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ndipo kunakhala"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "m'mawa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usana"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:41:59.443327020Z",
+  "model": "glm-5.3"
+}

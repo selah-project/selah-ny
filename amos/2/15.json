@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 2:15",
+  "book": "amos",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo wogwira uta sadzayimirira, ndipo walilu pa mapazi ake sadzathawa, ndipo wokalipa bembe sadzapulumutsa moyo wake.",
+  "tokens": [
+    {
+      "surface": "ותפש",
+      "gloss": "ndipo wogwira"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "-yimirira"
+    },
+    {
+      "surface": "וקל",
+      "gloss": "ndipo walilu"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "pa mapazi ake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "-thawa"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ndipo wokalipa"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "bembe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "-pulumutsa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moyo wake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:24:15.385498532Z",
+  "model": "glm-5.3"
+}

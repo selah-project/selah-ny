@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Yehu anagona ndi makolo ake, nadaiika ⟨את⟩ manda ku Shomroni; ndipo Yehoachazi mwana wake anachita ufumu m'malo mwake.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "anagona"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "makolo ake"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "nadaiika manda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "ku Shomroni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "anachita ufumu"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachazi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "m'malo mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:52:12.262819728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Dziko limene Yahwe Elohim wanu amasamalira ⟨את⟩ nthawi zonse; maso a Yahwe Elohim wanu ali pa ilo, kuchokera pa chiyambi cha chaka mpaka pa mapeto a chaka.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Dziko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "amasamalira"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ilo (dziko)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nthawi zonse"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maso a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "pa ilo"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "kuchokera pa chiyambi"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "cha chaka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "pa mapeto"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a chaka"
+    }
+  ],
+  "timestamp": "2026-09-21T07:17:55.971275069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "⟨את⟩ Paro mfumu ya Mitsrayimu, ndi ⟨את⟩ akapolo ake, ndi ⟨את⟩ akulu ake, ndi ⟨את⟩ anthu onse ake.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "akapolo ake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "akapolo ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "akulu ake"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "akulu ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "anthu onse ake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    }
+  ],
+  "timestamp": "2026-09-21T09:40:16.535651928Z",
+  "model": "glm-5.3"
+}

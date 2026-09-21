@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Maina asanu ndi limodzi pa libwe lina, ndi ⟨את⟩ maina a okalamba awa asanu ndi limodzi pa libwe lachiwiri, monga mwa kubadwa kwawo.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "asanu ndi limodzi"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "maina awo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "libwe"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "lina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "maina"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maina"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "a okalamba awa"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "osala"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "libwe"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "lachiwiri"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "monga mwa kubadwa kwawo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:20:30.682707185Z",
+  "model": "glm-5.3"
+}

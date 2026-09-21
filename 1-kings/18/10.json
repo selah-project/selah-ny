@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Yahwe Elohim wako ali ndi moyo, ngati pali mtundu kapena ufumu umene mbuye wanga sanatumizire kumeneko kukufunafuna; ndipo iwo ananena kuti “Salipo,” nipo anawalumbiritsa ⟨את⟩ ufumu ndi ⟨את⟩ mtundu kuti iwe sudzapezeka.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "ali ndi moyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "יש",
+      "gloss": "pali"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "mtundu"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "kapena ufumu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "natumizire"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mbuye wanga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "kukufunafuna"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ndipo iwo ananena kuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Salipo"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "nipo anawalumbiritsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ufumu"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ufumu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mtundu"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "mtundu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "su-"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "dzapezeka"
+    }
+  ],
+  "timestamp": "2026-09-21T13:09:37.269591049Z",
+  "model": "glm-5.3"
+}

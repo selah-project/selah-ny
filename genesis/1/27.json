@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Elohim analenga ⟨את⟩ munthu m'chifanizo chake; m'chifanizo cha Elohim anamulenga ⟨אתו⟩; wamwamuna ndi wamkazi anawalenga ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "Ndipo analenga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munthu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "m'chifanizo chake"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "m'chifanizo cha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "anamulenga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "wamwamuna ndi wamkazi (iye)"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "wamwamuna"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ndi wamkazi"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "anawalenga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "iwo (onse)"
+    }
+  ],
+  "timestamp": "2026-09-21T05:41:55.124341295Z",
+  "model": "glm-5.3"
+}

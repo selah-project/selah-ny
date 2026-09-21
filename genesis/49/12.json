@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Maso akuda motani ndi wayini, ndipo mano aoyera ndi mkaka.",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "akuda motani"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "maso"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "ndi wayini"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "ndi aoyera"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mano"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ndi mkaka"
+    }
+  ],
+  "timestamp": "2026-09-21T06:06:39.491523010Z",
+  "model": "glm-5.3"
+}

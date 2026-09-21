@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Simungathe kupha ⟨את⟩ Pasaka m'modzi mwa zipata zako, zimene Yahwe Elohim wako akupatsa iwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "-mungathe"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "kupha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pasaka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pasaka"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "m'modzi mwa"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "zipata zako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akupatsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T07:21:53.383223471Z",
+  "model": "glm-5.3"
+}

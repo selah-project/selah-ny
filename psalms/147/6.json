@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 147,
+  "translation": "Yahwe amalimbitsa odzichepetsa; amakutsitsitsa anthu woipa kufikira dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "amalimbitsa"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "odzichepetsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "amakutsitsitsa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "anthu woipa"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:16.423897744Z",
+  "model": "glm-5.3"
+}

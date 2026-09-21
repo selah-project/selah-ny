@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "“Ndipo itanani Yishi ku nsembeyo, ndipo ine ndidzakudziwitsani ⟨את⟩ zimene mudzachita; ndipo mudzodola kwa ine ⟨את⟩ amene ndidzamuuza kwa inu.”",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "mudzaitana"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Yishi"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "ku nsembe"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ndipo ine"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "ndidzakudziwitsani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene mudzachita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "mudzachita"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "mudzodola"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amene ndidzamuuza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ndidzamuuza"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa inu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:08:20.023345354Z",
+  "model": "glm-5.3"
+}

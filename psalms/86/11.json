@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 86,
+  "translation": "Ndiphunzitseni, Yahwe, njira yanu; ndidzayenda m'choonadi chanu. Phatikizani mtima wanga kuti ndiwope Dzina lanu.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Ndiphunzitseni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "njira yanu"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ndidzayenda"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "m'choonadi chanu"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "Phatikizani"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "kuti ndiwope"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Dzina lanu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:18.440373998Z",
+  "model": "glm-5.3"
+}

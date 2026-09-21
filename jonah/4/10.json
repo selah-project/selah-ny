@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 4:10",
+  "book": "jonah",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Yahwe anati: “Iwe unachitira chisoni kikayoni, umene sunagwira ntchito pa iye, ndipo sunamkulitsa iye, amene anakhala ⟨mwana⟩ wa usiku, ndipo ⟨mwana⟩ wa usiku anawonongeka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "חסת",
+      "gloss": "unachitira chisoni"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "kikayoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "עמלת",
+      "gloss": "sunagwira ntchito"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si-"
+    },
+    {
+      "surface": "גדלתו",
+      "gloss": "sunamkulitsa iye"
+    },
+    {
+      "surface": "שבן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "היה",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ndipo mwana wa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "anawonongeka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:29:40.448300326Z",
+  "model": "glm-5.3"
+}

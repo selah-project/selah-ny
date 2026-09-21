@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 54:5",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 54,
+  "translation": "Pakuti mwamuna wako ndiye Mlengi wako, Yahwe Tsevaoti ndiye dzina lake; ndipo Momboli wako, Woyera wa Yisraeli, Elohim wa dziko lonse ndiye adzatchedwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "בעליך",
+      "gloss": "mwamuna wako"
+    },
+    {
+      "surface": "עשיך",
+      "gloss": "Mlengi wako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dzina lake"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "ndipo Momboli wako"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Woyera"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "adzatchedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:21:56.715403603Z",
+  "model": "glm-5.3"
+}

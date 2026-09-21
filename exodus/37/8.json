@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Kerubu wamodzi pa chimaliziro apa, ndi kerubu wamodzi pa chimaliziro anthawi; kuchokera m'chikhudzo anapanga ⟨את⟩ akerubu pa chimaliziro chake chawiri.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "kerubu wamodzi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wamodzi"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "pa chimaliziro"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "ndi kerubu wamodzi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wamodzi"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "pa chimaliziro"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "anthawi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchokera m'"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "chikhudzo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akerubu"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "akerubu"
+    },
+    {
+      "surface": "משני",
+      "gloss": "chawiri"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "pa chimaliziro chake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:27:13.699362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Shalumu adabala ⟨את⟩ Yekamuya, ndipo Yekamuya adabala ⟨את⟩ Elishama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Ndipo Shalumu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "adabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekamuya"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Yekamuya"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "ndipo Yekamuya"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "adabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elishama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    }
+  ],
+  "timestamp": "2026-09-21T12:22:27.580894727Z",
+  "model": "glm-5.3"
+}

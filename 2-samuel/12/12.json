@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "chifukwa iwe chinachita m'chibisiko; koma ine ndidzachita ⟨את⟩ chinthu ichi pamaso pa Yisraeli wonse ndi pamaso pa dzuwa.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "chinachita"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "m'chibisiko"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "koma ine"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndidzachita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chinthu ichi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chinthu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "ndi pamaso pa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dzuwa"
+    }
+  ],
+  "timestamp": "2026-09-21T13:08:31.460566214Z",
+  "model": "glm-5.3"
+}

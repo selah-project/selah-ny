@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo makolo ako sukapolowe ndi mwana wako womulipira ku Moleki, ndipo sukachititsa chilechero ⟨את⟩ dzina la Elohim wako; ndine Yahwe.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "ndipo makolo ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "su"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "sukapolowa"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "womulipira"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ku Moleki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo su"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "sukachititsa chilechero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dzina"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "la Elohim wako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:39:24.875006709Z",
+  "model": "glm-5.3"
+}

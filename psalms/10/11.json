@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Adati m'mtima mwake: “El wasaiwala; wabisa nkhope yake; sadzaona konse konse.”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "m'mtima mwake"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "wasaiwala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "wabisa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "nkhope yake"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kwathu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sadzaona"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "konse konse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:01.605064423Z",
+  "model": "glm-5.3"
+}

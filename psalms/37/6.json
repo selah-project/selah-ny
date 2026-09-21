@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo adzatulutsa chilungamo chako monga kuwala, ndipo chiweruzo chako monga masana.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "Ndipo adzatulutsa"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "monga kuwala"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "chilungamo chako"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "ndipo chiweruzo chako"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "monga masana"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:51.035976654Z",
+  "model": "glm-5.3"
+}

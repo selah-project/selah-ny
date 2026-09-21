@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo mfumu ya Mitsrayimu inati kwa azamba a Ahebri, amene dzina la mmodzi wa iwo linali Shifira, ndipo dzina lachiwiri linali Puwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "inati"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "kwa azamba"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "a Ahebri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dzina"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "la mmodzi wa iwo"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Shifira"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ndipo dzina"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "lachiwiri"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Puwa"
+    }
+  ],
+  "timestamp": "2026-09-21T12:55:42.019669347Z",
+  "model": "glm-5.3"
+}

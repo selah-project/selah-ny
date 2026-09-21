@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo udzawaika mu chidebe chimodzi, ndipo udzawatimbutsa mu chidebe, pamodzi ndi ⟨את⟩ ng'ombe yamphongo ndi ⟨את⟩ nkhosa zamwamuna ziwiri.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "udzawaika"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iwo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mu"
+    },
+    {
+      "surface": "סל",
+      "gloss": "chidebe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "chimodzi"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "udzawatimbutsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "mu chidebe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ng'ombe yamphongo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ng'ombe yamphongo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nkhosa zamwamuna ziwiri"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "nkhosa zamwamuna"
+    }
+  ],
+  "timestamp": "2026-09-21T12:56:51.287929103Z",
+  "model": "glm-5.3"
+}

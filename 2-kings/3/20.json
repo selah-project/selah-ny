@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo linakhala m'mawa, pa kunkhanitsidwa kwa nsembe ya m'mawa, taonani, madzi analinkula kuchokera m'njira ya Edomu, ndipo dziko linadzaza ⟨את⟩ madzi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ndipo linakhala"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "m'mawa"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "pa kunkhanitsidwa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "kwa nsembe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "taonani"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "באים",
+      "gloss": "analinkula"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "kuchokera m'njira"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ya Edomu"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ndipo linadzaza"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madzi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "madzi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:48:21.413708559Z",
+  "model": "glm-5.3"
+}

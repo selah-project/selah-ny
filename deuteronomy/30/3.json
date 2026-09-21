@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "ndipo Yahwe Elohim wako adzabweza ⟨את⟩ cholowa chako cha ku chitsekero, nadzachitira chifundo, nadzabwezanso nadzakusonkhanitsa mwa anthu onse amene Yahwe Elohim wako adakusaza kokako,",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "adzabweza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cholowa chako cha ku chitsekero"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "cholowa chako cha ku chitsekero"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "nadzachitira chifundo"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "nadzabwezanso"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "nadzakusonkhanitsa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "anthu onse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "adakusaza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kokako"
+    }
+  ],
+  "timestamp": "2026-09-21T07:29:39.377155810Z",
+  "model": "glm-5.3"
+}

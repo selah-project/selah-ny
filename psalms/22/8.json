@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Onse akundipenya andinyoze; amenesa milomo, ayendetsa mutu, nati:",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "akundipenya"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "andinyoze"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-ndi-"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "amenesa"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "milomo"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "ayendetsa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:15.140383699Z",
+  "model": "glm-5.3"
+}

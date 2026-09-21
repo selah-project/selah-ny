@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 93,
+  "translation": "Mboni zako zatsimikizika kwambiri; kuyera ⟨kuli⟩ koyenera kwa nyumba yako, Yahwe, kwa kuleza kwa masiku.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "Mboni zako"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "zatsimikizika"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "kwa nyumba yako"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "koyenera"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kuyera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "kwa kuleza"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ya masiku"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:39.522139187Z",
+  "model": "glm-5.3"
+}

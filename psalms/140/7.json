@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 140,
+  "translation": "Ndinati kwa Yahwe: El wanjuga ine; mvera, Yahwe, liwu la mapemphero anga.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Ndinati"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El wanjuga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ine"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "mvera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "liwu la"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mapemphero anga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:58.800322008Z",
+  "model": "glm-5.3"
+}

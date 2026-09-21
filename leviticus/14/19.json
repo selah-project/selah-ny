@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo wansembe achite ⟨את⟩ nsembe yachimo, namupempherera woyera kuchoka ku chodetsa kwake; ndipo atatero aphere ⟨את⟩ nsembe yopsereka.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "achite"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe yachimo"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "nsembe yachimo"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "namupempherera"
+    },
+    {
+      "surface": "על",
+      "gloss": "iye"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "kuchoka ku chodetsa kwake"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ndipo atatero"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "aphere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe yopsereka"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nsembe yopsereka"
+    }
+  ],
+  "timestamp": "2026-09-21T06:36:58.945354712Z",
+  "model": "glm-5.3"
+}

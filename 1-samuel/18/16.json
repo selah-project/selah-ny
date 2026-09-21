@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Koma Yisraeli lonse ndi Yehuda ankakonda ⟨את⟩ Davide, popeza iye ankayamba kulowa pamaso pawo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ankakonda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "ankatuluka"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "kulowa"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pamaso pawo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:08:48.211662123Z",
+  "model": "glm-5.3"
+}

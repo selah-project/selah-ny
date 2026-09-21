@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 20:12",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo chitachitika, atamva ⟨את⟩ mawu awa, pamene iye akumwa — iye ndi mafumu — m'mahema, anati kwa akapolo ake: “Dzilungani.” Ndipo anadzilunga pa mzinda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo chitachitika"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "atamva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "pamene iye"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "akumwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "ndi mafumu"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "m'mahema"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "akapolo ake"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "Dzilungani"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "anadzilunga"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mzinda"
+    }
+  ],
+  "timestamp": "2026-09-21T08:44:03.960141040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Masa wa chiputu cha nyanja: monga mphepo zowumba zikudutsa m'Ngevi, idza kuchoka mu chiputu, kuchokera mu dziko lamantha.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Masa"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "chiputu"
+    },
+    {
+      "surface": "ים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "monga mphepo zowumba"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "m'Ngevi"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "zikudutsa"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "kuchoka mu chiputu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "idza"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuchokera mu dziko"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "lamantha"
+    }
+  ],
+  "timestamp": "2026-09-21T13:12:39.961391592Z",
+  "model": "glm-5.3"
+}

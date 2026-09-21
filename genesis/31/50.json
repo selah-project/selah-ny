@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 31:50",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ngati ukhumudwitsa ⟨את⟩ ana anga akazi, ndipo ngati utenga akazi kuphatikiza pa ana anga akazi — palibe munthu nafe; onani, Elohim ndi ⟨את⟩ mboni pakati pa ine ndi pakati pa iwe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ukhumudwitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana anga akazi"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "ana anga akazi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ndipo ngati"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "utenga"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "akazi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuphatikiza pa"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "ana anga akazi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nafe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "onani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mboni"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "pakati pa ine"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ndi pakati pa iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T05:57:35.238335874Z",
+  "model": "glm-5.3"
+}

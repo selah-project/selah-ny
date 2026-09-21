@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Udzawaphwanya ndi ndodo yaitsulu; monga chombo cha mkanthi udzawaphwaza.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "udzawaphwanya"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ndi ndodo"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "yaitsulu"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "monga chombo"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "cha mkanthi"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "udzawaphwaza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:13.881194558Z",
+  "model": "glm-5.3"
+}

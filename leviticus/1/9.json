@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo nezake zapakati ndi mapazi ake adzasambitsidwa mu madzi; ndipo wansembe adzaotcha ⟨את⟩ zonse pa guwa la nsembe, nsembe yopsereka, chikhumbochimwe cha kununkira kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "nezake zapakati"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "ndi mapazi ake"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "adzasambitsidwa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mu madzi"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "adzaotcha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pa guwa la nsembe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nsembe yopsereka"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nsembe ya moto"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "kununkira"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "chikhumbochimwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:25.874336087Z",
+  "model": "glm-5.3"
+}

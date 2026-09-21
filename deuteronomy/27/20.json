@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Wotembereredwa wogona ndi mkazi wa atate wake, popeza wasuntha mpheto za atate wake. Ndipo anthu onse adzati: “Amen.”",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "wotembereredwa"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "wogona"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "wa atate wake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "wasuntha"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "mpheto"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "za atate wake"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "adzati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-21T07:27:51.622715511Z",
+  "model": "glm-5.3"
+}

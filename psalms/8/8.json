@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Nkhosa ndi zigonthi, zonse, komanso nyama za m'minda.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "ndi zigonthi"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "komanso"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "za m'minda"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:47.941672676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 108,
+  "translation": "Moabu ndi chidebe chotsukira; pa Edomu ndidzakanda nsapato wanga; pa Pelisheti ndidzafuula.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "chidebe"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "chotsukira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "ndidzakanda"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "nsapato wanga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelisheti"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "ndidzafuula"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:30.479915427Z",
+  "model": "glm-5.3"
+}

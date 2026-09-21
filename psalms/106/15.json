@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Ndipo anawapatsa pempho lawo, koma anatumiza kuonda m'moyo mwawo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "anawapatsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "-(w)a"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "pempho lawo"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "anatumiza"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "kuonda"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "m'moyo mwawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:27.513944316Z",
+  "model": "glm-5.3"
+}

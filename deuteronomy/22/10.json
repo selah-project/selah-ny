@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Musalime ndi ng'ombe ndi bulu pamodzi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "lime"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "ndi ng'ombe"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "ndi bulu"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:23:17.514016071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo ⟨את⟩ mafuta onse a ngorugi wa nsembe ya tchimo adzawulukitsa kwa iyo; ⟨את⟩ mafuta amene amafunda pa zamkati, ndi ⟨את⟩ mafuta onse amene ali pa zamkati.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ndipo ⟨את⟩",
+      "marks": "mafuta onse a ngorugi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "פר",
+      "gloss": "a ngorugi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "wa nsembe ya tchimo"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "adzawulukitsa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kwa iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta amene amafunda pa zamkati"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "amene amafunda"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "zamkati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mafuta onse amene ali pa zamkati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "zamkati"
+    }
+  ],
+  "timestamp": "2026-09-21T12:58:49.178169381Z",
+  "model": "glm-5.3"
+}

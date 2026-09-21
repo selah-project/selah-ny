@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ana a Naftali, mibadwo yawo, m'mabanja awo, m'nyumba za makolo awo, muwerengero wa maina, kuchokera pamwana wa zaka makumi awiri ndi kupitirira, aliyense wotha kutuluka kukanka nkhondo;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "mibadwo yawo"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "m'mabanja awo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "m'nyumba za"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "makolo awo"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "muwerengero wa"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "maina"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "kuchokera pamwana wa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi awiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ndi kupitirira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "wotha kutuluka"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "kukanka nkhondo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:48:25.533978451Z",
+  "model": "glm-5.3"
+}

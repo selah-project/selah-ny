@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 90,
+  "translation": "Ntchito yanu ionekere kwa akapolo anu, ndi ulemerero wanu pa ana awo.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "ionekere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "akapolo anu"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "Ntchito yanu"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "ulemerero wanu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ana awo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:13.088223832Z",
+  "model": "glm-5.3"
+}

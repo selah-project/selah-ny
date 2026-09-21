@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo anaika ⟨את⟩ gome m'chihema chakumana, pa mbali ya chihema ya kumpoto, kunja kwa chiphadziko.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "anaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gome"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "gome"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "m'chihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "chakumana"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "mbali"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "kumpoto"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kunja"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "kwa chiphadziko"
+    }
+  ],
+  "timestamp": "2026-09-21T12:57:57.086150672Z",
+  "model": "glm-5.3"
+}

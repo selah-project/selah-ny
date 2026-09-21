@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 91,
+  "translation": "Chikwi chimodzi chidzagwa kumbali yako, ndi zikwi khumi kudzanja lako lamanja; koma sadzafika pafupi ndi iwe.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "chidzagwa"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "kumbali yako"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "chikwi chimodzi"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "ndi zikwi khumi"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "kudzanja lako lamanja"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "pafupi ndi iwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "fika pafupi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:34.191755415Z",
+  "model": "glm-5.3"
+}

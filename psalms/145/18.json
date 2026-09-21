@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 145,
+  "translation": "Yahwe ali pafupi ndi onse akumupemha, ndi onse amene amupemha mwachoonadi.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ali pafupi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ndi onse"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "akumupemha"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ndi onse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "amupemha"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "mwachoonadi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:34.606115188Z",
+  "model": "glm-5.3"
+}

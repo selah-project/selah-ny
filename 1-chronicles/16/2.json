@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Davide atatha kupereka nsembe yopsereka ndi zakonzekera mtima, nadalitira ⟨את⟩ anthu m'dzina la Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "atatha"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "kupereka"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nsembe yopsereka"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "ndi zakonzekera mtima"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "nadalitira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "m'dzina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T12:29:11.101748587Z",
+  "model": "glm-5.3"
+}

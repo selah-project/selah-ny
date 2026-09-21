@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Ndadziwa kuti ungathe zinthu zonse, ndipo palibe cholinga chimene chingatsekerezedwe kwa iwe.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Ndadziwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ungathe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "chingatsekerezedwe"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "cholinga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:47:33.428631301Z",
+  "model": "glm-5.3"
+}

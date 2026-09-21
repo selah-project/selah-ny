@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "M'dziko lonse mlingo wawo watuluka, ndi ku malekezero a dziko lapansi mawu awo; kwa dzuwa ⟨wina⟩ adaika chihema mwa iwo.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "m'dziko lonse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "watuluka"
+    },
+    {
+      "surface": "קום",
+      "gloss": "mlingo wawo"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "ndi ku malekezero a"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "mawu awo"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "kwa dzuwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adaika"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mwa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:34.963846173Z",
+  "model": "glm-5.3"
+}

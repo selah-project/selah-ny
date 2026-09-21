@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "El wanga, El wanga, chifukwa chiyani undatasiya? Kutali ndi chipulumutso changa, mawu a kubululira kwanga.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El wanga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El wanga"
+    },
+    {
+      "surface": "למה",
+      "gloss": "chifukwa chiyani"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "undatasiya"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "Kutali"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "ndi chipulumutso changa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "kubululira kwanga"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:26.837850585Z",
+  "model": "glm-5.3"
+}

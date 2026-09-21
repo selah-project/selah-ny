@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo ana a Yisraeli anatumikira ⟨את⟩ Egilono, mfumu ya Moabu, zaka khumi ndi zisanu ndi chinayi.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "anatumikira"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egilono"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Egilono"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ya Moabu"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "chinayi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mu khumi ndi zisanu ndi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    }
+  ],
+  "timestamp": "2026-09-21T07:48:53.045267330Z",
+  "model": "glm-5.3"
+}

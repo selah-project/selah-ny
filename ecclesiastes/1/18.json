@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Pakuti m'nzeru zambiri kuli chisoni chambiri; ndipo wowonjezera chidziwitso awonjezera masautso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "m'...zambiri"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "nzeru"
+    },
+    {
+      "surface": "רב",
+      "gloss": "chambiri"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "chisoni"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "ndipo wowonjezera"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "chidziwitso"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "awonjezera"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "masautso"
+    }
+  ],
+  "timestamp": "2026-09-21T11:54:30.134475530Z",
+  "model": "glm-5.3"
+}

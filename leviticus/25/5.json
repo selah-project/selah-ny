@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "⟨את⟩ chomera chokha cha zokolola zako sichudzaola, ndipo ⟨את⟩ zabiringina za mpesa wako wosasunthidwa sizudzatola; chaka cha mpumulo wopatulika chidzakhala cha dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chomera chokha cha zokolola zako"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "chomera chokha"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "cha zokolola zako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sichudza"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "udzaola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zabiringina za mpesa wako"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "zabiringina za"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "mpesa wako wosasunthidwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "osati"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "udzatola"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "chaka cha"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "mpumulo wopatulika"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "chidzakhala"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "cha dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:45:00.502260320Z",
+  "model": "glm-5.3"
+}

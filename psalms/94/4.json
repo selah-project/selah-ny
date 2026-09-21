@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 94,
+  "translation": "Amathamisa mawu a mphuta, amalankhula zo dzikuza; onse ochita zoipa adzikuza.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "amathamisa"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "amalankhula"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "mphuta"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "adzikuza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ochita"
+    },
+    {
+      "surface": "און",
+      "gloss": "zoipa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:52.544517340Z",
+  "model": "glm-5.3"
+}

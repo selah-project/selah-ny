@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Maso anga atha kuona chifukwa cha mawu ako, ndikuti: Kodi liti unditonthoza?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "atha kuona"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maso anga"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "chifukwa cha mawu ako"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ndikuti"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kodi liti"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "unditonthoza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:47.437649645Z",
+  "model": "glm-5.3"
+}

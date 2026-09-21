@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo adati: “Ndi ⟨את⟩ nkhosa zazimazi zisanu ndi ziwiri udzalandira m'manja mwanga, kuti zikhale umboni wanga kuti ndinakumba ⟨את⟩ bwalo ili.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo adati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Ndi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhosa zazimazi zisanu ndi ziwiri"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zisanu ndi ziwiri"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "nkhosa zazimazi"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "udzalandira"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "m'manja mwanga"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "zikhale"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wanga"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "umboni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "ndinakumba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bwalo ili"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "bwalo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ili"
+    }
+  ],
+  "timestamp": "2026-09-21T12:53:14.843763641Z",
+  "model": "glm-5.3"
+}

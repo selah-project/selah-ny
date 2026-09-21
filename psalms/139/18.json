@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 139:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 139,
+  "translation": "Ngati ndiwerenga iwo, apitirira mchenga; ndinadzuka, ndipo ndine pamodzi ndi iwe.",
+  "tokens": [
+    {
+      "surface": "אספרם",
+      "gloss": "Ngati ndiwerenga iwo"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "mchenga"
+    },
+    {
+      "surface": "ירבון",
+      "gloss": "apitirira"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "ndinadzuka"
+    },
+    {
+      "surface": "ועודי",
+      "gloss": "ndipo ndine"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pamodzi ndi iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:34.476980064Z",
+  "model": "glm-5.3"
+}

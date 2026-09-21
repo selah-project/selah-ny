@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Esteri sananena za mbadwo wake ndi ⟨את⟩ anthu ake, monga Mordekai anam'lamulira; ndipo ⟨את⟩ lamulo la Mordekai Esteri ankachita, monga anachitira pamene anali pamsamaliro ⟨את⟩ iye.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "sananena"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "kunena za"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "mbadwo wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "anthu ake"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "anthu ake"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "anam'lamulira"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "iye"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lamulo la Mordekai"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "lamulo"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "la Mordekai"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ankachita"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "anachitira pamene anali"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "pamsamaliro"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye"
+    }
+  ],
+  "timestamp": "2026-09-21T11:59:27.706946500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Chifukwa cha izi ndidzana ⟨zimene ndinanena⟩, ndipo ndilapa pa fumbi ndi phulusa.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Chifukwa cha"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izi"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "ndidzana ⟨zimene ndinanena⟩"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "ndipo ndilapa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "fumbi"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "ndi phulusa"
+    }
+  ],
+  "timestamp": "2026-09-21T13:30:21.699925040Z",
+  "model": "glm-5.3"
+}

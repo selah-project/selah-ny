@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Chifukwa chake nena: “Taona, ine ndikupatsa iye ⟨את⟩ pangano langa la mtendere.”",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Chifukwa chake"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nena"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Taona, ine"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ndikupatsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangano langa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "pangano langa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "la mtendere"
+    }
+  ],
+  "timestamp": "2026-09-21T07:04:46.743325197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 71,
+  "translation": "Pakuti adani anga ananena ⟨za⟩ ine, ndipo akusunga moyo wanga anaphatikizana pamodzi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "adani anga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨za⟩ ine"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "ndipo akusunga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "anaphatikizana"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:49.545042999Z",
+  "model": "glm-5.3"
+}

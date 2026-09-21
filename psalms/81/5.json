@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 81,
+  "translation": "Pakuti chilamulo cha Yisraeli ndicho, chiweruzo cha Elohim wa Yakobo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "חק",
+      "gloss": "chilamulo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "cha Yisraeli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndicho"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chiweruzo"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "cha Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:49.231038951Z",
+  "model": "glm-5.3"
+}

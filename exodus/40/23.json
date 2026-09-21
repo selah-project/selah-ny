@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo iye adaika pa iye dongosolo la mkate pamaso pa Yahwe, monga Yahwe adamulamulira ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "adaika dongosolo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "dongosolo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "adamulamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T12:57:23.160151333Z",
+  "model": "glm-5.3"
+}

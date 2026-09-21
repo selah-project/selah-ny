@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Yahwe, musandivise manyazi, pakuti ndinakuitana iwe; alowe manyazi woipa, akhale chete kumene ku Sheoli.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musandi-"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "vise manyazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ndinakuitana iwe"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "alowe manyazi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "woipa"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "akhale chete"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kumene ku Sheoli"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:33.941760571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ngati lipenga ladzaikidwa mu mzinda, kodi anthu sanagwedezeka ndi mantha? Ngati pali choipa mu mzinda, kodi Yahwe sanachite?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "ladzaikidwa"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "lipenga"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mzinda"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "nagwedezeka ndi mantha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ngati pali"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "pali"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mzinda"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "kodi Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nachite"
+    }
+  ],
+  "timestamp": "2026-09-21T10:25:15.056853226Z",
+  "model": "glm-5.3"
+}

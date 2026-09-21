@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo m'nyumba yopatulika kwambiri anapanga akherubi awiri, ntchito ya kudula zithunzi; ndipo anawaputa ⟨את⟩ iwo golide.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ndipo anapanga"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "yopatulika"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "akherubi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "ya kudula zithunzi"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "ndipo anawaputa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo (akherubi awiri)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    }
+  ],
+  "timestamp": "2026-09-21T12:36:54.698147703Z",
+  "model": "glm-5.3"
+}

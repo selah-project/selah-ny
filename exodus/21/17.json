@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo wotemberera bambo ake kapena amayi ake, kuphedwa adzapheedwa ndithu.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "Ndipo wotemberera"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bambo ake"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "kapena amayi ake"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuphedwa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "adzapheedwa ndithu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:56.995461162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Ndipo anaitana njala pa dziko lapansi; anaphwanya ndodo yonse ya mkate.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "anaitana"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "njala"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ndodo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ya mkate"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "anaphwanya"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:16.608525503Z",
+  "model": "glm-5.3"
+}

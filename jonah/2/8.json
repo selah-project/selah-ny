@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Moyo wanga unagonjeka pa ine; ndinakumbukira ⟨את⟩ Yahwe; ndipo pemphero langa linadza kwa iwe, ku tempile yako yapatulika.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "unagonjeka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Moyo wanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "ndinakumbukira"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ndipo linadza"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "pemphero langa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempile"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "yako yapatulika"
+    }
+  ],
+  "timestamp": "2026-09-21T10:28:53.635890535Z",
+  "model": "glm-5.3"
+}

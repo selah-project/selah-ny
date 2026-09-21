@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Pakuti Yahwe wathira pa inu mzimu wa tulo tolemeza, natseka ⟨את⟩ maso anu — ⟨את⟩ aneneri — ndi ⟨את⟩ mitu yanu, akuona zisonyezo, wazudzula.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "wathira"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pa inu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "wa tulo tolemeza"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "natseka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maso anu"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "maso anu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aneneri"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "aneneri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mitu yanu"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "mitu yanu"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "akuona zisonyezo"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "wazudzula"
+    }
+  ],
+  "timestamp": "2026-09-21T09:13:01.671563155Z",
+  "model": "glm-5.3"
+}

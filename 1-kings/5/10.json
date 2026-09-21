@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo nzeru ya Sulomoni inachuluka koposa nzeru ya ana onse a kum'mawa, ndi koposa nzeru yonse ya ku Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "inachuluka"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "nzeru"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ya Sulomoni"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "koposa nzeru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ya ana onse"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kum'mawa"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ndi koposa"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "nzeru yonse"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya ku Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:33:11.622308960Z",
+  "model": "glm-5.3"
+}

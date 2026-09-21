@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 141,
+  "translation": "Pemphero langa likhale ngati chuma chofewa pamaso pako; kukweza kwa manja anga ngati nsembe ya madzulo.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "likhale"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "Pemphero langa"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ngati chuma chofewa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamaso pako"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "kukweza"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "kwa manja anga"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ngati nsembe"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ya madzulo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:53.697056999Z",
+  "model": "glm-5.3"
+}

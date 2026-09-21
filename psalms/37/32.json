@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Woipa amayang'anira wolungama, ndipo akufuna kumupha.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "amayang'anira"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Woipa"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "ndipo akufuna"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "kumupha"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:24.416907163Z",
+  "model": "glm-5.3"
+}

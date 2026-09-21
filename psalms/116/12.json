@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 116,
+  "translation": "Ndingabwezere chiyani kwa Yahwe, chifukwa cha zokoma zonse zake za pa ine?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "Ndingabwezere"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "zokoma zake"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:05.190188306Z",
+  "model": "glm-5.3"
+}

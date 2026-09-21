@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 94,
+  "translation": "Wodala munthu amene mumulangiza, Yah, ndipo mwa Tora yako mumuphunzitsa.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Wodala"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "mumulangiza"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "ndipo mwa Tora yako"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "mumuphunzitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:59.207947853Z",
+  "model": "glm-5.3"
+}

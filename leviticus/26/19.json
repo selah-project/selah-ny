@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo ndidzatyola ⟨את⟩ ulemerero wa mphamvu yanu, ndipo ndidzaika ⟨את⟩ miyamba yanu monga chitsulo cha任期 ironi, ndi ⟨את⟩ dziko lanu monga nkhokwe ya zitsulo.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "ndidzatyola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulemerero wa mphamvu yanu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ulemerero"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "wa mphamvu yanu"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ndipo ndidzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miyamba yanu"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "miyamba yanu"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "monga chitsulo cha任期 ironi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "dziko lanu"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "dziko lanu"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "monga nkhokwe ya zitsulo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:59:04.618642095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "Ndipo ndinati: “Eloha wanga, usanditenge ⟨kumwamba⟩ pakati pa masiku anga; pa mibadwomibadwo zaka zanu zili.”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ndinati"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eloha wanga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usanditenge"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "pakati pa masiku anga"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "masiku anga"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "pa mibadwomibadwo"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "mibadwomibadwo"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "zaka zanu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:26.432401142Z",
+  "model": "glm-5.3"
+}

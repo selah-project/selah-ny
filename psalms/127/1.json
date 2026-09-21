@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 127,
+  "translation": "Nyimbo ya Makwerero, la Shelomo. Ngati Yahwe samanga nyumba, mwadala analemera akumanga ake; ngati Yahwe sasunga mzinda, mwadala wachitira kuwa msamali.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya Makwerero"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "la Shelomo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "manga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "mwadala"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "nalemera"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "akumanga ake"
+    },
+    {
+      "surface": "בו",
+      "gloss": "-"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "sunga"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "mwadala"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "wachitira kuwa"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "msamali"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:08.542203191Z",
+  "model": "glm-5.3"
+}

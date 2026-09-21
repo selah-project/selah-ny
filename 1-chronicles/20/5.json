@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 20:5",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo chinachitika, panali nkhondo inanso ndi ⟨את⟩ Afilisiti; Elkhanani mwana wa Yairi anamenya ⟨את⟩ Lakhmi, m'bale wa Goliyati wa Gati, ndipo mtengo wa mkwangwanu wake unkaonga monga doko la osoka.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "chinachitika"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "inanso"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "nkhondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Afilisiti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilisiti"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "anamenya"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Elkhanani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "Yairi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lakhmi"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "Lakhmi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "m'bale wa"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Goliyati"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "wa Gati"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ndipo mtengo wa"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "mkwangwanu wake"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "monga doko la"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "osoka"
+    }
+  ],
+  "timestamp": "2026-09-21T12:31:11.695762497Z",
+  "model": "glm-5.3"
+}

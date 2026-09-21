@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 23:17",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo anthu onse analowa mu nyumba ya Baali, nayiononga, ndipo ⟨את⟩ mabwalo ake ndi ⟨את⟩ zithunzi zake anawatseka, ndipo ⟨את⟩ Matani wansembe wa Baali anamupha pamaso pa mabwalo.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "analowa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nyumba"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ya Baali"
+    },
+    {
+      "surface": "ויתצהו",
+      "gloss": "nayiononga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mabwalo ake"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "mabwalo ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zithunzi zake"
+    },
+    {
+      "surface": "צלמיו",
+      "gloss": "zithunzi zake"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "anawatseka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "Matani"
+    },
+    {
+      "surface": "מתן",
+      "gloss": "Matani"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "wa Baali"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "anamupha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "mabwalo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:45:54.542610484Z",
+  "model": "glm-5.3"
+}

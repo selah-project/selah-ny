@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "⟨את⟩ mpaka wa kumwera adamu, mirengi makumi asanu ndi limodzi, ndi mpingu wamadongosolo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpaka wa kumwera"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "wa kumwera"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "adamu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "makumi asanu ndi limodzi za mirengi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "za mirengi"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "mirengi"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ndi mpingu"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "wamadongosolo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:15:10.849892537Z",
+  "model": "glm-5.3"
+}

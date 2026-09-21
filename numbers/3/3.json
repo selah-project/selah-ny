@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Awa ndi maina a ana a Aharoni, ansembe odzozedwa, amene anadzaza manja awo ⟨uti akhale ansembe⟩.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a ana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "a Aharoni"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "odzozedwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "anadzaza"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "manja awo"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "⟨uti akhale ansembe⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T06:51:00.917370420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Kodi dziko lonse silili pamaso pano? Dzipatule, ndapempha, unditse; ngati kumanzere, ndidzapita kumanja; ndipo ngati kumanja, ndidzapita kumanzere.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Kodi … si"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamaso pano"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "dipatule"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapempha"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "unditse"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "kumanzere"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "ndidzapita kumanja"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ndipo ngati"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "kumanja"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "ndidzapita kumanzere"
+    }
+  ],
+  "timestamp": "2026-09-21T05:46:36.095652642Z",
+  "model": "glm-5.3"
+}

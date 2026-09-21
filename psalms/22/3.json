@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Elohim wanga, ndikulitana masana, koma iwe sumayankha; ndi usiku, ndipo palibe chilimezero kwa ine.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndikulitana"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "masana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma su"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "mayankha"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ndi usiku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "chilimezero"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:31.087564554Z",
+  "model": "glm-5.3"
+}

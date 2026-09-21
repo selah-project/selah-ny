@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 21:10",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo wansembe wamkulu mwa abale ake, amene mafuta odzozera anathiridwa pa mutu wake, ndipo ⟨את⟩ dzanja lake ladzozedwa kuti avale ⟨את⟩ zovala, sadzaosasula ⟨את⟩ mutu wake, ndipo zovala zake sadzawungula.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Ndipo wansembe"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "mwa abale ake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יוצק",
+      "gloss": "anathiridwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mutu wake"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "odzozera"
+    },
+    {
+      "surface": "ומלא",
+      "gloss": "ndipo ladzozedwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzanja lake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "ללבש",
+      "gloss": "kuti avale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zovala"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "zovala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutu wake"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mutu wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יפרע",
+      "gloss": "dzaosasula"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "ndipo zovala zake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יפרם",
+      "gloss": "dzawungula"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:26.970091843Z",
+  "model": "glm-5.3"
+}

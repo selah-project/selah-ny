@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 57,
+  "translation": "Ine ndidzalalikira chilungamo chako, ndi ⟨את⟩ ntchito zako; ndipo sizidzakupindulitsa.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ndidzalalikira"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "chilungamo chako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ntchito zako"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ntchito zako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si-"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "-zidzakupindulitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:23:01.108272263Z",
+  "model": "glm-5.3"
+}

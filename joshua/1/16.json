@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo anayankha ⟨את⟩ Yehoshuwa, nati: Chilichonse chimene unatilamula tidzachita, ndipo kumene konse kutuma tidzamuko.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Ndipo anayankha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshuwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Chilichonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "unatilamula"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "tidzachita"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo kwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "utuma"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "tidzamuko"
+    }
+  ],
+  "timestamp": "2026-09-21T07:33:48.157402217Z",
+  "model": "glm-5.3"
+}

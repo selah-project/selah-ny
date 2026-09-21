@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo iye anali ndi moyo wawawa, nadzipemphera kwa Yahwe, nalira ndi kulira kwambiri.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "Ndipo iye"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "wawawa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "nadzipemphera"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "nalira"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "kulira kwambiri"
+    }
+  ],
+  "timestamp": "2026-09-21T07:58:42.584231816Z",
+  "model": "glm-5.3"
+}

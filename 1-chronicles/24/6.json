@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 24:6",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo Shemayaha mwana wa Netaneli, wolemba wa alevi, adalemba iwo pamaso pa mfumu ndi atsamunda, ndi Tsadoko mnsembe, ndi Ahimeleki mwana wa Evyathara, ndi mitu ya banja za ansembe ndi alevi: banja limodzi linamwidwa kwa Elazara, ndipo linamwidwa linamwidwa kwa Itamara.",
+  "tokens": [
+    {
+      "surface": "ויכתבם",
+      "gloss": "adalemba iwo"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Shemayaha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netaneli"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "wolemba"
+    },
+    {
+      "surface": "מן",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "alevi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "ndi atsamunda"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ndi Tsadoko"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mnsembe"
+    },
+    {
+      "surface": "ואחימלך",
+      "gloss": "ndi Ahimeleki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyathara"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "ndi mitu ya"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "banja"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "וללוים",
+      "gloss": "ndi alevi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "banja"
+    },
+    {
+      "surface": "אב",
+      "gloss": "la bona"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "limodzi"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "linamwidwa"
+    },
+    {
+      "surface": "לאלעזר",
+      "gloss": "kwa Elazara"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "ndipo linamwidwa"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "linamwidwa"
+    },
+    {
+      "surface": "לאיתמר",
+      "gloss": "kwa Itamara"
+    }
+  ],
+  "timestamp": "2026-09-21T12:33:32.212215175Z",
+  "model": "glm-5.3"
+}

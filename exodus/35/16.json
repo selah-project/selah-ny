@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "⟨את⟩ altare la nsembe yopsereza, ndi ⟨את⟩ cheke chake cha kopala, chimene chili nacho, ⟨את⟩ mikwingwirima yake, ndi ⟨את⟩ zida zake zonse, ⟨את⟩ chitsime, ndi ⟨את⟩ pachake.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altare la nsembe yopsereza"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "la nsembe yopsereza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "cheke chake cha kopala"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "cheke"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "cha kopala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chili nacho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikwingwirima yake"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mikwingwirima yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zida zake zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zida zake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chitsime"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "chitsime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "pachake"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "pachake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:25:09.727067173Z",
+  "model": "glm-5.3"
+}

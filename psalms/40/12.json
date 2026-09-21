@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Iwe, Yahwe, musaziletse zifundo zako kuchokera kwa ine; khesedi kwako ndi choonadi chako chidzasunga ine nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "ziletse"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "zifundo zako"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kuchokera kwa ine"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedi kwako"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ndi choonadi chako"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nthawi zonse"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "chidzasunga ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:48.725458159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 18:18",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Mneneri ndidzamutsimikizira iwo mwachibadwidwe wa abale awo, wakuyembekezerako iwe; ndipo ndidzaika mawu anga m'kamwa mwake, ndipo iye adzalankhula kwa iwo ⟨את⟩ zonse zimene ndidzamulamulira.",
+  "tokens": [
+    {
+      "surface": "נביא",
+      "gloss": "Mneneri"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ndidzamutsimikizira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "mwachibadwidwe"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "wa abale awo"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "wakuyembekezerako iwe"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ndipo ndidzaika"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu anga"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "m'kamwa mwake"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ndipo adzalankhula"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "אצונו",
+      "gloss": "ndidzamulamulira"
+    }
+  ],
+  "timestamp": "2026-09-21T07:23:11.983726094Z",
+  "model": "glm-5.3"
+}

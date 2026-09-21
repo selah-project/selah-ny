@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Pakuti wakuchoka njira ndi chonyeza kwa Yahwe, koma chinsinsi chake chili ndi ⟨את⟩ olungama.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "chonyeza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "wakuchoka njira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "olungama"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "chinsinsi chake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:19:03.425644308Z",
+  "model": "glm-5.3"
+}

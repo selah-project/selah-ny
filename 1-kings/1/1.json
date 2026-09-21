@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo mfumu Dawidi anakalamba, inalowa m'masiku; ndipo anamufunika ndi zovala, koma iye sanatenthe.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ndipo mfumu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "anakalamba"
+    },
+    {
+      "surface": "בא",
+      "gloss": "inalowa"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "m'masiku"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "anamufunika"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "ndi zovala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "sanatenthe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    }
+  ],
+  "timestamp": "2026-09-21T08:30:16.254894818Z",
+  "model": "glm-5.3"
+}

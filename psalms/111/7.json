@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 111,
+  "translation": "Ntchito za manja ake ndi choonadi ndi chilamulo; zokhazikika ndi malamulo onse ake.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "Ntchito za"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "manja ake"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "choonadi"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ndi chilamulo"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "zokhazikika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "malamulo ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:01.898531841Z",
+  "model": "glm-5.3"
+}

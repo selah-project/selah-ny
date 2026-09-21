@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo anali nawo m'cholowa chawo: Beersheba, ndi Sheba, ndi Molada.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ndipo anali"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nawo"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "m'cholowa chawo"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sheba"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ndi Sheba"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "ndi Molada"
+    }
+  ],
+  "timestamp": "2026-09-21T07:41:38.745330453Z",
+  "model": "glm-5.3"
+}

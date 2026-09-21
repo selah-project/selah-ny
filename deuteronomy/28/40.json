@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 28:40",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Mitengo ya chitunu udzakhala nayo m'malire ako onse, koma mafuta sudzazira, chifukwa chitunu chako chidzagwa.",
+  "tokens": [
+    {
+      "surface": "זיתים",
+      "gloss": "Mitengo ya chitunu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "udzakhala nayo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "m'malire onse"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "malire ako"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "koma mafuta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sudzazira negation"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "sudzazira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "ישל",
+      "gloss": "chidzagwa"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "chitunu chako"
+    }
+  ],
+  "timestamp": "2026-09-21T07:27:54.593035472Z",
+  "model": "glm-5.3"
+}

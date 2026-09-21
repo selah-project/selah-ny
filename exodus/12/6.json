@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 12:6",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo ikhale kwa inu yosungidwa mpaka tsiku la khumi ndi lanayi la mwezi uno; ndipo khamu lonse la msonkhano wa Yisraeli liphere ⟨אתו⟩ pakati pa madzulo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ndipo ikhale"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "yosungidwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "nayi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la mwezi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uno"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "ndipo liphere"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "nkhosayo (the lamb)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "khamu"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "la msonkhano"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "madzulo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:56:50.208152228Z",
+  "model": "glm-5.3"
+}

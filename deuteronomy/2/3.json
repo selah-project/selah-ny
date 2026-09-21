@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Yakwanira inu kuzungulira ⟨את⟩ phiri ili; tembenuzirani inu kumpoto.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "yakwanira"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "סב",
+      "gloss": "kuzungulira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phiri ili"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ili"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "tembenuzirani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "kumpoto"
+    }
+  ],
+  "timestamp": "2026-09-21T07:13:26.122195259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo kwa wansembe wa ku Midiyani pali ana achikazi asanu ndi awiri akhale; iwo anadza nakwesha madzi, nadzaza ⟨את⟩ mibayo yamadzi kuti amwetsere nkhosa za abambo awo.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "kwa wansembe"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "wa ku Midiyani"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "asanu ndi awiri akhale"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ana achikazi"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "anadza"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "nakwesha madzi"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "nadzaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mibayo yamadzi"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "mibayo yamadzi"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "kuti amwetsere"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "za abambo awo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:07.844110922Z",
+  "model": "glm-5.3"
+}

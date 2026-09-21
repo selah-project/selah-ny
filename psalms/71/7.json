@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 71,
+  "translation": "Ndayeba ngati chizindikiro kwa ambiri; koma iwe ndiwe malo anga opulumutsa, mphamvu.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "ngati chizindikiro"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "Ndayeba"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "kwa ambiri"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "koma iwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "malo anga opulumutsa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mphamvu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:42.801231866Z",
+  "model": "glm-5.3"
+}

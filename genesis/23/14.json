@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo Efroni anayankha ⟨את⟩ Avrahamu, nati kwa iye:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ndipo anayankha"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efroni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T05:50:45.321272037Z",
+  "model": "glm-5.3"
+}

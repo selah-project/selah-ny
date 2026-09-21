@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo nkhondoyo inalemetsa pa Shauli, ndipo olunda mivi namupeza ndi uta, ndipo anavulala chifukwa cha olunda mivi.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "inalemetsa"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "nkhondoyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "namupeza"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "olunda mivi"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "ndi uta"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "anavulala"
+    },
+    {
+      "surface": "מן",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "olunda mivi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:27:23.879339548Z",
+  "model": "glm-5.3"
+}

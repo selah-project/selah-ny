@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 8:1",
+  "book": "ezra",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo awa ndiwo mitu ya makolo awo, ndi chikalata cha mibadwo yawo, amene anakwera ndi ine m'chifumu cha Artachshasta mfumu, kuchokera ku Babuloni.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ndipo awa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mitu ya"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "makolo awo"
+    },
+    {
+      "surface": "והתיחשם",
+      "gloss": "ndi chikalata cha mibadwo yawo"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "amene anakwera"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndi ine"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "m'chifumu cha"
+    },
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Artachshasta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "kuchokera ku Babuloni"
+    }
+  ],
+  "timestamp": "2026-09-21T12:15:46.981006942Z",
+  "model": "glm-5.3"
+}

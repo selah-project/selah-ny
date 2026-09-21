@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndipo Yahwe anali ⟨את⟩ Yosefe, natembenuza khesedi kwa iye, napatsa chisomo chake m'maso a mkulu wa nyumba yamndende.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "natembenuza"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesedi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "napatsa"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "chisomo chake"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "m'maso a"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mkulu wa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "yamndende"
+    }
+  ],
+  "timestamp": "2026-09-21T06:00:33.642635565Z",
+  "model": "glm-5.3"
+}

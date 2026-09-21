@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 5:8",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo ndinawauza kwa iwo kuti: Ife tinagula ⟨את⟩ abale athu, Ayuda, amene anagulitsidwa ku amitundu, malinga ndi mphamvu yathu; komanso inu mukugulitsa ⟨את⟩ abale anu, ndipo adzagulitsidwa kwa ife! Ndipo adanyembezera, ndipo sanapeza mawu.",
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "ndipo ndinawauza"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "tinagula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abale athu"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "abale athu"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Ayuda"
+    },
+    {
+      "surface": "הנמכרים",
+      "gloss": "amene anagulitsidwa"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "ku amitundu"
+    },
+    {
+      "surface": "כדי",
+      "gloss": "malinga ndi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mphamvu yathu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "komanso"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "mukugulitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abale anu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "abale anu"
+    },
+    {
+      "surface": "ונמכרו",
+      "gloss": "adzagulitsidwa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa ife"
+    },
+    {
+      "surface": "ויחרישו",
+      "gloss": "adanyembezera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sana-"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "-peza"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mawu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:18:40.333164365Z",
+  "model": "glm-5.3"
+}

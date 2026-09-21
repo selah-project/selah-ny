@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Koma ine, mwa kuchuluka kwa khesedi kako, ndidzalowa m'nyumba yako; ndidzagwadira kum'mbuyo mlengo woyera wako mwa mantha ako.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Koma ine"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "mwa kuchuluka"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kwa khesedi kako"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ndidzalowa"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "m'nyumba yako"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "ndidzagwadira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "mlengo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "woyera wako"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "mwa mantha ako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:03.981752066Z",
+  "model": "glm-5.3"
+}

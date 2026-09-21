@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 26:30",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo ndidzaononga mabwalo anu a pachulu, ndipo ndidzapweteka zitsanzo zanu za dzuwa, ndipo ndidzaika matumbi anu pa matumbi a mafano anu, ndipo moyo wanga udzadana ndi inanu ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "והשמדתי",
+      "gloss": "Ndipo ndidzaononga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabwalo anu a pachulu"
+    },
+    {
+      "surface": "במתיכם",
+      "gloss": "mabwalo anu a pachulu"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ndipo ndidzapweteka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zitsanzo zanu za dzuwa"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "zitsanzo zanu za dzuwa"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ndipo ndidzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matumbi anu"
+    },
+    {
+      "surface": "פגריכם",
+      "gloss": "matumbi anu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "matumbi a"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "mafano anu"
+    },
+    {
+      "surface": "וגעלה",
+      "gloss": "ndipo udzadana"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "inanu ⟨אתכם⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T06:48:10.600177956Z",
+  "model": "glm-5.3"
+}

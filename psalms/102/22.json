@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "Kulalikira dzina la Yahwe m'Tsiyoni, ndi matamando ake m'Yerushalayimu;",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "kulalikira"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "m'Tsiyoni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dzina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "ndi matamando ake"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "m'Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:21.079684099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 59,
+  "translation": "Musawaphete, kuti anthu anga asawaiwala; awasunthe ndi mphamvu yako, ndipo awatsike, Adonayi, chishango chathu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musawa-"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "phete"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kuti osati"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "aiwale"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "anthu anga"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "awasunthe"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "ndi mphamvu yako"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "ndipo awatsike"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "chishango chathu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:56.058957981Z",
+  "model": "glm-5.3"
+}

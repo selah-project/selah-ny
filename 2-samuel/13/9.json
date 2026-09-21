@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 13:9",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo iye anatenga ⟨את⟩ chakudya chopakidwa, nachikhazikitsa pamaso pake, koma iye anakana kudya. Ndipo Aminoni anati: “Tulukani munthu aliyense pansi pa ine.” Ndipo munthu aliyense anatuluka pansi pake.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chakudya chopakidwa"
+    },
+    {
+      "surface": "המשרת",
+      "gloss": "chakudya chopakidwa"
+    },
+    {
+      "surface": "ותצק",
+      "gloss": "nachikhazikitsa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pamaso pake"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "anakana"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "kudya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Aminoni"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "Tulukani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "pansi pa ine"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "anatuluka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "pansi pake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:21:29.425358787Z",
+  "model": "glm-5.3"
+}

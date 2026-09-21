@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 11:35",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo ndidzatenga ufumu m'dzanja la mwana wake, ndipo ndidzakupatsa iwe ⟨את⟩ mafuko khumi.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "Ndipo ndidzatenga"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ufumu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "ndipo ndidzakupatsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuko khumi"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "mafuko"
+    }
+  ],
+  "timestamp": "2026-09-21T08:40:08.057910284Z",
+  "model": "glm-5.3"
+}

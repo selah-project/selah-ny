@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 8:20",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo Noa anamanga guwa kwa Yahwe, ndipo anatora za ziweto zonse zachierwa, ndi za mbalame zonse zachierwa, ndipo anayatsa nsembe zopsereza pa guwalo.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ndipo anamanga"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "guwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ndipo anatora"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "za zonse"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ziweto"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "zachierwa"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ndi za zonse"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "mbalame"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "zachierwa"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ndipo anayatsa"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "nsembe zopsereza"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "pa guwalo"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:56.322755855Z",
+  "model": "glm-5.3"
+}

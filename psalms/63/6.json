@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 63,
+  "translation": "Monga mafuta ndi chakudya cha chiwalo chabwino moyo wanga umakhala wokhutira, ndi milomo ya kuimba kwandalama mkamwa wanga kudzilemekeza.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "Monga"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mafungo"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "ndi mafuta"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "umakhala wokhutira"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "ndi milomo"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "ya kuimba kwandalama"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "kudzilemekeza"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mkamwa wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:56.907419717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Yambani pakati pa msonkhano uwu, ndipo ndidzawaononga ⟨את⟩ iwo nthawi yomweyo. Ndipo anagwa ndi nkhosi zawo.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "Yambani"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "msonkhano"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uwu"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ndipo ndidzawaononga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "nthawi yomweyo"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ndipo anagwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "nkhosi zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:01:00.001216639Z",
+  "model": "glm-5.3"
+}

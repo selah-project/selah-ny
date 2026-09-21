@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ana a Elohim anaona ⟨את⟩ ana akazi a anthu, kuti anali okongola; nadzatenga akazi kwa iwo mwa onse amene anasankha.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana akazi a anthu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ana akazi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "a anthu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "okongola"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ali"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "adzatenga"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "akazi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mwa onse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "anasankha"
+    }
+  ],
+  "timestamp": "2026-09-21T05:45:37.539715790Z",
+  "model": "glm-5.3"
+}

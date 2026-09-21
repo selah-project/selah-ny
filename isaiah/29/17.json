@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 29:17",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Kodi si pang'ono penipeni pokha, ndipo Lebanoni udzasanduka munda, ndipo munda udzawerengedwa ngati chipewa?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "kodi si"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pokha"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "pang'ono"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "penipeni"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "udzasanduka"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanoni"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "munda"
+    },
+    {
+      "surface": "והכרמל",
+      "gloss": "ndipo munda"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "ngati chipewa"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "udzawerengedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:12:38.754641100Z",
+  "model": "glm-5.3"
+}

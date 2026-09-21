@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 87,
+  "translation": "La ana a Korachi, mnyimbo, nyimbo. Maziko ake ali m'mapiri opatulika.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "La ana a"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mnyimbo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "maziko ake"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "m'mapiri"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "opatulika"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:48.136806488Z",
+  "model": "glm-5.3"
+}

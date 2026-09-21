@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Monga mwa chodetsa kwawo ndi monga mwa mphulupulu zawo ndinawachitira ⟨את⟩ iwo, ndipo ndinabisira nkhope yanga pansi pawo.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "monga mwa chodetsa kwawo"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "ndi monga mwa mphulupulu zawo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndinawachitira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "ndipo ndinabisira"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope yanga"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "pansi pawo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:16:34.326443020Z",
+  "model": "glm-5.3"
+}

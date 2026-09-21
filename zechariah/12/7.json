@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 12:7",
+  "book": "zechariah",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo Yahwe adzapulumutsa choyamba ⟨את⟩ mahema a Yehuda, kuti ulemerero wa nyumba ya Davide ndi ulemerero wokhala ku Yerushalayimu usakule pa Yehuda.",
+  "tokens": [
+    {
+      "surface": "והושיע",
+      "gloss": "adzapulumutsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahema a Yehuda"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "mahema"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yehuda"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "choyamba"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תגדל",
+      "gloss": "-kule"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ulemerero"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wa nyumba"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ya Davide"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "ndi ulemerero"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wokhala"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ku Yerushalayimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-21T10:39:21.789915200Z",
+  "model": "glm-5.3"
+}

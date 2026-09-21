@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo Yakobo anakhaladi m'dziko la okhala a atate wake, m'dziko la Kenaani.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "anakhaladi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "la okhala"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "a atate wake"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "la Kenaani"
+    }
+  ],
+  "timestamp": "2026-09-21T05:59:33.576655403Z",
+  "model": "glm-5.3"
+}

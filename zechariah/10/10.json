@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 10:10",
+  "book": "zechariah",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndidzawabweza ndi dziko la Mitsrayimu, ndi ku Ashuru ndidzawasonkhanitsa, ndipo ku dziko la Gileadi ndi Lebanoni ndidzawalowetsa, ndipo malo sadzawapezeka kwa iwo.",
+  "tokens": [
+    {
+      "surface": "והשיבותים",
+      "gloss": "ndidzawabweza"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ndi dziko la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "ומאשור",
+      "gloss": "ndi ku Ashuru"
+    },
+    {
+      "surface": "אקבצם",
+      "gloss": "ndidzawasonkhanitsa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko la"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileadi"
+    },
+    {
+      "surface": "ולבנון",
+      "gloss": "ndi Lebanoni"
+    },
+    {
+      "surface": "אביאם",
+      "gloss": "ndidzawalowetsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "sadzawapezeka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:37:49.434973857Z",
+  "model": "glm-5.3"
+}

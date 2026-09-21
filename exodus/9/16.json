@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Koma chifukwa cha izi ndakuyimiritsa iwe, kuti ndikuonetsere ⟨את⟩ mphamvu yanga, ndi kuti Dzina langa lalalikidwe m'dziko lonse lapansi.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Koma"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izi"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "ndakuyimiritsa iwe"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "ndikuonetsere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mphamvu yanga"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "mphamvu yanga"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ndi kuti"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "lalalikidwe"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Dzina langa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "m'dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:11:22.163739343Z",
+  "model": "glm-5.3"
+}

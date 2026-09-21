@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Kunyazitsa tinanyazitsa kwa iwe, ndipo sitinasunge ⟨את⟩ malamulo, ndi ⟨את⟩ malemba, ndi ⟨את⟩ miweruzo umene unalamulira ⟨את⟩ Moshe kapolo wako.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "kunyazitsa"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "tinanyazitsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sitinasunge"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "sitinasunge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malamulo"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "malamulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malemba"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "malemba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "miweruzo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "miweruzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "unalamulira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kapolo wako"
+    }
+  ],
+  "timestamp": "2026-09-21T12:16:33.266003715Z",
+  "model": "glm-5.3"
+}

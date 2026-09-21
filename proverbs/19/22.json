@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Chifuniro cha munthu ndi khesedi chake; ndipo wochuluka mtima wopanda chuma koposa munthu wabodza.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "chifuniro"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cha munthu"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ndi khesedi chake"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ndipo ... koposa"
+    },
+    {
+      "surface": "רש",
+      "gloss": "wopanda chuma"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "koposa munthu"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "wabodza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:24:12.504771408Z",
+  "model": "glm-5.3"
+}

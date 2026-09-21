@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 101,
+  "translation": "Masowo apolero a dziko, kuti akhale ndi ine; woyenda m'njira yopanda chilema, iye ndiye adzanditumikira.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "masowo"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "apolero"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a dziko"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "kuti akhale"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ndi ine"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "woyenda"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "m'njira"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "yopanda chilema"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "adzanditumikira"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:39.303497223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 92,
+  "translation": "Kwabwino kuyamika Yahwe, ndi kuyimbira dzina lanu, Elyoni ⟨wapamwamba kwambiri⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Kwabwino"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "kuyamika"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "ndi kuyimbira"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "dzina lanu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoni"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:39.253440806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Pakuti mwanena kuti: “Yahwe watiuikitsira ife aneneri ku Babuloni.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "mwanena"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "watiuikitsira"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "aneneri"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ku Babuloni"
+    }
+  ],
+  "timestamp": "2026-09-21T09:42:36.088778114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 75,
+  "translation": "Kupectsedwa ndi dziko ndi okhala ake onse; ine ndine wazimika migayo yake. Selahi.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "Kupectsedwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi onse"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "okhala ake"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "ndine wazimika"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "migayo yake"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:08.111150537Z",
+  "model": "glm-5.3"
+}

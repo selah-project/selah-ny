@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 6:17",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo anabweretsa ⟨את⟩ chikwacha cha Yahwe, ndipo anaika ⟨את⟩ chikwacha m'malo mwake, mkati mwa chihema chimene Davide anatambasula chake; ndipo Davide anakweza nsembe zopsereza pamaso pa Yahwe, ndi nsembe zachimondo.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "anabweretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikwacha"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chikwacha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויצגו",
+      "gloss": "anaika"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chikwacha"
+    },
+    {
+      "surface": "במקומו",
+      "gloss": "m'malo mwake"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mkati mwa"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "anatambasula"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chake"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "anakweza"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "nsembe zopsereza"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "nsembe zachimondo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:07:58.225109780Z",
+  "model": "glm-5.3"
+}

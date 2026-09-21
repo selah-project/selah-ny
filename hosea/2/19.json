@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo ndidwachotza ⟨את⟩ maina a Baalim m'kamwa mwake, ndipo sadzakumbukidwanso nakamodzi ndi dzina lawo.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "ndidwachotza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maina a Baalim"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maina"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "a Baalim"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "m'kamwa mwake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo ayi"
+    },
+    {
+      "surface": "יזזכרו",
+      "gloss": "sadzakumbukidwanso"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nakamodzi"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "ndi dzina lawo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:21:22.141711665Z",
+  "model": "glm-5.3"
+}

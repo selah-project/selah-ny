@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo Sara anazana, nabala kwa Avrahamu mwana, kuukalamba kwake, pa nthawi yolemekerapo imene Elohim anayankhula ⟨את⟩ naye.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "anazana"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nabala"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kwa Avrahamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "kuukalamba kwake"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "pa nthawi yolemekerapo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "anayankhula"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye",
+      "marks": "Elohim (kuti anayankhula naye)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T12:54:07.353954574Z",
+  "model": "glm-5.3"
+}

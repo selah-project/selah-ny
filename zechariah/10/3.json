@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 10:3",
+  "book": "zechariah",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Pa abusitsa mtima wanga ukwiya, ndi pa mbuzi zamuna ndidzaweruza; chifukwa Yahwe Tsevaoti wayendera ⟨את⟩ wunda wake, ⟨את⟩ nyumba ya Yuda, ndipo awaikha ⟨את⟩ iwo monga bhodza la ulemo wake pa nkhondo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "abusitsa"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ukwiya"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "העתודים",
+      "gloss": "mbuzi zamuna"
+    },
+    {
+      "surface": "אפקוד",
+      "gloss": "ndidzaweruza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "wayendera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wunda wake"
+    },
+    {
+      "surface": "עדרו",
+      "gloss": "wunda wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba ya Yuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yuda"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ndipo awaikha"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "monga bhodza la ulemo wake"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "monga bhodza"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "la ulemo wake"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "pa nkhondo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:38:43.372387854Z",
+  "model": "glm-5.3"
+}

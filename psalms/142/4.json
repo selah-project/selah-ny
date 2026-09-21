@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 142,
+  "translation": "Pamene mzimu wanga wathawa pa ine, koma iwe umadziwa njira yanga; pa njira imene ndikuyendamo, anabisira chidyo ine.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "Pamene mzimu wanga wathawa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mzimu wanga"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "koma iwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "umadziwa"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "njira yanga"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "pa njira"
+    },
+    {
+      "surface": "זו",
+      "gloss": "imene"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ndikuyendamo"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "anabisira"
+    },
+    {
+      "surface": "פח",
+      "gloss": "chidyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:17.919584821Z",
+  "model": "glm-5.3"
+}

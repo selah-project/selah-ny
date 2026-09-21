@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "chibayo m'malo mwa chibayo, chilonda m'malo mwa chilonda, bunkhompa m'malo mwa bunkhompa.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "chibayo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "m'malo mwa"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "chibayo"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "chilonda"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "m'malo mwa"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "chilonda"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "bunkhompa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "m'malo mwa"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "bunkhompa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:44.956812830Z",
+  "model": "glm-5.3"
+}

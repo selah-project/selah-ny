@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo ine ndidzamenya nkhondo ndi ⟨את⟩ inu, ndi dzanja lotambasuka, ndi mphamvu ya manja yaikulu, ndi mkwiyo, ndi kukwiya, ndi chidwi chalikulu.",
+  "tokens": [
+    {
+      "surface": "ונלחמתי",
+      "gloss": "ndidzamenya nkhondo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ndi dzanja"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "lotambasuka"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "ndi mphamvu ya manja"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "yaikulu"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "ndi mkwiyo"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "ndi kukwiya"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "ndi chidwi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "chalikulu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:37:59.188404020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo mwa mneneri Yahwe anakweza ⟨את⟩ Yisraeli kuchokera ku Mitsrayimu, ndipo mwa mneneri anasungidwa.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "ndipo mwa mneneri"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "anakweza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuchokera ku Mitsrayimu"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "ndipo mwa mneneri"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "anasungidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:21:47.291935271Z",
+  "model": "glm-5.3"
+}

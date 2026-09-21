@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Munthu wamng'ono adagwedezeka, ndipo munthu wamkulu adadzichepetsa; chifukwa chake musawalelere.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "adagwedezeka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munthu wamng'ono"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "adadzichepetsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu wamkulu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "musawa-"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "kuwalelera"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:00:55.750675686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 7:4",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo kunakhala usiku umenewo, ndipo mawu a Yahwe anafika kwa Natani, nati:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ndipo kunakhala"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "umenewo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ndipo anafika"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natani"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    }
+  ],
+  "timestamp": "2026-09-21T13:08:22.866927430Z",
+  "model": "glm-5.3"
+}

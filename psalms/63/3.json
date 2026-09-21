@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 63,
+  "translation": "Kotero ndidakupenya ⟨mu⟩ malo opatulika, kuona mphamvu yako ndi ulemerero wako.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "kotero"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "m'malo opatulika"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "ndidakupenya"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "mphamvu yako"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "ndi ulemerero wako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:18.526876879Z",
+  "model": "glm-5.3"
+}

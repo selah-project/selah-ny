@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo anayatsa ⟨את⟩ nyumba ya Yahwe, ndi ⟨את⟩ nyumba ya mfumu, ndi ⟨את⟩ nyumba zonse za Yerushalayimu; ndipo ⟨את⟩ nyumba iliyonse yaikulu anayatsa moto.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "Ndipo anayatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyumba ya mfumu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mfumu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyumba zonse za Yerushalayimu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "za Yerushalayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyumba iliyonse yaikulu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iliyonse"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "yaikulu"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "anayatsa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-09-21T09:01:17.048471699Z",
+  "model": "glm-5.3"
+}

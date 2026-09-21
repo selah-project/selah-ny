@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo ndidzamenya ⟨את⟩ okhala m'mzinda uwu, ndi ⟨את⟩ munthu ndi ⟨את⟩ nyama; ndi matenda aakulu adzafa.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "ndidzamenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okhala m'mzinda uwu"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "okhala"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "m'mzinda"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uwu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "munthu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyama"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ndi matenda"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "aakulu"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "adzafa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:37:59.188702547Z",
+  "model": "glm-5.3"
+}

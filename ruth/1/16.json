@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 1:16",
+  "book": "ruth",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Koma Rute adati: “Musandikhumbetsere kusiya iwe, kubwerera mumbuyo mwako; pakuti kumene iwe ulikako, ndidzakalakako, ndipo kumene iwe ulgonjako, ndidzagonejako; anthu ako ndiwo anthu anga, ndipo Elohim wako ndiye Elohim wanga.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rute"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mus"
+    },
+    {
+      "surface": "תפגעי",
+      "gloss": "andikhumbetsere"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "לעזבך",
+      "gloss": "kusiya iwe"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kubwerera"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "mumbuyo mwako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kumene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kumene"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "iwe ulikako"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ndidzakalakako"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "ndipo kumene"
+    },
+    {
+      "surface": "תליני",
+      "gloss": "iwe ulgonjako"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "ndidzagonejako"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "anthu ako"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "anthu anga"
+    },
+    {
+      "surface": "ואלהיך",
+      "gloss": "ndipo Elohim wako"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:50:56.876953557Z",
+  "model": "glm-5.3"
+}

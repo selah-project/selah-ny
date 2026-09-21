@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 147,
+  "translation": "Amuponya ayezi ake ngati zidutswa ⟨za chakudya⟩; pamaso pa kuzizira kwake, ndani angayimirire?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "amuponya"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "ayezi ake"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "ngati zidutswa ⟨za chakudya⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "kuzizira kwake"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "angayimirire"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:13.610215605Z",
+  "model": "glm-5.3"
+}

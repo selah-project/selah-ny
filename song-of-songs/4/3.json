@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 4:3",
+  "book": "song-of-songs",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Monga ulusi wa shani ndiwo midomo yako, ndi kuyankhula kwako kowokongola; monga gawo la rimoni ndi mbali ya mutu yako, pambuyo pa ⟨chishango⟩ chako.",
+  "tokens": [
+    {
+      "surface": "כחוט",
+      "gloss": "monga ulusi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa shani"
+    },
+    {
+      "surface": "שפתתיך",
+      "gloss": "ndiwo midomo yako"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "ndi kuyankhula kwako"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "kowokongola"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "monga gawo la"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "rimoni"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "mbali ya mutu yako"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "pambuyo pa"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "chishango chako"
+    }
+  ],
+  "timestamp": "2026-09-21T13:30:38.229832274Z",
+  "model": "glm-5.3"
+}

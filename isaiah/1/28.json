@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 1:28",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo kuswa kwa oswa mtima ndi ochimwa kudzakhala limodzi, ndipo osiya Yahwe adzatha.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "ndipo kuswa"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "kwa oswa mtima"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ndi ochimwa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "limodzi"
+    },
+    {
+      "surface": "ועזבי",
+      "gloss": "ndipo osiya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "adzatha"
+    }
+  ],
+  "timestamp": "2026-09-21T09:01:23.987884335Z",
+  "model": "glm-5.3"
+}

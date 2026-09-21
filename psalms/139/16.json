@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 139,
+  "translation": "Maso anu anaona chithunzi changa chosapangidwabe, ndipo m'buku lanu onse analembedwa; masiku amene anapangidwa, ndipo ⟨palibe⟩ mmodzi mwa iwo ⟨wosalekera⟩.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "chithunzi changa chosapangidwabe"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "Maso anu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndipo m'buku lanu"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "m'buku lanu"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "onse"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "analembedwa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "anapangidwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo ⟨palibe⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmodzi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mwa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:50.233332203Z",
+  "model": "glm-5.3"
+}

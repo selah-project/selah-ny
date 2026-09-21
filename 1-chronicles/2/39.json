@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Azaraya anabala ⟨את⟩ Khelesi, ndipo Khelesi anabala ⟨את⟩ Elasaha.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "Ndipo Azaraya"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khelesi"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Khelesi"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "ndipo Khelesi"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elasaha"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Elasaha"
+    }
+  ],
+  "timestamp": "2026-09-21T12:22:58.680866160Z",
+  "model": "glm-5.3"
+}

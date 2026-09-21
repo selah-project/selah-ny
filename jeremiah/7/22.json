@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 7:22",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Pakuti sindinayankhule ndi makolo anu ⟨את⟩, sindinawalamuliranso pa tsiku limene ndinatulutsa ⟨את⟩ iwo mu dziko la Mitsrayimu, za za nsembe zopsereka ndi za nsembe zophereka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ndinayankhule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makolo anu"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ndi makolo anu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sindinawalamuliranso"
+    },
+    {
+      "surface": "צויתים",
+      "gloss": "ndinawalamulira"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pa tsiku"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "limene ndinatulutsa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu dziko la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "za za"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "nsembe zopsereka"
+    },
+    {
+      "surface": "וזבח",
+      "gloss": "ndi za nsembe zophereka"
+    }
+  ],
+  "timestamp": "2026-09-21T09:32:15.553327137Z",
+  "model": "glm-5.3"
+}

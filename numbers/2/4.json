@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo gulu lake, ndi owerengedwa awo, ⟨anali⟩ anayi ndi makumi asanu ndi awiri ziwiri ndi mazana asanu ndi limodzi.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ndi gulu lake"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ndi owerengedwa awo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "anayi"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ndi makumi asanu ndi awiri"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ndi sanu ndi limodzi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    }
+  ],
+  "timestamp": "2026-09-21T06:49:47.430988204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 28:5",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "M'menelo tsiku Yahwe Tsevaoti adzakhala chisoti cha ulemerero, ndi chikole cha ukongoledwe, kwa otsala a anthu ake.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "M'menelo tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "menelo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "לעטרת",
+      "gloss": "chisoti cha"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "ulemerero"
+    },
+    {
+      "surface": "ולצפירת",
+      "gloss": "ndi chikole cha"
+    },
+    {
+      "surface": "תפארה",
+      "gloss": "ukongoledwe"
+    },
+    {
+      "surface": "לשאר",
+      "gloss": "kwa otsala a"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    }
+  ],
+  "timestamp": "2026-09-21T09:11:33.999665612Z",
+  "model": "glm-5.3"
+}

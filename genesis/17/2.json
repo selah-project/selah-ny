@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "“Ndipo ndidzayika pangano langa pakati pa ine ndi ⟨את⟩ iwe, ndipo ndidzakuchulukitsa ndiwe chuluku chokwanira.”",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ndidzayika"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "pangano langa"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "pakati pa ine"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ndi pakati pa iwe"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "ndipo ndidzakuchulukitsa"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ iwe"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "chuluku"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "chokwanira"
+    }
+  ],
+  "timestamp": "2026-09-21T05:49:09.170955355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 135,
+  "translation": "Amayimirira mu nyumba ya Yahwe, m'mabwalo a nyumba ya Elohim wathu.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "Amayimirira"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mu nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "m'mabwalo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a nyumba"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ya Elohim wathu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:34.863870536Z",
+  "model": "glm-5.3"
+}

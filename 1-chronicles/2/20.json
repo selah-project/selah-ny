@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Huri anabala ⟨את⟩ Uri, ndipo Uri anabala ⟨את⟩ Betsaleli.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Ndipo Huri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "ndipo Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betsaleli"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsaleli"
+    }
+  ],
+  "timestamp": "2026-09-21T12:23:14.850121074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 83,
+  "translation": "Mwachifanizo, uwalondole ndi chigumula chako, ndi kuwachititsa mantha ndi mphepo yako yamkuntho.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Mwachifanizo"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "uwalondole"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "ndi chigumula chako"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "ndi mphepo yako yamkuntho"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "kuwachititsa mantha"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:43.156723259Z",
+  "model": "glm-5.3"
+}

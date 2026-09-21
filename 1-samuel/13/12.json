@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 13:12",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "ndipo ndinati: ‘Tsopano Afilisti adzatsika kwa ine ku Giligali, ndipo nkhope ya Yahwe sindinayandikirepo; ndipo ndinadzikakamiza, ndipo ndinapereka nsembe yopsereza.’",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ndinati"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Tsopano"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "adzatsika"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilisti"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ku Giligali"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ndipo nkhope ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi-"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "sindinayandikirepo"
+    },
+    {
+      "surface": "ואתאפק",
+      "gloss": "ndinadzikakamiza"
+    },
+    {
+      "surface": "ואעלה",
+      "gloss": "ndinapereka"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nsembe yopsereza"
+    }
+  ],
+  "timestamp": "2026-09-21T08:03:44.289083712Z",
+  "model": "glm-5.3"
+}

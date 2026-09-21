@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 99,
+  "translation": "Yahwe ndi wamkulu m'Tziyoni, ndipo ndi wapachulu pa anthu onse.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "m'Tziyoni"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "wapachulu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndi ⟨iye⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:39.846953565Z",
+  "model": "glm-5.3"
+}

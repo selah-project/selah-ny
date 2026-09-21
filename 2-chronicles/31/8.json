@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Yakhazikiya ndi amkalichi anadza, anaona ⟨את⟩ midepo, nadalitsa ⟨את⟩ Yahwe ndi ⟨את⟩ anthu ake a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "anadza"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yakhazikiya"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "ndi amkalichi"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "midepo"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "midepo"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "nadalitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "anthu ake a Yisraeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T12:49:00.775568493Z",
+  "model": "glm-5.3"
+}

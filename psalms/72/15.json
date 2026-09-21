@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 72,
+  "translation": "Akhale ndi moyo, ndipo adzapatsidwa golide wa Sheba, ndipo adzapempherera m'malo mwake nthawi zonse; tsiku lonse adzamudalitsa.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Akhale ndi moyo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "adzapatsidwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "golide wa"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "adzapempherera"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "m'malo mwake"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nthawi zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "adzamudalitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:39.312018209Z",
+  "model": "glm-5.3"
+}

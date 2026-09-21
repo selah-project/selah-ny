@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo usunge ⟨את⟩ chilamulo ichi pa nthawi yake yokonzedwa, kuchokera chaka mpaka chaka.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "usunge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chilamulo ichi"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "chilamulo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "pa nthawi yake yokonzedwa"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "kuchokera masiku"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "mpaka masiku"
+    }
+  ],
+  "timestamp": "2026-09-21T06:13:24.216151158Z",
+  "model": "glm-5.3"
+}

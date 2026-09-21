@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo Paro adzanena za ana a Yisraeli, kuti: “Ovutikira m'dzikoli ndiwo; chipululu chawatseka.”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "adzanena"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "za ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "Ovutikira"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ndiwo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dzikoli"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "chawatseka"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pa iwo"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "chipululu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:14:17.824026892Z",
+  "model": "glm-5.3"
+}

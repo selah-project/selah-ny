@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "La Davide, nyimbo. Kwa Yahwe ⟨uli⟩ dziko lapansi ndi chodzaza chake, dziko lonse ndi okhala m'menemo.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "La Davide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "ndi chodzaza chake"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dziko lonse"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ndi okhala m'menemo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "m'menemo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:23.313788388Z",
+  "model": "glm-5.3"
+}

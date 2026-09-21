@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 26:15",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Kwa Obedi-Edomu kumwera; ndipo kwa ana ake nyumba ya ku Asupimu.",
+  "tokens": [
+    {
+      "surface": "לעבד",
+      "gloss": "kwa Obedi-Edomu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Obedi-Edomu"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "kumwera"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ndipo kwa ana ake"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "האספים",
+      "gloss": "ya ku Asupimu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:33:53.453954145Z",
+  "model": "glm-5.3"
+}

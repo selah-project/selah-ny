@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 60,
+  "translation": "Kwa woyang'anira, pa Shushan-Eduth, miktamu wa Davide, wophunzitsa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduth"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktamu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Davide"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "wophunzitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:36.641359088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndinaona ⟨את⟩ onse amoyo okhala ndi moyo, akuyenda pansi pa dzuwa, pamodzi ndi mwana wachiwiri, amene adzayima m'malo mwake.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ndinaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onse amoyo okhala ndi moyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "amoyo okhala ndi moyo"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "akuyenda"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dzuwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wachiwiri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "adzayima"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "m'malo mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:08.342076417Z",
+  "model": "glm-5.3"
+}

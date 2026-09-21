@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 144,
+  "translation": "Amene pakamwa pawo pali ⟨kuyankhula⟩ zabodza, ndi dzanja lawo lamanja ndi dzanja la chinyengo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "pakamwa pawo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨kuyankhula⟩"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "zabodza"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ndi dzanja lawo lamanja"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "dzanja"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "la chinyengo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:10.045164400Z",
+  "model": "glm-5.3"
+}

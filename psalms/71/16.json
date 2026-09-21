@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 71,
+  "translation": "Ndidzalowa m'mphamvu za Adonayi Yahwe; ndidzakumbukira chilungamo chanu, inu nokha.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "Ndidzalowa"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "m'mphamvu za"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "ndidzakumbukira"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "chilungamo chanu"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "inu nokha"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:09.023137936Z",
+  "model": "glm-5.3"
+}

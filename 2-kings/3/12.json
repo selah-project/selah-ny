@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo Yehoshafat adati: “Kwa iye muli ⟨את⟩ liwu la Yahwe.” Ndipo mfumu ya Yisraeli, Yehoshafat ndi mfumu ya Edomu anatsika ⟨את⟩ kwa iye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "muli"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ kwa iye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "ndipo anatsika"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "ndi Yehoshafat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ndi mfumu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:10:50.706712271Z",
+  "model": "glm-5.3"
+}

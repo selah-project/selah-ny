@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 113,
+  "translation": "Ndani ali monga Yahwe Elohim wathu, amene amadzikweza kukhala ⟨pamwamba⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ndani"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "monga Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "amene amadzikweza"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "kukhala ⟨pamwamba⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:35.028248186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 77,
+  "translation": "Kodi mpaka nthawi zonse Adonayi adzakana, ndipo sadzaonjezera kukondweretsa kwanso?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "kodi mpaka nthawi zonse"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "adzakana"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sadzaonjezera"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "kuwonjezera"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "kukondweretsa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwanso"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:33.652240541Z",
+  "model": "glm-5.3"
+}

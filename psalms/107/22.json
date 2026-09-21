@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Ndipo apereke nsembe za chiyamiko, ndipo anene ntchito zake ndi kuimba kwachisoni.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "apereke nsembe"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "za nsembe za"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "chiyamiko"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "anene"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ntchito zake"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ndi kuimba"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:34.612987402Z",
+  "model": "glm-5.3"
+}

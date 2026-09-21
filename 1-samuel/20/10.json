@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo Dawidi adati kwa Yehonatani: “Ndani adzandiuza? kapena atate wako adzakuyankha ndi mawu owawa?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo adati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ndani"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "adzandiuza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "adzakuyankha"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atate wako"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ndi mawu owawa"
+    }
+  ],
+  "timestamp": "2026-09-21T08:09:11.899221916Z",
+  "model": "glm-5.3"
+}

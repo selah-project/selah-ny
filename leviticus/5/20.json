@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 5:20",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo Yahwe anayankhula ndi Moshe, nati:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "anayankhula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    }
+  ],
+  "timestamp": "2026-09-21T06:31:35.204679275Z",
+  "model": "glm-5.3"
+}

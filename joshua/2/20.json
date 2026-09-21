@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Koma ngati udidziula ⟨את⟩ mawu athu awa, tidzakhala opanda mulandu wa chiweruzo chanu chimene mwatichititsa kulapa.”",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "koma ngati"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "udidziula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu athu awa"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "mawu athu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "tidzakhala"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "opanda mulandu"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "wa chiweruzo chanu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "mwatichititsa kulapa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:34:34.280005515Z",
+  "model": "glm-5.3"
+}

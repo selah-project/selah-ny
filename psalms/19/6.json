@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 19:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo iye ngati wakwati wotuluka m'chihema chake chokwatirira, wakondwa ngati mphini wothamanga njira.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Ndipo iye"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "ngati wakwati"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "wotuluka"
+    },
+    {
+      "surface": "מחפתו",
+      "gloss": "m'chihema chake chokwatirira"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "wakondwa"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "ngati mphini"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "wothamanga"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "njira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:34.964095318Z",
+  "model": "glm-5.3"
+}

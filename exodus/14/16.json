@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "ndipo iwe, nyamulani ⟨את⟩ ndodo yako, ndipo wululani ⟨את⟩ dzanja lako pa nyanja, ndipo igawanike; ndipo ana a Yisraeli alowemo pakati pa nyanja pa dzako laḿ́́́́a.”",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ndipo iwe"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "nyamulani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndodo yako"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "ndodo yako"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "ndipo wululani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzanja lako"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dzanja lako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "ndipo igawanike"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ndipo alowemo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "pa dzako laḿ́́́́a"
+    }
+  ],
+  "timestamp": "2026-09-21T06:13:34.585674007Z",
+  "model": "glm-5.3"
+}

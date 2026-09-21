@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo udzatenga ⟨את⟩ nkhosa yachimuna yachiwiri, ndipo Aharon ndi ana ake adzayika ⟨את⟩ manja awo pa mutu wa nkhosayo.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "udzatenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhosa yachimuna yachiwiri"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "nkhosa yachimuna"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yachiwiri"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "adzayika"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ndi ana ake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manja awo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "manja awo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "wa nkhosayo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:23:28.538244394Z",
+  "model": "glm-5.3"
+}

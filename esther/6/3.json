@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 6:3",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo mfumu inati: “Chiyani chaulemu ndi chaukulu chinachitidwa kwa Mordekayi pa ichi?” Ndipo anyamata a mfumu, atumiki ake, anati: “Palibe chinachitidwa naye kanthu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo inati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Chiyani"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "chinachitidwa"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "chaulemu"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "ndi chaukulu"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kwa Mordekayi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ndipo anati"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "anyamata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a mfumu"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "atumiki ake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Palibe"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "chinachitidwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kanthu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:00:25.999002855Z",
+  "model": "glm-5.3"
+}

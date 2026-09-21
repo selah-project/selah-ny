@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Woipa anaiika chifundo cha nsanga pa ine, koma ndi malamulo anu sindinazunzikabe.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "anaiika"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "woipa"
+    },
+    {
+      "surface": "פח",
+      "gloss": "chifundo cha nsanga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "koma ndi malamulo anu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "dinazunzikabe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:03.912475466Z",
+  "model": "glm-5.3"
+}

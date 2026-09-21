@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Kodi kale m'nyumba ya woipa muli chuma cha chilicho, ndi efa yochepa ya mkwiyo?",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "kale"
+    },
+    {
+      "surface": "האש",
+      "gloss": "kodi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ya woipa"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "chuma"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "cha chilicho"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "ndi efa"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "yochepa"
+    },
+    {
+      "surface": "זעומה",
+      "gloss": "ya mkwiyo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:31:08.761361771Z",
+  "model": "glm-5.3"
+}

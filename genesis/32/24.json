@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Nadzawadza, nawadutsitsa ⟨את⟩ mtsinje, nadutsitsa ⟨את⟩ zonse zimene anali ndi izo.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "nadzawadza"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "nawadutsitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtsinje"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "mtsinje"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "nadutsitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse zimene anali ndi izo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "לו",
+      "gloss": "analì ndi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:54:31.882767035Z",
+  "model": "glm-5.3"
+}

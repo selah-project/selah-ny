@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 24:20",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo anakula changu, anathira chidebe chake m'chotsekera madzi, anathamanganso ku chitsime kutseka madzi, natseka kwa za ngamira zake zonse.",
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "anakula changu"
+    },
+    {
+      "surface": "ותער",
+      "gloss": "anathira"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "chidebe chake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "m'"
+    },
+    {
+      "surface": "השקת",
+      "gloss": "chotsekera madzi"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "anathamanganso"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨kanthu kina⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "chitsime"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "kutseka madzi"
+    },
+    {
+      "surface": "ותשאב",
+      "gloss": "anatseka"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa zonse"
+    },
+    {
+      "surface": "גמליו",
+      "gloss": "za ngamira zake"
+    }
+  ],
+  "timestamp": "2026-09-21T05:51:58.726023789Z",
+  "model": "glm-5.3"
+}

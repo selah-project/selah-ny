@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Adatemberera nyanja ya Sufu, ndipo inauma; nadawatsogolera mumadzi aakulu monga m'chipululu.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "Adatemberera"
+    },
+    {
+      "surface": "בים",
+      "gloss": "nyanja ya"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sufu"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "ndipo inauma"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "nadawatsogolera"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "mumadzi aakulu"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "monga m'chipululu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:27.270744713Z",
+  "model": "glm-5.3"
+}

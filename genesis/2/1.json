@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo kunatha kumwamba ndi dziko lapansi, ndi makamu onse awo.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "kunatha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ndi dziko lapansi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi onse"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "makamu awo"
+    }
+  ],
+  "timestamp": "2026-09-21T05:43:25.111193767Z",
+  "model": "glm-5.3"
+}

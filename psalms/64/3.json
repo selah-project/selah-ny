@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 64,
+  "translation": "Ndithise mbali ichocho pa chinsinsi cha oipa, pa chiwombolo cha ochita zoipa.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "Ndithise"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "pa chinsinsi"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "cha oipa"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "pa chiwombolo"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "cha ochita"
+    },
+    {
+      "surface": "און",
+      "gloss": "zoipa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:51.674795856Z",
+  "model": "glm-5.3"
+}

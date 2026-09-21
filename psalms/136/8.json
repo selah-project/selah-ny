@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 136,
+  "translation": "⟨את⟩ nyezimbo kulamulira masana, pakuti ku nthawi zonse khesedi wake.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyezimbo"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "nyezimbo"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "kulamulira"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "masana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi wake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:00.333544698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 10:3",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "musanenere wabwino ndi wolungama wa ana a mbuye wanu, ndipo mukanike pa mpando wachifumu wa atate wake, ndipo mulimbane pa nyumba ya mbuye wanu.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "musanenere"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "wabwino"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "ndi wolungama"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "wa ana"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "a mbuye wanu"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "mukanike"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "mpando wachifumu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "wa atate wake"
+    },
+    {
+      "surface": "והלחמו",
+      "gloss": "mulimbane"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "ya mbuye wanu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:51:18.649321089Z",
+  "model": "glm-5.3"
+}

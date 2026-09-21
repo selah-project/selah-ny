@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 37:3",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo mfumu Tsidkiyahu inatumiza ⟨את⟩ Yehukalu mwana wa Shelemiyahu ndi ⟨את⟩ Tsefaniyahu mwana wa Maaseyahu wansembe, kwa Yirmiyahu mneneri, nati: “Pemphera, ndawe, m'malo mwathu kwa Yahwe Elohim wathu.”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "inatumiza"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehukalu"
+    },
+    {
+      "surface": "יהוכל",
+      "gloss": "Yehukalu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שלמיה",
+      "gloss": "Shelemiyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Tsefaniyahu"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefaniyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "Maaseyahu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mneneri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "התפלל",
+      "gloss": "Pemphera"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndawe"
+    },
+    {
+      "surface": "בעדנו",
+      "gloss": "m'malo mwathu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:47:36.690562752Z",
+  "model": "glm-5.3"
+}

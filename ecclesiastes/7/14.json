@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Mutsiku wa zabwino khala ndi chimwemwe, ndipo mutsiku woipa penyerani; komanso ⟨את⟩ ichi pambali pa ichi Elohim anachita, kuti munthu asapeze kanthu pambuyo pake.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Mutsiku wa"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "zabwino"
+    },
+    {
+      "surface": "היה",
+      "gloss": "khala"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ndi chimwemwe"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ndipo mutsiku"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "woipa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "penyerani"
+    },
+    {
+      "surface": "גם",
+      "gloss": "komanso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ichi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "pambali pa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "chifukwa chake"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "kuti...asapeze"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "asapeze"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pambuyo pake"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "kanthu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:08.363930222Z",
+  "model": "glm-5.3"
+}

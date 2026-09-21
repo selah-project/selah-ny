@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndidzalalikira dzina lako kwa abale anga; pakati pa msonkhano ndidzakuyamika iwe.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Ndidzalalikira"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dzina lako"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "kwa abale anga"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "msonkhano"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "ndidzakuyamika iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:40.659405703Z",
+  "model": "glm-5.3"
+}

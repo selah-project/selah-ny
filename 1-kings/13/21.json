@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 13:21",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo anaitana kwa munthu wa Elohim amene anadza kuchokera ku Yehuda, nati: “Kotero anena Yahwe: Chifukwa unakana kumvera kamwa kwa Yahwe, ndipo sunasunge ⟨את⟩ lamulo limene Yahwe Elohim wako anakulamulira;",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "anaitana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "בא",
+      "gloss": "anadza"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "kuchokera ku Yehuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Kotero"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Chifukwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨kuti⟩"
+    },
+    {
+      "surface": "מרית",
+      "gloss": "unakana kumvera"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kamwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo suna-"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "-sunge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lamulo"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "lamulo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "anakulamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    }
+  ],
+  "timestamp": "2026-09-21T08:39:29.517097626Z",
+  "model": "glm-5.3"
+}

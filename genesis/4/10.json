@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Iye anati: “Wachita chiyani? Mawu a magazi a bale wako akuitana kwa Ine kuchokera m'dziko lapansi.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo Iye anati"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wachita"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "magazi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "a bale wako"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "akuitana"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa Ine"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchokera"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "m'dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:20.086401756Z",
+  "model": "glm-5.3"
+}

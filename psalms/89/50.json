@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Kuli kuti khesedi zako zakale, Adonayi, zimene munamlumbira Davide m'chikhulupiriro chanu?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Kuli kuti"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "khesedi zako"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "zakale"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "munamlumbira"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "m'chikhulupiriro chanu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:39.134619682Z",
+  "model": "glm-5.3"
+}

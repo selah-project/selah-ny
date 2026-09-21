@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ine ndikondwera ndi liwu lanu, monga wina wapeza chilonda chachikulu.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "ndikondwera"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "על",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "liwu lanu"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "monga wina wapeza"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "chilonda"
+    },
+    {
+      "surface": "רב",
+      "gloss": "chachikulu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:35.576506304Z",
+  "model": "glm-5.3"
+}

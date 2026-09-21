@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 73,
+  "translation": "Mpaka ndinalowa m'malo opatulika a El, ndipo ndinazindikira tsirizo lawo.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ndinalowa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "m'malo opatulika a"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "m'malo opatulika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "ndinazindikira"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "tsirizo lawo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:20.600087262Z",
+  "model": "glm-5.3"
+}

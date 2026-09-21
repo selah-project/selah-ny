@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Koma ngaiwa ndi kusemeti sanalumidwe, popeza zinali zosachedwa kukhwima.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "koma ngaiwa"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "ndi kusemeti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "nalumidwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "zosachedwa kukhwima"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zinali"
+    }
+  ],
+  "timestamp": "2026-09-21T06:11:21.169690439Z",
+  "model": "glm-5.3"
+}

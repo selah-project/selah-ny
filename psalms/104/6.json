@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 104,
+  "translation": "Anthafi munaphimba ⟨iyo⟩ ngati chovala; madzi ayimirira pa mapiri.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Anthafi"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "ngati chovala"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "munaphimba"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ayimirira"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:30.124618861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 91,
+  "translation": "Koma m'maso mako okha udzaona, ndipo mphotho ya oipa udzaiona.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "koma okha"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "m'maso mako"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "udzaona mwadala"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "ndipo mphotho"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya oipa"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "udzaiona"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:34.191861932Z",
+  "model": "glm-5.3"
+}

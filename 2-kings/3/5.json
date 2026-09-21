@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 3:5",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo chinachitika pamene Achav anamwalira, kuti mfumu ya Moabu inapandukira mfumu ya Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "chinachitika"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "pamene anamwalira"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "inapandukira"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:47:55.025908503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo anatumiza ⟨את⟩ Rivkah mlongo wawo, ndi ⟨את⟩ mulere wake, ndi ⟨את⟩ kapolo wa Avraham, ndi ⟨את⟩ anthu ake.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "anatumiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivkah"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkah"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "mlongo wawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mulere wake"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "mulere wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "kapolo wa Avraham"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kapolo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "wa Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "anthu ake"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "anthu ake"
+    }
+  ],
+  "timestamp": "2026-09-21T05:52:16.736165275Z",
+  "model": "glm-5.3"
+}

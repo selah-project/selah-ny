@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 86,
+  "translation": "Tsiku la mavuto anga ndidzakuitana, pakuti iwe undiyankha.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "tsiku la"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "mavuto anga"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "ndidzakuitana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "undiyankha"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:57.215202657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo anaika golido yoyera pa ⟨אתו⟩, ndipo anapanga chidebwe cha golido kuzungulira.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "anaika golido pa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "chake"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golido"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "yoyera"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chake"
+    },
+    {
+      "surface": "זר",
+      "gloss": "chidebwe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "cha golido"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kuzungulira"
+    }
+  ],
+  "timestamp": "2026-09-21T06:27:05.211449944Z",
+  "model": "glm-5.3"
+}

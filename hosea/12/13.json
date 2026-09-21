@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo Yaakobo adathawa ku munda wa Aramu, ndipo Yisraeli anatumikira mwamkazi, ndipo mwamkazi anasunga ⟨nkhosa⟩.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "adathawa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ku munda"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "wa Aramu"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "anatumikira"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "mwamkazi"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "ndipo mwamkazi"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "anasunga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:21:47.291666430Z",
+  "model": "glm-5.3"
+}

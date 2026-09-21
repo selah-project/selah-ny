@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo Toi mfumu ya Hamati anamva kuti Davide anamenya ⟨את⟩ gulu lonse la Hadadezeri.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "anamva"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ya Hamati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "anamenya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gulu lonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "gulu"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "la Hadadezeri"
+    }
+  ],
+  "timestamp": "2026-09-21T08:18:44.562593205Z",
+  "model": "glm-5.3"
+}

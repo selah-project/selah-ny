@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo tsiku lino lidzakhala lakwanu chikumbutiro; ndipo mudzachitira ⟨את⟩ iye chikondwerero cha Yahwe, m'mibadwo yanu yonse — chilamulo chosatha: mudzachichitira chikondwerero.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "lidzakhala"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku lino"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lino"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lakwanu"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "chikumbutiro"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "mudzachitira chikondwerero"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "chikondwerero"
+    },
+    {
+      "surface": "חג",
+      "gloss": "chikondwerero"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cha Yahwe"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "m'mibadwo yanu"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "chilamulo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "chosatha"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "mudzachichitira chikondwerero"
+    }
+  ],
+  "timestamp": "2026-09-21T06:13:52.137014782Z",
+  "model": "glm-5.3"
+}

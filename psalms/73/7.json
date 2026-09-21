@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 73,
+  "translation": "Maso awo amatulukira ndi kulengedwa, mitima yawo idapitirira maganizo a mtima.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "amatulukira"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ndi kulengedwa"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "maso awo"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "idapitirira"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "maganizo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "a mtima"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:18.976131260Z",
+  "model": "glm-5.3"
+}

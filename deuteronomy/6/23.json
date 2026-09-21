@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo ife ⟨את⟩ adatulutsa kumeneko, kuti alowetse ⟨את⟩ ife, kuti apereke kwa ife ⟨את⟩ dziko limene analumbira kwa makolo athu.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "Ndipo ife ⟨את⟩"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "adatulutsa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "alowetse"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ife"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kuti apereke"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa ife"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "analumbira"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "kwa makolo athu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:15:44.332096483Z",
+  "model": "glm-5.3"
+}

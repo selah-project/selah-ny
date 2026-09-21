@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Ndipo Yisraeli analowa m'Mitsrayimu, ndipo Yakobo anakhala njalonjalo m'dziko la Cham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ndipo analowa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "m'Mitsrayimu"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ndipo Yakobo"
+    },
+    {
+      "surface": "גר",
+      "gloss": "anakhala njalonjalo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "חם",
+      "gloss": "la Cham"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:07.187943547Z",
+  "model": "glm-5.3"
+}

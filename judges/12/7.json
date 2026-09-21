@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo Yiftahi anaweruza ⟨את⟩ Yisraeli zaka zisanu ndi limodzi; ndipo Yiftahi wachoka ku Gilad anafa, ndipo anaikidwa m'manda m'misipa ya Gilad.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "anaweruza"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "שש",
+      "gloss": "zisanu ndi limodzi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "anafa"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftahi"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "wachoka ku Gilad"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "anaikidwa m'manda"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "m'misipa"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ya Gilad"
+    }
+  ],
+  "timestamp": "2026-09-21T07:54:10.532831142Z",
+  "model": "glm-5.3"
+}

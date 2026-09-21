@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo anati kwa ine: “Mwana wa munthu, yimika pa mapazi ako, ndipo ndidzakuyankhula ⟨את⟩ iwe.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa munthu"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "yimika"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "mapazi ako"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "ndipo ndidzakuyankhula"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ iwe",
+      "marks": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T09:55:02.402392734Z",
+  "model": "glm-5.3"
+}

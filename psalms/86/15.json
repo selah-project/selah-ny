@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 86,
+  "translation": "Koma iwe, Adonayi, ndi El wachifundo ndi wachisomo, wolekera kukwiya, ndi wochuluka m'khesedi ndi m'choonadi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "koma iwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "wachifundo"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "ndi wachisomo"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "wolekera"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "kukwiya"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ndi wochuluka"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "m'khesedi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ndi m'choonadi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:44.337374095Z",
+  "model": "glm-5.3"
+}

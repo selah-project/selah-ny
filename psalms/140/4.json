@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 140,
+  "translation": "Anenetsa malilime awo ngati ya njoka; za njoka yazithunzithunzi zili pansi pa milomo yawo. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "anenetsa"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "malilime awo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "njoka"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "za"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "njoka yazithunzithunzi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "milomo yawo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:36.777798178Z",
+  "model": "glm-5.3"
+}

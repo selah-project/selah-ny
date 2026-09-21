@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ana a Merari, m'mabanja awo, m'mipando ya makolo awo, muwerenge ⟨את⟩ iwo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ana a"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "m'mabanja awo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "m'mipando ya"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "makolo awo"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "muwerenge"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo (ana a Merari)"
+    }
+  ],
+  "timestamp": "2026-09-21T06:51:01.823887908Z",
+  "model": "glm-5.3"
+}

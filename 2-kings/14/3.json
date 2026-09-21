@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 14:3",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Anachita cholungama pamaso pa Yahwe; koma sanakhale monga Dawidi atate wake; monga zonse zimene Yoashi atate wake anazichita, nazichita.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "cholungama"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "koma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana(nakhale)"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "monga Dawidi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atate wake"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "monga zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anazichita"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoashi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atate wake"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nazichita"
+    }
+  ],
+  "timestamp": "2026-09-21T08:54:14.421805209Z",
+  "model": "glm-5.3"
+}

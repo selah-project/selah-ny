@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 78:44",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Ndipo anasandutsa kukhala magazi mitsinje yawo, ndi madzi awo okhalitsa, sadzatha kumwa.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "anasandutsa"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "kukhala magazi"
+    },
+    {
+      "surface": "יאריהם",
+      "gloss": "mitsinje yawo"
+    },
+    {
+      "surface": "ונזליהם",
+      "gloss": "ndi madzi awo okhalitsa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sadzatha"
+    },
+    {
+      "surface": "ישתיון",
+      "gloss": "kumwa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:49.785625503Z",
+  "model": "glm-5.3"
+}

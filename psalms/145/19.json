@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 145,
+  "translation": "Chifuniro cha oopa Yahwe adzachita; ndipo ⟨את⟩ kufuula kwawo adzamva, nadzapulumutsa ⟨iwo⟩.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "chifuniro"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "cha oopa Yahwe"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "adzachita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "kufuula kwawo"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "kufuula kwawo"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "adzamva"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "nadzapulumutsa ⟨iwo⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:34.606281914Z",
+  "model": "glm-5.3"
+}

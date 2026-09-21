@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo Yahwe anati: “Ndidzachotsa ⟨את⟩ munthu umene ndinalenga ku nkhope ya dziko lapansi, kuyambira munthu mpaka nyama, mpaka zolowolowa, ndi mpaka mbalame za kumwamba; chifukwa ndinamva chisoni kuti ndinazipanga.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "Ndidzachotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munthu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "ndinalenga"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ya dziko lapansi"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "kuyambira munthu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "zolowolowa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ndi mpaka"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "mbalame"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "za kumwamba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "ndinamva chisoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ndinazipanga"
+    }
+  ],
+  "timestamp": "2026-09-21T05:45:01.522743699Z",
+  "model": "glm-5.3"
+}

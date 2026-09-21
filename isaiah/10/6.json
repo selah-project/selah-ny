@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 10:6",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Kwa mtundu wachinyengo ndidzamutuma, ndipo kwa anthu a mkwiyo wanga ndidzamulamulira, kuti awombo ziwombo ndi kulanda chilanda, ndi kuwachitira kukandidwa ngati dothi pa mizembe.",
+  "tokens": [
+    {
+      "surface": "בגוי",
+      "gloss": "kwa mtundu"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "wachinyengo"
+    },
+    {
+      "surface": "אשלחנו",
+      "gloss": "ndidzamutuma"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndipo kwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "a mkwiyo wanga"
+    },
+    {
+      "surface": "אצונו",
+      "gloss": "ndidzamulamulira"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "kuti awombo"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ziwombo"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "ndi kulanda"
+    },
+    {
+      "surface": "בז",
+      "gloss": "chilanda"
+    },
+    {
+      "surface": "ולשימו",
+      "gloss": "ndi kuwachitira"
+    },
+    {
+      "surface": "מרמס",
+      "gloss": "kukandidwa"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "ngati dothi"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "pa mizembe"
+    }
+  ],
+  "timestamp": "2026-09-21T09:05:11.736504850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 105:37",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Ndipo adawatulutsa ndi siliva ndi golide, ndipo panali wosavunda m'mafuko ake.",
+  "tokens": [
+    {
+      "surface": "ויוציאם",
+      "gloss": "adawatulutsa"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ndi siliva"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ndi golide"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo panali"
+    },
+    {
+      "surface": "בשבטיו",
+      "gloss": "m'mafuko ake"
+    },
+    {
+      "surface": "כושל",
+      "gloss": "wosavunda"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:52.046872255Z",
+  "model": "glm-5.3"
+}

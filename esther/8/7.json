@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 8:7",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo mfumu Ahashuveroshi ananena kwa Estere mfumibazi ndi kwa Mordekayi Mjudi: “Onani, nyumba ya Hamani ndapatsa Estere, ndipo iye ⟨את⟩ anamulinga pa mtengo, chifukwa chakuti anatambasula dzanja lake pa Ayuda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo … ananena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אחשורש",
+      "gloss": "Ahashuveroshi"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kwa Estere"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "mfumibazi"
+    },
+    {
+      "surface": "ולמרדכי",
+      "gloss": "ndi kwa Mordekayi"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "Mjudi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Onani"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ya Hamani"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndapatsa"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Estere"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ndipo iye ⟨את⟩",
+      "marks": "iye (Hamani)"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "anamulinga"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "mtengo"
+    },
+    {
+      "surface": "על",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chakuti"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "anatambasula"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "pa Ayuda"
+    }
+  ],
+  "timestamp": "2026-09-21T12:03:16.007688173Z",
+  "model": "glm-5.3"
+}

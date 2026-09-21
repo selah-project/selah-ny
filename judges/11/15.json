@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "nati kwa iye: “Kotero ananena Yefutahi: Yisraeli sinatenga ⟨את⟩ dziko la Moabu, ndipo ⟨את⟩ dziko la ana a Amoni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kotero"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yefutahi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sina-"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "-tenga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko la Moabu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "la Moabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "dziko la ana a Amoni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "a Amoni"
+    }
+  ],
+  "timestamp": "2026-09-21T07:53:35.540116630Z",
+  "model": "glm-5.3"
+}

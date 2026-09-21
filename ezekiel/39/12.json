@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndipo nyumba ya Yisraeli idzayika manda iwo, kuti iyeretse ⟨את⟩ dziko, miyezi isanu ndi iwiri.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "idzayika manda iwo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "iyeretse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "isanu ndi iwiri"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "miyezi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:13:31.196898102Z",
+  "model": "glm-5.3"
+}

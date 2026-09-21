@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo anatembenuza ⟨את⟩ nkhope yake ku khoma, napemphera kwa Yahwe, nati:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "anatembenuza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhope yake"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "nkhope yake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "khoma"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "napemphera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    }
+  ],
+  "timestamp": "2026-09-21T08:59:02.064040565Z",
+  "model": "glm-5.3"
+}

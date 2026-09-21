@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Kodi nzeru siimaitana, ndipo chidziwitso sichipereka liwu lake?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "kodi ... si"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "nzeru"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "siimaitana"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "ndipo chidziwitso"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "sichipereka"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "liwu lake"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:32.574563844Z",
+  "model": "glm-5.3"
+}

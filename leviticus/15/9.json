@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo chokweralo chilichonse chimene wolowa adazichikwera pa chake, chidzadetsedwa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ndipo … chilichonse"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "chokweralo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "adazikwera"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa chake"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "wolowa"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "chidzadetsedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:39:55.350360013Z",
+  "model": "glm-5.3"
+}

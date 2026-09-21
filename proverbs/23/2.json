@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo ika mundu pa khomo lako, ngati uli wokhonda kudya.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ndipo ika"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "mundu"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "pa khomo lako"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "wokhonda"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kudya (moyo)"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uli iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:26:23.096573723Z",
+  "model": "glm-5.3"
+}

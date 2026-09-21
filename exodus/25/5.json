@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "ndi machira ga nkhosa zamphongo zofewa mtima zaṣoopsa, ndi machira ga tehashimu, ndi mitengo ya shishimu;",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "ndi machira ga"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "nkhosa zamphongo"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "zofewa mtima zaṣoopsa"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "ndi machira ga"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tehashimu"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "ndi mitengo ya"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shishimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:19:20.806363847Z",
+  "model": "glm-5.3"
+}

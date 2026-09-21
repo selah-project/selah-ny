@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Nena kwa Zerubabeli, woweruza wa Yehudah, nati: Ine ndikunyazaza ⟨את⟩ kumwamba ndi ⟨את⟩ dziko lapansi;",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Nena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubabeli"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "woweruza"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ndikunyazaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kumwamba"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "dziko lapansi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:34:25.267201292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo Yeshayahu anati kwa Hizkiyahu: “Mva liwu la Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Mva"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:59:05.618792233Z",
+  "model": "glm-5.3"
+}

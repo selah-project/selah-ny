@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Ndipo ana a Yisraeli anachotsa ⟨את⟩ zokometsera zawo kuchokera pa phiri la Chorebu.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "anachotsa pa iwo okha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zokometsera zawo"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "zokometsera zawo"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "kuchokera pa phiri la"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Chorebu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:24:39.555503460Z",
+  "model": "glm-5.3"
+}

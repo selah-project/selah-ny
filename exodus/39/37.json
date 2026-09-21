@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 39:37",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "⟨את⟩ menorah yoyera, ⟨את⟩ nyali zake, nyali za mchirikizo, ndi ⟨את⟩ zida zake zonse, ndi ⟨את⟩ mafuta owala;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menorah yoyera"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menorah yoyera"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "yoyera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyali zake"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "nyali zake"
+    },
+    {
+      "surface": "נרת",
+      "gloss": "nyali"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "za mchirikizo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zida zake zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "zida zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mafuta owala"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "owala"
+    }
+  ],
+  "timestamp": "2026-09-21T12:57:36.839438062Z",
+  "model": "glm-5.3"
+}

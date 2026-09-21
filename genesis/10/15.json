@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo Kenana anabala ⟨את⟩ Sidoni woyamba kubadwa wake, ndi ⟨את⟩ Heti.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Ndipo Kenana"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sidoni"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Sidoni"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "woyamba kubadwa wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Heti"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heti"
+    }
+  ],
+  "timestamp": "2026-09-21T05:45:51.673205583Z",
+  "model": "glm-5.3"
+}

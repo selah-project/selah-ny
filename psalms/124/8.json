@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 124,
+  "translation": "Thandizo lathu lili m'dzina la Yahwe, mene analenga kumwamba ndi dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Thandizo lathu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "m'dzina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mene analenga"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ndi dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:32.964298913Z",
+  "model": "glm-5.3"
+}

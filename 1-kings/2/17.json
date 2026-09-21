@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 2:17",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo iye adati: “Nena, ndapempha, kwa Shelomo mfumu, pakuti sadzabweza ⟨את⟩ nkhope yako, kuti apatse ine ⟨את⟩ Avishag wa ku Shunemi ukhale mkazi.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo iye adati"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "nena"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapempha"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kwa Shelomo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "-dzabweza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhope yako"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nkhope yako"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "apatse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishag wa ku Shunemi"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "wa ku Shunemi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ukhale mkazi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:32:30.413449328Z",
+  "model": "glm-5.3"
+}

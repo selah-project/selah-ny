@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Tamari, mkazi wa mwana wake, anamubadetsa ⟨את⟩ Peretsi ndi ⟨את⟩ Zaraki. Ana onse a Yehudha anali chisanu.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Ndipo Tamari"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "mkazi wa mwana wake"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "anamubadetsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peretsi"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peretsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Zaraki"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zaraki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "chisanu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:23:28.200082628Z",
+  "model": "glm-5.3"
+}

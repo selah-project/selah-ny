@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Malamulo ako andipatsa nzeru; chifukwa chake ndidana ndi njira iliyonse ya bodza.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "Malamulo ako"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "andipatsa nzeru"
+    },
+    {
+      "surface": "על",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chake"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ndidana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iliyonse"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "njira"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bodza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:24.565168801Z",
+  "model": "glm-5.3"
+}

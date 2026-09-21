@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo ndidzakhala pakati pa ana a Yisraeli, ndipo sindidzasiya ⟨את⟩ anthu anga Aisraeli.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "ndidzakhala"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sindidza"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu anga Aisraeli"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "anthu anga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Aisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:34:49.943843972Z",
+  "model": "glm-5.3"
+}

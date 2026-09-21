@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo Moshe anayandikira ⟨את⟩ chiweruzo chawo pamaso pa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "anayandikira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiweruzo chawo"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "chiweruzo chawo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T07:07:26.366416758Z",
+  "model": "glm-5.3"
+}

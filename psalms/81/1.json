@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 81,
+  "translation": "Kwa woyang'anira, pa Hagitit, la Asafu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Hagitit"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "la Asafu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:37.705282476Z",
+  "model": "glm-5.3"
+}

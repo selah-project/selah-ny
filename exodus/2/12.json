@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo anayang'ana kuno ndi kumeneko, ndipo anaona kuti palibe munthu, namenya ⟨את⟩ munthu wa ku Mitsrayimu, namubisa mu mchenga.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "anayang'ana"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kuno"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ndi kumeneko"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "namenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munthu wa ku Mitsrayimu"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "wa ku Mitsrayimu"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "namubisa"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "mu mchenga"
+    }
+  ],
+  "timestamp": "2026-09-21T06:07:39.188171105Z",
+  "model": "glm-5.3"
+}

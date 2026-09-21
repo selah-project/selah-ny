@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo ngati munthu wamenya kapolo wake ⟨את⟩ kapena woyenza wake ⟨את⟩ ndi chimango, ndipo anafa m'dzanja lake, kulangidwa adzalangidwa ndithu.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ndipo ngati"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "wamenya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapolo wake"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "kapolo wake"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "woyenza wake"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "woyenza wake"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ndi chimango"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ndipo anafa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "m'manja"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "lake"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "kulangidwa"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "adzalangidwa ndithu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:56.996140005Z",
+  "model": "glm-5.3"
+}

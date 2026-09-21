@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo ine ndamanga nyumba yokhazikirako, malo ovomerezeka lakukhalako ku nthawi zonse.”",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ndipo ine"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ndamanga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "yokhazikirako"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lakwa iwe"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "malo ovomerezeka"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "lakukhalako kwako"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ku nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T12:37:47.334876311Z",
+  "model": "glm-5.3"
+}

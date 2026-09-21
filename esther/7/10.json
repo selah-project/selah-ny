@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo anatinka ⟨את⟩ Haman pa mtengo umene anawukonza wa Mordekayi; ndipo mkwiyo wa mfumu unafuwuka.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "anatinka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "mtengo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "anawukonza"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "wa Mordekayi"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "ndipo mkwiyo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa mfumu"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "unafuwuka"
+    }
+  ],
+  "timestamp": "2026-09-21T12:01:27.941153653Z",
+  "model": "glm-5.3"
+}

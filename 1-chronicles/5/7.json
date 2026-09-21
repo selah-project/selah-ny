@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 5:7",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo abale ake m'mabanja awo, pamene mbadwo wawo akuwerengedwa, atsogoleri anali Yeiyeli ndi Zekariyahu.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "Ndipo abale ake"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "m'mabanja awo"
+    },
+    {
+      "surface": "בהתיחש",
+      "gloss": "pamene mbadwo akuwerengedwa"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "mbadwo wawo"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "atsogoleri anali"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "Yeiyeli"
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "ndi Zekariyahu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:23:48.771919574Z",
+  "model": "glm-5.3"
+}

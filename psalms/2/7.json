@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndidzalalikira za lamulo: Yahwe anati kwa ine: “Iwe ndiwe mwana wanga; lero ndinakubala iwe.”",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Ndidzalalikira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "za"
+    },
+    {
+      "surface": "חק",
+      "gloss": "lamulo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana wanga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "ndinakubala iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:31.353059877Z",
+  "model": "glm-5.3"
+}

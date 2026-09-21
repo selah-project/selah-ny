@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Kuti asunge malamulo ake ndi machilamuloke a Tora yake asunge. Lemekezani Yah.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Kuti"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "asunge"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "malamulo ake"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "ndi Tora yake"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "asunge"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lemekezani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:50.128681572Z",
+  "model": "glm-5.3"
+}

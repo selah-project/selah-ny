@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 103,
+  "translation": "Lemekezani Yahwe, angelo ake, amphamvu zamphamvu, ochita mawu ake, kumvera mawu a mawu ake.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Lemekezani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "angelo ake"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "amphamvu"
+    },
+    {
+      "surface": "כח",
+      "gloss": "zamphamvu"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ochita"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "mawu ake"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kumvera"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "mawu ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:48.294415568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndikhululukireni, Yahwe, chifukwa ndawasuka; ndichiritseni, Yahwe, chifukwa mafupa anga akumva mantha.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ndikhululukireni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "ndawasuka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "ndichiritseni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "akumva mantha"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mafupa anga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:59.498141623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 121,
+  "translation": "Yahwe adzakusunga iwe ku choonadi chilichonse; adzasunga ⟨את⟩ moyo wako.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "adzakusunga iwe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ku … chilichonse"
+    },
+    {
+      "surface": "רע",
+      "gloss": "choonadi"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "adzasunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wako"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moyo wako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:35.913467278Z",
+  "model": "glm-5.3"
+}

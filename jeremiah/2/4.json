@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Mverani liwu la Yahwe, inu banja la Yakobo, ndi mabanja onse a banja la Yisraeli.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mverani"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "banja"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "la Yakobo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi onse"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "mabanja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a banja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "la Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T09:27:25.619163034Z",
+  "model": "glm-5.3"
+}

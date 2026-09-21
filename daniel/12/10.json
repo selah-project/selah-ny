@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 12:10",
+  "book": "daniel",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ambiri adzayeretsedwa ndi kudziyeretsa, adzayera ngati nsabwe, ndi kusenthedwa; koma oipa adzachita zoipa, ndipo oipa onse sadzazindikira; koma anzeru adzazindikira.",
+  "tokens": [
+    {
+      "surface": "יתבררו",
+      "gloss": "adzayeretsedwa ndi kudziyeretsa"
+    },
+    {
+      "surface": "ויתלבנו",
+      "gloss": "adzayera ngati nsabwe"
+    },
+    {
+      "surface": "ויצרפו",
+      "gloss": "ndi kusenthedwa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Ambiri"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "adzachita zoipa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "oipa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sadza"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "zindikira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "oipa"
+    },
+    {
+      "surface": "והמשכלים",
+      "gloss": "koma anzeru"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "adzazindikira"
+    }
+  ],
+  "timestamp": "2026-09-21T12:10:27.452378616Z",
+  "model": "glm-5.3"
+}

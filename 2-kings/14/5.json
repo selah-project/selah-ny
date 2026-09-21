@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo panachitika, pamene ufumu ukanakhazikika m'dzanja lake, iye anagunda ⟨את⟩ atumiki ake, omwe anagunda ⟨את⟩ mfumu atate wake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "panachitika"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "pamene"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "ukanakhazikika"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ufumu"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "m'dzanja lake"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "anagunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atumiki ake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "atumiki ake"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "omwe anagunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfumu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atate wake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:55:08.377019301Z",
+  "model": "glm-5.3"
+}

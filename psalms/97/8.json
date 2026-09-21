@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 97,
+  "translation": "Tsiyoni inamva ndipo inakondwera, ndipo ana aakazi a Yudá analemekere chifukwa cha miweruzo yako, Yahwe.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "inamva"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "ndipo inakondwera"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "ndipo analemekere"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ana aakazi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yudá"
+    },
+    {
+      "surface": "למען",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "miweruzo yako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:49.375570152Z",
+  "model": "glm-5.3"
+}

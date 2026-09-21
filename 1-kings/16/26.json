@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 16:26",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Pakuti anayenda m'njira zonse za Yaravamu mwana wa Nevati, ndi mphulupulu zake zimene anachititsa ⟨את⟩ Yisraeli kulakwitsa, kukwiyitsa ⟨את⟩ Yahwe, Elohim wa Yisraeli, ndi zopanda pake zawo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "m'zonse"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevati"
+    },
+    {
+      "surface": "ובחטאתיו",
+      "gloss": "ndi mphulupulu zake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "anachititsa kulakwitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "kukwiyitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "ndi zopanda pake zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:41:51.886498569Z",
+  "model": "glm-5.3"
+}

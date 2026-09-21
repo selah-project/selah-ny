@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndipo ana a Gadi anamanga ⟨את⟩ Diboni, ndi ⟨את⟩ Atarothi, ndi ⟨את⟩ Aroeri.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "anamanga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Diboni"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Diboni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Atarothi"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarothi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Aroeri"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroeri"
+    }
+  ],
+  "timestamp": "2026-09-21T07:09:31.322203297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 129,
+  "translation": "Nyimbo ya makwero. Kwambiri anandinyezetsa kuyambira ubwana wanga; tsopano Yisraeli aputse kuti:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya makwero"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Kwambiri"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "anandinyezetsa"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "kuyambira ubwana wanga"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "aputse kuti"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:56.994865406Z",
+  "model": "glm-5.3"
+}

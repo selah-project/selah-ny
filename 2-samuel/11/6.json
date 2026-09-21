@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Davidi anatumiza kwa Yoavu, nati: “Tumizira ine ⟨את⟩ Uriya Muhiti.” Ndipo Yoavu anatumiza ⟨את⟩ Uriya kwa Davidi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "anatumiza"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoavu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "tumizira"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Muhiti"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "anatumiza"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoavu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:21:16.382408780Z",
+  "model": "glm-5.3"
+}

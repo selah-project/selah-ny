@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 26:8",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Avishayi anati kwa Davide: “Elohim watseka lero ⟨את⟩ mdani wako mu dzanja lako; ndipo tsopano, ndilole kum'phasa ndi mkondo, ndi kumitsa m'dziko, kamodzi kokha, ndipo sindidzabwerza kwa iye.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avishayi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "watseka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mdani wako"
+    },
+    {
+      "surface": "אויבך",
+      "gloss": "mdani wako"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mu dzanja lako"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ndipo tsopano"
+    },
+    {
+      "surface": "אכנו",
+      "gloss": "kum'phasa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndilole"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "ndi mkondo"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "ndi kumitsa m'dziko"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "kamodzi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kokha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sindidza"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "bwerza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T08:15:39.123077650Z",
+  "model": "glm-5.3"
+}

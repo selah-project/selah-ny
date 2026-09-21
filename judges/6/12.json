@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 6:12",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo mthenga wa Yahwe anaonekera kwa iye, nati kwa iye: “Yahwe ali nawe, iwe munthu wamphamvu wa mtima.”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "anaonekera"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mthenga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ali nawe"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "munthu wamphamvu"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "wa mtima"
+    }
+  ],
+  "timestamp": "2026-09-21T07:47:52.322323708Z",
+  "model": "glm-5.3"
+}

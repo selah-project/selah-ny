@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 8:7",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo anaika pa iye ⟨את⟩ kanzu, ndipo anamupingasa ⟨את⟩ iye ndi chopingaso, ndipo anamuvwala ⟨את⟩ iye ⟨את⟩ mkanjo, ndipo anaika pa iye ⟨את⟩ efodi, ndipo anamupingasa ⟨את⟩ iye ndi chosonkedwa cha efodi, nndipo anamumanga n'chacho.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "anaika"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanzu"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "kanzu"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "anamupingasa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "iye (Aharon)"
+    },
+    {
+      "surface": "באבנט",
+      "gloss": "ndi chopingaso"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "anamuvwala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "iye (Aharon)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkanjo"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "mkanjo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "anaika"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodi"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "anamupingasa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "iye (Aharon)"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "ndi chosonkedwa"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "cha efodi"
+    },
+    {
+      "surface": "ויאפד",
+      "gloss": "anamumanga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "בו",
+      "gloss": "n'chacho"
+    }
+  ],
+  "timestamp": "2026-09-21T06:35:46.078048507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 46,
+  "translation": "Kwa woyang'anira ⟨nzamba⟩, wa ana a Korach, pa {{Alamothi}}, nyimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira ⟨nzamba⟩"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wa ana a"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Alamothi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyimbo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:13.443810755Z",
+  "model": "glm-5.3"
+}

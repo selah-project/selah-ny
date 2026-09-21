@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo iwe udzalamulira ⟨את⟩ ana a Yisraeli, ndipo adzakutengera mafuta a azitontho, oyera, otupudwa, chowunikira, kuti adzayatsa nyale koikikana.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "udzalamulira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "adzakutengera"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "זית",
+      "gloss": "a azitontho"
+    },
+    {
+      "surface": "זך",
+      "gloss": "oyera"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "otupudwa"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "chowunikira"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "kuti adzayatse"
+    },
+    {
+      "surface": "נר",
+      "gloss": "nyale"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "koikikana"
+    }
+  ],
+  "timestamp": "2026-09-21T06:20:43.031924868Z",
+  "model": "glm-5.3"
+}

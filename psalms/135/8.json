@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 135,
+  "translation": "Amene anamenya oyamba kubadwa a Mitsrayimu, kuyambira munthu mpaka nyama.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Amene anamenya"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "oyamba kubadwa a"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "kuyambira munthu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "nyama"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:55.643152497Z",
+  "model": "glm-5.3"
+}

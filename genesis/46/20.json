@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 46:20",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 46,
+  "translation": "Ndipo kwa Yosef anabadwa, m'dziko la Mitsrayimu, amene Asenati, mwana wa Poti-fera wansembe wa Oni, anamubalira iye: ⟨את⟩ Menashe ndi ⟨את⟩ Efrayim.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Ndipo anabadwa"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "kwa Yosef"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "anamubalira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "Asenati"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "Poti-"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "fera"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "אן",
+      "gloss": "wa Oni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-09-21T06:04:51.240924333Z",
+  "model": "glm-5.3"
+}

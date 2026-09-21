@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo anthu a Yisraeli anatuluka ku Mitzpa, nasanthula ⟨את⟩ Afilisti, nakuwapha mpaka m'munsi mwa Beit-Kari.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "anatuluka"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "anthu a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitzpa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "nasanthula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Afilisti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilisti"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "nakuwapha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "m'munsi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mwa Beit-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kari"
+    }
+  ],
+  "timestamp": "2026-09-21T08:01:03.385905331Z",
+  "model": "glm-5.3"
+}

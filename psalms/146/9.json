@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 146,
+  "translation": "Yahwe amasunga ⟨את⟩ alendo, wamasiye ndi wamasiyeyamuna ⟨wamasiyeyamuna⟩ amamulimbikitsa, koma njira ya oipa amazunza.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "amasunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alendo"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "alendo"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "wamasiye"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "ndi wamasiyeyamuna"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "amamulimbikitsa"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "koma njira ya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "oipa"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "amazunza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:26.928302814Z",
+  "model": "glm-5.3"
+}

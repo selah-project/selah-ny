@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Anapha mipesa yawo ndi chilenga, ndi mikuyu yawo ndi chigodola.",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "Anapha"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "ndi chilenga"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "mipesa yawo"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "mikuyu yawo"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "ndi chigodola"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:12.960274542Z",
+  "model": "glm-5.3"
+}

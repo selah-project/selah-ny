@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Koma tsegula ndi kutsegula ⟨את⟩ dzanja lako kwa iye, ndipo mupereke ngongole kwa iye ndithu, yokwanira kusowa kwake kumene akusowa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Koma"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "tsegula"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "kutsegula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzanja lako"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dzanja lako"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "mupereke ngongole"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "mumpereke ngongole ndithu"
+    },
+    {
+      "surface": "די",
+      "gloss": "yokwanira"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "kusowa kwake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kumene"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "akusowa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T07:21:49.805851111Z",
+  "model": "glm-5.3"
+}

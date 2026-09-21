@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo Davide anapatsa Shelomoh mwana wake ⟨את⟩ chithunzithunzi cha doko, ndi ⟨את⟩ zipinda zake, ndi malo a katundu wake, ndi mipata yake, ndi zipinda zake za mkati, ndi nyumba ya chikhomo cha pakati.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ndipo anapatsa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chithunzithunzi cha doko"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "chithunzithunzi"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "cha doko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zipinda zake"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "zipinda zake"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "ndi malo a katundu wake"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "ndi mipata yake"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "ndi zipinda zake"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "za mkati"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ndi nyumba"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ya chikhomo cha pakati"
+    }
+  ],
+  "timestamp": "2026-09-21T12:35:35.974183119Z",
+  "model": "glm-5.3"
+}

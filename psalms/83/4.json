@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 83,
+  "translation": "Pa anthu ako akupanga chidani chamseri, ndipo akupanga mphanda pa zobisika zawo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "anthu ako"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "akupanga chamseri"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "chidani"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "ndipo akupanga mphanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "zobisika zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:04.591947627Z",
+  "model": "glm-5.3"
+}

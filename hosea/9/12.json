@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ngakhale adzakulitsa ⟨את⟩ ana awo, ndidzawatayitsa anthu okhaokha; koma tsoka kwa iwo pamene ndidzachokera kwa iwo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngakhale"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngakhale"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "adzakulitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana awo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ana awo"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "ndidzawatayitsa"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "anthu okhaokha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koma"
+    },
+    {
+      "surface": "גם",
+      "gloss": "komanso"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "tsoka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "pamene ndidzachokera"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kwa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:21:54.513606519Z",
+  "model": "glm-5.3"
+}

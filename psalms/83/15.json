@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 83,
+  "translation": "Monga moto umathyola chikhalire, ndi monga la mvula ya moto likuyaka mapiri.",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "Monga moto"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "umathyola"
+    },
+    {
+      "surface": "יער",
+      "gloss": "chikhalire"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "ndi monga la mvula ya moto"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "likuyaka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mapiri"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:43.156586568Z",
+  "model": "glm-5.3"
+}

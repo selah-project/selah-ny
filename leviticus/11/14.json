@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo ⟨את⟩ hada'a, ndi ⟨את⟩ ha'aya, monga mtundu wake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "hada'a"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "hada'a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ha'aya"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ha'aya"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "monga mtundu wake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:33:46.701138785Z",
+  "model": "glm-5.3"
+}

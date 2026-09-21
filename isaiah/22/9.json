@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo ⟨את⟩ machulukidwe a mzinda wa Dawidi munaona, pakuti awachuluka; ndipo munasonkhanitsa ⟨את⟩ madzi a bwalo la pansi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "machulukidwe"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "machulukidwe a mimba ya ukhomo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "munaona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "awachuluka"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "ndipo munasonkhanitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madzi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "a bwalo"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "la pansi"
+    }
+  ],
+  "timestamp": "2026-09-21T09:08:20.777080042Z",
+  "model": "glm-5.3"
+}

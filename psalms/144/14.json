@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 144,
+  "translation": "Ng'ombe zathu zinyamula zolemera; palibe chathyoka, ndipo palibe wotuluka, ndipo palibe kuwodola m'mabwalo athu.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "ng'ombe zathu"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "zinyamula zolemera"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "chathyoka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "wotuluka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "kuwodola"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "m'mabwalo athu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:50.784264335Z",
+  "model": "glm-5.3"
+}

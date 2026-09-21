@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 103,
+  "translation": "Sanachitire ife monga mwa machimo athu, ndipo sanatipheera monga mwa zoipa zathu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sa- (sanachitire)"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "monga mwa machimo athu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachitira"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sa- (sanatipheere)"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "monga mwa zoipa zathu"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "anatipheera"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kwa ife"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:28.409450290Z",
+  "model": "glm-5.3"
+}

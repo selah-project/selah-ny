@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo iye anati: “Apatsidwe ⟨את⟩ Avishagi wa ku Shunamu kwa Adoniyahu, m'bale wako, kuti akhale mkazi wake.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ndipo iye anati"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "Apatsidwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishagi"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avishagi"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "wa ku Shunamu"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "kwa Adoniyahu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "m'bale wako"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kuti akhale mkazi wake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:31:37.730997265Z",
+  "model": "glm-5.3"
+}

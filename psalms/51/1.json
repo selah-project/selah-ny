@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 51,
+  "translation": "Kwa woyang'anira ⟨nyimbo⟩; mzimuno wa Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kwa woyang'anira"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mzimuno"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:40.646015639Z",
+  "model": "glm-5.3"
+}

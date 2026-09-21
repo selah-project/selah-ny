@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Nthawi yofunafuna, ndi nthawi yotaya; nthawi yosunga, ndi nthawi yoponya.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "nthawi"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "yofunafuna"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ndi nthawi"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "yotaya"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nthawi"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "yosunga"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ndi nthawi"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "yoponya"
+    }
+  ],
+  "timestamp": "2026-09-21T11:54:39.248824771Z",
+  "model": "glm-5.3"
+}

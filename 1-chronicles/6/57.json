@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Kufuma m'fuko la Yisakhari: ⟨את⟩ Kedesha ndi ⟨את⟩ malo ake ozungulira, ⟨את⟩ Dabirata ndi ⟨את⟩ malo ake ozungulira.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kufuma m'fuko la"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yisakhari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedesha"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malo ake ozungulira"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "malo ake ozungulira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dabirata"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Dabirata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malo ake ozungulira"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "malo ake ozungulira"
+    }
+  ],
+  "timestamp": "2026-09-21T12:25:03.015911052Z",
+  "model": "glm-5.3"
+}

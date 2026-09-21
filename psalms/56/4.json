@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 56,
+  "translation": "Tsiku limene ndimakuopa, kwa iwe ndidzatsamira.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Tsiku"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ndimakuopa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨ine⟩"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ndidzatsamira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:38.106582468Z",
+  "model": "glm-5.3"
+}

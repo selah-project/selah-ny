@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 9:10",
+  "book": "ezra",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo tsopano, Elohim wathu, chiyani tidzati pambuyo pa izi, pakuti tinasiya malamulo ako?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ndipo tsopano"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "tidzati"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pambuyo pa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "tinasiya"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "malamulo ako"
+    }
+  ],
+  "timestamp": "2026-09-21T12:16:25.365937622Z",
+  "model": "glm-5.3"
+}

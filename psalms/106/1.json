@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Landirani Yah! Pitirizani kuyamika kwa Yahwe, chifukwa ndi wabwino, chifukwa khesedi wake kumakhala ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Landirani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "Pitirizani kuyamika"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ndi wabwino"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi wake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:46.780908380Z",
+  "model": "glm-5.3"
+}

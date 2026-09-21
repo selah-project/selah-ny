@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo anakhalabe zaka zinthu zitatu, palibe nkhondo pakati pa Aramu ndi pakati pa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "anakhalabe"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "zinthu zitatu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "nkhondo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T13:10:24.514371823Z",
+  "model": "glm-5.3"
+}

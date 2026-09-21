@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo onse a Yavishi Giladi anamva ⟨את⟩ zonse zimene Afilisti anakachita kwa Shauli.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "anamva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavishi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anakachita"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilisti"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kwa Shauli"
+    }
+  ],
+  "timestamp": "2026-09-21T13:35:12.770032673Z",
+  "model": "glm-5.3"
+}

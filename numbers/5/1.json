@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 5:1",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Yahwe adalankhula kwa Moshe, nati:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "adalankhula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati:"
+    }
+  ],
+  "timestamp": "2026-09-21T12:59:09.811297461Z",
+  "model": "glm-5.3"
+}

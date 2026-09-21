@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Yahwe adzamsunga, ndipo adzampatsa moyo; adzakondweredwa m'dziko lapansi, ndipo usampere ⟨iye⟩ ku chifuniro cha adani ake.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "adzamsunga"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "ndipo adzampatsa moyo"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "adzakondweredwa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko lapansi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo usampere"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "⟨iye⟩"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ku chifuniro"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "cha adani ake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:08.217205569Z",
+  "model": "glm-5.3"
+}

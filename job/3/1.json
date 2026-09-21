@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Atatha izi, Iyobu anatseula ⟨את⟩ pakamwa pake, nadamtemberera ⟨את⟩ tsiku lake.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "atatha"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "anatseula"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakamwa pake"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "pakamwa pake"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "nadamtemberera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsiku lake"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "tsiku lake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:29:31.431521800Z",
+  "model": "glm-5.3"
+}

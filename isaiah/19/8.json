@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 19:8",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo asodzi adzalira, ndipo onse okhapira mnole m'Nile adzamva chisoni, ndipo osasula mikuwawa pa nkhope ya madzi adzapezeka ofooka.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "adzalira"
+    },
+    {
+      "surface": "הדיגים",
+      "gloss": "asodzi"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "adzamva chisoni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "משליכי",
+      "gloss": "okhapira"
+    },
+    {
+      "surface": "ביאור",
+      "gloss": "m'Nile"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "mnole"
+    },
+    {
+      "surface": "ופרשי",
+      "gloss": "osasula"
+    },
+    {
+      "surface": "מכמרת",
+      "gloss": "mikuwawa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "adzapezeka ofooka"
+    }
+  ],
+  "timestamp": "2026-09-21T09:07:39.045234400Z",
+  "model": "glm-5.3"
+}

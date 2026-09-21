@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo akulu a m'mudzi wake adzatuma nadzatenga ⟨את⟩ iye kumeneko, nadzampatsa ⟨את⟩ iye m'dzanja la wowomboza mwazi, ndipo adzafa.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "adzatuma"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "akulu a"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "m'mudzi wake"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "nadzatenga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "iye"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "nadzampatsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "iye"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "wowomboza"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "mwazi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "adzafa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:23:35.522888346Z",
+  "model": "glm-5.3"
+}

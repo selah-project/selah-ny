@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo Betsalel anapanga ⟨את⟩ sanduku ya mapango a akashya: litali lake mita ziwiri ndi theka, m'lifupi lake mita imodzi ndi theka, ndi kutalika kwake mita imodzi ndi theka.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mapango"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "a akashya"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "mita ziwiri"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ndi theka"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "litali lake"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "mita imodzi"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ndi theka"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "m'lifupi lake"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "mita imodzi"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ndi theka"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "kutalika kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:28:27.760784599Z",
+  "model": "glm-5.3"
+}

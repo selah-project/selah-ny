@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 136,
+  "translation": "Kwa Iye amene adagawa nyanja ya sufu m'magawo, pakuti khesedi kwake kumakhala ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "Kwa Iye amene adagawa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ya sufu"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "m'magawo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:57.647256093Z",
+  "model": "glm-5.3"
+}

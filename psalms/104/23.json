@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 104,
+  "translation": "Munthu amatuluka kupita ku ntchito yake, ndi kuugwira wake, mpaka madzulo.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "amatuluka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "ku ntchito yake"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "ndi kuugwira wake"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "madzulo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:45.723042176Z",
+  "model": "glm-5.3"
+}

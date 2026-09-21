@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo zidzakhala kuti, pamene ana anu akuti kwa inu: “Kodi utumiki uwu ndi chiyani kwa inu?”",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ndipo zidzakhala kuti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pamene"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "akuti"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ana anu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kodi … ndi chiyani"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "utumiki"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uwu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:14:14.888116819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 54,
+  "translation": "Chifukwa anandipulumutsa m'chisautso chonse, ndipo diso langa linaona ⟨איבי⟩ adani anga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "m'chonse"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "chisautso"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "anandipulumutsa"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "ndi adani anga"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "linaona"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "diso langa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:20.538422001Z",
+  "model": "glm-5.3"
+}

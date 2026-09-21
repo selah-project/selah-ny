@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Nadzapereka ⟨את⟩ Yisraeli chifukwa cha machimo a Yerobowamu, amene anachimwa, ndi amene anachimwitsa ⟨את⟩ Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Nadzapereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "machimo a"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerobowamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "anachimwa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ndi amene"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "anachimwitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:41:29.067152273Z",
+  "model": "glm-5.3"
+}

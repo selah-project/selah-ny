@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo anachita choipa maso pa Yahwe, koma osati monga ababa ake ndi monga amayi ake; ndipo anachotsa ⟨את⟩ mzati wa Baala chimene ababa ake anachimanga.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "Ndipo anachita"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "maso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "koma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "osati"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "monga ababa ake"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "ndi monga amayi ake"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ndipo anachotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mzati wa Baala"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "mzati"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "wa Baala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachimanga"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ababa ake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:48:16.975554677Z",
+  "model": "glm-5.3"
+}

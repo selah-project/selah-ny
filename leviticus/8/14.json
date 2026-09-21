@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo anayandikiritsa ⟨את⟩ ng'ombe ya machimo; ndipo Aharon ndi ana ake anayika ⟨את⟩ manja awo pa mutu wa ng'ombe ya machimo.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "anayandikiritsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombe ya machimo"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ya machimo"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "anayika"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ndi ana ake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manja awo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "manja awo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "פר",
+      "gloss": "wa ng'ombe"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ya machimo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:36:02.476563792Z",
+  "model": "glm-5.3"
+}

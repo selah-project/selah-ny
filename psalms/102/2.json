@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "Yahwe, mverani pemphero langa, ndipo kulilidwa kwanga kudze kwa iwe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "mverani"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "pemphero langa"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "ndipo kulilidwa kwanga"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kudze"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:05.803542774Z",
+  "model": "glm-5.3"
+}

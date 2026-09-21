@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo Haman anati kwa mfumu: “Kwa munthu amene mfumu ikondwera kumulemekeza,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ikondwera"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "kumulemekeza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:59:49.528739281Z",
+  "model": "glm-5.3"
+}

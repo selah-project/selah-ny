@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Mkulukulu amalowa m'hema loonana, ndi mukulikupitirira ku nsembe, amasambitsa; monga momwe Yahwe adamira ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "Mkulukulu amalowa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "m'hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "loonana"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "ndi mukulikupitirira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "amasambitsa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "adamira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T12:57:36.617004558Z",
+  "model": "glm-5.3"
+}

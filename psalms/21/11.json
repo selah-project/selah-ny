@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Zipatso zawo mudzawaononga kuchokera dziko lapansi, ndipo mbewu yawo kuchokera mwa ana a anthu.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "Zipatso zawo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuchokera dziko lapansi"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "mudzawaononga"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "ndipo mbewu yawo"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "kuchokera mwa ana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:10.002070710Z",
+  "model": "glm-5.3"
+}

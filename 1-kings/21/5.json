@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo Izebeli, mkazi wake, analowa kwa iye, nayankhula ndi iye: “Chiyani ichi? Mzimu wako wasanduka ⟨kosatha⟩, ndipo iwe sili kudya mkate?”",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "analowa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebeli"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mkazi wake"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "nayankhula"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ndi iye"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Chiyani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "mzimu wako"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "wasanduka"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "ndipo iwe sili"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kudya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    }
+  ],
+  "timestamp": "2026-09-21T08:45:24.795000284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Yahwe anamphatikiza ⟨את⟩ mtima wa Paro, ndipo sanamvere iwo, monga Yahwe ananena kwa Moshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "anamphatikiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtima"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo osati"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sanamvere"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T12:56:25.120683075Z",
+  "model": "glm-5.3"
+}

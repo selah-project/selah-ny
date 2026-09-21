@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Iwe uli kudutsa lero ⟨את⟩ mphaka wa Moabu, ⟨את⟩ Ari.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "uli kudutsa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mphaka wa Moabu"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "mphaka"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ari"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ari"
+    }
+  ],
+  "timestamp": "2026-09-21T13:00:40.779663790Z",
+  "model": "glm-5.3"
+}

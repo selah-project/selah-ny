@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Agwadire achemwe akubesa moyo wanga; abwerere m'mbuyo ndipo anyozeidwe alinga choipa changa.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Agwadire achemwe"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "achitidwe manyazi"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "akubesa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "abwerere m'mbuyo"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "m'mbuyo"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "anyozeidwe"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "alinga"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "choipa changa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:28.537106722Z",
+  "model": "glm-5.3"
+}

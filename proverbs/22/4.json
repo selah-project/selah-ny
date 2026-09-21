@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Mphotho ya kudzichepetsa ndi kuopa Yahwe: chuma, ulemerero ndi moyo.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "mphotho"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "kudzichepetsa"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "kuopa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "chuma"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ndi ulemerero"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "ndi moyo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:25:24.208302952Z",
+  "model": "glm-5.3"
+}

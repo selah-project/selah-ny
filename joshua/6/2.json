@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo Yahwe anati kwa Yehoshuwa: Ona, ndapatsa m'dzanja mwako ⟨את⟩ Yerikho ndi ⟨את⟩ mfumu yake, ankhondo amphamvu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo…anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndapatsa"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "m'dzanja mwako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerikho"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yerikho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mfumu yake"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "mfumu yake"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "ankhondo"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "amphamvu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:35:17.224278468Z",
+  "model": "glm-5.3"
+}

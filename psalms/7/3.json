@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Kuti asatipire moyo wanga monga mkango, kugawanitsa, ndipo palibe wopulumutsa.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "asatipire"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "monga mkango"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "kugawanitsa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "wopulumutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:48.315925181Z",
+  "model": "glm-5.3"
+}

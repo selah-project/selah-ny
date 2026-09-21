@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 12:5",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Mkwiyo wa Dawidi unayaka pa mwamuna uja kwambiri, ndipo anati kwa Natani: “Yahwe wamoyo, mwamuna wachita ichi ndi mwana wa imfa.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "unayaka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mkwiyo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "pa mwamuna"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo anati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natani"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wamoyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wa imfa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mwamuna"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "wachita"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ichi"
+    }
+  ],
+  "timestamp": "2026-09-21T13:07:51.381557Z",
+  "model": "glm-5.3"
+}

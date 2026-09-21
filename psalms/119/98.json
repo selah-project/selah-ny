@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Malamulo ako andipatsa nzeru koposa adani anga, pakuti ali nane kosatha.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "koposa adani anga"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "andipatsa nzeru"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "Malamulo ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kosatha"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨iwo⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ali nane"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:43.997343293Z",
+  "model": "glm-5.3"
+}

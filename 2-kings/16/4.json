@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 16:4",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo anapereka nsembe ndi kuwotcha fumba m'malo otukuka, ndi pa mapiri, ndi pansi pa mtengo uliwonse wathanzi.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "Ndipo anapereka nsembe"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ndi kuwotcha fumba"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "m'malo otukuka"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ndi pansi pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mtengo uliwonse"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mtengo"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "wathanzi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:56:52.929911582Z",
+  "model": "glm-5.3"
+}

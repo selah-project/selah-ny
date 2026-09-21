@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo anthuwo ananyamula ⟨את⟩ ufa wawo usanafetse; mbale zawo za kufwira zinamangidwa m'mavalo awo pa mapewa awo.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ananyamula"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthuwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ufa wawo"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "ufa wawo"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "usana"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "fetse"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "mbale zawo za kufwira"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "zinamangidwa"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "m'mavalo awo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "mapewa awo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:13:02.565830678Z",
+  "model": "glm-5.3"
+}

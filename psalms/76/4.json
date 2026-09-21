@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 76,
+  "translation": "Kumeneko anaphwanya mipeni ya uta — chishango, ndi lupanga, ndi nkhondo. Selah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Kumeneko"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "anaphwanya"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "mipeni"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ya uta"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "chishango"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ndi lupanga"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "ndi nkhondo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:39.137673830Z",
+  "model": "glm-5.3"
+}

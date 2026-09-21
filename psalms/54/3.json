@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 54,
+  "translation": "Elohim, m'dzina lanu mundipulumutse, ndipo m'mphamvu zanu mundiweruze.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "m'dzina lanu"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "mundipulumutse"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "ndipo m'mphamvu zanu"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "mundiweruze"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:51.982427028Z",
+  "model": "glm-5.3"
+}

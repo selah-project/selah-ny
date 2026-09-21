@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 2:4",
+  "book": "ruth",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo taonani, Boazi anadza kuchokera ku Beit Lechemu, nati kwa akolola: “Yahwe akhale ndi inu.” Ndipo iwo anati kwa iye: “Yahwe akudalitse.”",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "taonani"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "anadza"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kuchokera ku"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beit Lechemu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "לקוצרים",
+      "gloss": "kwa akolola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "akhale ndi inu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "anati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "akudalitse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:51:49.278454464Z",
+  "model": "glm-5.3"
+}

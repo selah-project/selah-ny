@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Musadye pa ⟨את⟩... ⟨pa⟩ mwazi; musachite chiwembu, ndipo musawerenge zizindikiro.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "dyani"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "mwazi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "chitani chiwembu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo musa"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "werengani zizindikiro"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:48.204980343Z",
+  "model": "glm-5.3"
+}

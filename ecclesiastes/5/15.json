@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndiponso ili ndi choipa cholwara: monga anabwera, momwemo adzayenda; ndipo phindu chiyani chili kwa iye, wakutumana chifukwa cha mpweya?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ndiponso"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ili"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "cholwara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "momwemo \/ malire onse"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "monga"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "anabwera"
+    },
+    {
+      "surface": "כן",
+      "gloss": "momwemo"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "adzayenda"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ndipo chiyani"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "phindu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "wakutumana"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "chifukwa cha mpweya"
+    }
+  ],
+  "timestamp": "2026-09-21T11:56:40.568939792Z",
+  "model": "glm-5.3"
+}

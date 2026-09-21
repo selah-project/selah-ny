@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ana a Kehati: Aminadabu mwana wake, Korachi mwana wake, Asiri mwana wake;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ana a"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehati"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadabu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Asiri"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:24:29.197938567Z",
+  "model": "glm-5.3"
+}

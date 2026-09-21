@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo udzalandira ufa wabwino, ndi kuwuphika ⟨את⟩ mikate khumi ndi iwiri; magawo awiri a chikhumi chikhale m'khate limodzi.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "udzalandira"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ufa wabwino"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "uzawuphika"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ufa wabwino"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "mikate"
+    },
+    {
+      "surface": "שני",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "magawo a chikhumi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "chikhale"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "khate"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "limodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:44:32.060876333Z",
+  "model": "glm-5.3"
+}

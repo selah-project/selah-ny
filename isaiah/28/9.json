@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "⟨את⟩ ndani adzaphunzitsa chidziwitso, ndipo ⟨את⟩ ndani adzamvetsa uthenga? Amachotsidwa m'mkaka, omasulidwa m'mabele.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "adzaphunzitsa"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "chidziwitso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "ndani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "adzamvetsa"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "uthenga"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "amachotsidwa"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "m'mkaka"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "omasulidwa"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "m'mabele"
+    }
+  ],
+  "timestamp": "2026-09-21T09:10:36.430013647Z",
+  "model": "glm-5.3"
+}

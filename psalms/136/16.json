@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 136,
+  "translation": "Kwa Iye amene anayendetsa anthu ake m'chilengalenga, pakuti khesedi kwake kumakhala ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "Kwa Iye amene anayendetsa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "m'chilengalenga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:57.647750191Z",
+  "model": "glm-5.3"
+}

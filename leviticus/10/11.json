@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo kuphunzitsa ⟨את⟩ ana a Yisraeli ⟨את⟩ malemba onse amene Yahwe analankhula kwa iwo mwa dzanja la Moshe.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "Ndipo kuphunzitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malemba onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "malemba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "analankhula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mwa dzanja la"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:34:00.785579643Z",
+  "model": "glm-5.3"
+}

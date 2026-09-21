@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Usaope pamene munthu apata chuma, pamene ulemerero wa nyumba yake wowonjezeka.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ope"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pamene"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "apata chuma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pamene"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "wowonjezeka"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ulemerero"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wa nyumba yake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:24.945753017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo Yahwe adzawachitira monga momwe anawachitira Sihoni ndi Ogu, mafumu a Aemori, ndi dziko lawo, amene anawaononga ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Ndipo adzawachitira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anawachitira"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "Sihoni"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "ndi Ogu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "a Aemori"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "ndi dziko lawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "anawaononga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:31:31.172508776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "kutsegula maso a akhungu, kubweretsa wotsekedwa m'kulera ndi okhala m'mdima m'nyumba ya kulera.",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "kutsegula"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "maso"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "a akhungu"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "kubweretsa"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "m'kulera"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "wotsekedwa"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "m'nyumba ya"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "kulera"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "okhala"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "m'mdima"
+    }
+  ],
+  "timestamp": "2026-09-21T09:17:03.859933378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo Dawidi ankapita nabwerera kuchokera kwa Shauli, kukasamalira ⟨את⟩ nkhosa za atate wake ku Beit Lechemi.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Ndipo Dawidi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ankapita"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "nabwerera"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuchokera kwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "kukasamalira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhosa"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "za atate wake"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ku Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechemi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:08:02.864983459Z",
+  "model": "glm-5.3"
+}

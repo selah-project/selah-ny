@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "Ndasala tulo, ndipo ndakhala monga mbalame yekha pa denga.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "ndasala tulo"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "ndipo ndakhala"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "monga mbalame"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "yekha"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "גג",
+      "gloss": "denga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:31.022235722Z",
+  "model": "glm-5.3"
+}

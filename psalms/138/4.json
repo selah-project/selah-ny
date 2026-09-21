@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 138,
+  "translation": "Adzayamika, Yahwe, mfumu zonse za dziko lapansi; pakuti zamva mawu a kamwa kako.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Adzayamika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "za dziko lapansi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "zamva"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "a kamwa kako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:44.607737702Z",
+  "model": "glm-5.3"
+}

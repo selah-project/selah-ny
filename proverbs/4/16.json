@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Pakuti sagona ngati sanachite choipa, ndipo tulo lawo latayidwa ngati sapangitsa ena kugwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "sagona"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati sana-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana-"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "chite choipa"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "ndipo latayidwa"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "tulo lawo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati sana-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana-"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "pangitsa ena kugwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:18:48.889640227Z",
+  "model": "glm-5.3"
+}

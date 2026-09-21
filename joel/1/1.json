@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Mawu a Yahwe amene anachitika kwa Yoeli, mwana wa Petueli.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "היה",
+      "gloss": "anachitika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoeli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "Petueli"
+    }
+  ],
+  "timestamp": "2026-09-21T13:20:36.095557197Z",
+  "model": "glm-5.3"
+}

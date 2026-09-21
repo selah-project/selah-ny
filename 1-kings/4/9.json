@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Mwana wa Dekeri, mu Makazi, ndi mu Shaalabimu, ndi mu Bethi-Shemeshi, ndi Eloni-Bethi-Chanani.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Mwana"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "wa Dekeri"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "mu Makazi"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "ndi mu Shaalabimu"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ndi mu Bethi-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemeshi"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "ndi Eloni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethi-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Chanani"
+    }
+  ],
+  "timestamp": "2026-09-21T08:31:02.179520713Z",
+  "model": "glm-5.3"
+}

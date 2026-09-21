@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo Uzi adabala ⟨את⟩ Zerachiyahu; ndipo Zerachiyahu adabala ⟨את⟩ Merayothi.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "Ndipo Uzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "adabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerachiyahu"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerachiyahu"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "ndipo Zerachiyahu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "adabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merayothi"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merayothi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:24:06.827653008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 83,
+  "translation": "Ikani olemera awo monga Orevi ndi monga Zeebu, ndi monga Zebahi ndi monga Tsalimuna, onse anankhoswe awo.",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Ikani"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "olemera awo"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "monga Orevi"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "ndi monga Zeebu"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "ndi monga Zebahi"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "ndi monga Tsalimuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "anankhoswe awo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:20.568127615Z",
+  "model": "glm-5.3"
+}

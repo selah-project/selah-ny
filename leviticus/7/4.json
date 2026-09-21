@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "ndi ⟨את⟩ impso ziwiri, ndi ⟨את⟩ mafuta ali pa izo, amene ali pa chimuna, ndi ⟨את⟩ chidinda chili pa chibayo; pamodzi ndi impso adzauchotsa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "impso ziwiri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "impso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "pa izo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "chimuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chidinda"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "chidinda"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "chibayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "impso"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "adzauchotsa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:32:27.866126384Z",
+  "model": "glm-5.3"
+}

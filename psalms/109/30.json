@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "Ndidzayamika Yahwe kwambiri ndi mkamwa mwanga, ndipo pakati pa anthu ambiri ndidzamtamanda.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ndidzayamika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ndi mkamwa mwanga"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "ndipo pakati pa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "anthu ambiri"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "ndidzamtamanda"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:01.210370287Z",
+  "model": "glm-5.3"
+}

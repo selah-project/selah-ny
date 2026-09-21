@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Kuyambira mwana wazaka makumi awiri ndi kupitirira apa, wense ndi wense wotuluka ku nkhondo m'Yisraeli — muwerenge ⟨את⟩ iwo m'magulu awo a nkhondo; iwe ndi Aharoni.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "Kuyambira mwana wa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi awiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ndi kupitirira apa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wense ndi wense"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "wotuluka"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ku nkhondo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "m'Yisraeli"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "muwerenge"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "m'magulu awo a nkhondo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ndi Aharoni"
+    }
+  ],
+  "timestamp": "2026-09-21T06:49:30.199589042Z",
+  "model": "glm-5.3"
+}

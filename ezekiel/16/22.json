@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 16:22",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo ndi ⟨את⟩ zodetsa nkhawa zako zonse ndi chigololo chako, sindinakumbukire ⟨את⟩ masiku a ubwana wako, pamene unali wamaliseche ndi wosalabadira, unayendedwa mu magazi ako — ndiwe uja.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "zodetsa nkhawa zako"
+    },
+    {
+      "surface": "ותזנתיך",
+      "gloss": "ndi chigololo chako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi-"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "nakumbukire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masiku a ubwana wako"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "masiku a"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "ubwana wako"
+    },
+    {
+      "surface": "בהיותך",
+      "gloss": "pamene unali"
+    },
+    {
+      "surface": "ערם",
+      "gloss": "wamaliseche"
+    },
+    {
+      "surface": "ועריה",
+      "gloss": "ndi wosalabadira"
+    },
+    {
+      "surface": "מתבוססת",
+      "gloss": "unayendedwa"
+    },
+    {
+      "surface": "בדמך",
+      "gloss": "mu magazi ako"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ndiwe uja"
+    }
+  ],
+  "timestamp": "2026-09-21T10:01:18.537165650Z",
+  "model": "glm-5.3"
+}

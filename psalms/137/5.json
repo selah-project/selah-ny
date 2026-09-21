@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 137,
+  "translation": "Ngati ndikaiwala iwe, Yerushalayimu, dzanja langa lamanja livayale.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "ndikaiwala iwe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "livayale"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "dzanja langa lamanja"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:11.808772977Z",
+  "model": "glm-5.3"
+}

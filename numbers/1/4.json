@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo pamodzi ndi ⟨את⟩ inu adzakhalabe anthu, munthu ndi munthu wa fuko lake; munthu, mutu wa nyumba ya makolo ake — iye.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "pamodzi ndi ⟨את⟩ inu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "adzakhalabe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "wa fuko lake"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wa nyumba ya"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "makolo ake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    }
+  ],
+  "timestamp": "2026-09-21T06:49:30.199731878Z",
+  "model": "glm-5.3"
+}

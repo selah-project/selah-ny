@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "“Kwerani kwa ine, ndipo ndithandizeni, kuti tigwire ⟨את⟩ Giboni, chifukwa wathetsa mtendere ndi ⟨את⟩ Yehoshuwa ndi ndi ⟨את⟩ ana a Yisraeli.”",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Kwerani"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "ויעזרני",
+      "gloss": "ndipo ndithandizeni"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "kuti tigwire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giboni"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Giboni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "wathetsa mtendere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshuwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T07:37:24.098350790Z",
+  "model": "glm-5.3"
+}

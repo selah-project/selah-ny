@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Namuyesa ⟨את⟩ ulamu wa khomo, kum'kati, mphanda umodzi.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Namuyesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulamu wa khomo"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ulamu"
+    },
+    {
+      "surface": "השער",
+      "gloss": "wa khomo"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "kum'kati"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "mphanda"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:16:08.144631931Z",
+  "model": "glm-5.3"
+}

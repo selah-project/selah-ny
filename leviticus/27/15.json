@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo ngati wopatulayo adzaombola ⟨את⟩ nyumba yake, adzaonjezera chigawo chachisanu cha siliva ya mtengo wako pa iyo, ndipo ikhale yake.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ndipo ngati"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "wopatulayo"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "adzaombola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba yake"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "adzaonjezera"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "chigawo chachisanu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "cha siliva"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "mtengo wako"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iyo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ndipo ikhale"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:49:12.623472168Z",
+  "model": "glm-5.3"
+}

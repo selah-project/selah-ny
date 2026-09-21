@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo ngati palibe abale ake, mudzapereka ⟨את⟩ cholowa chake kwa abale a bambo ake.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ndipo ngati"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ake"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "abale"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "mudzapereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cholowa chake"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "cholowa chake"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "kwa abale a"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bambo ake"
+    }
+  ],
+  "timestamp": "2026-09-21T13:00:33.151871541Z",
+  "model": "glm-5.3"
+}

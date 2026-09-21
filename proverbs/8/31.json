@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 8:31",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndikusewera m'tevali ya dziko lake, ndipo zokondweretsa zanga zili ndi ⟨את⟩ ana a anthu.",
+  "tokens": [
+    {
+      "surface": "משחקת",
+      "gloss": "ndikusewera"
+    },
+    {
+      "surface": "בתבל",
+      "gloss": "m'tevali"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ya dziko lake"
+    },
+    {
+      "surface": "ושעשעי",
+      "gloss": "ndipo zokondweretsa zanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a anthu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:43.740793862Z",
+  "model": "glm-5.3"
+}

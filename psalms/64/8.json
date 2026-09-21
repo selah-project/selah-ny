@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 64,
+  "translation": "Koma Elohim adzalasa iwo ndi museza; mwadzidzidzi zakhala zovulazidwa zawo.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "koma adzalasa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "ndi museza"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "mwadzidzidzi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "zakhala"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "zovulazidwa zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:26.942571809Z",
+  "model": "glm-5.3"
+}

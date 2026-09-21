@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo mau a Yahwe anafika kwa Yona, mwana wa Amitayi, akuti:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "anafika"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "wa Amitayi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akuti"
+    }
+  ],
+  "timestamp": "2026-09-21T10:29:29.807582450Z",
+  "model": "glm-5.3"
+}

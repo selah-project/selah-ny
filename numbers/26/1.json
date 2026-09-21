@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo Yahwe adanena kwa Moshe ndi kwa Elazari, mwana wa Aharoni wansembe, kuti:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo adanena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi kwa"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazari"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti:"
+    }
+  ],
+  "timestamp": "2026-09-21T07:06:04.309895091Z",
+  "model": "glm-5.3"
+}

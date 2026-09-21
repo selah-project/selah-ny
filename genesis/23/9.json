@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 23:9",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "kuti apereke kwanga ⟨את⟩ phanga la Machpela limene ndi lake, limene lili kuthambalara kwa munda wake; ndi ndalama yodzaza apereke kwanga pakati panu ngati chikatiro cha manda.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "apereke"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phanga la Machpela"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "phanga la"
+    },
+    {
+      "surface": "המכפלה",
+      "gloss": "Machpela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene lili"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "kuthambalara kwa"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "munda wake"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ndi ndalama"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "yodzaza"
+    },
+    {
+      "surface": "יתננה",
+      "gloss": "apereke"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwanga"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "pakati panu"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "ngati chikatiro cha"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "manda"
+    }
+  ],
+  "timestamp": "2026-09-21T05:50:27.110823136Z",
+  "model": "glm-5.3"
+}

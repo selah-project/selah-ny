@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 65,
+  "translation": "Amatonthoza phokoso la nyanja, phokoso la mafunde ake, ndi chisokonezo cha mitundu ya anthu.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "Amatonthoza"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "phokoso"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "la nyanja"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "phokoso"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "la mafunde ake"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "ndi chisokonezo"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "cha mitundu ya anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:06.071208569Z",
+  "model": "glm-5.3"
+}

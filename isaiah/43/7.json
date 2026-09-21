@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 43,
+  "translation": "Wense amene ayitidwa ndi dzina langa, amene ndinamulenga chifukwa cha ulemerero wanga, ndinamuumba, inde, ndinamuchita.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wense"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "amene ayitidwa"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ndi dzina langa"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "chifukwa cha ulemerero wanga"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "ndinamulenga"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "ndinamuumba"
+    },
+    {
+      "surface": "אף",
+      "gloss": "inde"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "ndinamuchita"
+    }
+  ],
+  "timestamp": "2026-09-21T09:17:18.055421048Z",
+  "model": "glm-5.3"
+}

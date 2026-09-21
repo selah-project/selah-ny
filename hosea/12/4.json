@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "M'matumbi adapunda ⟨את⟩ m'bale wake, ndipo m'umphamvu mwake anamenyana ndi ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "M'matumbi"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "adapunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "m'bale wake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "m'bale wake"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "ndipo m'umphamvu mwake"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "anamenyana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T10:23:28.145438819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 94,
+  "translation": "El wa chiwiro, Yahwe; El wa chiwiro, wala!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "chiwiro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "chiwiro"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "wala"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:52.543991741Z",
+  "model": "glm-5.3"
+}

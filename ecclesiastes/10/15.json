@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ntchito ya opusa imaletsa iwo, popeza sadziwa kuyenda ku mzinda.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "Ntchito"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "ya opusa"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "imaletsa iwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dziwa"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kuyenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mzinda"
+    }
+  ],
+  "timestamp": "2026-09-21T11:56:24.774839099Z",
+  "model": "glm-5.3"
+}

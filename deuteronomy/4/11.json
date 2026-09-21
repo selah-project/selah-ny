@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo inu mwayandikira ndi kuyimirira pansi pa phirilo, ndipo phirilo linayaka ndi moto mpaka mtima wa kumwamba: mdima, thambo, ndi mdima wakukuta.",
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "Ndipo mwayandikira"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "ndi kuyimirira"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "phirilo"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "ndipo phirilo"
+    },
+    {
+      "surface": "בער",
+      "gloss": "linayaka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ndi moto"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "wa kumwamba"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mdima"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "thambo"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ndi mdima wakukuta"
+    }
+  ],
+  "timestamp": "2026-09-21T07:15:38.364694919Z",
+  "model": "glm-5.3"
+}

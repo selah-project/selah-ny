@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo Aharon ndi ana ake anachita ⟨את⟩ zonse za mawu amene Yahwe analamula mwa dzanja la Moshe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ndipo anachita"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ndi ana ake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse za mawu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "za mawu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "analamula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mwa dzanja la"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:34:29.660661456Z",
+  "model": "glm-5.3"
+}

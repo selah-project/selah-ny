@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 43,
+  "translation": "Ndipo mutenge ndi ⟨את⟩ m'bale wanu, mukale, mubwere kwa munthuyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "m'bale wanu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "m'bale wanu"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "mutenge"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "mukale"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "mubwere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munthuyo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:04:41.280606451Z",
+  "model": "glm-5.3"
+}

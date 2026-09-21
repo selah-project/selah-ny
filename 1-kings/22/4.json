@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo inati kwa Yehoshafati: “Kodi udzapita nane ⟨את⟩ ku nkhondo ku Ramothi Gileadi?” Ndipo Yehoshafati anati kwa mfumu ya Yisraeli: “Ine ndili monga iwe, anthu anga ⟨ndi⟩ monga anthu ako, akavalo anga monga akavalo ako.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo inati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafati"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "Kodi udzapita"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "nane ⟨את⟩"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ku nkhondo"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramothi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileadi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "monga ine"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "monga iwe"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "monga anthu anga"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "monga anthu ako"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "monga akavalo anga"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "monga akavalo ako"
+    }
+  ],
+  "timestamp": "2026-09-21T13:10:34.739467249Z",
+  "model": "glm-5.3"
+}

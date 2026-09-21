@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 74,
+  "translation": "Otsutsa ako analira pakati pa malo anu oasonkhana; anayika zizindikiro zawo monga zizindikiro.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "analira"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "Otsutsa ako"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "malo anu oasonkhana"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "anayika"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "zizindikiro zawo"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "monga zizindikiro"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:26.588327989Z",
+  "model": "glm-5.3"
+}

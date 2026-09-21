@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Tsoka kwa mtundu wochimwa, anthu omwaza ndi mphulupulu, mbewu ya anthu oipa, ana onyozetsa! Adasiya ⟨את⟩ Yahwe, anyoze ⟨את⟩ Woyera wa Yisraeli, atembenuka m'mbuyo.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "tsoka kwa"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "mtundu"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "wochimwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "omwaza ndi"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mphulupulu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbewu"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ya anthu oipa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ana"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "onyozetsa"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "adasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "anyoze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Woyera wa Yisraeli"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Woyera"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "atembenuka"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "m'mbuyo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:13:00.436452160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Maganizo a m'kati mwawu ndi awa: nyumba zawo zidzakhala ku nthawi zonse, malo awo okhala kwa mibadwo ndi mibadwo; anayitana maina awo pa nthaka.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "maganizo a m'kati mwawu"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "nyumba zawo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "malo awo okhala"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwa mibadwo"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ndi mibadwo"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "anayitana"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "maina awo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "nthaka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:24.777473989Z",
+  "model": "glm-5.3"
+}

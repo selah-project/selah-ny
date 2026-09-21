@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 116,
+  "translation": "M'mabwalo a nyumba ya Yahwe, mkati mwa iwe, iwe Yerushalayimu. Lemekezani Yah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "m'mabwalo a"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "mkati mwa iwe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lemekezani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-21T11:08:58.825440216Z",
+  "model": "glm-5.3"
+}

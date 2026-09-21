@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo Moshe ananena ⟨את⟩ masiku otchulidwa a Yahwe kwa ana a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ndipo Moshe ananena"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masiku otchulidwa a Yahwe"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "masiku otchulidwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T06:44:19.056147171Z",
+  "model": "glm-5.3"
+}

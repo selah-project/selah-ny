@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Yisraeli anasiya chabwino; mdani adzamtsata.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "anasiya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "chabwino"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mdani"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "adzamtsata"
+    }
+  ],
+  "timestamp": "2026-09-21T10:22:34.927554133Z",
+  "model": "glm-5.3"
+}

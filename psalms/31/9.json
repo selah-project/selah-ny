@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo sunandidyerere m'dzanja la mdani; unaika miyendo yanga m'malo aakulu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ndipo si"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "sunandidyerere"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "m'dzanja"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "la mdani"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "unaika miyendo"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "m'malo aakulu"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "yanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:20.555441157Z",
+  "model": "glm-5.3"
+}

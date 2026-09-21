@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Abusa ambiri anawononga munda wanga wa mphesa, anamwazira ⟨את⟩ gawo langa; anapereka ⟨את⟩ gawo langa wokondedwa kukhala chipululu chovunda.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "abusa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ambiri"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "anawononga"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "munda wanga wa mphesa"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "anamwazira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gawo langa"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "gawo langa"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "anapereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gawo langa wokondedwa"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "gawo"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "wokondedwa wanga"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "kukhala chipululu"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "chovunda"
+    }
+  ],
+  "timestamp": "2026-09-21T09:34:09.152789415Z",
+  "model": "glm-5.3"
+}

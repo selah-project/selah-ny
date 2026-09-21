@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Pali mbadwa yokhaulitsa ada ake, ndipo ⟨את⟩ amake iyo sawadalitsa.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "mbadwa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ada ake"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "yokhaulitsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "amake"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "amake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "-dalitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:28:02.964422141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 88,
+  "translation": "Kwa akufa kodi mudzachita zodabwitsa? Kodi mifu idzauka, idzakuyamika iwe? Selah.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "Kwa akufa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "mudzachita"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "zodabwitsa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kodi"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "mifu"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "idzauka"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "idakuyamika iwe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:22.250210820Z",
+  "model": "glm-5.3"
+}

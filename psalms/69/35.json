@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Kumwamba ndi dziko lapansi zam-lemekeze; nyanja ndi zonse zozungulira mu izo.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "zam-lemekeze"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ndi dziko lapansi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi zonse"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "zinthu zozungulira"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mu izo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:07.435871871Z",
+  "model": "glm-5.3"
+}

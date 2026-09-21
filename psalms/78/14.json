@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Nadawalangiza ndi mtambo usana, ndipo usiku wonse ndi kuwala kwa moto.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Nadawalangiza"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "ndi mtambo"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "usana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo ... wonse"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ndi kuwala"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kwa moto"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:31.354034495Z",
+  "model": "glm-5.3"
+}

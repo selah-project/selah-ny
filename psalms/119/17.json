@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Chitire zabwino mtumiki wako, ndiye ndidzakhala ndi moyo, ndipo ndidzasunga liwu lako.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "Chitire zabwino"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mtumiki wako"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ndidzakhala ndi moyo"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ndipo ndidzasunga"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "liwu lako"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:24.564409298Z",
+  "model": "glm-5.3"
+}

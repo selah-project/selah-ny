@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Yahwe adzapereka ⟨את⟩ mvula ya dziko lako kukhala fumbi ndi dothi; kumwamba kudzatsika pa iwe, mpaka kuonongeka kwako.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "adzapereka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mvula"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "mvula"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "dziko lako"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "fumbi"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "dothi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchokera"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "kudzatsika"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pa iwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "kuonongeka kwako"
+    }
+  ],
+  "timestamp": "2026-09-21T07:28:43.195957866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo chifukwa cha kupepetcha kwa chigololo chake, adanyaudza ⟨את⟩ dziko lapansi, nagolola ndi ⟨את⟩ mwala ndi ⟨את⟩ mtengo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ndipo chifukwa cha"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "kupepetcha"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "chigololo chake"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "adanyaudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko lapansi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "nagolola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwala"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "mwala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mtengo"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "mtengo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:27:59.328652175Z",
+  "model": "glm-5.3"
+}

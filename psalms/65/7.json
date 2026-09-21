@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 65,
+  "translation": "Amakhazikitsa mapiri ndi mphamvu yake, wamangidwa ndi mphamvu zazikulu.",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "Amakhazikitsa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "ndi mphamvu yake"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "wamangidwa"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "ndi mphamvu zazikulu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:06.071067339Z",
+  "model": "glm-5.3"
+}

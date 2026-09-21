@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Yahwe anavula ⟨את⟩ khutu la Shemueli tsiku limodzi asanafike Shauli, nati:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ndipo Yahwe"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "anavula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khutu"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "khutu"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "la Shemueli"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "limodzi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "asana"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "fike"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    }
+  ],
+  "timestamp": "2026-09-21T08:04:48.561039872Z",
+  "model": "glm-5.3"
+}

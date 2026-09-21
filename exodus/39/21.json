@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 39:21",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndipo anamangiratu ⟨את⟩ chikhazu cha pachifuwa m'mizere yake ku mizere ya efodi ndi chingwiru cha buluu, kuti chikhale pa chingwe choluka cha efodi, ndipo chikhazu chisamusunthike kuchoka pa efodi, monga momwe Yahwe adalamulira ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "וירכסו",
+      "gloss": "anamangiratu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikhazu cha pachifuwa"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "chikhazu cha pachifuwa"
+    },
+    {
+      "surface": "מטבעתיו",
+      "gloss": "m'mizere yake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "mizere"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodi"
+    },
+    {
+      "surface": "בפתיל",
+      "gloss": "ndi chingwiru"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "buluu"
+    },
+    {
+      "surface": "להית",
+      "gloss": "kuti chikhale"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "chingwe choluka"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo osati"
+    },
+    {
+      "surface": "יזח",
+      "gloss": "chisamusunthike"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "chikhazu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuchoka"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "pa efodi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "adalamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:24.848608514Z",
+  "model": "glm-5.3"
+}

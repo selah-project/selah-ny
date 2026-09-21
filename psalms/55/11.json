@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 55,
+  "translation": "Masana ndi usiku amazungulira pa mitengo ya chitetezo chake; ndipo zoipa ndi zovuta zili m'mkati mwake.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "masana"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ndi usiku"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "amazungulira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "mitengo ya chitetezo chake"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ndipo zoipa"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ndi zovuta"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "m'mkati mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:58.827333338Z",
+  "model": "glm-5.3"
+}

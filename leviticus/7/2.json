@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Pa malo amene amapha ⟨את⟩ nsembe yolao, aphenso ⟨את⟩ hashashemu; ndipo ⟨את⟩ magazi ake adzatsekereza pa guwa kuzungulira.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "pa malo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "amapha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe yolao"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nsembe yolao"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "aphenso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hashashemu"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "hashashemu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "magazi ake"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "magazi ake"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "adzatsekereza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kuzungulira"
+    }
+  ],
+  "timestamp": "2026-09-21T06:32:27.865539879Z",
+  "model": "glm-5.3"
+}

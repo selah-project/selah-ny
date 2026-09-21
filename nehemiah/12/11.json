@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo Yoyada anabala ⟨את⟩ Yonatani, ndipo Yonatani anabala ⟨את⟩ Yadua.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "ndipo Yoyada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatani"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatani"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "ndipo Yonatani"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yadua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Yadua"
+    }
+  ],
+  "timestamp": "2026-09-21T12:21:13.570037260Z",
+  "model": "glm-5.3"
+}

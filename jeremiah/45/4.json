@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 45:4",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 45,
+  "translation": "Uzimuza iye mwa zimene: Mwa zimene Yahwe akuti: Onani, zimene ndimanga, ine ndiziononga; ndipo zimene ndidzala, ine ndizichotsera; ndi ⟨את⟩ dziko lonse — ndilo.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Mwa zimene"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "uzimuza"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Mwa zimene"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Onani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ndimanga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "ndiziononga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zimene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "ndidzala"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "נתש",
+      "gloss": "ndizichotsera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "dziko lonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ndilo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:48:51.900780812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 2:7",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo kwa ana a Barzilayi wa ku Gileyadi muchita khesedi, ndipo akhale pakati pa akudya pa tebulo lako, chifukwa momwemo anayandikira kwa ine pamene ndinathawa pamaso pa Avishalomu m'bale wako.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Ndipo kwa ana a"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "Barzilayi"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "wa ku Gileyadi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "muchite"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesedi"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ndipo akhale"
+    },
+    {
+      "surface": "באכלי",
+      "gloss": "pakati pa akudya"
+    },
+    {
+      "surface": "שלחנך",
+      "gloss": "pa tebulo lako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "momwemo"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "anayandikira"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "בברחי",
+      "gloss": "pamene ndinathawa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avishalomu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "m'bale wako"
+    }
+  ],
+  "timestamp": "2026-09-21T13:08:44.102044327Z",
+  "model": "glm-5.3"
+}

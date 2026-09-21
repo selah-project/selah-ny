@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 97,
+  "translation": "Kuwala kufafanizidwa kwa wolungama, ndi chikondwerero kwa olungama mtima.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "Kuwala"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kufafanizidwa"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "kwa wolungama"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "ndi ... kwa olungama"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "chikondwerero"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:27.568848238Z",
+  "model": "glm-5.3"
+}

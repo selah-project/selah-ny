@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Musakhale mwa olamwa vinyo, mwa osuta nyama kwa iwo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "khale"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "mwa olamwa"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vinyo"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "mwa osuta"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kwa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:26:28.056702304Z",
+  "model": "glm-5.3"
+}

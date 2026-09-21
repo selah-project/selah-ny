@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndani angandipatse kuti ndidziwe, ndikadamupeza, ndipo ndikadafika mpaka malo ake oyikidwa?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "angandipatse"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndidziwe"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "ndikadamupeza"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ndikadafika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "malo ake oyikidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:38:57.515352128Z",
+  "model": "glm-5.3"
+}

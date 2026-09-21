@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 15:22",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "M'masamba mako udzadya ⟨the⟩ nyamayo; wodziyeretsa ndi wosayeretsa aphatikizana, monga nyalugwe ndi monga mnhombo.",
+  "tokens": [
+    {
+      "surface": "בשעריך",
+      "gloss": "M'masamba mako"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "udzadya nyamayo"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "wosayeretsa"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "ndi wodziyeretsa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "aphatikizana"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "monga nyalugwe"
+    },
+    {
+      "surface": "וכאיל",
+      "gloss": "ndi monga mnhombo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:01:13.803635008Z",
+  "model": "glm-5.3"
+}

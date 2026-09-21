@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndiipo dzuwa linamwera kwa iye pamene adalupanhura ⟨את⟩ Penueli, ndipo iye anayendayenda m'mwamba chifukwa cha chidzuŵa chake.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "linamwera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dzuwa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "pamene"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "adalupanhura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penueli"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penueli"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ndipo iye"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "anayendayenda"
+    },
+    {
+      "surface": "על",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "chidzuŵa chake"
+    }
+  ],
+  "timestamp": "2026-09-21T05:56:47.978966675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 135,
+  "translation": "Anatumiza zizindikiro ndi zodabwitsa pakati pawe, iwe Mitsrayimu, pa Paro ndi pa akapolo ake onse.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Anatumiza"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "zizindikiro"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "ndi zodabwitsa"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "pakati pawe, iwe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "pa Paro"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ndi pa onse"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "akapolo ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:57.525100329Z",
+  "model": "glm-5.3"
+}

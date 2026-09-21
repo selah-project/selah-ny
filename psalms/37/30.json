@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Pakamwa pa wolungama kumalankhula nzeru, ndipo lilime lake limalankhula chiweruzo.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "pakamwa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "kumalankhula"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "nzeru"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "ndipo lilime lake"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "limalankhula"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chiweruzo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:25.310229476Z",
+  "model": "glm-5.3"
+}

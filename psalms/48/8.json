@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 48,
+  "translation": "⟨Iwe⟩ mumaswa zombo za Tarshishi ndi mphepo ya kum'mawa.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "ndi mphepo"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ya kum'mawa"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "mumaswa"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "zombo"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "za Tarshishi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:31.257507975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Masabata anga muteteze, ndipo malo opatulika anga muope; ine ndine Yahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masabata anga"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "masabata anga"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "muteteze"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "ndipo malo opatulika anga"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "muope"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T12:58:28.482574Z",
+  "model": "glm-5.3"
+}

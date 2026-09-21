@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo chipatso cha mpumulo cha dziko lapansi chidzakhala chakudya kwa inu — kwa iwe, ndi kapolo wako, ndi mthandizi wako wamkazi, ndi wojaira wako, ndi mlendo wokhala ndi iwe.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ndipo chidzakhala"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "chipatso cha mpumulo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "cha dziko lapansi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "chakudya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "ndi kapolo wako"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "ndi mthandizi wako wamkazi"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "ndi wojaira wako"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "ndi mlendo wokhala"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "amalende okhala"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndi iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:45:00.502512744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 36:20",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Ndi ndani mwa milungu yonse ya matiko awa amene anapulumutsa ⟨את⟩ dziko lawo m'dzanja langa, kuti Yahwe apulumutse ⟨את⟩ Yerushalayimu m'dzanja langa?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ndi ndani"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mwa milungu yonse"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "milungu ya"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "matiko"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "anapulumutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko lawo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dziko lawo"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "m'dzanja langa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "apulumutse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "m'dzanja langa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:15:08.383965792Z",
+  "model": "glm-5.3"
+}

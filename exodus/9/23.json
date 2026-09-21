@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 9:23",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Moshe anatambasula ⟨את⟩ ndodo yake ku kumwamba, ndipo Yahwe anapereka mawu akutu ndi chivunde, ndipo moto unayenda kunthazi kwenda kusiya dziko lapansi; ndipo Yahwe anagodola chivunde pa dziko la Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Ndipo … anatambasula"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndodo yake"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "ndodo yake"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ndipo Yahwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anapereka"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "mawu akutu"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "ndi chivunde"
+    },
+    {
+      "surface": "ותהלך",
+      "gloss": "ndipo … unayenda"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "kunthazi kwenda kusiya dziko lapansi"
+    },
+    {
+      "surface": "וימטר",
+      "gloss": "ndipo … anagodola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "chivunde"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:11:59.633856030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 130,
+  "translation": "Nyimbo ya makwerero. M'kuzama kwakuya ndinaitana iwe, Yahwe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya makwerero"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "M'kuzama kwakuya"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ndinaitana iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:05.477466307Z",
+  "model": "glm-5.3"
+}

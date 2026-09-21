@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Yahwe ndiye mbali yanga ndi gawo langa la chilengedwe, ndi kapu yanga; iwe ndiwe wokhazikitsa gawo langa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "mbali yanga (yokwanira)"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "gawo langa la chilengedwe"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "ndi kapu yanga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "umakhazikitsa"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "chizindikiro changa cha gawo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:48.437008043Z",
+  "model": "glm-5.3"
+}

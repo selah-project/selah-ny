@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 149,
+  "translation": "Pakuti Yahwe akondwera ndi anthu ake; alemekeza odzichepetsa ndi chipulumutso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "akondwera ndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "anthu ake"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "alemekeza"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "odzichepetsa"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "ndi chipulumutso"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:39.217528385Z",
+  "model": "glm-5.3"
+}

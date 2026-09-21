@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Mwana wamkazi wa Paro anati kwa iye: “Yani.” Msungwana anayenda, naitana ⟨את⟩ amayi a mwana.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "yani"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "msungwana"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "naitana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amayi a mwana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "amayi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "a mwana"
+    }
+  ],
+  "timestamp": "2026-09-21T06:07:46.061167282Z",
+  "model": "glm-5.3"
+}

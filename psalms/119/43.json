@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Osachotsa kwathunthu m'kamwa mwanga mawu a choonadi, popeza ndikuyembekezera chiweruzo chanu.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "osachotsa"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "kwathunthu"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "m'kamwa mwanga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "a choonadi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwathunthu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwathunthu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "chiweruzo chanu"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ndikuyembekezera"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:32.029523651Z",
+  "model": "glm-5.3"
+}

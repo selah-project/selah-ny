@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Sadzipachira pachimutu pawo, ndipo mbali ya usisi wawo sayigalacha, ndipo m'thupi mwawo sadzadula zidulo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "sadzipachira"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "pachimutu"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "pawo"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "ndipo mbali ya"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "usisi wawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "yigalacha"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "ndipo m'thupi mwawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "dula"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "zidulo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:56.920121489Z",
+  "model": "glm-5.3"
+}

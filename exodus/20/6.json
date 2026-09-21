@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "ndipo wochitira khesedi kwa mazana ambiri, kwa akonda Ine ndi osunga malamulo Anga.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ndipo wochitira"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesedi"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "kwa mazana ambiri"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "kwa akonda Ine"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "ndi osunga"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "malamulo Anga"
+    }
+  ],
+  "timestamp": "2026-09-21T06:15:04.663032286Z",
+  "model": "glm-5.3"
+}

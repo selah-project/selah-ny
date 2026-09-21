@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo ana a Alevi ananyamula ⟨את⟩ chikhata cha Elohim, monga momwe Moshe analamulira, monga mwa mawu a Yahwe, pa mapewu awo, ndi mitsimba pa mapewu pawo.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ananyamula"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Alevi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikhata"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chikhata"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "cha Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "analamulira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "monga mwa mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "pa mapewu awo"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "ndi mitsimba"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pa mapewu pawo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:29:05.335611416Z",
+  "model": "glm-5.3"
+}

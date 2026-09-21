@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 80,
+  "translation": "Chifukwa chiyani unawononga malire ake, ndipo onse akupita njira anaunika?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "chifukwa chiyani"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "unawononga"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "malire ake"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "ndipo anaunika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "akupita"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:28.137835388Z",
+  "model": "glm-5.3"
+}

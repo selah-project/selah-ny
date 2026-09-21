@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndipo Novahi anayenda nakaunda ⟨את⟩ Kenathi ndi ⟨את⟩ midzi yake, nakaitcha Novahi m'dzina lake.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Ndipo Novahi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "nakaunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenathi"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "midzi yake"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "midzi yake"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nakaitcha"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novahi"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "m'dzina lake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:08:07.127965655Z",
+  "model": "glm-5.3"
+}

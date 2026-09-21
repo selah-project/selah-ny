@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo ndinatuma ⟨את⟩ Moshe ndi ⟨את⟩ Aharon, ndipo ndinawomba ⟨את⟩ Mitsrayimu, monga momwe ndinachitira pakati pawo; ndipo pambuyo pake ndinatulutsani ⟨את⟩ inu.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "ndinatuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "ndinawomba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndinachitira"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "pakati pawo"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ndipo pambuyo pake"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ndinatulutsani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:45:33.875407160Z",
+  "model": "glm-5.3"
+}

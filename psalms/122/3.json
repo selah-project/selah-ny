@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 122,
+  "translation": "Yerushalayimu, yomangidwa ngati mzinda wolumikizidwa limodzi ⟨kwa iye⟩.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "yomangidwa"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "ngati mzinda"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "wolumikizidwa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "limodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:13.930303772Z",
+  "model": "glm-5.3"
+}

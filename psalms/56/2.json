@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 56,
+  "translation": "Ndiwe chifundo ndi ine, Elohim, chifukwa munthu andyezera ⟨ץ⟩ ine; tsiku lonse akalimbana adzandibangula.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ndiwe chifundo ndi ine"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "andyezera ine"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "akalimbana"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "adzandibangula"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:38.106263686Z",
+  "model": "glm-5.3"
+}

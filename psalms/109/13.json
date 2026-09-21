@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "Mapeto ake akhale kuti achotse mphambu yawo; m'mibadwo ina dzina lawo lachotsedwe.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "akhale"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "mapeto ake"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "kuti achotse mphambu yawo"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "m'mibadwo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ina"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "lachotsedwe"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "dzina lawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:29.565499135Z",
+  "model": "glm-5.3"
+}

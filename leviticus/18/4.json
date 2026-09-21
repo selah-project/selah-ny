@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "⟨את⟩ chiweruzo changa muchite, ndi ⟨את⟩ malamulo anga musunge, poduta m'menemo; Ine ndine Yahwe Elohim wanu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiweruzo changa"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "chiweruzo changa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "muchite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malamulo anga"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "malamulo anga"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "musunge"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "poduta"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:39:54.672028280Z",
+  "model": "glm-5.3"
+}

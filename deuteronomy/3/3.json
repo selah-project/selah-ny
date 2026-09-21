@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo Yahwe Elohim wathu anapereka m'manja mwathu komanso ⟨את⟩ Ogu, mfumu ya Bashani, ndi ⟨את⟩ anthu ake onse; ndipo tinamugunda mpaka popanda kumusiya wotsalapo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "anapereka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "m'manja mwathu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "komanso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ogu"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ogu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ya Bashani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "anthu ake onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "tinamugunda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "popanda"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "kumusiya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "wotsalapo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:14:38.123982516Z",
+  "model": "glm-5.3"
+}

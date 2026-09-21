@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 139,
+  "translation": "Inu mudziwa kukhala kwanga ndi kuuka kwanga; munazindikira maganizo anga kuchokera kure.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Inu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "mudziwa"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "kukhala kwanga"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "ndi kuuka kwanga"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "munazindikira"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "maganizo anga"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kuchokera kure"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:29.641374039Z",
+  "model": "glm-5.3"
+}

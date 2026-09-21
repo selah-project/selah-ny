@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 74,
+  "translation": "Iwe unatsekula gwero la madzi ndi mtsinje; iwe unayimitsa mitsinje yosalala.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "unatsekula"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "gwero la madzi"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "ndi mtsinje"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "unayimitsa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mitsinje"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "yosalala"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:05.978879479Z",
+  "model": "glm-5.3"
+}

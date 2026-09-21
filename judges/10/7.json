@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 10:7",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo kukwiya kwa Yahwe kwathamanga pa Yisraeli, ndipo anawagulitsa m'dzanja la Afilisti ndi m'dzanja la ana a Amoni.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "kwathamanga"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kukwiya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "pa Yisraeli"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "anawagulitsa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilisti"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ndi m'dzanja la"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    }
+  ],
+  "timestamp": "2026-09-21T07:51:55.445670489Z",
+  "model": "glm-5.3"
+}

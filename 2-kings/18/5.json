@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 18:5",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Mwa Yahwe, Elohim wa Yisraeli, anavomereza; ndipo pambuyo pake palibe wofanana naye mwa mfumu zonse za Yehudah, kapena mwa iwo amene analipo pamaso pake.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Mwa Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "anavomereza"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "ndipo pambuyo pake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "analipo"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "wofanana naye"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mfumu zonse"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "za Yehudah"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kapena mwa iwo amene"
+    },
+    {
+      "surface": "היו",
+      "gloss": "analipo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pamaso pake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:56:00.933049340Z",
+  "model": "glm-5.3"
+}

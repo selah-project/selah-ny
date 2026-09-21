@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo Avraham anayenda kumeneko, kuluta ku dziko la Neghevi, nakhala pakati pa Kadeshi ndi pakati pa Shuru, nakhala alendo ku Gerari.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ku dziko"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "la Neghevi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nakhala"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadeshi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shuru"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "nakhala alendo"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "ku Gerari"
+    }
+  ],
+  "timestamp": "2026-09-21T12:53:52.151863232Z",
+  "model": "glm-5.3"
+}

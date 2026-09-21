@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Umagulitsa anthu ako popanda phindu, ndipo suwonjezera kanthu pa mtengo wawo.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "Umagulitsa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "anthu ako"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "popanda"
+    },
+    {
+      "surface": "הון",
+      "gloss": "phindu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sau"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "wonjezera"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "pa mtengo wawo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:52.824674878Z",
+  "model": "glm-5.3"
+}

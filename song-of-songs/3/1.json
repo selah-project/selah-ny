@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Pa bedi langa mu mausoiku ndinafunafuna ⟨את⟩ amene moyo wanga umamukonda; ndinafunafuna iye, koma sindinapeza iye.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "bedi langa"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "mu mausoiku"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "ndinafunafuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amene moyo wanga umamukonda"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "amene moyo wanga umamukonda"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "ndinafunafuna iye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma si"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "ndinapeza iye"
+    }
+  ],
+  "timestamp": "2026-09-21T11:48:35.748951564Z",
+  "model": "glm-5.3"
+}

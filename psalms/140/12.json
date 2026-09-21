@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 140,
+  "translation": "Wolankhula zoipa sadzakhazikika m'dziko lapansi; wankhanza ndi woipa chisautso chidzamulondola mpaka kugwa.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "wo-"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lankhula zoipa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sadzakhazikika"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "⟨sadzakhazikika⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko lapansi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wo-"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nkanza"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ndi woipa"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "chidzamulondola"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "mpaka kugwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:05.493638596Z",
+  "model": "glm-5.3"
+}

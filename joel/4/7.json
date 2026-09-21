@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Taona, ine ndidzawadzutsa kuchoka m'malo amene mudawagulitsa ⟨את⟩ kumeneko, ndipo ndidzabwezera chilango chanu pa mutu wanu.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Taona, ine"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "ndidzawadzutsa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchoka"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "m'malo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "mudawagulitsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo (kumeneko)"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "ndipo ndidzabwezera"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "chilango chanu"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "pa mutu wanu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:24:26.163669810Z",
+  "model": "glm-5.3"
+}

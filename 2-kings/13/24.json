@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 13:24",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo Khazaeli, mfumu ya Aramu, anafa, ndipo Beni-Hadadi mwana wake anachita mfumu m'malo mwake.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "anafa"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Khazaeli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ya Aramu"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "anachita mfumu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Beni-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "m'malo mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:54:02.787555450Z",
+  "model": "glm-5.3"
+}

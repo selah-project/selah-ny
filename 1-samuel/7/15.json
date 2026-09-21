@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo Shemueli anaweruza ⟨את⟩ Yisraeli masiku onse a moyo wake.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "anaweruza"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "masiku a"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "moyo wake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:01:15.308291934Z",
+  "model": "glm-5.3"
+}

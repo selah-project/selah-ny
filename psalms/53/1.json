@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 53,
+  "translation": "Kwa woyang'anira, pa Machalati, maphunziro a Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalati"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maphunziro"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:58.924606890Z",
+  "model": "glm-5.3"
+}

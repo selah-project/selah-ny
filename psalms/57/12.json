@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 57,
+  "translation": "Yambikira paddaru pa miyamba, Elohim; pa dziko lonse ⟨kukhale⟩ ulemerero wako.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Yambikira paddaru"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "miyamba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ulemerero wako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:04.978690554Z",
+  "model": "glm-5.3"
+}

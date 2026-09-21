@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 21:18",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo Menashe anagona ndi makolo ake, ndipo anaikidwa m'munda wa nyumba yake, m'munda wa Uza; ndipo Amoni mwana wake anachita ufumu m'malo mwake.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Ndipo anagona"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "makolo ake"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ndipo anaikidwa"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "m'munda"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wa nyumba yake"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "m'munda"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "wa Uza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ndipo anachita ufumu"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "m'malo mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:58:36.128627499Z",
+  "model": "glm-5.3"
+}

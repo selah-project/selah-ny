@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 71,
+  "translation": "Nati: Elohim wamsiya; mularani ndipo mugwire ⟨iye⟩, pakuti palibe wopulumutsa.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "wamsiya"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "mularani"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "ndipo mugwire ⟨iye⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "wopulumutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:49.545195196Z",
+  "model": "glm-5.3"
+}

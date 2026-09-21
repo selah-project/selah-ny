@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "koma udzakawirikiza kudziko langa ndi kwa mbadwo wanga, ndipo udzamkazi wangamkazi wa mwana wanga, wa Yitsakhaki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "koma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "udzakawirikiza kwa"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "dziko langa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi kwa"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "mbadwo wanga"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "udzakawirikiza"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ndipo udzamkazi wangamkazi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "wa mkazi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wa mwana wanga"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "wa Yitsakhaki"
+    }
+  ],
+  "timestamp": "2026-09-21T05:51:30.702771350Z",
+  "model": "glm-5.3"
+}

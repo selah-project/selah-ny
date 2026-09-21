@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo udzalowetsa ⟨את⟩ gome, ndipo udzakonza ⟨את⟩ kukonzekwa kwake; ndipo udzalowetsa ⟨את⟩ chida cha nyale, ndipo udzayatsa ⟨את⟩ nyale zake.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "udzalowetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gome"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "gome"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "udzakonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kukonzekwa kwake"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "kukonzekwa kwake"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "udzalowetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chida cha nyale"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "chida cha nyale"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "udzayatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyale zake"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "nyale zake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:48.522663203Z",
+  "model": "glm-5.3"
+}

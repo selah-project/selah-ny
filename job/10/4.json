@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Kodi maso a thupi muli nazo, kapena monga momwe iye amamuona munthu, ndiye iwe umaona?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "maso"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "a thupi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "muli nazo iwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "monga momwe amaona"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "munthu wamimba"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "iwe umaona"
+    }
+  ],
+  "timestamp": "2026-09-21T11:35:31.879233026Z",
+  "model": "glm-5.3"
+}

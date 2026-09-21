@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Yahwe, musanditsutsire m'dodzi lanu, ndipo musandilange m'mkwira wanu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musanditsutsire-mu"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "m'dodzi lanu"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "musanditsutsire"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "m'mkwira wanu"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "musandilange"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:33.587684028Z",
+  "model": "glm-5.3"
+}

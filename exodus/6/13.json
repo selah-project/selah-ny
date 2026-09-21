@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 6:13",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo Yahwe anayankhula kwa Moshe ndi kwa Aharoni, ndipo anawalamulira za ana a Yisraeli ndi za Paro, mfumu ya Mitsrayimu, kuti amatulutse ⟨את⟩ ana a Yisraeli m'dziko la Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "anayankhula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi kwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "anawalamulira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "za"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi za"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayimu"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "kuti amatulutse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:57.379962029Z",
+  "model": "glm-5.3"
+}

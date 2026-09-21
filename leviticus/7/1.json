@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo iyi ndi Tora ya hashashemu (nsembe ya cholingacholowa): chopatulika cha zopatulika ndiyo.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ndi iyi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora ya"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "hashashemu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chopatulika"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "cha zopatulika"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiyo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:32:27.865086921Z",
+  "model": "glm-5.3"
+}

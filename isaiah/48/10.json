@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 48,
+  "translation": "Onani, ndinayeretsa iwe, koma osati monga siliva; ndinasankha iwe m'ng'anjo ya masautso.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "onani"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "ndinayeretsa iwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma osati"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "monga siliva"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "ndinasankha iwe"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "m'ng'anjo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ya masautso"
+    }
+  ],
+  "timestamp": "2026-09-21T09:19:21.697896028Z",
+  "model": "glm-5.3"
+}

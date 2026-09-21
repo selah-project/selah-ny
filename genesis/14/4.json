@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Zaka zakhumi ndi ziŵiri anatumikira ⟨את⟩ Kedarlaomeri, koma chaka chachikhumi ndi chachitatu anamukanira.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "ziŵiri"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zakhumi ndi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Zaka"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "anatumikira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedarlaomeri"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedarlaomeri"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "koma chaka chachitatu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ndi chakhumi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "chaka"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "anamukanira"
+    }
+  ],
+  "timestamp": "2026-09-21T05:47:13.563778518Z",
+  "model": "glm-5.3"
+}

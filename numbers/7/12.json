@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 7:12",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo wakubweretsa ⟨את⟩ nsembe yake pa tsiku loyamba anali Nakhshoni, mwana wa Aminadabu, wa fuko la Yuda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo unali"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "wakubweretsa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pa tsiku"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "loyamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe yake"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "nsembe yake"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhshoni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadabu"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "wa fuko la"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    }
+  ],
+  "timestamp": "2026-09-21T06:53:44.013968400Z",
+  "model": "glm-5.3"
+}

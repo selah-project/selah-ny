@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 11:21",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Hadadi anamva m'Mitsrayimu kuti Davide anagona ndi makolo ake, ndi kuti Yoabu, mtsogoleri wa nkhondo, wafa; ndipo Hadadi anati kwa Paro: “Ndichotse, ndidzapita ku dziko langa.”",
+  "tokens": [
+    {
+      "surface": "והדד",
+      "gloss": "Hadadi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "anamva"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "m'Mitsrayimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "anagona"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "makolo ake"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ndi kuti"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wafa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mtsogoleri"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "wa nkhondo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanena"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Ndichotse"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "ndidzapita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "dziko langa"
+    }
+  ],
+  "timestamp": "2026-09-21T08:39:22.292947023Z",
+  "model": "glm-5.3"
+}

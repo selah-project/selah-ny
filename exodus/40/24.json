@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo adaika ⟨את⟩ menora m'chihema cha msonkhano, kutsanjana ndi gome, pa thupi la chihema, mmbwampoto.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "adaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menora"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "m'chihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "cha msonkhano"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "kutsanjana ndi"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "gome"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "thupi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "la chihema"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "mmbwampoto"
+    }
+  ],
+  "timestamp": "2026-09-21T12:57:23.161034828Z",
+  "model": "glm-5.3"
+}

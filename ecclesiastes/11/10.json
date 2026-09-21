@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo chotsani mkwiyo mtima wanu, ndipo chotsani choipa thupi lanu, pakuti ubwana ndi kachinyamata ndi zopanda phindu.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "Ndipo chotsani"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "mkwiyo"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "mtima wanu"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "ndipo chotsani"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "thupi lanu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "ubwana"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "kachinyamata"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "zopanda phindu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:32:23.110740310Z",
+  "model": "glm-5.3"
+}

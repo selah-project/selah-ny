@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndingaonere mafupa anga onse; iwo akitayang'ana, aona ndikundiyang'ana ine.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "ndingaonere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mafupa anga"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "akitayang'ana"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "aona"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kundiyang'ana ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:11.622516340Z",
+  "model": "glm-5.3"
+}

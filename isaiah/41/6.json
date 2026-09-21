@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Munthu aliense amathandiza ⟨את⟩ mnzake, ndipo kwa m'bale wake amanena kuti: “Khalani wolimbika.”",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "munthu aliense"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mnzake"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mnzake"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "amathandiza"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "ndipo kwa m'bale wake"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "amanena kuti"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Khalani wolimbika"
+    }
+  ],
+  "timestamp": "2026-09-21T09:17:13.330386457Z",
+  "model": "glm-5.3"
+}

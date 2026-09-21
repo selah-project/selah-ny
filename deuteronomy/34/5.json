@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Ndipo Moshe, munda wa Yahwe, anamwalira komweko, m'dziko la Mowabu, monga mwa kamva kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "anamwalira"
+    },
+    {
+      "surface": "שם",
+      "gloss": "komweko"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "munda wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko la"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowabu"
+    },
+    {
+      "surface": "על",
+      "gloss": "monga mwa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kamva kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T07:31:47.488075477Z",
+  "model": "glm-5.3"
+}

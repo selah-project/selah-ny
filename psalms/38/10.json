@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Adonayi, pamaso pako chili chilakolako changa chonse; ndipo mpweya wanga wokhumudwa sikunabisike kwa iwe.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "pamaso pako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chonse"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "chilakolako changa"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "ndipo mpweya wanga wokhumudwa"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "kunabisike"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:37.701867887Z",
+  "model": "glm-5.3"
+}

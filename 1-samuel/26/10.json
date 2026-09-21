@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo Dawidi anati: “Yahwe ali ndi moyo — ndithu Yahwe adzam'gunda, kapena tsiku lake lidzafika ndi kufa, kapena adzatsika m'nkhondo ndi kuwonongeka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ali ndi moyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "adzam'gunda"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "tsiku lake"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "lidzafika"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ndi kufa"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "m'nkhondo"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "adzatsika"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "ndi kuwonongeka"
+    }
+  ],
+  "timestamp": "2026-09-21T08:14:56.519367689Z",
+  "model": "glm-5.3"
+}

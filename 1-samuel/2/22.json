@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 2:22",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Eli anali wokalamba kwambiri, ndipo anamva ⟨את⟩ zonse zimene ana ake ankachita ku Yisraeli konse, ndi ⟨את⟩ zimene amagona ndi ⟨את⟩ akaziwo amene ankatumikira pa khomo la ohema la msonkhano.",
+  "tokens": [
+    {
+      "surface": "ועלי",
+      "gloss": "Ndipo Eli"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "anali wokalamba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "anamva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "ankachita"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli konse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zimene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "amagona ndi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akaziwo"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "akaziwo"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "amene ankatumikira"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pa khomo la"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ohema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "la msonkhano"
+    }
+  ],
+  "timestamp": "2026-09-21T07:59:42.971616810Z",
+  "model": "glm-5.3"
+}

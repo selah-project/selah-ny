@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 126,
+  "translation": "Nyimbo ya makwerero. Pamene Yahwe anabweretsa ⟨את⟩ kubweranso kwa Tsiyoni, tinali ngati olota.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya makwerero"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Pamene … anabweretsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kubweranso kwa Tsiyoni"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "kubweranso"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "tinali"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "ngati olota"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:23.336193654Z",
+  "model": "glm-5.3"
+}

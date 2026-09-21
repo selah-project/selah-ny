@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo anatenga pafupifupi anthu chikwi chisanu, nayika ⟨את⟩ iwo m'malo obisikira pakati pa Beti-eli ndi Ayi, kumadzulo kwa mzinda.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "pafupifupi asanu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "chikwi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nayika"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "m'malo obisikira"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "m'malo obisikira"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eli"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ayi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "kumadzulo"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kwa mzinda"
+    }
+  ],
+  "timestamp": "2026-09-21T07:36:10.794611179Z",
+  "model": "glm-5.3"
+}

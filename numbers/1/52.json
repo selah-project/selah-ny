@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 1:52",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo ana a Yisraeli adzakhala m'misasa, munthu m'misasa yake, ndipo munthu pa chizindikiro chake, m'magulu awo.",
+  "tokens": [
+    {
+      "surface": "וחנו",
+      "gloss": "Ndipo adzakhala m'misasa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "על",
+      "gloss": "m'misasa yake"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "misasa yake"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ndipo munthu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דגלו",
+      "gloss": "chizindikiro chake"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "m'magulu awo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:49:15.505509463Z",
+  "model": "glm-5.3"
+}

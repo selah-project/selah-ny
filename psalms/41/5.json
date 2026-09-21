@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Ine ndinati: “Yahwe, chitire chifundo, chiritsa moyo wanga, pakuti ndachimwira iwe.”",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndinati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "chitire chifundo"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "chiritsa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ndachimwira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:11.283772918Z",
+  "model": "glm-5.3"
+}

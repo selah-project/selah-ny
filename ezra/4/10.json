@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 4:10",
+  "book": "ezra",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "ndi mitundu ina ya anthu amene Asnaparu, mfumu yaikulu ndi wolemetsa, anawatengera kuwariko ndi kuikitsa m'mudzi wa Shomroni, ndi ena m'boma lalikulu kumadzulo kwa Mtsinje, ndi nthawi inanso.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "ndi mitundu ina"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "mitundu ya anthu"
+    },
+    {
+      "surface": "די",
+      "gloss": "amene"
+    },
+    {
+      "surface": "הגלי",
+      "gloss": "anawatengera kuwariko"
+    },
+    {
+      "surface": "אסנפר",
+      "gloss": "Asnaparu"
+    },
+    {
+      "surface": "רבא",
+      "gloss": "yaikulu"
+    },
+    {
+      "surface": "ויקירא",
+      "gloss": "ndi wolemetsa"
+    },
+    {
+      "surface": "והותב",
+      "gloss": "ndi kuikitsa"
+    },
+    {
+      "surface": "המו",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "בקריה",
+      "gloss": "m'mudzi"
+    },
+    {
+      "surface": "די",
+      "gloss": "wa"
+    },
+    {
+      "surface": "שמרין",
+      "gloss": "Shomroni"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "ndi ena"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kumadzulo kwa"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "Mtsinje"
+    },
+    {
+      "surface": "וכענת",
+      "gloss": "ndi nthawi inanso"
+    }
+  ],
+  "timestamp": "2026-09-21T12:12:34.736053727Z",
+  "model": "glm-5.3"
+}

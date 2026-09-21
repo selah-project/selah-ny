@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Sanachotse chilakolako chawo; chakudya chinali chikadali m'kamwa mwawo,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sa(na)"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "anachotsera"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "chilakolako chawo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "chikadali"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "chakudya"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "m'kamwa mwawo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:49.421906967Z",
+  "model": "glm-5.3"
+}

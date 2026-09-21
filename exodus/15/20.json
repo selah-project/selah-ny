@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo Miriyamu, mneneri wamkazi, mlongo wa Aharoni, anatenga ⟨את⟩ ngoma m'dzanja mwake; ndipo akazi onse anatuluka akamutsata iye, ndi ngoma ndi kuvina.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miriyamu"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "mneneri wamkazi"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "mlongo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "wa Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngoma"
+    },
+    {
+      "surface": "התף",
+      "gloss": "ngoma"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "m'dzanja mwake"
+    },
+    {
+      "surface": "ותצאן",
+      "gloss": "anatuluka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "akazi"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "akamutsata iye"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "ndi ngoma"
+    },
+    {
+      "surface": "ובמחלת",
+      "gloss": "ndi kuvina"
+    }
+  ],
+  "timestamp": "2026-09-21T06:14:04.066752922Z",
+  "model": "glm-5.3"
+}

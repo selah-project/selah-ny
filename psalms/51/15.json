@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 51,
+  "translation": "Ndidzaphunzitsa olakwa njira zako, ndipo ochimwa adzabwerera kwa iwe.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "ndidzaphunzitsa"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "olakwa"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "njira zako"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ndipo ochimwa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "adzabwerera"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:41.286280080Z",
+  "model": "glm-5.3"
+}

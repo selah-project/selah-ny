@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo ⟨את⟩ Aharoni ndi ⟨את⟩ ana ake uziwayang'anira, ndipo adzasunga ⟨את⟩ ubusito wawo; ndipo wachilendo wokwedwa udzafa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana ake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "uziwayang'anira"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "adzasunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubusito wawo"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "ubusito wawo"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "ndipo wachilendo"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "wokwedwa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "udzafa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:49:54.636011692Z",
+  "model": "glm-5.3"
+}

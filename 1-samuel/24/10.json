@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo Davide anati kwa Shauli: “Chiyani mukumva ⟨את⟩ mawu a anthu akuti: Onani, Davide akufuna choipa chako?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kwa Shauli"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Chiyani"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "mukumva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu a anthu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a anthu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akuti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Onani"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "akufuna"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "choipa chako"
+    }
+  ],
+  "timestamp": "2026-09-21T08:12:03.793903049Z",
+  "model": "glm-5.3"
+}

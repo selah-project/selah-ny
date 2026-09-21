@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo Aaramu anaona kuti anagonjetsedwa pamaso pa Yisraeli, ndipo anadziwunganitsa limodzi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aaramu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "anagonjetsedwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "anadziwunganitsa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "limodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:21:49.127922894Z",
+  "model": "glm-5.3"
+}

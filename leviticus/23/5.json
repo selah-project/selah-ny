@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "M’mwezi woyamba, pa tsiku lachinayi ndi khumi la mwezi, pakati pa madzulo, ⟨ali⟩ Paseka kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "M’mwezi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "woyamba"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "pa lachinayi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ndi khumi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la mwezi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "pa madzulo"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:43:06.974086373Z",
+  "model": "glm-5.3"
+}

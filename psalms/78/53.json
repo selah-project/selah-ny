@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Ndipo adawatsekereza mtendere, ndipo sanalebeke; koma nyanja inazunza ⟨את⟩ adani awo.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "adawatsekereza"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "mtendere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sanalebeke"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "sanalebeke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "adani awo"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "adani awo"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "inazunza"
+    },
+    {
+      "surface": "הים",
+      "gloss": "nyanja"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:01.591803861Z",
+  "model": "glm-5.3"
+}

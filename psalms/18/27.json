@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo kwa woyera umayeretsedwa, ndipo kwa wakhotakhota umatsanzikidwa naye.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "umayeretsedwa"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ndipo kwa"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "wakhotakhota"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "umatsanzikidwa naye"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:02.326407703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Kamodzi ndalumbira m'chipatso changa choyera: sindidzam'khamba ngati Dawid.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Kamodzi"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ndalumbira"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "m'chipatso changa choyera"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati (sindi)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "sindidzam'khamba"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:53.258779940Z",
+  "model": "glm-5.3"
+}

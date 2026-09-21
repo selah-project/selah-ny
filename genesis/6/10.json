@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Noa anabala ana aamuna atatu: ⟨את⟩ Shemu, ⟨את⟩ Chamu, ndi ⟨את⟩ Yafetu.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ana aamuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chamu"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Chamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Yafetu"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yafetu"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:35.910168383Z",
+  "model": "glm-5.3"
+}

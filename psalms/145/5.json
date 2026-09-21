@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 145,
+  "translation": "Kulemera kwa ulemerero wa ukulu wako, ndi mawu a zodabwitsa zako, ndidzaganizira.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "Kulemera"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kwa ulemerero"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "wa ukulu wako"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "ndi mawu"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "a zodabwitsa zako"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ndidzaganizira"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:05.319466833Z",
+  "model": "glm-5.3"
+}

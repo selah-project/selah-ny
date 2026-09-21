@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 73,
+  "translation": "Chifukwa chake chikondwerero chimawalamangira monga khola, kavazi kodzala chiwawa chimawavindula ngati chovala.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "chifukwa chake"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "chimawalamangira monga khola"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "chikondwerero"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "chimawavindula"
+    },
+    {
+      "surface": "שית",
+      "gloss": "ngati chovala"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "chiwawa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "chimawavindula ngati chovala"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:18.976020064Z",
+  "model": "glm-5.3"
+}

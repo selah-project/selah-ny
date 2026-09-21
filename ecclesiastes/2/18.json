@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo inenso ndinadana ndi ⟨את⟩ ntchito yanga yonse yomwe ndinagwira pansi pa dzuwa, popeza ndidzaisiye kwa munthu amene adzakhala pambuyo panga.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "ndinadana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "inenso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntchito yanga yonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "ntchito yanga"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "yomwe ine"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ndinagwira"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dzuwa"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "ndidzaisiye"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "kwa munthu"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "amene adzakhala"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pambuyo panga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:33.319992055Z",
+  "model": "glm-5.3"
+}

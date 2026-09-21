@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo anabweretsa ⟨את⟩ ansembe ndi ⟨את⟩ Alevi, nawasonkhanitsa ku dera la kum'mawa.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ndipo anabweretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ansembe"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Alevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Alevi"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "nawasonkhanitsa"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "ku dera la"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "kum'mawa"
+    }
+  ],
+  "timestamp": "2026-09-21T12:48:13.797686008Z",
+  "model": "glm-5.3"
+}

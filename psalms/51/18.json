@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 51,
+  "translation": "Pakuti simuifikira mtima nsembe; ndithu ndikadapereka; nsembe yopsereza simuikondwera nayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "muifikira mtima"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ndithu ndikadapereka"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "nsembe yopsereza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "muikondwera nayo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:30.093773501Z",
+  "model": "glm-5.3"
+}

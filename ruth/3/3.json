@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Choncho usambire, ndipo uzidzozedwa, ndipo uvale chovala chako, ndipo utseke pa malo a kuswa chimanga; musadziwikeke ndi munthuwo, kufikira atatha kudya ndi kumwa.",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "usambire"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "uzidzozedwa"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "uvale"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "chovala chako"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pa iwe"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "utseke"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "pa malo a kuswa chimanga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mus"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "adziwikeke"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ndi munthuwo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "atatha"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kudya"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "ndi kumwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:51:47.418689913Z",
+  "model": "glm-5.3"
+}

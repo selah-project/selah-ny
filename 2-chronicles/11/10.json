@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "ndi ⟨את⟩ Tsoraha, ndi ⟨את⟩ Ayaloni, ndi ⟨את⟩ Hevroni, zimene zili m'Yehudah ndi m'Binyamini, midzi ya mazinga",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Tsoraha"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsoraha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Ayaloni"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayaloni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Hevroni"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevroni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene zili"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "m'Yehudah"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "ndi m'Binyamini"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "midzi"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "ya mazinga"
+    }
+  ],
+  "timestamp": "2026-09-21T12:39:15.946919174Z",
+  "model": "glm-5.3"
+}

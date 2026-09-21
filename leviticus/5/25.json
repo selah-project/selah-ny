@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo adzabweretsa ⟨את⟩ ashamu yake kwa Yahwe: nkhosa yambiya yopanda chilema ya m'gulu la nkhosa, monga mwa mlingo wa mtengo wako, ngati ashamu, kwa wansembe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ashamu yake"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "ashamu yake"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "adzabweretsa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "איל",
+      "gloss": "nkhosa yambiya"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "yopanda chilema"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ya m'modzi mwa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "gulu la nkhosa"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "monga mwa mlingo wa mtengo wako"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "ngati ashamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:49.398786060Z",
+  "model": "glm-5.3"
+}

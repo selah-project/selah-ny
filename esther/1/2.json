@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Mu masiku amenewa, mfumu Achashverosh pokhala pa mpando wachifumu wa ufumu wake, umene uli ku Shushan hbirah.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "Mu masiku"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "amenewa"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "pokhala"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "mpando wachifumu"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ufumu wake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "ku Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "hbirah (bwalo loyera la mfumu)"
+    }
+  ],
+  "timestamp": "2026-09-21T12:00:18.849154127Z",
+  "model": "glm-5.3"
+}

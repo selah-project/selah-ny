@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Aemimu kale anakhala mmenemo, anthu aakulu ndi ambiri ndi atali, monga Aanaki.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "Aemimu"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "kale"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mmenemo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "aakulu"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ndi ambiri"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ndi atali"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "monga Aanaki"
+    }
+  ],
+  "timestamp": "2026-09-21T07:12:50.409737647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 84,
+  "translation": "Wodala iwo akhala m'nyumba yako; adzakuyamikira nthawi zonse. Selah.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Wodala"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "akhala"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "m'nyumba yako"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nthawi zonse"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "adzakuyamikira"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:17.242261719Z",
+  "model": "glm-5.3"
+}

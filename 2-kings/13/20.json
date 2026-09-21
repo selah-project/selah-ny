@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo Elisha anafa, ndipo anam'belera m'manda. Ndipo magulu anankhondo a Moabu analowa m'dziko lapansi, pofika chaka.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Ndipo anafa"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "anam'belera m'manda"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "magulu anankhondo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "a Moabu"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "analowa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko lapansi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "pofika"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "chaka"
+    }
+  ],
+  "timestamp": "2026-09-21T08:55:23.908906903Z",
+  "model": "glm-5.3"
+}

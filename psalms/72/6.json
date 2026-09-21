@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 72,
+  "translation": "Adzatsika monga mvula pa udzu wodula, monga mavula ozizira odzaza dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "Adzatsika"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "monga mvula"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "גז",
+      "gloss": "udzu wodula"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "monga mavulo ozizira"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "odzaza"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:53.140823194Z",
+  "model": "glm-5.3"
+}

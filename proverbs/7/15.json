@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 7:15",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Chifukwa chake nadzatulukira kukakonza ⟨iwe⟩, ndikufunafuna nkhope yanu, ndipo ndinapeza iwe.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "chifukwa chake ⟨pa⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chifukwa chake"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "nadzatulukira"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "kukakonza ⟨iwe⟩"
+    },
+    {
+      "surface": "לשחר",
+      "gloss": "ndikufunafuna"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nkhope yanu"
+    },
+    {
+      "surface": "ואמצאך",
+      "gloss": "ndipo ndinapeza iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:45.877518043Z",
+  "model": "glm-5.3"
+}

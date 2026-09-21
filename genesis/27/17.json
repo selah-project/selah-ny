@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo iye anapereka ⟨את⟩ zakudya zavomerezeka ndi ⟨את⟩ mkate umene anachita, m'dzanja la Yaakov mwana wake.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "anapereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zakudya zavomerezeka"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "zakudya zavomerezeka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mkate"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "m'dzanja"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mwana wake"
+    }
+  ],
+  "timestamp": "2026-09-21T05:54:18.368357423Z",
+  "model": "glm-5.3"
+}

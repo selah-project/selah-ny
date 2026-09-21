@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Ndipo Yosefe anaona ⟨את⟩ abale ake, anawadziwa, koma anadzisandutsa wachilendo kwa iwo, nayankhula ⟨את⟩ ndi iwo molimbika, nanena kwa iwo: “Kuti mukuchokera?” Ndipo iwo anati: “Kuchokera mdziko la Kenaani, kugula chakudya.”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abale ake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abale ake"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "anawadziwa"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "anadzisandutsa wachilendo"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "nayankhula"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ndi"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "molimbika"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanena"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "Kuti"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "mukuchokera"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ndipo iwo anati"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "Kuchokera mdziko"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "la Kenaani"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kugula"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "chakudya"
+    }
+  ],
+  "timestamp": "2026-09-21T06:03:05.329921873Z",
+  "model": "glm-5.3"
+}

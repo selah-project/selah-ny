@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Moto udzayakabe pa guwa nthawi zonse, sudzazimitsidwa.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Moto"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nthawi zonse"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "udzayakabe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sudza"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "zimitsidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:32:20.569982979Z",
+  "model": "glm-5.3"
+}

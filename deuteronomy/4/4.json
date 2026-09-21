@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Koma inu olumikidwa mwa Yahwe Elohim wanu, ndi moyo nonse lero.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Koma inu"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "olumikidwa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "mwa Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ndi moyo"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "nonse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    }
+  ],
+  "timestamp": "2026-09-21T07:16:09.915849052Z",
+  "model": "glm-5.3"
+}

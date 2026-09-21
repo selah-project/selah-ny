@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Sheti anakhalanso zaka mazana limodzi ndi zaka isanu ndi limodzi, nabala ⟨את⟩ Enoshi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "anakhalanso"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Sheti"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "isanu ndi limodzi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ndi mazana limodzi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "nabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enoshi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoshi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:43:06.543311320Z",
+  "model": "glm-5.3"
+}

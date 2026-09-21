@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Tsopano bwererani, ndipo pitani m'mtendere, ndipo musachite choipa pamaso a asereni a Afilisti.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Tsopano"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "bwererani"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "pitani"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "m'mtendere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo musa-"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "chite"
+    },
+    {
+      "surface": "רע",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "pamaso a"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "asereni"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a Afilisti"
+    }
+  ],
+  "timestamp": "2026-09-21T08:15:39.139526807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Pachiyambi Elohim adalenga ⟨את⟩ kumwamba ndi ⟨את⟩ dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Pachiyambi"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "adalenga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kumwamba"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "dziko lapansi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:41:19.815756254Z",
+  "model": "glm-5.3"
+}

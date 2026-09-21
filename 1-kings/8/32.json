@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 8:32",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "ndipo inu mudzamva m'miyamba, ndipo muchita, ndipo muweruza ⟨את⟩ akapolo anu, kulalikira woipa kuti ndi woipa, kupatsa njira yake pa mutu wake, ndi kulungamitsa wolungama, kumupatsa monga chilungamo chake.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ndipo inu"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "mudzamva"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "m'miyamba"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ndipo muchita"
+    },
+    {
+      "surface": "ושפטת",
+      "gloss": "ndipo muweruza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akapolo anu"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "akapolo anu"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "kulalikira woipa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "woipa"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kupatsa"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "njira yake"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "pa mutu wake"
+    },
+    {
+      "surface": "ולהצדיק",
+      "gloss": "ndi kulungamitsa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kupatsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "כצדקתו",
+      "gloss": "monga chilungamo chake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:38:07.500143394Z",
+  "model": "glm-5.3"
+}

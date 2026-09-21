@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo udzachita ⟨את⟩ zitanda za Malo Opatulira; zitanda makumi awiri kuthengo lakumwera kutsidya lero.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "udzachita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zitanda za Malo Opatulira"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "zitanda"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "za Malo Opatulira"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi awiri"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "zitanda"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "kuthengo la"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "kumwera kutsidya lero"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "kumwera kutsidya lero"
+    }
+  ],
+  "timestamp": "2026-09-21T06:20:20.426672676Z",
+  "model": "glm-5.3"
+}

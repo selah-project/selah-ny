@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 82,
+  "translation": "Nyimbo ya Asafu. Elohim ayimirira m'phwando la El; pakati pa milungu amaweruza ⟨them⟩.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asafu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ayimirira"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "m'phwando"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "milungu"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "amaweruza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:12.867905098Z",
+  "model": "glm-5.3"
+}

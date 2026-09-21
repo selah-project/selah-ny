@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Akhi mwana wa Abdieli, mwana wa Guni, mutu wa banja la makolo awo.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Akhi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "Abdieli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "Guni"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wa banja la"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "makolo awo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:35:08.279836963Z",
+  "model": "glm-5.3"
+}

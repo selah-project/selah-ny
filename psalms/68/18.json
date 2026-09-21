@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 68,
+  "translation": "Magalimoto a Elohim ndi mazana masauzande ndi mazana ambiri osasowa; Adonayi ali pakati pawo, mu Sinayi, m'malo opatulika.",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "Magalimoto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "mazana masauzande ndi mazana ambiri"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "mazana ambiri"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "osasowa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pakati pawo"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "mu Sinayi"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "m'malo opatulika"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:18.116487636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Chifukwa chiyani mwasinkhasinkha, moyo wanga, ndi chifukwa chiyani m'kumbukumuka mkati mwa ine? Yembekezera Elohim, pakuti ndidzamudankhabe, chipulumutso cha nkhope yanga, ndi Elohim wanga.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Chifukwa chiyani"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "mwasinkhasinkha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ndi chifukwa chiyani"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "m'kumbukumuka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mkati mwa ine"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "Yembekezera"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "-be"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "ndidzamudankha"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "chipulumutso"
+    },
+    {
+      "surface": "פני",
+      "gloss": "cha nkhope yanga"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ndi Elohim wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:04.672161537Z",
+  "model": "glm-5.3"
+}

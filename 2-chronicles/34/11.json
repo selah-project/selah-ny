@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 34:11",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Ndipo anapereka kwa aluso ndi kwa amangi, kugula miyala yodulidwa ndi mitengo ya zolumikizira, ndi kukaza mipando ya viga pa ⟨את⟩ nyumba zimene mafumu a Yehudah anazivunda.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "anapereka"
+    },
+    {
+      "surface": "לחרשים",
+      "gloss": "kwa aluso"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "ndi kwa amangi"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "kugula"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "miyala"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "yodulidwa"
+    },
+    {
+      "surface": "ועצים",
+      "gloss": "ndi mitengo"
+    },
+    {
+      "surface": "למחברות",
+      "gloss": "ya zolumikizira"
+    },
+    {
+      "surface": "ולקרות",
+      "gloss": "ndi kukaza viga pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "anavunda"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-21T12:52:16.789141233Z",
+  "model": "glm-5.3"
+}

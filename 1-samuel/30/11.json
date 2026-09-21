@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo anapeza munthu wa ku Mitsrayimu m'thengo, namutenga ⟨אתו⟩ kwa Davide, namupatsa mkate, ndipo anadya; namuwetsetsa madzi.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "anapeza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "wa ku Mitsrayimu"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "m'thengo"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "namutenga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "kwa Davide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "namupatsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "anadya"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "namuwetsetsa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    }
+  ],
+  "timestamp": "2026-09-21T13:06:15.451449803Z",
+  "model": "glm-5.3"
+}

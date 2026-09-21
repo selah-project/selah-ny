@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ngati munthu atenga mkazi, nalowa kwa iye, namudana iye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "atenga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "nalowa"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "namudana iye"
+    }
+  ],
+  "timestamp": "2026-09-21T07:25:21.984474157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Koma iwe, Yahwe, usakhale kutali; mphamvu yanga, fichirira kundithandiza.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Koma iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "khale kutali"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "mphamvu yanga"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "kundithandiza"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "fichirira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:11.622866484Z",
+  "model": "glm-5.3"
+}

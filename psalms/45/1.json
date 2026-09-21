@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 45,
+  "translation": "Kwa woyang'anira, pa Shoshannim, la ana a Korach, chiphunzitso, nyimbo ya chikondi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "la ana a"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "chiphunzitso"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "ya chikondi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:35.087034423Z",
+  "model": "glm-5.3"
+}

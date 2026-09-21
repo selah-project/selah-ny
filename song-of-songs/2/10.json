@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Wokondedwa wanga anayankha nati kwa ine: Dzukani iwe, wokondedwa wanga, wokongola wanga; chokani iwe.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "anayankha"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "wokondedwa wanga"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "Dzukani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "wokondedwa wanga"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "wokongola wanga"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "chokani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:48:23.662895835Z",
+  "model": "glm-5.3"
+}

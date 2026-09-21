@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo chinachitika, pamene anamva ⟨את⟩ Tora, analekanitsa ku Yisraeli onse a mtundu wosakanika.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo chinachitika"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "pamene anamva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "analekanitsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "a mtundu wosakanika"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ku Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T12:22:07.265382924Z",
+  "model": "glm-5.3"
+}

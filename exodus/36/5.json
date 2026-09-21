@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Ndipo adanena kwa Moshe, kuti: “Anthu akubwera ndi zinthu zoposa chokwanira cha ntchito ya milimo imene Yahwe analamula kuchita ⟨את⟩ iyi.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ndipo adanena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "akubwera ndi zinthu zoposa chokwanira"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "kubwera ndi"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "oposa chokwanira cha"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ntchito ya"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "milimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "analamula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "kuchita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:56:46.911070665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo apange sandukulo la mtengo wa akashiya: maamah awiri ndi theka kutalika kwake, ndi amah limodzi ndi theka m'lifupi mwake, ndi amah limodzi ndi theka kukwera kwake.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Ndipo apange"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandukulo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "la mtengo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "wa akashiya"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "maamah awiri"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ndi theka"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "kutalika kwake"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ndi amah limodzi"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ndi theka"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "m'lifupi mwake"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ndi amah limodzi"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ndi theka"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "kukwera kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:19:43.036501393Z",
+  "model": "glm-5.3"
+}

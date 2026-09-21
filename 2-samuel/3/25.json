@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Umudziwa ⟨את⟩ Abneri mwana wa Neri, kuti anabwera kukukonderetsa iwe, ndi kudziwa ⟨את⟩ kutuluka kwako ndi ⟨את⟩ kulowa kwako, ndi kudziwa ⟨את⟩ zonse zimene iwe ukuchita.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Umudziwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abneri"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abneri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נר",
+      "gloss": "wa Neri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "kukukonderetsa iwe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "anabwera"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "ndi kudziwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutuluka kwako"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "kutuluka kwako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "kulowa kwako"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "kulowa kwako"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "ndi kudziwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ukuchita"
+    }
+  ],
+  "timestamp": "2026-09-21T08:17:45.688189998Z",
+  "model": "glm-5.3"
+}

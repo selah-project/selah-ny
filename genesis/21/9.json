@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo Sara adaona ⟨את⟩ mwana wa Hagara wa ku Mitsrayimu, amene anamubala kwa Avraham, akusewessa.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "adaona"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "wa Hagara"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "wa ku Mitsrayimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "anamubala"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kwa Avraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "akusewessa"
+    }
+  ],
+  "timestamp": "2026-09-21T05:50:25.486308620Z",
+  "model": "glm-5.3"
+}

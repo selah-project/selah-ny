@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Udzaphimba ⟨את⟩ iye ndi golide woyera, ndipo udzapangira chisoti cha golide chozungulira.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "udzaphimba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "gome"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "udzapangira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "זר",
+      "gloss": "chisoti"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "cha golide"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chozungulira"
+    }
+  ],
+  "timestamp": "2026-09-21T06:20:25.397966339Z",
+  "model": "glm-5.3"
+}

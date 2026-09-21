@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo Elohim anati kwa Avraham: “Ndipo iwe, usunge ⟨את⟩ pangano langa, iwe ndi mbewu yako za pambuyo pako, m'mibadwo yawo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo … anati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Ndipo iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangano langa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "pangano langa"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "usunge"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "ndi mbewu yako"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "za pambuyo pako"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "m'mibadwo yawo"
+    }
+  ],
+  "timestamp": "2026-09-21T05:47:59.933995442Z",
+  "model": "glm-5.3"
+}

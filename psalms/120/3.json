@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 120,
+  "translation": "Chidzakupatsa chiyani, ndi kukuonjezera chiyani, iwe pakamwa la chinyengo?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "chidzapatsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ndi chiyani"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "chidzaonjezera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "pakamwa"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "la chinyengo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:22.559923525Z",
+  "model": "glm-5.3"
+}

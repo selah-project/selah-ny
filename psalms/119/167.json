@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 167,
+  "ref": "psalms 119:167",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Moyo wungasunge mabwalo anu, ndipo ndawakonda ndithu.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "ungasunge"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Moyo wanga (uHomu)"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "mabwalo anu"
+    },
+    {
+      "surface": "ואהבם",
+      "gloss": "ndipo ndawakonda"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ndithu (kondwerolahika)"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:50.778963034Z",
+  "model": "glm-5.3"
+}

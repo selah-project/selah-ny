@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 58,
+  "translation": "Amene samva liwu la atsenga, wolenga zizindikiro ndi nzeru zazikulu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Amene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "mva"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "liwu"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "la atsenga"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "wolenga"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "zizindikiro"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "ndi nzeru zazikulu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:50.503139627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 115,
+  "translation": "Yahwe akwonjezere pa inu — pa inu ndi pa ana anu.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "akwonjezere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pa inu"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pa inu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ana anu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:08.245021326Z",
+  "model": "glm-5.3"
+}

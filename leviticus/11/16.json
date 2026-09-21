@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo ⟨את⟩ mwana wamkazi wa hyena, ndi ⟨את⟩ hatahmasi, ndi ⟨את⟩ hashahafu, ndi ⟨את⟩ hanetsi, monga mtundu wake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mwana wamkazi wa hyena"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "wa hyena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "hatahmasi"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "hatahmasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "hashahafu"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "hashahafu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "hanetsi"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "hanetsi"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "monga mtundu wake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:33:46.701401061Z",
+  "model": "glm-5.3"
+}

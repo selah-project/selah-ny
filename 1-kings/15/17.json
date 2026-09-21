@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 15:17",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo Baasha mfumu ya Israyeli anakwera pa Yuda, ndipo anamanga ⟨את⟩ Ramah, kuti asapereke kutuluka ndi kulowa kwa Asa mfumu ya Yuda.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "anakwera"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israyeli"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ndipo anamanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramah"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Ramah"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kuti asa-"
+    },
+    {
+      "surface": "תת",
+      "gloss": "-pereke"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kutuluka"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ndi kulowa"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "kwa Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yuda"
+    }
+  ],
+  "timestamp": "2026-09-21T08:43:03.700124391Z",
+  "model": "glm-5.3"
+}

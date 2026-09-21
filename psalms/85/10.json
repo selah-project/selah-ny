@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 85,
+  "translation": "Inde, chipulumutso chake chili pafupi ndi oopa Iye, kuti ulemerero ukhale m'dziko lathu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Inde"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "chili pafupi"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ndi oopa Iye"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "chipulumutso chake"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "kuti … ukhale"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ulemerero"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "m'dziko lathu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:27.678546517Z",
+  "model": "glm-5.3"
+}

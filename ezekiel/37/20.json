@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 37:20",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo mitengo umene mulemba pa iyo idzakhala m'dzanja lako pamaso pao.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "Ndipo idzakhala"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "mitengo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "mulemba"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pa iyo"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "m'dzanja lako"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "pamaso pao"
+    }
+  ],
+  "timestamp": "2026-09-21T10:13:36.051420769Z",
+  "model": "glm-5.3"
+}

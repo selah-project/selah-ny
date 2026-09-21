@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Mbadwo umapita, ndi mbadwo umadza; koma dziko lapansi limayimirira ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Mbadwo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "umapita"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ndi mbadwo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "umadza"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "koma dziko lapansi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "limayimirira"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:02.772579085Z",
+  "model": "glm-5.3"
+}

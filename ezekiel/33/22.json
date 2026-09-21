@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 33:22",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Ndipo dzanja la Yahwe linali pa ine madzulo, musanabwere wopulumukawo, nadzitsegula mkamwa wanga mpaka anafika kwa ine mmawa; ndipo mkamwa wanga unatsegulidwa, ndipo sindinakhala chetse kenakanso.",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "Ndipo dzanja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "linali"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "madzulo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "musanabwere"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "kubwera kwa"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "wopulumukawo"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "nadzitsegula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkamwa wanga"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mkamwa wanga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "anafika"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mmawa"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "unatsegulidwa ndi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mkamwa wanga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sindina-"
+    },
+    {
+      "surface": "נאלמתי",
+      "gloss": "khala chetse"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kenakanso"
+    }
+  ],
+  "timestamp": "2026-09-21T10:10:02.649108998Z",
+  "model": "glm-5.3"
+}

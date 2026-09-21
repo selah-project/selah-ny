@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 125,
+  "translation": "Pakuti linga la oipa silidzakoma mtima pa gawo la olungama, kuti olungama asatize manja awo ku chinyengo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "lidzakoma mtima"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "linga"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "la oipa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "gawo"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "la olungama"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asa"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "atize"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "olungama"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "ku chinyengo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "manja awo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:37.118410443Z",
+  "model": "glm-5.3"
+}

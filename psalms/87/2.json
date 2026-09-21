@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 87,
+  "translation": "Yahwe amakonda makomo a Tsiyoni koposa malire onse a Yakobo.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "amakonda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "makomo a"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "koposa onse a"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "malire"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:48.136993538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 25:25",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo upange chozungulira cha chidebe cha dzanja m'mbuyo, ndipo upange chisoti cha golidi cha chozungulira chake m'mbuyo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "upange"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "chozungulira"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "cha chidebe cha dzanja"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "m'mbuyo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "upange"
+    },
+    {
+      "surface": "זר",
+      "gloss": "chisoti"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "cha golidi"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "chozungulira chake"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "m'mbuyo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:56:49.951433041Z",
+  "model": "glm-5.3"
+}

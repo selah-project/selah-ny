@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "M'mudzi amathamangira, pa chikuta amathamanga, m'nyumba akwera, mwa zenero amalowa monga mbava.",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "m'mudzi"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "amathamangira"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "pa chikuta"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "amathamanga"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "akwera"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "zenero"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "amalowa"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "monga mbava"
+    }
+  ],
+  "timestamp": "2026-09-21T13:23:54.971810185Z",
+  "model": "glm-5.3"
+}

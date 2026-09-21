@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Siliva ndi yanga, ndipo golide ndi yanga, ati Yahwe Tsevaoti.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ndi yanga"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ndipo ndi yanga"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    }
+  ],
+  "timestamp": "2026-09-21T10:34:39.597603926Z",
+  "model": "glm-5.3"
+}

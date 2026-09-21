@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 76,
+  "translation": "Pakuti mkwiyo wa munthu udzakuyamika iwe; chotsalira cha mkwiyo udzaulenga lamba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "mkwiyo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa munthu"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "udzakuyamika iwe"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "chotsalira cha"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "mkwiyo"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "udzaulenga lamba"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:31.955550998Z",
+  "model": "glm-5.3"
+}

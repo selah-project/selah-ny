@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 147,
+  "translation": "Amene atuma lamulo lake pa dziko lapansi; liwu lake limathamanga kwamsanga kwakukulu.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Amene atuma"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "lamulo lake"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pa dziko lapansi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwakukulu"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "kwamsanga"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "limathamanga"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "liwu lake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:06.475228861Z",
+  "model": "glm-5.3"
+}

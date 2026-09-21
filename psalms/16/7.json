@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndidzalemekeza ⟨את⟩ Yahwe, amene andipatsa uphungu; inde, usiku ndi usiku mphapo zanga zimandiphunzitsa.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "ndidzalemekeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "andipatsa uphungu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "inde"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "usiku ndi usiku"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "zimandiphunzitsa"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "mphapo zanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:48.437421048Z",
+  "model": "glm-5.3"
+}

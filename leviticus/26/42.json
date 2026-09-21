@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo ndidzakumbukira ⟨את⟩ pangano langa la Yakobo, ndiponso ⟨את⟩ pangano langa la Yitsakhaki, ndiponso ⟨את⟩ pangano langa la Avraham ndidzayikumbukira, ndipo dziko ndidzayikumbukira.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "Ndipo ndidzakumbukira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangano langa la Yakobo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "pangano langa"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "la Yakobo"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangano langa la Yitsakhaki"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "pangano langa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "la Yitsakhaki"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangano langa la Avraham"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "pangano langa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "la Avraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "ndidzayikumbukira"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ndipo dziko"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "ndidzayikumbukira"
+    }
+  ],
+  "timestamp": "2026-09-21T06:48:15.112879712Z",
+  "model": "glm-5.3"
+}

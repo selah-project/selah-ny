@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Elohim wanga, mwa Inu ndadalira; ndisachititsidwe manyazi; odani anga asandiyamikire.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mwa Inu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ndadalinira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndisachititsidwe"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "manyazi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asa-"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "yamikire"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "odani anga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:17.959284447Z",
+  "model": "glm-5.3"
+}

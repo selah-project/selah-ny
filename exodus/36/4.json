@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Ndipo anadza anthu onse achangu akuchita ⟨את⟩ ntchito yonse ya chiyeretso, munthu ndi munthu kuchoka pa ntchito yake imene iwo ankayichita.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "anadza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "anthu achangu"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "akuchita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntchito yonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya chiyeretso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ndi munthu"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "kuchoka pa ntchito yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ankayichita"
+    }
+  ],
+  "timestamp": "2026-09-21T06:28:02.264507494Z",
+  "model": "glm-5.3"
+}

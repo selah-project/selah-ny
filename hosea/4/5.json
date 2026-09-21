@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Udzagwedezeka masana, ndipo mneneronso adzagwedezeka nawe usiku; ndipo ndidzaononga ⟨the⟩ mai wako.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "Udzagwedezeka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "masana"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "adzagwedezeka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "-onso"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "mneneri"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "ndidzaononga"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mai wako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:20:30.962033581Z",
+  "model": "glm-5.3"
+}

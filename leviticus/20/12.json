@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 20:12",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo munthu amene amagona ⟨את⟩ mkwatibwi wake — adzamwalira, ndithu adzamwalira iwo awiri; chisokonezo anachita; mwazi wawo uli pa iwo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ndipo munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "amagona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkwatibwi wake"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "mkwatibwi wake"
+    },
+    {
+      "surface": "מות",
+      "gloss": "adzamwalira"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ndithu adzamwalira"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "iwo awiri"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "chisokonezo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "mwazi wawo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:44.095888246Z",
+  "model": "glm-5.3"
+}

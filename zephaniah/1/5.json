@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo ⟨את⟩ opembedza pa mapanda a nyumba kwa Tsevaoti wa kumwamba, ndi ⟨את⟩ opembedza olumbira kwa Yahwe ndi olumbira mwa mfumu yawo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "opembedza"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "opembedza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "mapanda a nyumba"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "kwa Tsevaoti"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "wa kumwamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "opembedza"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "opembedza"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "olumbira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "ndi olumbira"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "mwa mfumu yawo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:34:12.547134822Z",
+  "model": "glm-5.3"
+}

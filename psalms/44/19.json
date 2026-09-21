@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Mtima wathu sanabwezere mbali, ndipo mayendedwe athu sanatope kuchokera pa njira yako.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sanabwezere"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "kubweza mbali"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "mbali"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "Mtima wathu"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "sanatope"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "mayendedwe athu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kuchokera"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "pa njira yako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:56.546823399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "⟨את⟩ nkhosa yodziyamba udzaipereka m'mawa, ndipo ⟨את⟩ nkhosa yachiwiri udzaipereka pakati pa madzulo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhosa yodziyamba"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yodziyamba"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "udzaipereka"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "m'mawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nkhosa yachiwiri"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yachiwiri"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "udzaipereka"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "madzulo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:22:21.786202925Z",
+  "model": "glm-5.3"
+}

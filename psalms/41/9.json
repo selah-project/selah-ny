@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Liwu la Beliyali limathira pa iye, ndipo amene wagona sadzaonanso kuuka.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "liwu"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliyali"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "limathira"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ndipo amene"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "wagona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "sadzaonanso"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "kuuka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:51.067180451Z",
+  "model": "glm-5.3"
+}

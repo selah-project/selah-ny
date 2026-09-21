@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Yahwe anati: “Yehuda adzakwera; onani, ndapatsa ⟨את⟩ dziko m'dzanja mwake.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo Yahwe anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "adzakwera"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "onani"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndapatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "m'dzanja mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:45:30.616594246Z",
+  "model": "glm-5.3"
+}

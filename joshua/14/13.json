@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo Yehoshuwa adamdala iye, napatsa ⟨את⟩ Khebron ku Kaleb mwana wa Yefunehi monga cholowa.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "adamdala iye"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "napatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khebron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ku Kaleb"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefunehi"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "monga cholowa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:38:33.207959697Z",
+  "model": "glm-5.3"
+}

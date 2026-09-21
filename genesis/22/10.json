@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo Avraham anatambasula ⟨את⟩ dzanja lake, natenga ⟨את⟩ thangala kuchapha ⟨את⟩ mwana wake.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "anatambasula"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzanja lake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "natenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thangala"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "thangala"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "kuchapha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wake"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    }
+  ],
+  "timestamp": "2026-09-21T05:50:38.678545766Z",
+  "model": "glm-5.3"
+}

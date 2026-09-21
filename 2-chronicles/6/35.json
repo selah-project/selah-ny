@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "ndipo umamva kuchokera kumwamba ⟨את⟩ pemphero lawo ndi ⟨את⟩ chonde lawo, ndipo utachita chiweruzo chawo.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ndipo umamva"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchokera"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pemphero lawo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "pemphero lawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chonde lawo"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "chonde lawo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ndipo utachita"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "chiweruzo chawo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:37:49.932046194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo awa ndi mbadwa za Aharoni ndi za Moshe, pa tsiku Yahwe ananena ⟨את⟩ Moshe, pa phiri la Sinayi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ndipo awa"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "mbadwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "ndi za Moshe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pa tsiku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pa phiri"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "la Sinayi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:51:00.916950641Z",
+  "model": "glm-5.3"
+}

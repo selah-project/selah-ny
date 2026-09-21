@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo dzanja la Yahwe linalemeza pa anthu a Ashdodi, nawawononga, namenya ⟨את⟩ iwo ndi zotupa, m'menya ⟨את⟩ Ashdodi ndi ⟨את⟩ malire ake.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "linalemeza"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dzanja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "anthu a Ashdodi"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "nawawononga"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "namenya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "anthu a Ashdodi"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "ndi zotupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashdodi"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "malire ake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:02:55.900640719Z",
+  "model": "glm-5.3"
+}

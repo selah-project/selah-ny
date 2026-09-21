@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Mzimu wa Yahwe anayankhula mwa ine, ndipo mawu ake ali pa lilime langa.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Mzimu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "anayankhula"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mwa ine"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "ndipo mawu ake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lilime langa"
+    }
+  ],
+  "timestamp": "2026-09-21T08:29:14.793039624Z",
+  "model": "glm-5.3"
+}

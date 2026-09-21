@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 16:13",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Chifukwa cha machimo onse a Baasha, ndi machimo a Elah mwana wake, amene anachimwa, ndi amene anachimwitsa ⟨את⟩ Yisraeli, kukukwiitsa ⟨את⟩ Yahwe, Elohim wa Yisraeli, ndi zopanda pake zawo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "machimo"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "a Baasha"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "ndi machimo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "a Elah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "anachimwa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ndi amene"
+    },
+    {
+      "surface": "החטיאו",
+      "gloss": "anachimwitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "kukukwiitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "ndi zopanda pake zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:42:30.786839401Z",
+  "model": "glm-5.3"
+}

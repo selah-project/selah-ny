@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo ndinagwada pamaso pa Yahwe ⟨את⟩ masiku makumi anayi ndi ⟨את⟩ usiku makumi anayi, monga momwe ndinagwaderapo, popeza Yahwe analankhula kuti awononge ⟨את⟩ inu.",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "ndinagwada"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masiku makumi anayi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi anayi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "usiku makumi anayi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi anayi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "momwe"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "ndinagwaderapo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "analankhula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "kuwononga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:19:03.680092191Z",
+  "model": "glm-5.3"
+}

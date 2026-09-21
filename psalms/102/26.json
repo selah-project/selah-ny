@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "Kale inu munayika maziko a dziko lapansi, ndipo ntchito za manja anu ndiwo kumwamba.",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "Kale"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "munayika maziko a"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ndipo ntchito za"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "manja anu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kumwamba"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:26.432681438Z",
+  "model": "glm-5.3"
+}

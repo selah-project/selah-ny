@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndadana ndi gulu la ochita zoipa, ndipo ndi osalamba sindikhala nawo.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Ndadana"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "gulu"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "la ochita zoipa"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ndipo ndi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "osalamba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi-"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "khala nawo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:20.066874733Z",
+  "model": "glm-5.3"
+}

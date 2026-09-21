@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 140,
+  "translation": "Odzikweza adabisa chidindo cha ine, ndi khotazo; anatambasula ulusi pambali pa njira, mikwangwala anayika pa ine. Selahi.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "adabisa"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "Odzikweza"
+    },
+    {
+      "surface": "פח",
+      "gloss": "chidindo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cha ine"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "ndi khotazo"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "anatambasula"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "ulusi"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "pambali pa"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "njira"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "mikwangwala"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "anayika"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:58.800170789Z",
+  "model": "glm-5.3"
+}

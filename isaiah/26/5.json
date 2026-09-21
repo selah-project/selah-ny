@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Chifukwa adatsitsa okhala pamwamba, mzinda wapachulu; adachitsitsa, adachitsitsa mpaka dziko lapansi, adachifikitsa mpaka dothi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "השח",
+      "gloss": "adatsitsa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "okhala"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "pamwamba"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "wapachulu"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "adachitsitsa"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "adachitsitsa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "adachifikitsa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dothi"
+    }
+  ],
+  "timestamp": "2026-09-21T09:09:55.810695317Z",
+  "model": "glm-5.3"
+}

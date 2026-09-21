@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 20:20",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo ⟨את⟩ Sabata anga ziyeretseni, ndipo zikhale chizindikiro pakati pa Ine ndi pakati panu, kuti mudziwe kuti Ine ndine Yahwe Elohim wanu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ndipo ⟨את⟩",
+      "marks": "Sabata anga"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "Sabata anga"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ziyeretseni"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ndipo zikhale"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "chizindikiro"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "pakati pa Ine"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "ndi pakati panu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kuti mudziwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:03:50.582735092Z",
+  "model": "glm-5.3"
+}

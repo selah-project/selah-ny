@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo adavunda ⟨את⟩ khoma la Penueli, nadzaza ⟨את⟩ anthu a m'mudzi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "khoma la Penueli"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "khoma"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "la Penueli"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "adavunda"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "nadzaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu a m'mudzi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a m'mudzi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:51:13.253714481Z",
+  "model": "glm-5.3"
+}

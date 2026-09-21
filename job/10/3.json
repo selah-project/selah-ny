@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 10:3",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Kodi kwakukondwerani kudzazunza, kudzanyoza ntchito ya manja anu, ndi kuwunikira mfundo ya anthu oipa?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "kodi kwakukondwerani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe ⟨kwa iwe⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kudza-"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "-zunza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kudza-"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "-nyoza"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "ya manja anu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi ku-"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "-mfundo ya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "anthu oipa"
+    },
+    {
+      "surface": "הופעת",
+      "gloss": "-wunikira"
+    }
+  ],
+  "timestamp": "2026-09-21T11:35:31.879107301Z",
+  "model": "glm-5.3"
+}

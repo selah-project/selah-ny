@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo Yahwe anati kwa Yaakov: Bwerera ku dziko la makolo ako, ndi kumene anabadwira, ndipo ndidzakhala ndi iwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Bwerera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "la makolo ako"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "ndi kumene anabadwira"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "ndipo ndidzakhala"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndi iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T05:56:36.534805840Z",
+  "model": "glm-5.3"
+}

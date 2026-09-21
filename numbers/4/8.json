@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 4:8",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo afafanize pa izi chakuvwala cha tone wofiira, ndipo afunde ⟨את⟩ chinthucho ndi chikhuto cha khungu la takhashi, ndipo aike ⟨את⟩ mibado yake.",
+  "tokens": [
+    {
+      "surface": "ופרשו",
+      "gloss": "afafanize"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pa izi"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "chakuvwala"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tone"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wofiira"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "afunde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chinthucho (zida zonse ndi mkate)"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "ndi chikhuto"
+    },
+    {
+      "surface": "עור",
+      "gloss": "khungu"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "takhashi"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "aike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mibado yake"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mibado yake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:50:59.520534710Z",
+  "model": "glm-5.3"
+}

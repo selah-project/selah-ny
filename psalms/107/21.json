@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 107:21",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Akhale adziyamike Yahwe chifukwa cha khesedi kwake, ndi zodabwitsa zake kwa ana a anthu!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "adziyamike"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi kwake"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ndi zodabwitsa zake"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa ana a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:34.612749363Z",
+  "model": "glm-5.3"
+}

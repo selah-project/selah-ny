@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Elohim wa Yisraeli ananena, Mwala wa Yisraeli anayankhula kwa ine: wolamulira anthu mwachilungamo, wolamulira m'kuopa Elohim.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "anayankhula"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Mwala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "wolamulira"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mwachilungamo"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "wolamulira"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "kuopa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T08:29:14.793190424Z",
+  "model": "glm-5.3"
+}

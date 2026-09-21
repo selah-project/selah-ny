@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndipo Yahwe anawomba ⟨את⟩ anthu, chifukwa cha icho anapanga ⟨את⟩ nkhosa yamphongo ya mwana wa ng'ombe, imene Aharoni anapanga.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "Ndipo anawomba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "על",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "icho"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhosa yamphongo ya mwana wa ng'ombe"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "nkhosa yamphongo ya mwana wa ng'ombe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    }
+  ],
+  "timestamp": "2026-09-21T06:24:16.922109977Z",
+  "model": "glm-5.3"
+}

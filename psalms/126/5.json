@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 126,
+  "translation": "Iwo akufesa ndi misozi adzatuta ndi kuyimba.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "iwo akufesa"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "ndi misozi"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ndi kuyimba"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "adzatuta"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:39.945016173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo musunge malamulo anga, ndipo muchite ⟨את⟩ iwo; ine ndine Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "musunge"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "malamulo anga"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "muchite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:22.657611023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "ndi ⟨את⟩ hasida, anafa ya mitundu yake, ndi ⟨את⟩ duchifati, ndi ⟨את⟩ atalefu",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "hasida"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "hasida"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "anafa"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ya mitundu yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "duchifati"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "duchifati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "atalefu"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "atalefu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:34:22.749401168Z",
+  "model": "glm-5.3"
+}

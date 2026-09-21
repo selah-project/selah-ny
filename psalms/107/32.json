@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Ndipo amukweze m'chigwiro cha anthu, ndi m'chikhazikiko cha akulu akulu amulemeke.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "Ndipo amukweze"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "m'chigwiro"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cha anthu"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "ndi m'chikhazikiko"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "cha akulu akulu"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "amulemeke"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:20.143407439Z",
+  "model": "glm-5.3"
+}

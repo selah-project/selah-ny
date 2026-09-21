@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo Moshe analembera ⟨את⟩ Tora (chilamulo) iyi, napereka iyo kwa ansembe, ana a Levi, omwe amanyamula ⟨את⟩ chikwata cha pangano la Yahwe, ndi kwa akulu onse a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "analembera"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora (chilamulo) iyi"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora (chilamulo)"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "napereka iyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "omwe amanyamula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikwata cha pangano"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chikwata"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "cha pangano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi kwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse a"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "akulu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T07:31:38.314368123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 57,
+  "translation": "M'chuluko kwa njira zako unatopa; simunena kuti palibe chiyembekezo; moyo wa dzanja lako munapeza, chifukwa cha ichi simunakhale wodwala.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "m'chuluko kwa"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "njira zako"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "unatopa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "-munena"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "palibe chiyembekezo"
+    },
+    {
+      "surface": "חית",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wa dzanja lako"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "munapeza"
+    },
+    {
+      "surface": "על",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "cha ichi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "-munakhale wodwala"
+    }
+  ],
+  "timestamp": "2026-09-21T09:23:01.107896067Z",
+  "model": "glm-5.3"
+}

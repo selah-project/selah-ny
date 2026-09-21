@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 21:9",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo iwe udzachotsa mwazi woyera pakati panu, popeza udzachita cholungama m'maso a Yahwe.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "udzachotsa"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "mwazi"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "pakati panu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "udzachita"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "cholungama"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "m'maso a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T07:23:16.896856198Z",
+  "model": "glm-5.3"
+}

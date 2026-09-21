@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Pamenepo adzalankhula kwa iwo m'mkwiyo wake, ndi m'kusirira kwake adzawatetensa.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Pamenepo"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "adzalankhula"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "m'mkwiyo wake"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "ndi m'kusirira kwake"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "adzawatetensa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:31.352738371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Ndipo ndidzatuma pamaso panu mtumiki, ndipo ndidzachotsa ⟨את⟩ Akenanawo, a Emori, a Hiti, a Perizi, a Hivi ndi a Yebusi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ndipo ndidzatuma"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamaso panu"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mtumiki"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "ndipo ndidzachotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akenanawo"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Akenanawo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "a Emori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "a Hiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "a Perizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "a Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "a Yebusi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:25:45.494417430Z",
+  "model": "glm-5.3"
+}

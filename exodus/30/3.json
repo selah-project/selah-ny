@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo udzamulungirira ⟨אתו⟩ golide woyera: ⟨את⟩ denga lake ndi ⟨את⟩ makoma ake kozungulira ndi ⟨את⟩ makumu ake; ndipo udzampangira chisoti cha golide kozungulira.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "udzamulungirira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "golide woyera — chihema"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denga lake"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "denga lake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "makoma ake"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "makoma ake"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kozungulira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "makumu ake"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "makumu ake"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "udzampangira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-mu"
+    },
+    {
+      "surface": "זר",
+      "gloss": "chisoti"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "cha golide"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kozungulira"
+    }
+  ],
+  "timestamp": "2026-09-21T06:23:03.007657855Z",
+  "model": "glm-5.3"
+}

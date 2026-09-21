@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo ulange mafuta ozodza ndipo uzodze ⟨את⟩ chihema ndi ⟨את⟩ zonse zili m'menemo, ndipo uzipatule ⟨את⟩ iye ndi ⟨את⟩ zonse zake; ndipo chidzakhala chopatulika.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ulange"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta ozodza"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ozodza"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "uzodze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chihema"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zili"
+    },
+    {
+      "surface": "בו",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "uzipatule"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (chihema)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zake"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "chidzakhala"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chopatulika"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:23.941613613Z",
+  "model": "glm-5.3"
+}

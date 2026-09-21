@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Samalira moyo wako kuti usaiwale ⟨את⟩ Yahwe, amene adakutulutsa m'dziko la Mitsrayimu, m'nyumba ya ukapolo.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Samalira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kuti usa-"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "iwale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "adakutulutsa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "m'dziko la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "m'nyumba ya"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ukapolo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:15:56.944199394Z",
+  "model": "glm-5.3"
+}

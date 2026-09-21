@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo Paro anatembenuzira, nalowa m'nyumba yake, ndipo sanayike mtima wake ku izi nakanso.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "ndipo anatembenuzira"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nalowa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "m'nyumba yake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sanayike"
+    },
+    {
+      "surface": "שת",
+      "gloss": "sanayike"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "mtima wake"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nanso"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "ku izi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:33.837283444Z",
+  "model": "glm-5.3"
+}

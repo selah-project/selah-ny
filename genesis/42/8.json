@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Ndipo Yosefe anawadziwa ⟨את⟩ abale ake, koma iwo sana⟨את⟩-mudziwe.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "anawadziwa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abale ake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abale ake"
+    },
+    {
+      "surface": "והם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "anamudziwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:03:05.330056399Z",
+  "model": "glm-5.3"
+}

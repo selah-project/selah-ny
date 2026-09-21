@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 70,
+  "translation": "⟨Kwa⟩ woyang'anira ⟨ndi⟩ Davide, chakukumbukira.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "⟨Kwa⟩ woyang'anira"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "⟨ndi⟩ Davide"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "chakukumbukira"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:50.322569036Z",
+  "model": "glm-5.3"
+}

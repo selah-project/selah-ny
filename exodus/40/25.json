@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo adanyezimutsa nyale pamaso pa Yahwe, monga Yahwe anauzira ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "adanyezimutsa"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "nyale"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "anauzira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:09.828499275Z",
+  "model": "glm-5.3"
+}

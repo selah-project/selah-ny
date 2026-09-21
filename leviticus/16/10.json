@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 16:10",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo mbuzi imene chiwalo chinakweza pa iye laAzazeli idzayimirira ndi moyo pamaso pa Yahwe, ndi kukhululukira pa iye, ndi kuituma ⟨את⟩ iye kuAzazeli m'chipululu.",
+  "tokens": [
+    {
+      "surface": "והשעיר",
+      "gloss": "Ndipo mbuzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "chinakweza"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "chiwalo"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "laAzazeli"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "idzayimirira"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ndi moyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "kukhululukira"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kuituma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (mbuziyo)"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "kuAzazeli"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "m'chipululu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:40:08.172198128Z",
+  "model": "glm-5.3"
+}

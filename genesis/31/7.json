@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Koma makolo anu anandinyenga, nafotokoza ⟨את⟩ malipiro anga mphindi khumi, koma Elohim sanamulole kunzunza ine.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "koma makolo anu"
+    },
+    {
+      "surface": "התל",
+      "gloss": "anandinyenga"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "nafotokoza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malipiro anga"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "malipiro anga"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "mphindi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma osati"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "sanamulole"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "kunzunza"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ine"
+    }
+  ],
+  "timestamp": "2026-09-21T05:56:36.857031089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 40:20",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo chinali pa tsiku lachitatu, tsiku lobadwa ⟨את⟩ Paro, iye anachita phwando kwa akapolo ake onse; nadzakweza ⟨את⟩ mutu wa wamkulu wa otumikira chikho, ndi ⟨את⟩ mutu wa wamkulu wa ophika, m’modzi mwa akapolo ake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "chinali"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pa tsiku"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "lachitatu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "lobadwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "iye anachita"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "phwando"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa onse"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "akapolo ake"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "nadzakweza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutu wa wamkulu wa otumikira chikho"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "wa wamkulu"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "wa otumikira chikho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "wa wamkulu"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "wa ophika"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "m’modzi mwa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "akapolo ake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:01:30.890825557Z",
+  "model": "glm-5.3"
+}

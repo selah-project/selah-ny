@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Munthu wa chidzudzulo chambiri, wolimba khosi, adzapwetyka mwadzidzidzi, ndipo palibe mphodzo.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Munthu"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "wa chidzudzulo chambiri"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "wolimba"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "khosi"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "mwadzidzidzi"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "adzapwetyka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "mphodzo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:27:50.463457944Z",
+  "model": "glm-5.3"
+}

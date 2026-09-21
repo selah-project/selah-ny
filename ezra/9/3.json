@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo pamene ndinamva ⟨את⟩ liwu ili, ndinadula ⟨את⟩ chovala changa ndi chikwanje changa, ndipo ndinavula tsitsi la mutu wanga ndi la mphanga zanga, ndipo ndinakhala wodazidwa.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "pamene ndinamva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liwu ili"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "liwu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ili"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "ndinadula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chovala changa ndi chikwanje changa"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "chovala changa"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "chikwanje changa"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "ndinavula"
+    },
+    {
+      "surface": "משער",
+      "gloss": "tsitsi la"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mutu wanga"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "mphanga zanga"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "ndinakhala"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "wodazidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T13:34:34.062541926Z",
+  "model": "glm-5.3"
+}

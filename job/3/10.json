@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Pakuti usanawo siinatseke khomo la chiberekero, ndiponso siinabinze chisautso chochokera m'maso anga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sii-"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "natseke"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "khomo la"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "chiberekero"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "ndiponso siinabinze"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "chisautso"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "chochokera m'maso anga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:29:21.245513163Z",
+  "model": "glm-5.3"
+}

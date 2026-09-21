@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 135,
+  "translation": "Maokhutu ali nazo koma sakhulupirika; ngakhale mpweya ulibe m'kamwa mwawo.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "maokhutu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ali nazo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma sa-"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "khulupirika"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ngakhale"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulibe"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨palibe⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mpweya"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "m'kamwa mwawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:29.716468332Z",
+  "model": "glm-5.3"
+}

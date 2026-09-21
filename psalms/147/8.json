@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 147,
+  "translation": "Wotessa kumwamba ndi mitambo, wokonza mvula ya dziko lapansi, womeretsa udzu pa mapiri.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "Wotessa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "ndi mitambo"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "wokonza"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ya dziko lapansi"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "mvula"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "womeretsa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "udzu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:16.424245722Z",
+  "model": "glm-5.3"
+}

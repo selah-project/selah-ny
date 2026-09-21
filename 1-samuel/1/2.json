@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo anali akazi awiri: dzina la mmodzi linali Khana, ndipo dzina la wachiwiri linali Penina; ndipo Penina anali ana, koma Khana analibe ana.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "Ndipo anali"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "akazi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dzina"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "la mmodzi"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Khana"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ndipo dzina"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "la wachiwiri"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ndipo anali"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "koma Khana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "analibe"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "ana"
+    }
+  ],
+  "timestamp": "2026-09-21T07:59:34.766535966Z",
+  "model": "glm-5.3"
+}

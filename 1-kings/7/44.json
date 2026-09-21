@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo ⟨את⟩ nyanja imodzi, ndi ⟨את⟩ ng'ombe khumi ndi iwiri pansi pa nyanja.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyanja imodzi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "imodzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ng'ombe khumi ndi iwiri"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ndi iwiri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "nyanja"
+    }
+  ],
+  "timestamp": "2026-09-21T08:33:28.666998479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 18:17",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Maliseche a mkazi ndi a mwana wake wamkazi, sumavumbulutsa; ⟨את⟩ mwana wamkazi wa mwana wake wamwamuna ndi ⟨את⟩ mwana wamkazi wa mwana wake wamkazi, sumatenga kuti avumbulutse maliseche ake; achibale ake a magazi ndiwo amenewa; zoipa ndi zimenezo.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "maliseche"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "a mkazi"
+    },
+    {
+      "surface": "ובתה",
+      "gloss": "ndi a mwana wake wamkazi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "-vumbulutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wamkazi wa mwana wake wamwamuna"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wa mwana wake wamwamuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mwana wamkazi wa mwana wake wamkazi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "wa mwana wake wamkazi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "-tenga"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "kuti avumbulutse"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "maliseche ake"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "achibale ake a magazi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ndiwo amenewa"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndi zimenezo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:40:16.448040970Z",
+  "model": "glm-5.3"
+}

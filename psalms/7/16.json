@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Adakumba phanga, nachipangira; nagwa mkati mwa chigwa chimene anapangira.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "phanga"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "adakumba"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "nachipangira"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "nagwa"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "mkati mwa chigwa"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "anapangira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:03.675865915Z",
+  "model": "glm-5.3"
+}

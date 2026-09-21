@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Anana ndiponso akoma, moyo wawo umathoka mkati mwawo.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "anana"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "moyo wawo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mkati mwawo"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "umathoka"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:02.084425362Z",
+  "model": "glm-5.3"
+}

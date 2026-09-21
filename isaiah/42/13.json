@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 42:13",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Yahwe adzatuluka ngati wamphamvu, ngati munthu wa nkhondo adzanyamulitsa kaneso; adzafuula, inde adzadzuluula pa adani ake; adzapambana adani ake.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "ngati wamphamvu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "adzatuluka"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "ngati munthu"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "wa nkhondo"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "adzanyamulitsa"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "kaneso"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "adzafuula"
+    },
+    {
+      "surface": "אף",
+      "gloss": "inde"
+    },
+    {
+      "surface": "יצריח",
+      "gloss": "adzadzuluula"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "adani ake"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "adzapambana"
+    }
+  ],
+  "timestamp": "2026-09-21T09:18:21.149940204Z",
+  "model": "glm-5.3"
+}

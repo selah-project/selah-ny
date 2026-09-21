@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Koma Achazi anati: “Sindidzapempha, ndipo sindidzayesa ⟨את⟩ Yahwe.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achazi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "ndidzapempha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si-"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "ndidzayesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T09:02:46.899735657Z",
+  "model": "glm-5.3"
+}

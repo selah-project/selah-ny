@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Ndipo anakondwera chifukwa mafunde anatha kunyamula, nadawatenga ku doko la chifuniro chawo.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "Ndipo anakondwera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "mafunde anatha kunyamula"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "nadawatenga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "doko"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "la chifuniro chawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:20.143178830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Yahwe Elohim anamanga ⟨את⟩ mbali imene anatenga kwa Adamu, kuikhala mkazi, nabweretsa kwa Adamu.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "anamanga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbali"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "mbali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adamu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kuikhala mkazi"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "nabweretsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adamu"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:25.148122135Z",
+  "model": "glm-5.3"
+}

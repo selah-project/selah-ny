@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Ndipo anafuula kwa Yahwe m'dzawa lawo, ndipo m'zofooka zawo adawapulumutsa.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Ndipo anafuula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "m'dzawa lawo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lawo"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "m'zofooka zawo"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "adawapulumutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:04.741370793Z",
+  "model": "glm-5.3"
+}

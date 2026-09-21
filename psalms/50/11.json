@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 50,
+  "translation": "Ndindidziwa mbalame zonse za mapiri, ndi nyama zachilengedwe zili ndi ine.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "ndindidziwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "mbalame"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "za mapiri"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "ndi nyama zachilengedwe"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "za m'munda"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "zili ndi ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:12.510213998Z",
+  "model": "glm-5.3"
+}

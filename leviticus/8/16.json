@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Anatenga ⟨את⟩ mafuta onse amene ali pa matumbo, ndi ⟨את⟩ chidindo cha chiwindi, ndi ⟨את⟩ impso ziwiri, ndi ⟨את⟩ mafuta awo; ndipo Moshe anayentha pa guwa la nsembe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "על",
+      "gloss": "ali pa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "matumbo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chidindo cha chiwindi"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "chidindo"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "cha chiwindi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "impso ziwiri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "impso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mafuta awo"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "mafuta awo"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "anayentha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pa guwa la nsembe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:36:02.477189202Z",
+  "model": "glm-5.3"
+}

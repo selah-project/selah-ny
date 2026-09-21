@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Usayende ulendo ndi zakuba mwa anthu ako; usaimire pa mkazi wa mnansi wako; ndine Yahwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "yende"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "ulendo ndi zakuba"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "mwa anthu ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "imire"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דם",
+      "gloss": "mkazi wa"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "mnansi wako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:37.267656090Z",
+  "model": "glm-5.3"
+}

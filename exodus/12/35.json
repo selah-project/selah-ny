@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 12:35",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo ana a Yisraeli anachita monga mawu a Moshe; ndipo anapempha kwa a Mitsrayimu zinthu za siliva ndi zinthu za golide, ndiponso mavalo.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ndipo ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "monga mawu a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "ndipo anapempha"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kwa a Mitsrayimu"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zinthu za"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ndi zinthu za"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "ndiponso mavalo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:13:02.565971210Z",
+  "model": "glm-5.3"
+}

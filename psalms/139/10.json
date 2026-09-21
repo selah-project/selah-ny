@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 139,
+  "translation": "Komanso kumeneko dzanja lako lidzanditsogolera, ndipo dzanja lako lamanja lidzandigwira.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Komanso"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dzanja lako"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "lidzanditsogolera"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "ndipo lidzandigwira"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dzanja lako lamanja"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:17.651076635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Ndipo Elohim anakwera kuchokera pa iye, m'malo amene anayankhula ndi ⟨את⟩ iye.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "anakwera"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "kuchokera pa iye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "m'malo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "anayankhula"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ndi ⟨את⟩ iye",
+      "marks": "iye (Yaakob)"
+    }
+  ],
+  "timestamp": "2026-09-21T05:58:50.625724798Z",
+  "model": "glm-5.3"
+}

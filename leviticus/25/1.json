@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo Yahwe analankhula kwa Moshe pa phiri la Sinayi, nati:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "analankhula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pa phiri la"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinayi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    }
+  ],
+  "timestamp": "2026-09-21T06:45:34.033597124Z",
+  "model": "glm-5.3"
+}

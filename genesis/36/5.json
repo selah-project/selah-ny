@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Ndipo Oholibama anabala ⟨את⟩ Yeishi, ndi ⟨את⟩ Yalamu, ndi ⟨את⟩ Korahi. Awa ndiwo ana a Esavu, amene anabadwa kwa iye m'dziko la Kenani.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "Ndipo Oholibama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeishi"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeishi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Yalamu"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yalamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Korahi"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Awa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "a Esavu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "anabadwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "la Kenani"
+    }
+  ],
+  "timestamp": "2026-09-21T05:58:17.747847927Z",
+  "model": "glm-5.3"
+}

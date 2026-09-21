@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo anaona ⟨את⟩ Elohim wa Yisraeli, ndipo pansi pa mapazi pake ⟨pano panali⟩ monga kapangidwe ka libnati ⟨ya⟩ sappayiri, ndi monga kuumbidwe kwa kumwamba kwa kuyera kwake.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim wa Yisraeli"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ndipo pansi pa"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "mapazi pake"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "monga kapangidwe ka"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "libnati"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "sappayiri"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "ndi monga kuumbidwe kwa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "kwa kuyera kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:55.099181489Z",
+  "model": "glm-5.3"
+}

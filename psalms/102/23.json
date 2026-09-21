@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "Pakusonkhanitsidwa mitundu ya anthu pamodzi, ndi ufumu, kuti igwire ntchito ⟨את⟩ Yahwe;",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "pakusonkhanitsidwa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mitundu ya anthu"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamodzi"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "ndi ufumu"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kuti igwire ntchito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:21.079835597Z",
+  "model": "glm-5.3"
+}

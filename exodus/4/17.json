@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo udzatenga ⟨את⟩ ndodo iyi m'dzanja lako, umene udzachita m'menemo ⟨את⟩ zizindikiro.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ndodo iyi"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ndodo iyi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "udzatenga"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "m'dzanja lako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "udzachita"
+    },
+    {
+      "surface": "בו",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zizindikiro"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "zizindikiro"
+    }
+  ],
+  "timestamp": "2026-09-21T06:09:07.974050768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo Avimeleki nanena kwa Avraham: “Chiyani munaona, kuti munachita ⟨את⟩ chinthu ichi?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanena"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "munaona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "munachita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chinthu ichi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chinthu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ichi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:50:32.873080152Z",
+  "model": "glm-5.3"
+}

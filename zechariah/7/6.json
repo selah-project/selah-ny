@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo pamene mukadya ndi pamene mukamwa, kodi inu simuli amene amadya, ndi inu amene amamwa?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ndipo pamene"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mukadya"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ndipo pamene"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "mukamwa"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "kodi … ayi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "amene amadya"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ndi inu"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "amene amamwa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:36:29.766966381Z",
+  "model": "glm-5.3"
+}

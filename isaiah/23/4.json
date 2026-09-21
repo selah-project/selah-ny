@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Chititsa manyazi, iwe Tsidoni, chifukwa nyanja inati — icho chitetezo cha nyanja — kuti: Sindinavutika ndi zolowera, sindinabala, sindinakulitsa anyamata, sindinakweza akazi abziale.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "chititsa manyazi"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "inati"
+    },
+    {
+      "surface": "ים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "chitetezo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "cha nyanja"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "dinavutika ndi zolowera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sindi"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "dinabala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sindi"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "dinakulitsa"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "anyamata"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "dinakweza"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "akazi abziale"
+    }
+  ],
+  "timestamp": "2026-09-21T09:11:03.250505784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Chotcha mkwiyo, ndipo siya mpsaima; musalephere — kungoyambitsa zoipa kokha.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Chotcha"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "mkwiyo"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ndipo siya"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "mpsaima"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "lephere"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kokha"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "kuyambitsa zoipa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:51.036257299Z",
+  "model": "glm-5.3"
+}

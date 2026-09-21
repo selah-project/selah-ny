@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo munawona ⟨את⟩ zodetsa zawo ndi ⟨את⟩ mafano awo, mtengo ndi mwala, siliva ndi golide, amene anali nawo.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "munawona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zodetsa zawo"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "zodetsa zawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mafano awo"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "mafano awo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mtengo"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ndi mwala"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ndi golide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "anali nawo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:28:36.241672791Z",
+  "model": "glm-5.3"
+}

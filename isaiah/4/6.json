@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo chikhuti chidzakhala chithunzi m'masana, kuchotsera chisanu, ndi kukhala malo othawiramo ndi kobisika, kuchotsera mphepo yamkuntho ndi mvula.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "ndipo chikhuti"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "chidzakhala"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "chithunzi"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "m'masana"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "kuchotsera chisanu"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "ndi malo othawiramo"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "ndi kobisika"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "kuchotsera mphepo yamkuntho"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "ndi kuchotsera mvula"
+    }
+  ],
+  "timestamp": "2026-09-21T09:02:50.534585192Z",
+  "model": "glm-5.3"
+}

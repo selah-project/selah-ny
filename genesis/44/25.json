@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Ndipo atate athu anati: “Bwererani, gulani kwa ife chakudya chochepa.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "atate athu"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Bwererani"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "gulani"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa ife"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "chochepa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "chakudya"
+    }
+  ],
+  "timestamp": "2026-09-21T06:04:18.806596053Z",
+  "model": "glm-5.3"
+}

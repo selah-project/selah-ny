@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "La Davide. Kwa iwe, Yahwe, ndikuitana; mwala wanga, musachete kwa ine; kuti muchetere kwa ine, ndipo ndidzafanizidwa ndi akutsika m'banga.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "La Davide"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Kwa iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndikuitana"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mwala wanga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "uchete"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "uchetere"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "ndipo ndidzafanizidwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "akutsika"
+    },
+    {
+      "surface": "בור",
+      "gloss": "m'banga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:08.432796512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Pakuti chiweruzo chake chonse chili pamaso panga, ndipo malamulo ake sindinatembenuzire kwa ine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chonse"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "chiweruzo chake"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "chili pamaso panga"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ndipo malamulo ake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindina"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "tembenuzire"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kwa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:12.202177527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 21:1",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo Yehoshafati anagona ndi makolo ake, ndipo anaikidwa manda ndi makolo ake m'muwa wa Davidi; ndipo Yehoramu, mwana wake, anachita ufumu m'malo mwake.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "anagona"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafati"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "makolo ake"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "anaikidwa manda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "makolo ake"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "m'muwa wa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "anachita ufumu"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoramu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "m'malo mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:44:49.830095779Z",
+  "model": "glm-5.3"
+}

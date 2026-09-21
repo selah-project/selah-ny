@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 82,
+  "translation": "Koma monga adamu mudzafa, ndipo monga mmodzi wa mafumu mudzagwa.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "koma"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "monga adamu"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "mudzafa"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "ndipo monga mmodzi"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "wa mafumu"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "mudzagwa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:15.023940965Z",
+  "model": "glm-5.3"
+}

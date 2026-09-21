@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Yehoshuwa atatumiza ⟨את⟩ anthuwo, ndipo ana a Yisraeli anayenda, munthu aliyense ku chikhulupiriro chake, kuti alande ⟨את⟩ dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "atatumiza"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthuwo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthuwo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu aliyense"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "ku chikhulupiriro chake"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "kuti alande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko lapansi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:44:19.029901767Z",
+  "model": "glm-5.3"
+}

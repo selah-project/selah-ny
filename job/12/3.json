@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Inenso ndili ndi mtima monga inu; ine sindinagwerera m'munsi mwa inu; ndipo ndi ⟨את⟩ ndani amene alibe monga izi?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Inenso"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndili ndi"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "monga inu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "nagwerera"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "m'munsi mwa inu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ndani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alibe"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "monga"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "izi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:35:26.678189331Z",
+  "model": "glm-5.3"
+}

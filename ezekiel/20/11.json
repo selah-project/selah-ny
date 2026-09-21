@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 20:11",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo ndinawapatsa ⟨את⟩ malamulo anga, ndi ⟨את⟩ chiweruzo changa ndinawadziwitsa ⟨את⟩ iwo, amene munthu akazichita adzakhala ndi moyo mwa izo.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "ndinawapatsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malamulo anga"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "malamulo anga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chiweruzo changa"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "chiweruzo changa"
+    },
+    {
+      "surface": "הודעתי",
+      "gloss": "ndinawadziwitsa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "akazichita"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "adzakhala ndi moyo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mwa izo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:03:08.099290299Z",
+  "model": "glm-5.3"
+}

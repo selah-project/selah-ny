@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 68,
+  "translation": "Oyimba anapita patsogolo, osewera nyimbo pambuyo pawo, pakati pa atsikana osewera ng'oma.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "anapita patsogolo"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "oyimba"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pambuyo pawo"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "osewera nyimbo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "atsikana"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "osewera ng'oma"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:24.175354272Z",
+  "model": "glm-5.3"
+}

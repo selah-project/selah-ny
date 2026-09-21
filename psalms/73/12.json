@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 73,
+  "translation": "Taonani, awa ndi olakwa, ndipo odzikhululukira nthawi zonse awonjezera chuma.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Taonani"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "olakwa"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "ndipo odzikhululukira"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nthawi zonse"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "awonjezera"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "chuma"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:22.396116927Z",
+  "model": "glm-5.3"
+}

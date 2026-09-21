@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ukakhala kudya ⟨את⟩ woweruza, zindikira bwino ⟨את⟩ zimene zili pamaso pako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pamene"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ukakhala"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "kudya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "woweruza"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "woweruza"
+    },
+    {
+      "surface": "בין",
+      "gloss": "zindikira"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "bwino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene zili pamaso pako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "zili pamaso pako"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:56.698633994Z",
+  "model": "glm-5.3"
+}

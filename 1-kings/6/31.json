@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo ⟨את⟩ chokolata cha Debiri anapanga zitseko za mitengo ya mafuta; tsinde ndi mitsinde ya zitseko, chigawo chachisanu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chokolata cha Debiri"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "chokolata"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "cha Debiri"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "zitseko"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "za mitengo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ya mafuta"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "tsinde"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "mitsinde ya zitseko"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "chigawo chachisanu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:34:04.130739160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo anatembenuka, anakwera phiri, nalowa mpaka m'chigwa cha Eshikolu, nachifufuza ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "anatembenuka"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "anakwera"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "nalowa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "m'chigwa"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "cha Eshikolu"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "nachifufuza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "(dziko lapansi — zake)"
+    }
+  ],
+  "timestamp": "2026-09-21T07:13:07.883364957Z",
+  "model": "glm-5.3"
+}

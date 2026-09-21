@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo Yisraeli anapandukira banja la Davide mpaka tsiku lino.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "anapandukira"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "banja la"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lino"
+    }
+  ],
+  "timestamp": "2026-09-21T13:09:10.131432340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 11:17",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Yahwe Tsevaoti, amene anakamera ⟨את⟩ iwe, adalankhula choipa pa iwe, chifukwa cha choipa cha nyumba ya Yisraeli ndi nyumba ya Yehudha, zimene anazichitira okha, kukwiitsira Ine mtima ndi kuwunditsa kwa Baali.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ndipo Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "הנוטע",
+      "gloss": "amene anakamera"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ iwe",
+      "marks": "iwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "adalankhula"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pa iwe"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "choipa cha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ndi nyumba ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anachitira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "okha"
+    },
+    {
+      "surface": "להכעסני",
+      "gloss": "kukwiitsira Ine mtima"
+    },
+    {
+      "surface": "לקטר",
+      "gloss": "kuwunditsa"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "kwa Baali"
+    }
+  ],
+  "timestamp": "2026-09-21T13:15:51.256271816Z",
+  "model": "glm-5.3"
+}

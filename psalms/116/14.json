@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 116,
+  "translation": "Malonje anga kwa Yahwe ndidzabwezera, tsopano pamaso pa anthu onse ake.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "malonje anga"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ndidzabwezera"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "anthu onse"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:22.393330229Z",
+  "model": "glm-5.3"
+}

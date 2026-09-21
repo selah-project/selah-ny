@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 104,
+  "translation": "Kumene mbalame zimachimanga matabwa awo; nkhwalala m'mitengo ya mjunipa imakhala nyumba yake.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kumene"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "mbalame"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "zimachimanga matabwa awo"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "nkhwalala"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "m'mitengo ya mjunipa"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "nyumba yake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:29.680403081Z",
+  "model": "glm-5.3"
+}

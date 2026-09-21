@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 21:16",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo ⟨את⟩ Ayini ndi ⟨את⟩ malire ake, ndi ⟨את⟩ Yuta ndi ⟨את⟩ malire ake, ⟨את⟩ Beit-Shemeshi ndi ⟨את⟩ malire ake — mizi yisanu ndi zinayi, yochokera mwa ⟨את⟩ mafunde awiri awa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Ayini"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ayini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malire ake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malire ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Yuta"
+    },
+    {
+      "surface": "יטה",
+      "gloss": "Yuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malire ake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malire ake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Shemeshi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemeshi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malire ake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malire ake"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mizi"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "yisanu ndi zinayi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "yochokera mwa ⟨את⟩"
+    },
+    {
+      "surface": "שני",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "mafunde"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "awa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:42:53.288298628Z",
+  "model": "glm-5.3"
+}

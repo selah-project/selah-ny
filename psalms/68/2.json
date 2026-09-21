@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 68,
+  "translation": "Adzauka Elohim, adzatambasulidwa odani ake, ndipo akudana naye adzathawa pamaso pake.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "Adzauka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "adzatambasulidwa"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "odani ake"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "ndipo adzathawa"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "akudana naye"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "pamaso pake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:28.184836323Z",
+  "model": "glm-5.3"
+}

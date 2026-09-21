@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Yitschaki anaitana Yakobo, namdalitsa ⟨אתו⟩, namlamulira, nati kwa iye: “Usatenge mkazi mwa ana aakazi a Kenaani.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "anaitana"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "namdalitsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Yakobo"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "namlamulira"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usadzakhale"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "wotenga"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "mwa ana aakazi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "a Kenaani"
+    }
+  ],
+  "timestamp": "2026-09-21T12:55:16.540450674Z",
+  "model": "glm-5.3"
+}

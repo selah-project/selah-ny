@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Khumi lita kutalika kwa chipanda, ndi lita ndi theka la lita m'kufalikira kwa chipanda chimodzi.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "lita"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "kutalika"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "kwa chipanda"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ndi lita"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ndi theka"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "la lita"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "m'kufalikira"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "kwa chipanda"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "chimodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:20:23.467098366Z",
+  "model": "glm-5.3"
+}

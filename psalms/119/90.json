@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Kwa mibadwomibadwo kukhala kulemeza mtima kwako; inu munakhazikitsa ⟨את⟩ dziko lapansi, nakhala liyima.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "kwa mibadwo"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "mibadwomibadwo"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kulemeza mtima kwako"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "munakhazikitsa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨את⟩ dziko lapansi",
+      "marks": "dziko lapansi"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "nakhala liyima"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:20.458368592Z",
+  "model": "glm-5.3"
+}

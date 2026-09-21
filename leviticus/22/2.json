@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 22:2",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Lankhula kwa Aharoni ndi ana ake, ndipo adzidzipatula ku zopatulidwa za ana a Yisraeli, ndipo asatukwire ⟨את⟩ dzina langa lapatulika, limene iwo amazipatulira kwa Ine. Ine ndine Yahwe.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Lankhula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi kwa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "וינזרו",
+      "gloss": "adzidzipatula"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "ku zopatulidwa za"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo osati"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "asatukwire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzina langa lapatulika"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dzina langa"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "lapatulika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "הם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "amazipatulira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa Ine"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:50.431891375Z",
+  "model": "glm-5.3"
+}

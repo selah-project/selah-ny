@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 6:27",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo iye anati: “Yahwe akusakuthandiza, ndi ine ndingakuthandize ndi chiyani — kochokera m'malo osoza, kapena kuchokera m'chophimba mphete?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "osati\/akusa-"
+    },
+    {
+      "surface": "יושעך",
+      "gloss": "akuthandiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ndi chiyani"
+    },
+    {
+      "surface": "אושיעך",
+      "gloss": "ndingakuthandize"
+    },
+    {
+      "surface": "המן",
+      "gloss": "kochokera"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "m'malo osoza"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchokera"
+    },
+    {
+      "surface": "היקב",
+      "gloss": "m'chophimba mphete"
+    }
+  ],
+  "timestamp": "2026-09-21T08:49:11.160475189Z",
+  "model": "glm-5.3"
+}

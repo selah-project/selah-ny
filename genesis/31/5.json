@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Nati kwa iwo: “Ndikuona kuti ⟨את⟩ nkhope za makolo anu siziri kwa ine monga zinali dzulo ndi tsiku lomaliza, koma Elohim wa makolo anga anali ndi ine.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "להן",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ndikuona"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhope"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "za makolo anu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "siziri"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "monga dzulo"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "ndi tsiku lomaliza"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "koma Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "wa makolo anga"
+    },
+    {
+      "surface": "היה",
+      "gloss": "anali"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ndi ine"
+    }
+  ],
+  "timestamp": "2026-09-21T05:56:36.856512753Z",
+  "model": "glm-5.3"
+}

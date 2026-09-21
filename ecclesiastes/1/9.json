@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Chimene chinakhala chimenechimene chidzakhala; ndipo chimene chinachitika ndicho chimene chidzachitika; ndipo palibe chinthu chatsopano pansi pa dzuwa.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "chinakhala"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chimenechimene"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "chidzakhala"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ndipo chimene"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "chinachitika"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndicho"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "chidzachitika"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chinthu chilichonse"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "chatsopano"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dzuwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:54:49.255242640Z",
+  "model": "glm-5.3"
+}

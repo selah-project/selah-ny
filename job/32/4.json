@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndipo Elihu anayembekezera ⟨את⟩ Iyobu ndi mawu, popeza iwo anali okalamba koposa iye m'masiku.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "anayembekezera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyobu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobu"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "ndi mawu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "okalamba"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "koposa iye"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "m'masiku"
+    }
+  ],
+  "timestamp": "2026-09-21T11:43:53.187775857Z",
+  "model": "glm-5.3"
+}

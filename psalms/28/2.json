@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Mvera mawu a mapemphero anga pamene ndikulirira kwa iwe, pamene ndikweza manja anga ku malo opatulika ako.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Mvera"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "a mapemphero anga"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "pamene ndikulirira"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "pamene ndikweza"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "manja anga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "malo opatulika"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:08.433061233Z",
+  "model": "glm-5.3"
+}

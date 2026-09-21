@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 39:20",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndipo anapanga mivala iwiri ya golide, ndipo anayikawo pa mapewo awiri a efode, pansi, kum'mawa pamaso pake, pafupi ndi cholumikira chake, pamwamba pa chakusoka cha efode.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ndipo anapanga"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iwiri"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "mivala"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya golide"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "ndipo anayikawo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "mapewo"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "a efode"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "pansi"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "kum'mawa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "pamaso pake"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "pafupi ndi"
+    },
+    {
+      "surface": "מחברתו",
+      "gloss": "cholumikira chake"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "pamwamba pa"
+    },
+    {
+      "surface": "לחשב",
+      "gloss": "chakusoka"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "cha efode"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:17.547610079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 108,
+  "translation": "Wokhazikika ⟨⟨ndi⟩⟩ mtima wanga, Elohim; ndidzayimba, ndithu ndidzayimba ndi ziwalo, ndiponso ulemerero wanga.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Wokhazikika"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ndidzayimba"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ndithu ndidzayimba ndi ziwalo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ulemerero wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:50.933061953Z",
+  "model": "glm-5.3"
+}

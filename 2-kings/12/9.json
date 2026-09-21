@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo ansembe adavomera kuti osati kulandira ndalama kwa ⟨את⟩ anthu, ndi kuti osati kukonza ⟨את⟩ kuvunda kwa nyumba.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "adavomera"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "osati"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "kulandira"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ndalama"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kwa ⟨את⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "ndi kuti osati"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kukonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuvunda kwa nyumba"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "kuvunda"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kwa nyumba"
+    }
+  ],
+  "timestamp": "2026-09-21T08:54:32.736203431Z",
+  "model": "glm-5.3"
+}

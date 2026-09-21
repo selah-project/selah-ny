@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 86,
+  "translation": "Pemphero la Dawidi. Yamba ku Yahwe khutu lako, yandiwuza, pakuti ndili wovutika ndi wosowa, ine.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Pemphero"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "la Dawidi"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Yamba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ku Yahwe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "khutu lako"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "yandiwuza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wovutika"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ndi wosowa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:10.390927545Z",
+  "model": "glm-5.3"
+}

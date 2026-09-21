@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo udzachita ⟨את⟩ nyale zake zisanu ndi ziwiri, ndipo udzakweza ⟨את⟩ nyale zake, ndipo zidzawunikira pa mbali yakutsogolo pake.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "udzachita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyale zake"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "nyale zake"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "zisanu ndi ziwiri"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "udzakweza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyale zake"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "nyale zake"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "zidzawunikira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "mbali yakutsogolo"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "pake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:19:54.303335429Z",
+  "model": "glm-5.3"
+}

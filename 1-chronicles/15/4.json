@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 15:4",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo Davide anasonkhanitsa ⟨את⟩ ana a Aharoni ndi ⟨את⟩ Alevi.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "anasonkhanitsa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Aharoni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Alevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Alevi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:28:46.008695531Z",
+  "model": "glm-5.3"
+}

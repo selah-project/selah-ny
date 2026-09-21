@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 59,
+  "translation": "Pakuti manja anu anadetsedwa ndi mwazi, ndi zala zanu ndi cholakwa; milomo yanu yanena bodza, lilime lanu likuwombolera mphulupulu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "manja anu"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "anadetsedwa"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ndi mwazi"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "ndi zala zanu"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "ndi cholakwa"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "milomo yanu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "yanena"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bodza"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "lilime lanu"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "mphulupulu"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "likuwombolera"
+    }
+  ],
+  "timestamp": "2026-09-21T09:24:49.724726935Z",
+  "model": "glm-5.3"
+}

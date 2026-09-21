@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo Yahwe anati kwa Moshe: “Kufikira liti kukana kwenu kusunga malamulo anga ndi miyambo yanga yophunzitsa?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "liti"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "kukana kwenu"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kusunga"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "malamulo anga"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "ndi miyambo yanga yophunzitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:14:36.571021270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Pakuti mwana wako adzakufunsa mawa, kuti: “N'chiyani maboni awa, ndi malema ndi miweruzo, imene Yahwe Elohim wathu wanulamulira ⟨את⟩ inu?”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "adzakufunsa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana wako"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "n'chiyani"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "maboni awa"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "ndi malema"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "ndi miweruzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wanulamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:16:22.123062574Z",
+  "model": "glm-5.3"
+}

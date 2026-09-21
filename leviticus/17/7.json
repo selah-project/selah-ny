@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo sadzapereka konse ⟨את⟩ nsembe zawo kwa zipani zimene iwo akufamba zolakwa m'mawa mwazimene; lamulo kosatha likhale ichi kwa iwo kwa mibadwo yawo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ndipo sadzapereka konse"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "sadzapereka konse"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "konse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe zawo"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "nsembe zawo"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "kwa zipani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "הם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "akufamba zolakwa"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "m'mawa mwazimene"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "lamulo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kosatha"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "likhale"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "kwa mibadwo yawo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:04.954592455Z",
+  "model": "glm-5.3"
+}

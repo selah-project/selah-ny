@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Kukweza kwa maso ndi kuya kwa mtima, munda wolimira wa osalungama ndi tchimo.",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "kukweza kwa"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "maso"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ndi kuya kwa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "נר",
+      "gloss": "munda wolimira"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wa osalungama"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ndi tchimo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:25:06.452041454Z",
+  "model": "glm-5.3"
+}

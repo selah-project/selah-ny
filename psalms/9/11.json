@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo odziwa Dzina lanu adzakhulupirira mwa inu, chifukwa simunasiye akufunafuna inu, Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "adzakhulupirira"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mwa inu"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "odziwa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Dzina lanu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "munasiye"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "akufunafuna inu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:50.422254641Z",
+  "model": "glm-5.3"
+}

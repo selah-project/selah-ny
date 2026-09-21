@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 22:15",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo asateteze ⟨את⟩ zopatulidwa za ana a Yisraeli, ⟨את⟩ zimene akuulula kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ndipo asa"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "teteze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zopatulidwa za ana a Yisraeli"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "zopatulidwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "za ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene akuulula kwa Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "akuulula"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:54.000106545Z",
+  "model": "glm-5.3"
+}

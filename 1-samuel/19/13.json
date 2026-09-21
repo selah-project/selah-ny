@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo Mikali anatenga ⟨את⟩ aterafimu, nadzika pa bedi, ndipo ⟨את⟩ chiphapha cha mva za mbuzi anaika pa mutu wake, nadziza ndi chovala.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aterafimu"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "aterafimu"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "nadzika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "bedi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chiphapha cha mva za mbuzi"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "chiphapha"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "cha mva za mbuzi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "anaika"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "pa mutu wake"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "nadziza"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "ndi chovala"
+    }
+  ],
+  "timestamp": "2026-09-21T08:09:27.137198754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo Yowabu anayankha, nati: “Aitane, aitane, kwa ine; sindinge kumeza kapena kuwononga.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ndipo anayankha"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "aitane"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "aitane"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sindinge"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "kumeza"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "kuwononga"
+    }
+  ],
+  "timestamp": "2026-09-21T08:26:05.137734660Z",
+  "model": "glm-5.3"
+}

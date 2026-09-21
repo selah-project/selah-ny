@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 81,
+  "translation": "Ine ndine Yahwe Elohim wako, Amene anakukweza iwe mu dziko la Mitsrayimu: tsesa pakamwa pako, ndipo ndidzazipitsa.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "Amene anakukweza iwe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "tsesa"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "pakamwa pako"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "ndipo ndidzazipitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:12.469269254Z",
+  "model": "glm-5.3"
+}

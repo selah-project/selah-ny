@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 144,
+  "translation": "Malo athu a zokolola odzaza, zimatulutsa mtundu mpaka mtundu; nkhosa zathu zibereka mazana, mazana ambiri m'miseu yathu.",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "malo athu a zokolola"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "odzaza"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "zimatulutsa"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "mtundu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "זן",
+      "gloss": "mtundu"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "nkhosa zathu"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "zibereka mazana"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "mazana ambiri"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "m'miseu yathu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:50.784016797Z",
+  "model": "glm-5.3"
+}

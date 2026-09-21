@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Koma ngati simundimvera Ine, ndipo simuchita ⟨את⟩ zonse za malamulo awa,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Koma ngati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mundimvera"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si-"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "muchita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse za malamulo awa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "malamulo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "awa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:46:27.845134134Z",
+  "model": "glm-5.3"
+}

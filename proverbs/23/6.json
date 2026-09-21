@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Musadye ⟨את⟩ chakudya cha wonazo maso oipa, ndipo musakhale ndi chilakolako cha zakudya zake zokoma.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musadye"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "kudya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chakudya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chakudya"
+    },
+    {
+      "surface": "רע",
+      "gloss": "oipa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "maso"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo musakhale"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "chilakolako"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "zakudya zake zokoma"
+    }
+  ],
+  "timestamp": "2026-09-21T11:26:20.574393203Z",
+  "model": "glm-5.3"
+}

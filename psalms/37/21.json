@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Wochimwa amabwereka koma sabwezera; ndipo wolungama achitira chifundo ndi amapatsa.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "amabwereka"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wochimwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma sabwezera"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "sabwezera"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ndipo wolungama"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "achitira chifundo"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "ndi amapatsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:11.612201503Z",
+  "model": "glm-5.3"
+}

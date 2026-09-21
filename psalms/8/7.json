@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ulamuliritsa ntchito za manja ako; zonse mwaizi pansi pa mapazi ake.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "ulamuliritsa"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "mu ntchito za"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "manja ako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "mwaizi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "mapazi ake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:47.941530467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo anamanga ⟨את⟩ Beti-lekhemu, ndi ⟨את⟩ Etamu, ndi ⟨את⟩ Tekoa,",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "anamanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beti-lekhemu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lekhemu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Etamu"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Tekoa"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Tekoa"
+    }
+  ],
+  "timestamp": "2026-09-21T12:39:11.962991725Z",
+  "model": "glm-5.3"
+}

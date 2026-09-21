@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Koma munthu asakangane, ndiponso munthu asalangize; pakuti anthu anu ali monga akukanira ndi wansembe.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Koma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asa-"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "kangane"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndiponso asa-"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "langize"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "anthu anu"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "ali monga akukanira ndi"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "wansembe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:20:57.750992466Z",
+  "model": "glm-5.3"
+}

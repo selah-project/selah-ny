@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo mfumu inati kwa mayiyo: “Kani ku nyumba yako, ndipo ine ndidzalamulira za iwe.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo inati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa—kuti"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mayiyo—mkaziyo"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "kani—pita"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "ku nyumba yako"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ndipo ine"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "ndidzalamulira—ndidzaphunzitsa lamulo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "za iwe—pa iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:22:55.290281668Z",
+  "model": "glm-5.3"
+}

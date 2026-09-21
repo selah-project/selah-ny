@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 103,
+  "translation": "Kwa iwo osunga pangano lake, ndi akukumbukira malamulo ake, kuchichita.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "kwa iwo osunga"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "pangano lake"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "ndi akukumbukira"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "malamulo ake"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "kuchichita"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:48.294136948Z",
+  "model": "glm-5.3"
+}

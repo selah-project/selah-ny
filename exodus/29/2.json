@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 29:2",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "ndi mkate wosafyeretsedwa, ndi mikate yazing'ono yosafyeretsedwa yophatikizidwa ndi mafuta, ndi zowotcha zazing'ono zosafyeretsedwa zodzozedwa ndi mafuta; ufa wowomba wa tirigu uzawapanga ⟨את⟩ iwo.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "ndi mkate"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "wosafyeretsedwa"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "ndi mikate yazing'ono"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "yosafyeretsedwa"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "yophatikizidwa"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ndi mafuta"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "ndi zowotcha zazing'ono"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "zosafyeretsedwa"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "zodzozedwa"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ndi mafuta"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ufa wowomba"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "wa tirigu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uzawapanga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo (mkate ndi zowotcha)"
+    }
+  ],
+  "timestamp": "2026-09-21T12:57:02.521529230Z",
+  "model": "glm-5.3"
+}

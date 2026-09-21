@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 25:55",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Pakuti kwa ine ana a Yisraeli ndi akapolo; akapolo anga ndiwo amene ndinatulutsa ⟨את⟩ iwo mu dziko la Mitsrayimu; ine ndine Yahwe Elohim wanu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "akapolo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "akapolo anga"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ndiwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ndinatulutsa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu dziko la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:45:19.863020961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "ndipo wansembe adzalamula, ndipo adzatenga kwa woyenera kuyeredwa mbalambala ziwiri zamoyo za mtundu woyera, ndi kayuni ka mtengo wa cedaru, ndi usoni wofiira, ndi chithovu;",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "adzalamula"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "adzatenga"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "kwa woyenera kuyeredwa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "mbalambala"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "zamoyo"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "za mtundu woyera"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "kayuni ka"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "cedaru"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "usoni"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "wofiira"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "chithovu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:36:46.385005120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "El woopsa kwambiri m'chinsinsi cha opatulika ambiri, ndi woyenera mantha pa onse ozungulira Iye.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "woopsa"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "m'chinsinsi cha"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "opatulika"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ambiri"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ndi woyenera mantha"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "ozungulira Iye"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:45.562144302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Wa Ozni, mbanja ya aOzni; wa Eri, mbanja ya aEri.",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "wa Ozni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mbanja ya"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "aOzni"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "wa Eri"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mbanja ya"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "aEri"
+    }
+  ],
+  "timestamp": "2026-09-21T07:05:40.978355553Z",
+  "model": "glm-5.3"
+}

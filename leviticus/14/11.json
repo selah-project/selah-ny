@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo mkulu wa nsembe woyeretsa adzayimiritsa ⟨את⟩ munthu woyeretsedwa ndi ⟨את⟩ zonsezo pamaso pa Yahwe, pa khomo la hema ya msonkhano.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "adzayimiritsa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mkulu wa nsembe"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "woyeretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munthu woyeretsedwa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "woyeretsedwa"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zonsezo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pa khomo la"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya msonkhano"
+    }
+  ],
+  "timestamp": "2026-09-21T12:58:14.025234162Z",
+  "model": "glm-5.3"
+}

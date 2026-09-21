@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo adati kwa ana ake akazi: “Kodi ali kuti? Chifukwa chiyani m'musiya ⟨את⟩ munthuyu? Muitane ⟨kuti⟩ adye mkate.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "ana ake akazi"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "kodi ali kuti"
+    },
+    {
+      "surface": "למה",
+      "gloss": "chifukwa chiyani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "m'musiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munthuyu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munthuyu"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "muitane"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "adye"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    }
+  ],
+  "timestamp": "2026-09-21T12:54:27.619901667Z",
+  "model": "glm-5.3"
+}

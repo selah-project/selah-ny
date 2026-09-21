@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Chovala chako chinatha pa iwe, ndipo phazi lako sinatifula — zumenzi zaka makumi anayi.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "chovala chako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "chinatha"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "pa iwe"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "ndipo phazi lako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "inatifula"
+    },
+    {
+      "surface": "זה",
+      "gloss": "zumenzi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi anayi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    }
+  ],
+  "timestamp": "2026-09-21T07:19:24.030226377Z",
+  "model": "glm-5.3"
+}

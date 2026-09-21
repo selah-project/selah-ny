@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "Pakuti kamwa ka woyipa ndi kamwa ka chinyengo anakuza pa ine; anayankhula ndi ine ⟨את⟩ ndi lilime la bodza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kamwa ka"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "woyipa"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ndi kamwa ka"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "chinyengo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "anakuza"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "anayankhula"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ndi ine"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lilime la"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bodza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:24.048726302Z",
+  "model": "glm-5.3"
+}

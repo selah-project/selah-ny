@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "Lisanja lonse odani anga andinyozera; odala okwiya ndi ine analumbira ndi ine.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lisanja"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "andinyozera"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "odani anga"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "odala okwiya ndi ine"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ndi ine"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "analumbira"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:44.555509763Z",
+  "model": "glm-5.3"
+}

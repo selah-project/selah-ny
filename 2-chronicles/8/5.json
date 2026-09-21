@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo adamanga ⟨את⟩ Beyt Khoroni yamwamba ndi ⟨את⟩ Beyt Khoroni yansi, midzi ya chitetezo, makoma, zitseko ndi mabarala.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "adamanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beyt Khoroni yamwamba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Khoroni"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "yamwamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Beyt Khoroni yansi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Khoroni"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "yansi"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "midzi ya"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "chitetezo"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "makoma"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "zitseko"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "ndi mabarala"
+    }
+  ],
+  "timestamp": "2026-09-21T13:36:38.822617881Z",
+  "model": "glm-5.3"
+}

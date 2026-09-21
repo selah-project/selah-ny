@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Mulanire anthu onse a msonkhano wa Yisraeli, nati: Pa tsiku la khumi la mwezi uno, munthu aliyense awatengere iwo nkhosa, m'chigawo cha banja la makolo ake — nkhosa ya banja.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Mulanire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "a msonkhano"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "Pa khumi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la mwezi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uno"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "awatengere"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu aliyense"
+    },
+    {
+      "surface": "שה",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "m'chigawo cha banja"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "la makolo ake"
+    },
+    {
+      "surface": "שה",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ya banja"
+    }
+  ],
+  "timestamp": "2026-09-21T06:12:24.933363656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 81,
+  "translation": "M'masautso inawayitana, ndipo ndinapulumutsa; ndinakuyankha m'mchere wa mkuntho; ndinakuyesa pa madzi a Meriba. Selah.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "M'masautso"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "inawayitana"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "ndipo ndinapulumutsa"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "ndinakuyankha"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "m'mchere wa"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "mkuntho"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "ndinakuyesa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "a Meriba"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:49.231545552Z",
+  "model": "glm-5.3"
+}

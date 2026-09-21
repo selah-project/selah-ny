@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo ndinaika kumeneko malo a ⟨את⟩ ngolo ya pangano la Yahwe, imene anapanga ndi makolo athu, pamene anawatulutsa m'dziko la Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "ndinaika"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "malo"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "a ngolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuli"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pangano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "makolo athu"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "pamene anawatulutsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:37:24.918886326Z",
+  "model": "glm-5.3"
+}

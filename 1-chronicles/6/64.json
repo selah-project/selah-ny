@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "ndi ⟨את⟩ Kedemoti ndi ⟨את⟩ mabusa ake, ndi ⟨את⟩ Mefaati ndi ⟨את⟩ mabusa ake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Kedemoti"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemoti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mabusa ake"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mabusa ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Mefaati"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefaati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mabusa ake"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mabusa ake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:25:41.194002054Z",
+  "model": "glm-5.3"
+}

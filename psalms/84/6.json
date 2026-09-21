@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 84,
+  "translation": "Wodala munthu amene mphamvu yake n'iyi mwa iwe; misewu ⟨ya ulendo⟩ ili m'mitima mwawo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Wodala"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "mphamvu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yake"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mwa iwe"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "misewu ⟨ya ulendo⟩"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "m'mitima mwawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:17.242448210Z",
+  "model": "glm-5.3"
+}

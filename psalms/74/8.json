@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 74,
+  "translation": "Anati mu mitima yawo: “Tiwononge pamodzi,” anayaka malo onse a kusonkhana a El mu dziko.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "anati"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "mu mitima yawo"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "tiwononge"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamodzi"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "anayaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "malo a kusonkhana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu dziko"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:51.013104485Z",
+  "model": "glm-5.3"
+}

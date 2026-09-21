@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 24:3",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo Yehoyada anamulowolera akazi awiri, ndipo anabala ana amuna ndi ana akazi.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "anamulowolera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "akazi"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ana amuna"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ana akazi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:45:17.072043372Z",
+  "model": "glm-5.3"
+}

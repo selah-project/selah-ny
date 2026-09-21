@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Undayesani, Yahwe, ndipo mundiyese; yesetsani moyo wanga wapakati ndi mtima wanga.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "undayesani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "ndipo mundiyese"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "yesetsani"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "moyo wanga wapakati"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ndi mtima wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:56.626350109Z",
+  "model": "glm-5.3"
+}

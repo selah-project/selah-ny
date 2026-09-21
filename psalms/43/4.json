@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 43,
+  "translation": "Ndipo ndidzalowa ku guwa la nsembe la Elohim, kwa El wachimwemwe changa chenicheni; ndidzakuyamikani ndi chitoliro, Elohim, Elohim wanga.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "ndipo ndidzalowa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "guwa la nsembe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "la Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "wachimwemwe"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "changwa chenicheni"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "ndidzakuyamikani"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ndi chitoliro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:00.235434611Z",
+  "model": "glm-5.3"
+}

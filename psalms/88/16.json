@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 88,
+  "translation": "Wosauka ndine ndipo ndikufa kuyambira uchidole; ndinasenza mantha ako, ndidazingayika.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "wosauka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "ndipo ndikufa"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "kuyambira uchidole"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ndinasenza"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "mantha ako"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "ndidazingayika"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:20.934745546Z",
+  "model": "glm-5.3"
+}

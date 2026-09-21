@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 79,
+  "translation": "Anamwazira mwazi wawo ngati madzi m'munsi mwa Yerushalayimu, ndipo palibe wakuikira m'manda.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "Anamwazira"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "mwazi wawo"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ngati madzi"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "m'munsi mwa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "wakuikira m'manda"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:59.797801956Z",
+  "model": "glm-5.3"
+}

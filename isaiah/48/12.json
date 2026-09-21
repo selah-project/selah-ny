@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 48,
+  "translation": "Mvera inu, Yakobo, ndi Yisraeli, woyitana kwawo: Ine ndine Iye; Ine ndine woyamba, ndipo Ine ndine womaliza.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "mvera inu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwawo ine"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ndi Yisraeli"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "woyitana kwawo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndine Iye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "woyamba"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "womaliza"
+    }
+  ],
+  "timestamp": "2026-09-21T09:19:21.698183728Z",
+  "model": "glm-5.3"
+}

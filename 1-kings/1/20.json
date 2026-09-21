@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 1:20",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo iwe, mbuye wanga mfumu, maso a Yisraeli onse ali pa iwe, kuwawuza amene adzakhala pa mpando wachifumu wa mbuye wanga mfumu pambuyo pake.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ndipo iwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mbuye wanga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maso a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ali pa iwe"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "kuwawuza"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "mpando wachifumu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "wa mbuye wanga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pambuyo pake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:30:13.632522820Z",
+  "model": "glm-5.3"
+}

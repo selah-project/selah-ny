@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 108,
+  "translation": "Nyimbo, mizimoro cha Davide.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyimbo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizimoro"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "cha Davide"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:50.932820212Z",
+  "model": "glm-5.3"
+}

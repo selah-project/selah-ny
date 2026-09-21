@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 85,
+  "translation": "Tibweretsenso, Elohim wa chipulumutso chathu, ndipo thathani mkwiyo wanu kwa ife.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Tibweretsenso"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "wa chipulumutso chathu"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "ndipo thathani"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "mkwiyo wanu"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "kwa ife"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:22.576149361Z",
+  "model": "glm-5.3"
+}

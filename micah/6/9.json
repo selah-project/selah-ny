@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 6:9",
+  "book": "micah",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Mawu a Yahwe akuitana kwa ⟨the⟩ mzinda, ndipo nzeru ndiyo kuopa dzina lanu: mverani chola, ndi amene adaika.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kwa mzinda"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "akuitana"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "ndipo nzeru"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "kuopa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dzina lanu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mverani"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "chola"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ndi amene"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "adaika"
+    }
+  ],
+  "timestamp": "2026-09-21T10:31:08.761076027Z",
+  "model": "glm-5.3"
+}

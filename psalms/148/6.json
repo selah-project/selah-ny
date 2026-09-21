@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 148,
+  "translation": "Ndipo adazichazikitsa ku nthawi zonse, mpaka ku nthawi zosatha; adapereka chilamulo, ndipo sichidutsa.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "Ndipo adazichazikitsa"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mpaka ku nthawi zosatha"
+    },
+    {
+      "surface": "חק",
+      "gloss": "chilamulo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adapereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sichidutsa"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "sidutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:35.153852515Z",
+  "model": "glm-5.3"
+}

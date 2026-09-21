@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 95,
+  "translation": "Amene m'dzanja lake muli mathunzi aakulu a dziko lapansi, ndi mitu ya mapiri ndi yake.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Amene"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "m'dzanja lake"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "mathunzi aakulu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a dziko lapansi"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "ndi mitu ya mapiri"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ndi yake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:31.338769665Z",
+  "model": "glm-5.3"
+}

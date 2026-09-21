@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 145,
+  "translation": "Ulemerero wa ufumu wako adzayankhula, ndipo mphamvu zako adzazitchula.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "Ulemerero"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "wa ufumu wako"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "adzayankhula"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "ndipo mphamvu zako"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "adzazitchula"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:47.331133174Z",
+  "model": "glm-5.3"
+}

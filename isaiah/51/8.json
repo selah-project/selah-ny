@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 51,
+  "translation": "Pakuti nyeswa idzawadya ngati chovala, ndipo kachirombo ka ulusi idzawadya; koma chilungamo changa chidzakhala mpaka muyaya, ndipo chipulumutso changa kwa mibadwo ndi mibadwo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "ngati chovala"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "idzawadya"
+    },
+    {
+      "surface": "עש",
+      "gloss": "nyeswa"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "ndipo monga ulusi"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "idzawadya"
+    },
+    {
+      "surface": "סס",
+      "gloss": "kachirombo ka ulusi"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "koma chilungamo changa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mpaka muyaya"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "chidzakhala"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ndipo chipulumutso changa"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kwa mibadwo"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "ndi mibadwo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:22:14.836612618Z",
+  "model": "glm-5.3"
+}

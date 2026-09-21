@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo mfumu itabwera kuchokera ku Damasiko, ndipo mfumu idaona ⟨את⟩ guwa la nsembe; ndipo mfumu inayandikira pa guwa la nsembe, nikipereka nsembe pa lomwolo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "itabwera"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "kuchokera ku Damasiko"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "idaona"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guwa la nsembe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa la nsembe"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "inayandikira"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa la nsembe"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "nikipereka nsembe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa lomwolo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:56:03.333007758Z",
+  "model": "glm-5.3"
+}

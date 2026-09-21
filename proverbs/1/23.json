@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Bwererani ku chidzudzulo changa; taonani, ndidzatulukira mzimu wanga kwa inu, ndidzadziwitsa mawu anga ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "bwererani"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "ku chidzudzulo changa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "taonani"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "ndidzatulukira"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mzimu wanga"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "ndidzadziwitsa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu anga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "inu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:33.348166737Z",
+  "model": "glm-5.3"
+}

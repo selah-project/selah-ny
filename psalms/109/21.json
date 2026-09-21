@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "Koma iwe Yahwe Adonayi, chitira ⟨את⟩ ine chifukwa cha dzina lako, pakuti khesedi lako ndi labwino; ndipulumutseni.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Koma iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "chitira"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ine",
+      "marks": "ine"
+    },
+    {
+      "surface": "למען",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dzina lako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labwino"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedi lako"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ndipulumutseni"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:36.916677915Z",
+  "model": "glm-5.3"
+}

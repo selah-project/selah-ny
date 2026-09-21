@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 1:3",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Yehuda anati kwa Shimeoni m'bale wake: “Kwera ⟨את⟩ pamodzi ndi ine m'chigawo changa, ndipo tilimbane ndi ⟨את⟩ Kenani; ndipo ndidzayenda inenso ⟨את⟩ ndi iwe m'chigawo chako.” Ndipo Shimeoni anayenda ⟨את⟩ pamodzi ndi iye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo Yehuda anati"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לשמעון",
+      "gloss": "kwa Shimeoni"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "m'bale wake"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Kwera"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ pamodzi ndi ine"
+    },
+    {
+      "surface": "בגורלי",
+      "gloss": "m'chigawo changa"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "ndipo tilimbane"
+    },
+    {
+      "surface": "בכנעני",
+      "gloss": "ndi ⟨את⟩ Kenani"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "ndipo ndidzayenda"
+    },
+    {
+      "surface": "גם",
+      "gloss": "inenso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ndi iwe"
+    },
+    {
+      "surface": "בגורלך",
+      "gloss": "m'chigawo chako"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "Ndipo Shimeoni anayenda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pamodzi ndi iye"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeoni"
+    }
+  ],
+  "timestamp": "2026-09-21T07:45:30.616889070Z",
+  "model": "glm-5.3"
+}

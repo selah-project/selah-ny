@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo mfumu Yehoram anatuluka tsiku lomwelo wa Shomroni, ndipo anawerenga ⟨את⟩ Yisraeli wonse.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "anatuluka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lomwelo"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "wa Shomroni"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "anawerenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli wonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:47:55.026209195Z",
+  "model": "glm-5.3"
+}

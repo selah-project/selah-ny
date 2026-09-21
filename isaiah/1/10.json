@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Mverani mawu a Yahwe, inu akulu a Sodoma; tchipukutani makutu pa Tora (chilamulo) cha Elohim wathu, inu anthu a Amora.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mverani"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "akulu"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodoma"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "tchipukutani makutu"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    }
+  ],
+  "timestamp": "2026-09-21T09:00:51.912677831Z",
+  "model": "glm-5.3"
+}

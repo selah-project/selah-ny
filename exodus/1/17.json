@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Koma amayi odzazela anaopa ⟨את⟩ Elohim, ndipo sanachite monga momwe mfumu ya Mitsrayimu inawauzira, ndipo anasunga moyo ⟨את⟩ ana.",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "anaopa"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "amayi odzazela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anachite"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "inawauzira"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "ויחיין",
+      "gloss": "anasunga moyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ana"
+    }
+  ],
+  "timestamp": "2026-09-21T06:07:52.486811025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Mubweretse ⟨את⟩ minchah imeneyo idzachitidwa ndi zinthu izi, kwa Yahwe; ndipo aperekere kwa wansembe, ndipo watheekerere ku guwa la nsembe.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Mubweretse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minchah imeneyo"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchah imeneyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imeneyo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "idzachitidwa"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ndi zinthu izi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "ndipo aperekere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "ndipo watheekerere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa la nsembe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:14.228032947Z",
+  "model": "glm-5.3"
+}

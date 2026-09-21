@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Pakuti ⟨את⟩ ng'ambo ya katundu wake, ndi ⟨את⟩ mtanda wa mpewa wake, ndondo ya womulamulira iye, ⟨wawononga⟩ monga tsiku la Midiyani.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ng'ambo"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "ya katundu wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mtanda"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mtanda"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "wa mpewa wake"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ndondo ya"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "womulamulira"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "⟨wawononga⟩"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "monga tsiku la"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyani"
+    }
+  ],
+  "timestamp": "2026-09-21T09:04:54.230247142Z",
+  "model": "glm-5.3"
+}

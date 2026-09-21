@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 140,
+  "translation": "Ndithu olungama adzalumba dzina lako; olungama achitiratu adzakhala ⟨את⟩ pamaso panu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ndithu"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "olungama"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "adzalumba"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "dzina lako"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "olungama achitiratu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pamaso panu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "pamaso panu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:02.554064411Z",
+  "model": "glm-5.3"
+}

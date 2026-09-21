@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 52,
+  "translation": "Ndipo mkulu wa asilikali anatenga ⟨את⟩ Seraya, msembe wamkulu, ndi ⟨את⟩ Tsefanya, msembe wachiwiri, ndi ⟨את⟩ atatu asungi khomo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mkulu"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wa asilikali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraya"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "msembe"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Tsefanya"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "msembe"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "wachiwiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "atatu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "asungi"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "khomo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:54:15.635467819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 149,
+  "translation": "Kuchita mwa iwo chiweruzo cholembedwa; uwu ndi ⟨u⟩lemerero kwa akhesedi onse ake. Lelezani Yah!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "Kuchita"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mwa iwo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chiweruzo"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "cholembedwa"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "ulemerero"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "uwu ndi ⟨u⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa onse"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "akhesedi ake"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lelezani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:22.091316895Z",
+  "model": "glm-5.3"
+}

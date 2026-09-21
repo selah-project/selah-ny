@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 12:16",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo Yisraeli onse anaona kuti mfumu sinawamvera, ndipo anthu anabwezera ⟨את⟩ mfumu mawu, nati: “Ndi gawo lanji ife kwa Davide, ndipo sitili nacho chikhale mwa mwana wa Yishayi? Ku mahema anu, Yisraeli! Tsopano yesa nyumba yako, Davide!” Ndipo Yisraeli anapita ku mahema ake.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sina"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wamvera"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "anabwezera"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfumu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "מה",
+      "gloss": "lanji"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "gawo"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "kwa Davide"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sitili nacho"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "chikhale"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "mwa mwana wa"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishayi"
+    },
+    {
+      "surface": "לאהליך",
+      "gloss": "ku mahema anu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "yesa"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nyumba yako"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "anapita"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "ku mahema ake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:40:53.855021410Z",
+  "model": "glm-5.3"
+}

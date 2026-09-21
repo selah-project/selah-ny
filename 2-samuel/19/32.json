@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndi Barzilayi wa ku Gileadi anatsika ku Rogelimu, nadutsa ndi ⟨את⟩ mfumu Yordano, kum'tumikira ⟨את⟩ pa Yordano.",
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "Ndi Barzilayi"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "wa ku Gileadi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "anatsika"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "ku Rogelimu"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "nadutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mfumu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordano"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "kum'tumikira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pa Yordano"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "pa Yordano"
+    }
+  ],
+  "timestamp": "2026-09-21T08:27:03.274858340Z",
+  "model": "glm-5.3"
+}

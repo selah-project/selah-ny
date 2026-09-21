@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Komanso ⟨את⟩ mwana wa mzakazi ndidzam'pangitsa mtundu, popeza mbewu yako ndi iye.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Komanso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "wa mzakazi"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "mtundu"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "ndidzam'pangitsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbewu yako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndi iye"
+    }
+  ],
+  "timestamp": "2026-09-21T05:51:09.969748477Z",
+  "model": "glm-5.3"
+}

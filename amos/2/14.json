@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 2:14",
+  "book": "amos",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndi kuthekera kudzawonongeka kwa wodunda, ndipo wolimba sadzalimbikitsa mphamvu yake, ndipo wamphamvu sadzapulumutsa moyo wake.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "udzawonongeka"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "kuthekera"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "kwa wodunda"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "ndipo wolimba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "יאמץ",
+      "gloss": "-limbikitsa"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "mphamvu yake"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "ndipo wamphamvu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "-pulumutsa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moyo wake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:24:15.385346894Z",
+  "model": "glm-5.3"
+}

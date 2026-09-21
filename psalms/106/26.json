@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Ndipo anawunika dzanja lake ku iwo, ⟨kuti⟩ awagwetse ⟨את⟩ m'chilengalenga.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "anawunika"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ku iwo"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "⟨kuti⟩ awagwetse"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "m'chilengalenga"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "m'chilengalenga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:59.289733797Z",
+  "model": "glm-5.3"
+}

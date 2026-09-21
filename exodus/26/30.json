@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo udzayimikitsa ⟨את⟩ Malengtho monga m'malembo ake, amene anakuonetsa pa phiri.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "Ndipo udzayimikitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Malengtho"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Malengtho"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "monga m'malembo ake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "anakuonetsa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pa phiri"
+    }
+  ],
+  "timestamp": "2026-09-21T06:20:52.845844336Z",
+  "model": "glm-5.3"
+}

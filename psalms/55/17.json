@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 55,
+  "translation": "Ine, kwa Elohim ndidzaitana, ndipo Yahwe adzandipulumutsa.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndidzaitana"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ndipo Yahwe"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "adzandipulumutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:15.847949376Z",
+  "model": "glm-5.3"
+}

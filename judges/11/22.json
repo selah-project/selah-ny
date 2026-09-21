@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo analanda ⟨את⟩ mphaka yonse ya Aemori, kuyambira pa Arnoni mpaka Yabokhi, ndi kuyambira pa chilengalenga mpaka Yordano.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "analanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mphaka yonse ya Aemori"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "mphaka"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ya Aemori"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "kuyambira pa Arnoni"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Yabokhi"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ndi kuyambira pa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "chilengalenga"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordano"
+    }
+  ],
+  "timestamp": "2026-09-21T07:53:27.756869266Z",
+  "model": "glm-5.3"
+}

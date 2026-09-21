@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo anthu onse anayenda, munthu ali yense ku nyumba yake; ndipo Davide anabwerera kudalitsa ⟨את⟩ nyumba yake.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu ali yense"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ku nyumba yake"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "anabwerera"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "kudalitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba yake"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:30:02.457735186Z",
+  "model": "glm-5.3"
+}

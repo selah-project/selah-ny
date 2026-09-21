@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Ramu anabala ⟨את⟩ Aminadabu, ndipo Aminadabu anabala ⟨את⟩ Nakhshoni, mfumu ya ana aamuna a Yehudha.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Ndipo Ramu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadabu"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadabu"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "ndipo Aminadabu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakhshoni"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhshoni"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana aamuna a"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    }
+  ],
+  "timestamp": "2026-09-21T12:22:57.103299658Z",
+  "model": "glm-5.3"
+}

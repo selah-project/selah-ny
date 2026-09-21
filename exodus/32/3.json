@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndipo anthu onse anadula ⟨את⟩ zisinksinkhu za golide zili m'makutu awo, nazibweretsa kwa Aharoni.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "anadula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zisinksinkhu za golide"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "zisinksinkhu"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "za golide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zili"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "m'makutu awo"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "nazibweretsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    }
+  ],
+  "timestamp": "2026-09-21T06:25:30.244420121Z",
+  "model": "glm-5.3"
+}

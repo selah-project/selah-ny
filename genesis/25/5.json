@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo Avraham adapatsa ⟨את⟩ zonse zimene anali nazo kwa Yitskhaki.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "adapatsa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "לו",
+      "gloss": "anali nazo"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kwa Yitskhaki"
+    }
+  ],
+  "timestamp": "2026-09-21T05:52:44.227240077Z",
+  "model": "glm-5.3"
+}

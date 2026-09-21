@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 46,
+  "translation": "Chifukwa cha izi sitikuopa, ngakhale dziko lathra kusinthidwa, ndi mapiri kugwedezeka m'kati mwa nyanja.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Chifukwa cha"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "tikuopa"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "ngakhale ... kusinthidwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "ndi ... kugwedezeka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "m'kati mwa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nyanja"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:13.444200851Z",
+  "model": "glm-5.3"
+}

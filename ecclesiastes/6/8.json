@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Pakuti wanzeru ali nachi chiyani choposa wopusa? Wophawa wodziwa kuyenda pamaso pa amoyo ali nachi chiyani?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "choposa"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "wanzeru ali nachi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuposa"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "wopusa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "wophawa ali nachi"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "wodziwa"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "kuyenda"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "amoyo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:39.066900306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 60,
+  "translation": "Giladi ndi yanga, ndipo Menashe ndi wanga; ndi Efrayimu ndiye chitetezo cha mutu wanga; Yehuda ndiye wolamulira wanga.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ndi yanga"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladi"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ndipo Menashe ndi wanga"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ndi Efrayimu"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "chitetezo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "cha mutu wanga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "wolamulira wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:14.022523815Z",
+  "model": "glm-5.3"
+}

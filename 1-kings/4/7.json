@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 4:7",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Shelomo anali ndi akhairi khumi ndi awiri pa Yisraeli wonse, ndipo ankagwiritsa ntchito ⟨את⟩ mfumu ndi ⟨את⟩ nyumba yake; mwezi umodzi mu chaka, wina aliyense adakhala ndi udindo wopereka chakudya",
+  "tokens": [
+    {
+      "surface": "ולשלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "khumi ndi"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "akhairi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וכלכלו",
+      "gloss": "ankagwiritsa ntchito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfumu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyumba yake"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mwezi umodzi"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mu chaka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adakhala ndi udindo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wina aliyense"
+    },
+    {
+      "surface": "לכלכל",
+      "gloss": "wopereka chakudya"
+    }
+  ],
+  "timestamp": "2026-09-21T08:31:12.517733948Z",
+  "model": "glm-5.3"
+}

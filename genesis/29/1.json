@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo Yaakob ananyamula mapazi ake, naduta ku dziko la ⟨ana⟩ a kum'mawa.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ananyamula"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "mapazi ake"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "naduta"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ku dziko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "la ⟨ana⟩ a"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kum'mawa"
+    }
+  ],
+  "timestamp": "2026-09-21T05:54:51.144299064Z",
+  "model": "glm-5.3"
+}

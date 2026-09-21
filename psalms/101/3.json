@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 101,
+  "translation": "Sindidzaika pamaso panga chinthu chopanda pake; ntchito ya odutsa mbali ndayidana; sidzakamana ndi ine.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ndidzaika"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anga maso"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "chinthu"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "chopanda pake"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ntchito ya"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "odutsa mbali"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ndayidana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "dzakamana"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ndi ine"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:00.209970520Z",
+  "model": "glm-5.3"
+}

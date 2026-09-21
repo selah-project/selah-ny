@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Ndipo iye anati: “Ndionetse, ndapempha, ⟨את⟩ ulemerero wako.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo iye anati"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "Ndionetse"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapempha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulemerero wako"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "ulemerero wako"
+    }
+  ],
+  "timestamp": "2026-09-21T06:25:54.020859504Z",
+  "model": "glm-5.3"
+}

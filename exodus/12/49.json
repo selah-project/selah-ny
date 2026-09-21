@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Tora imodzi idzakhala kwa wobadwa m'dzikomo, ndi kwa mlendo wokhala pakati panu.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "imodzi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "idzakhala"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "kwa wobadwa m'dzikomo"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "ndi kwa mlendo"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "wokhala"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "pakati panu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:12:17.944138595Z",
+  "model": "glm-5.3"
+}

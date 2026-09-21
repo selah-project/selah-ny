@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 124,
+  "ref": "psalms 119:124",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Chitirani kapolo wanu monga mwa khesedi kanu, ndiponso ndiphunzitseni malamulo anu.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "chitirani"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kapolo wanu"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "monga mwa khesedi kanu"
+    },
+    {
+      "surface": "וחקיך",
+      "gloss": "ndiponso malamulo anu"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ndiphunzitseni"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:16.006028494Z",
+  "model": "glm-5.3"
+}

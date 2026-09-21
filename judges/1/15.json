@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo iye anamuuza: “Ndipatse dalitso; popeza wandipatsa dziko la kumwera, ndipatseonso matsime a madzi.” Ndipo Kalebu adamupatsa ⟨את⟩ matsime a pamwamba ndi ⟨את⟩ matsime a pansi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "anamuuza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "Ndipatse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "dalitso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "la kumwera"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "wandipatsa"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ndipatseonso"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "matsime"
+    },
+    {
+      "surface": "מים",
+      "gloss": "a madzi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "adamupatsa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalebu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matsime a pamwamba"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "matsime"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "a pamwamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "matsime a pansi"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "matsime"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "a pansi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:46:00.004757430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo Yahwe anati: Ndani adzanyenga ⟨את⟩ Ahabu, kuti ayende nkagwa ku Ramothi ya Giladi? Ndipo wina anati motsimikiza, ndi mnzake anati motsimikiza.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ndani"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "adzanyenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahabu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "kuti ayende"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "nkagwa"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "ku Ramothi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ya Giladi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wina"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "motsimikiza"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ndi mnzake"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "motsimikiza"
+    }
+  ],
+  "timestamp": "2026-09-21T08:46:52.703474386Z",
+  "model": "glm-5.3"
+}

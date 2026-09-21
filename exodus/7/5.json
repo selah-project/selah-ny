@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo Amtsiri adzadziwa kuti ine ndine Yahwe, pamene ndikadzalamba ⟨את⟩ dzanja langa pa Mitsrayimu, ndipo ndidzatulutsa ⟨את⟩ ana a Yisraeli mwa iwo.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "adzadziwa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Amtsiri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ndine Yahwe"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "pamene ndikadzalamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzanja langa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "dzanja langa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "ndipo ndidzatulutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "mwa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:24.438819633Z",
+  "model": "glm-5.3"
+}

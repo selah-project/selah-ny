@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Koma ngati simumvera mawu a Yahwe, koma mukakana ⟨את⟩ mkoma wa Yahwe, dzanja la Yahwe lidzakhala pa inu ndi pa makolo anu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Koma ngati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mumvera"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "koma mukakana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkoma wa Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mkoma wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "lidzakhala"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dzanja la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "pa inu"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "ndi pa makolo anu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:05:41.731312012Z",
+  "model": "glm-5.3"
+}

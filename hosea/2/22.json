@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndidzakulombirira kwa Ine mwa kukhulupirika; ndipo udzadziwa ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "ndipo ndidzakulombirira kwa iwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa Ine"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "mwa kukhulupirika"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ndipo udzadziwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:20:15.946129013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 135,
+  "translation": "Mongawa mwawo, adzakhalabe opanga awo; onse amene akhulupirira mwa iwo.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "monga iwo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "opanga awo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "akhulupirira"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mwa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:29.716782923Z",
+  "model": "glm-5.3"
+}

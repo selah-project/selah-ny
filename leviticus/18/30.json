@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo musunge ⟨את⟩ chisamaliro changa, kuti musachite chimodzi mwa miyambo yowawitsa imene inachitidwa pamaso panu, ndipo musadetsedwe ndi izo; ndine Yahwe Elohim wanu.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "musunge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chisamaliro changa"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "chisamaliro changa"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kuti musachite"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "chita"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "mwa miyambo"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "yowawitsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "inachitidwa"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pamaso panu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo musadetsedwe"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "udetsedwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ndi izo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:57:53.883645484Z",
+  "model": "glm-5.3"
+}

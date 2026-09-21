@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 56:11",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 56,
+  "translation": "Ndipo agaluwo ndi okhuthulira mtima, sadadziwa kuchuta; ndipo iwo ndi abusa osadziwa kuzindikira; onse anatembenuzira njira yawo, munthu aliyense ku phindu lake, kumalekezero kwake.",
+  "tokens": [
+    {
+      "surface": "והכלבים",
+      "gloss": "ndipo agaluwo"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "okhuthulira"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "dadziwa"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "kuchuta"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ndipo iwo"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "abusa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "osa-"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "dadziwa"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "kuzindikira"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "onse"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "njira yawo"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "anatembenuzira"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu aliyense"
+    },
+    {
+      "surface": "לבצעו",
+      "gloss": "ku phindu lake"
+    },
+    {
+      "surface": "מקצהו",
+      "gloss": "kumalekezero kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T09:21:36.958830952Z",
+  "model": "glm-5.3"
+}

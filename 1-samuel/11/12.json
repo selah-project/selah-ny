@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo anthu ananena kwa Shemueli: “Ndani ndi wonena kuti Shauli adzalamulire ife? Patsani anthuwo, ndipo tidzawapha.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ndani"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "ndi wonena kuti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "adzalamulire"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Patsani"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "anthuwo"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "tidzawapha"
+    }
+  ],
+  "timestamp": "2026-09-21T08:04:23.955603287Z",
+  "model": "glm-5.3"
+}

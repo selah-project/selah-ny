@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Koma iwe, Yahwe, ndiwe chishango changa; ulemerero wanga, ndi wokweza mutu wanga.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Koma iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "chishango"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "changa ⟨pandipo pali⟩"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ulemerero wanga"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "ndi wokweza"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mutu wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:31.207380473Z",
+  "model": "glm-5.3"
+}

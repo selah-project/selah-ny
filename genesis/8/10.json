@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo adadikirabe kenanso masiku ena asanu ndi awiri, nadabwezanso kutuma ⟨את⟩ nkhunda kuchokera ku ngalawa.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "adadikirabe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kenanso"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "asanu ndi awiri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ena"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "nadabwezanso"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kutuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhunda"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "nkhunda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchokera"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ngalawa"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:10.870881151Z",
+  "model": "glm-5.3"
+}

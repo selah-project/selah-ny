@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Yahwe anaona kuti anapotoka kuona; ndipo Elohim anamuyitana kum'modzi mwa sutsa, nati: “Moshe! Moshe!” Ndipo iye anati: “Ndili pano.”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "סר",
+      "gloss": "anapotoka"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "anamuyitana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "kum'modzi mwa"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "sutsa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ndili pano"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:25.330703387Z",
+  "model": "glm-5.3"
+}

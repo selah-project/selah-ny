@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Dziko lapansi linaonongoka pamaso pa Elohim, ndipo dziko lapansi linadzaza ndi chiwawa.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "linaonongoka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "linadzaza"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "chiwawa"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:35.910326237Z",
+  "model": "glm-5.3"
+}

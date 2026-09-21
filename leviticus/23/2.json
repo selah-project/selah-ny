@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Yankhulani kwa ana a Yisraeli, ndipo muwuze kuti: Nyengo zopatulika za Yahwe, zimene mudzaitanira ⟨⟨את⟩⟩ sikuti — mwambo wopatulika; izi ndi nyengo zanga zopatulika.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Yankhulani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "muwuze kuti"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "nyengo zopatulika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "za Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "mudzaitanira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nyengo (מועדי)"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "mwambo wopatulika"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "wopatulika"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "nyengo zanga zopatulika"
+    }
+  ],
+  "timestamp": "2026-09-21T06:43:01.804048282Z",
+  "model": "glm-5.3"
+}

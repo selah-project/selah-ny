@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Vestani tsopano ukulu ndi kukwera, ndipo ulemerero ndi chokongola mavwaleni.",
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "Vestani"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ukulu"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "ndi kukwera"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "ndi ulemerero"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ndi chokongola"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "mavwaleni"
+    }
+  ],
+  "timestamp": "2026-09-21T11:46:16.288325544Z",
+  "model": "glm-5.3"
+}

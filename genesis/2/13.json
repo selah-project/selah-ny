@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo dzina la mtsinje wachiwiri ndi Gichoni; ndi ameneyu amuzinga ⟨את⟩ dziko lonse la Kushi.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ndipo dzina"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "la mtsinje"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wachiwiri"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichoni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndi ameneyu"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "amuzinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko lonse la Kushi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "la Kushi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:17.318511460Z",
+  "model": "glm-5.3"
+}

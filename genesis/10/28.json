@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "ndi ⟨את⟩ Ovali, ndi ⟨את⟩ Avimaeli, ndi ⟨את⟩ Sheva.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Ovali"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Ovali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Avimaeli"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avimaeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-09-21T05:45:55.803749146Z",
+  "model": "glm-5.3"
+}

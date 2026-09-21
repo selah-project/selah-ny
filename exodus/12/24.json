@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Mudzasunga ⟨את⟩ lamulo ili monga chikhalire cha inu ndi ana anu kufikira ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "mudzasunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lamulo ili"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lamulo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ili"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "monga chikhalire"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cha inu"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "ndi ana anu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ku nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T06:13:09.824751904Z",
+  "model": "glm-5.3"
+}

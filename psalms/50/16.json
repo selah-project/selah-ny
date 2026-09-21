@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 50,
+  "translation": "Koma kwa woipa Elohim adati: “Kodi ndiwe ndani kuti ulankhule malamulo anga, ndipo usenze pangano langa pakamwa pako?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "Koma kwa woipa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kodi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndiwe ndani"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "kuti ulankhule"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "malamulo anga"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "ndipo usenze"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "pangano langa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pakamwa"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "pako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:59.326948553Z",
+  "model": "glm-5.3"
+}

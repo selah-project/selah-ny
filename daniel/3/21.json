@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 3:21",
+  "book": "daniel",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Pamenepo amuna amenewa anamangidwa mu mavalo awo, mu zobvala zawo, ndi zovala zawo zonse, naponyedwa pakati pa ng'anjo ya moto woyaka.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Pamenepo"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "amuna"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "amenewa"
+    },
+    {
+      "surface": "כפתו",
+      "gloss": "anamangidwa"
+    },
+    {
+      "surface": "בסרבליהון",
+      "gloss": "mu mavalo awo"
+    },
+    {
+      "surface": "פטישיהון",
+      "gloss": "mu zobvala zawo"
+    },
+    {
+      "surface": "וכרבלתהון",
+      "gloss": "ndi zovala zawo"
+    },
+    {
+      "surface": "ולבשיהון",
+      "gloss": "zovaIa zawo zonse"
+    },
+    {
+      "surface": "ורמיו",
+      "gloss": "naponyedwa"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "ng'anjo"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "moto"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "woyaka"
+    }
+  ],
+  "timestamp": "2026-09-21T12:05:27.528210150Z",
+  "model": "glm-5.3"
+}

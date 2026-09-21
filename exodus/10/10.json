@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo adati kwa iwo: “Khalani choncho Yahwe akhale ndi inu, monga ndidzakulola inu ndi ⟨את⟩ ana anu ang'ono; penani, chifukwa choipa chili pamaso panu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "akhale"
+    },
+    {
+      "surface": "כן",
+      "gloss": "choncho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ndi inu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ndidzakulola"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana anu ang'ono"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "ana anu ang'ono"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "penani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "chili"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "pamaso panu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:12:10.019627951Z",
+  "model": "glm-5.3"
+}

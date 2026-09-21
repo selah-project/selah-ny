@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndipo anabweretsa ⟨את⟩ chihema kwa Moshe, ⟨את⟩ chihema chodutsa ndi ⟨את⟩ zida zake zonse, zokolola zake, mapango ake, mitolo yake, nsanja zake ndi maziko ake.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "anabweretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chihema"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chihema chodutsa"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "chihema chodutsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zida zake zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zida zake"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "zokolola zake"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "mapango ake"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "mitolo yake"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "nsanja zake"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "ndi maziko ake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:12.826097341Z",
+  "model": "glm-5.3"
+}

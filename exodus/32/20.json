@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Nadza ⟨את⟩ mwana wamfumu wonyenga amene anapanga, nadzupsya ndi moto, namalizira kuufera mpaka ungafe ungwiro, nadzutumbulula pa nkhope ya madzi, nadzawetsa ⟨את⟩ ana a Yisraeli kuti amwe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wamfumu wonyenga"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "mwana wamfumu wonyenga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "nadzupsya"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ndi moto"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "namalizira kuufera"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ungafe ungwiro (mpaka)"
+    },
+    {
+      "surface": "דק",
+      "gloss": "kungwiro"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "nadzutumbulula"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope ya"
+    },
+    {
+      "surface": "המים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "nadzawetsa kuti amwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T06:25:33.525677781Z",
+  "model": "glm-5.3"
+}

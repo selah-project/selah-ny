@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo dziko lapansi linali tohu ndi bohu, ndipo mdima unali pa nkhope ya thehomu; ndipo mzimu wa Elohim unkapeta mapapata pa nkhope ya madzi.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Ndipo dziko lapansi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "linali"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tohu"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "ndi bohu"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "ndipo mdima"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope ya"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "thehomu"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ndipo mzimu wa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "unkapeta mapapata"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope ya"
+    },
+    {
+      "surface": "המים",
+      "gloss": "madzi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:41:59.442739673Z",
+  "model": "glm-5.3"
+}

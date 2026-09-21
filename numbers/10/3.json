@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo akatamba m'menemo, msonkhano wonse udzasonkhana kwa iwe, kumtunda kwa chihema cha msonkhano.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "akatamba"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "udzasonkhana"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "msonkhano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kumtunda kwa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "cha"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "msonkhano"
+    }
+  ],
+  "timestamp": "2026-09-21T06:55:35.385704783Z",
+  "model": "glm-5.3"
+}

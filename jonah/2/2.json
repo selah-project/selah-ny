@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Yona anapemphera kwa Yahwe, Elohim wake, kuchokera m'mimba mwa nsombayo.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "anapemphera"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim wake"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "kuchokera m'mimba"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "mwa nsombayo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:29:01.797034756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Mfumu inatumiza ndi kumasulira; wolamulira anthu inamtulutsa.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "inatumiza"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "ndi kumasulira"
+    },
+    {
+      "surface": "משל",
+      "gloss": "wolamulira"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "inamtulutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:23.367508456Z",
+  "model": "glm-5.3"
+}

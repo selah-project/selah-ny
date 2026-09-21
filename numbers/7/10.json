@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo atsamwiri adabweretsa ⟨את⟩ kukwezedwa kwa guwa lansembe pa tsiku limene linadzodzedwa ⟨אתו⟩; ndipo atsamwiri adabweretsa ⟨את⟩ nsembe yawo pamaso pa guwa lansembe.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "adabweretsa"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "atsamwiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kukwezedwa kwa guwa lansembe"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "kukwezedwa kwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa lansembe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pa tsiku"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "linadzodzedwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "guwa lansembe (iwo)"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "adabweretsa"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "atsamwiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe yawo"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "nsembe yawo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa lansembe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:53:44.013567620Z",
+  "model": "glm-5.3"
+}

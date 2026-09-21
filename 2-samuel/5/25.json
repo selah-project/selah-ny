@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo Davide anachita momwamba, monga Yahwe anamulamulira; nakaniza ⟨את⟩ Afilisti kuyambira ku Gibea mpaka m'mene mulowa ku Gezere.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "כן",
+      "gloss": "momwamba"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "anamulamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "nakaniza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Afilisti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilisti"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "kuyambira ku Gibea"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "באך",
+      "gloss": "m'mene mulowa"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ku Gezere"
+    }
+  ],
+  "timestamp": "2026-09-21T08:18:09.872359423Z",
+  "model": "glm-5.3"
+}

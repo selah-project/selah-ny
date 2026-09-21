@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 50,
+  "translation": "Nsemphere Elohim chiyamiko, ndipo msuze kwa Elyoni ndivowe lanu.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Nsemphere"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "chiyamiko"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "ndipo msuze"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "kwa Elyoni"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "ndivowe lanu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:59.326608398Z",
+  "model": "glm-5.3"
+}

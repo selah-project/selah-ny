@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "ndipo zitseko zidzatsekedwa m'mseu, pamene liwu la kukumbidwa litagwa pansi, ndipo munthu adzauka pa liwu la mbalame, ndipo ana a nyimbo onse adzagwa pansi.",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "zidzatsekedwa"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "zitseko"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "m'mseu"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "pamene … litagwa pansi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "liwu la"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "kukumbidwa"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "adzauka"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "pa liwu la"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "mbalame"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "adzagwa pansi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "nyimbo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:59:08.279908972Z",
+  "model": "glm-5.3"
+}

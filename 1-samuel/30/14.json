@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 30:14",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ife tinawukira kumwera kwa aku Kereti, ndi pa chigawo cha Yehudha, ndi kumwera kwa Kalebi; ndipo ⟨את⟩ Tsiklag tinayiwotcha ndi moto.”",
+  "tokens": [
+    {
+      "surface": "אנחנו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "פשטנו",
+      "gloss": "tinawukira"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "kumwera kwa"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "aku Kereti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chigawo cha"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi kumwera kwa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "kumwera"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalebi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "שרפנו",
+      "gloss": "tinayiwotcha"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ndi moto"
+    }
+  ],
+  "timestamp": "2026-09-21T13:06:46.235616159Z",
+  "model": "glm-5.3"
+}

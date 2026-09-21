@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 39:4",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Yosefe adapeza chisomo m'maso ake, namutumikira ⟨אתו⟩; namuika pa nyumba yake, ndipo zonse zili kwa iye anazipereka m'dzanja lake.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "adapeza"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "חן",
+      "gloss": "chisomo"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "m'maso ake"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "namutumikira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iye (Yosefe)"
+    },
+    {
+      "surface": "ויפקדהו",
+      "gloss": "namuika"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo zonse"
+    },
+    {
+      "surface": "יש",
+      "gloss": "zili"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anapereka"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "m'dzanja lake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:01:20.308907476Z",
+  "model": "glm-5.3"
+}

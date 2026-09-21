@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Umandonzosera pamaso panga tebulo losalira tsankho latsiru anga; undafuta mutu wanga ndi mafuta; chikho changa n'chodzaza.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "umandonzosera"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso panga"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "tebulo"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "losalira tsankho"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "latsiru anga"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "undafuta"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ndi mafuta"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mutu wanga"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "chikho changa"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "n'chodzaza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:52.540621760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Wokhedza magazi a munthu, mwa munthu magazi ake adzakhedwa; chifukwa m'chifaniziro cha Elohim analenga ⟨את⟩ munthu.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Wokhedza"
+    },
+    {
+      "surface": "דם",
+      "gloss": "magazi a"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "mwa munthu"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "magazi ake"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "adzakhedwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "m'chifaniziro cha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "analenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munthu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthu"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:16.454595061Z",
+  "model": "glm-5.3"
+}

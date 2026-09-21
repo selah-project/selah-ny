@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 21:6",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "mbuye wake adzamuyandikira kwa Elohim, ndipo adzamuyandikira kua khomo kapena kua manda; ndipo mbuye wake adzam'womba ⟨את⟩ khutu lake ndi chala chowomba, ndipo adzamtumikira ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "והגישו",
+      "gloss": "adzamuyandikira"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mbuye wake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והגישו",
+      "gloss": "adzamuyandikira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kua"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "khomo"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kua"
+    },
+    {
+      "surface": "המזוזה",
+      "gloss": "manda"
+    },
+    {
+      "surface": "ורצע",
+      "gloss": "adzam'womba"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mbuye wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khutu lake"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "khutu lake"
+    },
+    {
+      "surface": "במרצע",
+      "gloss": "ndi chala chowomba"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "adzamtumikira"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ku nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T12:56:55.566492627Z",
+  "model": "glm-5.3"
+}

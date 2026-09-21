@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Ndipo mombe zamkazi oonda ndi oipa zidya ⟨את⟩ mombe zamkazi zisanu ndi ziwiri oyamba, odenje.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "Ndipo zidya"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "mombe zamkazi"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "oonda"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "ndi oipa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mombe zamkazi zisanu ndi ziwiri oyamba"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zisanu ndi ziwiri"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "mombe zamkazi"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "oyamba"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "odenje"
+    }
+  ],
+  "timestamp": "2026-09-21T06:01:27.084000325Z",
+  "model": "glm-5.3"
+}

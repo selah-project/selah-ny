@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 28:19",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Kanako kanako potembenuka idzatenga ⟨אתכם⟩; pakuti mamawa ndi mamawa idzatembenuka, kusana ndi usiku; ndipo kudzakhala mantha okha kokha kumvetsetsa uthenga.",
+  "tokens": [
+    {
+      "surface": "מדי",
+      "gloss": "kanako kanako"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "potembenuka"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "idzatenga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "inu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mamawa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ndi mamawa"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "idzatembenuka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kusana"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "ndi usiku"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ndipo kudzakhala"
+    },
+    {
+      "surface": "רק",
+      "gloss": "okha kokha"
+    },
+    {
+      "surface": "זועה",
+      "gloss": "mantha"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "kumvetsetsa"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "uthenga"
+    }
+  ],
+  "timestamp": "2026-09-21T09:12:08.061881354Z",
+  "model": "glm-5.3"
+}

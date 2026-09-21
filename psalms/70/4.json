@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 70,
+  "translation": "Abwerere chifukwa cha manyazi awo, iwo akunena: “Heha, heha.”",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "abwerere"
+    },
+    {
+      "surface": "על",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨pansi pa⟩"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "manyazi awo"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "akunena"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "heha"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:00.908338347Z",
+  "model": "glm-5.3"
+}

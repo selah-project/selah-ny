@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Dziko la tirigu ndi bala, la mphesa ndi mkuyu ndi mkanthindi; dziko la chitale cha mafuta ndi uchi.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "dziko la"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "tirigu"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "ndi bala"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "la mphesa"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "ndi mkuyu"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "ndi mkanthindi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko la"
+    },
+    {
+      "surface": "זית",
+      "gloss": "chitale cha"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ndi uchi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:17:42.671354455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 11:6",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "ndipo gawo lachitatu pa khomo la Suri, ndipo gawo lachitatu pa khomo kumbuyo kwa akuthamanga; ndipo mudzasunga ⟨את⟩ chitetezo cha nyumba, monga chiletso;",
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "ndipo gawo lachitatu"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "pa khomo"
+    },
+    {
+      "surface": "סור",
+      "gloss": "la Suri"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "ndipo gawo lachitatu"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "pa khomo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kumbuyo kwa"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "akuthamanga"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "ndipo mudzasunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chitetezo"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "chitetezo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "cha nyumba"
+    },
+    {
+      "surface": "מסח",
+      "gloss": "monga chiletso"
+    }
+  ],
+  "timestamp": "2026-09-21T08:52:09.810248280Z",
+  "model": "glm-5.3"
+}

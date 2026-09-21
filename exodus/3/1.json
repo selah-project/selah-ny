@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo Moshe anali m'busa wa ⟨את⟩ nkhosa za Yitro, mkweni wake, waulemu wa Midiyani; ndipo anayendetsa ⟨את⟩ nkhosazo kumbuyo kwa chipululu, nafika ku phiri la Elohim, ku Horeva.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Ndipo Moshe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "anali"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "m'busa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhosa za Yitro"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "mkweni wake"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "waulemu"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyani"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "anayendetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhosazo"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "nkhosazo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kumbuyo kwa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "chipululu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nafika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ku Horeva"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:25.329561737Z",
+  "model": "glm-5.3"
+}

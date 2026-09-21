@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo ansembe ndi Alevi anayeretsa okha kuti akwere ⟨את⟩ chikhata cha Yahwe, Elohim wa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "anayeretsa okha"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ndi Alevi"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "kuti akwere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikhata"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chikhata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T12:29:05.335423527Z",
+  "model": "glm-5.3"
+}

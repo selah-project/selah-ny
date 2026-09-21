@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Mthwalo wa Damasiko. Taonani, Damasiko yachotsedwa ku kukhala mzinda, ndipo idzakhala kumbuyo kotayika.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Mthwalo"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasiko"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Taonani"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasiko"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "yachotsedwa"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ku kukhala mzinda"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ndipo idzakhala"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "kumbuyo"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "kotayika"
+    }
+  ],
+  "timestamp": "2026-09-21T09:08:55.601503493Z",
+  "model": "glm-5.3"
+}

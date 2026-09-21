@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo m'menemo anapezeka munthu wosauka wodziwa nzeru; ndipo iye anapulumutsa ⟨את⟩ mudziwo ndi nzeru zake; koma munthu sanaumbukire ⟨את⟩ munthu wosauka uyo.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "ndipo anapezeka"
+    },
+    {
+      "surface": "בה",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "wosauka"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wodziwa nzeru"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "ndipo anapulumutsa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mudziwo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mudziwo"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "ndi nzeru zake"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "koma munthu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "anaumbukira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munthu wosauka uyo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "wosauka"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uyo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:14.178199701Z",
+  "model": "glm-5.3"
+}

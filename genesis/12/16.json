@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo kwa Avraham anachitira bwino chifukwa cha iye; ndipo anapeza nkhosa ndi ng'ombe ndi abulu amuna ndi akapolo amuna ndi akapolo akazi ndi zibulu zakazi ndi ngamira.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "Ndipo kwa Avraham"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "anachitira bwino"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "chifukwa cha iye"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ndipo anapeza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨zake⟩"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ndi ng'ombe"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "ndi abulu amuna"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "ndi akapolo amuna"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "ndi akapolo akazi"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "ndi zibulu zakazi"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "ndi ngamira"
+    }
+  ],
+  "timestamp": "2026-09-21T05:46:13.041676705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 53:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 53,
+  "translation": "Anadzudzulidwa ndipo anasiyidwa ndi anthu; munthu wa zowawa, ndi wodziwa matenda; ndipo monga wobisitsa nkhope <yathu> kuchoka kwa iye: anadzudzulidwa, ndipo sitinamuwerengera iye kanthu.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "Anadzudzulidwa"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "ndipo anasiyidwa"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "ndi anthu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "מכאבות",
+      "gloss": "wa zowawa"
+    },
+    {
+      "surface": "וידוע",
+      "gloss": "ndi wodziwa"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "matenda"
+    },
+    {
+      "surface": "וכמסתר",
+      "gloss": "ndipo monga wobisitsa"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "nkhose"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuchoka kwa iye"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "anadzudzulidwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sitinamuwerengera"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "iye kanthu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:22:12.155814203Z",
+  "model": "glm-5.3"
+}

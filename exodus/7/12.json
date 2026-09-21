@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo anaponya munthu aliyense ndodo yake, zinakhala njoka; koma ndodo ya Aharon inamira ⟨את⟩ ndodo zawo.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "anaponya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu aliyense"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "ndodo yake"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "zinakhala"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "njoka"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "inamira"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ndodo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ya Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndodo zawo"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "ndodo zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:48.690143605Z",
+  "model": "glm-5.3"
+}

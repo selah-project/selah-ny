@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo Azarjaya anabala ⟨את⟩ Amarjaya, ndipo Amarjaya anabala ⟨את⟩ Achitubu.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ndipo anabala"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarjaya"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarjaya"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "ndipo Amarjaya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achitubu"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achitubu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:23:39.211565911Z",
+  "model": "glm-5.3"
+}

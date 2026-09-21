@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo iye anati: “Abale anga ndikufunafuna ⟨את⟩. Ndipemphe, undiuze iwo ali kuti kuteteza nkhosa.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abale anga"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "abale anga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndikufunafuna"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ndikufunafuna"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "undiuze"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndipemphe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הם",
+      "gloss": "iwo ali kuti"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "kuteteza nkhosa"
+    }
+  ],
+  "timestamp": "2026-09-21T05:59:07.779891096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 33:4",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Ndipo cholanda chanu chidzasonkhidwa, chidzawunjidwa ngati kalazi; monga kuthamanga kwa dzombe, akudzathamanga pa iye.",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "Ndipo chidzasonkhidwa"
+    },
+    {
+      "surface": "שללכם",
+      "gloss": "cholanda chanu"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "chidzawunjidwa"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "ngati kalazi"
+    },
+    {
+      "surface": "כמשק",
+      "gloss": "monga kuthamanga"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "kwa dzombe"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "akudzathamanga"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T09:13:54.680048331Z",
+  "model": "glm-5.3"
+}

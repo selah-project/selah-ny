@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Ndipo anapereka nsembe ⟨את⟩ ana awo amuna ndi ⟨את⟩ ana awo akazi ku mashedi (zizindikiro zoyipa)",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "anapereka nsembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana awo amuna"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ana awo amuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana awo akazi"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "ana awo akazi"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "ku mashedi (zizindikiro zoyipa)"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:11.366502628Z",
+  "model": "glm-5.3"
+}

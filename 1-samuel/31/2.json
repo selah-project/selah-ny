@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo Afilisti anamumuziza ⟨את⟩ Shauli ndi ⟨את⟩ ana ake; ndipo Afilisti anamena ⟨את⟩ Yehonathani ndi ⟨את⟩ Avinadabu ndi ⟨את⟩ Malkishua, ana a Shauli.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "anamumuziza"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shauli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana ake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "anamena"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehonathani"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonathani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Avinadabu"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Malkishua"
+    },
+    {
+      "surface": "מלקי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:16:29.039362583Z",
+  "model": "glm-5.3"
+}

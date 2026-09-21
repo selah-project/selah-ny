@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Anamera iye onse akudutsa njira; wakhala manyazi kwa alirawi ake.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "anamera iye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "akudutsa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wakhala"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "manyazi"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "kwa alirawi ake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:54.151178972Z",
+  "model": "glm-5.3"
+}

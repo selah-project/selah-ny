@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Koma kwa ana a Kehati sanapatsa kanthu, chifukwa ntchito ya zopatulika zili pa iwo; pa phewa adzanyamula.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "kwa ana a"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sanapatsa kanthu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adapatsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "ntchito ya"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "zopatulika"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "pa iwo"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "pa phewa"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "adzanyamula"
+    }
+  ],
+  "timestamp": "2026-09-21T06:53:44.013217688Z",
+  "model": "glm-5.3"
+}

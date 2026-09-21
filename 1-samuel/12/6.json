@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo Shemuweli adati kwa anthu: “Yahwe, amene anapanga ⟨את⟩ Moshe ndi ⟨את⟩ Aharoni, ndipo amene anatulutsa ⟨את⟩ makolo anu m'dziko la Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ndipo amene"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "anatulutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makolo anu"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "makolo anu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "m'dziko la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:04:50.828824820Z",
+  "model": "glm-5.3"
+}

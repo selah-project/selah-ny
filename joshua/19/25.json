@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 19:25",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo mudziwake unakhala: Khelekati, ndi Hali, ndi Beteni, ndi Akishafi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "unakhala"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "mudziwake"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Khelekati"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "ndi Hali"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "ndi Beteni"
+    },
+    {
+      "surface": "ואכשף",
+      "gloss": "ndi Akishafi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:42:07.001742684Z",
+  "model": "glm-5.3"
+}

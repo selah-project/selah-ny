@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Kwa woyang'anira ⟨nyimbo⟩, pa ⟨nechilothi⟩; nyimbo ya Davide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "⟨nechilothi⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Davide"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:13.563253716Z",
+  "model": "glm-5.3"
+}

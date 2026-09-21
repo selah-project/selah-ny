@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 5:25",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo udzadziwa kuti mbewu yako idzachuluka, ndipo mbadwo zako monga udzu wa dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "udzadziwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "רב",
+      "gloss": "idzachuluka"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbewu yako"
+    },
+    {
+      "surface": "וצאצאיך",
+      "gloss": "ndipo mbadwo zako"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "monga udzu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:31:10.306922376Z",
+  "model": "glm-5.3"
+}

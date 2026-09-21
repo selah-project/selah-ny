@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 26:12",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Pamene wamatha kupereka chakhumi — ⟨את⟩ chakhumi chonse cha zokolola zako — mu chaka chachitatu, chaka cha chakhumi, udzapatsa Mlewi, mlendo, mwamasiye ndi wamasiye wamkazi; ndipo adya m'zipata zako ziwiri, ndipo akhutira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pamene"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "wamatha"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "kupereka chakhumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chakhumi chonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chonse"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "chakhumi"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "cha zokolola zako"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mu chaka"
+    },
+    {
+      "surface": "השלישת",
+      "gloss": "chachitatu"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "chaka cha"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "chakhumi"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "udzapatsa"
+    },
+    {
+      "surface": "ללוי",
+      "gloss": "Mlewi"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "mlendo"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "mwamasiye"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "ndi wamasiye wamkazi"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "adya"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "m'zipata zako"
+    },
+    {
+      "surface": "ושבעו",
+      "gloss": "akhutira"
+    }
+  ],
+  "timestamp": "2026-09-21T07:26:30.869390658Z",
+  "model": "glm-5.3"
+}

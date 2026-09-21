@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 95,
+  "translation": "Pakuti El wamkulu ndi Yahwe, ndi mfumu yamkulu pa milungu yonse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ndi mfumu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "yamkulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "milungu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:31.338630530Z",
+  "model": "glm-5.3"
+}

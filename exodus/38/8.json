@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Ndipo anapanga ⟨את⟩ chotsuka madzi cha mkuwa, ndi ⟨את⟩ pachake pa mkuwa, ndi zobila za akazi amodziwowo, amene anali kutentha pa khomo la hema la msonkhano.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chotsuka madzi"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "chotsuka madzi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "cha mkuwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "pachake"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "pachake"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "pa mkuwa"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "ndi zobila"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "za akazi amodziwowo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "anali kutentha"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pa khomo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "la hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "la msonkhano"
+    }
+  ],
+  "timestamp": "2026-09-21T06:27:06.118389677Z",
+  "model": "glm-5.3"
+}

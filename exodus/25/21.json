@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Udziika ⟨את⟩ chikhululu cha kufewetsera pa sanduku, kumwamba; ndipo m’chaka cha sandukumo mudzaika ⟨את⟩ umboni umene ndidzakupatsa iwe.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "udziika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikhululu cha kufewetsera"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "chikhululu cha kufewetsera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo m’"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sandukumo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mudzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umboni"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "umboni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndidzakupatsa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:20:25.397287915Z",
+  "model": "glm-5.3"
+}

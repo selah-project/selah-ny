@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 141,
+  "translation": "Akagwere m'midebe yawo yowirikiza woipa; ine okha ndidzalupanga <mpaka> ndidzadutsa.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "Akagwere"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "m'midebe yawo yowirikiza"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "woipa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "limodzi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "עד",
+      "gloss": "<mpaka>"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "ndidzadutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:57.774499533Z",
+  "model": "glm-5.3"
+}

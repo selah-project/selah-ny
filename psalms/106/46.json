@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Ndipo anawapatsa ⟨את⟩ ⟨אותם⟩ chifundo lisanze m'maso mwa onse amene anawatengera.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "anawapatsa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "chifundo (lonse loyenera awo)"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "chifundo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "m'maso mwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "amene anawatengera"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:45.660321087Z",
+  "model": "glm-5.3"
+}

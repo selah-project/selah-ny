@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 7:15",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo khesedi yanga sizidzachoka kwa iye, monga momwe ndinachotera kwa Shauli, amene ndinamuchotera pamaso pako.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "Ndipo khesedi yanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "izidzachoka"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "הסרתי",
+      "gloss": "ndinachotera"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "הסרתי",
+      "gloss": "ndinamuchotera"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "pamaso pako"
+    }
+  ],
+  "timestamp": "2026-09-21T08:19:05.147939093Z",
+  "model": "glm-5.3"
+}

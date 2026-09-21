@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 4:30",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo wansembe adzatenga magazi ake ndi chala chake, nadzaika pa mphanga za guwa la nsembe ya kuwunika, ndipo ⟨את⟩ magazi onse adzathira pansi pa maziko a guwalo.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "adzatenga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "magazi ake"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "ndi chala chake"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "nadzaika"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "mphanga za"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "guwa la"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nsembe ya kuwunika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "magazi onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ake (magazi)"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "adzathira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "maziko"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "a guwalo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:32:33.123380313Z",
+  "model": "glm-5.3"
+}

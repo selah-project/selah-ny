@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo wofika zaka makumi asanu adzabwerera m'gulu la utumiki, ndipo sadzatumikira kenanso.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "wofika zaka"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "makumi asanu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "adzabwerera"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "m'gulu"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "la utumiki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sadza-"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "tumikira"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kenanso"
+    }
+  ],
+  "timestamp": "2026-09-21T06:54:36.992374532Z",
+  "model": "glm-5.3"
+}

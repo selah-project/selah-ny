@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Njira ya kukhulupirira ndinasankha, malewerero ako ndinaika pamaso panga.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "njira ya"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "kukhulupirira"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ndinasankha"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "malewerero ako"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "ndinaika pamaso panga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:58.786769897Z",
+  "model": "glm-5.3"
+}

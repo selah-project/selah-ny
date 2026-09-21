@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 46,
+  "translation": "Elohim ndiye chitetezo chathu ndi mphamvu, thandizo lovumbulutsidwa kwambiri mu mavuto.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "chathu"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "chitetezo"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ndi mphamvu"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "thandizo"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "mu mavuto"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "lovumbulutsidwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:13.444077082Z",
+  "model": "glm-5.3"
+}

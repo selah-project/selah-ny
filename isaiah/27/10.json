@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 27:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Pakuti mzinda wam'maboma ukhala wokhaokha, malo okhala otayidwa ndi kusiidwa ngati chipululu; pomwamba mphemvu idzafunda, ndipo pomwamba idzagona, ndipo idzatha nthambi zake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "wam'maboma"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "wokhaokha"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "malo okhala"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "otayidwa"
+    },
+    {
+      "surface": "ונעזב",
+      "gloss": "ndi kusiidwa"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "ngati chipululu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pomwamba"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "idzafunda"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "mphemvu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ndipo pomwamba"
+    },
+    {
+      "surface": "ירבץ",
+      "gloss": "idzagona"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ndipo idzatha"
+    },
+    {
+      "surface": "סעפיה",
+      "gloss": "nthambi zake"
+    }
+  ],
+  "timestamp": "2026-09-21T13:12:32.489825340Z",
+  "model": "glm-5.3"
+}

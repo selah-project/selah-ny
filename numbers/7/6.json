@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo Moshe analandira ⟨את⟩ ngolo ndi ⟨את⟩ ng'ombe, nadzapereka ⟨את⟩ izi kwa Alevi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "analandira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngolo"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "ngolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ng'ombe"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nadzapereka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ izi",
+      "marks": "kwa Alevi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Alevi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:52:24.792971422Z",
+  "model": "glm-5.3"
+}

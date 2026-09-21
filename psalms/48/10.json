@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 48,
+  "translation": "Tinaganiza, Elohim, za khesedi lako, pakati pa nyumba yako ya ulemerero.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "Tinaganiza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedi lako"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "nyumba yako ya ulemerero"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:10.907348231Z",
+  "model": "glm-5.3"
+}

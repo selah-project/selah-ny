@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Mwatumize mmodzi wa inu, ndipo akatenge ⟨את⟩ mmbale wanu; ndipo inu m'mangidwe, kuti mawu anu ayesedwe ngati choonadi chili ⟨את⟩ inu; ndipo ngati ayi — ndi moyo wa Paro — ndithu inu ndinu asakatuli.”",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "mwatumize"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "wa inu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmodzi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akatenge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmbale wanu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "mmbale wanu"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ndipo inu"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "m'mangidwe"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "kuti ayesedwe"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "mawu anu"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "choonadi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ndipo ngati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "asakatuli"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "inu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:03:31.261492114Z",
+  "model": "glm-5.3"
+}

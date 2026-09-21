@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo Noa anatuluka, ndi ana ake amuna, ndi mkazi wake, ndi akazi a ana ake amuna, ⟨את⟩ iye.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ndipo anatuluka"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ndi ana ake amuna"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ndi mkazi wake"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ndi akazi a"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake amuna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:56.322310648Z",
+  "model": "glm-5.3"
+}

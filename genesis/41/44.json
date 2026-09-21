@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 41:44",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Ndipo Paro anati kwa Yosefu: \"Ine ndine Paro, ndipo koma popanda iwe, munthu sadzakweza ⟨את⟩ dzanja lake ndi ⟨את⟩ konkhalo lake pa dziko lonse la Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ndine Paro"
+    },
+    {
+      "surface": "ובלעדיך",
+      "gloss": "ndipo popanda iwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "kweza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzanja lake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "konkhalo lake"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "konkhalo lake"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pa dziko lonse"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:02:32.199855346Z",
+  "model": "glm-5.3"
+}

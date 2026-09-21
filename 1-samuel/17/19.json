@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 17:19",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo Sauli ndi iwo ndi anthu onse a Yisraeli anali m'chigwa cha Ela, akulimbana ndi Afilisti.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "Ndipo Sauli"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ndi iwo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi anthu onse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "m'chigwa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "cha Ela"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "akulimbana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilisti"
+    }
+  ],
+  "timestamp": "2026-09-21T08:08:30.214650163Z",
+  "model": "glm-5.3"
+}

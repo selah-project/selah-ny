@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 58,
+  "translation": "Musanadziwe zitsulu zanu za ngongole, adzawungulitsa — monga wamoyo, monga wotentha — m'mkwiyo wake wawukali.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "musanadziwe"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "azindikire"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "zitsulu zanu"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "ngongole"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "monga"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wamoyo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "monga"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "wotentha"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "adzawungulitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:09.336987050Z",
+  "model": "glm-5.3"
+}

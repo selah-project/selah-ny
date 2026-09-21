@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 135,
+  "translation": "Chilichonse chimene Yahwe afuna, chachita m'kumwamba ndi pa dziko lapansi, m'nyanja ndi m'madzi akuya onse.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Chilichonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "afuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "chachita"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "m'kumwamba"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "ndi pa dziko lapansi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "m'nyanja"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi onse a"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "m'madzi akuya"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:55.642800398Z",
+  "model": "glm-5.3"
+}

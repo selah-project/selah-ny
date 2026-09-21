@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo ⟨את⟩ akapolo anu amuna, ndi ⟨את⟩ akapolo anu akazi, ndi ⟨את⟩ anyamata anu abwino, ndi ⟨את⟩ bulu anu adzazilandira, nadzachita pa ntchito yake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "akapolo anu amuna"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "akapolo anu amuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "akapolo anu akazi"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "akapolo anu akazi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "anyamata anu abwino"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "anyamata anu"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "abwino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "bulu anu"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "bulu anu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "adzazilandira"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "nadzachita"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "pa ntchito yake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:00:45.580527647Z",
+  "model": "glm-5.3"
+}

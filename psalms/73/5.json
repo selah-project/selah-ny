@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 73,
+  "translation": "M'dzimbiri za anthu a miyasi iwo alipo ⟨ayi⟩, ndipo pamodzi ndi anthu enife alibe mavuto.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "m'dzimbiri za"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "anthu a miyasi"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "iwo alipo ⟨ayi⟩"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ndipo pamodzi ndi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "anthu enife"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alibe"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "mavuto"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:18.975806052Z",
+  "model": "glm-5.3"
+}

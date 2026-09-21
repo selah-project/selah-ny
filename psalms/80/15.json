@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 80,
+  "translation": "Elohim Tsevaoti, bwererano! Yang'anira kumwamba uone, ndipo usamalire mpesa uwu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "bwererano"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨we kulumbira⟩"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "yang'anira"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "uone"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "usamalire"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "mpesa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "uwu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:28.138195171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Ndipo kunachitika monga momwe anatifotokozera, ndilo kutero kunachitika: ⟨את⟩ ine anandibwezera paudindo wanga, ndipo ⟨את⟩ iye anamuyinga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kunachitika"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "anatifotokozera"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa ife"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kutero"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kunachitika"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ine"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "anandibwezera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כני",
+      "gloss": "paudindo wanga"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "anamuyinga"
+    }
+  ],
+  "timestamp": "2026-09-21T06:01:57.253582041Z",
+  "model": "glm-5.3"
+}

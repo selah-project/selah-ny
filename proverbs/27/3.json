@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Kulemera kwa mwala ndi kunyamula kwa mchenga, koma chisoni cha mkwiyo cha munthu wopusa ndi cholemera koposa awiriwo.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "kulemera"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kwa mwala"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "ndi kunyamula"
+    },
+    {
+      "surface": "החול",
+      "gloss": "kwa mchenga"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "koma ukali"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "wa munthu wopusa"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ndi cholemera koposa"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "awiriwo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:27:29.263066246Z",
+  "model": "glm-5.3"
+}

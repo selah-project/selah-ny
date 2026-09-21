@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Msambe wopereka ⟨את⟩ iyayidya monga nsembe ya machimo; m'malo oyera idzadyedwa, m'bwalo la chihema cha kuyanjana.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "Msambe"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "wopereka monga nsembe ya machimo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyayidya (nsembe ya machimo)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "iyayidya"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "m'malo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "oyera"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "idzadyedwa"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "m'bwalo la"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chihema cha"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kuyanjana"
+    }
+  ],
+  "timestamp": "2026-09-21T06:31:30.600383217Z",
+  "model": "glm-5.3"
+}

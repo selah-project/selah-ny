@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 112,
+  "translation": "Kuwala kwachedwa kum'dima kwa olungama; wachifundo ndi wachikondi ndi wolungama.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "kwachedwa"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "kum'dima"
+    },
+    {
+      "surface": "אור",
+      "gloss": "Kuwala"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "kwa olungama"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "wachifundo"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ndi wachikondi"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ndi wolungama"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:36.296871406Z",
+  "model": "glm-5.3"
+}

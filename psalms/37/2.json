@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Pakuti msanga adzadulidwa monga udzu, nadzuma monga zitsirizo zobiriwira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "monga udzu"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "msanga"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "adzadulidwa"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "namonga"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "zitsirizo zobiriwira"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "adzuma"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:33.559637114Z",
+  "model": "glm-5.3"
+}

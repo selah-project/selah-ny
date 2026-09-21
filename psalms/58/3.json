@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 58,
+  "translation": "Ayi, mu mtima mumachita zoipa; m'dziko mukwerera chiwawa cha manja anu.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ayi, inde"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "mu mtima"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "тפעלון",
+      "gloss": "mumachita"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "chiwawa"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "cha manja anu"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "mukwerera"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:43.507741787Z",
+  "model": "glm-5.3"
+}

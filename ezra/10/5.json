@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo Ezra anayima, ndipo anawalumbiritsa ⟨את⟩ asankhani a ansembe, a Alevi, ndi Yisraeli wonse, kuti achite monga mawu awa; ndipo analumbira.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "anayima"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "anawalumbiritsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asankhani a ansembe"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "asankhani a"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "a Alevi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi wonse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuti achite"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "monga mawu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "analumbira"
+    }
+  ],
+  "timestamp": "2026-09-21T12:15:09.926711517Z",
+  "model": "glm-5.3"
+}

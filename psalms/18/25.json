@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo Yahwe adabwezera ine monga chilungamo changa, monga uyero wa manja anga pamaso pa maso ake.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "adabwezera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "monga chilungamo changa"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "monga uyero"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "wa manja anga"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "maso ake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:02.326051622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo munthu amene achita chigololo ⟨את⟩ mkazi wa munthu wina — amene achita chigololo ⟨את⟩ mkazi wa mnansi wake — wamchigololo ndi mkazi wachigololo adzamwalira, ndithu adzamwalira.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ndipo munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "achita chigololo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkazi wa munthu wina"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wa munthu wina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "achita chigololo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkazi wa mnansi wake"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "wa mnansi wake"
+    },
+    {
+      "surface": "מות",
+      "gloss": "adzamwalira"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ndithu adzamwalira"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "wamchigololo"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "ndi mkazi wachigololo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:44.095536845Z",
+  "model": "glm-5.3"
+}

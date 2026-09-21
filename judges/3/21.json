@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo Ehuudi adapereka ⟨את⟩ dzanja lake lamanzere, nadana ⟨את⟩ lupanga pamtunda pake wamanja, nam'phasa mu m'mimba mwake.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "adapereka"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehuudi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzanja lake lamanzere"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dzanja"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "lake lamanzere"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nadana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupanga"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "lupanga"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "mtunda"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "pake wamanja"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "nam'phasa"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "mu m'mimba mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:46:47.529498206Z",
+  "model": "glm-5.3"
+}

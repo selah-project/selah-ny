@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 97,
+  "translation": "Yahwe wachita ufumu: dziko lapansi lipemphe chimwemwe; zitsumba zambiri zikondwere.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wachita ufumu"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "lipemphe chimwemwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "zikondwere"
+    },
+    {
+      "surface": "איים",
+      "gloss": "zitsumba"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "zambiri"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:18.408774497Z",
+  "model": "glm-5.3"
+}

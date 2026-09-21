@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Kamundima kwanga kakhala chilili pa malo olungama; m'mikhulu ya anthu ndidalemekeza Yahwe.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "Kamundima kwanga"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "kakhala chilili"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "pa malo olungama"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "m'mikhulu ya anthu"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "ndidalemekeza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:16.116063439Z",
+  "model": "glm-5.3"
+}

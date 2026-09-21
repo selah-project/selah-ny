@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 38:27",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Ndipo zinakhala mazana akhumi a matalanti a siliva, kudziridza ⟨את⟩ maziko a malo opatulika ndi ⟨את⟩ maziko a chiboldo — maziko mazana akhumi pa matalanti mazana akhumi, talanti imodzi pa mziko.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo zinakhala"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mazana akhumi"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "a matalanti"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "a siliva"
+    },
+    {
+      "surface": "לצקת",
+      "gloss": "kudziridza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maziko a malo opatulika"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "maziko"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a malo opatulika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "maziko a chiboldo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "maziko"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "a chiboldo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mazana akhumi"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "maziko"
+    },
+    {
+      "surface": "למאת",
+      "gloss": "pa matalanti mazana akhumi"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "a matalanti mazana akhumi"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talanti imodzi"
+    },
+    {
+      "surface": "לאדן",
+      "gloss": "pa mziko"
+    }
+  ],
+  "timestamp": "2026-09-21T12:57:54.004938999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo mudzadya khuchi la ana anu amuna, ndi khuchi la ana anu akazi mudzadya.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "Ndipo mudzadya"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "khuchi la"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ana anu amuna"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ndi khuchi la"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "ana anu akazi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mudzadya"
+    }
+  ],
+  "timestamp": "2026-09-21T06:48:10.599795337Z",
+  "model": "glm-5.3"
+}

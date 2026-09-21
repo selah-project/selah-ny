@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Iye adzaimanga kwa ine nyumba, ndipo ine ndidzakhazikitsa ⟨את⟩ mpando wachifumu wake mpaka kalekale.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Iye"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "adzaimanga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "ndipo ndidzakhazikitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpando wachifumu wake"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "mpando wachifumu wake"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kalekale"
+    }
+  ],
+  "timestamp": "2026-09-21T12:30:48.144438277Z",
+  "model": "glm-5.3"
+}

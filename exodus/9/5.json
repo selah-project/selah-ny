@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Yahwe adaika nthawi yoyenera, nati: “Mawa Yahwe adzachita mawu awa m'dziko lapansi.”",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "adaika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nthawi yoyenera"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "adzachita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:11:25.885857291Z",
+  "model": "glm-5.3"
+}

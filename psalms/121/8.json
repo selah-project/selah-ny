@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 121,
+  "translation": "Yahwe adzasunga kutuluka kwako ndi kulowa kwako, kuchokera tsopano mpaka ku nthawi yosatha.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "adzasunga"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "kutuluka kwako"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "ndi kulowa kwako"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kuchokera tsopano"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ku nthawi yosatha"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:35.913603410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo Ine ndinakhala kwa iwo monga mkango; monga nyalugwe pa njira ndidzayang'anira.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "Ndipo Ine ndinakhala"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "monga"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "mkango"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "monga nyalugwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ndidzayang'anira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:22:56.098210536Z",
+  "model": "glm-5.3"
+}

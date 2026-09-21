@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 136:21",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 136,
+  "translation": "Ndipo anapatsa dziko lawo kukhala choloŵa, chifukwa khesedi chake chikhala ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ndipo anapatsa"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dziko lawo"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "kukhala choloŵa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi chake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:09.028513020Z",
+  "model": "glm-5.3"
+}

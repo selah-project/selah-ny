@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ngati munthu afewetza munda kapena munda wa mpesa, natuma ⟨את⟩ ziwete zake, nadya m'munda wa wina; mwa zabwino za munda wake ndi mwa zabwino za munda wake wa mpesa adzalipira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "afewetza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "munda"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "munda wa mpesa"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "natuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziwete zake"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "ziwete zake"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "nadya"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "m'munda"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wa wina"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "mwa zabwino"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "za munda wake"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "ndi mwa zabwino"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "za munda wake wa mpesa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "adzalipira"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:21.440849931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Lemekeza ⟨את⟩ atate wako ndi ⟨את⟩ amayi wako, kuti masiku ako atale pa dziko limene Yahwe Elohim wako akupatsa.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Lemekeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atate wako"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atate wako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "amayi wako"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "amayi wako"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "atale"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "masiku ako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akupatsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:16:18.761286116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 140,
+  "translation": "Ndikudziwa kuti Yahwe adzachita chiweruzo cha womwezedwa, chiweruzo cha osowa.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Ndikudziwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "adzachita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דין",
+      "gloss": "chiweruzo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "cha womwezedwa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chiweruzo"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "cha osowa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:02.553730612Z",
+  "model": "glm-5.3"
+}

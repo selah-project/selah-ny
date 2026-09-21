@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo okhala a Gibeoni anamva ⟨את⟩ zimene Yehoshuwa anachitira Yeriko ndi Ayi,",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "Ndipo okhala a"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeoni"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "anamva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachitira"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "Yeriko"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "ndi Ayi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:37:22.411031639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 139,
+  "translation": "Ngati ndikakweza mapiko a m'mawa, ndipo ndikhazikike kumalezero a nyanja,",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "ndikakweza"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mapiko"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "a m'mawa"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "ndikhazikike"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "kumalezero"
+    },
+    {
+      "surface": "ים",
+      "gloss": "nyanja"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:17.650790891Z",
+  "model": "glm-5.3"
+}

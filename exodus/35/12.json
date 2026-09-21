@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "⟨את⟩ aroni ndi ⟨את⟩ zingodo zake, ⟨את⟩ kaporeti, ndi ⟨את⟩ parokheti ya chivundikiro.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aroni"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zingodo zake"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "zingodo zake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaporeti"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporeti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "parokheti"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "parokheti"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ya chivundikiro"
+    }
+  ],
+  "timestamp": "2026-09-21T06:25:06.435599190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Pali choipa chimene ndinaona pansi pa dzuwa, ndipo chili cholemera pa anthu.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "⟨pali⟩"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndinaona"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dzuwa"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ndipo chilemera"
+    },
+    {
+      "surface": "היא",
+      "gloss": "chili"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:58:10.473280603Z",
+  "model": "glm-5.3"
+}

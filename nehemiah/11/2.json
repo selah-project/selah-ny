@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo anthu anadalitsa anthu onse amene anadzipereka okha kukakhala ku Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "anadalitsa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "a anthu"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "amene anadzipereka okha"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "kukakhala"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ku Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:21:51.240207715Z",
+  "model": "glm-5.3"
+}

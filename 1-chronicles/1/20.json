@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Yoktani anabala ⟨את⟩ Almodadi, ndi ⟨את⟩ Shelefi, ndi ⟨את⟩ Hatsarmaveti, ndi ⟨את⟩ Yerakhi.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Ndipo Yoktani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodadi"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Shelefi"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelefi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Hatsarmaveti"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hatsarmaveti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Yerakhi"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerakhi"
+    }
+  ],
+  "timestamp": "2026-09-21T13:34:51.336819751Z",
+  "model": "glm-5.3"
+}

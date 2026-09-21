@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Ndipo Yahwe anati kwa Moshe: “Mawu awanso amene unanena, ndidzawachita; pakuti wapeza khesedi m'maso anga, ndipo ndakudziwa iwe ndi dzina.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "awanso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "unanena"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndidzawachita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "wapeza"
+    },
+    {
+      "surface": "חן",
+      "gloss": "khesedi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "m'maso anga"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "ndipo ndakudziwa iwe"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ndi dzina"
+    }
+  ],
+  "timestamp": "2026-09-21T06:25:54.020633339Z",
+  "model": "glm-5.3"
+}

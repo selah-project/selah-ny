@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 34:6",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Lupanga la Yahwe ladzala ndi magazi; lamira mafuta, ndi magazi a nkhosa zamphongo ndi a mbuzi zazimuna, ndi mafuta a impso za nkhosa zamphongo zazikulu; pakuti nsembe ya Yahwe ili ku Botsera, ndi kupha kwakukulu m'dziko la Edomu.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "Lupanga"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ladzala"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ndi magazi"
+    },
+    {
+      "surface": "הדשנה",
+      "gloss": "lamira mafuta"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "mafuwa"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ndi magazi"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "nkhosa zamphongo"
+    },
+    {
+      "surface": "ועתודים",
+      "gloss": "mbuzi zazimuna"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "mafuwa"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "impso"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "nkhosa zamphongo zazikulu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "בבצרה",
+      "gloss": "ku Botsera"
+    },
+    {
+      "surface": "וטבח",
+      "gloss": "kupha"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kwakukulu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "la Edomu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:15:25.054434112Z",
+  "model": "glm-5.3"
+}

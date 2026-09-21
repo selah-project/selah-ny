@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 103,
+  "translation": "Lemekezeni Yahwe, makamu onse ake, atumiki ake, ochita chifuniro chake.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Lemekezeni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "makamu ake"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "atumiki ake"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ochita"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "chifuniro chake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:27.173822938Z",
+  "model": "glm-5.3"
+}

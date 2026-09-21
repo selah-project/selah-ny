@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Ndidzadalitsa ⟨את⟩ Yahwe pa nthawi zonse; uyambi wake udzakhala pakamwa panga mosalekeza.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Ndidzadalitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pa nthawi zonse"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nthawi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mosalekeza"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "uyambi wake"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "pakamwa panga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:06.972849573Z",
+  "model": "glm-5.3"
+}

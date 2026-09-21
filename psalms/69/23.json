@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Ikhole chakudya chawo chikhalire chidyo pamaso pawo, ndipo mtendere wawo ukhale chifunsi.",
+  "tokens": [
+    {
+      "surface": "י הי",
+      "gloss": "ikhole"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "chakudya chawo (tebulo yawo)"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pamaso pawo"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "chidyo"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "ndipo mtendere wawo"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "chifunsi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:45.588700901Z",
+  "model": "glm-5.3"
+}

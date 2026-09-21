@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo Akehati anayenda, akusenza malo opatulika, ndipo anayimiritsa ⟨את⟩ chihema kufikira kudza kwawo.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "Akehati"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "akusenza"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "malo opatulika"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "anayimiritsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chihema"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "באם",
+      "gloss": "kudza kwawo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:54:59.681799419Z",
+  "model": "glm-5.3"
+}

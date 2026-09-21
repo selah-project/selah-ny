@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Ndipo anapanga ⟨את⟩ chikwerero cha kumbuyo kwa kumwera; mapeto a chikwerero anali ubweya wosonkhanika, mamita zana m'litali.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikwerero"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "chikwerero"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "kumbuyo kwa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "kumwera"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "kumwera"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "mapeto"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "a chikwerero"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ubweya"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "wosonkhanika"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zana"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "m'litali"
+    }
+  ],
+  "timestamp": "2026-09-21T06:26:40.599412219Z",
+  "model": "glm-5.3"
+}

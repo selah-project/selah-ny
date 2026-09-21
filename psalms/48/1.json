@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 48,
+  "translation": "Nyimbo, nsanjizo, ya ana a Korahi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyimbo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nsanjizo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya ana a"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:55.768240208Z",
+  "model": "glm-5.3"
+}

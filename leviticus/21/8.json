@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo m'upatulitse iye, popeza ndi iye wakupereka ⟨את⟩ chakudya cha Elohim wako; adzakhala wopatulika kwa iwe, popeza wopatulika ine Yahwe, wakupatulirani inu.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "Ndipo m'upatulitse iye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chakudya cha Elohim wako"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chakudya"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "cha Elohim wako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "wakupereka"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "wopatulika"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "wopatulika"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "wakupatulirani inu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:56.920790693Z",
+  "model": "glm-5.3"
+}

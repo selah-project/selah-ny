@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Mphepo yamkunthoitsa ⟨את⟩ ⟨iye⟩ m'maphiko ake; ndipo adzachita manyazi chifukwa cha nsembe zawo.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "yamkunthoitsa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Mphepo"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "m'maphiko ake"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "m'maphiko ake"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "adzachita manyazi"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "nsembe zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:19:41.695288592Z",
+  "model": "glm-5.3"
+}

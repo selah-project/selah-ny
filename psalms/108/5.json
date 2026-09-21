@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 108,
+  "translation": "Pakuti kukulu kwa khesedi kwako kuli koposa kumwamba, ndi choonadi chako kufikira m'thambo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kukulu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "koposa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedi kwako"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ndi kufikira"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "m'thambo"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "choonadi chako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:52.334078368Z",
+  "model": "glm-5.3"
+}

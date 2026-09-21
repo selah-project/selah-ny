@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Elohim adati: “Madzi omwe ali pansi pa kumwamba adzonsekedwe ku malo mmodzi, ndipo dziko loguma zionekerere”; ndipo chinali chomwecho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "adzonsekedwe"
+    },
+    {
+      "surface": "המים",
+      "gloss": "Madzi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "malo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmodzi"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "zionekerere"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "dziko loguma"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "chinali"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chomwecho"
+    }
+  ],
+  "timestamp": "2026-09-21T05:41:44.984078311Z",
+  "model": "glm-5.3"
+}

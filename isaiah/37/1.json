@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo zinachitika, pamene mfumu Chizkiyahu inamva, kuti anabangula ⟨את⟩ zovala zake, nadzivala nsanza, nalowa m'nyumba ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo zinachitika"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "pamene inamva"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "anabangula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zovala zake"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "zovala zake"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "nadzivala"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "nsanza"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nalowa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T09:16:17.624232797Z",
+  "model": "glm-5.3"
+}

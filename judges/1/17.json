@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 1:17",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Yehuda anapita ndi ⟨את⟩ Shimoni m'bale wake, namenya ⟨את⟩ Mukanakhani wokhala ku Tsefati, namwononga ⟨את⟩ iyo mwadzilimba, nayika ⟨את⟩ dzina la mzindawu Khorma.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "anapita"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Shimoni"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimoni"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "m'bale wake"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "namenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mukanakhani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mukanakhani"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "wokhala"
+    },
+    {
+      "surface": "צפת",
+      "gloss": "ku Tsefati"
+    },
+    {
+      "surface": "ויחרימו",
+      "gloss": "namwononga mwadzilimba"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "iyo (Tsefati)"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nayika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dzina"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la mzindawu"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Khorma"
+    }
+  ],
+  "timestamp": "2026-09-21T07:45:48.400595501Z",
+  "model": "glm-5.3"
+}

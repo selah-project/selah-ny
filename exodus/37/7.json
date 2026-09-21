@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo anapanga akerubu awiri a golide; ntchito yolumphwa anawapanga ⟨אתם⟩, kumalekezero awiri a chikhudzo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "שני",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "akerubu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "a golide"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "ntchito yolumphwa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anawapanga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "akerubu"
+    },
+    {
+      "surface": "משני",
+      "gloss": "kumalekezero awiri"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "a"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "chikhudzo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:27:13.698838986Z",
+  "model": "glm-5.3"
+}

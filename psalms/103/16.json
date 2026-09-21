@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 103,
+  "translation": "Pakuti mphepo yopita pa iye, iye sachenjeledwa, ndipo malo ake sadziwa kapolo kokha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mphepo"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "yopita"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "iye sachenjeledwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sadziwa"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "kapolo kokha"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kopanso"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "malo ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:54.247911631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Musakhale ndi nsanje pa anthu a zoipa, ndipo musafune kukhala ⟨ndi את⟩ ⟨את⟩ iwo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "khale ndi nsanje"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "pa anthu a"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo musa"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "fune"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kukhala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo (anthu a zoipa)"
+    }
+  ],
+  "timestamp": "2026-09-21T11:26:10.753743538Z",
+  "model": "glm-5.3"
+}

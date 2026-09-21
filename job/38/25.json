@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 38:25",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Ndani anadula njira ya madzi kwa chigumula, ndipo njira ya mkuwa wa malemu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ndani"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "anadula"
+    },
+    {
+      "surface": "לשטף",
+      "gloss": "kwa chigumula cha madzi"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "njira ya madzi"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ndipo njira"
+    },
+    {
+      "surface": "לחזיז",
+      "gloss": "ya mkuwa"
+    },
+    {
+      "surface": "קלות",
+      "gloss": "wa malemu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:46:54.993956823Z",
+  "model": "glm-5.3"
+}

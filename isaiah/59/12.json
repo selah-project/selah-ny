@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 59,
+  "translation": "Pakuti ziwalo zathu zachuluka pamaso panu, ndipo machimo athu atichitira umboni; pakuti ziwalo zathu zili ⟨את⟩ ife, ndipo zoipa zathu tazidziwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "zachuluka"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ziwalo zathu"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "pamaso panu"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "ndipo machimo athu"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "atichitira umboni"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ifeyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ziwalo zathu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ife",
+      "marks": "ife"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "ndipo zoipa zathu"
+    },
+    {
+      "surface": "ידענום",
+      "gloss": "tazidziwa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:24:04.792017905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo ⟨את⟩ nyumba yaikulu anaphimba ndi makuni a mbereshe, nadziiphimba golide wabwino, natulutsa pa iyomalemi zizindikiro za mnasi ndi maolawa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyumba yaikulu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "yaikulu"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "anaphimba"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "makuni"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "a mbereshe"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "nadziiphimba"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wabwino"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "natulutsa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iyomalemi"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "zizindikiro za mnasi"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "ndi maolawa"
+    }
+  ],
+  "timestamp": "2026-09-21T12:38:11.061551718Z",
+  "model": "glm-5.3"
+}

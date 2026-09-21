@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Pakuti iwo amalondola ⟨amene⟩ iwe wamenya, ndipo za masautso a amene iwe wamenya iwo amanena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨amene⟩"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "wamenya"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "amalondola"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo za"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "masautso"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "a amene iwe wamenya"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "amanena"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:24.172475875Z",
+  "model": "glm-5.3"
+}

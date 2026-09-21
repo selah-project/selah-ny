@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 90,
+  "translation": "Kondwersetsani ife monga masiku amene munatipinza, ndi monga zaka amene tinaona choipa.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Kondwersetsani ife"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "monga masiku"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "munatipinza"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "tinaona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "choipa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:13.088087351Z",
+  "model": "glm-5.3"
+}

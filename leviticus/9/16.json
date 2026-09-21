@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Nipo anayambitsa ⟨את⟩ nsembe yopsereza, nayichita monga mwa lamulo.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "anayambitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe yopsereza"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nsembe yopsereza"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "nayichita"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "monga mwa lamulo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:33:33.798799262Z",
+  "model": "glm-5.3"
+}

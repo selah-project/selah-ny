@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Ndi izi anapanga nazo ⟨את⟩ maziko a chitsanzo cha chihema cha msonkhano, ndi ⟨את⟩ guwa la nsembe la mkuwa, ndi ⟨את⟩ chisoti cha guwalo cha mkuwa chimene chili chake, ndi ⟨את⟩ zida zonse za guwalo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nazo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maziko a chitsanzo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "maziko"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "a chitsanzo cha"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "cha msonkhano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "guwa la nsembe la mkuwa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "guwa la nsembe"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "la mkuwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chisoti cha mkuwa"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "chisoti"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "cha mkuwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chili chake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zida zonse za guwalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zida"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "za guwalo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:57:27.478271370Z",
+  "model": "glm-5.3"
+}

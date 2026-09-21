@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Yahwe anati kwa iye: “Nchiyani chili m'dzanja lako?” Ndipo iye anati: “Mtanda.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "Nchiyani chili"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "m'dzanja lako"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "Mtanda"
+    }
+  ],
+  "timestamp": "2026-09-21T06:09:01.124811367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Yosefe anayesera liro, nanalenga ⟨את⟩ liro, nanauza abale ake; ndipo anawonjezera kudana naye koposa.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "ananalenga"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "liro"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "nanauza"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "abale ake"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "anawonjezera"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "koposa"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "kudana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "iye (Yosefe)"
+    }
+  ],
+  "timestamp": "2026-09-21T05:59:27.127911167Z",
+  "model": "glm-5.3"
+}

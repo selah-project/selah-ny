@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo amawachititsa kusamala monga ng'ombe yaching'ono — Lebanoni ndi Shironi — monga mwana wa nyama zakuda.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "Ndipo amawachititsa kusamala"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "monga"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ng'ombe yaching'ono"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanoni"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "ndi Shironi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "monga"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "wa nyama zakuda"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:24.389743972Z",
+  "model": "glm-5.3"
+}

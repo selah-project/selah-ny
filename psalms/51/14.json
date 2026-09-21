@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 51,
+  "translation": "Bwezeretsa ine chimwemwe cha chipulumutso chako, ndipo mzimu wofunitsitsa unditsirikire.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "bwezeretsa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "chimwemwe"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "cha chipulumutso chako"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ndipo mzimu"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "wofunitsitsa"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "unditsirikire"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:41.286168046Z",
+  "model": "glm-5.3"
+}

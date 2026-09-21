@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Davide anagona ndi makolo ake, naida m'mudzi wa Davide.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "anagona"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "makolo ake"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "naida"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "m'mudzi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    }
+  ],
+  "timestamp": "2026-09-21T08:31:04.417880624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Arpakhshadi anakhala ndi moyo zaka asanu ndi makumi atatu, anabala ⟨את⟩ Shelakhi.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Ndipo Arpakhshadi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "anakhala ndi moyo"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "asanu"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ndi makumi atatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelakhi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelakhi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:46:22.489276031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo anayika ⟨את⟩ sanduku la Yahwe pa galimoto, ndi ⟨את⟩ sanduku la golide ndi ⟨את⟩ zikhoswe za golide ndi ⟨את⟩ zifanizo za zimbambadzi zawo.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "anayika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku la Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "galimoto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "sanduku la golide"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "sanduku la golide"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zikhoswe za golide"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "zikhoswe"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "za golide"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zifanizo"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "zifanizo"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "za zimbambadzi zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:02:38.243127379Z",
+  "model": "glm-5.3"
+}

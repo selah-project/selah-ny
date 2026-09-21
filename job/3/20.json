@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 3:20",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Chifukwa chiyani amapereka kuwala kwa wosauka, ndi moyo kwa woipa mtima wa moyo (nefeshi)?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "chifukwa chiyani"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "amapereka"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "kwa wosauka"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kuwala"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "ndi moyo"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "kwa woipa mtima"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "wa moyo (nefeshi)"
+    }
+  ],
+  "timestamp": "2026-09-21T11:29:19.969876211Z",
+  "model": "glm-5.3"
+}

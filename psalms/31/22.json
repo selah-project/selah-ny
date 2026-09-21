@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Wodala ndi Yahwe, chifukwa adachititsa khesedi kwake kwachidabwitsa kwa ine mu mzinda wozunguliridwa.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Wodala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "adachititsa kwachidabwitsa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi kwake"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mzinda"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "wozunguliridwa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:43.414751932Z",
+  "model": "glm-5.3"
+}

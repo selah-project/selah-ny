@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 97,
+  "translation": "Kumwamba kunapharitsa chilungamo chake, ndipo anthu a mitundu yonse anaona ulemerero wake.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "kunapharitsa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Kumwamba"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "chilungamo chake"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ndipo anaona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "anthu a mitundu"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ulemerero wake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:49.375223291Z",
+  "model": "glm-5.3"
+}

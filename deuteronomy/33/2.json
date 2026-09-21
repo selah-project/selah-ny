@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 33:2",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Ndipo anati: “Yahwe anachokera ku Sinayi nadza, nadzuka ku Seiri kwa iwo; anawala kuchokera ku phiri la Paran, nadza m'magulu ankumi ambiri a oyera; kudzanja lake lamanja ⟨pali⟩ chilamulo cha moto kwa iwo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מסיני",
+      "gloss": "ku Sinayi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "anadza"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "nadzuka"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "ku Seiri"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "anawala"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "kuchokera ku phiri"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "la Paran"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "nadza"
+    },
+    {
+      "surface": "מרבבת",
+      "gloss": "m'magulu ankumi ambiri"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "a oyera"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "kudzanja lake lamanja"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "chilamulo cha moto"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kwa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:31:03.004566426Z",
+  "model": "glm-5.3"
+}

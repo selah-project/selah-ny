@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 18:18",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo mkazi kuphatikiza ndi mlongo wake, sumatenga, kuti um'temberere, kuti avumbulutse maliseche ake pa iyeyo, m'moyo wake.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "ndipo mkazi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuphatikiza ndi"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "mlongo wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "-tenga"
+    },
+    {
+      "surface": "לצרר",
+      "gloss": "kuti um'temberere"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "kuti avumbulutse"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "maliseche ake"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pa iyeyo"
+    },
+    {
+      "surface": "בחייה",
+      "gloss": "m'moyo wake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:40:16.448274818Z",
+  "model": "glm-5.3"
+}

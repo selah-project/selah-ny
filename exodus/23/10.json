@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo zaka zisanu ndi zimodzi uzala ⟨את⟩ dziko lako, ndipo utolere ⟨את⟩ zolengedwa zawo.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "Ndipo zisanu ndi zimodzi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "uzala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko lako"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "dziko lako"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ndipo utolere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zolengedwa zawo"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "zolengedwa zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:36.885875424Z",
+  "model": "glm-5.3"
+}

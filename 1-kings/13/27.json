@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo anayankhula kwa ana ake, nati: Kuunirani ine ⟨את⟩ bulankhuli. Ndipo anaikuunira.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "anayankhula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "Kuunirani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bulankhuli"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "bulankhuli"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "anaikuunira"
+    }
+  ],
+  "timestamp": "2026-09-21T08:38:50.512217031Z",
+  "model": "glm-5.3"
+}

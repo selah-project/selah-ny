@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "adzawabweretsa ⟨את⟩ kwa msembe, ndipo msembe adzapereka ⟨את⟩ imene ili ya nsembe ya machimo yoyamba, nadula ⟨את⟩ mutu wake pamaso pa khosi lake, koma sadzapatanitsa.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "adzawabweretsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo (mbalame ziwiri)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "msembe"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "adzapereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imene ili ya nsembe ya machimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ya nsembe ya machimo"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "yoyamba"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "nadula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutu wake"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mutu wake"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "khosi lake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma si"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "sadzapatanitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:33:16.266195161Z",
+  "model": "glm-5.3"
+}

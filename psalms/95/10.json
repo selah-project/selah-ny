@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 95,
+  "translation": "Zaka makumi anayi inadana ndi mbadwa ino, ndipo ndinati: “Anthu osokonezeka mtima ndi iwo, ndipo iwo sanadziwe nzira zanga.”",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi anayi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Zaka"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "inadana ndi"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "mbadwa ino"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ndipo ndinati"
+    },
+    {
+      "surface": "עם",
+      "gloss": "Anthu"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "osokonezeka"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "הם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ndipo iwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nadziwe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "nzira zanga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:46.719224446Z",
+  "model": "glm-5.3"
+}

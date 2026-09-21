@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 81,
+  "translation": "Odana ndi Yahwe adzamuyenerera mwa khungu, kwa Iye; ndipo nthawi yawo ikhale mpaka kalekale.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "odana ndi Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "adzamuyenerera mwa khungu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa Iye"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ndipo ikhale"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "nthawi yawo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mpaka kalekale"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:21.368016337Z",
+  "model": "glm-5.3"
+}

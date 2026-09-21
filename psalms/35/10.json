@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Mafupa anga onse adzati: “Yahwe, ndani ali monga iwe, wopulumutsa wosalira wochokera kwa wamphamvu kuposa iye, wosalira ndi wochepa chuma wochokera kwa wakuba iye?”",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "Mafupa anga"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "adzati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ali monga iwe"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "wopulumutsa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wosalira"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "wamphamvu kuposa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "wochokera kwa iye"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "wosalira"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ndi wochepa chuma"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "wochokera kwa wakuba iye"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:31.433961270Z",
+  "model": "glm-5.3"
+}

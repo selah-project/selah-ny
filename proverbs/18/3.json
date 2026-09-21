@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Woipa akalowa, kunjere kumalowa; ndi manyazi, chitutuko.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "akalowa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "woipa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kumalowa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kunjere"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "kunjere"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "manyazi"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "chitutuko"
+    }
+  ],
+  "timestamp": "2026-09-21T11:23:53.607406537Z",
+  "model": "glm-5.3"
+}

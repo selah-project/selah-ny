@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 23:25",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Pakuti Davidi anati: “Yahwe Elohim wa Yisraeli wapereka mpumulo kwa anthu ake, ndipo akhala ku Yerushalayimu mpaka ku nthawi zonse.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "wapereka mpumulo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "kwa anthu ake"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "akhala"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ku Yerushalayimu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka ku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T12:33:36.234110923Z",
+  "model": "glm-5.3"
+}

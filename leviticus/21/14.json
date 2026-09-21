@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Chiwanda, ndi yothedwa chifukwa cha chosiyana, ndi yodetsedwa, wachigololo — ⟨את⟩ awa sadzawatora; koma m'usungwana wa mwa anthu ake adzatora mkazi.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "chiwanda"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "ndi yothedwa chifukwa cha chosiyana"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "ndi yodetsedwa"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "wachigololo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa- (sadza-)"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "dzawatora"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨(po)mbuyo⟩"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "m'usungwana"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "wa mwa anthu ake"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "adzatora"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mkazi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:31.166358492Z",
+  "model": "glm-5.3"
+}

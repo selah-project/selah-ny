@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 90,
+  "translation": "Pakuti masiku athu onse apita m'kusirira kwako; takhaza miyaka yathu monga mawu a mganizo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "masiku athu"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "apita"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "m'kusirira kwako"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "takhaza"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "miyaka yathu"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "monga"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "mawu a mganizo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:51.557629666Z",
+  "model": "glm-5.3"
+}

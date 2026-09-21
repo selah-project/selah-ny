@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Mawu abodza wolungama amawadana, koma wochimwa amabala wontchuka ndi kuchititsa manyazi.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "abodza"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "amawadana"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "koma wochimwa"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "amabala wontchuka"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "ndi kuchititsa manyazi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:21:35.328259449Z",
+  "model": "glm-5.3"
+}

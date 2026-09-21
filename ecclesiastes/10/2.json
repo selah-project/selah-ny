@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Mtima wa wochenjera uli kudzanja lake lamanja, koma mtima wa wopusa uli kudzanja lake lachuma.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wa wochenjera"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "uli kudzanja lake lamanja"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "koma mtima"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "wa wopusa"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "uli kudzanja lake lachuma"
+    }
+  ],
+  "timestamp": "2026-09-21T13:31:59.090171295Z",
+  "model": "glm-5.3"
+}

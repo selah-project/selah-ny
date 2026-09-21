@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo ukadzandichitira altare ya miyala, usayimanga ⟨את⟩ iyo ndi miyala yodula, chifukwa chakuti ukanayendetsachembere chako pa iyoyo, mudazidzetsa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ndipo ukadzandichitira"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ya miyala"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "udzachita"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "yimanga"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "iyo"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "ndi miyala yodula"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa chakuti"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "chako chodula"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "ukanayendetsa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pa iyoyo"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "mudazidzetsa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:01.923035412Z",
+  "model": "glm-5.3"
+}

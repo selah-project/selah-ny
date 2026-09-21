@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 48,
+  "translation": "Monga dzina lako, Elohim, kotero ndi matamando ako, mpaka malekezero a dziko lapansi; cholungama chadzaza dzanja lako lamanja.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "Monga dzina lako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kotero"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "matamando ako"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "malekezero a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cholungama"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "chadzaza"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dzanja lako lamanja"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:10.907507203Z",
+  "model": "glm-5.3"
+}

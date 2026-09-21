@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Bat-Sheba analowa kwa mfumu m'chipinda; ndipo mfumuyi anali wokalamba kwambiri; ndipo Abishagi wa ku Shunemi anatumikira ⟨את⟩ mfumu.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Ndipo… analowa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "m'chipinda"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ndipo mfumuyi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "anali wokalamba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "ndipo Abishagi"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "wa ku Shunemi"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "anatumikira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfumu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:30:41.559025152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo Yaakov anatumiza, nadaitana Rakhe ndi Lea ku munda kwa nkhosa zake.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "anatumiza"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nadaitana"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rakhe"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "ndi Lea"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ku munda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "nkhosa zake"
+    }
+  ],
+  "timestamp": "2026-09-21T05:56:36.534957478Z",
+  "model": "glm-5.3"
+}

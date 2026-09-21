@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo ine ndinatembenukira kudandaula ndi ⟨את⟩ mtima wanga pa ntchito yonse yomwe ndinagwira pansi pa dzuwa.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "ndinatembenukira"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "kudandaula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtima wanga"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "yomwe ndinagwira"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dzuwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:33.320359729Z",
+  "model": "glm-5.3"
+}

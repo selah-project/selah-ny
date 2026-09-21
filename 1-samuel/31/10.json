@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo anaika ⟨את⟩ zida zake mu nyumba ya Ashtaroti, ndipo ⟨את⟩ thupi lake anachichira pa khoma la Beit-Shani.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "anaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zida zake"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zida zake"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mu nyumba"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "ya Ashtaroti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "thupi lake"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "thupi lake"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "anachichira"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "pa khoma"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la Beit-Shani"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Beit-Shani"
+    }
+  ],
+  "timestamp": "2026-09-21T08:16:18.912565557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Pakuti mphulupulu zanga ndidzaulula; ndili ndi nkhawa chifukwa cha tchimo langa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "mphulupulu zanga"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ndidzaulula"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "ndili ndi nkhawa"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "chifukwa cha tchimo langa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:32.176705750Z",
+  "model": "glm-5.3"
+}

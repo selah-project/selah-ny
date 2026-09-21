@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndipo anaika ⟨אתם⟩ pa mapewa a efodi — miyala ya chikumbutso cha ana a Yisraeli — monga Yahwe anamulamulira ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "anaika"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "iwo (miyala)"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "mapewa a"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodi"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "miyala ya"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "chikumbutso"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "cha ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "anamulamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:28:50.386603260Z",
+  "model": "glm-5.3"
+}

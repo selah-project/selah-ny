@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 27:14",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo munthu ngati adzapatula ⟨את⟩ nyumba yake, chinthu choyera kwa Yahwe, ndipo wansembe adzayesa pakati pa chabwino ndi pakati pa choipa; monga wansembe adzamuyesa ⟨את⟩, motero chidzayima.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ndipo munthu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "adzapatula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba yake"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chinthu choyera"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "והעריכו",
+      "gloss": "adzayesa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "chabwino"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "יעריך",
+      "gloss": "adzamuyesa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wansembe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "motero"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "chidzayima"
+    }
+  ],
+  "timestamp": "2026-09-21T06:49:12.623329122Z",
+  "model": "glm-5.3"
+}

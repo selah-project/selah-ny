@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Mudzadya chakale chosungidwa kwambiri, ndipo mudzatulutsa chakale poyera la chitsopano.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "mudzadya"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "chakale"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "chosungidwa kwambiri"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "chakale"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "poyera la"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "chitsopano"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "mudzatulutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:45:39.124269708Z",
+  "model": "glm-5.3"
+}

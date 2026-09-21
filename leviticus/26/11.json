@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo ndidzaika chihema changa pakati panu, ndipo moyo wanga sungadzanyoze ⟨את⟩ inu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ndidzaika"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "chihema changa"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "pakati panu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sunga"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "dzanyoze"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:45:39.124433149Z",
+  "model": "glm-5.3"
+}

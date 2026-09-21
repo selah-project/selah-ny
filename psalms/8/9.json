@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Mbalame za kumwamba, ndi nsomba za m'nyanja, ndi zonse zolowa m'njira za m'madzi.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "mbalame"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "za kumwamba"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "ndi nsomba"
+    },
+    {
+      "surface": "הים",
+      "gloss": "za m'nyanja"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "zolowa"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "m'njira"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "za m'madzi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:34.165563839Z",
+  "model": "glm-5.3"
+}

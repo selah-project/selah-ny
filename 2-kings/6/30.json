@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo kunali kotero, mfumu ikamva ⟨את⟩ mawu a mkaziyo, inang'amba ⟨את⟩ zovala zake, pamene iye anali kudutsa pa khoma; ndipo anthu anaona, ndipo taona — nsanza ili pa thupi lake, mkati.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kunali kotero"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ikamva"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu a mkaziyo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mkaziyo"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "inang'amba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zovala zake"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "zovala zake"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kudutsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "khoma"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "השק",
+      "gloss": "nsanza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "thupi lake"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mkati"
+    }
+  ],
+  "timestamp": "2026-09-21T08:50:30.372522872Z",
+  "model": "glm-5.3"
+}

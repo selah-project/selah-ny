@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo Davide anati: “Kodi abwana a Keila adzapereka ⟨את⟩ ine ndi ⟨את⟩ anthu anga mʼdzanja la Shauli?” Ndipo Yahwe anati: “Adzakupereka.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "Kodi adzapereka"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "abwana a"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "anthu anga"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "anthu anga"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mʼdzanja la"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "Adzakupereka"
+    }
+  ],
+  "timestamp": "2026-09-21T08:11:04.144943278Z",
+  "model": "glm-5.3"
+}

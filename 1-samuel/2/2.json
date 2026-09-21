@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Palibe woyera monga Yahwe, pakuti palibe wina koma ⟨iwe⟩ yekha; ndipo palibe thanthwe monga Elohim wathu.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "monga Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "wina koma ⟨iwe⟩ yekha"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "צור",
+      "gloss": "thanthwe"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "monga Elohim wathu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:59:36.526126450Z",
+  "model": "glm-5.3"
+}

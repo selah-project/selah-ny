@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo akupatse kwa iwe ⟨את⟩ dalitso la Avraham, kwa iwe ndi kwa mbadwa yako pamodzi ndi ⟨את⟩ iwe, kuti ulande ⟨את⟩ dziko la kukhalako kwako, imene Elohim adapatsa kwa Avraham.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ndipo akupatse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalitso la Avraham"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "dalitso la"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "ndi kwa mbadwa yako"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "pamodzi ndi ⟨את⟩ iwe"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "kuti ulande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko la kukhalako kwako"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "la kukhalako kwako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adapatsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kwa Avraham"
+    }
+  ],
+  "timestamp": "2026-09-21T12:55:29.432127885Z",
+  "model": "glm-5.3"
+}

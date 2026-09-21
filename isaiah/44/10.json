@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Ndani analenga mulungu, kapena loka fano lopanda phindu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ndani"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "analenga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mulungu"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "kapena fano"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "loka"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "lopanda"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "phindu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:19:19.294473962Z",
+  "model": "glm-5.3"
+}

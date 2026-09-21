@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 45:15",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 45,
+  "translation": "Ndipo anasenera abale ake onse, nawirera iwo; ndipo pambuyo pake abale ake anayankhula ⟨את⟩ naye.",
+  "tokens": [
+    {
+      "surface": "וינשק",
+      "gloss": "anasenera"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "abale ake onse"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abale ake"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "nawirera"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "pambuyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "pake"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "anayankhula"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abale ake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye",
+      "marks": "naye"
+    }
+  ],
+  "timestamp": "2026-09-21T06:05:12.828018672Z",
+  "model": "glm-5.3"
+}

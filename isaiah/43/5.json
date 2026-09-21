@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 43,
+  "translation": "Usaope, pakuti ndili ndi ⟨את⟩ iwe; kum'mawa ndidzabweretsa mbadwo wako, ndi kumadzulo ndidzakusonkhantsa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ope"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ndi ⟨את⟩ iwe",
+      "marks": "iwe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "kum'mawa"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ndidzabweretsa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbadwo wako"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ndi kumadzulo"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "ndidzakusonkhantsa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:17:18.055032070Z",
+  "model": "glm-5.3"
+}

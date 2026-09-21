@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Ndipo anawonjezera koposa kuphulitsa malamudo kwa iye, kuukirira Elyon m'malo yomuma.",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "anawonjezera"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "koposa"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "kuphulitsa malamudo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "kuukirira"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "m'malo yomuma"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:19.620980918Z",
+  "model": "glm-5.3"
+}

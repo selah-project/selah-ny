@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo Yahwe ananena kwa ine: “Tengera iwe gilayoni wamkulu, ndipo lemba pa iyo ndi chala cha munthu: Maher-Shalal-Hash-Bazi.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo … ananena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Tengera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "gilayoni"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "ndipo lemba"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iyo"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "ndi chala"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "cha munthu"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "Maher-"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Shalal-"
+    },
+    {
+      "surface": "חש",
+      "gloss": "Hash-"
+    },
+    {
+      "surface": "בז",
+      "gloss": "Bazi"
+    }
+  ],
+  "timestamp": "2026-09-21T09:04:24.661569274Z",
+  "model": "glm-5.3"
+}

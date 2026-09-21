@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Izi ndi mibadwo ya Shemu: Shemu anali mwana wa zaka mazana, anabala ⟨את⟩ Arpakhshadi zaka ziwiri pambuyo pa chigwetse.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Izi"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "mibadwo ya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shemu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shemu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakhshadi"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakhshadi"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "zaka ziwiri"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pambuyo pa"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "chigwetse"
+    }
+  ],
+  "timestamp": "2026-09-21T05:46:22.488965909Z",
+  "model": "glm-5.3"
+}

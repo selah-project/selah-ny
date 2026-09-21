@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 66,
+  "translation": "Dziko lonse lapansi lidzagwadira kwa inu, ndipo lidzaimbira inu; lidzaimbira Dzina lanu. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "lidzagwadira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "ndipo lidzaimbira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "inu"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "lidzaimbira"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Dzina lanu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:27.102647800Z",
+  "model": "glm-5.3"
+}

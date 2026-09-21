@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ngati walowa yekha, adzatuluka yekha; ngati ali mwamuna wa mkazi, mkazi wake adzatulukanso pamodzi ndi iye.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "yekha"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "walowa"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "yekha"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "adzatuluka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "mwamuna"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "wa mkazi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ali"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "adzatulukanso"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mkazi wake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamodzi ndi iye"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:40.064243604Z",
+  "model": "glm-5.3"
+}

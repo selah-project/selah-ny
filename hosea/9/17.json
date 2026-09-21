@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 9:17",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Elohim wanga adzaŵataya iwo, chifukwa sanamverere Iye; ndipo adzakhala akusakasaka mwa mitundu ya anthu.",
+  "tokens": [
+    {
+      "surface": "ימאסם",
+      "gloss": "adzaŵataya iwo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "san- (ndithu)"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "-mverere (sanamverere)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Iye"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ndipo adzakhala"
+    },
+    {
+      "surface": "נדדים",
+      "gloss": "akusakasaka"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mwa mitundu ya anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:21:27.878915118Z",
+  "model": "glm-5.3"
+}

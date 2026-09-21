@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "ndipo ⟨את⟩ Esav ndinadana naye; ndipo ndinaika ⟨את⟩ phiri lawo ku chitsanzo cha kuwonongeka, ndi ⟨את⟩ cholowa chawo kwa nyama za m'dzenje.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ndinadana naye"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "ndipo ndinaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phiri lawo"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "phiri lawo"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ku chitsanzo cha kuwonongeka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "cholowa chawo"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "cholowa chawo"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "kwa nyama za m'dzenje"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "za m'dzenje"
+    }
+  ],
+  "timestamp": "2026-09-21T10:39:11.263722672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndati: “Chifukwa Ine ndidzakhala nawe; ndipo ichi chidzakhala chizindikiro chako kuti Ine ndakutumiza: pokatulutsa iwe ⟨את⟩ anthi m'Mitsrayimu, mudzatumikira ⟨את⟩ Elohim pa phiri ili.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Chifukwa"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ine ndidzakhala"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ndipo ichi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "chako"
+    },
+    {
+      "surface": "האות",
+      "gloss": "chizindikiro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "ndakutumiza"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "pokatulutsa iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthi"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "m'Mitsrayimu"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "mudzatumikira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ili"
+    }
+  ],
+  "timestamp": "2026-09-21T06:09:50.539581068Z",
+  "model": "glm-5.3"
+}

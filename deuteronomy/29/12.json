@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "kuti akhazikitse ⟨את⟩ iwe lero kukhala anthu ake, ndipo iye adzakhala kwako Elohim, monga momwe anayankhula nawe, ndipo monga momwe analumbira kwa makolo ako, kwa Avrahamu, kwa Yitsaaki, ndi kwa Yakobo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "akhazikitse"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ iwe",
+      "marks": "iwe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kukhala ake"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ndipo iye"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "anayankhula"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "ndipo monga momwe"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "analumbira"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "kwa makolo ako"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kwa Avrahamu"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kwa Yitsaaki"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "ndi kwa Yakobo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:28:20.116200477Z",
+  "model": "glm-5.3"
+}

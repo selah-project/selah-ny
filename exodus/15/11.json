@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 15:11",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndi ndani yofanana ndi iwe mwa ἐliim אֵלִם Yahwe? Ndi ndani yofanana ndi iwe, wachilemerero m'chiyero, woyenera mantha m'mayamiko, wochita zodabwitsa?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ndi ndani"
+    },
+    {
+      "surface": "כמכה",
+      "gloss": "yofanana ndi iwe"
+    },
+    {
+      "surface": "באלם",
+      "gloss": "mwa El-im (mulungu) אֵלִם"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ndi ndani"
+    },
+    {
+      "surface": "כמכה",
+      "gloss": "yofanana ndi iwe"
+    },
+    {
+      "surface": "נאדר",
+      "gloss": "wachilemerero"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "m'chiyero"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "woyenera mantha"
+    },
+    {
+      "surface": "תהלת",
+      "gloss": "m'mayamiko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wochita"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "zodabwitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:12:22.921406378Z",
+  "model": "glm-5.3"
+}

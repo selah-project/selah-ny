@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo dzuwa limatulukira, ndipo dzuwa limalowa, ndipo ku malo ake limathamangira-limapuma, limatulukira — ilo lomwe limeneko.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "ndipo limatulukira"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dzuwa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ndipo limalowa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dzuwa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo ku"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "malo ake"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "limapuma mwachangu"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "limatulukira"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ilo lomwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "limeneko"
+    }
+  ],
+  "timestamp": "2026-09-21T11:56:07.911787116Z",
+  "model": "glm-5.3"
+}

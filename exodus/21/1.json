@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo izi ndi ⟨⟨the⟩⟩ miweruzo imene uzayika pamaso pawo.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ndipo izi"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "miweruzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "uzayika"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pamaso pawo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:40.063765711Z",
+  "model": "glm-5.3"
+}

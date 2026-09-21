@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 70,
+  "translation": "Elohim, kundipulumutsa; Yahwe, ku⟨thandiza kwanga⟩, fulumira.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "kundipulumutsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ku⟨thandiza kwanga⟩"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "fulumira"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:50.322798902Z",
+  "model": "glm-5.3"
+}

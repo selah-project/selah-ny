@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo munthu amene adzagona ndi ⟨את⟩ mkazi wa mbuya wake: maliseche a mbuya wake wawulula; tchimo lawo adzanyamula; adzafa opanda ana.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ndipo munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "adzagona"
+    },
+    {
+      "surface": "את",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mkazi wa mbuya wake"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "mkazi wa mbuya wake"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "maliseche"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "a mbuya wake"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "wawulula"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "tchimo lawo"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "adzanyamula"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "opanda ana"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "adzafa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:43:31.741303133Z",
+  "model": "glm-5.3"
+}

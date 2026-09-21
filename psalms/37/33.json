@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Yahwe sam'musiya m'dzanja lake, ndipo samweruzitsa molakwa pochweruzidwa kwake.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "sam'musiya"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "m'dzanja lake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "samweruzitsa molakwa"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "pochweruzidwa kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:11.838763445Z",
+  "model": "glm-5.3"
+}

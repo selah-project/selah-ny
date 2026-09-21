@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Iwe udzalankhula ⟨את⟩ zonse zimene ndidzakulamulira, ndipo Aharoni m'bale wako adzalankhula kwa Paro kuti atume ⟨את⟩ ana a Yisraeli kuchoka m'dzikoli lake.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "udzalankhula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "ndidzakulamulira"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ndipo Aharoni"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "m'bale wako"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "adzalankhula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "kuti atume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "kuchoka m'dzikoli lake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:09:51.701542620Z",
+  "model": "glm-5.3"
+}

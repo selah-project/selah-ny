@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Naomi anatora ⟨את⟩ mwana uja, namuika m'chifuwa mwake, nakhalabe wake mayi wosamalira.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "anatora"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana uja"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana uja"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "namuika"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "m'chifuwa mwake"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "nakhalabe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wake"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "mayi wosamalira"
+    }
+  ],
+  "timestamp": "2026-09-21T11:50:39.031252847Z",
+  "model": "glm-5.3"
+}

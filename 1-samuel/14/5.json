@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Chidongo chamwamba chimodzi chili kumpoto, pamaso pa Mikmashi, ndipo chimodzi chili kumwera, pamaso pa Geva.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "chidongo chamwamba"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "chimodzi"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "chili"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kumpoto"
+    },
+    {
+      "surface": "מול",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikmashi"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "ndipo chimodzi"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "kumwera"
+    },
+    {
+      "surface": "מול",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geva"
+    }
+  ],
+  "timestamp": "2026-09-21T08:05:33.746289341Z",
+  "model": "glm-5.3"
+}

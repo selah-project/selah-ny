@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 14:22",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo ana a Yisraeli analowa mkati mwa ⟨the⟩ nyanja pa maluwa owuma, ndipo madzi anakhala khoma kwa iwo kudzanja lao lamanja ndi kudzanja lao lamanzere.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "analowa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mkati mwa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "pa maluwa owuma"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "ndipo madzi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "khoma"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "kudzanja lao lamanja"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "ndi kudzanja lao lamanzere"
+    }
+  ],
+  "timestamp": "2026-09-21T06:13:07.312301788Z",
+  "model": "glm-5.3"
+}

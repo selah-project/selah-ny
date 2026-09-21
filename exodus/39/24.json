@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 39:24",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndipo anapanga pa mapeto a kanzulo zipatso za mafula — buluu, ndi wabajala, ndi tolowa ofiira — ululu wosanjika.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "mapeto"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "a kanzu"
+    },
+    {
+      "surface": "רמוני",
+      "gloss": "zipatso za mafula"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "buluu"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ndi wabajala"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ndi tolowa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ofiira"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ululu wosanjika"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:24.849125312Z",
+  "model": "glm-5.3"
+}

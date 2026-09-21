@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo adaweruza ⟨את⟩ anthu nthawi zonse; ⟨את⟩ nkhani za kulimbika mtima adazibweretsa kwa Moshe, koma nkhani zazing'ono zonse adaziyeruza iwo omwe.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "adaweruza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nthawi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhani za kulimbika mtima"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nkhani"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "za kulimbika mtima"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "adazibweretsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "koma zonse"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nkhani"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "zazing'ono"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "adaziyeruza"
+    },
+    {
+      "surface": "הם",
+      "gloss": "iwo omwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:15:10.578256428Z",
+  "model": "glm-5.3"
+}

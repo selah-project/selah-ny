@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Anatumiza mwa iwo ⟨את⟩ madziodzi, ndipo anawadya; ndi zigwikwi, ndipo zinaononga ⟨את⟩ iwo.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Anatumiza"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mwa iwo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "madziodzi"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "ndipo anawadya"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "ndi zigwikwi"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "ndipo zinaononga ⟨את⟩ iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:12.959905330Z",
+  "model": "glm-5.3"
+}

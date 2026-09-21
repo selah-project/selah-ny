@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 2:16",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Pakuti palibe chikumbutso cha wanzeru pamodzi ndi cha wopusa ku nthawi zonse; potetsa kwatheka, masiku akudza zonse zidzaiwalidwa; ndipo bwanji wanzeru adzafa monga wopusa!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "chikumbutso"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "cha wanzeru"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "cha wopusa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "בשכבר",
+      "gloss": "potetsa kwatheka"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "akudza"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "zidzaiwalidwa"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "ndipo bwanji"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "adzafa"
+    },
+    {
+      "surface": "החכם",
+      "gloss": "wanzeru"
+    },
+    {
+      "surface": "עם",
+      "gloss": "monga"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "wopusa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:47.673214725Z",
+  "model": "glm-5.3"
+}

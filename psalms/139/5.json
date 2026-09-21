@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 139,
+  "translation": "M'mbuyo ndi m'tsogolo unandizinga, ndipo unaisa dzanja lako pa ine.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "m'mbuyo"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "ndi m'tsogomo"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "unandizinga"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "unaisa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "dzanja lako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:23.517875765Z",
+  "model": "glm-5.3"
+}

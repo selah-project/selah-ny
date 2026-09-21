@@ -1,0 +1,154 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 23:4",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo mfumu inalamula ⟨את⟩ Khilkiyahu wasembe wamkulu, ndi ⟨את⟩ ansembe a mzere wachiwiri, ndi ⟨את⟩ asungi chipata, kuti atulutse mu nyumba ya Yahwe ⟨את⟩ zinthu zonse zapangidwa za Baala, ndi za Ashera, ndi za makamu onse a kumwamba; nayotcha kuja kwa Yerushalayimu m'minda ya Kidronu, nabwala ⟨את⟩ phulusa lawo ku Betielu.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "inalamula"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khilkiyahu"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Khilkiyahu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wasembe"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ansembe a mzere wachiwiri"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "a mzere wachiwiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "asungi chipata"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "asungi"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "chipata"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "kuti atulutse"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "mu nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zinthu zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "zinthu"
+    },
+    {
+      "surface": "העשוים",
+      "gloss": "zapangidwa"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "za Baala"
+    },
+    {
+      "surface": "ולאשרה",
+      "gloss": "ndi za Ashera"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ndi za makamu onse"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "makamu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "a kumwamba"
+    },
+    {
+      "surface": "וישרפם",
+      "gloss": "nayotcha"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kuja kwa"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "בשדמות",
+      "gloss": "m'minda ya"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidronu"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "nabwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phulusa lawo"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "phulusa lawo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ku Betielu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Betielu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:00:28.854605755Z",
+  "model": "glm-5.3"
+}

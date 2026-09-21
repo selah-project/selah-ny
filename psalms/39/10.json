@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndinalala, sindinatsegule mkamwa mwanga; pakuti iwe ndiwe wochita.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Ndinalala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi-"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "natsegule"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mkamwa mwanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ndiwe wochita"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:38.266412568Z",
+  "model": "glm-5.3"
+}

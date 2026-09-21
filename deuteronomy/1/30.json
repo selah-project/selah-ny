@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Yahwe Elohim wanu, amene amayenda pamaso panu, ndiye amene adzalimbana chifukwa cha inu, monga zonse zimene anachitira ⟨את⟩ inu m'Mitsrayimu pamaso panu —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "amene amayenda"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pamaso panu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye amene"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "adzalimbana"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "chifukwa cha inu"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "monga zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachitira"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "m'Mitsrayimu"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "pamaso panu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:13:30.556138836Z",
+  "model": "glm-5.3"
+}

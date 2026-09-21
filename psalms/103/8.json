@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 103,
+  "translation": "Wachifundo ndi wachisomo Yahwe, wolekereza mkwiyo, ndi wochuluka khesedi.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Wachifundo"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "ndi wachisomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "wolekereza"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "mkwiyo"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ndi wochuluka"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesedi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:43.647188412Z",
+  "model": "glm-5.3"
+}

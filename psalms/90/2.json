@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 90,
+  "translation": "Asanabadwe mapiri, ndipo usanalenge dziko lapansi ndi dziko lonse, kuyambira nthawi yam'mbuyo mpaka nthawi yaitali iwe ndiwe El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Asanabadwe"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "(asanabadwe)"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "ndipo usanalenge"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "ndi dziko lonse"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "kuyambira nthawi yam'mbuyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nthawi yaitali"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:19.074380986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Kuona ubwino wa osankhidwa a Pansi pa Yahwe, kusangalala ndi chimwemwe cha mtundu wa Yahwe, kuimirira ndi cholowa chake.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "ubwino wa"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "osankhidwa a Pansi pa Yahwe"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "kusangalala"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "ndi chimwemwe cha"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "mtundu wa Yahwe"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "kuimirira"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "cholowa chake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:42.961073137Z",
+  "model": "glm-5.3"
+}

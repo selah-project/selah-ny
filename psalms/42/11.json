@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Monga kuphedwa m'mafupa anga, adani anga anandinyoza, pokati akunena kwa ine tsiku lonse kuti: Kodi ali kuti Elohim wako?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "Monga kuphedwa"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "m'mafupa anga"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "anandinyoza"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "adani anga"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "pokati akunena"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Kodi ali kuti"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:04.671994323Z",
+  "model": "glm-5.3"
+}

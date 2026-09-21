@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 115,
+  "translation": "Chifukwa chiyani amitundu adzati: “Kodi tsopano Elohim awo ali kuti?”",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Chifukwa chiyani"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "adzati"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amitundu"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ali kuti"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim awo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:33.392760283Z",
+  "model": "glm-5.3"
+}

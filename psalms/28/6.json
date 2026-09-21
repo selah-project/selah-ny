@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Yahwe adalengedwa ⟨patali⟩, pakuti amva liwu la mapemphero anga.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "adalengedwa ⟨patali⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "amva"
+    },
+    {
+      "surface": "קול",
+      "gloss": "liwu la"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mapemphero anga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:34.882622247Z",
+  "model": "glm-5.3"
+}

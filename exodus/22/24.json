@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ngati mukavomereza ndalama ⟨את⟩ anthu anga, ⟨את⟩ wopanda chilichonse ali ndi inu, simudzakhala kwa iye monga wongolitsa; simudzaika pa iye makhumu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ndalama"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "mukavomereza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu anga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "anthu anga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wopanda chilichonse"
+    },
+    {
+      "surface": "העני",
+      "gloss": "wopanda chilichonse"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ali ndi inu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "-mudzakhala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "monga wongolitsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "-mudzaika"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "makhumu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:47.285926306Z",
+  "model": "glm-5.3"
+}

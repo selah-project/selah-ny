@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Inde, Yahwe, mafumu a Ashuru anawononga ⟨את⟩ maiko onse ndi ⟨את⟩ chiko chawo.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Inde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "anawononga"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "a Ashuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maiko onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "maiko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chiko chawo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "chiko chawo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:15:53.684297407Z",
+  "model": "glm-5.3"
+}

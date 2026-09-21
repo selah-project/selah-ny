@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 90,
+  "translation": "Mdzaza ife mmawa ndi khesedi ko, kuti tiraneane ndi kukondwera masiku athu onse.",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "Mdzaza ife"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mmawa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedi ko"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "tiraneane"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "kukondwera"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "masiku athu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:13.087944304Z",
+  "model": "glm-5.3"
+}

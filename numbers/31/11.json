@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo anatenga ⟨את⟩ katundu wolandidwa wonse ndi ⟨את⟩ zolandidwa zonse, mwa anthu ndi mwa nyama.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katundu wolandidwa wonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "katundu wolandidwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zolandidwa zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "zolandidwa"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "mwa anthu"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ndi mwa nyama"
+    }
+  ],
+  "timestamp": "2026-09-21T07:09:18.051947935Z",
+  "model": "glm-5.3"
+}

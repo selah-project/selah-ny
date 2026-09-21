@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo Moshe anachita monga mwa zonse zimene Yahwe adamulamulira ⟨את⟩ iye; momwemonso anazichita.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "monga mwa zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "adamulamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "כן",
+      "gloss": "momwemonso"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anazichita"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:44.400687489Z",
+  "model": "glm-5.3"
+}

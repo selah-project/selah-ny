@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo Yahwe amva mawu a Yisraeli, napereka ⟨את⟩ Mkanane; ndipo iwo anawononga ⟨את⟩ iwo ndi ⟨את⟩ mizinda yawo; ndipo anayitana dzina la malowo Horma.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "amva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "napereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mkanane"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mkanane"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "anawononga"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mizinda yawo"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "mizinda yawo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "anayitana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dzina"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "la malowo"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Horma"
+    }
+  ],
+  "timestamp": "2026-09-21T07:03:02.520831234Z",
+  "model": "glm-5.3"
+}

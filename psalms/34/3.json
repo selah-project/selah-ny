@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Mwa Yahwe moyo wanga udzayamikira; odzichepetsa adzamva ndi kukondwera.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Mwa Yahwe"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "udzayamikira"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "adzamva"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "odzichepetsa"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ndi kukondwera"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:06.972997998Z",
+  "model": "glm-5.3"
+}

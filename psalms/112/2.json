@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 112,
+  "translation": "Wamphamvu m'dzikiko lapansi adzakhala mbewu yake; mbadwo wolungama udzadalitsidwa.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Wamphamvu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dzikiko lapansi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "mbewu yake"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mbadwo"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "udzadalitsidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:36.296617582Z",
+  "model": "glm-5.3"
+}

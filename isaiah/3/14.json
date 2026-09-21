@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Yahwe adzalowa mweruzo ndi akuluakulu a anthu ake ndi atsogoleri ake; ndipo inu mwawononga ⟨א⟩ mtedza, cholanda champhongo chili m'nyumba zanu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "mweruzo"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "adzalowa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "akuluakulu a"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "ndi atsogoleri ake"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ndipo inu"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "mwawononga"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "mtedza"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "cholanda"
+    },
+    {
+      "surface": "העני",
+      "gloss": "champhongo"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "m'nyumba zanu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:04:36.589804258Z",
+  "model": "glm-5.3"
+}

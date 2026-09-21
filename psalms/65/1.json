@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 65,
+  "translation": "Kwa woyang'anira; salimo wa Dawidi; nyimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "salimo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawidi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyimbo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:30.055053378Z",
+  "model": "glm-5.3"
+}

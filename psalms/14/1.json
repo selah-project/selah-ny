@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Kwa woyang'anira ⟨n'yimbo⟩, ya Davide. Wopusa anati mu mtima wake: “Palibe Elohim.” Atawonongeka, atachititsa chidani, chinthu choipa; palibe wochita zabwino.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira ⟨n'yimbo⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Davide"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Wopusa"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "mu mtima wake"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Palibe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "Atawonongeka"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "atachititsa chidani"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "chinthu choipa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wochita"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zabwino"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:20.143129828Z",
+  "model": "glm-5.3"
+}

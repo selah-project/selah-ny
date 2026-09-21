@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 72,
+  "translation": "Wodala ndi Yahwe Elohim, Elohim wa Yisraeli, wochita zozizwitsa yekha.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Wodala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wochita"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "zozizwitsa"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yekha"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:27.596051227Z",
+  "model": "glm-5.3"
+}

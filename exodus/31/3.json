@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "ndipo ndamudzaza iye mzimu wa Elohim, m'chirichiro, ndi m'zindikiritso, ndi m'chidziwitso, ndi m'nchito yonse.",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "ndipo ndamudzaza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (Betsaleli)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "m'chirichiro"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "ndi m'zindikiritso"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "ndi m'chidziwitso"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ndi m'nchito yonse"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-21T06:21:30.256967505Z",
+  "model": "glm-5.3"
+}

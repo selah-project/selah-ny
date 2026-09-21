@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Mwauchititsa manyazi ulamuliro wa wosavutika, chifukwa Yahwe ndi chitetezo chake.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "ulamuliro"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wa wosavutika"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "mwauchititsa manyazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "chitetezo chake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:01.529921025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 125,
+  "translation": "Nyimbo ya makwerero. Okhulupirira mwa Yahwe ali ngati phiri la Tsiyoni; sizigwedezeka, imakhala ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya makwerero"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "okhulupirira"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "mwa Yahwe"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "ngati phiri"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "la Tsiyoni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "zigwedezeka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "imakhala"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:37.117977252Z",
+  "model": "glm-5.3"
+}

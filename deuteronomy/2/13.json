@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Tsopano mukani, ndipo dumphani inu nokha ⟨את⟩ mtsinje wa Zaredi; ndipo tinadumphira ⟨את⟩ mtsinje wa Zaredi.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Tsopano"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "mukani"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "ndipo dumphani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inu nokha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtsinje"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "mtsinje"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "wa Zaredi"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "ndipo tinadumphira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtsinje"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "mtsinje"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "wa Zaredi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:13:00.177752952Z",
+  "model": "glm-5.3"
+}

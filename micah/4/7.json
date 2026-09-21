@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 4:7",
+  "book": "micah",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndidzaika ⟨את⟩ wopundukayo kukhala cholowa, ndi wothamangitsidwayo kukhala mtundu wamphamvu; ndipo Yahwe adzachita ufumu pa iwo, pa phiri la Tsiyoni, kuyambira tsopano mpaka ku nthawi zosatha.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Ndidzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wopundukayo"
+    },
+    {
+      "surface": "הצלעה",
+      "gloss": "wopundukayo"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "kukhala cholowa"
+    },
+    {
+      "surface": "והנהלאה",
+      "gloss": "ndi wothamangitsidwayo"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "kukhala mtundu"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "wamphamvu"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ndipo adzachita ufumu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pa iwo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pa phiri"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "la Tsiyoni"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kuyambira tsopano"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ku nthawi zosatha"
+    }
+  ],
+  "timestamp": "2026-09-21T10:29:43.706408096Z",
+  "model": "glm-5.3"
+}

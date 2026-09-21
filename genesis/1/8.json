@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Elohim anayitana rakiya kuti kumwamba; ndipo kunakhala madzulo, ndipo kunakhala m'mawa, tsiku lachiwiri.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "anayitana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakiya"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kunakhala"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "madzulo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kunakhala"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "m'mawa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lachiwiri"
+    }
+  ],
+  "timestamp": "2026-09-21T05:41:44.983890561Z",
+  "model": "glm-5.3"
+}

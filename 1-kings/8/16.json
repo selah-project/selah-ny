@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 8:16",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Kuchokera tsiku lomwe ndinatulutsa ⟨את⟩ anthu anga ⟨את⟩ Yisraeli kuchokera ku Mitsrayimu, sindinasankhe mzinda uliwonse mwa mafuko onse a Yisraeli kuti nimange nyumba, kuti Dzina langa likhalepo; koma ndinasankha Davide kuti akhale pa anthu anga Yisraeli.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Kuchokera"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lomwe"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ndinatulutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu anga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "anthu anga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuchokera ku Mitsrayimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi-"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "nasankhe"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mzinda uliwonse"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mwa onse a"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "mafuko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kuti nimange"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kuti likhale"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Dzina langa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "po"
+    },
+    {
+      "surface": "ואבחר",
+      "gloss": "koma ndinasankha"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kuti akhale"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "anthu anga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T13:09:00.508051336Z",
+  "model": "glm-5.3"
+}

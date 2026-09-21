@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo iye anabwera kwa mayi aakulu ake, ndipo iye anati: “Ndiwe ani, mwana wanga?” Ndipo iye anamuuzira ⟨את⟩ zonse zimene munthuyo anamuchitira.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "ndipo iye anabwera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "mayi aakulu ake"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ndipo iye anati"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "את",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mwana wanga"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "ndipo anamuuzira"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munthuyo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:51:27.621797407Z",
+  "model": "glm-5.3"
+}

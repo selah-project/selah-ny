@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Adamenya wobadwa yamba wonse m'dzikowo, chiyambi cha mphamvu zawo zonse.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Adamenya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "wobadwa yamba"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "m'dzikowo"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "chiyambi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "cha zonse"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "mphamvu zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:04.618307896Z",
+  "model": "glm-5.3"
+}

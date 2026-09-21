@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Anatsekula pakamwa pawo pa ine, monga mkango wakupha ndi kukhululuka.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "anatsekula"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "pakamwa pawo"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "mkango"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "wakupha"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "ndi kukhululuka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:02.512665681Z",
+  "model": "glm-5.3"
+}

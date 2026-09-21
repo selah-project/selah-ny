@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Madzi akuya amaitanira mnzake ku mawu a madzi ako akutsika; mafunde ako onse ndi maunde ako analinkha pa ine.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "madzi akuya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "mnzake"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "amaitanira"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ku mawu a"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "madzi ako akutsika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "mafunde ako"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "ndi maunde ako"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "analinkha"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:24.922788547Z",
+  "model": "glm-5.3"
+}

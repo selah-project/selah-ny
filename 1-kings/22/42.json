@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 22:42",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Yehoshafati anali mwana wa zaka makumi atatu ndi atsanu pamene anachita ufumu, ndipo anachita ufumu makumi awiri ndi atsanu zaka ku Yerushalayimu; ndipo dzina la amake linali Azuba mwana wamkazi wa Shiluhi.",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafati"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa zaka"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "makumi atatu"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ndi atsanu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "pamene anachita ufumu"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "makumi awiri"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ndi atsanu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "anachita ufumu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ku Yerushalayimu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ndipo dzina"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "la amake"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Azuba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi wa"
+    },
+    {
+      "surface": "שלחי",
+      "gloss": "Shiluhi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:46:13.412649595Z",
+  "model": "glm-5.3"
+}

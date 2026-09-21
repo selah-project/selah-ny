@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Dziko lapansi lonse liope Yahwe; okhala onse a dziko liwopse iye.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "liope"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "liwopse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "okhala"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "a dziko"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:40.171449286Z",
+  "model": "glm-5.3"
+}

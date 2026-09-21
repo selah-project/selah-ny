@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo mfumuyi anati kwa iye: “Kodi n'chiyani chaku?” Ndipo mayimwaliyo anayankha: “Mayimwali uyu anati kwa ine: ‘Patsa ⟨את⟩ mwana wako tidyere lero, ndipo ⟨את⟩ mwana wanga tidyera mawa.’”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumuyi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "n'chiyani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "chaku"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "anayankha\/anati"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mayimwali"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Patsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wako"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana wako"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "tidyere"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "mwana wanga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana wanga"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "tidyera"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "mawa"
+    }
+  ],
+  "timestamp": "2026-09-21T08:49:11.160663776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo ⟨את⟩ Yatiri ndi ⟨את⟩ malire ake, ndi ⟨את⟩ Eshtemoa ndi ⟨את⟩ malire ake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Yatiri"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yatiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malire ake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malire ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malire ake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malire ake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:42:53.287995562Z",
+  "model": "glm-5.3"
+}

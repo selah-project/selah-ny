@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 1:10",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Eliyahu anayankha nayanena kwa mtsogoleri wa makumi asanu: “Ngati ndine munthu wa Elohim, moto unatsike kumwamba, ndi kudya ⟨את⟩ iwe ndi ⟨את⟩ makumi asanu ako.” Ndipo moto unatsika kumwamba, unadya ⟨את⟩ iye ndi ⟨את⟩ makumi asanu ake.",
+  "tokens": [
+    {
+      "surface": "ויענה",
+      "gloss": "anayankha"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "nayanena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mtsogoleri"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "wa makumi asanu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "unatsike"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uchokera"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ndi kudya"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ iwe",
+      "marks": "iwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "makumi asanu ako"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "makumi asanu ako"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "unatsika"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uchokera"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "unadya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "iye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "makumi asanu ake"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "makumi asanu ake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:47:12.768711547Z",
+  "model": "glm-5.3"
+}

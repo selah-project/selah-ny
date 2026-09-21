@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Ndipo anafuula kwa Yahwe m'tsoka mwawo, ndipo iye adawalanditsa m'mavuto awo.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "anafuula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "m'tsoka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mwawo"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "m'mavuto awo"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "adawalanditsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:02.084725774Z",
+  "model": "glm-5.3"
+}

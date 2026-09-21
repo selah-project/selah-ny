@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Eshtoni anabala ⟨את⟩ Beti-Rafa, ndi ⟨את⟩ Paseaha, ndi ⟨את⟩ Tehina atate wa Iri-Nahashu; awa ndiwo anthu a Reka.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Ndipo Eshtoni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beti-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Paseaha"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Tehina"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Tehina"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atate wa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Iri-"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nahashu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "awa ndiwo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "anthu a"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Reka"
+    }
+  ],
+  "timestamp": "2026-09-21T12:24:30.689992419Z",
+  "model": "glm-5.3"
+}

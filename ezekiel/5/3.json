@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo mudzalandira kumeneko kanthu kakang'ono muwerengero, ndipo udzawaphata m'mabatani anu.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Ndipo mudzalandira"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kanthu kakang'ono"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "muwerengero"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "udzawaphata"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kanthu kakang'ono"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "m'mabatani anu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:57:23.566988727Z",
+  "model": "glm-5.3"
+}

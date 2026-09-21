@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ana a Sinaaha, chiwerengero cha makumi atatu ndi mazana anayi ndi makumi asanu ndi amisatu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ana a"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "Sinaaha"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "makumi atatu (chiwerengero cha)"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mazana anayi (ngati makumi atatu a mazana)"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ndi mazana asanu (ndi limodzi)"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ndi makumi asanu ndi amisatu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:33:39.053701711Z",
+  "model": "glm-5.3"
+}

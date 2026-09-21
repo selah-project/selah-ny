@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Yahwe anawabalalitsa ⟨את⟩ iwo kumeneko pa nkhoso ya dziko lonse lapansi, ndipo anasiya kumanga mzindawo.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "anawabalalitsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhoso ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "anasiya"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "kumanga"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mzindawo"
+    }
+  ],
+  "timestamp": "2026-09-21T05:46:46.635399303Z",
+  "model": "glm-5.3"
+}

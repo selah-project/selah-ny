@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Zitatha zinthu izi, Elohim adayesa ⟨את⟩ Avraham, nati kwa iye: “Avraham!” Ndipo iye adati: “Ndili pano.”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zitatha"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pambuyo pa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "zinthu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "adayesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ndili pano"
+    }
+  ],
+  "timestamp": "2026-09-21T12:53:32.956744581Z",
+  "model": "glm-5.3"
+}

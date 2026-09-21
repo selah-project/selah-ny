@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo adzavomereza ⟨את⟩ cholakwa chawo ndi ⟨את⟩ cholakwa cha makolo awo, m'khululukiro mwawo umene anakululukira pa Ine, ndiponso chifukwa chakuti anakhala ndi Ine mwamwano;",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "Ndipo adzavomereza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cholakwa chawo"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "cholakwa chawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "cholakwa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "cholakwa"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "cha makolo awo"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "m'khululukiro mwawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "anakululukira"
+    },
+    {
+      "surface": "בי",
+      "gloss": "pa Ine"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chifukwa chakuti"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndi Ine"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "mwamwano"
+    }
+  ],
+  "timestamp": "2026-09-21T06:48:01.650916685Z",
+  "model": "glm-5.3"
+}

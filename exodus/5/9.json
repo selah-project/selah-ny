@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ntchito yikhale yokweza pa anthuwo, ndipo achite mmenemo, ndipo asayang'ane mawu a chinyengo.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "yikhale yokweza"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "anthuwo"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ndipo achite"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mmenemo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo asa-"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "-yang'ane"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "chinyengo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:15.980388401Z",
+  "model": "glm-5.3"
+}

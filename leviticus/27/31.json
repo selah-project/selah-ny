@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 27:31",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo ngati munthu afuna kuvomboleta kanthu ka chikhumi chake, adzaonjezera chachisanu cha ichi pa ichi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ndipo ngati"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "kuvomboleta"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "adzavomboleta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ממעשרו",
+      "gloss": "chikhumi chake"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "chachisanu cha ichi"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "adzaonjezera"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa ichi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:48:52.478927404Z",
+  "model": "glm-5.3"
+}

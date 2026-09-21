@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo Ahab anaulula kwa Izebeli ⟨את⟩ zonse zimene Eliyahu anachita, ndi ⟨את⟩ zonse zimene anapha — anapha ⟨את⟩ aneneri onse ndi lupanga.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "anaulula"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "kwa Izebeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "anapha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aneneri onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "aneneri"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ndi lupanga"
+    }
+  ],
+  "timestamp": "2026-09-21T08:45:33.537233928Z",
+  "model": "glm-5.3"
+}

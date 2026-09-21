@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo Davide anafunafuna ⟨את⟩ Elohim chifukwa cha mwana; Davide anasala chakudya, analowa, nakhalitsa usiku, nagona pansi pa dziko.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "anafunafuna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "anasala chakudya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "צום",
+      "gloss": "chakudya chausala"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "analowa"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "nakhalitsa usiku"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "nagona"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "pansi pa dziko"
+    }
+  ],
+  "timestamp": "2026-09-21T08:21:48.914758848Z",
+  "model": "glm-5.3"
+}

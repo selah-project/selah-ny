@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 137,
+  "translation": "Pa mtengo wa mpingo uphawi m'mkati mwayo, tinamangira zivengeli zathu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "mtengo wa mpingo uphawi"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "m'mkati mwayo"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "tinamangira"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "zivengeli zathu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:25.409046323Z",
+  "model": "glm-5.3"
+}

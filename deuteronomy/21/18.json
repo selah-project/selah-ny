@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 21:18",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ngati munthu akakhala naye mwana wosokonezeka ndi wosavomereza, sali amvera mawu a bambo ake ndi mawu a mai ake; ndipo atamulanga ⟨את⟩ iye, sadzamvera iwo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akakhala"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kwa munthu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "wosokonezeka"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "ndi wosavomereza"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "sali"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "amvera"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "a bambo ake"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "ndi mawu"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "a mai ake"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "ndipo atamulanga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "iye (mwana)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dzamvera"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:24:24.367393029Z",
+  "model": "glm-5.3"
+}

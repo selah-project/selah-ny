@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo Abishalomi ndi anthu onse a Yisraeli anafika ku Yerushalayimu, ndi Akitofeli anali ⟨את⟩ naye.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "ndipo Abishalomi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi onse a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "באו",
+      "gloss": "anafika"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ku Yerushalayimu"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "ndi Akitofeli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye",
+      "marks": "Abishalomi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:24:14.034909257Z",
+  "model": "glm-5.3"
+}

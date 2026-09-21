@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Iye anamanga ⟨את⟩ Elati, ndipo anadzabwezera ku Yehuda, mfumu atagona ndi makolo ake.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Iye"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anamanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elati"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Elati"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "anadzabwezera"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ku Yehuda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ata… (pambuyo pake)"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "atagona"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "makolo ake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:53:53.924187849Z",
+  "model": "glm-5.3"
+}

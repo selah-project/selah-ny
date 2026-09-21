@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo anapanga kwa nyumbayo madera okhala ndi zidzinga (zojambulidwa mbali zake), zotsekedwa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kwa nyumbayo"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "madera"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "okhala ndi zidzinga (zojambulidwa mbali zake)"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "zotsekedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T08:34:09.630743245Z",
+  "model": "glm-5.3"
+}

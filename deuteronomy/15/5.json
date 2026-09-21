@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 15:5",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Koma ngati umva ndi kumvera bwino mawu a Yahwe Elohim wako, kusunga ndi kuchita ⟨את⟩ lamulo lonse ili limene ine ndikukulamulira lero.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Koma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "umva"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "kumvera bwino"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kusunga"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuchita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lamulo lonse ili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "lamulo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ili"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ndikukulamulira"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    }
+  ],
+  "timestamp": "2026-09-21T07:21:49.805220253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 104,
+  "translation": "Ku kudzudzula kwako amathawa; ku mawu a mkaka wa thanthwe lakutsogolo kwako, amathamanga.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "kudzudzula kwako"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "amathawa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "kukoka kwa mvula yakutsogolo kwako"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "amathamanga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:30.124744796Z",
+  "model": "glm-5.3"
+}

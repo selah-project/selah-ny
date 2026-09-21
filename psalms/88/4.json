@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 88,
+  "translation": "Pakuti moyo wanga wasweta ndi zoipa, ndipo moyo wanga wafika ku Sheoli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "wasweta"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "ndi zoipa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ku Sheoli"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "wafika"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:35.668132439Z",
+  "model": "glm-5.3"
+}

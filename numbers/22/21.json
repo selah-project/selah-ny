@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo Bilam anauka mmawa, nadzapeta ⟨את⟩ bulu wake, nayenda ndi akulu a Mowabu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "anauka"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mmawa"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "nadzapeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bulu wake"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "bulu wake"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nayenda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "akulu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "a Mowabu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:03:00.374400819Z",
+  "model": "glm-5.3"
+}

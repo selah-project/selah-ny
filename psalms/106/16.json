@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Ndipo anadana ndi Moshe m'misasa, ndi Aharoni woyerayo wa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "anadana"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ndi Moshe"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "m'misasa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ndi Aharoni"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "woyerayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:27.514062916Z",
+  "model": "glm-5.3"
+}

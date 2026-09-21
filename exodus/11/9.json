@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Yahwe anati kwa Moshe: “Sadzakumvera inu Paro, kuti zizindikiro zanga zichulukitsidwe m'dziko la Mitsrayimu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "kumvera"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "zichulukitsidwe"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "zizindikiro zanga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:10:26.956805811Z",
+  "model": "glm-5.3"
+}

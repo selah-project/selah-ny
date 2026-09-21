@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Koma ngati kapolo adanena ndi kuyankhula kuti: “Ndakonda ⟨את⟩ mbuye wanga, ⟨את⟩ mkazi wangu ndi ⟨את⟩ ana anga; sindidzatuluka waulere,”",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "koma ngati"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "adanena"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ndi kuyankhula kuti"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "kapolo"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ndakonda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbuye wanga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mbuye wanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkazi wangu"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "mkazi wangu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana anga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana anga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ndidzatuluka"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "waulere"
+    }
+  ],
+  "timestamp": "2026-09-21T12:56:55.566059715Z",
+  "model": "glm-5.3"
+}

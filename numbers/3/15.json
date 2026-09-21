@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Werengani ⟨את⟩ ana a Levi m'nyumba za makolo awo, m'mabanja awo; amuna onse kuchokera mwana wa mwezi umodzi ndi kopambula, muwawerenge.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "Werengani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Levi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "a Levi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "m'nyumba za"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "makolo awo"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "m'mabanja awo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "amuna"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "kuchokera mwana"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "wa mwezi"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ndi kopambula"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "muwawerenge"
+    }
+  ],
+  "timestamp": "2026-09-21T06:50:45.654725783Z",
+  "model": "glm-5.3"
+}

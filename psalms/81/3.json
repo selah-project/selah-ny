@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 81,
+  "translation": "Mukolole nyimbo, mugwire ng'oma, kinora yokongola pamodzi ndi neveli.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Mukolole"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "mugwire"
+    },
+    {
+      "surface": "תף",
+      "gloss": "ng'oma"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinora"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "yokongola"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "neveli"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:37.705753105Z",
+  "model": "glm-5.3"
+}

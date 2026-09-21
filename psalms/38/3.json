@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Pakuti mivi yanu yanditsika mkati mwa ine, ndipo dzanja lanu latsika pa ine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "mivi yanu"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "yanditsika"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mkati mwa ine"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "ndipo latsika"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dzanja lanu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:33.587831336Z",
+  "model": "glm-5.3"
+}

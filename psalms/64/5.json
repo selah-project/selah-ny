@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 64,
+  "translation": "Kulasa m'malo obisika ⟨את⟩ wolungama; mwadzidzidzi ammulasa, ndipo saopa.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "kulasa"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "m'malo obisika"
+    },
+    {
+      "surface": "תם",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "mwadzidzidzi"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "ammulasa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo saopa"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "opa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:26.941990611Z",
+  "model": "glm-5.3"
+}

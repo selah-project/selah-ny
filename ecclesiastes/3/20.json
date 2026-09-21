@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Onse amapita ku malo amodzi; onse analowa m'fumbi, ndipo onse abwerera m'fumbi.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "amapita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "malo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "amoto"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "היה",
+      "gloss": "analowa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "m'"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "fumbi"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "ndipo onse"
+    },
+    {
+      "surface": "שב",
+      "gloss": "abwerera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "m'"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "fumbi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:20.130380917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 146,
+  "translation": "Ndidalemba Yahwe ndekha moyo wanga; ndidazimba nyimbo kwa Elohim wanga poti ndilipo.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Ndidalemba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "moyo wanga unali"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ndidazimba nyimbo"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kwa Elohim wanga"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "poti ndilipo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:48.289629329Z",
+  "model": "glm-5.3"
+}

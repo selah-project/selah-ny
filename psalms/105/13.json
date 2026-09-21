@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Ndipo anayendayenda kuchokera ku mtundu wina kufikira ku mtundu wina, kuchokera mu ufumu kufikira kwa anthu ena.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "anayendayenda"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "kuchokera ku mtundu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kufikira ku"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "mtundu wina"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "kuchokera mu ufumu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kufikira kwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ena"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:16.607980905Z",
+  "model": "glm-5.3"
+}

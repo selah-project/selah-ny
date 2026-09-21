@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Ndipo anazimirana ndi amitundu, naphunzira ntchito zawo.",
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "anazimirana"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ndi amitundu"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "naphunzira"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ntchito zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:55.007919417Z",
+  "model": "glm-5.3"
+}

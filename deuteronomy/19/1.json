@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Pamene Yahwe Elohim wako adzapha ⟨את⟩ amitundu, amene Yahwe Elohim wako akupatsa iwe ⟨את⟩ dziko lawo, ndipo iwe uzawachitira chuma, ukakhala m'mizinda yawo ndi m'nyumba zawo:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pamene"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "adzapha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amitundu"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amitundu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akupatsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko lawo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dziko lawo"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "uzawachitira chuma"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ukakhala"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "m'mizinda yawo"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "m'nyumba zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:23:45.203965893Z",
+  "model": "glm-5.3"
+}

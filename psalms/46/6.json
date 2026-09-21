@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 46,
+  "translation": "Elohim ali mkati mwa ⟨iye⟩, sadzayandayanda; Elohim adzamthandiza pa kufika kwa mamilawa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "mkati mwa iye"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sadza- (kwamalo osatero)"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "yandayanda"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "adzamthandiza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "pa kufika kwa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mamilawa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:45.306768849Z",
+  "model": "glm-5.3"
+}

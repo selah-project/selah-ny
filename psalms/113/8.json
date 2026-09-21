@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 113,
+  "translation": "Kumuika ⟨kukhala⟩ ndi akuluakulu, ndi akuluakulu a anthu ake.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "Kumuika kukhala"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "akuluakulu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "akuluakulu a"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:35.028780630Z",
+  "model": "glm-5.3"
+}

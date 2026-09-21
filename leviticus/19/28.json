@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 19:28",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo kudula kwa munthu ⟨wakufa⟩ musakuike m'thupi lanu, ndipo chilembo chodindika musakuike pa inu; ndine Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושרט",
+      "gloss": "Ndipo kudula"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "kwa munthu wakufa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "kuikani"
+    },
+    {
+      "surface": "בבשרכם",
+      "gloss": "m'thupi lanu"
+    },
+    {
+      "surface": "וכתבת",
+      "gloss": "ndipo chilembo"
+    },
+    {
+      "surface": "קעקע",
+      "gloss": "chodindika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "kuikani"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "pa inu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:48.205385735Z",
+  "model": "glm-5.3"
+}

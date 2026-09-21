@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 146,
+  "translation": "Mzimu wake umatuluka, amatembenukira ku dothi lake; tsiku limenelo magezero ake amatha.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "umatuluka"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "Mzimu wake"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "amatembenukira"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "ku dothi lake"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "limenelo"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "amatha"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "magezero ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:48.289947971Z",
+  "model": "glm-5.3"
+}

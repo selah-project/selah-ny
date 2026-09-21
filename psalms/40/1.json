@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Kwa woyang'anira nyimbo. Ndi Davide. Nyimbo ya vipo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira nyimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Ndi Davide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Nyimbo ya vipo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:48.768458525Z",
+  "model": "glm-5.3"
+}

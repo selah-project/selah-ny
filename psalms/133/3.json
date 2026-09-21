@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 133,
+  "translation": "Monga madontho enthani a Chermonu, amotsika pa mapiri a Tsiyoni; pakuti kumenako Yahweadalamera chidzudzulo ⟨את⟩ madalitso, moyo mpaka ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Monga madontho enthani"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "a Chermonu"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "amotsika"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "a Tsiyoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumenako"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "adalamera chidzudzulo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madalitso"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "madalitso"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka ku"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:48.628783629Z",
+  "model": "glm-5.3"
+}

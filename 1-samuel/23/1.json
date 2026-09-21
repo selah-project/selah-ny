@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo anamuuza Davidi kuti: “Taonani, maPelesheti akulimbana ku Kehila, ndipo iwo akuba ⟨את⟩ malo a kusanza mbewu.”",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "anamuuza"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kuti Davidi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Taonani"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "maPelesheti"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "akulimbana"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "ku Kehila"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ndipo iwo"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "akuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malo a kusanza mbewu"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "malo a kusanza mbewu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:11:40.076123801Z",
+  "model": "glm-5.3"
+}

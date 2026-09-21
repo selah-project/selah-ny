@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "“Ife ndife abale khumi ndi awiri, ana a atate wathu m'modzi; yemmedzi alibe, ndipo wamng'ono lero ali ndi ⟨את⟩ atate wathu m'dziko la Kenana.”",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "abale"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "atate wathu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "m'modzi"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "alibe"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "ndipo wamng'ono"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atate wathu"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "atate wathu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "la Kenana"
+    }
+  ],
+  "timestamp": "2026-09-21T06:03:58.357306826Z",
+  "model": "glm-5.3"
+}

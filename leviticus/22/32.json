@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo musatukwane ⟨את⟩ dzina langa lopatulika; ndipo ndidzikonzedwe opatulika pakati pa ana a Yisraeli; ine ndine Yahwe wakupatulirani inu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ndipo musatukwane"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "kusatukwana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzina langa lopatulika"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dzina"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "langa lopatulika"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "ndipo ndidzikonzedwe opatulika"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "wakupatulirani inu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:22.657789412Z",
+  "model": "glm-5.3"
+}

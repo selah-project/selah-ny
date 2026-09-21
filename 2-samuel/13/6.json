@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 13:6",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo Amnoni anagona, nadzionetsera ngati walwara; ndipo mfumu idalowa kuwona iye. Ndipo Amnoni adati kwa mfumu: “Chonde, Tamaru mlongo wanga alowe, ndipo akonze pamaso panga zakudya ziwiri za mtima, ndipo ndidyetsedwe mu dzanja lake.”",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "anagona"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnoni"
+    },
+    {
+      "surface": "ויתחל",
+      "gloss": "nadzionetsera ngati walwara"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "idalowa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "לראתו",
+      "gloss": "kuwona iye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "alowe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Chonde"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamaru"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "mlongo wanga"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "akonze"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "pamaso panga"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "לבבות",
+      "gloss": "zakudya za mtima"
+    },
+    {
+      "surface": "ואברה",
+      "gloss": "ndidyetsedwe"
+    },
+    {
+      "surface": "מידה",
+      "gloss": "mu dzanja lake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:22:24.595834425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 4:5",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo ana a Rimonu wa ku Beerotu, Rekabi ndi Baanahi, anayenda, nadza pa chotentho cha tsiku ku nyumba ya Ishi-Bosheti, ndipo iye analala ⟨את⟩ malo otulo a usana.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimonu"
+    },
+    {
+      "surface": "הבארתי",
+      "gloss": "wa ku Beerotu"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "Rekabi"
+    },
+    {
+      "surface": "ובענה",
+      "gloss": "ndi Baanahi"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "nadza"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "pa chotentho"
+    },
+    {
+      "surface": "היום",
+      "gloss": "cha tsiku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wa Ishi-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Bosheti"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ndipo iye"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "analala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malo otulo"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "malo otulo"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "a usana"
+    }
+  ],
+  "timestamp": "2026-09-21T08:18:29.603211804Z",
+  "model": "glm-5.3"
+}

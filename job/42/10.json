@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Ndipo Yahwe anabweza ⟨את⟩ umbanda wa Iyobu pamene analimapemphera cha anansi ake; ndipo Yahwe anaonjeza ⟨את⟩ zonse zimene zinali za Iyobu, kawiri.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ndipo Yahwe"
+    },
+    {
+      "surface": "שב",
+      "gloss": "anabweza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umbanda"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "umbanda"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "wa Iyobu"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "pamene analimapemphera"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "cha"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "anansi ake"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ndipo anaonjeza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "zinali za Iyobu"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "kawiri"
+    }
+  ],
+  "timestamp": "2026-09-21T11:48:53.508067784Z",
+  "model": "glm-5.3"
+}

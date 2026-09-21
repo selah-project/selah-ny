@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Woyenera kuyamikidwa — ndidzamuitana Yahwe, ndipo ndidzapulumuka mwa adani anga.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "Woyenera kuyamikidwa"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndidzamuitana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ndipo mwa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "adani anga"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "ndidzapulumuka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:09.638116026Z",
+  "model": "glm-5.3"
+}

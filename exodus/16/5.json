@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo chidzachitika kuti tsiku lachisanu ndi chimodzi adzakonzeka ⟨את⟩ zimene adzabweretsa, ndipo chidzakhala kawiri pa zimene amasonkhanitsa tsiku ndi tsiku.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "chidzachitika kuti"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku la"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "chisanu ndi chimodzi"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "adzakonzeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene adzabweretsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "adzabweretsa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "chidzakhala"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "kawiri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "amasonkhanitsa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ndi tsiku"
+    }
+  ],
+  "timestamp": "2026-09-21T06:16:29.400845933Z",
+  "model": "glm-5.3"
+}

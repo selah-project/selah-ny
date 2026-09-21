@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo Shemuweli anayankhula kwa anthu ⟨את⟩ chilamulo cha ufumu, nalembera m'buku, nachisungitsa pamaso pa Yahwe; ndipo Shemuweli anatuma ⟨את⟩ anthu onse, munthu aliyense ku nyumba yake.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "anayankhula"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chilamulo cha ufumu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chilamulo"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "cha ufumu"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "nalembera"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "m'buku"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "nachisungitsa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "anatuma"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu aliyense"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ku nyumba yake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:03:24.181619386Z",
+  "model": "glm-5.3"
+}

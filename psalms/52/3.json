@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 52,
+  "translation": "Chifukwa chiyani ukudzikuza m'choipa, iwe munthu wa mphamvu? Khesedi kwa El chikhala masana onse.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Chifukwa chiyani"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ukudzikuza"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "m'choipa"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "iwe munthu wa mphamvu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Khesedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa El"
+    },
+    {
+      "surface": "כל",
+      "gloss": "masana onse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "masana onse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:19.092959832Z",
+  "model": "glm-5.3"
+}

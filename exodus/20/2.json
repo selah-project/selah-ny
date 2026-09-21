@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ine ndine Yahwe, Elohim wako, amene ndinakutulutsa m'dzikoli la Mitsrayimu, m'nyumba ya ukapolo.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "ndinakutulutsa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "m'dzikoli"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ya ukapolo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:15:50.207018315Z",
+  "model": "glm-5.3"
+}

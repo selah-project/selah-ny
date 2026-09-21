@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "inde, ngati uitanira lungeno, ndipo ku mvetsetsedwe upereke liwu lako;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "inde"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ku lungeno"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "uitanira"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "ku mvetsetsedwe"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "upereke"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "liwu lako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:19:09.018161062Z",
+  "model": "glm-5.3"
+}

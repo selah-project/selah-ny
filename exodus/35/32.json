@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "ndi kuganiza zipangizo zopangidwa m'golide, m'siliva ndi m'mkuwa.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "ndi kuganiza"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "zipangizo"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "zopangidwa"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "m'golide"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "m'siliva"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "ndi m'mkuwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:27:06.968094466Z",
+  "model": "glm-5.3"
+}

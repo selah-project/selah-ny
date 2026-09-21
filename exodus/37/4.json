@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo anapanga mitsimbo ya mapango a akashya, anaziputa ⟨את⟩ golide.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "mitsimbo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ya mapango"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "a akashya"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "anaziputa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "golide"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    }
+  ],
+  "timestamp": "2026-09-21T06:28:27.761337997Z",
+  "model": "glm-5.3"
+}

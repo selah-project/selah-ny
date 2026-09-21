@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Tsopano atate wango anaikirani pa inu chikwangwa cholemetsa, koma ine ndidzaonjezera pa chikwangwa chanu; atate wango anakwapulani ⟨את⟩ ndi zimbowo, koma ine ndidzakupulani ⟨את⟩ ndi nkhota.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Tsopano"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atate wango"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "anaikirani"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pa inu"
+    },
+    {
+      "surface": "על",
+      "gloss": "chikwangwa"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "cholemetsa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "koma ine"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ndidzaonjezera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "chikwangwa chanu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atate wango"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "anakwapulani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inu"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "ndi zimbowo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "koma ine"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "ndidzakupulani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inu"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "ndi nkhota"
+    }
+  ],
+  "timestamp": "2026-09-21T08:39:48.771556726Z",
+  "model": "glm-5.3"
+}

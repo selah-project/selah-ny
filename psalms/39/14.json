@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Yendetsa ⟨maso ako⟩ ochokera kwa ine, ndipo ndidzakondwera, usanapite ndipo ndisachike.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Yendetsa maso"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ochokera kwa ine"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "ndipo ndidzakondwera"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "usana"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ndipite"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "ndipo ndisachike"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:18.535040165Z",
+  "model": "glm-5.3"
+}

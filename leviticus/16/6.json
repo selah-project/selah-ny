@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo Aharon adzayambira ⟨את⟩ ng'ombe ya tchimo amene ndi wake yekha, naye adzakhululuka m'malo mwake ndi m'malo mwa banja lake.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "adzayambira"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombe"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ya tchimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ndi wake yekha"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "adzakhululuka"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "m'malo mwake"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ndi m'malo mwa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "banja lake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:40:02.572096287Z",
+  "model": "glm-5.3"
+}

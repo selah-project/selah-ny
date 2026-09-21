@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 60,
+  "translation": "Anthu ndi ndani akuti, akuluta ngati mkaka wa mitambo, ndi ngati nkhunda ziyandikira mazenero awo?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "akuti"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "ngati mkaka wa mitambo"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "akuluta"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "ngati nkhunda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ziyandikira"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "mazenero awo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:23:51.495579227Z",
+  "model": "glm-5.3"
+}

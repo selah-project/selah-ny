@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Pakuti chuma sichikhala konse, ndipo ngati chisoti, kwa mibadwo ndi mibadwo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "konse"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "chuma"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ndipo ngati"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "chisoti"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kwa mibadwo"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ndi mibadwo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:27:37.279099286Z",
+  "model": "glm-5.3"
+}

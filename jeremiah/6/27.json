@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 6:27",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndakuyika iwe ngati wowunika <monga> m'anthu anga, <chitetezo>, ndipo uzidziwa, ndipo uzayesa ⟨את⟩ njira yawo.",
+  "tokens": [
+    {
+      "surface": "בחון",
+      "gloss": "wowunika"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "Ndakuyika iwe"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "m'anthu anga"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "<chitetezo>"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "ndipo uzidziwa"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "ndipo uzayesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njira yawo"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "njira yawo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:29:21.608830294Z",
+  "model": "glm-5.3"
+}

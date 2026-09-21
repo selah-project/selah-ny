@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 138,
+  "translation": "La Davide. Ndidzakuyamika iwe ndi mtima wanga wonse; pamaso pa Elohim ndidzakuyimbira iwe nyimbo.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "La Davide"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "Ndidzakuyamika iwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ndi … wonse"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ndidzakuyimbira iwe nyimbo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:44.607188983Z",
+  "model": "glm-5.3"
+}

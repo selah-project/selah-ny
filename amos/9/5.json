@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 9:5",
+  "book": "amos",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Adonayi Yahwe Tsevaoti ndi ⟨Iye⟩ amene akumiza dziko, ndipo limamwedezeka, ndipo adzalira onse okhala m'menemo; ndipo lidzakwera konsekonse monga mtsinje, ndipo litsinkhe monga mtsinje wa Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "Ndipo Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "הנוגע",
+      "gloss": "amene akumiza"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "ותמוג",
+      "gloss": "ndipo limamwedezeka"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "ndipo adzalira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "okhala"
+    },
+    {
+      "surface": "בה",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "ndipo lidzakwera"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "monga mtsinje"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "konsekonse"
+    },
+    {
+      "surface": "ושקעה",
+      "gloss": "ndipo litsinkhe"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "monga mtsinje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:28:20.971285503Z",
+  "model": "glm-5.3"
+}

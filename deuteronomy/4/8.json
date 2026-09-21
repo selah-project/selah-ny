@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 4:8",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo ndi mtundu uti waukulu umene uli ndi malamulo ndi miweruzo wolungama, monga Tora yonse iyi imene ine ndikuperekani pamaso panu lero?",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "Ndipo ndi uti"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "mtundu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "waukulu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨uli⟩ ndi"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "malamulo"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ndi miweruzo"
+    },
+    {
+      "surface": "צדיקם",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "monga yonse"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ndikuperekani"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pamaso panu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    }
+  ],
+  "timestamp": "2026-09-21T07:16:48.177514368Z",
+  "model": "glm-5.3"
+}

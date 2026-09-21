@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo nyumbayo, ndiye hekalu lopatsogolo, inali maamothi makumi anayi.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "makumi anayi"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "maamothi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "inali"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumbayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "hekalu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "lopatsogolo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:33:17.154756950Z",
+  "model": "glm-5.3"
+}

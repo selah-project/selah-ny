@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 2:3",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "ndi kusunga ⟨את⟩ chisungo cha Yahwe Elohim wako, kuyenda m'njira zake, kusunga miyambo yake, malamulo ake, chiweruzo chake ndi mabala ake (umboni), monga zolembedwa mu Tora ya Moshe, kuti ukhale wopambana m'⟨את⟩ zonse umene uzichita ndi pa malo ⟨את⟩ onse umene uzitembenukako;",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "ndi kusunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chisungo cha Yahwe Elohim wako"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "chisungo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kuyenda"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "m'njira zake"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kusunga"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "miyambo yake"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "malamulo ake"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "chiweruzo chake"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "mabala ake (umboni)"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "monga zolembedwa"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "mu Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ya Moshe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תשכיל",
+      "gloss": "ukhale wopambana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse umene uzichita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uzichita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malo onse umene uzitembenukako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "uzitembenukako"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pamenepo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:32:26.429572725Z",
+  "model": "glm-5.3"
+}

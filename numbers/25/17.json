@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Chitisinizeni ⟨את⟩ Amidani, ndipo muwamenge ⟨את⟩ iwo.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "Chitisinizeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amidani"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "Amidani"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "ndipo muwamenge"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-09-21T07:04:11.323427592Z",
+  "model": "glm-5.3"
+}

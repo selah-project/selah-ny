@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 20:16",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo Yehonatani anaika pangano ndi banja la Davidi — ndipo Yahwe adzafuna izi m'manja mwa adani a Davidi.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "anaika pangano"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "banja la"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "adzafuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'manja mwa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "adani a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:10:32.199784398Z",
+  "model": "glm-5.3"
+}

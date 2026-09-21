@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 20:7",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo ndani ndi munthu amene analumbira mkazi ndipo sanamulandire? Apite, nabwerere ku nyumba yake, kuti asafe pa nkhondo, ndipo munthu wina ndiye adzamulandira.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "ndipo ndani"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ארש",
+      "gloss": "analumbira"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sanamulandire"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "sanamulandire"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "apite"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nabwerere"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ku nyumba yake"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kuti asafe"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "asafe"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "pa nkhondo"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ndipo munthu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wina"
+    },
+    {
+      "surface": "יקחנה",
+      "gloss": "adzamulandira"
+    }
+  ],
+  "timestamp": "2026-09-21T07:24:08.862887643Z",
+  "model": "glm-5.3"
+}

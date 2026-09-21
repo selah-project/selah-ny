@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo munthu anaitana maina a nyama zonse za fodya, ndi a mbalame zonse za kumwamba, ndi a nyama zonse za m'tchire; koma kwa munthu sanapezekanso wothandiza woyenera ndi iye.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "anaitana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maina"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "a nyama zonse"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "za fodya"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "ndi a mbalame zonse"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "za kumwamba"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ndi a nyama zonse"
+    },
+    {
+      "surface": "חית",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "za m'tchire"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "koma kwa munthu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sanapezekanso — osati"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "anapeza"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "wothandiza"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "woyenera ndi iye"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:20.016601027Z",
+  "model": "glm-5.3"
+}

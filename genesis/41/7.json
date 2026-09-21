@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 41:7",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Ndipo zikhwa zofoka zinameza ⟨את⟩ zikhwa zisanu ndi zinayi zodzaza ndi zojala; ndipo Paro adadzuka, ndipo taonani, chiloto.",
+  "tokens": [
+    {
+      "surface": "ותבלענה",
+      "gloss": "zinameza"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "zikhwa"
+    },
+    {
+      "surface": "הדקות",
+      "gloss": "zofoka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zikhwa zisanu ndi zinayi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zisanu ndi zinayi"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "zikhwa"
+    },
+    {
+      "surface": "הבריאות",
+      "gloss": "zodzaza"
+    },
+    {
+      "surface": "והמלאות",
+      "gloss": "ndi zojala"
+    },
+    {
+      "surface": "וייקץ",
+      "gloss": "adadzuka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ndipo taonani"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "chiloto"
+    }
+  ],
+  "timestamp": "2026-09-21T06:01:18.082448072Z",
+  "model": "glm-5.3"
+}

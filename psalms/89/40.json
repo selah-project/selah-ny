@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Udanizeruza pangano la kapolo wako, udanyozetsa ku dziko lapansi chilembo chopatulika chake.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "Udanizeruza"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pangano"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "la kapolo wako"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "udanyozetsa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ku dziko lapansi"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "chilembo chopatulika chake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:42.419340124Z",
+  "model": "glm-5.3"
+}

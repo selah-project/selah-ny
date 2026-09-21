@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 5:18",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Tsoka kwa iwo akukokera cholakwa ndi zingalawa za chinyengo, ndipo machimo monga ndi zingalawa za galu.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Tsoka"
+    },
+    {
+      "surface": "משכי",
+      "gloss": "kwa iwo akukokera"
+    },
+    {
+      "surface": "העון",
+      "gloss": "cholakwa"
+    },
+    {
+      "surface": "בחבלי",
+      "gloss": "ndi zingalawa za"
+    },
+    {
+      "surface": "השוא",
+      "gloss": "chinyengo"
+    },
+    {
+      "surface": "וכעבות",
+      "gloss": "ndipo monga zingalawa za"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "galu"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "machimo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:03:30.195186470Z",
+  "model": "glm-5.3"
+}

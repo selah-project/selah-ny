@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Pamene udzagwira ntchito ⟨את⟩ dziko lapansi, sidzaonjeza kupereka mphamvu yake kwa iwe; wosakhalitsa ndi wozungulira udzakhala m'dziko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pamene"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "udzagwira ntchito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko lapansi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "-dzaonjeza"
+    },
+    {
+      "surface": "תת",
+      "gloss": "kupereka"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "mphamvu yake"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "נע",
+      "gloss": "wosakhalitsa"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "wozungulira"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "udzakhala"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:20.086806382Z",
+  "model": "glm-5.3"
+}

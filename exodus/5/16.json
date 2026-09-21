@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 5:16",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Udzu sipatsekidwa kwa akapolo anu, ndipo iwo amati kwa ife: “Pangani njerwa”; ndipo taonani, akapolo anu amenyedwa; ndipo wochimwa ndi anthu anu.”",
+  "tokens": [
+    {
+      "surface": "תבן",
+      "gloss": "Udzu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "si-"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "patsekidwa"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "kwa akapolo anu"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "njerwa"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "amati"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa ife"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Pangani"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "taonani"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "akapolo anu"
+    },
+    {
+      "surface": "מכים",
+      "gloss": "amenyedwa"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "ndipo wochimwa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndi anthu anu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:09:26.109111117Z",
+  "model": "glm-5.3"
+}

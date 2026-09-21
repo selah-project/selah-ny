@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "Pakuti chifuwa ndinadya monga mkate, ndipo chakumwa changa ndinachimanga ndi misozi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "chifuwa"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "monga mkate"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "ndinadya"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "ndipo chakumwa changa"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "ndi misozi"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "ndinachimanga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:44.555745567Z",
+  "model": "glm-5.3"
+}

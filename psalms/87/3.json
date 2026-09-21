@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 87,
+  "translation": "Zolemera zayankhulidwa mwa iwe, mzinda wa Elohim. Selah.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "zolemera"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "zayankhulidwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mwa iwe"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:48.137105783Z",
+  "model": "glm-5.3"
+}

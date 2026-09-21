@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 62:8",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 62,
+  "translation": "Yahwe walumbira ndi dzanja lake lamanja, ndiponso ndi mphamvu ya dzanja lake: Sindidzapatsanso ⟨את⟩ mbewu zako kukhala chakudya ku adani ako, ndiponso ana a alendo sadzamwa vinyo wako watsopano, umene unavutika nako.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "walumbira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "ndi dzanja lake lamanja"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "ndiponso ndi mphamvu ya dzanja"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "lake"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndidzapatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbewu zako"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "mbewu zako"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kanenso"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "chakudya"
+    },
+    {
+      "surface": "לאיביך",
+      "gloss": "ku adani ako"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ndiponso si"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "adzamwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "alendo"
+    },
+    {
+      "surface": "תירושך",
+      "gloss": "vinyo wako watsopano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "unavutika"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nako"
+    }
+  ],
+  "timestamp": "2026-09-21T09:26:03.836438768Z",
+  "model": "glm-5.3"
+}

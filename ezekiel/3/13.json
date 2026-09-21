@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 3:13",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo liwu la mapiko a zolengedwa zamoyo zokhudzana wina ku mnzake, ndi liwu la maopani pafupi ndi iwo, ndi liwu la kugwedezeka kwakukulu.",
+  "tokens": [
+    {
+      "surface": "וקול",
+      "gloss": "ndi liwu"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "la mapiko"
+    },
+    {
+      "surface": "החיות",
+      "gloss": "a zolengedwa zamoyo"
+    },
+    {
+      "surface": "משיקות",
+      "gloss": "zokhudzana"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "wina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "mnzake"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ndi liwu"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "la maopani"
+    },
+    {
+      "surface": "לעמתם",
+      "gloss": "pafupi ndi iwo"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ndi liwu"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "la kugwedezeka"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kwakukulu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:56:50.829129340Z",
+  "model": "glm-5.3"
+}

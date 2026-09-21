@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Mwa iwe makolo athu anakhulupirira; anakhulupirira, ndipo unawapulumutsa.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "mwa iwe"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "anakhulupirira"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "makolo athu"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "anakhulupirira"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "ndipo unawapulumutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:15.139807111Z",
+  "model": "glm-5.3"
+}

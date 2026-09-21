@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 18:8",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Mawu a wakunamiza ali monga zodya zokoma, ndipo zimatsika m'kati m'mimba.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "wakunamiza"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "monga zodya zokoma"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ndipo zimatsika"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "zimatsika"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "m'kati"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "m'mimba"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:40.092468927Z",
+  "model": "glm-5.3"
+}

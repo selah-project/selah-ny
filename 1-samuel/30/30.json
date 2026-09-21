@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "ndipo kwa amene anali ku Chorma, ndi kwa amene anali ku Bor-Ashani, ndi kwa amene anali ku Atachi",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "ndipo kwa amene"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "ku Chorma"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "ndi kwa amene"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "ku Bor-"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashani"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "ndi kwa amene"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "ku Atachi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:13:22.880577637Z",
+  "model": "glm-5.3"
+}

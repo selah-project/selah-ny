@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Kayine adadziwa ⟨את⟩ mkazi wake, ndipo iye anakhala ndi pakati, nabala ⟨את⟩ Khenokhi; ndipo adakhala akumanga mzinda, nayitcha dzina la mzindalo monga ndi dzina la mwana wake Khenokhi.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "adadziwa"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkazi wake"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mkazi wake"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "anakhala ndi pakati"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khenokhi"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khenokhi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "adakhala"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "akumanga"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nayitcha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dzina"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la mzindalo"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "monga ndi dzina"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "la mwana wake"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khenokhi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:46.274070286Z",
+  "model": "glm-5.3"
+}

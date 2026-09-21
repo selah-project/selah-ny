@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 25:23",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo Yahwe anati kwa iye: “Mitundu iwiri ili m'mimba mwako, ndipo amitundu awiri adzapatukana m'matupi mwako; ndipo mtundu ndi wamphamvu kuposa mtundu wina; ndipo wamkulu adzatumikira mng'ono.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iwiri"
+    },
+    {
+      "surface": "גיים",
+      "gloss": "mitundu"
+    },
+    {
+      "surface": "בבטנך",
+      "gloss": "m'mimba mwako"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "amitundu"
+    },
+    {
+      "surface": "ממעיך",
+      "gloss": "m'matupi mwako"
+    },
+    {
+      "surface": "יפרדו",
+      "gloss": "adzapatukana"
+    },
+    {
+      "surface": "ולאם",
+      "gloss": "mtundu"
+    },
+    {
+      "surface": "מלאם",
+      "gloss": "kuposa mtundu wina"
+    },
+    {
+      "surface": "יאמץ",
+      "gloss": "ndi wamphamvu"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "adzatumikira"
+    },
+    {
+      "surface": "צעיר",
+      "gloss": "mng'ono"
+    }
+  ],
+  "timestamp": "2026-09-21T05:52:41.033102705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Nawafunsa kuti: Kodi makhalidwe a munthuyo amene anakwera kukulankhulirani ndi kunena kwa inu ⟨את⟩ mawu awa ndi otani?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Nawafunsa kuti"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kodi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "makhalidwe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "a munthuyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "anakwera"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "kukulankhulirani"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "nanena"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu awa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "awa"
+    }
+  ],
+  "timestamp": "2026-09-21T08:47:54.262597583Z",
+  "model": "glm-5.3"
+}

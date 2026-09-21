@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 114,
+  "translation": "Yahuda yakhala malo ake oyera, Yisraeli ufumu wake",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "yakhala"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "malo ake oyera"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "ufumu wake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:13.808387605Z",
+  "model": "glm-5.3"
+}

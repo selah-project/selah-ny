@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 8:22",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo adzayang'ana pa dziko, ndipo taona, mavuto ndi mdima, kuza kwa chisoni, ndi mdima wakuda wothamangitsidwa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ndipo pa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "adzayang'ana"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "mavuto"
+    },
+    {
+      "surface": "וחשכה",
+      "gloss": "ndi mdima"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "kuza"
+    },
+    {
+      "surface": "צוקה",
+      "gloss": "kwa chisoni"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "ndi mdima wakuda"
+    },
+    {
+      "surface": "מנדח",
+      "gloss": "wothamangitsidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:03:06.028039104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo ulowe kwa mfumu, ndi kulankhula naye monga mawu amenewa.” Ndipo Yoabu anaika ⟨את⟩ mawu m'kamwa mwake.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "Ndipo ulowe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ndi kulankhula"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "monga mawu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "amenewa"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "Ndipo Yoabu anaika"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ndipo Yoabu anaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "m'kamwa mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:22:56.821524391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Koma inu munamwetulira ⟨את⟩ anaziri vinyo, ndipo kwa aneneri munawalamulira nati: Musananene maula.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "munamwetulira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anaziri"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "anaziri"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vinyo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndipo kwa"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "aneneri"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "munawalamulira"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musananene"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "maula"
+    }
+  ],
+  "timestamp": "2026-09-21T10:23:57.583389997Z",
+  "model": "glm-5.3"
+}

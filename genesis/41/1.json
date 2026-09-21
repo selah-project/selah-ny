@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 41:1",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Ndipo pakatha zaka ziwiiri ⟨za masiku⟩, Paro anachita maloto; ndipo taona, iye anayimirira pa mtsinje.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo pakatha"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "pakatha"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "zaka ziwiiri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "ndipo Paro"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "anachita maloto"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ndipo taona"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "anayimirira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "msinje"
+    }
+  ],
+  "timestamp": "2026-09-21T06:01:24.593149828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Nati: “Dza ⟨את⟩ ndi ine, uone kuhasha kwanga kwa Yahwe.” Ndipo anamulingitsa ⟨את⟩ iye pa galimoto yake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Nati"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Dza"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "ndi ine ⟨את⟩"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "uone"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "kuhasha kwanga"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "anamulingitsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "pa galimoto yake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:52:22.916245027Z",
+  "model": "glm-5.3"
+}

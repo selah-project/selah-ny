@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo atamwake, Abdoni mwana wa Hileli, wa ku Piratoni, anaweruza ⟨את⟩ Yisraeli.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "anaweruza"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "atamwake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdoni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hileli"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "wa ku Piratoni"
+    }
+  ],
+  "timestamp": "2026-09-21T07:52:42.446268761Z",
+  "model": "glm-5.3"
+}

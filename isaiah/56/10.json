@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 56:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 56,
+  "translation": "Odikira ake ndi akhungu onse, sadadziwa konse; onse ali agalu achilume, sathathe kulankhula; akulota maloto, akugona, akonda tulo.",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "odikira"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "akhungu"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "onse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "dadziwa"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "onse"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "agalu"
+    },
+    {
+      "surface": "אלמים",
+      "gloss": "achilume"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "thathe"
+    },
+    {
+      "surface": "לנבח",
+      "gloss": "kulankhula"
+    },
+    {
+      "surface": "הזים",
+      "gloss": "akulota maloto"
+    },
+    {
+      "surface": "שכבים",
+      "gloss": "akugona"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "akonda"
+    },
+    {
+      "surface": "לנום",
+      "gloss": "tulo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:21:36.958673308Z",
+  "model": "glm-5.3"
+}

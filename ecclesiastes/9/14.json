@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Mudzi woting'ana, ndi anthu ochepera m'menemo; ndipo mfumu yaikulu idafika kwa iyo, ndipo idazinga ⟨את⟩ iyo, ndipo idamura pa iyo zimminga zazikulu.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "mudzi"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "woting'ana"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "ndi anthu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ochepera"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ndipo idafika"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kwa iyo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "yaikulu"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "ndipo idazinga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyo (mudziwo)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "ndipo idamura"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pa iyo"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "zimminga"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "zazikulu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:14.177990231Z",
+  "model": "glm-5.3"
+}

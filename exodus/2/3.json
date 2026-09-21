@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 2:3",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Koma iye sanathe kumubisanso, nadzigwira chotengera cha mbadwa, nachozera ndi dothi louma ndi ziweto; nayika ⟨את⟩ mwana womwetsumwetsumu, naisa m'kati mwa nsungwi pamaleke a mtsinje.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Koma sanathe"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "kumubisanso"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "koposa"
+    },
+    {
+      "surface": "הצפינו",
+      "gloss": "kumubisa"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "nadzigwira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chake"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "chotengera"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "cha mbadwa"
+    },
+    {
+      "surface": "ותחמרה",
+      "gloss": "nachozera"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "ndi dothi louma"
+    },
+    {
+      "surface": "ובזפת",
+      "gloss": "ndi ziweto"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "nayika"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana womwetsumwetsumu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana womwetsumwetsumu"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "naisa"
+    },
+    {
+      "surface": "בסוף",
+      "gloss": "m'kati mwa nsungwi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "maleke a"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "mtsinje"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:03.557000621Z",
+  "model": "glm-5.3"
+}

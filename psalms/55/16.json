@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 55,
+  "translation": "Chiwonongeko chikhale pa iwo; awonongekawo atsikire m'Sheoli amoyo; pakuti zoipa zili m'malo awo okhala, pakati pawo.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "Chiwonongeko"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "pa iwo"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "atsikire"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheoli"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "amoyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "m'malo awo okhala"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "pakati pawo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:11.137055514Z",
+  "model": "glm-5.3"
+}

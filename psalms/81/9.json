@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 81,
+  "translation": "Imva, anthu anga, ndipo ndidzachitira umboni kwa iwe: Yisraeli, ngati umvamvera ine;",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Imva"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "anthu anga"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ndipo ndidzachitira umboni"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "umvamvera"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:12.468884257Z",
+  "model": "glm-5.3"
+}

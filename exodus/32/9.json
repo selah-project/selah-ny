@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndipo Yahwe anati kwa Moshe: “Ndaona ⟨את⟩ anthu awa, ndipo taona, ndi anthu okakamiza khosi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu awa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ndipo taona"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "okakamiza"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "khosi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndi ⟨anthu okakamiza khosi⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T06:24:52.849647823Z",
+  "model": "glm-5.3"
+}

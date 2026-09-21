@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Monga wapereka lonjezano kwa Elohim, usachedwe kulipira; pakuti mulibe chikondwerero m'opusa; ⟨את⟩ zimene ulonjeza, zilipire.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Monga"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "wapereka"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "lonjezano"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "chedwe"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "kulipira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mulibe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "chikondwerero"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "m'opusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene ulonjeza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ulonjeza"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "zilipire"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:56.660966547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ngati mwini wake ali nazo, sadzawombola; ngati ndi wokodi, wabwera ndi malipiro ake.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "mwini wake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ali nazo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "wombola"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "wokodi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wabwera"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "ndi malipiro ake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:52.706984056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo pamapeto pa zaka makumi awiri, zimene Shelomo anamanga ⟨את⟩ nyumba ya Yahwe ndi ⟨את⟩ nyumba yake —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo zinali"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "pamapeto pa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi awiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anamanga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyumba yake"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:39:54.969863934Z",
+  "model": "glm-5.3"
+}

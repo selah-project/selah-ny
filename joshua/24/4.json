@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo ndinapatsa Yitsakhi ⟨את⟩ Yaakobu ndi ⟨את⟩ Esawu, ndipo ndinapatsa Esawu ⟨את⟩ phiri la Seiri kuti alisenze, koma Yaakobu ndi ana ake anatsika ku Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "ndipo ndinapatsa"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitsakhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakobu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Esawu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esawu"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ndipo ndinapatsa"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esawu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phiri la Seiri"
+    },
+    {
+      "surface": "הר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "la Seiri"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "kuti alisenze"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "iye (phiri la Seiri)"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "koma Yaakobu"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ndi ana ake"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "anatsika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ku Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:45:25.514473411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo ndidzapereka udzu m'minda yanu ya ziweto zanu, ndipo mudzadya ndi kukhala okhuta.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ndipo ndidzapereka"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "udzu"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "m'minda yanu"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "ya ziweto zanu"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ndipo mudzadya"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ndi kukhala okhuta"
+    }
+  ],
+  "timestamp": "2026-09-21T07:18:56.058372723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo Ahabu anatumiza mwa ana onse a Yisraeli, nasonkhanitsa ⟨את⟩ aneneri ku phala la Karmeli.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "anatumiza"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mwa ana onse"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "nasonkhanitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aneneri"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "aneneri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הר",
+      "gloss": "phala"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "la Karmeli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:44:06.335890772Z",
+  "model": "glm-5.3"
+}

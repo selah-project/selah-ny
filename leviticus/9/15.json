@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Nipo anayambitsa ⟨את⟩ nsembe ya anthu, natenga ⟨את⟩ mbuzi yachilombo ya chimoço cha anthu, napha, nayichitira chimoço, monga yoyamba.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "anayambitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe ya anthu"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya anthu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "natenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbuzi yachilombo"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "mbuzi yachilombo"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ya chimoço"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ya anthu"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "napha"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "nayichitira chimoço"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "monga yoyamba"
+    }
+  ],
+  "timestamp": "2026-09-21T06:33:33.798637077Z",
+  "model": "glm-5.3"
+}

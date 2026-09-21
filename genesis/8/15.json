@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo Elohim adalankhula kwa Noa, nati:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ndipo adalankhula"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:37.109893807Z",
+  "model": "glm-5.3"
+}

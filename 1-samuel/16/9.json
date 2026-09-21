@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo Yishayi adaupititsa Shammah kutsogolo; ndipo adati: “Ndipo mwa ameneyu Yahwe sanamusankhe.”",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "adaupititsa kutsogolo"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishayi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Shammah"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo adati"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ndipo"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "mwa ameneyu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "-musankhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:07:43.785821078Z",
+  "model": "glm-5.3"
+}

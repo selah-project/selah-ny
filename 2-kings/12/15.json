@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Pakuti amapereka ⟨ndalama⟩ kwa ochita ntchito, ndipo ndi yomwe analimbikitsa ⟨את⟩ nyumba ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "kwa ochita ntchito"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "amapereka"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "ndipo analimbikitsa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ndi yomwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:53:38.410961189Z",
+  "model": "glm-5.3"
+}

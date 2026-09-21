@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Wotsimbina chidebe adzagwera m'menemo, ndipo wovula khoma adzamuluma njoka.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "Wotsimbina"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "chidebe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "adzagwera"
+    },
+    {
+      "surface": "ופורץ",
+      "gloss": "ndipo wovula"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "khoma"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "adzamuluma"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "njoka"
+    }
+  ],
+  "timestamp": "2026-09-21T11:56:28.664694464Z",
+  "model": "glm-5.3"
+}

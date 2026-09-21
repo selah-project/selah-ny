@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ngati idapedzedwa idapedzedwa, abweretse ⟨iyo⟩ umboni; yapedzedwayi siidzabwezera.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "idapedzedwa"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "idapedzedwa"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "abweretse ⟨iyo⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "umboni"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "yapedzedwayi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sii"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "dzabwezera"
+    }
+  ],
+  "timestamp": "2026-09-21T12:55:51.366955872Z",
+  "model": "glm-5.3"
+}

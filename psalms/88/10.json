@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 88,
+  "translation": "Dzanga lathina chifukwa cha masautso; ndakuitana, Yahwe, tsiku lililonse; ndafazira kwa iwe manja anga.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Dzanga langa"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "lathina"
+    },
+    {
+      "surface": "מני",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "עני",
+      "gloss": "masautso"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ndakuitana iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "lililonse mwa-"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "ndafazira"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "manja anga (kuchokera mmanja)"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:22.250088239Z",
+  "model": "glm-5.3"
+}

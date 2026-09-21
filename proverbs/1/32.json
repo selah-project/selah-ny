@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Pakuti kubwerera m'mbuyo kwa opusa kuwapha, ndi mtendere wa achidumbu kuwaononga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "kubwerera m'mbuyo"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "opusa"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "kuwapha"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "ndi mtendere wa"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "achidumbu"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "kuwaononga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:58.420683978Z",
+  "model": "glm-5.3"
+}

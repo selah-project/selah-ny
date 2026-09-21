@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Anaika mdima kukhala chinsinsi chake, chozungulira iye chihema chake — mdima wa madzi, mitambo yokhwima ya m'mwamba.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "Anaika"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mdima"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "chinsinsi chake"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "chozungulira iye"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "chihema chake"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "mdima wa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "mitambo yokhwima ya"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "m'mwamba"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:40.205194924Z",
+  "model": "glm-5.3"
+}

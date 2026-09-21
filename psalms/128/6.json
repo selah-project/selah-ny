@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 128,
+  "translation": "Ndipo uone ana a ana ako. Mtendere ⟨pa⟩ Yisraeli.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Ndipo uone"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ana"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "a ana ako"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Mtendere"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨pa⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:30.923973038Z",
+  "model": "glm-5.3"
+}

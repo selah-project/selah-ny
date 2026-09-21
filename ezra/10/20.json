@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo a mwa ana a Immeri: Chanani ndi Zebadiya.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "ndipo a mwa ana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a Immeri"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Chanani"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "ndi Zebadiya"
+    }
+  ],
+  "timestamp": "2026-09-21T12:14:36.749037463Z",
+  "model": "glm-5.3"
+}

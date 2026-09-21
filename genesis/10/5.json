@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Kwa amenewa zizilazi za amitundu zinafalikira m'mayiko awo, munthu aliyense m'chilankhulo chake, m'mabanja awo, m'mitundu yawo.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "Kwa amenewa"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "zinafalikira"
+    },
+    {
+      "surface": "איי",
+      "gloss": "zizilazi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "za amitundu"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "m'mayiko awo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu aliyense"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "m'chilankhulo chake"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "m'mabanja awo"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "m'mitundu yawo"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:57.804968645Z",
+  "model": "glm-5.3"
+}

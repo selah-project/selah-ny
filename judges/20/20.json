@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 20:20",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo anthu a Yisraeli anatuluka kukamenya nkhondo ndi Benjamini, ndipo anthu a Yisraeli anaika ndi ⟨את⟩ iwo nkhondo, ku Gibeawa.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "anatuluka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "anthu a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kukamenya nkhondo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamini"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "anaika"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ndi ⟨את⟩ iwo",
+      "marks": "iwo (ana a Benjamini)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "anthu a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "nkhondo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gibeawa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:58:49.600661598Z",
+  "model": "glm-5.3"
+}

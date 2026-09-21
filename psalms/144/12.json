@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 144:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 144,
+  "translation": "Amene ana athu akhale monga zodzala zokoleredwa m'ubwana wawo, ndi ana athu akazi akhale monga miyala ya ngodya yokhomeredwa monga maonekedwe a hekalu (nyumba ya ufumu).",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Amene"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "ana athu"
+    },
+    {
+      "surface": "כנטעים",
+      "gloss": "monga zodzala"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "zokoleredwa"
+    },
+    {
+      "surface": "בנעוריהם",
+      "gloss": "m'ubwana wawo"
+    },
+    {
+      "surface": "בנותינו",
+      "gloss": "ana athu akazi"
+    },
+    {
+      "surface": "כזוית",
+      "gloss": "monga miyala ya ngodya"
+    },
+    {
+      "surface": "מחטבות",
+      "gloss": "yokhomeredwa"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "monga maonekedwe"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "a hekalu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:48.421518575Z",
+  "model": "glm-5.3"
+}

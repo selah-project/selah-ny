@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Adzalowa kwa mbadwa ya makolo ake; kwa muyaya sadzaona kuwala.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "adzalowa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mbadwa"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "ya makolo ake"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "muyaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "dzaona"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kuwala"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:24.946267091Z",
+  "model": "glm-5.3"
+}

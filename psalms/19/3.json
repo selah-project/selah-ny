@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Tsiku ndi tsiku linyake limatulutsa mawu, usiku ndi usiku winayoikuonetsa chidziwitso.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ndi tsiku linyake"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "limatulutsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "usiku ndi usiku winayo"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "ndi usiku winayo"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "ikuonetsa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "chidziwitso"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:05.002200322Z",
+  "model": "glm-5.3"
+}

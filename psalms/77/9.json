@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 77,
+  "translation": "Kodi khesedi wake kunatha ku nthawi zonse? Kodi liwu lake linatha kwa mibadwomibadwo?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "kunatha"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi wake"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "linatha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "liwu lake"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwa mibadwo"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "mibadwomibadwo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:39.166605178Z",
+  "model": "glm-5.3"
+}

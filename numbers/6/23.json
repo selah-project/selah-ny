@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 6:23",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Lankhula kwa Aharoni ndi kwa ana ake, kuti: Mwachitsanzo tero mudzalika ⟨את⟩ ana a Yisraeli; nena kwa iwo kuti:",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Lankhula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi kwa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Mwachitsanzo tero"
+    },
+    {
+      "surface": "תברכו",
+      "gloss": "mudzalika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אמור",
+      "gloss": "nena"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:52:23.270306516Z",
+  "model": "glm-5.3"
+}

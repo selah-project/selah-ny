@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 147,
+  "translation": "Akachiritsa akhanda a mtima, ndi kupatsa mavuto awo chithandizo.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "akachiritsa"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "akhanda a"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "ndi kusokoneza"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "mavuto awo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:02.701405738Z",
+  "model": "glm-5.3"
+}

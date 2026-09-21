@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 93,
+  "translation": "Yahwe walamulira, adavalidwa chikhalire; Yahwe adavala mphamvu, nakhomanitsi mwamsanga; inde, dziko lapansi limalimbika, siligwedezeka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "walamulira"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "chikhalire"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "adavalidwa"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "adavala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mphamvu"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "nakhomanitsi mwamsanga"
+    },
+    {
+      "surface": "אף",
+      "gloss": "inde"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "limalimbika"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ligwedezeka"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:56.443824049Z",
+  "model": "glm-5.3"
+}

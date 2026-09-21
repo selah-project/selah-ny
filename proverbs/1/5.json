@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Munthu wolankhula nzeru adzamva ndi kuwonjezera chiphunzitso, ndi wonde adzapeza machiritu okonzekera ntchito",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "adzamva"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "munthu wolankhula nzeru"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ndi kuwonjezera"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "chiphunzitso"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "ndi wonde"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "machiritu okonzekera ntchito"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "adzapeza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:31.552704309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo pambuyo pake anauka Yairi wa mGiladi, ndipo anaweruza ⟨את⟩ Yisraeli zaka makumi awiri ndi ziwiri.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "anauka"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pambuyo pake"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yairi"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "wa mGiladi"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "anaweruza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi awiri"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ndi ziwiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    }
+  ],
+  "timestamp": "2026-09-21T07:51:35.152829429Z",
+  "model": "glm-5.3"
+}

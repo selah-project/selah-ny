@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Dzanja lake anatambasula kwa wosowa, ndipo anatuma manja ake kwa wochepa zamoyo.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "anatambasula"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "kwa wosowa"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "ndipo manja ake"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "anatuma"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "kwa wochepa zamoyo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:28:50.165844057Z",
+  "model": "glm-5.3"
+}

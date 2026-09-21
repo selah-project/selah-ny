@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 5:8",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "“Ngati ndapeza chisomo maso a mfumu, ndipo ngati kwa mfumu kuli bwino kupatsa ⟨את⟩ pempho langa ndi kuchita ⟨את⟩ funo langa, mfumu ndi Hamani abwere ku phwando chimene ndidzachita kwa iwo, ndipo mawa ndidzachita monga mwa mawu a mfumu.”",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ndapeza"
+    },
+    {
+      "surface": "חן",
+      "gloss": "chisomo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "maso"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a mfumu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ndipo ngati"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kuli bwino"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kupatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pempho langa"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "pempho langa"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ndi kuchita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "funo langa"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "funo langa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "abwere"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ndi Hamani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "phwando"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndidzachita"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "ndipo mawa"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndidzachita"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "monga mwa mawu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a mfumu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:59:52.921180276Z",
+  "model": "glm-5.3"
+}

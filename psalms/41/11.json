@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Koma iwe, Yahwe, ndichitire chifundo, undiyimiritsa, kuti ndidzawalipira iwo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Koma iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ndichitire chifundo"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "undiyimiritsa"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "kuti ndidzawalipira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:51.067555460Z",
+  "model": "glm-5.3"
+}

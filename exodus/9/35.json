@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo mtima wa Paro unali womasula ⟨ukapanda kuchotseka⟩, ndipo sanatuma ⟨את⟩ ana a Yisraeli, monga Yahwe ananena mwa dzanja la Moshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "unali womasula"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sana-"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "-tuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mwa dzanja la"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:10:36.772011106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 66,
+  "translation": "Idani mudziwe ntchito za Elohim; wachitachita zodabwitsa pa ana a anthu.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Idani"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "mudziwe"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "za Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "wachitachita zodabwitsa"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "zodabwitsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:12.720800131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndipo ana a Reuvheni anamanga ⟨את⟩ Cheshboni ndi ⟨את⟩ Elale ndi ⟨את⟩ Kiriyathayimu.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ndipo ana a"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuvheni"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anamanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheshboni"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshboni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Elale"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "Elale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Kiriyathayimu"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kiriyathayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:09:08.770936751Z",
+  "model": "glm-5.3"
+}

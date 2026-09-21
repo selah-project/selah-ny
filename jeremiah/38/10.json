@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 38:10",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Ndipo mfumu inalamulira ⟨את⟩ Eved-Melek Mkhushi, kuti: “Pereka pamodzi ndi iye anthu makumi atatu, ndipo mukweze ⟨את⟩ Yirmeyahu mneneri m'bowa, usanafe.”",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "inalamulira"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eved-Melek"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Eved"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Melek"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "Mkhushi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Pereka"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "m'dzanja lako"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kuno"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "makumi atatu"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "mukweze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mneneri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "m'"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "bowa"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "usana-"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "-fe"
+    }
+  ],
+  "timestamp": "2026-09-21T09:46:33.512228957Z",
+  "model": "glm-5.3"
+}

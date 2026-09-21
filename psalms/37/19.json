@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Sadzamanyizidwa pa nthawi ya choipa, ndipo masiku a njala adzakhala okhutira.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Sa- (sadza)"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "-dzamanyizidwa"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pa nthawi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ya choipa"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "ndipo masiku a"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "njala"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "adzakhala okhutira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:11.088394766Z",
+  "model": "glm-5.3"
+}

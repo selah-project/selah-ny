@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Asanene mu mitima yawo: “Hea, chimene ife tafuna!” Asanene: “Tinamumenya ndi kumume.”",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "asa"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sanene"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "mu mitima yawo"
+    },
+    {
+      "surface": "האח",
+      "gloss": "“Hea”"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "chimene ife tafuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asa"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sanene"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "tinamumenya ndi kumume"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:24.534277669Z",
+  "model": "glm-5.3"
+}

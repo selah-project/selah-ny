@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "chifukwa lamulo pa lamulo, lamulo pa lamulo, mzere pa mzere, mzere pa mzere, pang'ono kumeneko, pang'ono kumeneko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "צו",
+      "gloss": "lamulo"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "pa lamulo"
+    },
+    {
+      "surface": "צו",
+      "gloss": "lamulo"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "pa lamulo"
+    },
+    {
+      "surface": "קו",
+      "gloss": "mzere"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "pa mzere"
+    },
+    {
+      "surface": "קו",
+      "gloss": "mzere"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "pa mzere"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "pang'ono"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "pang'ono"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    }
+  ],
+  "timestamp": "2026-09-21T09:10:36.430302744Z",
+  "model": "glm-5.3"
+}

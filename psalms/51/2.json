@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 51,
+  "translation": "M'mene mneneri Natani anabwera kwa iye, atamulowa ⟨kwa⟩ Bati-Sheva.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "m'mene... anabwera"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natani"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mneneri"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "atamulowa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bati-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:40.646233423Z",
+  "model": "glm-5.3"
+}

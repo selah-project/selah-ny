@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo manja a munthu ali m'manzi mwawo, m'mbuyo mwa ziwalo zawo zinazake; pakuti nkhone zawo ndi mapiko awo zonse zine zawo zinayi.",
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "ndipo manja"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a munthu"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "m'manzi mwawo"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "mapiko awo"
+    },
+    {
+      "surface": "על",
+      "gloss": "m'mbuyo mwa"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "zinazake"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "ziwalo zawo"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "pakuti nkhone zawo"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "ndi mapiko awo"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "zinayi"
+    }
+  ],
+  "timestamp": "2026-09-21T09:53:40.489825048Z",
+  "model": "glm-5.3"
+}

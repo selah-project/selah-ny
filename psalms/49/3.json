@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Ndiponso ana a anthu, ndiponso ana a amuna, pamodzi; wachuma ndi wosasowa.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ndiponso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a anthu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a amuna"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamodzi"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "wachuma"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ndi wosasowa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:37.124655165Z",
+  "model": "glm-5.3"
+}

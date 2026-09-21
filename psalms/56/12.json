@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 56,
+  "translation": "Mwa Elohim ndakhulupirira; sindidzaopa; munthu angandichitire chiyani?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Mwa Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ndakhulupirira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "didzaopa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "angandichitire"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:48.922327132Z",
+  "model": "glm-5.3"
+}

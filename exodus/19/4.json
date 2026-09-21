@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Inu mwona zimene ndinachitira Mitsrayimu, ndipo ndinakwezani ⟨את⟩ inu pa mapiko a mbalame zazikulu, ndipo ndinabweretsani ⟨את⟩ inu kwa ine.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Inu"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "mwona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndinachitira"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "ndipo ndinakwezani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mapiko a"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "mbalame zazikulu"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "ndipo ndinabweretsani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T12:56:30.615048955Z",
+  "model": "glm-5.3"
+}

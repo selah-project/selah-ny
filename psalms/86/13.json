@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 86,
+  "translation": "Pakuti khesedi kwako ndi kukulu kwa ine, ndipo wampulumutsa moyo wanga wochokera ku Sheoli wakuseri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedi kwako"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kukulu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "ndipo wampulumutsa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "ku Sheoli"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "wakuseri"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:01.970576443Z",
+  "model": "glm-5.3"
+}

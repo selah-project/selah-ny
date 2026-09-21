@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo dziko lapansi linagwedezeka, linachitachita; maziko a mapiri anavutika, anagwedezekadi — pakuti mkwiyo unawirira iye.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "Ndipo linagwedezeka"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "linachitachita"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "maziko"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "a mapiri"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "anavutika"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "anagwedezekadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "mkwiyo unawirira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:33.866804891Z",
+  "model": "glm-5.3"
+}

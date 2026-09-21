@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Pakuti ndinasunga njira za Yahwe, ndipo sindinachimwira kokakamiza ⟨kuchoka⟩ kwa Elohim wanga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ndinasunga"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "njira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "za Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sindina"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "chimwira kokakamiza"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "kwa Elohim wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:12.202012129Z",
+  "model": "glm-5.3"
+}

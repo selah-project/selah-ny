@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo ndidzaika ⟨את⟩ mizi yanu kukhala yathayo, ndipo ndidzaonongeradi ⟨את⟩ malo anu opatulika, ndipo sindidzamva ⟨kununkha⟩ kwa zopereka zanu zam'veke.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ndipo ndidzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizi yanu"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "mizi yanu"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "kukhala yathayo"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "ndipo ndidzaonongeradi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malo anu opatulika"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "malo anu opatulika"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sichidzakhala"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "kumva"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "kununkha"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "kwa zopereka zanu zam'veke"
+    }
+  ],
+  "timestamp": "2026-09-21T06:48:10.600363468Z",
+  "model": "glm-5.3"
+}

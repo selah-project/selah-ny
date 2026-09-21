@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo mnungwi amene adzamudzodza ⟨את⟩ iye, ndi amene adzazaza ⟨את⟩ dzanja lake kuti akhale mnungwi m'malo mwa atate wake, adzakuchotsera machimo, ndipo adzavala ⟨את⟩ zovala za nsanga, zovala zopatulika.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "adzakuchotsera machimo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mnungwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "adzamudzodza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "iye (mnungwiyo)"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ndi amene"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "adzazaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzanja lake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kuti akhale mnungwi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "m'malo mwa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atate wake"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "adzavala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zovala za nsanga"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "zovala"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "za nsanga"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "zovala"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "zopatulika"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:10.478067818Z",
+  "model": "glm-5.3"
+}

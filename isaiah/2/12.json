@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 2:12",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Pakuti tsiku la Yahwe Tsevaoti lidzadza pa zonse zodzikuza ndi zokwezedwa, ndipo pa zonse zokwezedwa; ndipo zidzachepetsedwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "zodzikuza"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ndi zokwezedwa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndipo pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "zokwezedwa"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "zidzachepetsedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:00:55.753095539Z",
+  "model": "glm-5.3"
+}

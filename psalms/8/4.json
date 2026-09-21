@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Popeza ndimaona kumwamba kako, ntchito za zala zako, mwezi ndi nyenyezi, zimene uninatsimikizira —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Popeza"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ndimaona"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "kumwamba kako"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ntchito za"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "zala zako"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "mwezi"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "ndi nyenyezi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "uninatsimikizira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:09.558367635Z",
+  "model": "glm-5.3"
+}

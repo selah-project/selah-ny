@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ngati kuwala kotsutsana pakati pa anthu, ndipo afike ku chiweruzo, ndipo aweruze iwo, ndipo alungitsitse ⟨את⟩ wolungama, ndipo aweruzire ⟨את⟩ woipa,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuwala"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "kotsutsana"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "ndipo afike"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "chiweruzo"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "ndipo aweruze iwo"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "ndipo alungitsitse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wolungama"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "ndipo aweruzire woipa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "woipa"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "woipa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:26:04.538814888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo ndidzayeretsa ⟨את⟩ hema ya kukomana ndi ⟨את⟩ guwa la nsembe; ndi ⟨את⟩ Aharoni ndi ⟨את⟩ ana ake ndidzawayeretsa kukhala ansembe a ine.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "ndidzayeretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hema ya kukomana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kukomana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "guwa la nsembe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa la nsembe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana ake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "ndidzawayeretsa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kukhala ansembe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a ine"
+    }
+  ],
+  "timestamp": "2026-09-21T06:22:22.284907186Z",
+  "model": "glm-5.3"
+}

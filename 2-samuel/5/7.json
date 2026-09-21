@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Koma Davide anagwira ⟨את⟩ chitetezo cha Tsiyoni — ndicho mzinda wa Davide.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "anagwira"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chitetezo cha Tsiyoni"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "chitetezo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ndicho"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa Davide"
+    }
+  ],
+  "timestamp": "2026-09-21T08:19:19.788912790Z",
+  "model": "glm-5.3"
+}

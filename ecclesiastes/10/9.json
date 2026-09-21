@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Wosuntha miyala adzavutika ndi iwo, ndipo wophwanga mitengo adzaopsedwa ndi iwo.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "wosuntha"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "miyala"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "adzavutika"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ndi iwo"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "wophwanga"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "mitengo"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "adzaopsedwa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ndi iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:56:35.144439382Z",
+  "model": "glm-5.3"
+}

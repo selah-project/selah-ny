@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "Masiku ake akhale pang'ono, ndipo wina atenge udindo wake.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "akhale"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "masiku ake"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "pang'ono"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "udindo wake"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "atenge"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wina"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:50.952488862Z",
+  "model": "glm-5.3"
+}

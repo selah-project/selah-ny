@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Musawaope ayi; kumbukira, kumbukira ⟨את⟩ zimene Yahwe Elohim wanu anachitira Paro ndi Mitsrayimu lonse.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "Musawaope"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kumbukira"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "kumbukira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachitira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu lonse"
+    }
+  ],
+  "timestamp": "2026-09-21T07:17:43.183719783Z",
+  "model": "glm-5.3"
+}

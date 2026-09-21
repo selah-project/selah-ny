@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Pakuti moyo wake, m'moyo mwake, umadalitsa; ndipo adzakuyamika iwe, pakuti wachitira bwino kwa iwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "m'moyo mwake"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "umadalitsa"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "adzakuyamika iwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "wachitira bwino"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:24.946123625Z",
+  "model": "glm-5.3"
+}

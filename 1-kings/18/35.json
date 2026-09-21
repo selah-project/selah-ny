@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo madziwo anayenda kozungulira guwolo, ndipo anadzazanso ⟨את⟩ chikhomo cha guwolo ndi madzi.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "המים",
+      "gloss": "madziwo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kozungulira"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "guwolo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikhomo cha guwolo"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "chikhomo cha guwolo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "anadzaza"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:43:53.646731282Z",
+  "model": "glm-5.3"
+}

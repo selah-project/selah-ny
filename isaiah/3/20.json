@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 3:20",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Zisoti za mutu, ndi mizinga ya mapazi, ndi madeya, ndi nyumba za moyo (zipatso za mankhwala), ndi zirikiti.",
+  "tokens": [
+    {
+      "surface": "הפארים",
+      "gloss": "Zisoti za mutu"
+    },
+    {
+      "surface": "והצעדות",
+      "gloss": "ndi mizinga ya mapazi"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "ndi madeya"
+    },
+    {
+      "surface": "ובתי",
+      "gloss": "ndi nyumba za"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "והלחשים",
+      "gloss": "ndi zirikiti"
+    }
+  ],
+  "timestamp": "2026-09-21T09:02:53.383904409Z",
+  "model": "glm-5.3"
+}

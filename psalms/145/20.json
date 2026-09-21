@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 145,
+  "translation": "Yahwe amasunga ⟨את⟩ onse akumukonda, koma ⟨את⟩ onse osalungama adzawaononga.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "amasunga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onse akumukonda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "akumukonda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "koma ⟨את⟩",
+      "marks": "onse osalungama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "osalungama"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "adzawaononga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:34.606433342Z",
+  "model": "glm-5.3"
+}

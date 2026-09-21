@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 18:5",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Pakuti patsogolo pa zokwatula, pamene duwa latha, ndipo mphesa wouma adzakwaniritsidwa, duwa lidzakhala; adzadula nthambi zazing'ono ndi maleta odula, ndipo ⟨את⟩ nthambi zazambiri adzachotsa, adzadula.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "patsogolo pa"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "zokwatula"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "pamene … latha"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "duwa"
+    },
+    {
+      "surface": "ובסר",
+      "gloss": "ndipo mphesa wouma"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "adzakwaniritsidwa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lidzakhala"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "duwa"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "adzadula"
+    },
+    {
+      "surface": "הזלזלים",
+      "gloss": "nthambi zazing'ono"
+    },
+    {
+      "surface": "במזמרות",
+      "gloss": "ndi maleta odula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nthambi zazambiri"
+    },
+    {
+      "surface": "הנטישות",
+      "gloss": "nthambi zazambiri"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "adzachotsa"
+    },
+    {
+      "surface": "התז",
+      "gloss": "adzadula"
+    }
+  ],
+  "timestamp": "2026-09-21T09:08:49.234725522Z",
+  "model": "glm-5.3"
+}

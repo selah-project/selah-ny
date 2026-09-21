@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 96,
+  "translation": "Perekani kwa Yahwe ulemerero wa Dzina lake; katundwani nsembe ndipo lowani m'mabwalo ake.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Perekani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ulemerero"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "wa Dzina lake"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "katundwani"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ndipo lowani"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "m'mabwalo ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:08.232361401Z",
+  "model": "glm-5.3"
+}

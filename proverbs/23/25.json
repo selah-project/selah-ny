@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Atasekerere atate wako ndi amayi wako, ndipo wakubala iwe akhale ndi chikondwerero.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "atasekerere"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atate wako"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "ndi amayi wako"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ndipo akhale ndi chikondwerero"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "wakubala iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:25:34.541505159Z",
+  "model": "glm-5.3"
+}

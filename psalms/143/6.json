@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 143,
+  "translation": "Nditatula manja anga kwa iwe; moyo wanga ngati dziko losowa madzi kwa iwe. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "Nditatula"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "manja anga"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "ngati dziko"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "losowa madzi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah."
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:22.536022290Z",
+  "model": "glm-5.3"
+}

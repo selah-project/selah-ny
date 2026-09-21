@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 32:36",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndipo ⟨את⟩ Beti-Nimra, ndi ⟨את⟩ Beti-Harani, midzi ya mphamvu, ndi zotetezera za nkhosa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Beti-Nimra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "נמרה",
+      "gloss": "Nimra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Beti-Harani"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harani"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "midzi ya"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "mphamvu"
+    },
+    {
+      "surface": "וגדרת",
+      "gloss": "ndi zotetezera za"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nkhosa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:09:31.322498680Z",
+  "model": "glm-5.3"
+}

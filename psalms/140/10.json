@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 140,
+  "translation": "Mutu wa akundizungulira — mavuto a milomo yawo adzawazungira ⟨iwo⟩.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "akundizungulira"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mavuto"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "milomo yawo"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "adzawazungira"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:05.493309337Z",
+  "model": "glm-5.3"
+}

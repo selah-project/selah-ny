@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Ndipo Yosefe anayankha ⟨את⟩ Paro, nati: “Si mwa ine; Elohim adzayankha ⟨את⟩ mtendere wa Paro.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "anayankha"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "Si mwa ine"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "adzayankha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtendere wa Paro"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mtendere"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paro"
+    }
+  ],
+  "timestamp": "2026-09-21T06:01:57.254318020Z",
+  "model": "glm-5.3"
+}

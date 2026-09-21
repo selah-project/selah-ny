@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "“Ndipo nyumba yonse ya Ahabi idzatha; ndipo ndidzadula kwa Ahabi wolala mkodzo pa khoma, wotsekedwa ndi wosala m'Yisraeli.”",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "idzatha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabi"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ndipo ndidzadula"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "kwa Ahabi"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "wolala mkodzo"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "pa khoma"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "wotsekedwa"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "wosala"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "m'Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:50:48.920472416Z",
+  "model": "glm-5.3"
+}

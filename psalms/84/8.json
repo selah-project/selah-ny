@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 84,
+  "translation": "Amayenda kuchokera ku mphamvu kuluta ku mphamvu; adzaonekera kwa Elohim m'Tsiyoni.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "Amayenda"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "kuchokera ku mphamvu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuluta ku"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mphamvu"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "adzaonekera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "m'Tsiyoni"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:17.242746457Z",
+  "model": "glm-5.3"
+}

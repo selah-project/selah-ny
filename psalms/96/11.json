@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 96,
+  "translation": "Kumwamba kudzakondwera, ndipo dziko lapansi lidzaseka mtima; nyanja idzabangula, ndi zodzaza zake zonse.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "kudzakondwera"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Kumwamba"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ndipo... lidzaseka mtima"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "idzabangula"
+    },
+    {
+      "surface": "הים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ndi zodzaza zake zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:58.237872481Z",
+  "model": "glm-5.3"
+}

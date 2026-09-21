@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Yahwe Elohim wanga, ngati ndinachita ichi, ngati pali chosalungama m'manja mwanga:",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndinachita"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "יש",
+      "gloss": "pali"
+    },
+    {
+      "surface": "עול",
+      "gloss": "chosalungama"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "m'manja mwanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:48.316064805Z",
+  "model": "glm-5.3"
+}

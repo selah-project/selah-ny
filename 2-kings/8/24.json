@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 8:24",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo Yoram anagona ndi makolo ake, nam'khatiza ndi makolo ake m'mudzi wa Davide; ndipo mwana wake Ahaziyahu anachita ufumu m'malo mwake.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "anagona"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Yoram"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "makolo ake"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "nam'khatiza"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "makolo ake"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "m'mudzi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa Davide"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "anachita ufumu"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahaziyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "m'malo mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:50:58.967331059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 117,
+  "translation": "Lemezani ⟨את⟩ Yahwe, anthu a mitundu yonse; mulemekezeni iye, mitundu yonse ya anthu.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lemezani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "anthu a mitundu"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "mulemekezeni iye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "mitundu yonse ya anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:08:55.624120333Z",
+  "model": "glm-5.3"
+}

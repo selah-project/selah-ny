@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Koma muope ⟨את⟩ Yahwe, ndipo mumutumikire ⟨אתו⟩ mwoona mtima ndi mtima wanu wonse; pakuti muone ⟨את⟩ zimene wakuchita zazikulu kwa inu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Koma"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "muope"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "ndipo mumutumikire"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "mwoona mtima"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ndi wonse"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "mtima wanu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "muone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene wakuchita zazikulu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "wakuchita zazikulu"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "kwa inu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:05:17.579567653Z",
+  "model": "glm-5.3"
+}

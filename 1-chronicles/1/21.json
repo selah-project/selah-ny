@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "ndi ⟨את⟩ Hadoramu, ndi ⟨את⟩ Uzali, ndi ⟨את⟩ Diklahi",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Hadoramu"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadoramu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Uzali"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Uzali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Diklahi"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Diklahi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:22:25.026409770Z",
+  "model": "glm-5.3"
+}

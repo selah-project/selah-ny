@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo ⟨את⟩ golide, kulemera, kwa matebulo a chakudya choyikhirapo, tebulo ndi tebulo; ndi siliva kwa matebulo a siliva",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "golide"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "kulemera"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "kwa matebulo"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "a chakudya choyikhirapo"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "tebulo"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "ndi tebulo"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ndi siliva"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "kwa matebulo"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "a siliva"
+    }
+  ],
+  "timestamp": "2026-09-21T12:35:28.191391563Z",
+  "model": "glm-5.3"
+}

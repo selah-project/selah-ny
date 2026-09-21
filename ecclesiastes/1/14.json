@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndinaona ⟨את⟩ ntchito zonse zochitidwa pansi pa dzuwa; ndipo taona, zonse ndi heberi ndi kusautsa mzimu.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ndinaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntchito zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "zochitidwa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dzuwa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ndipo taona"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "heberi"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ndi kusautsa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:04.968374387Z",
+  "model": "glm-5.3"
+}

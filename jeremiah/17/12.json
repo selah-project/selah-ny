@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 17:12",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Mpando wa ulemerero, wapamwamba kuyambira chiyambi, ndiwo malo a malo opatulika athu.",
+  "tokens": [
+    {
+      "surface": "כסא",
+      "gloss": "Mpando"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "wa ulemerero"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "wapamwamba"
+    },
+    {
+      "surface": "מראשון",
+      "gloss": "kuyambira chiyambi"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "malo a"
+    },
+    {
+      "surface": "מקדשנו",
+      "gloss": "malo opatulika athu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:34:40.897434374Z",
+  "model": "glm-5.3"
+}

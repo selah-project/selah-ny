@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo Davidi anati kwa agiboni: Chiyani ndidzakuchitani kwa inu, ndi chiyani ndidzakapirira, kuti mudalitse ⟨את⟩ cholowa cha Yahwe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "agiboni"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Chiyani"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndidzakuchitani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "ndi chiyani"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "ndidzakapirira"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "mudalitse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cholowa cha Yahwe"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "cholowa cha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:28:00.466526780Z",
+  "model": "glm-5.3"
+}

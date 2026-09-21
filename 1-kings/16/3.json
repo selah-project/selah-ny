@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "taona, ine ndidzawapsa mtima Baasha ndi nyumba yake yonse, ndipo ndidzaika ⟨את⟩ nyumba yako monga nyumba ya Yarobeamu mwana wa Nebati.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "taona, ine"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "ndidzawapsa mtima"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "−"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake yonse"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ndipo ndidzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba yako"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nyumba yako"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "monga nyumba ya"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebati"
+    }
+  ],
+  "timestamp": "2026-09-21T08:42:38.601154541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 112,
+  "translation": "Mtima wake ndi wotsimikizika, sadzaopa, kufikira atapenya ⟨odani ake⟩.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "wotsimikizika"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "mtima wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "opa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ata"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "penya"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "odani ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:05.144949126Z",
+  "model": "glm-5.3"
+}

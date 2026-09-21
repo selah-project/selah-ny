@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo mfumukazi ya Sheba adamva za ⟨את⟩ mbiri ya Shelomo ⟨za dzina la Yahwe⟩, nadza kumuyesa iye ndi zidziwitso zachinsinsi.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "ndipo mfumukazi ya"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "adamva za"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbiri"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mbiri"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ya Shelomo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "za dzina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "nadza"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "kumuyesa iye"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "ndi zidziwitso zachinsinsi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:36:52.564671969Z",
+  "model": "glm-5.3"
+}

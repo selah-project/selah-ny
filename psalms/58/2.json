@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 58,
+  "translation": "Kodi inu, achete, munenedetsa zenizeni chilungamo? Kodi muweruza molungama, inu ana a anthu?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "Kodi zenizeni"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "achete"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "chilungamo"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "munenedetsa"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "molungama"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "muweruza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:43.507591127Z",
+  "model": "glm-5.3"
+}

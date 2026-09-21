@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Yense amene apezedwa adzamangidwa ndi lupanga, ndipo yense wodziwidwa adzagwa m'dzanja la mnkhondo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yense"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "amene apezedwa"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "adzamangidwa ndi lupanga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo yense"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "wodziwidwa"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "adzagwa"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "m'dzanja la mnkhondo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:05:20.932104984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo Achazi anatenga ⟨את⟩ siliva ndi ⟨את⟩ golide chimene chinapezeka m'nyumba ya Yahwe ndi m'zikhwangwani za nyumba ya mfumu, natumiza kwa mfumu ya Ashuntu — mphatso.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siliva"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "golide"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "chinapezeka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "ndi m'zikhwangwani"
+    },
+    {
+      "surface": "בית",
+      "gloss": "za nyumba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mfumu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "natumiza"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kwa mfumu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ya Ashuru"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "mphatso"
+    }
+  ],
+  "timestamp": "2026-09-21T08:57:27.680261429Z",
+  "model": "glm-5.3"
+}

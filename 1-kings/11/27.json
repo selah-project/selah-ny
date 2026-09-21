@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 11:27",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo ichi ndi chifukwa chimene anayamutsa dzanja <pa> mfumu: Shelomo anamanga ⟨את⟩ Millo, natseka ⟨את⟩ chikhomo cha mzinda wa Davide, atate wake.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Ndipo ichi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "anayamutsa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dzanja"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "<pa> mfumu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anamanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Millo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "natseka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikhomo"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "chikhomo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa Davide"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atate wake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:39:41.595293398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Davide adamva, nadatumiza ⟨את⟩ Yowabu ndi ⟨את⟩ gulu lonse la amphawi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "adamva"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "nadatumiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yowabu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "gulu lonse la amphawi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "gulu"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "la amphawi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:31:48.458229487Z",
+  "model": "glm-5.3"
+}

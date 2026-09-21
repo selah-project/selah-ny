@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo ndidzamvaitsa ⟨את⟩ mbadwa ya Davidi chifukwa cha ichi, koma osati masiku onse.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "Ndipo ndidzamvaitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbadwa ya Davidi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbadwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya Davidi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "koma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "osati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "masiku"
+    }
+  ],
+  "timestamp": "2026-09-21T08:39:20.339997227Z",
+  "model": "glm-5.3"
+}

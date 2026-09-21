@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo Moshe anawerenga ⟨את⟩ iwo monga mawu a Yahwe, monga momwe analamulidwa.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Ndipo anawerenga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo (ana a Levi)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "monga"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "analamulidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:50:45.654859958Z",
+  "model": "glm-5.3"
+}

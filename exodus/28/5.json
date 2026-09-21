@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo iwo adzatenga ⟨את⟩ zahavu ndi ⟨את⟩ tekeleti ndi ⟨את⟩ argamani ndi ⟨את⟩ tolaati ya shani ndi ⟨את⟩ sheshi.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Ndipo iwo"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "adzatenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zahavu"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zahavu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "tekeleti"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "tekeleti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "argamani"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "argamani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "tolaati ya shani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolaati"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya shani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "sheshi"
+    },
+    {
+      "surface": "השש",
+      "gloss": "sheshi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:21:06.735190050Z",
+  "model": "glm-5.3"
+}

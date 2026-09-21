@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 7:16",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo olowera, analowa, amuna ndi akazi, za thupi lonse, monga momwe Elohim adamulamulira ⟨את⟩ iye; ndipo Yahwe anamtseka m'kati mwake.",
+  "tokens": [
+    {
+      "surface": "והבאים",
+      "gloss": "Ndipo olowera"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "amuna"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ndi akazi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "za lonse"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "thupi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "analowa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "adamulamulira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "Noa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "ndipo anamtseka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "m'kati mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:26.495986625Z",
+  "model": "glm-5.3"
+}

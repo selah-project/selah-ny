@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 21:8",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo Yahwe anati kwa Moshe: “Panga kwa iwe njoka yamoto, ndipo uiike ⟨אתו⟩ pa mtanda; ndipo kudzakhala kuti aliyense wolumidwa, poona iye ⟨אתו⟩, adzakhala ndi moyo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "panga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "njoka yamoto"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "ndipo uiike"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iyo njoka yamoto"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נס",
+      "gloss": "mtanda"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ndipo kudzakhala kuti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "הנשוך",
+      "gloss": "wolumidwa"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "poona"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iye njoka yamoto"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "adzakhala ndi moyo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:59:36.410754225Z",
+  "model": "glm-5.3"
+}

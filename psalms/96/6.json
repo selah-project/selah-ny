@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 96,
+  "translation": "Ulemerero ndi chikondwerero pamaso pake; mphamvu ndi kukongola m'malo opatulika ake.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Ulemerero"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ndi chikondwerero"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pamaso pake"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mphamvu"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "ndi kukongola"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "m'malo opatulika ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:08.232092978Z",
+  "model": "glm-5.3"
+}

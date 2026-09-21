@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo adzabweretsa kuchokera mmenemo nsembe yake, nsembe ya moto kwa Yahwe: ⟨את⟩ mafuta okudza ⟨את⟩ matumbo, ndi ⟨את⟩ mafuta onse amene ali pa matumbo.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "adzabweretsa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuchokera mmenemo"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "nsembe yake"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nsembe ya moto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "okudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matumbo"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "matumbo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mafuta onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene ali"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "matumbo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:40.695925316Z",
+  "model": "glm-5.3"
+}

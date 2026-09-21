@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 43:4",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 43,
+  "translation": "Chifukwa unali wokomeka maso anga, unalemekezedwa, ndipo ine ndakukonda; chifukwa chake ndidzapatsa anthu m'malo mwako, ndipo mitundu m'malo mwa moyo wako.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "Chifukwa"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "unali wokomeka"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "maso anga"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "unalemekezedwa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ndipo ine"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "ndakukonda"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ndidzapatsa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "m'malo mwako"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ndipo mitundu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "m'malo mwa"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moyo wako"
+    }
+  ],
+  "timestamp": "2026-09-21T09:18:48.583014451Z",
+  "model": "glm-5.3"
+}

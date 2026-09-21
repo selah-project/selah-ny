@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 147,
+  "translation": "Amene apereka chilungo monga ubwezwa, chisanu monga phulusa amasaza.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Amene apereka"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "chilungo"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "monga ubwezwa"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "chisanu"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "monga phulusa"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "amasaza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:06.475373584Z",
+  "model": "glm-5.3"
+}

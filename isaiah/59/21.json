@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 59:21",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 59,
+  "translation": "Koma ine, ili ndi pangano langa ⟨את⟩ ndi iwo, ati Yahwe: mzimu wanga wokhala pa iwe, ndi mawu anga amene ndaika m'kamwa mwako, sadzachoka m'kamwa mwako, kapena m'kamwa mwa mbewu yako, kapena m'kamwa mwa mbewu ya mbewu yako, ati Yahwe, kuyambira tsopano mpaka ku chikhalire.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Koma ine"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ili"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "pangano langa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ndi iwo",
+      "marks": "iwo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mzimu wanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wokhala"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pa iwe"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "ndi mawu anga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "ndaika"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "m'kamwa mwako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "choka"
+    },
+    {
+      "surface": "מפיך",
+      "gloss": "m'kamwa mwako"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "kapena m'kamwa mwa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbewu yako"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "kapena m'kamwa mwa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbewu ya"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbewu yako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kuyambira tsopano"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpaka ku"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "chikhalire"
+    }
+  ],
+  "timestamp": "2026-09-21T09:23:43.352497022Z",
+  "model": "glm-5.3"
+}

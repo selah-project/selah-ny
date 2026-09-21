@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Musamusiye iye, ndipo iye adzakusunga; mukonde iye, ndipo iye adzakuteteza.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musamu-"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "siye iye"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "ndipo iye adzakusunga"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "mukonde iye"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "ndipo iye adzakuteteza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:18:27.866384647Z",
+  "model": "glm-5.3"
+}

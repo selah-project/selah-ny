@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Pakuti wokhala ku Maroti anayembekezera zabwino; chifukwa choipa chatsika kwa Yahwe ⟨את⟩, mpaka khomo la Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "anayembekezera"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "zabwino"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "wokhala"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "ku Maroti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "chatsika"
+    },
+    {
+      "surface": "רע",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kwa ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "mpaka khomo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "la Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:29:06.736386203Z",
+  "model": "glm-5.3"
+}

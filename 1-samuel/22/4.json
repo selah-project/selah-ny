@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo adaikitsa ⟨את⟩ pamaso pa mfumu ya Moabu; ndipo anakhala pamodzi ndiye masiku onse a kukhala kwa Davidi malo odzikitira.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "adaikitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pamaso pa mfumu ya Moabu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamodzi ndiye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse a"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "היות",
+      "gloss": "kukhala kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "malo odzikitira"
+    }
+  ],
+  "timestamp": "2026-09-21T08:12:23.148352177Z",
+  "model": "glm-5.3"
+}

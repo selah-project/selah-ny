@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 75,
+  "translation": "Pakuti sikuchokera kum'mawa kapena kumadzulo, ndiponso sikuchokera ku chipululu, kudzikuza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "kum'mawa"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "kapena kumadzulo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndiponso si-"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ku chipululu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kudzikuza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:01.844689493Z",
+  "model": "glm-5.3"
+}

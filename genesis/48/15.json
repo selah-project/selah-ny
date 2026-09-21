@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 48:15",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 48,
+  "translation": "Ndipo anadalitsa ⟨את⟩ Yosefe, nati: “HaElohim amene makolo anga anayenda pamaso pake, Avraham ndi Yitshaka, HaElohim wamasamalira ⟨את⟩ ine ngati mbusa kuyambira nthawi yoperekedwa kwanga mpaka tsiku lino:",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "anadalitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "התהלכו",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "makolo anga"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pamaso pake"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "ndi Yitshaka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "wamasamalira ngati mbusa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ine",
+      "marks": "ine"
+    },
+    {
+      "surface": "מעודי",
+      "gloss": "kuyambira nthawi yoperekedwa kwanga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lino"
+    }
+  ],
+  "timestamp": "2026-09-21T06:05:48.676131356Z",
+  "model": "glm-5.3"
+}

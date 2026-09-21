@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo ndidzalitira iwo akulitira iwe, koma iwo akutukwanira iwe ndidzawatukwira; ndipo mwa iwe midzi yonse ya dziko lapansi idzadalitsidwa.”",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "ndipo ndidzalitira"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "iwo akulitira iwe"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "koma iwo akutukwanira iwe"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "ndidzawatukwira"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "idzadalitsidwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mwa iwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "midzi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ya dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:47:03.384889722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Amene anati kwa atate wake ndi kwa amayi wake: “Sindinamuone iye”; ndipo ⟨את⟩ abale ake sanawazindikire, ndipo ⟨את⟩ ana ake sanawadziwe; popeza anasunga mawu ako, ndipo pangano lako adzazisunga.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "Amene anati"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "kwa atate wake"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ndi kwa amayi wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "namuone iye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "abale ake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abale ake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "nawazindikire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana ake"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nawadziwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "anasunga"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "mawu ako"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "ndi pangano lako"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "adzazisunga"
+    }
+  ],
+  "timestamp": "2026-09-21T07:30:22.804819908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Mwanyozetsa onse akusokera m'malamulo anu, chifukwa chinyengo chawo ndi bodza.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "Mwanyozetsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "akusokera"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "m'malamulo anu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bodza"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "chinyengo chawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:51.636015088Z",
+  "model": "glm-5.3"
+}

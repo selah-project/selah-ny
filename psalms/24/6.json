@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Iyi ndi mbadwa ya oyendera ⟨את⟩ Iye, ofunafuna nkhope yako — Yaakobo. Selahi.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "iyi ndi"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mbadwa"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "oyendera"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ofunafuna"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nkhope yako"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:47.892957773Z",
+  "model": "glm-5.3"
+}

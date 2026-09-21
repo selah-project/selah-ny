@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo udzalankhula ⟨את⟩ mawu anga kwa iwo, akamva kapena aleka, chifukwa iwo ndi ⟨opandukira⟩.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "udzalankhula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu anga"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu anga"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "akamva"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "aleka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "opandukira"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:16:46.797825446Z",
+  "model": "glm-5.3"
+}

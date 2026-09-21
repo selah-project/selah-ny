@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo ambuye adzadya ⟨את⟩ Aizebeli m'chigawo cha Yizreeli, ndipo palibe wozikaye. Ndipo iye (mneneri) anatseka khomo, ndipo anathawa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Aizebeli"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Aizebeli"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "adzadya"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "ambuye"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "m'chigawo"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "cha Yizreeli"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "wozikaye"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "anatseka"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "khomo"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "anathawa"
+    }
+  ],
+  "timestamp": "2026-09-21T08:51:09.871264962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 5:5",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo Yahwe adanena kwa Moshe, kuti:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "adanena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti"
+    }
+  ],
+  "timestamp": "2026-09-21T06:53:49.494589409Z",
+  "model": "glm-5.3"
+}

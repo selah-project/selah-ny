@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 52,
+  "translation": "Lilime lako limawombera zoimba monga suppabwalo losungunuka, iwe wochita maone akhunye.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "zoimba"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "limawombera"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "Lilime lako"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "monga suppabwalo"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "losungunuka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wochita"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "maone akhunye"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:19.093076267Z",
+  "model": "glm-5.3"
+}

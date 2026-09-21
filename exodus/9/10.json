@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo anatenga ⟨את⟩ phulusa la ng'anjo yowotcha, nayimirira pamaso pa Paro; ndipo Moshe anaunika ⟨אתו⟩ kumwamba, ndipo zinachitika zilonda, mabere, kophuluka pa anthu ndi pa ziweto.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phulusa la ng'anjo yowotcha"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "phulusa"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "la ng'anjo yowotcha"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "nayimirira"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "anaunika"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "phulusa ilo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "zinachitika"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "zilonda"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "mabere"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "kophuluka"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "pa anthu"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ndi pa ziweto"
+    }
+  ],
+  "timestamp": "2026-09-21T12:56:51.425439987Z",
+  "model": "glm-5.3"
+}

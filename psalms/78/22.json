@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Pakuti sanakhulupirire m'Elohim, sanakhulupirire m'chipulumutso chake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "nakhulupirire"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "m'Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "nakhulupirire"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "m'chipulumutso chake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:23.477222718Z",
+  "model": "glm-5.3"
+}

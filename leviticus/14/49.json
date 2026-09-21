@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo adzalandira kusambitsa ⟨את⟩ nyumba mbalimbali ziwiri, ndi katundu wa mtengo wa kedere, ndi utoto wofiira, ndi zvobvu.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "adzalandira"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "kusambitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "mbalimbali"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ndi katundu wa mtengo"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "wa kedere"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ndi utoto"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "woyiwa"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "ndi zvobvu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:36:26.091701603Z",
+  "model": "glm-5.3"
+}

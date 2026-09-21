@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Dziko lapansi lalira, lathera; dziko lathunthu lamera, lathera; anthu okhala pamwamba pa dziko lapansi athera.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "lalira"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "lathera"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Dziko lapansi"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "lamera"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "lathera"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dziko lathunthu"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "athera"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "pamwamba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T09:11:33.269702671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo Moshe adawerenga, monga momwe Yahwe adamulamulira ⟨את⟩ iye, ⟨את⟩ wobadwa woyamba wonse wa mwa ana a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "adawerenga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "adamulamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (Moshe)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wobadwa woyamba wonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "wobadwa woyamba"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "wa mwa ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T06:50:16.651565150Z",
+  "model": "glm-5.3"
+}

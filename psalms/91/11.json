@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 91,
+  "translation": "Pakuti adzawalamulira angelo ake za iwe, kuti akusunge pa njira zako zonse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "angelo ake"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "adzawalamulira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "za iwe"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "kuti akusunge"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pa zonse"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "njira zako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:45.637669828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 37:13",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo mudzadziwa kuti ndine Yahwe, pamene nditatsegula ⟨את⟩ manda anu ndipo nditakwezani ⟨את⟩ inu m'manda anu, anthu anga.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "mudzadziwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "pamene nditatsegula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manda anu"
+    },
+    {
+      "surface": "קברותיכם",
+      "gloss": "manda anu"
+    },
+    {
+      "surface": "ובהעלותי",
+      "gloss": "ndipo nditakwezani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "מקברותיכם",
+      "gloss": "m'manda anu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "anthu anga"
+    }
+  ],
+  "timestamp": "2026-09-21T13:18:50.083786502Z",
+  "model": "glm-5.3"
+}

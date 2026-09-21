@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "Iwe udzauka, udzachitira chifundo Tsiyoni, chifukwa nthawi yafika yokoma mtima pa iye, chifukwa nthawi yoyikidwa idafika.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "udzauka"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "udzachitira chifundo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nthawi"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "yokoma mtima pa iye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "idafika"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nthawi yoyikidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:44.146672978Z",
+  "model": "glm-5.3"
+}

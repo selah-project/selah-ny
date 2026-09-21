@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 66,
+  "translation": "Kwa iye ndinaitana ndi kamwa kwanga, ndipo ulemerero unali m'pansi pa lilime langa.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kamwa kwanga"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ndinaitana"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "ndipo ulemerero"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "m'pansi pa"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lilime langa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:28.101108040Z",
+  "model": "glm-5.3"
+}

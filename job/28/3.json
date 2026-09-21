@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 28:3",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "⟨Wamuna⟩ amaika tsiriziro kwa ⟨the⟩ mdima, ndipo iye amafufuza ⟨the⟩ chotsiriza cha zonse — thanthu la mdima wakuda ndi la mthunzi wa imfa.",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "tsiriziro"
+    },
+    {
+      "surface": "שם",
+      "gloss": "amaika"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "kwa mdima"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ndi ku zonse"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "chotsiriza"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "חוקר",
+      "gloss": "amafufuza"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "thanthu"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "la mdima wakuda"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "ndi la mthunzi wa imfa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:42:17.769918389Z",
+  "model": "glm-5.3"
+}

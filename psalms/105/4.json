@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Fufuzani Yahwe ndi mphamvu yake; funani nkhope yake nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Fufuzani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "ndi mphamvu yake"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "funani"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "nkhope yake"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:26.999857181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Moshe anakwera phiri, ndipo mtambo udaphimba ⟨את⟩ phiri.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "anakwera"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "udaphimba"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "mtambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phiri"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "phiri"
+    }
+  ],
+  "timestamp": "2026-09-21T12:56:27.579344105Z",
+  "model": "glm-5.3"
+}

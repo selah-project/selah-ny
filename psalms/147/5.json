@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 147,
+  "translation": "Wamkulu ndi Adonayi wathu, ndipo wamphamvu kwambiri; kwa nzeru zake palibe chiwerengero.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Wamkulu"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonayi wathu"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ndipo wamphamvu kwambiri"
+    },
+    {
+      "surface": "כח",
+      "gloss": "mphamvu"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "kwa nzeru zake"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "chiwerengero"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:16.423684710Z",
+  "model": "glm-5.3"
+}

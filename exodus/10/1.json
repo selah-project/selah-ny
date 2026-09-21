@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Yahwe adanena kwa Moshe: “Lowa kwa Paro, chifukwa ine ndawachititsa kukoma ⟨את⟩ mtima wake ndi ⟨את⟩ mtima wa akapolo ake, kuti ndiziike zizindikiro zanga izi pakati pawo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "adanena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Lowa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "ndawachititsa kukoma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtima wake"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "mtima wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mtima wa akapolo ake"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "wa akapolo ake"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ndiziike"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "zizindikiro zanga"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "pakati pawo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:12:20.401877473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 50,
+  "translation": "Sindikupembedza iwe chifukwa cha nsembe zako; ndipo nsembe zako zopsereza zili pamaso panga nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Si"
+    },
+    {
+      "surface": "על",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "nsembe zako"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ndikupembedza iwe"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "ndipo nsembe zako zopsereza"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "pamaso panga"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:40.727957598Z",
+  "model": "glm-5.3"
+}

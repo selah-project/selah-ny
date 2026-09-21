@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Chilakolako cha mtima wake munamupatsa, ndipo pempho la milomo wake sininakana. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Chilakolako"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "cha mtima wake"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "munamupatsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "ndipo pempho"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "la milomo wake"
+    },
+    {
+      "surface": "בל",
+      "gloss": "si"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "ninakana"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:10.763310868Z",
+  "model": "glm-5.3"
+}

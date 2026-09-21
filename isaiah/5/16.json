@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 5:16",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo Yahwe Tsevaoti adzalemekezedwa m'chilamulo, ndipo El woyera adzapatulidwa m'chilungamo.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "adzalemekezedwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "m'chilamulo"
+    },
+    {
+      "surface": "והאל",
+      "gloss": "ndipo El"
+    },
+    {
+      "surface": "הקדוש",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "נקדש",
+      "gloss": "adzapatulidwa"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "m'chilungamo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:03:41.384435929Z",
+  "model": "glm-5.3"
+}

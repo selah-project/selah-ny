@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo anatenga ⟨את⟩ akulu a mzindo ndi ⟨את⟩ nthani za kutchire ndi ⟨את⟩ madeya, ndipo anawaphunzitsa ndizo ⟨את⟩ anthu a Sukoti.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akulu a mzinda"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "akulu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a mzinda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nthani za kutchire"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "nthani"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "za kutchire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "madeya"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "madeya"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "anawaphunzitsa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ndizo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu a Sukoti"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "a Sukoti"
+    }
+  ],
+  "timestamp": "2026-09-21T07:50:49.520297883Z",
+  "model": "glm-5.3"
+}

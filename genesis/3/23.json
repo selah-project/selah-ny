@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo Yahwe Elohim anamtuma ⟨iye⟩ kuchokera m’munda wa Edeni, kulima ⟨את⟩ nthaka imene anatengedwa kumeneko.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "anamtuma iye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "kuchokera m’munda"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "wa Edeni"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kulima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nthaka"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "nthaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "anatengedwa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kumeneko"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:58.720960764Z",
+  "model": "glm-5.3"
+}

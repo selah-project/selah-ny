@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 21:1",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Yahwe anati kwa Moshe: “Nena kwa ansembe, ana a Aharon, ndipo uzanena kwa iwo: Munthu wakufa sadzadetsedwa mwa anthu ake.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Nena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "uzanena"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "munthu wakufa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "dzadetsedwa"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "mwa anthu ake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:14.789098113Z",
+  "model": "glm-5.3"
+}

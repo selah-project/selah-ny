@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Mu mtima mwanga ndinabisitsa mawu anu, kuti ndisachimwire inu.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "Mu mtima mwanga"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "ndinabisitsa"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "mawu anu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "ndisachimwire"
+    },
+    {
+      "surface": "לך",
+      "gloss": "inu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:10:12.160785970Z",
+  "model": "glm-5.3"
+}

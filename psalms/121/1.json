@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 121,
+  "translation": "Nyimbo ya makwerero. Ndikweza maso anga ku mapiri; kumene kudzachokera chithandizo changa?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "ya makwerero"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ndikweza"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maso anga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "kumene kudzachokera"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kudzachokera"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "chithandizo changa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:26.897973210Z",
+  "model": "glm-5.3"
+}

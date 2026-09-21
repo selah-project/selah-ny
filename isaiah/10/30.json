@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 10:30",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Pitani mkuwe ndi mawu anu, mwana wamkazi wa Galimu! Mverani, Laysa! iwe wowonda wanu, Anathoti!",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "Pitani mkuwe"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ndi mawu anu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "wa Galimu"
+    },
+    {
+      "surface": "הקשיבי",
+      "gloss": "Mverani"
+    },
+    {
+      "surface": "לישה",
+      "gloss": "Laysa"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "iwe wowonda"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anathoti"
+    }
+  ],
+  "timestamp": "2026-09-21T13:11:43.267498948Z",
+  "model": "glm-5.3"
+}

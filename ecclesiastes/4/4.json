@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo ine ndinaona ⟨את⟩ ntchito yonse ya thupi ndi ⟨את⟩ kuchita bwino konse kwa nzeru, kuti ili nsanje ya munthu kwa mnzake; uwonso ndi heveli ndi kuvutika kwa mzimu.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "ndipo ndinaona"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntchito yonse ya thupi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ntchito ya thupi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "kuchita bwino konse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konse"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "kuchita bwino"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ili"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "nsanje ya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "kwa mnzake"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uwonso"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uwu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "heveli"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ndi kuvutika kwa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:44.535575032Z",
+  "model": "glm-5.3"
+}

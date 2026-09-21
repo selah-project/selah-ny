@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 2:1",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo munthu akabweretsa nsembe, chopereka cha ufa kwa Yahwe, ufa wabwino ndiwo udzakhala nsembe yake; nadzathira mafuta pamwamba pake, nadzaika livona pamwamba pake.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "aka-"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "kabweretsa"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "chopereka cha ufa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ufa wabwino"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "udzakhala"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "nsembe yake"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "nadzathira"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pamwamba pake"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "nadzaika"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pamwamba pake"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "livona"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:32.932280020Z",
+  "model": "glm-5.3"
+}

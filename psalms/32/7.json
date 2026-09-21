@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Inu ndinu chibisiro changa; mudzanditeteza ku chisautso; mudzandizinga ndi kuyimba za chipulumutso. Selah.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Inu"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "chibisiro"
+    },
+    {
+      "surface": "לי",
+      "gloss": "changa"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ku chisautso"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "mudzanditeteza"
+    },
+    {
+      "surface": "רני",
+      "gloss": "ndi kuyimba"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "za chipulumutso"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "mudzandizinga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:44.757810659Z",
+  "model": "glm-5.3"
+}

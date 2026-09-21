@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 71,
+  "translation": "Elohim wanga, undipulumutse m'dzanja la woipa, m'manja mwa wonyenga ndi wankhanza.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "undipulumutse"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "woipa"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "m'manja mwa"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "wonyenga"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "ndi wankhanza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:25.868998513Z",
+  "model": "glm-5.3"
+}

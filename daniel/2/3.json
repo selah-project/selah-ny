@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo mfumu inawawuza: “Ndinalota maloto, ndipo mzimu wanga wasautsidwa kudziwa ⟨את⟩ malotowo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "inawawuza"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ku iwo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "maloto"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ndinalota"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "wasautsidwa"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mzimu wanga"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kudziwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malotowo"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "malotowo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:03:01.122774864Z",
+  "model": "glm-5.3"
+}

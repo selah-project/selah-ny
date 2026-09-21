@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 52,
+  "translation": "Ndidzakuyamika ku nthawi zonse, chifukwa munachita izi; ndipo ndidzayembekezera dzina lanu, chifukwa ndi labwino, pamaso pa oyera mtima panu.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ndidzakuyamika"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "munachita"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "ndipo ndidzayembekezera"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dzina lanu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ndi labwino"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "oyera mtima panu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:36.053187144Z",
+  "model": "glm-5.3"
+}

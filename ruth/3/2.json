@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 3:2",
+  "book": "ruth",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo tsopano, kodi Boazi si wodziwa ndife, amene unali ⟨את⟩ ndi atsikana ake? Ona, iye akuphula ⟨את⟩ malo a kuswa chimanga usikuuno.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ndipo tsopano"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "kodi si"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazi"
+    },
+    {
+      "surface": "מדעתנו",
+      "gloss": "wodziwa ndife"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "היית",
+      "gloss": "unali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ndi",
+      "marks": "atsikana ake"
+    },
+    {
+      "surface": "נערותיו",
+      "gloss": "atsikana ake"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "akuphula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malo a kuswa chimanga"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "malo a kuswa chimanga"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "cha chimanga"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "usikuuno"
+    }
+  ],
+  "timestamp": "2026-09-21T11:51:47.418505868Z",
+  "model": "glm-5.3"
+}

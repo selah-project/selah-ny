@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 50,
+  "translation": "Sonkhanitsani kwa Ine oyeramtima anga, akupanga pangano langa pa nsembe.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Sonkhanitsani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa Ine"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "oyeramtima anga"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "akupanga"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "pangano langa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "nsembe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:40.727321431Z",
+  "model": "glm-5.3"
+}

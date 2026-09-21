@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 28:7",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo ndidzakhazikitsa ⟨את⟩ ufumu wake ku nthawi zosatha, ngati apirira kuchita malamulo anga ndi miweruzo yanga, monga tsiku lino.",
+  "tokens": [
+    {
+      "surface": "והכינותי",
+      "gloss": "ndipo ndidzakhazikitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ufumu wake"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ufumu wake"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nthawi zosatha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "apirira"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuchita"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "malamulo anga"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "ndi miweruzo yanga"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "monga tsiku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lino"
+    }
+  ],
+  "timestamp": "2026-09-21T12:36:12.526708792Z",
+  "model": "glm-5.3"
+}

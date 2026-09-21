@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo moyo wango umva mantha kwakukulu — koma iwe, Yahwe, mpaka liti?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Ndipo moyo wango"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "umva mantha"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwakukulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "koma iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "liti"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:59.498253588Z",
+  "model": "glm-5.3"
+}

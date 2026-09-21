@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo gulu lonse linakweza ⟨liwu⟩, linapereka ⟨את⟩ mawu awo, ndipo anthu analira usiku umenewo.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "linakweza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "gulu"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "linapereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu awo"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "mawu awo"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "analira"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "umenewo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:58:13.649364774Z",
+  "model": "glm-5.3"
+}

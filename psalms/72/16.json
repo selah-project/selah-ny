@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 72,
+  "translation": "Kukhale cholera cha tirigu m'dziko lapansi, pamwamba pa mapiri; chikhumudwenge monga Lebanoni chipatso chake, ndipo anthu a mudzi aziyala monga udzu wa dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Kukhale"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "cholera cha"
+    },
+    {
+      "surface": "בר",
+      "gloss": "tirigu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko lapansi"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "pamwamba pa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "chikhumudwenge"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "monga Lebanoni"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "chipatso chake"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "ndipo aziyala"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "a mudzi"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "monga udzu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:39.312165656Z",
+  "model": "glm-5.3"
+}

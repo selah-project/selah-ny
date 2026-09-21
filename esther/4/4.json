@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 4:4",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo anafika atsikana a Estere ndi atumiki ake amuna, nadawuza iye; ndipo mfumukazi nadakhumudwa kwambiri, nadatumiza zovala kuvalitsa ⟨את⟩ Mordikhayi ndi kuchotsera saki wake pa iye, koma sanavomereza.",
+  "tokens": [
+    {
+      "surface": "ותבואינה",
+      "gloss": "Ndipo anafika"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "atsikana"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "a Estere"
+    },
+    {
+      "surface": "וסריסיה",
+      "gloss": "ndi atumiki ake amuna"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "nadawuza"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ותתחלחל",
+      "gloss": "nadakhumudwa"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "mfumukazi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "nadatumiza"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "zovala"
+    },
+    {
+      "surface": "להלביש",
+      "gloss": "kuvalitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordikhayi"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordikhayi"
+    },
+    {
+      "surface": "ולהסיר",
+      "gloss": "ndi kuchotsera"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "saki wake"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma si"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "anavomereza"
+    }
+  ],
+  "timestamp": "2026-09-21T12:00:30.464032542Z",
+  "model": "glm-5.3"
+}

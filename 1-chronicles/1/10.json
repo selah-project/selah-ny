@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Kuši anabala ⟨את⟩ Nimrodi; iyeyu ndiye anayamba kukhala wamphamvu m'dzikolo.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Ndipo Kuši"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrodi"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrodi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyeyu"
+    },
+    {
+      "surface": "החל",
+      "gloss": "anayamba"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kukhala"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "wamphamvu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dzikolo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:22:52.332726467Z",
+  "model": "glm-5.3"
+}

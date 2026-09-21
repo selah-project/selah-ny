@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Wodala ndi Yahwe ku nthawi zonse. Ameni, ndi Ameni.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Wodala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ameni"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ndi Ameni"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:23.809098861Z",
+  "model": "glm-5.3"
+}

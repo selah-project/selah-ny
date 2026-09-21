@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 149,
+  "translation": "Yisraeli akondwere ndi Wolenga wake; ana a Tsiyoni afuule ndi Mfumu yawo.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "akondwere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "ndi Wolenga wake"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "afuule"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "ndi Mfumu yawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:39.217257727Z",
+  "model": "glm-5.3"
+}

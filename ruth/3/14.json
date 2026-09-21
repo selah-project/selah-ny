@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ruth 3:14",
+  "book": "ruth",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo anagona pa mapazi ake mpaka m'mawa, ndipo anauka musanadziwe munthu ⟨את⟩ mnzake; ndipo anati: asadziweke kuti mkazi anabwera ku malo a kusesa.",
+  "tokens": [
+    {
+      "surface": "ותשכב",
+      "gloss": "ndipo anagona"
+    },
+    {
+      "surface": "מרגלתו",
+      "gloss": "pa mapazi ake"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "m'mawa"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "ndipo anauka"
+    },
+    {
+      "surface": "בטרום",
+      "gloss": "musanadziwe"
+    },
+    {
+      "surface": "יכיר",
+      "gloss": "kudziwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mnzake"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mnzake"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo anati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asa-"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "dadziweke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "באה",
+      "gloss": "anabwera"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "ku malo a kusesa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:51:27.621466891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 41:24",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Mafunde onono anameza ⟨את⟩ mafunde asanu ndi awiri abwino; ndipo ndinanena kwa odana, koma palibe angandiuze.",
+  "tokens": [
+    {
+      "surface": "ותבלען",
+      "gloss": "anameza"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "Mafunde"
+    },
+    {
+      "surface": "הדקת",
+      "gloss": "onono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafunde asanu ndi awiri abwino"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "asanu ndi awiri"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "mafunde"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "abwino"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ndipo ndinanena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "odana"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "koma palibe"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "angandiuze"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:01:42.284132677Z",
+  "model": "glm-5.3"
+}

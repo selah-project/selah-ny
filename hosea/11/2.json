@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Anawaitana, koma iwo anachokera pamaso pawo; ku Baalim anapereka nsembe, ndi ku zithunzi zolengedwa anakunika unka.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "anawaitana"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "koma"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "anachokera"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "pamaso pawo"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "ku Baalim"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "anapereka nsembe"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "ndi ku zithunzi zolengedwa"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "anakunika unka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:22:33.307273031Z",
+  "model": "glm-5.3"
+}

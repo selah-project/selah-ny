@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Tembenuzani mtima wanga kumaumboni anu, ndipo osati ku chigawo cha nzeru zokhwima.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Tembenuzani"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "kumaumboni anu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo osati ku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "chigawo cha nzeru zokhwima"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:41.295335633Z",
+  "model": "glm-5.3"
+}

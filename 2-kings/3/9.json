@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 3:9",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo mfumu ya Yisraeli, ndi mfumu ya Yuda, ndi mfumu ya Edomu, zinayenda; zinazungulira njira ya masiku asanu ndi awiri, ndipo madzi sanakhalepo kwa gulu la nkhondo ndi kwa nyama za pa mapazi ⟨awo⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "zinayenda"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ndi mfumu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ndi mfumu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "zinazungulira"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "asamu ndi awiri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sanakhalepo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "khala"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kwa gulu la nkhondo"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "ndi kwa nyama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "za"
+    },
+    {
+      "surface": "ברגליהם",
+      "gloss": "pa mapazi ao"
+    }
+  ],
+  "timestamp": "2026-09-21T13:10:44.271391385Z",
+  "model": "glm-5.3"
+}

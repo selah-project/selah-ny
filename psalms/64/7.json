@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 64,
+  "translation": "Amafufuza zoipa; “Tafika pa thothi la fufuzo”; ndi kumene kuli pakati pa munthu, ndi mtima, ndi wakuzama.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "amafufuza"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "tafika pa thothi"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "fufuzo"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "lofufuzidwa bwino"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "ndi pakati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "pa munthu"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ndi mtima"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "wakuzama"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:26.942405712Z",
+  "model": "glm-5.3"
+}

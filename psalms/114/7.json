@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 114,
+  "translation": "Pamaso pa Adonayi, dziko lapansi, gwedezani; pamaso pa Eloha wa Yakobo.",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "Pamaso pa"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "gwedezani"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "wa Yakobo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:56.236464774Z",
+  "model": "glm-5.3"
+}

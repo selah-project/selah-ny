@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 56,
+  "translation": "Kwa woyang'anira; pa Yonate-elemu-rechokimu; wa Davide; mikitamu; pamene Afilistimu anagwira ⟨אתו⟩ ku Gati.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "Yonate"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "elemu"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "rechokimu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Davide"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikitamu"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "pamene anagwira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Davide (iye)"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilistimu"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "ku Gati"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:38.106029349Z",
+  "model": "glm-5.3"
+}

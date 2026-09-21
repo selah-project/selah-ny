@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 35:19",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "⟨את⟩ zovala za ntchito yopereka kuti zitumikire m'malo opatulika, ⟨את⟩ zovala zapatulika za Aharoni wansembe, ndi ⟨את⟩ zovala za ana ake, kuti atumikire usembe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zovala za ntchito yopereka"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "zovala"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "za ntchito yopereka"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "kuti zitumikire"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "m'malo opatulika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zovala zapatulika za Aharoni wansembe"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "zovala"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "zapatulika"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "za Aharoni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zovala za ana ake"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "zovala"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kuti atumikire usembe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:24:14.259756432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 53,
+  "translation": "Elohim adayang'ana kumwamba pa ana a anthu, kuona ngati pali wochezera, wofunafuna ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "adayang'ana"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ngati pali"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "wochezera"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "wofunafuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:58.925090511Z",
+  "model": "glm-5.3"
+}

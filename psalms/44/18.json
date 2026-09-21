@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Zonse izi zidatigwera, ndipo sitinakusiye iwe, ndipo sitinalibe ustinama m'panganako.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Zonse"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izi"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "zidatigwera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sitinakusiye"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sitinalibe"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "ustinama"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "m'panganako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:56.546666941Z",
+  "model": "glm-5.3"
+}

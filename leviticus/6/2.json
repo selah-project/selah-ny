@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 6:2",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Lamulira ⟨את⟩ Aharoni ndi ⟨את⟩ ana ake, nati: Iyi ndi Tora (chilamulo) ya nsembe yophereza; ndiyo nsembe yophereza, ikhala pa moto wake pa guwa la nsembe usiku wonse mpaka mmawa; ndipo moto wa guwa la nsembe udzayaka pa ilo.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Lamulira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana ake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati:"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Iyi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora (chilamulo) ya"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nsembe yophereza"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiyo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nsembe yophereza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מוקדה",
+      "gloss": "moto wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa la nsembe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mmawa"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ndipo moto wa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa la nsembe"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "udzayaka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pa ilo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:33:04.425090451Z",
+  "model": "glm-5.3"
+}

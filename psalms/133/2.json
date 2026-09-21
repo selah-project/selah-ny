@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 133,
+  "translation": "Monga mafuta abwino okhetsedwa pa mutu, amotsika pa ndevu, pa ndevu za Aharon, amotsika pa malire a chovala chake.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Monga mafuta"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "abwino"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "amotsika"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "ndevu"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ndevu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "za Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "amotsika"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "malire a"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "chovala chake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:48.628591340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 99,
+  "translation": "Alemekeze dzina lako lalikulu ndi loopsa; woyera ndi iye.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "alemekeze"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dzina lako"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lalikulu"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ndi loopsa"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndi iye"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:47.847699311Z",
+  "model": "glm-5.3"
+}

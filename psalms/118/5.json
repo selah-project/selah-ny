@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 118,
+  "translation": "M'mphamvu za matala ndinaitana Yah; Yah anandiyankha m'mkati mwa malo a tambasala.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "m'mphamvu za"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "matala"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ndinaitana"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "anandiyankha"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "m'mkati mwa malo a tambasala"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:04.498891813Z",
+  "model": "glm-5.3"
+}

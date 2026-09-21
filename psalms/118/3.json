@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 118,
+  "translation": "Banja la Aharoni anene tsopano kuti khesedi khake kumakhala ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "anene"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "בית",
+      "gloss": "banja la"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi khake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:15.675979227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo adzachita ⟨את⟩ efodi: zahavu, tekeleti ndi argamani, tolaati ya shani, ndi sheshi wolumikizidwa, ntchito ya wochenjera.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Ndipo adzachita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahavu"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekeleti"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ndi argamani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolaati"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ya shani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ndi sheshi"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "wolumikizidwa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "ya wochenjera"
+    }
+  ],
+  "timestamp": "2026-09-21T06:21:06.736129701Z",
+  "model": "glm-5.3"
+}

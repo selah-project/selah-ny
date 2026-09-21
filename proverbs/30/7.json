@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Zinthu ziwiri ndinapempha kwa ⟨את⟩ iwe; musandidzikwire musana ndife.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Zinthu ziwiri"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "ndinapempha"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "kwa ⟨את⟩ iwe",
+      "marks": "Zinthu ziwiri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ndandidzikwire"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "musana"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ndife"
+    }
+  ],
+  "timestamp": "2026-09-21T11:28:16.391307734Z",
+  "model": "glm-5.3"
+}

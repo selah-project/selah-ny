@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Pamene kuli mawu a mfumu, kumeneko kuli ulamuliro; ndipo ndani angamuuze: “Kodi ukuchitanji?”",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "Pamene"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "a mfumu"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "ulamuliro"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ndi ndani"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "angamuuze"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye ⟨kumuuze⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kodi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ukuchitanji"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:14.186966590Z",
+  "model": "glm-5.3"
+}

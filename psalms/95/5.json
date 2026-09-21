@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 95,
+  "translation": "Nyanja ndi yake, ndipo iye adaipanga, ndi dziko louma manja ake adaumba.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ili lake"
+    },
+    {
+      "surface": "הים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ndipo iye"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "adaipanga"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "ndi dziko louma"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "manja ake"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "adaumba"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:07.320679242Z",
+  "model": "glm-5.3"
+}

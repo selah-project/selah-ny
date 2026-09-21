@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Pakuti akhoyo amadziwa kuti adzafa, koma akufa sadziwa kanthu, ndipo palibe chilichonse chotsala iye monga mphotho, pakuti kukumbukira kwawo kwaiwala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "akhoyo"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "amadziwa"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "kuti adzafa"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "koma akufa"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "dziwa"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "kanthu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "chilichonse chotsala"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iye"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "monga mphotho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "kwaiwala"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "kukumbukira kwawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:42.415241164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 60,
+  "translation": "Ndiye adzanditsa m'mudzi wachitetezo? Ndiye adzandilondera mpaka Edomu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ndiye"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "adzanditsa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "m'mudzi"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "wachitetezo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ndiye"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "adzandilondera"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:14.022957147Z",
+  "model": "glm-5.3"
+}

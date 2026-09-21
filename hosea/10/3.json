@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Pakuti tsopano adzati: “Tilibe mfumu; pakuti sitinaope ⟨את⟩ Yahwe; ndipo mfumu — idzachitira chiyani ife?”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "adzati"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Tilibe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "naope"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ndipo mfumu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "idzachita"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ife"
+    }
+  ],
+  "timestamp": "2026-09-21T10:23:35.163239455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ngati ana anako anachimwira Iye, natiwapatsa m'dzanja la chimoso chawo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ana anako"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "anachimwira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Iye"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "natiwapatsa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "m'dzanja"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "la chimoso chawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:31:42.031073848Z",
+  "model": "glm-5.3"
+}

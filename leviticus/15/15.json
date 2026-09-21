@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo wansembe adzachita ⟨את⟩ zawirizi — imodzi nsembe ya machimo, ndi inayo nsembe yopsereza — ndipo wansembe adzakhaulirira pa iye pamaso pa Yahwe chifukwa cha kutula kwake.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "adzachita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "zawirizi (nkhunda zawirizi)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imodzi"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "nsembe ya machimo"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "ndi inayo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nsembe yopsereza"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "adzakhaulirira"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "kutula kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:40:29.365244400Z",
+  "model": "glm-5.3"
+}

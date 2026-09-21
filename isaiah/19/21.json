@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 19:21",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo Yahwe adzadziwika kwa Mitsrayimu, ndipo aja a Mitsrayimu adzadziwa ⟨את⟩ Yahwe tsiku limenelo; nadzapereka nsembe ndi mphatso, ndipo adzalumbira lumbiro kwa Yahwe, ndipo adzachitira.",
+  "tokens": [
+    {
+      "surface": "ונודע",
+      "gloss": "adzadziwika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "kwa Mitsrayimu"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "adzadziwa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "aja a Mitsrayimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "limenelo"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "adzapereka"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "mphatso"
+    },
+    {
+      "surface": "ונדרו",
+      "gloss": "adzalumbira"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "lumbiro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "adzachitira"
+    }
+  ],
+  "timestamp": "2026-09-21T13:12:24.082277465Z",
+  "model": "glm-5.3"
+}

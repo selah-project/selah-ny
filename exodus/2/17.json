@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo abusa anadza nadzagitsa iwo; koma Moshe anauka nawapulumutsa, nachetsetsa madzi ⟨את⟩ nkhosa zawo.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "anadza"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "abusa"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "nadzagitsa iwo"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "anauka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "nawapulumutsa"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "nachetsetsa madzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhosa zawo"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "nkhosa zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:07:37.184979919Z",
+  "model": "glm-5.3"
+}

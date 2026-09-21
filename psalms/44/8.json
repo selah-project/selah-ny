@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Pakuti iwe unatipulumutsa kwa otsutsa ife, ndi odana ndi ife unaawanyazitsa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "iwe unatipulumutsa"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "kwa otsutsa ife"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "ndi odana ndi ife"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "unaawanyazitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:35.360581447Z",
+  "model": "glm-5.3"
+}

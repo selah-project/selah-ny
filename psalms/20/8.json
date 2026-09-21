@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ena ⟨akhulupirira⟩ m'magalimoto, ndi ena m'zakuda; koma ife tikulalikira dzina la Yahwe Elohim wathu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "m'magalimoto"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ndi ena"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "m'zakuda"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "koma ife"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "dzina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "tikulalikira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:27.564555852Z",
+  "model": "glm-5.3"
+}

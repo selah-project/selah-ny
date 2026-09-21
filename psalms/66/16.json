@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 66,
+  "translation": "Idzani, imvani, inu onse oopa Elohim, ndipo ndidzalankhula zimene anachitira moyo wanga.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Idzani"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "imvani"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "ndipo ndidzalankhula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onu onse"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "oopa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachitira"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "moyo wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:56.290315266Z",
+  "model": "glm-5.3"
+}

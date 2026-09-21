@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo ndinakusambitsa ndi madzi, ndinatsuka mwazi wako ochokera pa iwe, ndipo ndinakuzodzetsa ndi mafuta.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "ndinakusambitsa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ndi madzi"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "ndinatsuka"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "mwazi wako"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "ochokera pa iwe"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "ndinakuzodzetsa"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ndi mafuta"
+    }
+  ],
+  "timestamp": "2026-09-21T10:00:06.238508448Z",
+  "model": "glm-5.3"
+}

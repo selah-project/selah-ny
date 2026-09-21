@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "⟨Iye⟩ akupatse monga mtima wako, ndipo ulongozi wako wonse adzakwaniritsa.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "akupatse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "monga mtima wako"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo wonse"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "ulongozi wako"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "adzakwaniritsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:27.563967531Z",
+  "model": "glm-5.3"
+}

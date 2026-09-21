@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 114,
+  "translation": "Mapiri anavina monga mabuli, mapiri ang'onoang'ono ngati ana a nkhosa zaulere",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Mapiri"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "anavina"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "monga mabuli"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "mapiri ang'onoang'ono"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "ngati ana a"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nkhosa zaulere"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:13.808671673Z",
+  "model": "glm-5.3"
+}

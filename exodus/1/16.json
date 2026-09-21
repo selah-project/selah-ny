@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "nati: “Mukamabereza ⟨את⟩ akazi a Ahebri, ndipo muona pa miyala; ngati mwamuna, muphe ⟨את⟩ iye; koma ngati wamkazi, iye akhale ndi moyo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "mukamabereza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akazi a Ahebri"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "akazi a Ahebri"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "ndipo muona"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "miyala"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwamuna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "—"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "muphe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "iye (mwamuna)"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "koma ngati"
+    },
+    {
+      "surface": "בת",
+      "gloss": "wamkazi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "akhale ndi moyo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:55:42.019973182Z",
+  "model": "glm-5.3"
+}

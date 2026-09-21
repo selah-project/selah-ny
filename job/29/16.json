@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 29:16",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Atate ndinali kwa osowa, ndipo mlandu umene sindinamudziwa ndinamufufuza.",
+  "tokens": [
+    {
+      "surface": "אב",
+      "gloss": "Atate"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndinali"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "kwa osowa"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ndipo mlandu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi-"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "namudziwa"
+    },
+    {
+      "surface": "אחקרהו",
+      "gloss": "ndinamufufuza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:42:22.173234936Z",
+  "model": "glm-5.3"
+}

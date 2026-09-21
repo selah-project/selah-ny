@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Khala chete kwa Yahwe, ndipo udikirire mosalephere kwa iye; usalephere chifukwa cha wopambana pa njira yake, chifukwa cha munthu wochita zolinga zoipa.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Khala chete"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "ndipo udikirire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "lephere"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "chifukwa cha wopambana"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "pa njira yake"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "chifukwa cha munthu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wochita"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "zolinga zoipa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:51.036133670Z",
+  "model": "glm-5.3"
+}

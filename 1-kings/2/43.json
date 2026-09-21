@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo mwanji iwe si-nasunga ⟨את⟩ chilumbiro cha Yahwe ndi ⟨את⟩ lamulo limene ndinakulamulira pa iwe?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "Ndipo mwanji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "nasunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chilumbiro cha Yahwe"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "chilumbiro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "cha Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "lamulo"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "lamulo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ndinakulamulira"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pa iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:32:09.572436680Z",
+  "model": "glm-5.3"
+}

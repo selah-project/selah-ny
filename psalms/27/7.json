@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Imva, Yahwe, mawu anga pandipembedza; ndondichere chifundo, ndipo ndondiyankha.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Imva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mawu anga"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "pandipembedza"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ndondichere chifundo"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ndipo ndondiyankha"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:53.544213340Z",
+  "model": "glm-5.3"
+}

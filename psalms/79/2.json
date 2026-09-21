@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 79,
+  "translation": "Anapereka ⟨את⟩ mithupa ya akapolo ako chakudya kwa mbalame za kumwamba, thupi la akhulupirika ako kwa zilombo za dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "Anapereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mithupa ya akapolo ako"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "mithupa"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ya akapolo ako"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "chakudya"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "kwa mbalame"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "za kumwamba"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "thupi"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "la akhulupirika ako"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "kwa zilombo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "za dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:59.797618468Z",
+  "model": "glm-5.3"
+}

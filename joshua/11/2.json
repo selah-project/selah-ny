@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 11:2",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "ndi kwa amfumu amene ali kumpoto, m'mapiri, ndi m'chilengalenga, kumwamba kwa Kineroti, ndi m'dambwe, ndi m'madera a Doro kumanjira;",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ndi kwa"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "amfumu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kumpoto"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "m'mapiri"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "ndi m'chilengalenga"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "כנרות",
+      "gloss": "Kineroti"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "ndi m'dambwe"
+    },
+    {
+      "surface": "ובנפות",
+      "gloss": "ndi m'madera"
+    },
+    {
+      "surface": "דור",
+      "gloss": "a Doro"
+    },
+    {
+      "surface": "מים",
+      "gloss": "kumanjira"
+    }
+  ],
+  "timestamp": "2026-09-21T07:39:28.271359347Z",
+  "model": "glm-5.3"
+}

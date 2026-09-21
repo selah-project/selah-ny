@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo Kushi anabala ⟨את⟩ Nimrodi; iyeyo anayamba kukhala wamphamvu m'dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Ndipo Kushi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrodi"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrodi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyeyo"
+    },
+    {
+      "surface": "החל",
+      "gloss": "anayamba"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kukhala"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "wamphamvu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:57.805740807Z",
+  "model": "glm-5.3"
+}

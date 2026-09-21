@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 57,
+  "translation": "Kwa woyang'anira. Al-tashcheti. Ndiwa Davide, miktamu, poti atathawa pamaso pa Shauli, m'phanga.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Al"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "tashcheti"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Ndiwa Davide"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktamu"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "poti atathawa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "m'phanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:51.700151309Z",
+  "model": "glm-5.3"
+}

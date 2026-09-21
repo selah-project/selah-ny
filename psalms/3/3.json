@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ambiri akunena kwa moyo wanga: “Palibe chipulumutso kwa iye mwa Elohim.” Selah.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Ambiri"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "akunena"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kwa moyo wanga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Palibe"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "chipulumutso"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "mwa Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:31.207245459Z",
+  "model": "glm-5.3"
+}

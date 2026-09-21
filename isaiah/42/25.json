@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 42:25",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Ndiipo adathira pa iye mkwiyo wa pakhosi pake, ndi mphamvu ya nkhondo; ndipo <ya-moto> inamuunika mozungulira, koma sanadziwe; ndipo inamulira moto mwa iye, koma sanaike pa mtima.",
+  "tokens": [
+    {
+      "surface": "וישפך",
+      "gloss": "adathira"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "mkwiyo"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "wa pakhosi pake"
+    },
+    {
+      "surface": "ועזוז",
+      "gloss": "ndi mphamvu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ya nkhondo"
+    },
+    {
+      "surface": "ותלהטהו",
+      "gloss": "inamuunika <ya-moto>"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "mozungulira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sanadziwe"
+    },
+    {
+      "surface": "ותבער",
+      "gloss": "inamulira moto"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mwa iye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "sanaike"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    }
+  ],
+  "timestamp": "2026-09-21T13:13:18.467687815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 32:19",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Yahwe anaona ndipo ananyoza, chifukwa cha kukwiitsa kwa ana ake amuna ndi ana ake akazi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וינאץ",
+      "gloss": "ananyoza"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "chifukwa cha kukwiitsa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake amuna"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "ana ake akazi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:31:36.400665027Z",
+  "model": "glm-5.3"
+}

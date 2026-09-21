@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 85,
+  "translation": "Choonadi chidzamera kuchokera m'dziko, ndipo chilungamo chidzayang'ana kuchokera kumwamba.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Choonadi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuchokera m'dziko"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "chidzamera"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "ndipo chilungamo"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "kuchokera kumwamba"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "chidzayang'ana"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:27.678869490Z",
+  "model": "glm-5.3"
+}

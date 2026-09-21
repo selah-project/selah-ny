@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Chifukwa cha izi mtima wanga wasangalala, ndipo ulemerero wango wasangalala; ndithu thupi langa lidzakhazikika movikira mtima.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Chifukwa cha izi"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "wasangalala"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "ndipo wasangalala"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ulemerero wango"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "thupi langa"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "lidzakhazikika"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "movikira mtima"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:45.777262474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "ndi ⟨את⟩ mwana wamkazi wa bondo, ndi ⟨את⟩ tachmasi, ndi ⟨את⟩ shachafi, ndi ⟨את⟩ chiwindo, monga mtundu wake",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mwana wamkazi wa bondo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "wa bondo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "tachmasi"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "tachmasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "shachafi"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "shachafi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chiwindo"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "chiwindo"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "monga mtundu wake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:20:22.741141511Z",
+  "model": "glm-5.3"
+}

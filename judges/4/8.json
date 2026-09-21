@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Baraka anati kwa iye: “Ngati iwe upita ndi ine, ndidzapita; koma ngati iwe suupita ndi ine, sindidzapita.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Baraka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "upita"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndi ine"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "ndidzapita"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "koma ngati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "suu-"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "pita"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndi ine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi-"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "zapita"
+    }
+  ],
+  "timestamp": "2026-09-21T07:48:39.948941619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 52,
+  "translation": "Mawu a asunika anu! Adzaulula mawu awo; pamodzi adzayimba nyimbo ya mtembo; popeza adzaona diso ndi diso, pamene Yahwe abwerera ku Tsiyoni.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Mawu a"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "asunika anu"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "Adzaulula"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mawu awo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamodzi"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "adzayimba nyimbo ya mtembo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "עין",
+      "gloss": "diso"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ndi diso"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "adzaona"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "pamene abwerera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ku Tsiyoni"
+    }
+  ],
+  "timestamp": "2026-09-21T09:22:32.690342533Z",
+  "model": "glm-5.3"
+}

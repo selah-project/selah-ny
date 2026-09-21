@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo nthawi imeneyo ndinalamulira ⟨את⟩ aweruza anu, ndati: Mverani mfundo pakati pa abale anu, ndipo weruzani molungama pakati pa munthu ndi m'bale wake, ndi pakati pa mlendo wake.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "ndinalamulira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aweruza anu"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "aweruza anu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nthawi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "imeneyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ndati"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Mverani"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "abale anu"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "weruzani"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "molungama"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "m'bale wake"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "mlendo wake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:14:38.346119534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 21:7",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Sadzatora mkazi wachigololo ndi wosadzipatulira, ndipo sadzatora mkazi wochotsedwa ndi mwamuna wake; popeza iye ndi wopatulika kwa Elohim wake.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "wachigololo"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "ndi wosadzipatulira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "tora"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "ndipo mkazi"
+    },
+    {
+      "surface": "גרושה",
+      "gloss": "wochotsedwa"
+    },
+    {
+      "surface": "מאישה",
+      "gloss": "ndi mwamuna wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "tora"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "wopatulika"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye ndi"
+    },
+    {
+      "surface": "לאלהיו",
+      "gloss": "kwa Elohim wake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:56.920654701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 13:20",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Sidzakhalapo ku nthawi zonse, ndipo sitidzakhalabe kufikira mibadwo ndi mibadwo; Arabiyani sadzakhazikitsa hema pamenepo, ndipo abusa sadzagonjetsa pamenepo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sidza-"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "khala"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si-"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "khazikika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mibadwo"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ndi mibadwo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sa-"
+    },
+    {
+      "surface": "יהל",
+      "gloss": "sadzakhazikitsa hema"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pamenepo"
+    },
+    {
+      "surface": "ערבי",
+      "gloss": "Arabiyani"
+    },
+    {
+      "surface": "ורעים",
+      "gloss": "ndipo abusa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "sadzagonjetsa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pamenepo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:05:46.636192885Z",
+  "model": "glm-5.3"
+}

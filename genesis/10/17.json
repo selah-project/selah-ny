@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndi ⟨את⟩ Waivi, ndi ⟨את⟩ Waariki, ndi ⟨את⟩ Wasini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Waivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Waivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Waariki"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Waariki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Wasini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Wasini"
+    }
+  ],
+  "timestamp": "2026-09-21T05:45:55.030102909Z",
+  "model": "glm-5.3"
+}

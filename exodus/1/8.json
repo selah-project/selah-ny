@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo mfumu yatsopano inauka pa Mitsrayimu, imene sinadziwa ⟨את⟩ Yosefe.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Ndipo inauka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yatsopano"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sina-"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dziwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:07:19.926570001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 7:8",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndi pamwamba pa nthawi imeneyo Shelomoho anachita ⟨את⟩ chikondwerero masiku asanu ndi awiri, ndi Yisraeli wonse pamodzi ndi iye, msonkhano waukulu kwambiri, kuyambira ku Chikwata cha Chamati mpaka mtsinje wa Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikondwerero"
+    },
+    {
+      "surface": "החג",
+      "gloss": "chikondwerero"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pa nthawi"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "imeneyo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "masiku asanu ndi awiri a"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi wonse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamodzi ndi iye"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "msonkhano"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "waukulu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "מלבוא",
+      "gloss": "kuyambira ku Chikwata cha"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamati"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "mtsinje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:36:37.731694210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Kwabwino kuvutika mtima kuposa kuseka, pakuti nkhawa ya nkhope imatipatsa mtima wabwino.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "kwabwino"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "kuvutika mtima"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "kuposa kuseka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "nkhawa ya"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "nkhope"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "imatipatsa wabwino"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:05.055660625Z",
+  "model": "glm-5.3"
+}

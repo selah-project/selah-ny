@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo ana a Eli anali ana a Beliyali; sadziwa ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ndipo ana a"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliyali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "dziwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T07:59:03.062971298Z",
+  "model": "glm-5.3"
+}

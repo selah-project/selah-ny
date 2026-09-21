@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 29:14",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Chifukwa chake taonani, ine ndidzaonjeza kuchita zazodabwitsa kwa ⟨את⟩ anthu awa, zodabwitsa ndi zodabwitsa; ndipo nzeru za anzeru awo zidzatayika, ndipo kuzindikira kwa anthu a nzeru awo kudzabisika.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Chifukwa chake"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "taonani, ine"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ndidzaonjeza"
+    },
+    {
+      "surface": "להפליא",
+      "gloss": "kuchita zazodabwitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu awa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "הפלא",
+      "gloss": "zodabwitsa"
+    },
+    {
+      "surface": "ופלא",
+      "gloss": "ndi zodabwitsa"
+    },
+    {
+      "surface": "ואבדה",
+      "gloss": "ndipo zidzatayika"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "nzeru za"
+    },
+    {
+      "surface": "חכמיו",
+      "gloss": "anzeru awo"
+    },
+    {
+      "surface": "ובינת",
+      "gloss": "ndipo kuzindikira kwa"
+    },
+    {
+      "surface": "נבניו",
+      "gloss": "anthu a nzeru awo"
+    },
+    {
+      "surface": "תסתתר",
+      "gloss": "kudzabisika"
+    }
+  ],
+  "timestamp": "2026-09-21T13:12:55.003599204Z",
+  "model": "glm-5.3"
+}

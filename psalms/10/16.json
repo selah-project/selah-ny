@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Yahwe ndi mfumu wa nthawi zonse ndi chikhalire; amitundu anatha m'dziko lake.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wa nthawi zonse"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ndi chikhalire"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "anatha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amitundu"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "m'dziko lake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:23.698590588Z",
+  "model": "glm-5.3"
+}

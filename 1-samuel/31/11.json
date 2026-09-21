@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo okhala ku Yabeushi wa Giladi anamva za iye ⟨za⟩ ⟨את⟩ zimene Afilistimu anachitira Shauli.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "anamva"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "za iye"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "okhala"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "ku Yabeushi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "wa Giladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene Afilistimu anachitira Shauli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anachitira"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilistimu"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shauli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:16:18.912741432Z",
+  "model": "glm-5.3"
+}

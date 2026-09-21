@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 110,
+  "translation": "Anthu anu ndi zopereka zokhulupirika tsiku la mphamvu yanu, muuzule za chiyero; kuchokera m'mimba, kufika pa mamawa, kwa inu muli khungu la ubwana wanu.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "Anthu anu"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "ndi zopereka zokhulupirika"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku la"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "mphamvu yanu"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "muuzule za"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chiyero"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "kuchokera m'mimba"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "kufika pa mamawa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "טל",
+      "gloss": "khungu"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "la ubwana wanu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:21.595882203Z",
+  "model": "glm-5.3"
+}

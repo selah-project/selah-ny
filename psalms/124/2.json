@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 124,
+  "translation": "Lukanika Yahwe analibe ⟨kwa⟩ ife, ponka anthu atima pa ife,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "Lukanika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "analibe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨kwa⟩ ife"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "ponka … atima"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "pa ife"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:29.953050969Z",
+  "model": "glm-5.3"
+}

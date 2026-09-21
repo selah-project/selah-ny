@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo mwana wake wamkazi ndi Sheera; iye anamanga ⟨את⟩ Beti-Horoni wochepa ndi ⟨את⟩ wamkulu, ndi ⟨את⟩ Uzzeni-Sheera.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "Ndipo mwana wake wamkazi"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "ndi Sheera"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "iye anamanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beti-Horoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horoni"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "wochepa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "wamkulu"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Uzzeni-Sheera"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzzeni"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    }
+  ],
+  "timestamp": "2026-09-21T13:35:29.033055133Z",
+  "model": "glm-5.3"
+}

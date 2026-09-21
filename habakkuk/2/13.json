@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Kodi si kuchokera kwa ⟨את⟩ Yahwe Tsevaoti, taona, kuti anthu avutike ndi moto, ndi mayiko kupepera mwachabe?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Kodi si"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kuchokera kwa ⟨את⟩",
+      "marks": "anthu ndi mayiko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "avutike"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ndi mayiko"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "wachabe"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "kupepera"
+    }
+  ],
+  "timestamp": "2026-09-21T10:32:38.119903100Z",
+  "model": "glm-5.3"
+}

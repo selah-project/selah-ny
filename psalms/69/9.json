@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Wachilendo ndinakhala kwa abale anga, ndi wakunja kwa ana a amayi anga.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "wachilendo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndinakhala"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "kwa abale anga"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "ndi wakunja"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa ana a"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "amayi anga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:50.377445620Z",
+  "model": "glm-5.3"
+}

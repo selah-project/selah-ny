@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 7:16",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndaphimbidwa bedi langa ndi zophimba, ndi zolembedwa zamzati, ndi ulusi wa Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "מרבדים",
+      "gloss": "zophimba"
+    },
+    {
+      "surface": "רבדתי",
+      "gloss": "Ndaphimbidwa"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "bedi langa"
+    },
+    {
+      "surface": "חטבות",
+      "gloss": "zolembedwa zamzati"
+    },
+    {
+      "surface": "אטון",
+      "gloss": "ulusi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:45.877810912Z",
+  "model": "glm-5.3"
+}

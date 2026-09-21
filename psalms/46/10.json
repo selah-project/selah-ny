@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 46,
+  "translation": "Amawiritsitsa nkhondo kufikira malezero a dziko lapansi; amaphwanya uta, amacheka mkwangwanu; magalimoto amawotcha ndi moto.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "Amawiritsitsa"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "nkhondo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "malezero"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a dziko lapansi"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "amaphwanya"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "amacheka"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "mkwangwanu"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "magalimoto"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "amawotcha"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ndi moto"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:14.270026667Z",
+  "model": "glm-5.3"
+}

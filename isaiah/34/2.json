@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 34:2",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Pakuti kukwiya kuli kwa Yahwe pa mitundu yonse, ndi mkwiyo wake pa mauta awo onse; adawapereka ku chiwonongo, adawapatsa ku kuchekedwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "kukwiya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuli kwa Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mitundu"
+    },
+    {
+      "surface": "וחמה",
+      "gloss": "ndi mkwiyo wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "mauta awo"
+    },
+    {
+      "surface": "החרימם",
+      "gloss": "adawapereka ku chiwonongo"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "adawapatsa"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "ku kuchekedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:16:31.995344828Z",
+  "model": "glm-5.3"
+}

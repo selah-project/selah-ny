@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Ndipo aike chikhulupiriro chawo m'Elohim, osaiwala ntchito za El, koma asunge malamulo ake.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Ndipo aike"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "m'Elohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "chikhulupiriro chawo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "osaiwala"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "osaiwala"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "אל",
+      "gloss": "za El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "koma malamulo ake"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "asunge"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:35.048169172Z",
+  "model": "glm-5.3"
+}

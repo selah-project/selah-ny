@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo Davide anazunzidwa ndi chilakolako, nati: Ndani angandisotse madzi ochokera m'chitsime cha Beti-lehemu, chimene chili pamsinkhu?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "anazunzidwa ndi chilakolako"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "angandisotse"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "m'chitsime cha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehemu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "chili pamsinkhu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:29:21.655662035Z",
+  "model": "glm-5.3"
+}

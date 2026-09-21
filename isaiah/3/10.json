@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Nena kwa wolungama kuti zidzakhala zabwino, chifukwa iwo adzadya chipatso cha ntchito zawo.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Nena"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "kwa wolungama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zidzakhala zabwino"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "chipatso"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "cha ntchito zawo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "adzadya"
+    }
+  ],
+  "timestamp": "2026-09-21T09:01:45.910441970Z",
+  "model": "glm-5.3"
+}

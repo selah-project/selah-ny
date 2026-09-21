@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Amene adzafa wa Ahabi m'mudzi, agalu adzamudya; ndipo amene adzafa kuthambo, mbalame za kumwamba zidzamudya.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Amene adzafa"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "wa Ahabi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "m'mudzi"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "adzamudya"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "agalu"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "ndipo amene adzafa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kuthambo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zidzamudya"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "mbalame za"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    }
+  ],
+  "timestamp": "2026-09-21T08:43:37.821141391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo wakudya iyo adzanyamula mphulupulu yake, chifukwa anadetsa ⟨את⟩ chodetsedwa cha Yahwe; ndipo munthuyo adzachedwa mwa anthu ake.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "Ndipo wakudya iyo"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "mphulupulu yake"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "adzanyamula"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chodetsedwa cha Yahwe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chodetsedwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "cha Yahwe"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "anadetsa"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "ndipo adzachedwa"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "munthuyo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "mwa anthu ake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:40:13.975688918Z",
+  "model": "glm-5.3"
+}

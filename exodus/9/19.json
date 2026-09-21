@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 9:19",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo tsopano limbitsa ⟨את⟩ nyama zako ndi ⟨את⟩ zonse zimene uli nazo m'munda; munthu aliyense ndi nyama iliyonse imene idzapezeka m'mundamo, ndipo isasonkhanitsidwa m'nyumba, chilangalanga chidzagwa pa iwo, ndipo adzafa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ndipo tsopano"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "limbitsa"
+    },
+    {
+      "surface": "העז",
+      "gloss": "mwachangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama zako"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "nyama zako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "לך",
+      "gloss": "uli nazo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "m'munda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aliyense \/ iliyonse"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "ndi nyama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "idzapezeka"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "m'mundamo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo isa-"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "sonkhanitsidwa"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "chidzagwa"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "pa iwo"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "chilangalanga"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "adzafa"
+    }
+  ],
+  "timestamp": "2026-09-21T12:57:09.285542253Z",
+  "model": "glm-5.3"
+}

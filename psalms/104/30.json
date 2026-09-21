@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 104,
+  "translation": "Ukatuma mzimu wako, zolengedwa zimakhala; umatukula nkhope za nthaka.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "Ukatuma"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "mzimu wako"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "zolengedwa zimakhala"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "umatukula"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope za"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "nthaka"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:03.558697213Z",
+  "model": "glm-5.3"
+}

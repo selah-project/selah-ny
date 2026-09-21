@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Musapange nawo kapena ndi milungu yawo pangano.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "musapange"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "⟨musadule⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nawo"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "kapena ndi milungu yawo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pangano"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:32.380107533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 26:10",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo aseni a Yehudha anamva ⟨את⟩ mawu awa, nadzakwera kuchokera m'nyumba ya mfumu ku nyumba ya Yahwe, nakhalira pa khomo la chigwe chitsopano cha Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Ndipo anamva"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "aseni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yehudha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu awa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "nadzakwera"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kuchokera m'nyumba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mfumu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ku nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "nakhalira"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "pa khomo"
+    },
+    {
+      "surface": "שער",
+      "gloss": "la chigwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "cha Yahwe"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "chitsopano"
+    }
+  ],
+  "timestamp": "2026-09-21T09:39:03.153171038Z",
+  "model": "glm-5.3"
+}

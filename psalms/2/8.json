@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "“Pemphera kwa ine, ndipo ndidzakupatsa amitundu monga cholowa chako, ndi maomwali a dziko lapansi monga chuma chako.”",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Pemphera"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ndipo ndidzakupatsa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amitundu"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "cholowa chako"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "ndi chuma chako"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "maomwali"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:31.353179665Z",
+  "model": "glm-5.3"
+}

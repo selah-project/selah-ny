@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo utumiki wobizira wakubabazinga, ndi wofiira wamtundu wa nsomba, ndi woolowa wa mtundu wofiira womwe, ndi ulusi wabwino, ndi mwaumbwa wa mbuzi.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "utumiki wobizira wakubabazinga"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "woolowa"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "kaumbwa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mtundu wofiira womwe"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ulusi wabwino"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "mwaumbwa wa mbuzi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:20:11.608705786Z",
+  "model": "glm-5.3"
+}

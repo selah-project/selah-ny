@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Mawu ako ndi nyale ya mapazi anga, ndi kuwala kwa njira yanga.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "nyale"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "ya mapazi anga"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Mawu ako"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ndi kuwala"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "kwa njira yanga"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:08.054290800Z",
+  "model": "glm-5.3"
+}

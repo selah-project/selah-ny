@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Chakudya chilichonse moyo wawo umadana nacho, nadzera ku makomo a imfa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "chilichonse"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "chakudya"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "umadana nacho"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "moyo wawo"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "nadzera"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "makomo a"
+    },
+    {
+      "surface": "מות",
+      "gloss": "imfa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:04.741235219Z",
+  "model": "glm-5.3"
+}

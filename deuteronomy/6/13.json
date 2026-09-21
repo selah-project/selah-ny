@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "⟨את⟩ Yahwe Elohim wako udzaopa, ⟨את⟩ ndipo Iye udzatumikira, ndi m'Dzina lake udzalumbira.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim wako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "udzaopa"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ ndipo Iye"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "udzatumikira"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "ndi m'Dzina lake"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "udzalumbira"
+    }
+  ],
+  "timestamp": "2026-09-21T07:15:39.934992759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo wansembe adzaona ⟨את⟩ chizindikirocho, nadzatseka ⟨את⟩ chizindikirocho masiku asanu ndi awiri.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "adzaona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chizindikirocho"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "chizindikirocho"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "adzatseka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chizindikirocho"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "chizindikirocho"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "masiku asanu ndi awiri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    }
+  ],
+  "timestamp": "2026-09-21T06:38:05.250987817Z",
+  "model": "glm-5.3"
+}

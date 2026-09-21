@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 52,
+  "translation": "Yahwe wavula ⟨את⟩ dzanja lake lopatulika pamaso a mitundu yonse; ndipo maleke onse a dziko lapansi adzaona ⟨את⟩ chipulumutso cha Elohim wathu.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "wavula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzanja lake lopatulika"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "dzanja"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "lopatulika"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "pamaso a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mitundu"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "adzaona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "maleke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chipulumutso"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "chipulumutso"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:22:07.602906552Z",
+  "model": "glm-5.3"
+}

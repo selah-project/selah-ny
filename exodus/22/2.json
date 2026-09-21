@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ngati dzuwa litathe kuwala pa iye, mwazi ndi wake; adzalipira adzalipira; ngati ilibe ayi, adzagulitsidwa chifukwa cha kuba kwake.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "litathe kuwala"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dzuwa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "mwazi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wake"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "adzalipira"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "adzalipira"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ilibe ayi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨wake⟩"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "adzagulitsidwa"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "chifukwa cha kuba kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:21.440457391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo ana a Yisraeli anachuluka, anakwana kangokanga, anawonjezeka, naamira kwambiri kwambiri; ndipo dziko lapansi ladzazidwa ⟨ndi iwo⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ndipo ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "anachuluka"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "anakwana kangokanga"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "anawonjezeka"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "naamira"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ndipo ladzazidwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:07:19.926303605Z",
+  "model": "glm-5.3"
+}

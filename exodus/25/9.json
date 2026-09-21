@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Monga zonse zimene inensi ndikukuonetsa ⟨את⟩ iwe — ⟨את⟩ chitsanzo cha chihema ndi ⟨את⟩ chitsanzo cha zida zake zonse — ndipo motero muzipanga.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "Monga zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "אני",
+      "gloss": "inensi"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ndikukuonetsa"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chitsanzo cha chihema"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "chitsanzo"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "cha chihema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chitsanzo cha zida zake zonse"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "chitsanzo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "cha zida zake"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ndipo motero"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "muzipanga"
+    }
+  ],
+  "timestamp": "2026-09-21T06:19:43.036253436Z",
+  "model": "glm-5.3"
+}

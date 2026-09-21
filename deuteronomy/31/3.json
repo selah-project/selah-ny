@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 31:3",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Yahwe Elohim wako, iyeyo adzapita pamaso pako; iyeyo adzaononga ⟨את⟩ mitundu imi pamaso pako, ndipo udzawatenga; Yehoshuwa, iyeyo adzapita pamaso pako, monga momwe Yahwe analankhulira.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyeyo"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "adzapita"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamaso pako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyeyo"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "adzaononga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitundu imi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mitundu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "imi"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "pamaso pako"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ndipo udzawatenga"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyeyo"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "adzapita"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamaso pako"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "analankhulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T07:31:31.172337930Z",
+  "model": "glm-5.3"
+}

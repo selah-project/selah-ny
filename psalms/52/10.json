@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 52,
+  "translation": "Koma ine ndili ngati mizesu wothira m'nyumba ya Elohim; ndavomereza m'khesedi wa Elohim ku nthawi zonse ndi ku nthawi yosatha.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Koma ine"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "ngati mizesu"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "wothira"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "m'nyumba ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ndavomereza"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "m'khesedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ndi ku nthawi yosatha"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:36.053026635Z",
+  "model": "glm-5.3"
+}

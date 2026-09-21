@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Mwana wanga, ngati wasunga chikhulupiriro cha mnansi wako, ngati wakwapula dzanja lako kwa mlendo,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mwana wanga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "wasunga chikhulupiriro"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "cha mnansi wako"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "wakwapula"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "kwa mlendo"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "dzanja lako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:19:17.922874429Z",
+  "model": "glm-5.3"
+}

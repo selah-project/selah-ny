@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 1:6",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Kumvetsera chithanthwe ndi mawu a kufanizira, mawu a anthu anzeru, ndi zinsinsi zawo",
+  "tokens": [
+    {
+      "surface": "להבין",
+      "gloss": "kumvetsera"
+    },
+    {
+      "surface": "משל",
+      "gloss": "chithanthwe"
+    },
+    {
+      "surface": "ומליצה",
+      "gloss": "ndi mawu a kufanizira"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "anthu anzeru"
+    },
+    {
+      "surface": "וחידתם",
+      "gloss": "ndi zinsinsi zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:31.553073939Z",
+  "model": "glm-5.3"
+}

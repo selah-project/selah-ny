@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo uzibwereza kwa ana ako, ndi kuwalankhula pogona m'nyumba yako, potolera njira, pogona usiku ndi pouka.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "uzibwereza"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "kwa ana ako"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ndi kuwalankhula"
+    },
+    {
+      "surface": "בם",
+      "gloss": "-wa"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "pogona"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "m'nyumba yako"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "potolera njira"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "pogona usiku"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "pouka"
+    }
+  ],
+  "timestamp": "2026-09-21T07:15:10.754860687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 60,
+  "translation": "Kodi si iwe, Elohim, wanasichitira? Ndipo sudzatuluka, Elohim, ndi mauta athu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Kodi si"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "wanasichitira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Ndipo sudzatuluka"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "sudzatuluka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "ndi mauta athu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:14.023103406Z",
+  "model": "glm-5.3"
+}

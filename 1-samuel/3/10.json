@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo Yahwe anadza, anaimirira, nayitana monga kamodzi ndi kamodzi: “Shemueli! Shemueli!” Ndipo Shemueli anati: “Yankhula, chifukwa kapolo wako akumva.”",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "anadza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "anaimirira"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nayitana"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "monga kamodzi"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "ndi kamodzi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yankhula"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "akumva"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kapolo wako"
+    }
+  ],
+  "timestamp": "2026-09-21T08:00:42.231769641Z",
+  "model": "glm-5.3"
+}

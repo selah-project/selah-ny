@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo mudzasunga ⟨את⟩ chisunzo cha chiyero ndi ⟨את⟩ chisunzo cha guwa la nsembe, ndipo mkwiyo sudzakhalanso pa ana a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "mudzasunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chisunzo cha chiyero"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "chisunzo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "chiyero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chisunzo cha guwa la nsembe"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "chisunzo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa la nsembe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo osati"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "udzakhala"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "mkwiyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T07:01:18.529188326Z",
+  "model": "glm-5.3"
+}

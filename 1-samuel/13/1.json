@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Mwana wa chaka chimodzi Shauli pakulamulira kwake, ndipo zaka ziwiri analamulira pa Israyeli.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Mwana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wa chaka chimodzi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "pakulamulira kwake"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ndipo ziwiri"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "analamulira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:05:26.723824256Z",
+  "model": "glm-5.3"
+}

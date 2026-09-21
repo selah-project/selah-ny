@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 26:15",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Yang’anira m’chikhalidwe chako choyera, kuchoka kumwamba, ndipo dalitsa ⟨את⟩ anthu ako ⟨את⟩ Yisraeli ndi ⟨את⟩ nthaka imene munatipatsa kwa ife, monga monse munalumbira kwa makolo athu, nthaka ikutuluka mkaka ndi uchi.",
+  "tokens": [
+    {
+      "surface": "השקיפה",
+      "gloss": "yang’anira"
+    },
+    {
+      "surface": "ממעון",
+      "gloss": "m’chikhalidwe"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "choyera chako"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchoka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ndipo dalitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu ako"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "anthu ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nthaka"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "nthaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "munapatsa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa ife"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "munalumbira"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "kwa makolo athu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nthaka"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ikutuluka"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mkaka"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ndi uchi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:27:42.660764161Z",
+  "model": "glm-5.3"
+}

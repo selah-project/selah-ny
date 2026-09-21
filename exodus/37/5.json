@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo analowetsa ⟨את⟩ madongo m'mizere, pa mbali za ng'anjo ya pangano, kusenza ⟨את⟩ ng'anjo ya pangano.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "analowetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madongo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "madongo"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "m'mizere"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "mbali za"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ng'anjo ya pangano"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "kusenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'anjo ya pangano"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ng'anjo ya pangano"
+    }
+  ],
+  "timestamp": "2026-09-21T06:27:13.698430870Z",
+  "model": "glm-5.3"
+}

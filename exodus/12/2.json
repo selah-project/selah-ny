@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Mwezi uno ndi wa inu mutu wa miyezi; iye ndi woyamba kwa inu wa miyezi ya chaka.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "Mwezi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uno"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ndi wa inu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "wa miyezi"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "woyamba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "wa miyezi ya"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "chaka"
+    }
+  ],
+  "timestamp": "2026-09-21T06:12:24.933197001Z",
+  "model": "glm-5.3"
+}

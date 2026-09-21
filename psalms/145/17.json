@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 145,
+  "translation": "Yahwe ⟨ndi⟩ wolungama m'njira zake zonse, ndipo wachikondi mu ntchito zake zonse.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu zonse"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "njira zake"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "ndipo wachikondi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu zonse"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ntchito zake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:34.605871212Z",
+  "model": "glm-5.3"
+}

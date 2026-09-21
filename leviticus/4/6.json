@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo wansembe adazulumutsa ⟨את⟩ chala chake m'magazi, nadaza magaziwo nthawi zisanu ndi ziwiri pamaso pa Yahwe, ⟨את⟩ pamaso pa chizimiti cha chiyeretso.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "adazulumutsa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chala chake"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "chala chake"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "m'magazi"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "nadaza"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨ochokera⟩"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "magaziwo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zisanu ndi ziwiri"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "nthawi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pamaso (pa chizimiti)"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pamaso"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "chizimiti"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "chiyeretso"
+    }
+  ],
+  "timestamp": "2026-09-21T12:58:50.696806384Z",
+  "model": "glm-5.3"
+}

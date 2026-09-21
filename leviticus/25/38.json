@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ine ndine Yahwe Elohim wanu, amene ndinatulutsa ⟨את⟩ inu mu dziko la Mitsrayimu, kuti ndipatse inu ⟨את⟩ dziko la Kenaana, kuti ndikhale Elohim wanu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ndinatulutsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kuti ndipatse"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko la Kenaana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "la Kenaana"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kuti ndikhale"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wanu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim wanu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:45:26.095056156Z",
+  "model": "glm-5.3"
+}

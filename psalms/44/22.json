@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Kodi Elohim sadzafufuza izi? Pakuti iye adziwa zinsinsi za mtima.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "kodi sadza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "dzafufuza"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "adziwa"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "zinsinsi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "za mtima"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:49.823631596Z",
+  "model": "glm-5.3"
+}

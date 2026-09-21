@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Pakuti wobalitsa wawo ndi wamphamvu; iye adzatsutsa ⟨את⟩ mlandu wawo ndi ⟨את⟩ iwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "wobalitsa wawo"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ndi wamphamvu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "adzatsutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mlandu wawo"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "mlandu wawo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ndi ⟨את⟩ iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T13:29:11.393284729Z",
+  "model": "glm-5.3"
+}

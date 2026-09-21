@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 49:26",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Ndipo ndidzawadyetsa ⟨את⟩ akupondera ako ndi ⟨את⟩ nyama yawo, ndipo monga vinyo adzakhedwa ndi mwazi wawo wawo; ndipo nyama yonse idzadziwa kuti ndine Yahwe, Wakupulumutsa wako, ndi Mkolola wako, Wamphamvu wa Yaakoba.",
+  "tokens": [
+    {
+      "surface": "והאכלתי",
+      "gloss": "ndipo ndidzawadyetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akupondera ako"
+    },
+    {
+      "surface": "מוניך",
+      "gloss": "akupondera ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama yawo"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "nyama yawo"
+    },
+    {
+      "surface": "וכעסיס",
+      "gloss": "ndipo monga vinyo"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "mwazi wawo"
+    },
+    {
+      "surface": "ישכרון",
+      "gloss": "adzakhedwa"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ndipo adzadziwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "Wakupulumutsa wako"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "ndi Mkolola wako"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "Wamphamvu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakoba"
+    }
+  ],
+  "timestamp": "2026-09-21T09:21:31.665758867Z",
+  "model": "glm-5.3"
+}

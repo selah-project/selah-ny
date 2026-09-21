@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Pakuti masiku ake adalingidwa, chiwerengero cha miyezi yake chili ⟨את⟩ iwe; m'munaika malire ake, ndipo sadzapitirira.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "adalingidwa"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "masiku ake"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "chiwerengero"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "cha miyezi yake"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ iwe",
+      "marks": "chiwerengero cha miyezi yake"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "malire ake"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "m'munaika"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sadza"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "pitirira"
+    }
+  ],
+  "timestamp": "2026-09-21T11:35:44.342317573Z",
+  "model": "glm-5.3"
+}

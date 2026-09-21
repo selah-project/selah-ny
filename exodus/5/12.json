@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo anthuwo anafanizika m'dziko lonse la Mitsrayimu, kuwunika usi monga chisudzo.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "anafanizika"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthuwo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "m'dziko lonse la"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "kuwunika"
+    },
+    {
+      "surface": "קש",
+      "gloss": "usi"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "monga chisudzo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:15.981225030Z",
+  "model": "glm-5.3"
+}

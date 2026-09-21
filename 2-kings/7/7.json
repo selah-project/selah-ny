@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Choncho adauka nadzatuluka madzulo akuthwa, ndipo adasiya ⟨את⟩ mahema awo ndi ⟨את⟩ akavalo awo ndi ⟨את⟩ abulu awo — msasa monga umene unali — nadzatulukira moyo wawo.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "adauka"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "nadzatuluka"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "madzulo akuthwa"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "ndipo adasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahema awo"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "mahema awo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "akavalo awo"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "akavalo awo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "abulu awo"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "abulu awo"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "msasa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga umene"
+    },
+    {
+      "surface": "היא",
+      "gloss": "unali"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "nadzatulukira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "moyo wawo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:50:14.019364694Z",
+  "model": "glm-5.3"
+}

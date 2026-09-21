@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 19:11",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Nzeru za munthu zimtendeketsa mkwiyo wake, ndipo ulemerero wake ndi kupirira pa tchimo.",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "nzeru"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "za munthu"
+    },
+    {
+      "surface": "האריך",
+      "gloss": "timtendeketsa"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "mkwiyo wake"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "ndipo ulemerero wake"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kupirira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "tchimo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:24:19.647694543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo anabala mwa Khodeshi mkazi wake ⟨את⟩ Yovavu ndi ⟨את⟩ Tsivyia ndi ⟨את⟩ Meysha ndi ⟨את⟩ Malkamu.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Khodeshi"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mkazi wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yovavu"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovavu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Tsivyia"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Tsivyia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Meysha"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Meysha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Malkamu"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkamu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:25:01.069438841Z",
+  "model": "glm-5.3"
+}

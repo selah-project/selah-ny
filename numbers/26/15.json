@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ana a Gadi m'mabanja awo: wa Tsefoni, mbanja ya aTsefoni; wa Chagi, mbanja ya aChagi; wa Shuni, mbanja ya aShuni.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ana a"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "m'mabanja awo"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "wa Tsefoni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mbanja ya"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "aTsefoni"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "wa Chagi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mbanja ya"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "aChagi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "wa Shuni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mbanja ya"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "aShuni"
+    }
+  ],
+  "timestamp": "2026-09-21T07:05:40.978180237Z",
+  "model": "glm-5.3"
+}

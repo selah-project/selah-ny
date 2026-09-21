@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Adalira koma palibe wopulumutsa; kwa Yahwe, koma sanawayankhe.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "Adalira"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "koma palibe"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "wopulumutsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma sana"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "wayankhe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:38.282907521Z",
+  "model": "glm-5.3"
+}

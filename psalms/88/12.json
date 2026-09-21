@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 88,
+  "translation": "Kodi khesedi kozanenedwa m'manda? Kukhulupirika kwako kudzatchulidwa m'Abadoni?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "Kodi kozanenedwa"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "m'manda"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedi kwanu"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kukhulupirika kwako"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "m'Abadoni"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:22.250339898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 63:6",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 63,
+  "translation": "Ndinamizira anthu m'mkwiyo wanga, ndipo ndinawamwetsa m'kupsinjika kwanga, ndipo ndinatsitsa magazi awo mpaka dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "ואבוס",
+      "gloss": "ndinamizira"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "m'mkwiyo wanga"
+    },
+    {
+      "surface": "ואשכרם",
+      "gloss": "ndinawamwetsa"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "m'kupsinjika kwanga"
+    },
+    {
+      "surface": "ואוריד",
+      "gloss": "ndipo ndinatsitsa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "mpaka dziko lapansi"
+    },
+    {
+      "surface": "נצחם",
+      "gloss": "magazi awo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:25:09.715425299Z",
+  "model": "glm-5.3"
+}

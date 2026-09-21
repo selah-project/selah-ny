@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 3:23",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo mfumu inati: “Iyi akunena kuti: ‘Uyu ndi mwana wanga wamoyo, ndipo mwana wako ndi wakufa’; ndipo iyi akunena kuti: ‘Ayi, koma mwana wako ndi wakufa, ndipo mwana wanga ndi wamoyo.’”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "inati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "akunena"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana wanga"
+    },
+    {
+      "surface": "החי",
+      "gloss": "wamoyo"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "ndipo mwana wako"
+    },
+    {
+      "surface": "המת",
+      "gloss": "wakufa"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "ndipo iyi"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "akunena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koma"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana wako"
+    },
+    {
+      "surface": "המת",
+      "gloss": "wakufa"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ndipo mwana wanga"
+    },
+    {
+      "surface": "החי",
+      "gloss": "wamoyo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:31:45.964102765Z",
+  "model": "glm-5.3"
+}

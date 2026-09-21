@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Yahwe wolungama ali m'kati mwake; sadzachita chosalungama; mmamawa ndi mmamawa mweruzo wake umapereka kuowala; sudzachepera; ndipo wosalungama sadziwa manyazi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "m'kati mwake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dzachita"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "chosalungama"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mmamawa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mmamawa"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "mweruzo wake"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "umapereka"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "kuowala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "su-"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "dzachepera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sa-"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "dziwa"
+    },
+    {
+      "surface": "עול",
+      "gloss": "wosalungama"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "manyazi"
+    }
+  ],
+  "timestamp": "2026-09-21T13:24:01.325748114Z",
+  "model": "glm-5.3"
+}

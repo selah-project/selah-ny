@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Ndipo atiuze ife Yahwe Elohim wanu ⟨את⟩ njira imene tiyende m'menemo, ndi ⟨את⟩ chinthu chimene tichite.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ndipo atiuze"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njira"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "tiyende"
+    },
+    {
+      "surface": "בה",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chinthu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chinthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "tichite"
+    }
+  ],
+  "timestamp": "2026-09-21T09:48:00.048308800Z",
+  "model": "glm-5.3"
+}

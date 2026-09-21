@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Koma kapolo aliyense wa munthu, wogulidwa ndi siliva, uka mdulitsa ⟨אתו⟩, pompo adzadya m'menemo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kapolo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wa munthu"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "wogulidwa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ndi siliva"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "uka mdulitsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "אז",
+      "gloss": "pompo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "adzadya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "m'menemo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:13:02.233058183Z",
+  "model": "glm-5.3"
+}

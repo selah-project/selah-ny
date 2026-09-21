@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Yambitsani mitu yanu, Okhumba; inde, yambitsani okha, Sitseko za kale; ndipo mfumu ya ulemerero idzalowa.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "yambitsani"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "Okhumba"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "mitu yanu"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "inde, yambitsani okha"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "Sitseko"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "za kale"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ndipo idzalowa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ulemerero"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:50.689891316Z",
+  "model": "glm-5.3"
+}

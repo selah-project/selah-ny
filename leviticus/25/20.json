@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo ngati mudzati: ‘Chiyani tidzadya mu chaka chachisanu ndi chachiwiri, taona, sitidzabzala, ndipo sitidzakonza ⟨את⟩ zokolola zathu?’",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ndipo ngati"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "mudzati"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "tidzadya"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mu chaka"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "chachisanu ndi chachiwiri"
+    },
+    {
+      "surface": "הן",
+      "gloss": "taona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "tidzabzala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si-"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "tidzakonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zokolola zathu"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "zokolola zathu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:44:56.214817473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Chifukwa chake, onani, ine ndidzazinga ⟨את⟩ njira yako ndi matewu, ndipo ndidzamanga ⟨את⟩ mpanda, ndipo njira zake sadzapezanso.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "chifukwa chake"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "onani, ine"
+    },
+    {
+      "surface": "שך",
+      "gloss": "ndidzazinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njira yako"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "njira yako"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "ndi matewu"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "ndidzamanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpanda"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "mpanda"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "ndipo njira zake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "dzapezanso"
+    }
+  ],
+  "timestamp": "2026-09-21T10:20:23.874917650Z",
+  "model": "glm-5.3"
+}

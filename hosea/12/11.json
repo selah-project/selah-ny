@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 12:11",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo ndinayankhula ndi aneneri, ndipo ine ndawonjezera mawu a masomphenya, ndipo m'dzanja la aneneri ndimaonesa mafanizo.",
+  "tokens": [
+    {
+      "surface": "ודברתי",
+      "gloss": "Ndipo ndinayankhula"
+    },
+    {
+      "surface": "על",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "aneneri"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ndipo ine"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "mawu a masomphenya"
+    },
+    {
+      "surface": "הרביתי",
+      "gloss": "ndawonjezera"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ndipo m'dzanja"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "la aneneri"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ndimaonesa mafanizo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:22:05.162527876Z",
+  "model": "glm-5.3"
+}

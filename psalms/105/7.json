@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Iye ndi Yahwe Elohim wathu; miweruzo yake ili m'dziko lonse.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Iye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "m'dziko lonse (mwa konse)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "m'dziko lonse (dziko)"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "miweruzo yake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:55.972125129Z",
+  "model": "glm-5.3"
+}

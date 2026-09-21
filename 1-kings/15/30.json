@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Chifukwa cha machimo a Yarobeamu amene anachimwa, ndipo amene anachimwitsa ⟨את⟩ Yisraeli, m'kwiyo wake amene anakwiyitsa ⟨את⟩ Yahwe, Elohim wa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Chifukwa cha"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "machimo"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "a Yarobeamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "anachimwa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ndipo amene"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "anachimwitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "m'kwiyo wake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "anakwiyitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:42:03.968419704Z",
+  "model": "glm-5.3"
+}

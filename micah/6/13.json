@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 6:13",
+  "book": "micah",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo inenso ndinaliwaza iwe ndi kuumenya, ndi kuwononga, chifukwa cha machimo ako.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ndipo inenso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "החליתי",
+      "gloss": "ndinaliwaza"
+    },
+    {
+      "surface": "הכותך",
+      "gloss": "ndi kuumenya iwe"
+    },
+    {
+      "surface": "השמם",
+      "gloss": "ndi kuwononga"
+    },
+    {
+      "surface": "על",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "machimo ako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:31:36.971189518Z",
+  "model": "glm-5.3"
+}

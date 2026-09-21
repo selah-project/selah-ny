@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 22:9",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Utsi unakwera m'khosi mwake, ndi moto mu mkamulo mwake udzadya; ziwalo zinayaka chokera mwa iye.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "unakwera"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "utsi"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "m'khosi mwake"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ndi moto"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "mu mkamulo mwake"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "udzadya"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "ziwalo"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "zinayaka"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chokera mwa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T08:25:50.039555341Z",
+  "model": "glm-5.3"
+}

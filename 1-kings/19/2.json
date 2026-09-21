@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 19:2",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Nipo Izebeli anatumza mthenga kwa Eliyahu, kuti: “Momwe ichi achite Elohim, ndiponso momwemo muwonjezere, popeza pofika nthawi ina tsiku mawa ndidzaika ⟨את⟩ moyo wako monga moyo wa mmodzi wa iwo.”",
+  "tokens": [
+    {
+      "surface": "ותשלח",
+      "gloss": "anatumza"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebeli"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mthenga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "momwe"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "achite"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ndiponso momwemo"
+    },
+    {
+      "surface": "יוסיפון",
+      "gloss": "muwonjezere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "pofika nthawi ina"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "tsiku mawa"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ndidzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wako"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "monga moyo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wa mmodzi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "wa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:45:33.537547961Z",
+  "model": "glm-5.3"
+}

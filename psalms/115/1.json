@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 115,
+  "translation": "Si kwa ife, Yahwe, si kwa ife, koma kwa dzina lanu pereke ulemerero, chifukwa cha khesedi yanu, chifukwa cha choonadi chanu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa ife"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa ife"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koma"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "kwa dzina lanu"
+    },
+    {
+      "surface": "תן",
+      "gloss": "pereke"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ulemerero"
+    },
+    {
+      "surface": "על",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedi yanu"
+    },
+    {
+      "surface": "על",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "choonadi chanu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:33.392456588Z",
+  "model": "glm-5.3"
+}

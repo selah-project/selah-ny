@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 39:1",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Pa nthawiyo Merodakhi-Baladani, mwana wa Baladani, mfumu ya Baveli, anatuma mabuku ndi mphatso kwa Chizkiyahu; popeza anamva kuti wagwira matenda nakhazikika.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Pa nthawiyo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "anatuma"
+    },
+    {
+      "surface": "מרדך",
+      "gloss": "Merodakhi"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "-Baladani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "wa Baladani"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ya Baveli"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "mabuku"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "ndi mphatso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "pamene anamva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "wagwira matenda"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "nakhazikika"
+    }
+  ],
+  "timestamp": "2026-09-21T09:16:35.156947032Z",
+  "model": "glm-5.3"
+}

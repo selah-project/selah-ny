@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 24:3",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo Davide pamodzi ndi Tsadoki wa ana a Elazara, ndi Achimeleki wa ana a Itamara, anawagawira monga mwa maudindo awo mu utumiki wawo.",
+  "tokens": [
+    {
+      "surface": "ויחלקם",
+      "gloss": "anawagawira"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "Tsadoki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazara"
+    },
+    {
+      "surface": "ואחימלך",
+      "gloss": "Achimeleki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamara"
+    },
+    {
+      "surface": "לפקדתם",
+      "gloss": "maudindo awo"
+    },
+    {
+      "surface": "בעבדתם",
+      "gloss": "mu utumiki wawo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:33:47.800602565Z",
+  "model": "glm-5.3"
+}

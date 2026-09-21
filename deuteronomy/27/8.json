@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo udzalemba pa miyala ⟨את⟩ mawu onse a Tora iyi, moona bwino, modziwika bwino.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "udzalemba"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "miyala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "באר",
+      "gloss": "moona bwino"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "modziwika bwino"
+    }
+  ],
+  "timestamp": "2026-09-21T07:26:27.154752887Z",
+  "model": "glm-5.3"
+}

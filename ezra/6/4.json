@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "mizere itatu ya miyala yaikulu, ndi mzeru wina wa nkhuni yatsopano; ndipo mtengo wake uperekedwe m'nyumba ya mfumu.",
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "mizere"
+    },
+    {
+      "surface": "די",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "miyala"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "yaikulu"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "itatu"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "ndi mzeru wina"
+    },
+    {
+      "surface": "די",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אע",
+      "gloss": "nkhuni"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "yatsopano"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "ndipo mtengo wake"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uchokera"
+    },
+    {
+      "surface": "בית",
+      "gloss": "m'nyumba ya"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "uperekedwe"
+    }
+  ],
+  "timestamp": "2026-09-21T12:14:03.710676389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo Yehuda ndi Yisraeli anakhala mokhulupirika, munthu ali pansi pa mpesa wake ndi pansi pa mkuyu wake, kuyambira Dani mpaka Beersheba, masiku onse a Shelomo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ndi Yisraeli"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "mokhulupirika"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "mpesa wake"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ndi pansi pa"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "mkuyu wake"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "kuyambira Dani"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beersheba (mbali ya kumwamba)"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Beersheba (mbali ya chiwiri)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "a Shelomo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:33:17.264684487Z",
+  "model": "glm-5.3"
+}

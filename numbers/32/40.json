@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndipo Moshe anapatsa ⟨את⟩ Giladi kwa Makiri mwana wa Menashe, nayikhala mmenemo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "anapatsa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giladi"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giladi"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "kwa Makiri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nayikhala"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mmenemo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:09:08.771702063Z",
+  "model": "glm-5.3"
+}

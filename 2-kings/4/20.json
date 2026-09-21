@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo iye ananyamula, nabweretsa kwa amake; nakhala pa mapazi awo mpaka tsikuloiphira, nafaula.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "ananyamula"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "nabweretsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "amake"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nakhala"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "ma mino ake"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "tsikuloiphira"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "nafaula"
+    }
+  ],
+  "timestamp": "2026-09-21T08:49:10.976607579Z",
+  "model": "glm-5.3"
+}

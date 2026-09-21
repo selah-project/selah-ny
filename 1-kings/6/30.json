@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo ⟨את⟩ pansi pa nyumba anazingiza golide — mkati ndi kunja.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "pansi pa nyumba"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "pansi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a nyumba"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "anazingiza"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "mkati"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "ndi kunja"
+    }
+  ],
+  "timestamp": "2026-09-21T08:34:04.130595694Z",
+  "model": "glm-5.3"
+}

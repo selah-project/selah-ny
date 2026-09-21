@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 34:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Akufa awo adzathowedwa, ndipo kununkha kwawo kwadzakwera mwa zithuw zawo, ndipo mapiri adzasungunuka ndi mwazi wawo.",
+  "tokens": [
+    {
+      "surface": "וחלליהם",
+      "gloss": "Akufa awo"
+    },
+    {
+      "surface": "ישלכו",
+      "gloss": "adzathowedwa"
+    },
+    {
+      "surface": "ופגריהם",
+      "gloss": "zithuw zawo"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "kwadzakwera"
+    },
+    {
+      "surface": "באשם",
+      "gloss": "kununkha kwawo"
+    },
+    {
+      "surface": "ונמסו",
+      "gloss": "adzasungunuka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "מדמם",
+      "gloss": "ndi mwazi wawo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:16:31.995925815Z",
+  "model": "glm-5.3"
+}

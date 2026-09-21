@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo Solomoni anakonda ⟨את⟩ Yahwe, yokhayo kuyenda m'malamulo a Dawidi atate wake; koma m'malo otumbwa iye ankaphemba nsembe ndi kufukizira ubani.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "anakonda"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "yokhayo kuyenda"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "m'malamulo a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atate wake"
+    },
+    {
+      "surface": "רק",
+      "gloss": "koma"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "m'malo otumbwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ankaphemba nsembe"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "ndi kufukizira ubani"
+    }
+  ],
+  "timestamp": "2026-09-21T08:32:30.057757606Z",
+  "model": "glm-5.3"
+}

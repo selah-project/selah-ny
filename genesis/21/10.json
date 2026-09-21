@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Nati kwa Avraham: “Thamangitsa kapolo wamkazi uyu ndi ⟨את⟩ mwana wake; pakuti mwana wa kapolo wamkazi uyu sadzacholowa pamodzi ndi mwana wanga, ndi Yitschaki.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kwa Avraham"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "Thamangitsa"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "kapolo wamkazi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mwana wake"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "-cholowa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "wa kapolo wamkazi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana wanga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaki"
+    }
+  ],
+  "timestamp": "2026-09-21T05:50:25.486598207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 149,
+  "translation": "Olungama adzakondwera m'ulemerero; adzayimbe pa mabedero awo.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "adzakondwera"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "olungama"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "m'ulemerero"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "adzayimbe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "mabedero awo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:02.780675572Z",
+  "model": "glm-5.3"
+}

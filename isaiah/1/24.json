@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 1:24",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Chifukwa chake Adonayi Yahwe Tsevaoti, Wamphamvu wa Yisraeli, walankhula nati: Awa, ndidzapezera mtendere pa otsutsa anga, ndipo ndidzawenga pa adani anga.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Chifukwa chake"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "walankhula nati"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "Wamphamvu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Awa"
+    },
+    {
+      "surface": "אנחם",
+      "gloss": "ndidzapezera mtendere"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "pa otsutsa anga"
+    },
+    {
+      "surface": "ואנקמה",
+      "gloss": "ndipo ndidzawenga"
+    },
+    {
+      "surface": "מאויבי",
+      "gloss": "pa adani anga"
+    }
+  ],
+  "timestamp": "2026-09-21T09:01:12.672866721Z",
+  "model": "glm-5.3"
+}

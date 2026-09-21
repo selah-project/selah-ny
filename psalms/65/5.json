@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 65,
+  "translation": "Wodala iye amene umusankha, ndipo umamuyandikitsa kuti akhale m'mabwalo anu; tilefedwa ndi zabwino za nyumba yanu, hekali yanu wopatulika.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Wodala"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "umusankha"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "ndipo umamuyandikitsa"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "akhale"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "m'mabwalo anu"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "tilefedwa"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ndi zabwino"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "za nyumba yanu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "wopatulika"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "hekali yanu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:06.070661108Z",
+  "model": "glm-5.3"
+}

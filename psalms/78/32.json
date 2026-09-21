@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Ndi zonse izi anachimwabe, sanakhulupirire zozizwitsa zake.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ndi zonse"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izi"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "anachimwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "-be"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sa(na)"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "khulupirire"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "zozizwitsa zake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:49.422217157Z",
+  "model": "glm-5.3"
+}

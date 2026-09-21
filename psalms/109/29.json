@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 109:29",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "Otsutsa anga akavale chinyengo, ndipo adzivale manyazi awo monga chovalo.",
+  "tokens": [
+    {
+      "surface": "ילבשו",
+      "gloss": "akavale"
+    },
+    {
+      "surface": "שוטני",
+      "gloss": "otsutsa anga"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "chinyengo"
+    },
+    {
+      "surface": "ויעטו",
+      "gloss": "ndipo adzivale"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "monga chovalo"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "manyazi awo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:01.210145519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ngati moto utuluka, ndipo uwapeza malewa, ndipo chiphwata cha zanga chidyedwa, kapena zanga zimaimirira, kapena munda — wolakika motoyo adzalipira ⟨את⟩ kuwonongeka, ndithu adzalipira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "utuluka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "uwapeza"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "malewa"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "chidyedwa"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "chiphwata cha zanga"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "zanga zimaimirira"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "munda"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "adzalipira"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "adzalipira"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "wolakika moto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuwonongeka"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "kuwonongeka"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:36.563442508Z",
+  "model": "glm-5.3"
+}

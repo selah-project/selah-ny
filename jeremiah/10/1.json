@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Mumveni ⟨את⟩ mawu amene Yahwe analankhula kwa inu, nyumba ya Yisraeli.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mumveni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nalankhula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T09:32:44.663149458Z",
+  "model": "glm-5.3"
+}

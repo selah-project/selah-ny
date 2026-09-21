@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 12:2",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Mwana wa munthu, iwe ukukhala m'mkati mwa nyumba yakwiya, amene ali nazo maso a kuona koma sakaona, khutu la kumva koma sakumva; chifukwa iwo ndi nyumba yakwiya.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa munthu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "m'mkati mwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "yakwiya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ukukhala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "maso"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ali nazo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a kuona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "sakaona"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "khutu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "la"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kumva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "sakumva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "yakwiya"
+    },
+    {
+      "surface": "הם",
+      "gloss": "iwo ndi"
+    }
+  ],
+  "timestamp": "2026-09-21T09:58:50.640056166Z",
+  "model": "glm-5.3"
+}

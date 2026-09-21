@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 30:22",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo Elohim anakumbukira ⟨את⟩ Raheli, ndipo Elohim adamva mawu ake, natsegula chiberekero chake ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "ndipo anakumbukira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raheli"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raheli"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ndipo adamva mawu ake"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "natsegula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiberekero chake"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "chiberekero chake"
+    }
+  ],
+  "timestamp": "2026-09-21T05:54:51.173797180Z",
+  "model": "glm-5.3"
+}

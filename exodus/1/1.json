@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo haya ndi maina a ana a Yisraeli amene analowa Mitsrayimu: ndi ⟨את⟩ Yakobo, munthu ndi banja lake analowa.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ndipo haya"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "amene analowa"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakobo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "ndi banja lake"
+    },
+    {
+      "surface": "באו",
+      "gloss": "analowa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:07:49.907466595Z",
+  "model": "glm-5.3"
+}

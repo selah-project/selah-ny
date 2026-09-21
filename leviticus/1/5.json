@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo adzaphera ⟨את⟩ mwana wa ng'ombe pamaso pa Yahwe; ndipo ana a Aharon, ansembe, adzabweretsa ⟨את⟩ magazi, ndipo adzafafaza ⟨את⟩ magazi pa altyari kuzungulira, kumene kuli khomo la hema ya msonkhano.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "adzaphera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wa ng'ombe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "wa ng'ombe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "adzabweretsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "a Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magazi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "magazi"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "adzafafaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magazi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "magazi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altyari"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kuzungulira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kumene kuli"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "khomo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "la hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya msonkhano"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:18.681223391Z",
+  "model": "glm-5.3"
+}

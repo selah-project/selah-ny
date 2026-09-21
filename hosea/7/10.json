@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo chilemechetso cha Yisraeli chidzachitira mboni pamaso pake, koma sanabwezere kwa Yahwe Elohim wawo, ndipo sanamufune m'zinthu zonse izi.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "chidzachitira mboni"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "chilemechetso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "cha Yisraeli"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "pamaso pake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma sa-"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "nabwezere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wawo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sa-"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "namufune"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "m'zinthu zonse"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:22:48.958950130Z",
+  "model": "glm-5.3"
+}

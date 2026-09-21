@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo Moshe anatenga ⟨את⟩ mafuta odzozera, nadzozera ⟨את⟩ chihema ndi ⟨את⟩ zonse zimene zili mmenemo, nachiyeretsa ⟨את⟩ zonseizo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta odzozera"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "odzozera"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "nadzozera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chihema"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "בו",
+      "gloss": "zili mmenemo"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "nachiyeretsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ zonseizo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:34:56.978105239Z",
+  "model": "glm-5.3"
+}

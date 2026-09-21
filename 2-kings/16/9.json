@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo mfumu ya Ashuru idamvera iye; ndipo mfumu ya Ashuru idakwera ku Damasiko, ndipo idayigwira, ndipo idawatenganso aku Damasiko ku Kiri, ndipo ⟨את⟩ Retsini adamupha.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "idamvera"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "idakwera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasiko"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "idayigwira"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "idawatenganso"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "ku Kiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Retsini"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsini"
+    },
+    {
+      "surface": "המית",
+      "gloss": "adamupha"
+    }
+  ],
+  "timestamp": "2026-09-21T08:56:03.332277995Z",
+  "model": "glm-5.3"
+}

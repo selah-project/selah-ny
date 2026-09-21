@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Yankhulani ku msonkhano wonse wa ana a Yisraeli, ndipo muwauze: Mudzakhala oyera, chifukwa ine ndine woyera, ine Yahwe Elohim wanu.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Yankhulani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "msonkhano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ndipo muwauze"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "⟨iwo⟩"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "oyera"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "Mudzakhala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:40:50.278759090Z",
+  "model": "glm-5.3"
+}

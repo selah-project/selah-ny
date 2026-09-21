@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo anthu adzatsutsidwa, munthu ndi mnzake, ndi munthu ndi mnansi wake; anyamata adzachitira mwachifwamba mphara ku akulu a m'mbuyo, ndi wochepa ulemu ku wolemekezeka.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "adzatsutsidwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ndi munthu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ndi munthu"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "ndi mnansi wake"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "adzachitira mwachifwamba"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "anyamata"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "ku akulu a m'mbuyo"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "ndi wochepa ulemu"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "ku wolemekezeka"
+    }
+  ],
+  "timestamp": "2026-09-21T09:02:28.189191734Z",
+  "model": "glm-5.3"
+}

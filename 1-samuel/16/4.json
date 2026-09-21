@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo Shemuweli anachita ⟨את⟩ zimene Yahwe ananena, nadza ku Betlehemu; ndipo akulu a mudziyo anagwedezeka kum'koma iye, nati: “Kodi kuyako kwakucha ndi mtendere?”",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene Yahwe ananena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nadza"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Betlehemu"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "anagwedezeka"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "akulu a"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mudzi"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "kum'koma iye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "mtendere"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "kuyako"
+    }
+  ],
+  "timestamp": "2026-09-21T08:08:20.023531358Z",
+  "model": "glm-5.3"
+}

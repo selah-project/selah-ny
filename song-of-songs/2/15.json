@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 2:15",
+  "book": "song-of-songs",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Tigwirenji ife nkhumba zachilengo, nkhumba zachilengo zazing'ono zovunda mipesa; ndipo mipesa yathu ili ndi maluwa.",
+  "tokens": [
+    {
+      "surface": "אחזו",
+      "gloss": "tigwirenji"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "nkhumba zachilengo"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "nkhumba zachilengo"
+    },
+    {
+      "surface": "קטנים",
+      "gloss": "zazing'ono"
+    },
+    {
+      "surface": "מחבלים",
+      "gloss": "zovunda"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "mipesa"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "ndipo mipesa yathu"
+    },
+    {
+      "surface": "סמדר",
+      "gloss": "ili ndi maluwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:48:22.023303540Z",
+  "model": "glm-5.3"
+}

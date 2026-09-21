@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 68,
+  "translation": "Adonayi anati: “Kuchokera m'Bashani ndidzabweza, ndidzabweza kuchokera mu mafunde a nyanja.”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "kuchokera m'Bashani"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ndidzabweza"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ndidzabweza"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "kuchokera mu mafunde"
+    },
+    {
+      "surface": "ים",
+      "gloss": "a nyanja"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:34.477571915Z",
+  "model": "glm-5.3"
+}

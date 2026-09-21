@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Za ntchito za anthu, mwa mawu a milomo yako, ine ndinasunga ⟨njira za⟩ wankhanza.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "Za ntchito"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "za anthu"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "mwa mawu"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "a milomo yako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ndinasunga"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "⟨njira⟩"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "za wankhanza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:12.364937959Z",
+  "model": "glm-5.3"
+}

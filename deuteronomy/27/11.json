@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo Moshe analamulira ⟨את⟩ anthu tsiku limenelo, nati:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "analamulira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "limenelo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    }
+  ],
+  "timestamp": "2026-09-21T07:26:37.366834279Z",
+  "model": "glm-5.3"
+}

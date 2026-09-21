@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo ⟨את⟩ abwerera m'mbuyo ya Yahwe, ndi amene sanafune ⟨את⟩ Yahwe, ndipo sanamufufuze.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "abwerera"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "abwerera"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "m'mbuyo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ndi amene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "nafune"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sa-"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "namufufuze"
+    }
+  ],
+  "timestamp": "2026-09-21T10:34:12.547385712Z",
+  "model": "glm-5.3"
+}

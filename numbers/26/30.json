@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Awa ndi ana a Gileadi: wa Iezeri banja la aIezeri; wa Cheleki banja la aCheleki.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Awa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileadi"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "Iezeri"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "banja la"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "aIezeri"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "wa Cheleki"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "banja la"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "aCheleki"
+    }
+  ],
+  "timestamp": "2026-09-21T07:06:26.772139109Z",
+  "model": "glm-5.3"
+}

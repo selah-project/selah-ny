@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo ⟨inawalamulidwa⟩ ndi мwenye cedar pamwamba, pa miṁlengalenga yomwe ili pa miyala, makumi anayi ndi anayi, khumi ndiisanu pa mfulumira.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "⟨inawalamulidwa⟩"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "ndi мwenye cedar"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "pamwamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "miṁlengalenga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yomwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "miyala"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi anayi"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ndi anayi"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "khumi ndiisanu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨khumi ndiisanu⟩"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "mfulumira"
+    }
+  ],
+  "timestamp": "2026-09-21T13:09:17.366988735Z",
+  "model": "glm-5.3"
+}

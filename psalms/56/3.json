@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 56,
+  "translation": "Otsutsa anga andyezera ine tsiku lonse, chifukwa ambiri ndiwo akulimbana ndi ine, Wamkulu mkulu.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "andyezera"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "Otsutsa anga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ambiri"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "akulimbana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi ine"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "Wamkulu mkulu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:38.106411483Z",
+  "model": "glm-5.3"
+}

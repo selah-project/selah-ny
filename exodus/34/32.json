@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Ndipo pambuyo pake ana onse a Yisraeli anayandikira; ndipo anawalamulira ⟨את⟩ zonse zimene Yahwe analankhula naye ⟨את⟩ pa phiri la Sinayi.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Ndipo pambuyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "pake"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "anayandikira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "ndipo anawalamulira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "analan­khula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "naye ⟨את⟩",
+      "marks": "iye (Moshe)"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pa phiri"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "la Sinayi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:25:47.183687729Z",
+  "model": "glm-5.3"
+}

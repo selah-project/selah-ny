@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Koma m'masiku ako sindidzaichita, chifukwa cha Dawidi makolo ako; m'dzanja la mwana wako ndidzaiqhaqha.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Koma"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "m'masiku ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi-"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "dzaichita"
+    },
+    {
+      "surface": "למען",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "makolo ako"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana wako"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "ndidzaiqhaqha"
+    }
+  ],
+  "timestamp": "2026-09-21T08:38:51.565816638Z",
+  "model": "glm-5.3"
+}

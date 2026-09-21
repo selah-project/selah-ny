@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "amene m'manja mwawo muli chiwembu choipa, ndipo dzanja lawo lamanja ladzaza ndi katapira.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "m'manja mwawo"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "chiwembu choipa"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ndipo dzanja lawo lamanja"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ladzaza"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ndi katapira"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:26.741190494Z",
+  "model": "glm-5.3"
+}

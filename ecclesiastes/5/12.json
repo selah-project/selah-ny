@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Pali choipa cholwanda ndinaona pansi pa dzuwa: chuma chosungidwa kwa mwini wake, kuchoopsa kwake.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "pali"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "cholwanda"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndinaona"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dzuwa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "chuma"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "chosungidwa"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "kwa mwini wake"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "kuchoopsa kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:17.108739020Z",
+  "model": "glm-5.3"
+}

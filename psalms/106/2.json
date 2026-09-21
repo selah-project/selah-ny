@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Ndani angathe kulankhula mphamvu za Yahwe? Ndani angathe kuyamikitsa khamu lonse la matamando ake?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ndani"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "angathe kulankhula"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "mphamvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "za Yahwe"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "angathe kuyamikitsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "khamu lonse"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "la matamando ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:46.781191261Z",
+  "model": "glm-5.3"
+}

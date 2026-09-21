@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 147,
+  "translation": "Sanachitere choncho mtundu uliwonse; ndipo za miweruzo, iwo abadwa sizinazidziwe. Yamikani Yah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "כן",
+      "gloss": "choncho"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mtundu uliwonse"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "⟨wa amitundu⟩"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ndipo za miweruzo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sizinaike mtima"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "sizinazidziwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "yamikani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:13.610842971Z",
+  "model": "glm-5.3"
+}

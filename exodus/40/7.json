@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo mudzaika ⟨את⟩ beseni pakati pa chihema cha msonkhano ndi guwa, ndipo mudzaika pamenepo madzi.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "udzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beseni"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "beseni"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "cha msonkhano"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "udzaika"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pamenepo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:21.278586010Z",
+  "model": "glm-5.3"
+}

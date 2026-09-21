@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Adonayi adzamaseka iye, chifukwa iye amaona kuti tsiku lake likubwera.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "adzamaseka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "amaona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "likubwera"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "tsiku lake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:25.653232120Z",
+  "model": "glm-5.3"
+}

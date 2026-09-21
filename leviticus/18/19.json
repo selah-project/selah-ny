@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 18:19",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo kwa mkazi wopezeka m'kupatulidwa kwake chifukwa cha lunyo lake, sumayandikira kuti avumbulutse maliseche ake.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ndipo kwa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "בנדת",
+      "gloss": "m'kupatulidwa kwake"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "lunyo lake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "-yandikira"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "kuti avumbulutse"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "maliseche ake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:40:16.448401730Z",
+  "model": "glm-5.3"
+}

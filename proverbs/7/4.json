@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Nena kwa nzeru: “Iwe ndi mlongo wanga”; ndipo kwa kuzindikira uziyitane ⟨chibale chako⟩.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Nena"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "kwa nzeru"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "mlongo wanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "ndipo chibale"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "kwa kuzindikira"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "uziyitane"
+    }
+  ],
+  "timestamp": "2026-09-21T11:20:38.790921452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Anagwedezetsa ⟨את⟩ kumwamba nadzetsa; ndipo mdima wokhuthula panansi pa mapazi ake.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Anagwedezetsa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "nadzetsa"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ndipo mdima wokhuthula"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "panansi pa"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "mapazi ake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:40.204871463Z",
+  "model": "glm-5.3"
+}

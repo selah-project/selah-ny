@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Chifukwa Avraham anamvera m'liwu langa, nasunga chisunzo changa, malamulo anga, malemba anga, ndi Tora yanga.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "anamvera"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "m'liwu langa"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "nasunga"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "chisunzo changa"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "malamulo anga"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "malemba anga"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "ndi Tora yanga"
+    }
+  ],
+  "timestamp": "2026-09-21T05:53:32.441543517Z",
+  "model": "glm-5.3"
+}

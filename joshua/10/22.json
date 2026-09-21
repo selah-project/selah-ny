@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo Yehoshuwa adati: 'Tsegulani ⟨את⟩ mkamwa wa phanga, ndipo mutulutse kwa ine ⟨את⟩ mfumu zisanu izi m'phangamo.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "Tsegulani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkamwa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mkamwa"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "wa phanga"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "ndipo mutulutse"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfumu zisanu izi"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "zisanu"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "m'"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "phangamo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:37:33.261744865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Diso langa lathothoka ndi chisoni; litopa ndi otsutsa onse anga.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "lathothoka"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "ndi chisoni"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "diso langa"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "litopa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ndi onse ⟨a⟩"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "otsutsa anga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:38.190661213Z",
+  "model": "glm-5.3"
+}

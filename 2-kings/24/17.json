@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo mfumu ya Babuloni inamulitsa ⟨את⟩ Matanyahu, amalume wake, m'malo mwake, nasandutsa ⟨את⟩ dzina lake kuti likhale Tsidkiyahu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "inamulitsa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babuloni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Matanyahu"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Matanyahu"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "amalume wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "m'malo mwake"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "nasandutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzina lake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dzina lake"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:00:54.809314836Z",
+  "model": "glm-5.3"
+}

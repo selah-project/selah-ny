@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo wansembe adamuyandikitsa ⟨את⟩ iye, namuyimiritsa pamaso pa Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "adamuyandikitsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "namuyimiritsa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:53:03.601368067Z",
+  "model": "glm-5.3"
+}

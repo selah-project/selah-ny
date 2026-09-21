@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 57,
+  "translation": "Chitire chisomo ine, Elohim, chitire chisomo ine; pakuti mwa Inu moyo wanga wathawira, ndipo m'mthunzi wa mapiko anu ndidzathawira, kufikira mavuto atadutsa.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Chitire chisomo ine"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "chitire chisomo ine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mwa Inu"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "wathawira"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "ndipo m'mthunzi"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "wa mapiko anu"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ndidzathawira"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "atadutsa"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "mavuto"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:51.700413795Z",
+  "model": "glm-5.3"
+}

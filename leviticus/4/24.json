@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo adzayika dzanja lake pa mutu wa mbuleyo, nadzapha ⟨את⟩ iye kumene amphera ⟨את⟩ nsembe yopsereza pamaso pa Yahwe; ndi nsembe ya tchimo.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "adzayika"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "wa mbuleyo"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "nadzapha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "mbuleyo"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "kumene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "amphera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe yopsereza"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nsembe yopsereza"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "nsembe ya tchimo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndi imeneyo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:32:07.997922987Z",
+  "model": "glm-5.3"
+}

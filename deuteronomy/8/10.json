@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo udzadya ndi kukhuta, ndipo udzadalitsa ⟨את⟩ Yahwe Elohim wako pa dziko labwino limene anakupatsa.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "Ndipo udzadya"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ndi kukhuta"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "ndipo udzadalitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "labwino"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anakupatsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨iwe⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T07:17:23.485074745Z",
+  "model": "glm-5.3"
+}

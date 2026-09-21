@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 24:20",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Kugwedezeka kuthunthu, dziko lapansi lidzagwedezeka ngati wachidakwa, ndipo lidzakankhizana ngati chihema; ndipo umpulumutsi wake udzalemera pa iye, ndipo ugwa, ndipo sudzaonjezera kuuka.",
+  "tokens": [
+    {
+      "surface": "נוע",
+      "gloss": "kugwedezeka kuthunthu"
+    },
+    {
+      "surface": "תנוע",
+      "gloss": "lidzagwedezeka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "ngati wachidakwa"
+    },
+    {
+      "surface": "והתנודדה",
+      "gloss": "ndipo lidzakankhizana"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "ngati chihema"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "ndipo udzalemera"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "פשעה",
+      "gloss": "umpulumutsi wake"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "ndipo ugwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si"
+    },
+    {
+      "surface": "תסיף",
+      "gloss": "dzaonjezera"
+    },
+    {
+      "surface": "קום",
+      "gloss": "kuuka"
+    }
+  ],
+  "timestamp": "2026-09-21T09:11:00.616636048Z",
+  "model": "glm-5.3"
+}

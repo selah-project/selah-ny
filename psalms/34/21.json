@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Yahwe amasunga mafupa onse ake; limodzi mwa iwo silinaphwanyidwe.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "amasunga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "mafupa ake"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "limodzi"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "mwa iwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "linaphwanyidwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:27.210003615Z",
+  "model": "glm-5.3"
+}

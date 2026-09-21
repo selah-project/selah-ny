@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndi ⟨את⟩ Poratha, ndi ⟨את⟩ Adaliya, ndi ⟨את⟩ Aridatha;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Poratha"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "Poratha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Adaliya"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "Adaliya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Aridatha"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "Aridatha"
+    }
+  ],
+  "timestamp": "2026-09-21T12:01:13.727147239Z",
+  "model": "glm-5.3"
+}

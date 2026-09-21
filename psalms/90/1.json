@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 90,
+  "translation": "Pemphero la Moshe, munthu wa Elohim. Adonayi, m'dera mokhazikika iwe unakhala kwa ife, m'mbadwo ndi m'mbadwo.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Pemphero"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "la Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "m'dera mokhazikika"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "היית",
+      "gloss": "unakhala"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa ife"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "m'mbadwo"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ndi m'mbadwo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:19.074130654Z",
+  "model": "glm-5.3"
+}

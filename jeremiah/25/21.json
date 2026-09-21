@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "⟨את⟩ Edomu, ndi ⟨את⟩ Mowabu, ndi ⟨את⟩ ana a Amoni.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Mowabu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana a Amoni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    }
+  ],
+  "timestamp": "2026-09-21T09:38:27.733749985Z",
+  "model": "glm-5.3"
+}

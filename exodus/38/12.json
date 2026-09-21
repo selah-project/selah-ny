@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 38:12",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Ndipo kumbuyo kwa kumadzulo mapeto makumi asanu m'mamita; mitanda yawo khumi, ndipo maziko ake khumi; zokolola za mitanda ndi zolumikiza zawo siliva.",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "ndipo kumbuyo kwa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "kumadzulo"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "mapeto"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "makumi asanu"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "m'mamita"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "mitanda yawo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ndipo maziko ake"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "ואוי",
+      "gloss": "zokolola"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "za mitanda"
+    },
+    {
+      "surface": "וחשוקיהם",
+      "gloss": "ndi zolumikiza zawo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "siliva"
+    }
+  ],
+  "timestamp": "2026-09-21T06:26:40.600122214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 21:32",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ngati ng'ombeyo wabanganda kapolo wamwamuna kapena kapolo wamkazi, adzapereka siliva mashekeli makumi atatu kwa mbuye wake, ndipo ng'ombeyo adzaphedwa ndi mwala.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kapolo wamwamuna"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "wabanganda"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ng'ombeyo"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kapolo wamkazi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "makumi atatu"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "mashekeli"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "adzapereka"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "kwa mbuye wake"
+    },
+    {
+      "surface": "והשור",
+      "gloss": "ndipo ng'ombeyo"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "adzaphedwa ndi mwala"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:40.949871633Z",
+  "model": "glm-5.3"
+}

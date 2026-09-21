@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "M'nkhali mudzagwa; pa mphaka wa Yisraeli ndidzaweruza ⟨אתכם⟩; ndipo mudzadziwa kuti ine ndine Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "M'nkhali"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "mudzagwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "mphaka wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "ndidzaweruza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "inu"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ndipo mudzadziwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T13:18:20.707288427Z",
+  "model": "glm-5.3"
+}

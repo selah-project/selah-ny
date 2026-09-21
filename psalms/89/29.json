@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 89:29",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Ku nthawi yosatha ndidzasunga khesedi kwanga kwa iye, ndipo pangano langa lofikirira lidzakhalabe nawe.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi yosatha"
+    },
+    {
+      "surface": "אשמור",
+      "gloss": "ndidzasunga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "khesedi kwanga"
+    },
+    {
+      "surface": "ובריתי",
+      "gloss": "ndipo pangano langa"
+    },
+    {
+      "surface": "נאמנת",
+      "gloss": "lofikirira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nawe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:53.976608771Z",
+  "model": "glm-5.3"
+}

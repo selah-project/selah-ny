@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 104,
+  "translation": "Zipatso madzi nyama zonse za kutchire; anyani amaphwanya ludzu lwawo.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "zipatso madzi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "nyama za"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "kutchire"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "amaphwanya"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "anyani"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "ludzu lwawo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:55.237099249Z",
+  "model": "glm-5.3"
+}

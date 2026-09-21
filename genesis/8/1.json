@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo Elohim adakumbukira ⟨את⟩ Noa, ndi ⟨את⟩ nyama zonse, ndi ⟨את⟩ ziwete zonse zimene zinali naye m'ngalawa; ndipo Elohim adaetsa mpweya pa dziko lapansi, ndipo madzi anachepa.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "adakumbukira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyama zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ziwete zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ziwete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "m'ngalawa"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "adaetsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mpweya"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "anachepa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "madzi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:54.217295820Z",
+  "model": "glm-5.3"
+}

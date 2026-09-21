@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo adzaika ⟨את⟩ dzina langa pa ana a Yisraeli, ndipo ine ndidzawadalitsa.",
+  "tokens": [
+    {
+      "surface": "ושמו",
+      "gloss": "ndipo adzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzina langa"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "dzina langa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ndipo ine"
+    },
+    {
+      "surface": "אברכם",
+      "gloss": "ndidzawadalitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:52:10.512138553Z",
+  "model": "glm-5.3"
+}

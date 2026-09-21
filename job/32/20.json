@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 32:20",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndidzalankhula ndipo nditenge mpweya; ndidzatsegula milomo yanga ndipo ndidzayankha.",
+  "tokens": [
+    {
+      "surface": "אדברה",
+      "gloss": "Ndidzalankhula"
+    },
+    {
+      "surface": "וירוח",
+      "gloss": "ndipo nditenge mpweya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ndidzatsegula"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "milomo yanga"
+    },
+    {
+      "surface": "ואענה",
+      "gloss": "ndipo ndidzayankha"
+    }
+  ],
+  "timestamp": "2026-09-21T11:43:13.328726992Z",
+  "model": "glm-5.3"
+}

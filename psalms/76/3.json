@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 76,
+  "translation": "Ndipo chihema chake chili mu Shalemu, ndi malo ake okhala m'Tsiyoni.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ndipo chili"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "mu Shalemu"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "chihema chake"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "ndi malo ake okhala"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "m'Tsiyoni"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:39.137539933Z",
+  "model": "glm-5.3"
+}

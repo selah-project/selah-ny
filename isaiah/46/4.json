@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 46:4",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 46,
+  "translation": "Mpaka ukalamba ndine iyeyo, mpaka mtengo uwu ndidzanyamula; ndine ndinachita, ndipo ndine ndidzanyamula, ndipo ndine ndidzanyamula ndi kupulumutsa.",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "Mpaka"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "ukalamba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyeyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "mtengo uwu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "ndidzanyamula"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndinachita"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ndipo ndine"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ndidzanyamula"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ndipo ndine"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "ndidzanyamula"
+    },
+    {
+      "surface": "ואמלט",
+      "gloss": "ndi kupulumutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:19:53.211922496Z",
+  "model": "glm-5.3"
+}

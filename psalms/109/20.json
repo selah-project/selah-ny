@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "Izi ndi mphero ya otsutsa anga chochokera kwa ⟨את⟩ Yahwe, ndi akunena zoipa pa moyo wanga.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Izi"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "mphero"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "ya otsutsa anga"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "chochokera kwa ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "ndi akunena"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:36.496683957Z",
+  "model": "glm-5.3"
+}

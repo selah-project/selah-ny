@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 146:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 146,
+  "translation": "Wodala iye amene ali naye Elohim wa Yaaqov monga thandizo lake, amene sekero lake lili pa Yahwe Elohim wake.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Wodala"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "amene ali naye"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqov"
+    },
+    {
+      "surface": "בעזרו",
+      "gloss": "monga thandizo lake"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "sekero lake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim wake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:30.418655913Z",
+  "model": "glm-5.3"
+}

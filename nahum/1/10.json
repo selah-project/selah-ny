@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Pakadali minga yosanganidwa, ndi oledzera ndi kumwa kwawo, adzadyedwa monga udzu wouma kwathunthu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakadali"
+    },
+    {
+      "surface": "עד",
+      "gloss": "pamene"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "minga"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "yosanganidwa"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "ndi kumwa kwawo"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "oledzera"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "adzadyedwa"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "monga udzu"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "wouma"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kwathunthu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:31:02.701009496Z",
+  "model": "glm-5.3"
+}

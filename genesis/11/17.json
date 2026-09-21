@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 11:17",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Ever anakhala zaka mazana anayi ndi makumi atatu akabadwa ⟨את⟩ Pelegi, ndipo anabala anaamuna ndi aakazi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akabadwa"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "Pelegi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelegi"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Pelegi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "makumi atatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ndi mazana anayi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anaamuna"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ndi aakazi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:46:23.875235188Z",
+  "model": "glm-5.3"
+}

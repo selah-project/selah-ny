@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 6:9",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo ndinakulambilani ⟨את⟩ inu m'dzanja la Mitsrayimu, ndi m'dzanja la onse ananuzani, ndipo ndinawatulutsa ⟨את⟩ iwo pamaso panu, ndipo ndinakupatsani inu ⟨את⟩ dziko lawo.",
+  "tokens": [
+    {
+      "surface": "ואצל",
+      "gloss": "ndinakulambilani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ndi m'dzanja la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "לחציכם",
+      "gloss": "ananuzani"
+    },
+    {
+      "surface": "ואגרש",
+      "gloss": "ndinawatulutsa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "pamaso panu"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ndinakupatsani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko lawo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dziko lawo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:47:52.321727914Z",
+  "model": "glm-5.3"
+}

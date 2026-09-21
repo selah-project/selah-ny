@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Sadzakhalabe m'dziko la Yahwe; koma Efurayimu adzabwerera ku Mitsrayimu, ndipo ku Ashuru adzadya zodetsa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "dzakhalabe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "koma adzabwerera"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efurayimu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ku Mitsrayimu"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "ndipo ku Ashuru"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "zodetsa"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "adzadya"
+    }
+  ],
+  "timestamp": "2026-09-21T10:23:06.375796756Z",
+  "model": "glm-5.3"
+}

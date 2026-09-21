@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndi adzavula ⟨את⟩ zovala zake, ndipo adzavala zovala zina, ndipo adzatulutsa ⟨את⟩ dengu kunja kwa msasa, kumalo oyera.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "adzavula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zovala zake"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "zovala zake"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "adzavala"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "zovala"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "zina"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "adzatulutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dengu"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "dengu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kunja"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "msasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kumalo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "oyera"
+    }
+  ],
+  "timestamp": "2026-09-21T06:33:04.426133756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo anthu anayankha nati: “Ayi, kwathu ife kusiya ⟨את⟩ Yahwe kuti tizitumikire milungu ina.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ndipo anayankha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "ayi, kwathu ife"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "kusiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kuti tizitumikire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "milungu"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ina"
+    }
+  ],
+  "timestamp": "2026-09-21T07:44:58.660496302Z",
+  "model": "glm-5.3"
+}

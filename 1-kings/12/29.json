@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Idaika ⟨את⟩ chimodzi m’Betheli, ndipo ⟨את⟩ chimodzi idapereka m’Dani.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Idaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chimodzi (chakutali)"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "chimodzi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "m’Betheli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(Betheli)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "chimodzi (china)"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "chimodzi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "idapereka"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "m’Dani"
+    }
+  ],
+  "timestamp": "2026-09-21T13:09:48.695432393Z",
+  "model": "glm-5.3"
+}

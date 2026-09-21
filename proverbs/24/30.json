@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Pa munda wa munthu wosalephera ndinadutsa, ndi pa munda wa mphesa wa munthu wosowa mtima.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "munda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wa munthu"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "wosalephera"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "ndinadutsa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "munda wa mphesa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa munthu"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "wosowa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    }
+  ],
+  "timestamp": "2026-09-21T13:29:20.618863405Z",
+  "model": "glm-5.3"
+}

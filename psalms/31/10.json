@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndikhululukire Yahwe, chifukwa mavuto ali pa ine; diso langa, moyo wanga ndi mimba yanga zathawa m'chisoni.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ndikhululukire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "mavuto ali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "zathawa"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "m'chisoni"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "diso langa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "ndi mimba yanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:20.555782290Z",
+  "model": "glm-5.3"
+}

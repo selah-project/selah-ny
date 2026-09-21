@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 137,
+  "translation": "Wodala iye amene adzagwira ndi kugweteka ⟨את⟩ ana ako amaying'ono pa lipoti.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Wodala"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "amene adzagwira"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "ndi kugweteka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana ako amaying'ono"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "ana ako amaying'ono"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "lipoti"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:02.038854265Z",
+  "model": "glm-5.3"
+}

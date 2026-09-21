@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 63,
+  "translation": "Moyo wanga wakamana nanu kwa iwe; mwa ine dzanja lako lamanja lindilimitsa.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "wakamana nanu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mwa ine"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "lindilimitsa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dzanja lako lamanja"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:20.913738359Z",
+  "model": "glm-5.3"
+}

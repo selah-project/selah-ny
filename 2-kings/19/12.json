@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "“Kodi milungu ya amitunduwo inapulumutsa ⟨את⟩ iwo, amene makolo anga anawaononga — ⟨את⟩ Gozani, ndi ⟨את⟩ Harani, Retsefu, ndi ana a Edeni, amene ali ku Telasari?”",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "inapulumutsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "milungu ya"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amitunduwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "anawaononga"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "makolo anga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozani"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Harani"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Harani"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "Retsefu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ndi ana a"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "ku Telasari"
+    }
+  ],
+  "timestamp": "2026-09-21T08:56:00.584253699Z",
+  "model": "glm-5.3"
+}

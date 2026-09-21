@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Kwa woyang'anira ⟨nyimbo⟩, pa imfa ya Labeni. Nyimbo ya Davide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "pa imfa ya"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labeni"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Nyimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Davide"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:48.187240834Z",
+  "model": "glm-5.3"
+}

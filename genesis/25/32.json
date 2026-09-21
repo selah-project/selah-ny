@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo Esav anati: “Taonani, ndikupita kufa, ndipo ubwana woyamba ungandipindula chiyani?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Taonani"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ndikupita"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ndipo chiyani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "ubwana woyamba"
+    }
+  ],
+  "timestamp": "2026-09-21T05:53:15.871873926Z",
+  "model": "glm-5.3"
+}

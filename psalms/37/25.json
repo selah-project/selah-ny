@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndinali wachinyamata, ndiponso ndachedwa, koma sindinaona wolungama wosalidwa, kapena mbewu yake ikafunsira mkate.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "wachinyamata"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "Ndinali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "ndachedwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma sindinaona"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "sindinaona"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "wosalidwa"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "kapena mbewu yake"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ikafunsira"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:08.645887939Z",
+  "model": "glm-5.3"
+}

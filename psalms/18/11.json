@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Anakwera pa kerubi, nayendayo; anadzera pa mapiko a mpweya.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "Anakwera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerubi"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "nayendayo"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "anadzera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mapiko a"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mpweya"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:40.205032251Z",
+  "model": "glm-5.3"
+}

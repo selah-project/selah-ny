@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Adzadya koma sadzakhutitsidwa; achita chigololo koma sadzaonjezereka; pakuti anasiya kusunga ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Adzadya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma sadza"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "khutitsidwa"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "achita chigololo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma sadza"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "onjezereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "anasiya"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kusunga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:19:51.339119524Z",
+  "model": "glm-5.3"
+}

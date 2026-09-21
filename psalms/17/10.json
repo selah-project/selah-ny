@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Mafuta awo atatsekedwa, pakamwa pawo panena mwa kudzikuza.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "mafuta awo"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "atatsekedwa"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "pakamwa pawo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "panena"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "mwa kudzikuza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:56.755927100Z",
+  "model": "glm-5.3"
+}

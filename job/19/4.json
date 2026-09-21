@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo ndithu ngati nditasochera, chisochero changa chikhala ⟨את⟩ ndi ine yekha.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "ndipo"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "ndithu ngati"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "nditasochera"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "ndi ine yekha ⟨את⟩"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "chikhala"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "chisochero changa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:37:01.386288496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo mzimu wa Mitsrayimu udzathothoka m'mkati mwawo, ndipo ulamuliro wawo ndidzameza; ndipo adzafunsa kwa mafano, ndi kwa ophunzitsa mozamba, ndi kwa oyimba mizimu ya akufa, ndi kwa odziwa za mizimu.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "ndipo udzathothoka"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "m'mkati mwawo"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "ndipo ulamuliro wawo"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "ndidzameza"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "ndipo adzafunsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "mafano"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi kwa"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "ophunzitsa mozamba"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi kwa"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "oyimba mizimu ya akufa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi kwa"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "odziwa za mizimu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:08:34.701223730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Amakwera kumwamba, amatsika ku madzi akuya; moyo wawo umathothoka mu chisoni.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "amakwera"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "amatsika"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ku madzi akuya"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "moyo wawo"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "mu chisoni"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "umathothoka"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:13.426913309Z",
+  "model": "glm-5.3"
+}

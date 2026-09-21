@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Nyimbo ya mzindo, nyimbo ya chinthawi cha kutsanulira nyumba, ya Davide.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "nyimbo ya mzindo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "chinthawi cha kutsanulira"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Davide"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:28.199155865Z",
+  "model": "glm-5.3"
+}

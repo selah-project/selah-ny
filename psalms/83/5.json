@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 83,
+  "translation": "Anati: “Bwerani, ndipo tiphetse mtunduwu, kuti dzina la Yisraeli lisakumbukidwekenso.”",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Anati"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Bwerani"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "ndipo tiphetse"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "mtunduwu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuti ... isa"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "lisakumbukidwekenso"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dzina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "la Yisraeli"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kenso"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:34.019978943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 49:33",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Yakobo atatha kulamulira ⟨את⟩ ana ake aamuna, ndipo anaikira mapazi ake pa bedi, nafuula moyo <wodzadza> ndipo anasonkhana kwa anthu ake.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "atatha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "לצות",
+      "gloss": "kulamulira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana ake aamuna"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake aamuna"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "anaikira"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "mapazi ake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "bedi"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "nafuula moyo ⟨wodzadza⟩"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "anasonkhana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "anthu ake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:06:01.599658894Z",
+  "model": "glm-5.3"
+}

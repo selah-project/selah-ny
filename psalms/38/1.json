@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Nyimbo ya Davide, yofunika kukumbukira.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Davide"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "yofunika kukumbukira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:33.587377679Z",
+  "model": "glm-5.3"
+}

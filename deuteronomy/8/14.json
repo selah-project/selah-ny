@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo mtima wako ukachitira chikuza, ndi ukanaiwa ⟨את⟩ Yahwe Elohim wako, amene adakutulutsa m'dziko la Mitsrayimu, m'nyumba ya ukapolo;",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "ukachitira chikuza"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "mtima wako"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "ndi ukanaiwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim wako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "amene adakutulutsa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "m'dziko la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "m'nyumba ya"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ukapolo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:17:31.961239751Z",
+  "model": "glm-5.3"
+}

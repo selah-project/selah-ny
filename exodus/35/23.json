@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 35:23",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Ndipo munthu aliyense amene anapezeka kwa iye ⟨אתו⟩ buluu, zaule, tanda la fiira, lineni, ndi tsitsi la mbuzi, ndi machira a nkhosa zofiyadi, ndi machira a tachashi, anazibwala.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ndi munthu aliyense"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "anapezeka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "kwa iye — zinthu zolongosokedwa (buluu, zaule, lineni...)"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "buluu"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ndi zaule"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ndi tanda la"
+    },
+    {
+      "surface": "שני",
+      "gloss": "fiira"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ndi lineni"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "ndi tsitsi la mbuzi"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "ndi machira a"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "nkhosa zamphongo"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "zofiyadi"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "ndi machira a"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tachashi"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "anazibwala"
+    }
+  ],
+  "timestamp": "2026-09-21T06:26:46.358451281Z",
+  "model": "glm-5.3"
+}

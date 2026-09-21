@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo anamunyamula pa mahachi, namumika ⟨אתו⟩ pamodzi ndi makolo ake m'mudzi wa Yehudah.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "anamunyamula"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "mahachi"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "namumika"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iye (Amatsiahu)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "makolo ake"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "m'mudzi wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-21T12:47:08.188556471Z",
+  "model": "glm-5.3"
+}

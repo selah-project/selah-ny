@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Chakhotakhota sichingathe kukhazikitsidwa, ndi chosowa sichingathe kuwerengedwa.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "Chakhotakhota"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "chingathe"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "kukhazikitsidwa"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "ndi chosowa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "chingathe"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "kuwerengedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:04.968537549Z",
+  "model": "glm-5.3"
+}

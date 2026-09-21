@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo mudzachita ⟨את⟩ kanzu la efodi, lonzoli la za buluu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mudzachita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanzu"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "kanzu"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "la efodi"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "lonzoli"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "la za buluu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:22:58.672248095Z",
+  "model": "glm-5.3"
+}

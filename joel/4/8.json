@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo ndidzagulitsa ⟨את⟩ ana anu amuna ndi ⟨את⟩ ana anu akazi m'manja mwa ana a Yehuda, ndipo iwo adzagulitsa ku Ashevaim, ku mtundu wotalikilirapo; chifukwa Yahwe wanena.",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "Ndipo ndidzagulitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana anu amuna"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ana anu amuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana anu akazi"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "ana anu akazi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "m'manja mwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "ndipo adzagulitsa"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "ku Ashevaim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "mtundu"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "wotalikilirapo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wanena"
+    }
+  ],
+  "timestamp": "2026-09-21T10:24:26.163832973Z",
+  "model": "glm-5.3"
+}

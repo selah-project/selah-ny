@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Yahwe amadziwa masiku a odzichepetsa, ndipo cholowa chawo chidzakhala ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "amadziwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "a odzichepetsa"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "ndipo cholowa chawo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "chidzakhala"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:11.088252208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Mfumu ya Ashuru inasamutsa ⟨את⟩ Yisraeli ku Ashuru, ndipo inawakhalitsa m'Chalach ndi m'Chabori, mtsinje wa Gozani, ndi m'mizi ya ku Medi.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "inasamutsa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "ku Ashuru"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "inawakhalitsa"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "m'Chalach"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "ndi m'Chabori"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "mtsinje wa"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozani"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "ndi m'mizi"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ya ku Medi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:55:52.295551098Z",
+  "model": "glm-5.3"
+}

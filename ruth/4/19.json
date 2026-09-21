@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Khetsroni anabala ⟨את⟩ Ramu, ndipo Ramu anabala ⟨את⟩ Aminadabu.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "Ndipo Khetsroni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramu"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ramu"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ndipo Ramu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadabu"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadabu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:31:43.116828316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo chinachitika kuti dziko lonse linakhala lilime limodzi, ndi mawu ake amodzi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "chinachitika kuti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "lilime"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "limodzi"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ndi mawu"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "amodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:47:24.235241182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 10:5",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo mukuwira mkuwa, ndipo misasa yomwe ikhala kum'mawa idzayenda.",
+  "tokens": [
+    {
+      "surface": "ותקעתם",
+      "gloss": "mukuwira"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "mkuwa"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "idzayenda"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "misasa"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "yomwe ikhala"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "kum'mawa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:55:33.099055951Z",
+  "model": "glm-5.3"
+}

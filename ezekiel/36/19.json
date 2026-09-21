@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 36:19",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Ndipo ndinawabalalitsa ⟨את⟩ iwo mwa mitundu ya anthu, ndipo anabalalitsidwa m'mayiko; monga njira zawo ndi monga ntchito zawo ndinawaweruza iwo.",
+  "tokens": [
+    {
+      "surface": "ואפיץ",
+      "gloss": "Ndipo ndinawabalalitsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo (banja la Yisraeli)"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mwa mitundu ya anthu"
+    },
+    {
+      "surface": "ויזרו",
+      "gloss": "ndipo anabalalitsidwa"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "m'mayiko"
+    },
+    {
+      "surface": "כדרכם",
+      "gloss": "monga njira zawo"
+    },
+    {
+      "surface": "וכעלילותם",
+      "gloss": "ndi monga ntchito zawo"
+    },
+    {
+      "surface": "שפטתים",
+      "gloss": "ndinawaweruza iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:14:03.255274993Z",
+  "model": "glm-5.3"
+}

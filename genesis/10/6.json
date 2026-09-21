@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo ana a Khami ndi awa: Kushi, ndi Mitsrayimu, ndi Puti, ndi Kenaani.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ndipo ana a"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Khami"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushi"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "ndi Mitsrayimu"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "ndi Puti"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "ndi Kenaani"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:57.805362653Z",
+  "model": "glm-5.3"
+}

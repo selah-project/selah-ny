@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 63,
+  "translation": "Ndipo mfumu idzakondwera ndi Elohim; aliyense wolumbira mwa Iye adzayamikira; pakuti kamodzi adzatsekedwa pakamwa pa olankhula zabodza.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ndipo mfumu"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "idzakondwera"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ndi Elohim"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "adzayamikira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "wolumbira"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mwa Iye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "adzatsekedwa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "pakamwa pa"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "olankhula"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "zabodza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:20.914302095Z",
+  "model": "glm-5.3"
+}

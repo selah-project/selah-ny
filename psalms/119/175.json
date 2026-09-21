@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Moyo wanga ukhale ndi moyo, ndi kukuyamika; ndipo chiweruzo chako chindithandize.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "ukhale ndi moyo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "ndi kukuyamika"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "ndipo chiweruzo chako"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "chindithandize"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:24.554400552Z",
+  "model": "glm-5.3"
+}

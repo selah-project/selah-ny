@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 9:5",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo iwo anaweta ⟨את⟩ zimene Moshe analamulira kudzalo kwa chihema cha msonkhano; ndipo msonkhano wonse unafika pafupi, naima pamaso pa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "anaweta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene Moshe analamulira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "analamulira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kudzalo kwa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kudzalo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "cha msonkhano"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "unafika pafupi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "msonkhano"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "naima"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:34:12.870929487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 24:16",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndi ⟨את⟩ anthu onse a nkhondo, isanu ndi iwiri ma chikwi, ndi osewera ntchito dzanja ndi antchito a zitsulo, chikwi chimodzi; onse ndiwo anthu amphamvu, okonda nkhondo; nipo mfumu ya Babulo inawatenga adaluta nako ku Babulo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "anthu onse a nkhondo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "anthu a"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "nkhondo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "isanu ndi iwiri"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ma chikwi"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "ndi osewera ntchito dzanja"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "ndi antchito a zitsulo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "chikwi chimodzi"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "anthu amphamvu"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "okonda"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "nkhondo"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "inawatenga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babulo"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "akunja"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ku Babulo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:01:12.094922841Z",
+  "model": "glm-5.3"
+}

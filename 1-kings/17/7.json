@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo zitatha masiku, munda wa madzi anawuma, chifukwa mvula sinakhale m'dzikolo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo zitanthauza kuti"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "zitatha"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "anawuma"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "munda wa madzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sina-"
+    },
+    {
+      "surface": "היה",
+      "gloss": "-khale"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "mvula"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dzikolo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:41:17.705111107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Elohim adaona ⟨את⟩ zonse zimene analichita, ndipo taona, zinali zabwino kwakukulu; ndipo kunalire madzulo, ndipo kunalire m'mawa — tsiku lachisanu ndi limodzi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ndipo adaona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse zimene analichita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "analichita"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ndipo taona"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zinali zabwino"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwakukulu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ndipo kunali"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "madzulo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ndipo kunali"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "m'mawa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "lachisanu ndi limodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:41:41.704591203Z",
+  "model": "glm-5.3"
+}

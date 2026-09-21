@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo iye anati kwa ine: “Ndiwe ani?” Ndipo ndinamuuza: “Ndine Mwamaleki.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ndiwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ndinamuuza"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "Mwamaleki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ndine"
+    }
+  ],
+  "timestamp": "2026-09-21T08:16:02.110065896Z",
+  "model": "glm-5.3"
+}

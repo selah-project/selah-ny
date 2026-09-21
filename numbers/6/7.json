@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 6:7",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Kwa atate wake ndi kwa amayi wake, kwa m'bale wake ndi kwa mlongo wake, sadzadziteta pa imfa yawo; chifukwa kudzipatula kwake kwa Elohim wake kuli pa mutu wake.",
+  "tokens": [
+    {
+      "surface": "לאביו",
+      "gloss": "kwa atate wake"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ndi kwa amayi wake"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "kwa m'bale wake"
+    },
+    {
+      "surface": "ולאחתו",
+      "gloss": "ndi kwa mlongo wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "dzadziteta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pa iwo"
+    },
+    {
+      "surface": "במתם",
+      "gloss": "pa imfa yawo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "kudzipatula kwake"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "kwa Elohim wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mutu wake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:52:31.583717592Z",
+  "model": "glm-5.3"
+}

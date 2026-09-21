@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 55,
+  "translation": "Pakuti monga mvula ndi chiliza chitsika chochokera kumwamba, ndipo sichibwerera kumeneko, koma chizimitsa ⟨את⟩ dziko lapansi, ndipo chibere ndi kumeretsa, ndipo chipatse mbewu kwa wowera ndi chakudya kwa wakudya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "chitsika"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "mvula"
+    },
+    {
+      "surface": "והשלג",
+      "gloss": "ndi chiliza"
+    },
+    {
+      "surface": "מן",
+      "gloss": "chochokera"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ndipo kumeneko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "chibwerera"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "koma"
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "chizimitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko lapansi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "והולידה",
+      "gloss": "ndipo chibere"
+    },
+    {
+      "surface": "והצמיחה",
+      "gloss": "ndipo chimeretse"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ndipo chipatse"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbewu"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "kwa wowera"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "ndi chakudya"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kwa wakudya"
+    }
+  ],
+  "timestamp": "2026-09-21T09:22:56.675628146Z",
+  "model": "glm-5.3"
+}

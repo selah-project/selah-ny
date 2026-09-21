@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo analamulira ⟨את⟩ anthu, nati: “Pakutaonani ⟨את⟩ panda la pangano la Yahwe Elohim wanu, ndi ansembe a Alevi akunyamula ⟨את⟩ chake, ndipo inu mudzafuka m’malo mwanu, mudzayenda m’gulu la m’nsolo pake.”",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "analamulira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "pakutaonani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panda la pangano"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "panda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "la pangano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ndi ansembe"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "a Alevi"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "akunyamula"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chake"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ndipo inu"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "mudzafuka"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "m’malo mwanu"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "mudzayenda"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "m’nsolo pake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:33:58.642387966Z",
+  "model": "glm-5.3"
+}

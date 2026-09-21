@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 30:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Wandisintha maliro anga kukhala kusamba; wanditsekulira nsenga zamata anga, nandizinga nacho chimwemwe.",
+  "tokens": [
+    {
+      "surface": "הפכת",
+      "gloss": "wandinwetula"
+    },
+    {
+      "surface": "מספדי",
+      "gloss": "maliro anga"
+    },
+    {
+      "surface": "למחול",
+      "gloss": "kusamba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "wanditsekulira"
+    },
+    {
+      "surface": "שקי",
+      "gloss": "nsenga zamata anga"
+    },
+    {
+      "surface": "ותאזרני",
+      "gloss": "nandizinga nacho"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "chimwemwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:13.653113040Z",
+  "model": "glm-5.3"
+}

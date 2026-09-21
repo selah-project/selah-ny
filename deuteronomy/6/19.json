@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "kuchotsetsa ⟨את⟩ adani ako onse pamaso pako, monga Yahwe analankhula.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "kuchotsetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adani ako onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "adani ako"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "pamaso pako"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "analankhula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T07:16:22.122916105Z",
+  "model": "glm-5.3"
+}

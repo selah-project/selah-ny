@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndinakhala wosalankhula, ndinalala; ndinatseka mkamwa, ngakhale za zabwino; ndipo ululu wanga unasokonezeka.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Ndinakhala wosalankhula"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ndinalala"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "ndinatseka mkamwa"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "ngakhale za zabwino"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "ndipo ululu wanga"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "unasokonezeka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:53.444543881Z",
+  "model": "glm-5.3"
+}

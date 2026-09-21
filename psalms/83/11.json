@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 83,
+  "translation": "Adawonongedwa ku Eni-Dori; anakhala manyowa pa dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "Adawonongedwa"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Eni-Dori"
+    },
+    {
+      "surface": "היו",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "manyowa"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "pa dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:20.567997350Z",
+  "model": "glm-5.3"
+}

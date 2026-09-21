@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 136,
+  "translation": "Kwa wofafaniza dziko lapansi pamwamba pa madzi, pakuti ku nthawi zonse khesedi wake.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "Kwa wofafaniza"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamwamba pa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi wake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:00.333256090Z",
+  "model": "glm-5.3"
+}

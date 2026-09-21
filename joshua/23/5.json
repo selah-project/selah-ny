@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 23:5",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo Yahwe Elohim wanu, ndiye adzawatsekereza pamaso panu, nadzawachotsa pamaso panu; ndipo mudzachirikiza ⟨את⟩ dziko lawo, monga momwe Yahwe Elohim wanu adanenera kwa inu.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ndipo Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "יהדפם",
+      "gloss": "adzawatsekereza"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "pamaso panu"
+    },
+    {
+      "surface": "והוריש",
+      "gloss": "nadzawachotsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "pamaso panu"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "pamaso panu"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ndipo mudzachirikiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko lawo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dziko lawo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "adanenera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:44:33.079538189Z",
+  "model": "glm-5.3"
+}

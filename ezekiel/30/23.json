@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 30:23",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo ndidzafalitsa ⟨את⟩ Mitsrayimu pakati pa amitundu, ndipo ndidzawabalalitsa m'mayiko.",
+  "tokens": [
+    {
+      "surface": "והפצותי",
+      "gloss": "Ndipo ndidzafalitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "pakati pa amitundu"
+    },
+    {
+      "surface": "וזריתם",
+      "gloss": "ndipo ndidzawabalalitsa"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "m'mayiko"
+    }
+  ],
+  "timestamp": "2026-09-21T10:09:21.363157046Z",
+  "model": "glm-5.3"
+}

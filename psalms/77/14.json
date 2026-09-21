@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 77,
+  "translation": "Elohim, m'chiyero ⟨ndi⟩ njira zanu; ndani ndi El wamkulu monga Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "m'chiyero"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "njira zanu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "monga Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:45.523773539Z",
+  "model": "glm-5.3"
+}

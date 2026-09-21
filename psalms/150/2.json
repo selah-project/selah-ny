@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 150,
+  "translation": "Lemekezani Iye chifukwa cha mphamvu zake zazikulu; lemekezani Iye monga mwa kuchuluka kwa kukulu kwake.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "lemekezani Iye"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "chifukwa cha mphamvu zake zazikulu"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lemekezani Iye"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "monga mwa kuchuluka"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "kwa kukulu kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:29.930616686Z",
+  "model": "glm-5.3"
+}

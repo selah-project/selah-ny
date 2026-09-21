@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 7:5",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Pakuti ngati kusintha-bwino musinthe-bwino ⟨את⟩ njira zanu ndi ⟨את⟩ ntchito zanu, ngati kuchita muchite chiweruzo pakati pa munthu ndi pakati pa mnansi wake,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "kusintha-bwino"
+    },
+    {
+      "surface": "תיטיבו",
+      "gloss": "musinthe-bwino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njira zanu"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "njira zanu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ntchito zanu"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "ntchito zanu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kuchita"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "muchite"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chiweruzo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mnansi wake"
+    }
+  ],
+  "timestamp": "2026-09-21T09:30:01.932397144Z",
+  "model": "glm-5.3"
+}

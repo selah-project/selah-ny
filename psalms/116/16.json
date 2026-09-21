@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 116,
+  "translation": "Ndikupemphera, Yahwe, pakuti ndine kapolo wako, ndine kapolo wako, mwana wa mdzakazi wako; wasula maunyo anga.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ndikupemphera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kapolo wako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kapolo wako"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "mdzakazi wako"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "wasula"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "maunyo anga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:22.393600049Z",
+  "model": "glm-5.3"
+}

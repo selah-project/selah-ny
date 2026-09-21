@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Patsani Yahwe ulemerero wa dzina lake; gwadirani kwa Yahwe m'ukongoso wa chiyero.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Patsani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ulemerero"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "wa dzina lake"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "gwadirani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "m'ukongoso wa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chiyero"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:21.599011770Z",
+  "model": "glm-5.3"
+}

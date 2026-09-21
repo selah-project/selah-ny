@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo nkhondo inali pakati pa Asa ndi pakati pa Baasha, mfumu ya Yisraeli, masiku onse awo.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Ndipo nkhondo"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "inali"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "masiku awo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:41:49.388665071Z",
+  "model": "glm-5.3"
+}

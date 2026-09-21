@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 103,
+  "translation": "Munthu masiku ake ali ngati udzu, ngati duwa la m'thumba, motero amathamangitsa.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "Munthu"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ali ngati udzu"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "masiku ake"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "ngati duwa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "la m'thumba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "motero"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "amathamangitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:54.247784859Z",
+  "model": "glm-5.3"
+}

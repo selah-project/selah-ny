@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo Yahwe ananena kwa Moshe: atsamwiri mmodzi pa tsiku limodzi, atsamwiri mmodzi pa tsiku lina, adzabweretsa ⟨את⟩ nsembe yawo pa kukwezedwa kwa guwa lansembe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "atsamwiri mmodzi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmodzi"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pa tsiku limodzi"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "atsamwiri mmodzi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmodzi"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pa tsiku lina"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "adzabweretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe yawo"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "nsembe yawo"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "pa kukwezedwa kwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa lansembe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:53:44.013787148Z",
+  "model": "glm-5.3"
+}

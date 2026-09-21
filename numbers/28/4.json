@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "⟨את⟩ nkhosa imodzi muzichita m'mawa, ndi ⟨את⟩ nkhosa yachiwiri muzichita pakati pa madzulo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhosa imodzi"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imodzi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "muzichita"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "m'mawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nkhosa yachiwiri"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yachiwiri"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "muzichita"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "pa madzulo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:07:47.438215025Z",
+  "model": "glm-5.3"
+}

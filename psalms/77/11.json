@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 77,
+  "translation": "Ndipo ndinati: Uthenga wanga uwu — ndipo ndidzakumbukira zaka za dzanja lamanja la Elyoni.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ndipo ndinati"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "uthenga wanga"
+    },
+    {
+      "surface": "היא",
+      "gloss": "uwu"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "dzanja lamanja"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "la Elyoni"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:39.166933040Z",
+  "model": "glm-5.3"
+}

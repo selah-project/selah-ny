@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo wansembe amene apereka ⟨את⟩ nsembe yopsereza ya munthu, khungu la nsembe yopsereza amene apereka, liyenera kukhala la wansembe.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Ndipo wansembe"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "amene apereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe yopsereza"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "nsembe yopsereza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya munthu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "khungu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "la nsembe yopsereza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "apereka"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "la wansembe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yake"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "liyenera kukhala"
+    }
+  ],
+  "timestamp": "2026-09-21T06:31:30.323490436Z",
+  "model": "glm-5.3"
+}

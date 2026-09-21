@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Phunziro langa lidzagwa ngati mvula, mawu anga adzathirira ngati buluu; ngati madontho a mvula pa udzu watsopano, ndi ngati zitsambazi za mvula pa udzu.",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "lidzagwa ngati"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "mvula"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "Phunziro langa"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "adzathirira ngati"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "buluu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mawu anga"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "ngati madontho a mvula"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "udzu watsopano"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "ndi ngati zitsambazi za mvula"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "udzu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:31:17.628418856Z",
+  "model": "glm-5.3"
+}

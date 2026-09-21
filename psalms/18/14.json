@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndi Yahwe anamvetsa mkuwe kumwamba, ndi Wapachulu anapereka liwu lake; chivunde ndi malale a moto.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "anamvetsa mkuwe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "ndi Wapachulu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "anapereka"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "liwu lake"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "chivunde"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "ndi malale"
+    },
+    {
+      "surface": "אש",
+      "gloss": "a moto"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:57.622712761Z",
+  "model": "glm-5.3"
+}

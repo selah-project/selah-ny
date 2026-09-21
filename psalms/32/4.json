@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Pakuti usana ndi usiku dzanja lako linaliwirapo pa ine; mphamvu yanga ya madzi inasintha kukhala chilimwe chaukulu. Selahi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "usana"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ndi usiku"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "linaliwirapo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dzanja lako"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "inasintha"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "mphamvu yanga ya madzi"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "kukhala chilimwe chaukulu"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "chilimwe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:32.116769699Z",
+  "model": "glm-5.3"
+}

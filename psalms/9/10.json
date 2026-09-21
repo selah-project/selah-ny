@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Yahwe adzakhala phiri la chitetezo kwa odzazidwa, chitetezo pa nthawi za mavuto.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo adzakhala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "phiri la chitetezo"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "kwa odzazidwa"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "chitetezo"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "pa nthawi za"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "mavuto"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:50.422109429Z",
+  "model": "glm-5.3"
+}

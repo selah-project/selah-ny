@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "ndi ⟨את⟩ guwa la nsembe yopsereka ndi ⟨את⟩ zida zake zonse, ndi ⟨את⟩ beseni ndi ⟨את⟩ poto yake",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "guwa la nsembe yopsereka"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "guwa la nsembe"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yopsereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zida zake zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zida zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "beseni"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "beseni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "poto yake"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "poto yake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:22:48.338288726Z",
+  "model": "glm-5.3"
+}

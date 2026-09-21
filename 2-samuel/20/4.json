@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo mfumu inati kwa Amasha: “Itana kwa ine ⟨את⟩ anthu a Yehudha masiku atatu; ndipo iwe, yembekezera pano.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "inati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasha"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "Itana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu a Yehudha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yehudha"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ndipo iwe"
+    },
+    {
+      "surface": "פה",
+      "gloss": "pano"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "yembekezera"
+    }
+  ],
+  "timestamp": "2026-09-21T08:27:05.768191697Z",
+  "model": "glm-5.3"
+}

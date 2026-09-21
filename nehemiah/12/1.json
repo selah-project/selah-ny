@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 12:1",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo awa ndiwo ansembe ndi Alevi amene anakwera ndi Zerubabeli mwana wa Shealtieliyi, ndi Yeshua: Serayah, Yirmeyah, Ezira.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ndipo awa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ndi Alevi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "anakwera"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubabeli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "wa Shealtieliyi"
+    },
+    {
+      "surface": "וישוע",
+      "gloss": "ndi Yeshua"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayah"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmeyah"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezira"
+    }
+  ],
+  "timestamp": "2026-09-21T12:21:16.466141512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Choipa chitsata ochimwa; koma olungama adzawabwezera ndi ⟨את⟩ cholowa chabwino.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "ochimwa"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "chitsata"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "olungama"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "olungama"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "adzawabwezera"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "chabwino"
+    }
+  ],
+  "timestamp": "2026-09-21T11:21:30.045400486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo ngati wapereka ⟨את⟩ khamu la chogula chake, chimene sichili mwa minda ya chikhizi chake, wopatulikira kwa Yahwe,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ndipo ngati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khamu"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "khamu"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "la chogula chake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sichili"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "mwa minda ya"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "chikhizi chake"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "wapatulikira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:48:51.028903713Z",
+  "model": "glm-5.3"
+}

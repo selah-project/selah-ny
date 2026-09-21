@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 115,
+  "translation": "Inu ndinu odalitsidwa ndi Yahwe, wopanga kumwamba ndi dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "odalitsidwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ndi Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wopanga"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ndi dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:08.245145374Z",
+  "model": "glm-5.3"
+}

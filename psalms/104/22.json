@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 104,
+  "translation": "Dzuwa litathamuka, iwo amathera, ndi m'mipanda yawo amagona.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "litathamuka"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dzuwa"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "amathera"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi m'mipanda yawo"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "m'mipanda yawo"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "amagona"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:45.722888932Z",
+  "model": "glm-5.3"
+}

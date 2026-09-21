@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 104,
+  "translation": "Wolenga mapango ake pamadzi, wopanga mitambo yothamanga yake, woyenda pamapiko a mphepo.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "Wolenga mapango"
+    },
+    {
+      "surface": "במים",
+      "gloss": "pamadzi"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "ake"
+    },
+    {
+      "surface": "השם",
+      "gloss": "wopanga"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "mitambo"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "yothamanga yake"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "woyenda"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "pamapiko"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "a mphepo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:32.548879969Z",
+  "model": "glm-5.3"
+}

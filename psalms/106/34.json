@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Sanawononge ⟨את⟩ anthu ⟨amene⟩ Yahwe anawauzira iwo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "wononga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨amene⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anawauza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:55.007760934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 4:30",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo amayi a mwana anati: “Yahwe ali ndi moyo, ndipo moyo wako uli ndi moyo — sindidzakusiya iwe.” Ndipo iye anauka, napita m'mbuyo mwake.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ndipo amayi a mwana anati"
+    },
+    {
+      "surface": "אם",
+      "gloss": "amayi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "a mwana"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ali ndi moyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ndipo moyo wako uli"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sindi-"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "-dzakusiya iwe"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "Ndipo iye anauka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "napita"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "m'mbuyo mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:49:32.078336229Z",
+  "model": "glm-5.3"
+}

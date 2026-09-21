@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo munthu wa Elohim anati kwa mfumu: “Ngati undipatsa ine ⟨את⟩ theka la nyumba yako, sindidzadza nawe, ndipo sindidzadya mkate, ndipo sindidzamwa madzi, m'malo awa.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "undipatsa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "theka la nyumba yako"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "theka"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "la nyumba yako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi-"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "dzadza"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sindi-"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dzadya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sindi-"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "dzamwa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "m'malo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "awa"
+    }
+  ],
+  "timestamp": "2026-09-21T08:40:18.624666506Z",
+  "model": "glm-5.3"
+}

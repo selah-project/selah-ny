@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 107:27",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Amagwedezeka ndi kuswa-swa <monga wakaledzera>, ndipo nzeru zawo zonse zimamezedwa.",
+  "tokens": [
+    {
+      "surface": "יחוגו",
+      "gloss": "amagwedezeka"
+    },
+    {
+      "surface": "וינועו",
+      "gloss": "ndi kuswa-swa"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "monga wakaledzera"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "חכמתם",
+      "gloss": "nzeru zawo"
+    },
+    {
+      "surface": "תתבלע",
+      "gloss": "zimamezedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:13.427048254Z",
+  "model": "glm-5.3"
+}

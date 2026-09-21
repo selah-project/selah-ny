@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Yahwe, mavuto anga anachuluka! Ambiri amayimirira pa ine.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨mwachidwi⟩"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "anachuluka"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mavuto anga"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Ambiri"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "amayimirira"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:31.207098920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo Yahwe anatumiza ⟨את⟩ Yerubaala, ndi ⟨את⟩ Bedani, ndi ⟨את⟩ Yiftahi, ndi ⟨את⟩ Shemuweli, ndipo anakupulumutsani ⟨את⟩ inu m'dzanja la adani anu anthudi, ndipo munakhala mwachitetezo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "anatumiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerubaala"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubaala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Bedani"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Yiftahi"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftahi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Shemuweli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "anapulumutsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "la adani anu"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "anthudi"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "munakhala"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "mwachitetezo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:03:53.262422053Z",
+  "model": "glm-5.3"
+}

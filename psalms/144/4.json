@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 144,
+  "translation": "Munthu ali ngati mpweya wobwerza; masiku ake ali monga mthunzi womva nthawi yake.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Munthu"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "ngati mpweya wobwerza"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ali ngati"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "masiku ake"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "monga mthunzi"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "womva nthawi yake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:12.084450675Z",
+  "model": "glm-5.3"
+}

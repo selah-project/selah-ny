@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 133,
+  "translation": "Nyimbo ya makwelero, ya Davide. Taonani, kokoma kwambiri ndi kosangalatsa kwambiri kukhala pamodzi pa abale, nawo mmodzi mmodzi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya makwelero"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Davide"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Taonani"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kokoma"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ndi kwambiri"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "kosangalatsa"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "kukhala"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "pa abale"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nawo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mmodzi mmodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:48.628237076Z",
+  "model": "glm-5.3"
+}

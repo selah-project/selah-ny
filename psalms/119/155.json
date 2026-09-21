@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Chipulumutso chili kutali ndi osalungama; pakuti malembe anu sanazifunefu.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "kutali"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "ndi osalungama"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "Chipulumutso chili"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "malembe anu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "nazifunefu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:16.576535911Z",
+  "model": "glm-5.3"
+}

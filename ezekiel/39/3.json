@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 39:3",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndipo ndidzagwetsetsa uta wako wochotsa mudzanja lako lamanzere, ndipo mivi yako ndidzaichotsa mudzanja lako lamanja ndidzaigwetsa.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "ndidzagwetsetsa"
+    },
+    {
+      "surface": "קשתך",
+      "gloss": "uta wako"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "wochotsa m'dzanja"
+    },
+    {
+      "surface": "שמאולך",
+      "gloss": "lako lamanzere"
+    },
+    {
+      "surface": "וחציך",
+      "gloss": "ndipo mivi yako"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ndidzaichotsa m'dzanja"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "lako lamanja"
+    },
+    {
+      "surface": "אפיל",
+      "gloss": "ndidzaigwetsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:14:05.204194211Z",
+  "model": "glm-5.3"
+}

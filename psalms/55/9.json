@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 55,
+  "translation": "Ndidzathamangitsa kuthawira kwanga mwachangu, kuchoka m'mphepo yamkuwa, kuchoka m'chigumula cha mphepo.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "ndidzathamangitsa mwachangu"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "kuthawira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwanga"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "kuchoka m'mphepo"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "yamkuwa"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "kuchoka m'chigumula cha mphepo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:58.826949807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Chotsa pa ine kovulaza kwako; ine ndaphedwa ndi kulimbana kwa dzanja lako.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "Chotsa"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "kovulaza kwako"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "ndi kulimbana"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kwa dzanja lako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ndaphedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:38.266561342Z",
+  "model": "glm-5.3"
+}

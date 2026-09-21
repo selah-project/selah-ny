@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 43,
+  "translation": "“Ngati mukufuna kutuma ⟨את⟩ m'bale wathu ndi ⟨את⟩ ife, tidzatsika ndipo tidzakugulira chakudya.”",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "mukufuna"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "kutuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "m'bale wathu"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "m'bale wathu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "ndi ⟨את⟩ ife"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "tidzatsika"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "tidzakugulira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "chako"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "chakudya"
+    }
+  ],
+  "timestamp": "2026-09-21T06:03:06.876808482Z",
+  "model": "glm-5.3"
+}

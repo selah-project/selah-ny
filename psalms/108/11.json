@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 108,
+  "translation": "Ndani adzanditsogolera ku mzinda wamachilango? Ndani adzandilozera kufikira Edomu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ndani"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "adzanditsogolera"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "wamachilango"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ndani"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "adzandilozera"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:30.480049533Z",
+  "model": "glm-5.3"
+}

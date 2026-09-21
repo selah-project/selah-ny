@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Satana anatuluka mwa ⟨את⟩ pamaso pa Yahwe, namenya ⟨את⟩ Ayiyobu ndi zilonda zoipa, kuchokera pansi pa phazi lake mpaka pamwamba pa mutu wake.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ndipo anatuluka"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mwa ⟨את⟩",
+      "marks": "pamaso pa Yahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "namenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayiyobu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayiyobu"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "ndi zilonda"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "kuchokera pansi pa"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "phazi lake"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "pamwamba pa mutu wake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:29:50.345922976Z",
+  "model": "glm-5.3"
+}

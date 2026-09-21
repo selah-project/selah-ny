@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo tsopano, chonde, ndidzakudziwitsani ⟨את⟩ inu ⟨את⟩ zimene ine ndikuchita ku munda wanga wa mpesa: kuchotsa chitetezo chake, ndipo udzadyedwa; kuphulitsa khoma lake, ndipo udzatsikiridwa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ndipo tsopano"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "ndidzakudziwitsani"
+    },
+    {
+      "surface": "נא",
+      "gloss": "chonde"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ndikuchita"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "ku munda wanga wa mpesa"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "kuchotsa"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "chitetezo chake"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ndipo udzakhala"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "udyedwe"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "kuphulitsa"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "khoma lake"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ndipo udzakhala"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "wotsikiridwa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:04:22.227937577Z",
+  "model": "glm-5.3"
+}

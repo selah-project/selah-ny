@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 19:32",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Pamaso pa mtundu wamkuluwapo mudzayimirira, ndipo mudzalemekeza nkhope ya wamkuluwapo, ndipo mudzaopa Elohim wako; ine ndine Yahwe.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "mtundu wamkuluwapo"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "mudzayimirira"
+    },
+    {
+      "surface": "והדרת",
+      "gloss": "ndipo mudzalemekeza"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope ya"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "wamkuluwapo"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ndipo mudzaopa"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:37.797303841Z",
+  "model": "glm-5.3"
+}

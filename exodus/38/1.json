@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Ndipo anapanga ⟨את⟩ guwa la nsembe yoyaka ndi mapango a mtengo wa shita; mtunda unaulo unali maola asanu, ndi maola asanu m'lifupi lake, linali loyenera liliilonse; ndi maola atatu kutalika kwake.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guwa la nsembe yoyaka"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "guwa la nsembe"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yoyaka"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mapango"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shita"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "asanu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "maola"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "mtunda unaulo"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ndi maola asanu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "maola"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "m'lifupi lake"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "loyenera liliilonse"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ndi maola atatu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "maola"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "kutalika kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:27:34.903295972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 6:15",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Iye amene munasunga kwa mtumiki wanu Davide, atate wanga, ⟨את⟩ zimene munamulankhula; munanena ndi kamwa kanu, ndipo munazalitsa ndi dzanja lanu, monga tsiku lino.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "munasunga"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "kwa mtumiki wanu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atate wanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene munamulankhula"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "munamulankhula"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ndi iye"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "munanena"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "ndi kamwa kanu"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "ndipo ... ndi dzanja lanu"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "munazalitsa"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "monga tsiku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lino"
+    }
+  ],
+  "timestamp": "2026-09-21T12:38:13.241882729Z",
+  "model": "glm-5.3"
+}

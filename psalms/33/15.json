@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Amene anapanga mitima yawo pamodzi, amene amazindikira ntchito zawo zonse.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Amene anapanga"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamodzi"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "mitima yawo"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "amene amazindikira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ntchito zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:10.690083370Z",
+  "model": "glm-5.3"
+}

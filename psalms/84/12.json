@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 84,
+  "translation": "Pakuti dzuwa ndi chishango ndi Yahwe Elohim; chisomo ndi ulemerero Yahwe amapereka; salibisa zabwino kwa iwo akuyenda mwadzilo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "dzuwa"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "ndi chishango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "chisomo"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ndi ulemerero"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "amapereka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "salibisa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zabwino"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "kwa iwo akuyenda"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "mwadzilo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:49.242939662Z",
+  "model": "glm-5.3"
+}

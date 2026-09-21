@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Atere ⟨kumbukiro⟩ mwa nsembe zako zonse, ndipo nsembe yake yakupsya ikondwere nayo. Sela.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Atere ⟨kumbukiro⟩ mwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "nsembe zako"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "ndipo nsembe yake yakupsya"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "ikondwere nayo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:25.617908443Z",
+  "model": "glm-5.3"
+}

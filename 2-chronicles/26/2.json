@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Iye anamanga ⟨את⟩ Eiloti, nabwezera ku Yehudah, atagona mfumu ndi makolo ake.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Iye"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anamanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eiloti"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Eiloti"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "nabwezera"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ku Yehudah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ata"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "agona"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "makolo ake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:46:22.633385195Z",
+  "model": "glm-5.3"
+}

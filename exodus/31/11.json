@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "ndi ⟨את⟩ mafuta odzoza ndi ⟨את⟩ fumbi la zokometsera za malo oyera; monga zonse zimene ndakulamulira, adzazichita.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mafuta odzoza"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "odzoza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "fumbi la zokometsera"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "fumbi"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "la zokometsera"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "za malo oyera"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "monga zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "ndakulamulira"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "adzazichita"
+    }
+  ],
+  "timestamp": "2026-09-21T06:22:15.326455307Z",
+  "model": "glm-5.3"
+}

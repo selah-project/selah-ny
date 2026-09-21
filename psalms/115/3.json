@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 115,
+  "translation": "Koma Elohim wathu ⟨ali⟩ m'kumwamba; chilichonse chimene wafuna adachita.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Koma Elohim wathu"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "m'kumwamba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chilichonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "wafuna"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "adachita"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:33.392870921Z",
+  "model": "glm-5.3"
+}

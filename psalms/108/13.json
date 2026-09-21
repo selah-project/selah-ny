@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 108,
+  "translation": "Patsani ife chithandizo m'mavuto; popeza chopanda pake n'chipulumutso cha munthu.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Patsani"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "chithandizo"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "m'mavuto"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "popeza chopanda pake"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "chipulumutso"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cha munthu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:19.042295252Z",
+  "model": "glm-5.3"
+}

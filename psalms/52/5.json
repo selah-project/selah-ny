@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 52,
+  "translation": "Mumakonda choipa koposa chabwino, ndi bodza koposa kulankhula cholungama. Selah.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Mumakonda"
+    },
+    {
+      "surface": "רע",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "koposa chabwino"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bodza"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "koposa kulankhula"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cholungama"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:20.168044267Z",
+  "model": "glm-5.3"
+}

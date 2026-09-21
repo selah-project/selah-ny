@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 80,
+  "translation": "Dzanja lako likhale pa munthu wa dzanja lako lamanja, pa mwana wa munthu, umene um'pangitsa udamphamvuyonso kwa iwe yekha.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "likhale"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dzanja lako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "wa dzanja lako lamanja"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa munthu"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "udamphamvuyonso"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe yekha"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:34.297889327Z",
+  "model": "glm-5.3"
+}

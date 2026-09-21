@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 84,
+  "translation": "Chishango chathu, penyerani, Elohim, ndipo onani nkhope ya Mashiya wako.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "Chishango chathu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "penyerani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "ndipo onani"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope ya"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiya wako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:49.242499486Z",
+  "model": "glm-5.3"
+}

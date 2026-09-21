@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Mawu a Yahwe amapweteka nyalugwe zaikazi, ndipo amavula mishitu; ndipo m'chipinda chake chake chotentha, onse anena: Ulemerero!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "amapweteka"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "nyalugwe zaikazi"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "ndipo amavula"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "mishitu"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "ndipo m'chipinda chake chotentha"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "onse"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anena"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Ulemerero"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:57.440155690Z",
+  "model": "glm-5.3"
+}

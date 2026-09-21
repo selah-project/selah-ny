@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 46,
+  "translation": "Ndipo adzakonza ⟨את⟩ nkhosa yamwana ndi ⟨את⟩ nsembe ya ufa ndi ⟨את⟩ mafuta mmamawa, mmamawa, nsembe yopsereka yokhazikika.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "adzakonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhosa yamwana"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "nkhosa yamwana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nsembe ya ufa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "nsembe ya ufa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mmamawa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mmamawa"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "nsembe yopsereka"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yokhazikika"
+    }
+  ],
+  "timestamp": "2026-09-21T13:20:07.200102911Z",
+  "model": "glm-5.3"
+}

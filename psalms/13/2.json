@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Kufikira liti, Yahwe, mudzandisiya ⟨ndi kumuiwala⟩ mpaka nthawi zonse? Kufikira liti mudzabisa ⟨את⟩ nkhope yanu kwa ine?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kufikira"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "liti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "mudzandisiya"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "mpaka nthawi zonse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Kufikira"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "liti"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "mudzabisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhope yanu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nkhope yanu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:46.894200832Z",
+  "model": "glm-5.3"
+}

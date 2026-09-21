@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Koma ine ndidzam'pangitsa kukhala wowuma mtima ⟨את⟩ mtima wa Paro, ndipo ndidzaonjezera ⟨את⟩ zizindikiro zanga ndi ⟨את⟩ zozizwitsa zanga m'dziko la Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Koma ine"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "ndidzam'pangitsa kukhala wowuma mtima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtima wa Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paro"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ndipo ndidzaonjezera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zizindikiro zanga"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "zizindikiro zanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zozizwitsa zanga"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "zozizwitsa zanga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:09:51.701735678Z",
+  "model": "glm-5.3"
+}

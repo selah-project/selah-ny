@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Tsopano, amfumu, chitani nzeru; landirani chiphunzitso, oweruza a dziko.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Tsopano"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "amfumu"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "chitani nzeru"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "landirani chiphunzitso"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "oweruza"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a dziko"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:13.881503282Z",
+  "model": "glm-5.3"
+}

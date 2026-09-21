@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Anati, ndipo zidza mbalalika a nthumbwa, ndi usanerere m'malekezero onse awo.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ndipo zidza"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mbalalika a nthumbwa"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "usanerere"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "m'malekezero onse"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "awo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:49.033228180Z",
+  "model": "glm-5.3"
+}

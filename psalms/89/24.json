@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Ndipo ndidzawaphwanya pamaso pake adani ake, ndi odana naye ndidzawamenya.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "Ndipo ndidzawaphwanya"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "pamaso pake"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "adani ake"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "ndi odana naye"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "ndidzawamenya"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:16.760725463Z",
+  "model": "glm-5.3"
+}

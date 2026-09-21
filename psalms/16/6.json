@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Mizere yagwa kwa ine m'malo okondweretsa; inde, cholowa changa chili chovala bwino kwa ine.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "mizere (ya kuyesa)"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "yagwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "m'malo okondweretsa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "inde"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "cholowa"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "chovala bwino"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kwa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:48.437255860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 11:26",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo mkazi wa Uliya anamva kuti Uliya mwamuna wake walifa, ndipo anamvera maliro pa mwamuna wake.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "anamva"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mkazi wa"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uliya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "מת",
+      "gloss": "walifa"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uliya"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "mwamuna wake"
+    },
+    {
+      "surface": "ותספד",
+      "gloss": "anamvera maliro"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "mwamuna wake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:21:45.486376228Z",
+  "model": "glm-5.3"
+}

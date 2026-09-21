@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Kulumbira ndi kubera, ndi kupha, ndi kuba, ndi kuchigololo; zavuta pakati pawo, ndipo magodzi ndi magodzi afikirana.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kulumbira"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "ndi kubera"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "ndi kupha"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "ndi kuba"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "ndi kuchigololo"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "zavuta pakati pawo"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "ndipo magodzi"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "ndi magodzi"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "afikirana"
+    }
+  ],
+  "timestamp": "2026-09-21T10:20:57.750079217Z",
+  "model": "glm-5.3"
+}

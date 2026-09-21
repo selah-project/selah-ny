@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Mtima wanga ukhale wathunthu m'malamulo ako, kuti ndisachite manyazi.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ukhale"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Mtima wanga"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "wathunthu"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "m'malamulo ako"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndisa-"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "chite manyazi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:13.620730160Z",
+  "model": "glm-5.3"
+}

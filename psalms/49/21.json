@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Munthu ali m'ulemu koma osazindikira, afanizidwa ndi nyama zamoyo; zatha.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "m'ulemu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma osati"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "kuzindikira"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "afanizidwa"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "monga nyama zamoyo"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "zatha"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:39.176416328Z",
+  "model": "glm-5.3"
+}

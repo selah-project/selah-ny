@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Chifukwa cha dzina lako, Yahwe, khululukira chiolawa changa, pakuti ndi chachikulu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Chifukwa cha"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dzina lako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "khululukira"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "chiolawa changa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "רב",
+      "gloss": "chachikulu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:57.209508228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 121,
+  "translation": "Onani, sadzagona pang'ono, sadzagona, wosunga Yisraeli.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Onani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "sadzagona pang'ono"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "sadzagona"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "wosunga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:26.898467658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo tidziwe, titsatire mwachangu kudziwa ⟨את⟩ Yahwe; monga m'bandakucha kuonekera kwake kuli kokhazikika, ndipo adzadza ngati mvula kwa ife, ngati mvula ya m'maulo ikuthirira dziko.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "Ndipo tidziwe"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "titsatire mwachangu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kudziwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "monga m'bandakucha"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "kokhazikika"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "kuonekera kwake"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "adzadza"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "ngati mvula"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa ife"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "ngati mvula ya m'maulo"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ikuthirira"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    }
+  ],
+  "timestamp": "2026-09-21T10:20:33.828272354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo mwana wa mayi uyu anafa usiku, popeza anagona pa iye.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Ndipo anafa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "wa mayi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "anagona"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T08:32:03.019857871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 10:12",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "ndi Asidoni ndi Amaleke ndi Maoni anakukanizani ⟨את⟩ inu; ndipo inu munafuula kwa ine, ndipo ine ndinakupulumutsani ⟨את⟩ inu m'dzanja lawo.”",
+  "tokens": [
+    {
+      "surface": "וצידונים",
+      "gloss": "ndi Asidoni"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "ndi Amaleke"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "ndi Maoni"
+    },
+    {
+      "surface": "לחצו",
+      "gloss": "anakukanizani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "anakukanizani"
+    },
+    {
+      "surface": "ותצעקו",
+      "gloss": "ndipo munafuula"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "ואושיעה",
+      "gloss": "ndipo ndinakupulumutsani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "ndinakupulumutsani"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "m'dzanja lawo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:50:01.423603099Z",
+  "model": "glm-5.3"
+}

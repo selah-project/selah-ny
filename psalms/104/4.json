@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 104,
+  "translation": "Wopanga atumiki ake mpweya, akapolo ake moto wowala.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Wopanga"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "atumiki ake"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "mpweya"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "akapolo ake"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "להט",
+      "gloss": "wowala"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:32.548985088Z",
+  "model": "glm-5.3"
+}

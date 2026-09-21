@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 70,
+  "translation": "Koma ine ndine wosauka ndi wopanda chilichonse; Elohim, fulumira kwa ine; iwe ndiwe thandizo langa ndi wopulumutsa wanga; Yahwe, usachedwere.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "koma ine"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wosauka"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ndi wopanda chilichonse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "fulumira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "thandizo langa"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ndi wopulumutsa wanga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usachedwere"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "osachedwere"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:20.471623191Z",
+  "model": "glm-5.3"
+}

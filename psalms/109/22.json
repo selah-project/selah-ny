@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "Pakuti ndine wosowa ndi wopanda chuma ine, ndipo mtima wanga wavulazidwa mkati mwa ine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wosowa"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ndi wopanda chuma"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ndipo mtima wanga"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "wavulazidwa"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "mkati mwa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:36.917127870Z",
+  "model": "glm-5.3"
+}

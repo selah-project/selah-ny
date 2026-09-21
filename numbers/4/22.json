@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Werenganso ⟨את⟩ mutu wa ana a Gershoni, iwonso, m'nyumba ya makolo awo, m'mabanja awo.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "werenganso ⟨mutu⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershoni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "iwonso"
+    },
+    {
+      "surface": "הם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "m'nyumba ya"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "makolo awo"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "m'mabanja awo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:51:29.022062283Z",
+  "model": "glm-5.3"
+}

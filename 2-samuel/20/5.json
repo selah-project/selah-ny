@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo Amasa anapita kuyitana ⟨את⟩ Yehuda, koma anachedwa kuposa nthawi yoperekedwa imene anamuikira iye.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "anapita"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "kuyitana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "anachedwa kuposa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuposa"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "nthawi yoperekedwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "anamuikira iye"
+    }
+  ],
+  "timestamp": "2026-09-21T08:27:56.835304086Z",
+  "model": "glm-5.3"
+}

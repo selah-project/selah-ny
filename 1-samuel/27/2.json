@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo Davide anauka, ndipo anadutsa — iye ndi anthu akuti mazana asanu ndi limodzi amene anali naye — kwa Akhishi mwana wa Maoku, mfumu ya Gati.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "anauka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "anadutsa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "anu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "analipo naye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akhishi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "wa Maoku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ya Gati"
+    }
+  ],
+  "timestamp": "2026-09-21T08:14:48.031657330Z",
+  "model": "glm-5.3"
+}

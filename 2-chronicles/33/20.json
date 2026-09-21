@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 33:20",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Ndipo Menashe anagona ndi makolo ake, namumba m'nyumba yake; ndipo Amon mwana wake anachita mfumu m'malo mwake.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "anagona"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "makolo ake"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "namumba"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "m'nyumba yake"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "anachita mfumu"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "m'malo mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:49:27.538723497Z",
+  "model": "glm-5.3"
+}

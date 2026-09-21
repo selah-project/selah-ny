@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 11:4",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Dawidi anatumiza uthenga, namutenga; ndipo iye analowa kwa iye, nagona ndi iye; ndipo iye <anali> kuyeretsedwa ku chodetsa chake; ndipo iye anabwerera ku nyumba yake.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "anatumiza"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "uthenga"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "namutenga"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "analowa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "nagona"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ndi iye"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ndipo iye"
+    },
+    {
+      "surface": "מתקדשת",
+      "gloss": "kuyeretsedwa"
+    },
+    {
+      "surface": "מטמאתה",
+      "gloss": "ku chodetsa chake"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "anabwerera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "nyumba yake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:22:29.959905325Z",
+  "model": "glm-5.3"
+}

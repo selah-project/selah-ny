@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 21:22",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo ndidzaika ⟨את⟩ nyumba yako monga nyumba ya Yarobeamu mwana wa Nebati, ndi monga nyumba ya Baasha mwana wa Achiya, chifukwa cha kukwiyitsa umene unakwiyitsa, ndipo unachititsa ⟨את⟩ Yisraeli kuchimwa.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ndipo ndidzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba yako"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nyumba yako"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "monga nyumba ya"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebati"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "ndi monga nyumba ya"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Achiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "הכעס",
+      "gloss": "kukwiyitsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "הכעסת",
+      "gloss": "unakwiyitsa"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "ndipo unachititsa kuchimwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:43:37.820856066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Olungama adzaona ndi kukondwera, ndipo cholakwa chilichonse chidzatseka pakamwa pake.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "adzaona"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "Olungama"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ndi kukondwera"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo chilichonse"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "cholakwa"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "chidzatseka"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "pakamwa pake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:08.695415878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Moshe anauza Aharoni ⟨את⟩ mawu onse a Yahwe amene anamutuma nayo, ndi ⟨את⟩ zizindikiro zonse amene anamulamulira.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "anauza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu onse a Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "anamutuma nayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zizindikiro zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "zizindikiro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "anamulamulira"
+    }
+  ],
+  "timestamp": "2026-09-21T06:09:05.934729874Z",
+  "model": "glm-5.3"
+}

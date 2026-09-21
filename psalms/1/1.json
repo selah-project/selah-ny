@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Okhulupirika ndi munthu amene sanayende m'chilango cha oipa, ndipo panjira ya ochimwa sanayimirire, ndipo pamalo a odzudzula sanakhale.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "okhulupirika"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nayende"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "m'chilango cha"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "oipa"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "panjira ya"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ochimwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nayimirire"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "pamalo a"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "odzudzula"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nakhale"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:05.995069386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo anapeza ⟨את⟩ Moshe ndi ⟨את⟩ Aharono, ali aoima kuwakomera, atatuluka kwa ⟨את⟩ Paro.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "anapeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharono"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "ali aoima"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "kuwakomera"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "atatuluka"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kwa ⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-21T06:09:15.663993731Z",
+  "model": "glm-5.3"
+}

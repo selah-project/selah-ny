@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Nyimbo ya Davide: Yahwe ndiye wabusanga, sindidzachepa kanthu.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Davide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "wabusanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "ndidzachepa kanthu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:26.244293986Z",
+  "model": "glm-5.3"
+}

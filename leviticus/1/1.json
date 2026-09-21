@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Yahwe adaitana Moshe, ndipo analankhula naye kuchokera mu chihema cha msonkhano, nati:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "adaitana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ndipo analankhula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "kuchokera mu chihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "cha msonkhano"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:35.053923759Z",
+  "model": "glm-5.3"
+}

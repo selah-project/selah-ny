@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo mfumu inadza ndi Hamani kumwa ndi Estere mfumukazi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "inadza"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ndi Hamani"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "kumwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estere"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "mfumukazi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:01:56.977653906Z",
+  "model": "glm-5.3"
+}

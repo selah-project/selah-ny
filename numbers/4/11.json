@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 4:11",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo pa guwa la golide adzatambasula chophimba chobiriwira, ndipo adzaphimba ⟨את⟩ lomwe ndi chophimba cha khungu la takhashi, ndipo adzaika ⟨את⟩ midziyo yake yolundira.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Ndipo pa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "guwa la"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "adzatambasula"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "chophimba"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "chobiriwira"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "adzaphimba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lomwe",
+      "marks": "lomwe"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "ndi chophimba cha"
+    },
+    {
+      "surface": "עור",
+      "gloss": "khungu la"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "takhshi"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "adzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "midziyo yake yolundira"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "midziyo yake yolundira"
+    }
+  ],
+  "timestamp": "2026-09-21T06:52:01.231080635Z",
+  "model": "glm-5.3"
+}

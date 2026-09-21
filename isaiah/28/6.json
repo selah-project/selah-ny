@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "ndi mzimu wa chiweruzo kwa wokhala pachiweruzo, ndi mphamvu kwa akutembenuza nkhondo kumbuyo kwa khomo.",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "ndi mzimu wa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chiweruzo"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "kwa wokhala"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "pachiweruzo"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "ndi mphamvu"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "kwa akutembenuza"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "nkhondo"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "kumbuyo kwa khomo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:11:33.999887516Z",
+  "model": "glm-5.3"
+}

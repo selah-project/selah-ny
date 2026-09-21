@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ku Mitsrayimu tinapereka dzanja, ndi ku Ashuru, kuti tikwaniritse mkate.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Ku Mitsrayimu"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "tinapereka"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dzanja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ku Ashuru"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "kuti tikwaniritse"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    }
+  ],
+  "timestamp": "2026-09-21T11:54:24.452223308Z",
+  "model": "glm-5.3"
+}

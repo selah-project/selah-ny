@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 128,
+  "translation": "Taonani, choncho munthu wopembedza adzadalitsidwa, wopinga Yahwe.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "taonani"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "כן",
+      "gloss": "choncho"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "adzadalitsidwa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "wopinga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:41.649586785Z",
+  "model": "glm-5.3"
+}

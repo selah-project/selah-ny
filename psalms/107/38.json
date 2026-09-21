@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 107:38",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Ndipo iye adawadalitsa, ndipo anaonjezera kwambiri, ndipo sadachepetsa nyama zawo.",
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "ndipo iye adawadalitsa"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "ndipo anaonjezera"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "ובהמתם",
+      "gloss": "ndipo nyama zawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadachepetsa — ai"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "sadachepetsa — kuchepetsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:12.649689781Z",
+  "model": "glm-5.3"
+}

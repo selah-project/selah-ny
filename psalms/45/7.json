@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 45,
+  "translation": "Mpando wako waulamuliro, Elohim, ndi wa nthawi zonse ndi ku nthawi zosatha; ndodo ya chilungamo ndi ndodo ya ufumu wako.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "mpando wako waulamuliro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nthawi zonse"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ku nthawi zosatha"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ndodo"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "ya chilungamo"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ndodo"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "ya ufumu wako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:11.487823033Z",
+  "model": "glm-5.3"
+}

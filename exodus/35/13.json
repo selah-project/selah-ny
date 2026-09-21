@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "⟨את⟩ gome la masesero, ndi ⟨את⟩ mikwingwirima yake, ndi ⟨את⟩ zida zake zonse, ndi ⟨את⟩ mkate wa pamaso.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gome la masesero"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "gome la masesero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mikwingwirima yake"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mikwingwirima yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zida zake zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zida zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mkate wa pamaso"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "wa pamaso"
+    }
+  ],
+  "timestamp": "2026-09-21T06:25:09.726085823Z",
+  "model": "glm-5.3"
+}

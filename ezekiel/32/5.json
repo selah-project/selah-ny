@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndipo ndidzaika ⟨את⟩ minofu yako pa mapiri, ndipo ndidzadzitsa mitsinjira ndi chidzalo chako.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ndipo ndidzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minofu yako"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "minofu yako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "ndipo ndidzadzitsa"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "mitsinjira"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "chidzalo chako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:09:31.408944811Z",
+  "model": "glm-5.3"
+}

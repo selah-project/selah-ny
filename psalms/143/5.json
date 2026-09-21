@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 143,
+  "translation": "Ndinakumbukira masiku akale; ndinaganizira za ntchito zanu zonse; pa ntchito za manja anu ndimaganizira.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "Ndinakumbukira"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "akale"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "ndinaganizira"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "za zonse"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "ntchito zanu"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "pa ntchito"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "za manja anu"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "ndimaganizira"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:22.535791655Z",
+  "model": "glm-5.3"
+}

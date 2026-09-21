@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Elohim amamvetsa njira yake, ndipo iye adziwa ⟨את⟩ malo ake.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "amamvetsa"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "njira yake"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ndipo iye"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "adziwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malo ake"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "malo ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:41:25.966851370Z",
+  "model": "glm-5.3"
+}

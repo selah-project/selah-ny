@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 59,
+  "translation": "Iwo adzasambaza chakudya; ngati sadzakhoza kukhozeka, adzakhalabe usiku.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Iwo"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "adzasambaza"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "chakudya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadzakhoza kukhozeka"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "kukhozeka"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "adzakhalabe usiku"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:10.994988992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 59,
+  "translation": "Ndilanditsani ku ochita zoipa, ndipulumutseni ku anthu a magazi.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Ndilanditsani"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "ku ochita"
+    },
+    {
+      "surface": "און",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "ndipulumutseni ku anthu a"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "magazi"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ndipulumutseni"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:53.211059435Z",
+  "model": "glm-5.3"
+}

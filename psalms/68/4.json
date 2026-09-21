@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 68,
+  "translation": "Ndipo olungama adzakondwera, adzajambula pamaso pa Elohim, ndipo adzakondwera ndi chimwemwe.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "Ndipo olungama"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "adzakondwera"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "adzajambula"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "ndipo adzakondwera"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ndi chimwemwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:28.185154476Z",
+  "model": "glm-5.3"
+}

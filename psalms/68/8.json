@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 68,
+  "translation": "Elohim, poti unatuluka pamaso pa anthu ako, poti unayenda m'chipululu — Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "poti unatuluka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "anthu ako"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "poti unayenda"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "m'chipululu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:40.632362500Z",
+  "model": "glm-5.3"
+}

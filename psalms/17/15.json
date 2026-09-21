@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ine, m'chilungamo ndidzaona nkhope yanu, ndidzakhuta poyamba ndi chifaniziro chanu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "m'chilungamo"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "ndidzaona"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nkhope yanu"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "ndidzakhuta"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "poyamba"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "chifaniziro chanu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:47.654573415Z",
+  "model": "glm-5.3"
+}

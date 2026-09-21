@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Lowani mu mwala, ndipo mabisamire m'dothi, pamaso pa mantha a Yahwe, ndi pa kukongola kwa ukulu wake.",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "lowani"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "mu mwala"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "mabisamire"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "m'dothi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "mantha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "ndi pa kukongola"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "kwa ukulu wake"
+    }
+  ],
+  "timestamp": "2026-09-21T09:00:55.751381840Z",
+  "model": "glm-5.3"
+}

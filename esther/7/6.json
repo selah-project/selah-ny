@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo Estere anati: “Munthu wozunza ndi mdani — Hamani woipa uja.” Ndipo Hamani anamantha pamaso pa mfumu ndi mfumukazi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estere"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "צר",
+      "gloss": "wozunza"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "ndi mdani"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamani"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "woipa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uja"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ndipo Hamani"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "anamantha"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "ndi mfumukazi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:03:45.395584827Z",
+  "model": "glm-5.3"
+}

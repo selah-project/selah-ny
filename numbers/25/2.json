@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 25:2",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Iwo anakaitanira ⟨anthu⟩ ku nsembe za milungu yawo, ndipo anthuwo anadya, nagwadira milungu yawo.",
+  "tokens": [
+    {
+      "surface": "ותקראן",
+      "gloss": "anakaitanira"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "⟨anthu⟩"
+    },
+    {
+      "surface": "לזבחי",
+      "gloss": "ku nsembe"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "za milungu yawo"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "anadya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthuwo"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "nagwadira"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "milungu yawo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:04:58.621464759Z",
+  "model": "glm-5.3"
+}

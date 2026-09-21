@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Chigwa chilichonse chidzakwezedwa, ndipo phiri lililonse ndi chilombo chidzachepetsedwa; ndipo choluma chidzakhala cholengama, ndipo malire ovunda gawo loyezimuka.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "chilichonse"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "chigwa"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "chidzakwezedwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo lililonse"
+    },
+    {
+      "surface": "הר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "ndi chilombo"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "chidzachepetsedwa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ndipo chidzakhala"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "choluma"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "cholengama"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "ndipo malire ovunda"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "gawo loyezimuka"
+    }
+  ],
+  "timestamp": "2026-09-21T09:17:59.679268007Z",
+  "model": "glm-5.3"
+}

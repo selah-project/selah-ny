@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 7:11",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Yisraeli wachimwa; ndiponso apweza ⟨את⟩ pangano langa limene ndinalamula ⟨את⟩ iwo; ndiponso anatenga m'heremu, ndiponso anabala, ndiponso anakana zoona, ndiponso anaika m'zinthu zawo.",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "wachimwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "apweza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangano langa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "pangano langa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ndinalamula"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "m'"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "heremu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "כחשו",
+      "gloss": "anakana zoona"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "anaika"
+    },
+    {
+      "surface": "בכליהם",
+      "gloss": "m'zinthu zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:36:42.427921996Z",
+  "model": "glm-5.3"
+}

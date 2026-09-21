@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 72,
+  "translation": "Mapiri adzanyamula mtendere kwa anthu, ndi phiri m'chilungamo.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "adzanyamula"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Mapiri"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mtendere"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kwa anthu"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "ndi phiri"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "m'chilungamo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:44.035358793Z",
+  "model": "glm-5.3"
+}

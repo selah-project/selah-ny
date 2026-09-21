@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Masana onse manyazi anga ali pamaso panga, ndipo manyazi a nkhope yanga andiviniga.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "masana"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "manyazi anga"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "pamaso panga"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "ndipo manyazi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "a nkhope yanga"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "andiviniga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:52.825248043Z",
+  "model": "glm-5.3"
+}

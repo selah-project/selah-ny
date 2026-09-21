@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Ndipo anaiwala ntchito zake ndi zozizwitsa zake zimene anaonetsa ⟨את⟩ iwo.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "Ndipo anaiwala"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ntchito zake"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ndi zozizwitsa zake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "anaonetsa ⟨את⟩ iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:27.010296174Z",
+  "model": "glm-5.3"
+}

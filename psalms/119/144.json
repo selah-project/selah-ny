@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 144,
+  "ref": "psalms 119:144",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Cholungama cha mboni zako ku nthawi zonse; ndipatsere umboni, ndipo ndidzakhala ndi moyo.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Cholungama"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "cha mboni zako"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "ndipatsere umboni"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "ndipo ndidzakhala ndi moyo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:12.323178131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 20:17",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo Yehonatani anawonjezera kulumbiritsa ⟨את⟩ Davide m'chikondi chake ⟨את⟩ iye, chifukwa adamuika ndi chikondi cha moyo wake.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "anawonjezera"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "להשביע",
+      "gloss": "kulumbiritsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "m'chikondi chake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "iye (Davide)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "chikondi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "adamuika iye"
+    }
+  ],
+  "timestamp": "2026-09-21T08:09:59.607713155Z",
+  "model": "glm-5.3"
+}

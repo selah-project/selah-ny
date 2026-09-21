@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 2:9",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo iye anati kwa ⟨אנשים⟩ amunawo: Ndadziwa kuti Yahwe wakupatsani ⟨את⟩ dziko lapansi, ndipo kuti mantha anu anagwa pa ife, ndipo kuti okhala dziko lonse afota pamaso panu.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "amunawo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "Ndadziwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wakupatsani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko lapansi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ndipo kuti"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "anagwa"
+    },
+    {
+      "surface": "אימתכם",
+      "gloss": "mantha anu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "pa ife"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ndipo kuti"
+    },
+    {
+      "surface": "נמגו",
+      "gloss": "afota"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "okhala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "pamaso panu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:35:04.571644107Z",
+  "model": "glm-5.3"
+}

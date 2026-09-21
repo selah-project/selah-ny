@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo Yahwe anakana mbewu yonse ya Yisraeli, nawasautsa, nawapereka m'manja mwa olanda, kufikira atawataya pamaso pake.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "anakana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbewu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "nawasautsa"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "nawapereka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "m'manja mwa"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "olanda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pamene"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "atawataya"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "pamaso pake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:57:21.450087349Z",
+  "model": "glm-5.3"
+}

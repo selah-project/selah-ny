@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 92,
+  "translation": "Kusonyeza khesedi kwanu m'mawa, ndi chikhulupiriro chanu m'masiku usiku.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "kusonyeza"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "m'mawa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedi kwanu"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "ndi chikhulupiriro chanu"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "m'masiku usiku"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:40.964503726Z",
+  "model": "glm-5.3"
+}

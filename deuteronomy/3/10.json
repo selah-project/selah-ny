@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "mizi yonse ya ⟨chilengalenga⟩, ndi Giladi yonse, ndi Bashani yonse, mpaka Salekha ndi Edreyi, mizi ya ufumu wa Ogi mu Bashani.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mizi"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "chilengalenga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi … yonse"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giladi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi … yonse"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashani"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salekha"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "ndi Edreyi"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mizi"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "ufumu"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ogi"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "mu Bashani"
+    }
+  ],
+  "timestamp": "2026-09-21T07:13:16.425070486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo udzaika chidindo cha mutu pa mutu wake, ndipo udzaika ⟨את⟩ nezeri wa chipatulo pa chidindo cha mutu.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "udzaika"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "chidindo cha mutu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mutu wake"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "udzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nezeri"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "nezeri"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "wa chipatulo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "chidindo cha mutu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:21:43.596123972Z",
+  "model": "glm-5.3"
+}

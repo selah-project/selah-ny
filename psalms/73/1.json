@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 73,
+  "translation": "Nyimbo ya Asafu. Ndithu bwino kwa Yisraeli ndi Elohim, kwa okhala ndi mtima woyera.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asafu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bwino"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kwa Yisraeli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "kwa okhala"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ndi mtima woyera"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:54.807192429Z",
+  "model": "glm-5.3"
+}

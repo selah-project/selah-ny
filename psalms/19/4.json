@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Palibe mawu, ndipo palibe mawu enieni, kopanda kumveka kwamlondo wawo.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mawu enieni"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "kopanda"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "kumveka"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "mlondo wawo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:05.002677027Z",
+  "model": "glm-5.3"
+}

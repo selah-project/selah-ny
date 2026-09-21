@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo anapeza ⟨את⟩ Adoni-Bezeki ku Bezeki, nanalimbana ndi iye, nanagunda ⟨את⟩ Akanaani ndi ⟨את⟩ Aperizi.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "anapeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezeki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezeki"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "ku Bezeki"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "nanalimbana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ndi iye"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "nanagunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akanaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Akanaani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Aperizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Aperizi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:45:37.075369139Z",
+  "model": "glm-5.3"
+}

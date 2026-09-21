@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 8:1",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo anthu onse anasonkhana monga munthu mmodzi ku bwalolo umene uli pamaso pa khomo lamadzi, ndipo anati kwa Ezira wolemba kuti abweretse ⟨את⟩ buku la Tora ya Moshe, imene Yahwe analamulira ⟨את⟩ Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "anasonkhana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "monga munthu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmodzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הרחוב",
+      "gloss": "bwalolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "khomo"
+    },
+    {
+      "surface": "המים",
+      "gloss": "lamadzi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "anati"
+    },
+    {
+      "surface": "לעזרא",
+      "gloss": "kwa Ezira"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "wolemba"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "kuti abweretse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buku"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buku"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "la Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ya Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "analamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T12:20:39.850857547Z",
+  "model": "glm-5.3"
+}

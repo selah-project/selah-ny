@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Wamuna aliyonse mwa ansembe adzaidyayo; malo oyera adzadyedwako; woyera koposa ndi imeneyi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "aliyonse"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "wamuna"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "mwa ansembe"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "adzaidyayo"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "malo"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "oyera"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "adzadyedwako"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "koposa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndi imeneyi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:31:30.322752083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 91,
+  "translation": "Pakuti iye anakondwera ndi Ine, ndipo Ine ndidzampulumutsa; ndidzamkweza, pakuti adziwa Dzina langa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ndi Ine"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "anakondwera"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "ndipo ndidzampulumutsa"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "ndidzamkweza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "adziwa"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Dzina langa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:22.912870344Z",
+  "model": "glm-5.3"
+}

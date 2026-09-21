@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo Yahwe adati: “Kuwona ndawona ⟨את⟩ uhukhana wa anthu anga amene ali ku Mitsrayimu, ndi ⟨את⟩ kulira kwawo ndinamva chifukwa cha olemeretsa awo; pakuti ndidziwa ⟨את⟩ zowawa zawo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo adati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "kuwona"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndawona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uhukhana wa anthu anga"
+    },
+    {
+      "surface": "עני",
+      "gloss": "uhukhana"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "wa anthu anga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ali ku Mitsrayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "kulira kwawo"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "kulira kwawo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndinamva"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "olemeretsa awo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndidziwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zowawa zawo"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "zowawa zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:39.275219976Z",
+  "model": "glm-5.3"
+}

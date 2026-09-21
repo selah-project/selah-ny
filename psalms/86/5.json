@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 86,
+  "translation": "Pakuti iwe, Adonayi, ndiwe wabwino ndi wokhululuka, ndipo wachikondi chambiri kwa onse akukufunira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wabwino"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "ndi wokhululuka"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ndipo wachikondi chambiri"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesedi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa onse"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "akukufunira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:57.214810396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 65:25",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 65,
+  "translation": "Nkhumba yakuda ndi mwala adzafuza monga mmodzi, ndipo mkango udzadya chomera monga ng'ombe, ndi njoka rdondwa dzidzakhala chakudya chake; sadzachititsa choipa, ndipo sadzaononga, m'phiri langa lonse lapatulika, adati Yahwe.",
+  "tokens": [
+    {
+      "surface": "זאב",
+      "gloss": "Nkhumba yakuda"
+    },
+    {
+      "surface": "וטלה",
+      "gloss": "ndi mwala"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "adzafuza"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "monga mmodzi"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "ndipo mkango"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "monga ng'ombe"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "udzadya"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "chomera"
+    },
+    {
+      "surface": "ונחש",
+      "gloss": "ndi njoka"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "rdondwa"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "chakudya chake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "chititsa choipa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sadza-"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "ononga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "m'…lonse"
+    },
+    {
+      "surface": "הר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "langa lapatulika"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T09:26:20.656258373Z",
+  "model": "glm-5.3"
+}

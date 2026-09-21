@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo mnzake anamuitana mnzake, nati: “Woyera, woyera, woyera, Yahwe Tsevaoti; chidzalo cha dziko lapansi lonse ndi ulemerero wake.”",
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "ndipo anamuitana"
+    },
+    {
+      "surface": "זה",
+      "gloss": "mnzake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "mnzake"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Woyera"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "chidzalo cha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ndi ulemerero wake"
+    }
+  ],
+  "timestamp": "2026-09-21T09:04:53.511346586Z",
+  "model": "glm-5.3"
+}

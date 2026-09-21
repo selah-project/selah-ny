@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo mudzaika ⟨את⟩ bwalo m'mbali zonse zake, ndipo mudzaika ⟨את⟩ chikhomo cha khomo la bwalo.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "udzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bwalo"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "bwalo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "m'mbali zonse"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "udzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikhomo"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "chikhomo"
+    },
+    {
+      "surface": "שער",
+      "gloss": "cha khomo"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "la bwalo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:21.278720675Z",
+  "model": "glm-5.3"
+}

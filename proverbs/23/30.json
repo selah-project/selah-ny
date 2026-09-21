@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 23:30",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Kwa iwo amene akukhala nthawi yayitali pafupi ndi wayindi, amene alowa kufunafuna wayindi wosakanidwa.",
+  "tokens": [
+    {
+      "surface": "למאחרים",
+      "gloss": "amene akukhala nthawi yayitali pafupi ndi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa (tanthauzo: pafupi ndi)"
+    },
+    {
+      "surface": "היין",
+      "gloss": "wayindi"
+    },
+    {
+      "surface": "לבאים",
+      "gloss": "amene alowa"
+    },
+    {
+      "surface": "לחקר",
+      "gloss": "kufunafuna"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "wayindi wosakanidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:26:31.795055424Z",
+  "model": "glm-5.3"
+}

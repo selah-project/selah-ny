@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Zopatulika Zanga munazinyoza, ndi ⟨את⟩ Sabata Zanga munazidetsa.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "Zopatulika Zanga"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "munazinyoza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Sabata Zanga"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Sabata Zanga"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "munazidetsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:03:22.259330273Z",
+  "model": "glm-5.3"
+}

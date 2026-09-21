@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo Eliisha anamuuza: “Tenga uta ndi mivi.” Ndipo anamutengera uta ndi mivi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anamuuza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(kwa iye)"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliisha"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Tenga"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "ndi mivi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ndipo anatenga"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "ndi mivi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:54:11.486399669Z",
+  "model": "glm-5.3"
+}

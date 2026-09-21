@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 8:8",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo anati kwa ine: “Mwana wa munthu, tima tsopano m'chakuti.” Ndinatima m'chakuti, ndipo taona, chakuti chimodzi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa munthu"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "tima"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "m'chakuti"
+    },
+    {
+      "surface": "ואחתר",
+      "gloss": "Ndinatima"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "m'chakuti"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ndipo taona"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "chakuti"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "chimodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T09:56:12.806928378Z",
+  "model": "glm-5.3"
+}

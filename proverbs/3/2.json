@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Pakuti kutalika kwa masiku, ndi zaka za moyo, ndi mtendere, adzaonjezera kwa iwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "kutalika"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "ndi zaka"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "za moyo"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "ndi mtendere"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "adzaonjezera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:44.631799860Z",
+  "model": "glm-5.3"
+}

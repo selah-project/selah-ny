@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Atamutsitsa mkaka Lo-Rukhamahi, anatenga mimba, nabala mwana wamwamuna.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "atamutsitsa mkaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Rukhamahi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Rukhamahi"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "anatenga mimba"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nabala"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wamwamuna"
+    }
+  ],
+  "timestamp": "2026-09-21T10:21:12.284459039Z",
+  "model": "glm-5.3"
+}

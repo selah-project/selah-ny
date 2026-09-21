@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndidzayamika Yahwe ndi mtima wanga wonse; ndidzalankhula za zozizitsa zako zonse.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Ndidzayamika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ndi ... wonse"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ndidzalankhula za"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "zozizitsa zako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:48.187466998Z",
+  "model": "glm-5.3"
+}

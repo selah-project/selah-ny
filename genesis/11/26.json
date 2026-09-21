@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Terakhi anakhaladi zaka makumi asanu ndi awiri, naza ⟨את⟩ Avrahamu, ⟨את⟩ Nachori ndi ⟨את⟩ Harani.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "anakhaladi"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terakhi"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "makumi asanu ndi awiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "naza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachori"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Harani"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harani"
+    }
+  ],
+  "timestamp": "2026-09-21T12:53:52.984973422Z",
+  "model": "glm-5.3"
+}

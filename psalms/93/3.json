@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 93,
+  "translation": "Mitsinje yatukuta, Yahwe; mitsinje yatukuta mawu ake; mitsinje yatukuta nyengo zake zazikulu.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "yatukuta"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "Mitsinje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "yatukuta"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mitsinje"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "mawu ake"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "yatukuta"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mitsinje"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "nyengo zake zazikulu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:56.444214564Z",
+  "model": "glm-5.3"
+}

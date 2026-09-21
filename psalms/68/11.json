@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 68,
+  "translation": "Gulu lako lachilengedwe linakhala m'menemo; m'chisomo chako umakonzera kwa osauka, Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "Gulu lako lachilengedwe"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "linakhala"
+    },
+    {
+      "surface": "בה",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "umakonzera"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "m'chisomo chako"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "kwa osauka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:40.857469988Z",
+  "model": "glm-5.3"
+}

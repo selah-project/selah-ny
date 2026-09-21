@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Chimwero cha anthu anga akudya, ndipo ku mphulupulu yawo akweza moyo wawo.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "Chimwero"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "cha anthu anga"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "akudya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo ku"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "mphulupulu yawo"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "akweza"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moyo wawo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:20:30.963725345Z",
+  "model": "glm-5.3"
+}

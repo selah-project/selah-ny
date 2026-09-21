@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 138,
+  "translation": "Ngati ndidzayenda pakati pa chisautso, undiwezetse moyo; m'kupusa kwa adani anga udzatuma dzanja lako, ndi dzanja lako lamanja londipulumutsa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ndidzayenda"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "chisautso"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "undiwezetse moyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "m'kupusa kwa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kupusa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "adani anga"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "udzatuma"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dzanja lako"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "ndi londipulumutsa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dzanja lako lamanja"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:05.130903713Z",
+  "model": "glm-5.3"
+}

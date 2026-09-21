@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Amene Yahwe Tsevaoti adawadalitsa, nati: “Odala ndi anthu anga Mitsrayimu, ndi ntchito za manja anga Ashuru, ndi cholowa changa Yisraeli.”",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "adawadalitsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "odala"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "anthu anga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ndi ntchito"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "za manja anga"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "ndi cholowa changa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T09:07:05.655061011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo munanyamula ⟨את⟩ Sikkuti mfumu yanu, ndi ⟨את⟩ Kiuni mafanizo anu, nyenyezi ya milungu yanu, imene munadzichitira okha.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "Ndipo munanyamula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikkuti mfumu yanu"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sikkuti"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "mfumu yanu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Kiuni mafanizo anu"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kiuni"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "mafanizo anu"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "nyenyezi"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ya milungu yanu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "munadzichitira"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu nokha"
+    }
+  ],
+  "timestamp": "2026-09-21T10:26:23.602443674Z",
+  "model": "glm-5.3"
+}

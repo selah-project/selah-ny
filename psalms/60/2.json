@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 60,
+  "translation": "Poti iye ankamenya ⟨את⟩ Aramu Naharayimu ndi ⟨את⟩ Aramu Tsovaha, ndipo Yoabu anabwerera, nadula ⟨את⟩ Edomu m'chigwa cha mchere, ziwiri khumi (chifukwa cha mazana khumi ndi awiri) αχιλomwe — achiwiri kukwanira: khumi ndi ziwiri mazana.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "Poti iye ankamenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramu Naharayimu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Aramu Tsovaha"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsovaha"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "anabwerera"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "nadula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "m'chigwa cha"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "mchere"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mazana khumi ndi awiri"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:36.641691840Z",
+  "model": "glm-5.3"
+}

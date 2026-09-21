@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo anawathamangitsa ⟨akupembedza mafano⟩ m'dzikolo, nkwawonjezera anawachotsa ⟨את⟩ mafano onse amene makolo ake anapanga.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "anawathamangitsa"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "⟨akupembedza mafano⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "m'dzikolo"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "anawachotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafono onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "mafono"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "makolo ake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:41:41.359807383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Kuyambira pa amuna mpaka akazi mudzawatuma; kuseri kwa msasa mudzawatuma, kuti asadzetse chodetsa pa ⟨את⟩ misasa yawo, imene Ine ndikhala mkati mwake.",
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "kuyambira pa amuna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "akazi"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "mudzawatuma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuseri kwa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kunja kwa"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "msasa"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "mudzawatuma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuti asadzetse chodetsa"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "asadzetse chodetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "misasa yawo"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "misasa yawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ndikhala"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "mkati mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:59:43.967560589Z",
+  "model": "glm-5.3"
+}

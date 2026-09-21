@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipitire, ndikupempha, ndione ⟨את⟩ dziko labwino limene lili kumbali ina ya Yordano, phiri labwino ili ndi Lebanoni.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "ndipitire"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndikupempha"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ndione"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko labwino"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "labwino"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "kumbali ina ya"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordano"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "labwino"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ili"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "ndi Lebanoni"
+    }
+  ],
+  "timestamp": "2026-09-21T07:14:29.771635592Z",
+  "model": "glm-5.3"
+}

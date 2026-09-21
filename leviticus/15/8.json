@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 15:8",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo ngati wodetsedwayo athire mkamua pa woyera, adzatsuka zovala zake, nadzasambitsa ⟨thupi lake⟩ m'madzi, ndipo adzadetsa mpaka madzulo.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ndipo ngati"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "athire mkamua"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "wodetsedwayo"
+    },
+    {
+      "surface": "בטהור",
+      "gloss": "pa woyera"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "adzatsuka"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "zovala zake"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "nadzasambitsa ⟨thupi lake⟩"
+    },
+    {
+      "surface": "במים",
+      "gloss": "m'madzi"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "adzadetsa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "madzulo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:39:26.584450722Z",
+  "model": "glm-5.3"
+}

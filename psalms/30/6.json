@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Pakuti kasoza kanthawi kochepa m'mkuphuluza kwake, moyo uli m'chikondi chake; madodwe akakhala usana, koma m'mawa kuli kufuula kwa chimwemwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "kanthawi kochepa"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "m'mkuphuluza kwake"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "m'chikondi chake"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "usana"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "akakhala"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "madodwe"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "koma m'mawa"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "kufuula kwa chimwemwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:46.424251468Z",
+  "model": "glm-5.3"
+}

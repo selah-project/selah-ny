@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 36:4",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Ndipo mfumu ya Mitsrayimu idapangitsa ⟨את⟩ Eliyakimu m'bale wake kulamulira Yuda ndi Yerushalayimu, ndipo anusintha ⟨את⟩ dzina lake Yehoyakimu; ndipo Nekho anatora ⟨את⟩ Yehoachazi m'bale wake, namutenga ku Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "idapangitsa kulamulira"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyakimu"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eliyakimu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "m'bale wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "kulamulira"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ndi Yerushalayimu"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "anusintha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzina lake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dzina lake"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoachazi",
+      "": "ndi"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Yehoachazi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "m'bale wake"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "anatora"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "Nekho"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "namutenga"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ku Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:52:05.980014122Z",
+  "model": "glm-5.3"
+}

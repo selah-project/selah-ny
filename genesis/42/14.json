@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Yosefu anati kwa iwo: “Ichi ndi chimene ndinanena kwa inu, ndi kuti: Inu ndinu asakatuli.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ndinanena"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "asakatuli"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "inu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:03:31.261075407Z",
+  "model": "glm-5.3"
+}

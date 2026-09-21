@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Kwa inu, inu amuna, ndikufuula; ndipo liwu langa limalira kwa ana a anthu.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "amuna"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndikufuula"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "ndipo liwu langa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:35.514242431Z",
+  "model": "glm-5.3"
+}

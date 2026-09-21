@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo musunge ⟨את⟩ mawu a pangano ili, ndi kuchita ⟨את⟩ iwo, kuti mukhale nzeru mu ⟨את⟩ zonse zimene mudzachita.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ndipo musunge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu a pangano ili"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "pangano"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ili"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ndi kuchita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mawu a pangano ili"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "mukhale nzeru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse zimene mudzachita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "mudzachita"
+    }
+  ],
+  "timestamp": "2026-09-21T07:28:45.733170621Z",
+  "model": "glm-5.3"
+}

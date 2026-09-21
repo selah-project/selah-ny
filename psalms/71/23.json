@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 71,
+  "translation": "Milomo yanga idzafuula mokondwa chifukwa ndimbayimbira nyimbo, ndipo moyo wanga, amene unandipulumutsa.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "idzafuula mokondwa"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "milomo yanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ndimbayimbira nyimbo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "ndipo moyo wanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "unandipulumutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:17.460729757Z",
+  "model": "glm-5.3"
+}

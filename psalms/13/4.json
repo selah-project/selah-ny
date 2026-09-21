@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Penyerani, mundiyankhe ine, Yahwe Elohim wanga; pereketsani kuwala kwa maso anga, kuti sindigone tulo la imfa;",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Penyerani"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "mundiyankhe ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "pereketsani kuwala"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "kwa maso anga"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kuti osati"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "sindigone"
+    },
+    {
+      "surface": "המות",
+      "gloss": "la imfa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:46.894533793Z",
+  "model": "glm-5.3"
+}

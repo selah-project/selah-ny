@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo anapita ndi ⟨את⟩ iwo, ndipo analowa ku Yordano, ndipo anadula mitengo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ndipo anapita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ndipo analowa"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "ku Yordano"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "ndipo anadula"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "mitengo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:49:39.023862277Z",
+  "model": "glm-5.3"
+}

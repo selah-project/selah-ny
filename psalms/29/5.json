@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Mawu a Yahwe amathyola ⟨the⟩ mitengo ya Areshi; ndipo Yahwe wathyola ⟨את⟩ mitengo ya Areshi ya Lebanoni.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "amathyola"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "mitengo ya Areshi"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ndipo wathyola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitengo ya Areshi ya Lebanoni"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "mitengo ya Areshi"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "ya Lebanoni"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:24.389510822Z",
+  "model": "glm-5.3"
+}

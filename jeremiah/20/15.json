@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Wotembereredwa munthu amene anauza ⟨את⟩ atate wanga nati: “Wabadwira iwe mwana wamwamuna,” nadzaza mtima ndi chimwemwe.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Wotembereredwa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "anauza nkhani yabwino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atate wanga"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atate wanga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "Wabadwira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "wamwamuna"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "nadzaza mtima ndi"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "chimwemwe"
+    }
+  ],
+  "timestamp": "2026-09-21T09:36:35.172223896Z",
+  "model": "glm-5.3"
+}

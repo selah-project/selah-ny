@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo zinamuchitikira iye choncho; ndipo anthu adamuponda ⟨אתו⟩ pa khomo, nafa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo zinachitika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "כן",
+      "gloss": "choncho"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "adamuponda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iye (wachitatu)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "pa khomo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "nafa"
+    }
+  ],
+  "timestamp": "2026-09-21T08:51:51.701900646Z",
+  "model": "glm-5.3"
+}

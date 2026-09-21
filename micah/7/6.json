@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 7:6",
+  "book": "micah",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Pakuti mwana amanyoza bambo ake, mwana wamkazi anayimirira pa mayi ake, mkazi wamwana pa apongozi ake; adani a munthu ndi anthu a m'nyumba yake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "amanyoza"
+    },
+    {
+      "surface": "אב",
+      "gloss": "bambo ake"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "anayimirira"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "pa mayi ake"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "mkazi wamwana"
+    },
+    {
+      "surface": "בחמתה",
+      "gloss": "pa apongozi ake"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "adani"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a munthu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "m'nyumba yake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:31:44.858833553Z",
+  "model": "glm-5.3"
+}

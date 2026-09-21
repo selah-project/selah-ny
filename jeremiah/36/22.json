@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 36:22",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Ndipo mfumu inkakhala munyumba ya chihuni, m'mwezi wachisanu ndi chinayi, ndipo ⟨את⟩ mbaulo inkali pamaso pake, ikuyaka.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ndipo mfumu"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "inkakhala"
+    },
+    {
+      "surface": "בית",
+      "gloss": "munyumba"
+    },
+    {
+      "surface": "החרף",
+      "gloss": "ya chihuni"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "m'mwezi"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "wachisanu ndi chinayi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mbaulo"
+    },
+    {
+      "surface": "האח",
+      "gloss": "mbaulo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pamaso pake"
+    },
+    {
+      "surface": "מבערת",
+      "gloss": "ikuyaka"
+    }
+  ],
+  "timestamp": "2026-09-21T09:46:23.459027439Z",
+  "model": "glm-5.3"
+}

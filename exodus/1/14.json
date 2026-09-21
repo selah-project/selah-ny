@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo anawonetsera ⟨את⟩ moyo wawo ndi ntchito yolimbiswa, mu dothi ndi mu njerwa, ndi mu ntchito iliyonse yomwe ili m'munda — ⟨את⟩ ntchito yathu yonse imene anawapangitsa kuchita m'menemo mokhwimitsa.",
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "anawonetsera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wawo"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "moyo wawo"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "ndi ntchito"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "yolimbiswa"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "mu dothi"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "ndi mu njerwa"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ndi mu … iliyonse"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "m'munda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntchito yathu yonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "ntchito yathu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "anawapangitsa kuchita"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "mokhwimitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T12:54:58.887716471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 17:12",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo Mikha anadzaza ⟨את⟩ dzanja la m'Levite, ndipo mnyamatayo anakhalabe kwa iye wansembe, ndipo anakhalabe m'nyumba ya Mikha.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "anadzaza"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mikha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzanja"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dzanja"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "la m'Levite"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "anakhalabe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mnyamatawo"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "anakhalabe"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ya Mikha"
+    }
+  ],
+  "timestamp": "2026-09-21T07:55:45.574273448Z",
+  "model": "glm-5.3"
+}

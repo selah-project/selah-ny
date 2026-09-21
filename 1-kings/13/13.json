@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 13:13",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo anati kwa ana ake: “Konzani bulu kwa ine.” Ndipo anakonzera iye bulu, ndipo anakwera pa iye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "konzani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "bulu"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "anakonzera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "bulu"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "anakwera"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T08:39:35.235426598Z",
+  "model": "glm-5.3"
+}

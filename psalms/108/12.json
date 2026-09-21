@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 108,
+  "translation": "Kodi si iwe, Elohim, wanasiyetsa ife, ndipo iwe, Elohim, sutuluka ndi magulu ankhondo athu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Kodi si"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "wonasiyetsa ife"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo su"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "tuluka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "ndi magulu ankhondo athu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:30.480189437Z",
+  "model": "glm-5.3"
+}

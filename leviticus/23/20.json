@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo wansembe adzagwedezera ⟨את⟩ zipatsozo pamodzi ndi mkate wazipatso zoyamba, kugwedezeka pamaso pa Yahwe, pamodzi ndi nkhosa ziwiri; zikhale zopatulika kwa Yahwe, kwa wansembe.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "adzagwedezera"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "zipatsozo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "wazipatso zoyamba"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "kugwedezeka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "zopatulika"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "zikhale"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kwa wansembe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:44:37.284568663Z",
+  "model": "glm-5.3"
+}

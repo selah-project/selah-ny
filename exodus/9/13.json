@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 9:13",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Yahwe anati kwa Moshe: Dzuka mmamawa, yimirira pamaso pa Paro, ndipo mudzamuuza kuti: Kotero anati Yahwe, Elohim wa Ahebri: Tsala ⟨את⟩ anthu anga, kuti anditumikire.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "Dzuka mmamawa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mmamawa"
+    },
+    {
+      "surface": "והתיצב",
+      "gloss": "yimirira"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "mudzamuuza kuti"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Kotero"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ahebri"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Tsala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu anga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "anthu anga"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "kuti anditumikire"
+    }
+  ],
+  "timestamp": "2026-09-21T06:11:22.163033191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 14:7",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Matamba ake adzayenda nadzafalikira, ndipo ulemerero wake udzakhala ngati wa mtengo wa azitona, ndipo fungo lake ngati la Lebanoni.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "adzayenda nadzafalikira"
+    },
+    {
+      "surface": "ינקותיו",
+      "gloss": "matamba ake"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "udzakhala"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "ngati wa mtengo wa azitona"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ulemerero wake"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "ndipo fungo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lake"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "ngati la Lebanoni"
+    }
+  ],
+  "timestamp": "2026-09-21T10:22:17.967573196Z",
+  "model": "glm-5.3"
+}

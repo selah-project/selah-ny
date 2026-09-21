@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 108,
+  "translation": "Giladi ndi wanga; Menashe ndi wanga; ndipo Efrayimu ndi chitetezo cha mutu wanga; Yehudha ndi wolamulira wanga.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ndi wanga"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi wanga"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ndipo Efrayimu"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "chitetezo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "cha mutu wanga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "wolamulira wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:30.479676550Z",
+  "model": "glm-5.3"
+}

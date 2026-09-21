@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo tsikulija linadza, Elkana anapereka nsembe, napatsa Penina mkazi wake, ndi ana ake onse amuna ndi akazi, magawo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsikulija linadza"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "anapereka nsembe"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "napatsa"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mkazi wake"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ndi onse"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ana ake amuna"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "ndi akazi"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "magawo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:59:34.766846579Z",
+  "model": "glm-5.3"
+}

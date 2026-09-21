@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 48,
+  "translation": "Elohim wadziwika m'maboma ake monga chothawiramo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "m'maboma ake"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "wadziwika"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "monga chothawiramo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:55.768919470Z",
+  "model": "glm-5.3"
+}

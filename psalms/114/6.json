@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 114,
+  "translation": "Inu mapiri, kuti mukuphunzitsa monga nkhosa zamphongo, ndi phiri, monga ana a nkhosa?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Inu mapiri"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "kuti mukuphunzitsa"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "monga nkhosa zamphongo"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ndi phiri"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "monga ana a"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nkhosa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:56.236314533Z",
+  "model": "glm-5.3"
+}

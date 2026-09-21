@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 97,
+  "translation": "Mikalala yake inawala dziko lapansi; dziko linaona, ndipo linagwedezeka.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "inawala"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "Mikalala yake"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "linaona"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "ndipo linagwedezeka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:18.409296464Z",
+  "model": "glm-5.3"
+}

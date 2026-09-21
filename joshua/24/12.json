@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo ndinatuma pamaso panu ⟨את⟩ thobva, nachotsera iwo ⟨את⟩ pamaso panu — mafumu awiri a Aemori; si ndi lupanga lanu, kapena ndi uta wanu.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "ndipo ndinatuma"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pamaso panu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thobva"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "thobva"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "nachotsera iwo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo (mafumu awiri)"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "pamaso panu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "a Aemori"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "ndi lupanga lanu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kapena si"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "ndi uta wanu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:44:51.224189903Z",
+  "model": "glm-5.3"
+}

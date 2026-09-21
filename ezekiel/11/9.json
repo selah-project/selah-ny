@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 11:9",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo ndidzatulutsani ⟨אתכם⟩ mkati mwa iye, ndipo ndidzakupatsani ⟨אתכם⟩ m'manja mwa anthu akunja, ndipo ndidzachitira inu miweruzo.",
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "ndidzatulutsani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "inu (cholinga choyamba: kutulutsidwa)"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "mkati mwa iye"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ndipo ndidzakupatsani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "inu (cholinga chachiwiri: kupatsidwa)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "m'manja mwa"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "anthu akunja"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "ndipo ndidzachitira"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "miweruzo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:18:20.707028875Z",
+  "model": "glm-5.3"
+}

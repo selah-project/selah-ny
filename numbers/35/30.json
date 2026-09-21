@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Wophayo munthu aliyense, m'kamwa mwa mboni, adzapha ⟨את⟩ woophayo; koma mboni imodzi siidzayankha ndi moyo kuti afe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "Wophayo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "m'kamwa mwa"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "mboni"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "adzapha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "woophayo"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "woophayo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "koma mboni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imodzi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sii-"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "dzayankha"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ndi moyo"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kuti afe"
+    }
+  ],
+  "timestamp": "2026-09-21T07:11:54.338400818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 22:15",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo ngati munthu anakayenga mtsikana wosakhazikitsidwa, nagong'amba naye — adzawombola adzawombolera mahari a mtsikana uja, kukhala iye mkazi wake.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ndipo ngati"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "anakayenga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "mtsikana wosakhazikitsidwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨amene⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "osakhazikitsidwa <osati>"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "khazikitsidwa <kukwatiridwa>"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "nagong'amba naye"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "naye"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "adzawombola <mahari>"
+    },
+    {
+      "surface": "ימהרנה",
+      "gloss": "adzawombolera mahari"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kukhala mkazi wake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:52.707151130Z",
+  "model": "glm-5.3"
+}

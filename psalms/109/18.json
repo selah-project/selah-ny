@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "Ndipo anavala matemberero monga chovala chake, nazilowa m'mkati mwake monga madzi, ndi monga mafuta m'mafupa ake.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "anavala"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "matemberero"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "monga chovala chake"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "nazilowa"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "monga madzi"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "m'mkati mwake"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "ndi monga mafuta"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "m'mafupa ake"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:50.914271667Z",
+  "model": "glm-5.3"
+}

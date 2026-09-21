@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 54,
+  "translation": "Pakuti mapiri adzachoka, ndipo mapiri ang'onoang'ono azungulika; koma khesedi kwanga sikudzachoka mwa ⟨את⟩ iwe, ndipo pangano langa la mtendere silizungulika, adati Yahwe, wakuchitira chifundo iwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "adzachoka"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "ndipo mapiri ang'onoang'ono"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "azungulika"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "ndipo khesedi kwanga"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "mwa ⟨את⟩ iwe",
+      "marks": "iwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "kudzachoka"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "ndipo pangano"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "la mtendere langa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "lizungulika"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "wakuchitira chifundo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T09:22:14.806301592Z",
+  "model": "glm-5.3"
+}

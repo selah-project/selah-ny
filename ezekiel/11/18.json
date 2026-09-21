@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo adzafikako, nadzachotsa ⟨את⟩ zonyansa zonse za dzikoli ndi ⟨את⟩ zodetsa zonse za dzikoli m'menemo.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "Ndipo adzafikako"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "-ko"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "nadzachotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonyansa zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "zonyansa za dzikoli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zodetsa zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "zodetsa za dzikoli"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "m'menemo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:59:15.763140759Z",
+  "model": "glm-5.3"
+}

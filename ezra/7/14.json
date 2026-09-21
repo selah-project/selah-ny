@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 7:14",
+  "book": "ezra",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Pakuti iwe watumidwa kopeza mfumu ndi aphungu ake asanu ndi awiri, kufufuza za Yehuda ndi za Yerushalayimu, monga monga Tora ya Elohim wako imene ili m'dzanja lako.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "די",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kopeza"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "asanu ndi awiri"
+    },
+    {
+      "surface": "יעטהי",
+      "gloss": "aphungu ake"
+    },
+    {
+      "surface": "שליח",
+      "gloss": "watumidwa"
+    },
+    {
+      "surface": "לבקרא",
+      "gloss": "kufufuza"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "יהוד",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "ndi za Yerushalayimu"
+    },
+    {
+      "surface": "בדת",
+      "gloss": "monga Tora"
+    },
+    {
+      "surface": "אלהך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "די",
+      "gloss": "imene"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "m'dzanja lako"
+    }
+  ],
+  "timestamp": "2026-09-21T12:14:39.550364853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 20:24",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Altare wa dothi udzapanga kwa ine, ndipo udzapereka pa iyomwali ⟨את⟩ nsembe zako za kuwotcha ndi ⟨את⟩ mapatikiro ako a mtendere, ⟨את⟩ nkhosa zako ndi ⟨את⟩ ng'ombe zako. M'malo onse amene ndidzachitira kukumbukira ⟨את⟩ dzina langa, ndidzadza kwa iwe, ndipo ndidzakudalitsa.",
+  "tokens": [
+    {
+      "surface": "מזבח",
+      "gloss": "Altare"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "wa dothi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "udzapanga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "וזבחת",
+      "gloss": "ndipo udzapereka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iyomwali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe zako za kuwotcha"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "nsembe zako za kuwotcha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mapatikiro ako a mtendere"
+    },
+    {
+      "surface": "שלמיך",
+      "gloss": "mapatikiro ako a mtendere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhosa zako"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "nkhosa zako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ng'ombe zako"
+    },
+    {
+      "surface": "בקרך",
+      "gloss": "ng'ombe zako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "M'malo onse"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "ndidzachitira kukumbukira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzina langa"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "dzina langa"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ndidzadza"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "ndipo ndidzakudalitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:14:56.390407325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo sanawerengere ⟨את⟩ anthu amene anapatsa ⟨את⟩ ndalama mʼmanja mwawo kupatsa ochita ntchito, pakuti ali okhulupirika pochita.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ndipo sana-"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "werengere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "anapatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndalama"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ndalama"
+    },
+    {
+      "surface": "על",
+      "gloss": "mʼ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "manja mwawo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kupatsa"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "ochita ntchito"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "okhulupirika"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ali"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "pochita"
+    }
+  ],
+  "timestamp": "2026-09-21T08:53:38.411112966Z",
+  "model": "glm-5.3"
+}

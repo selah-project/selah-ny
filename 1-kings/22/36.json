@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 22:36",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo mawu anayendetsedwa m'msasa ndi kucha kwa dzuwa, kuti: “Munthu aliyense ku mzinda wake, ndi munthu aliyense ku dziko lake.”",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "anayendetsedwa"
+    },
+    {
+      "surface": "הרנה",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "m'msasa"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "ndi kucha"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kwa dzuwa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Munthu aliyense"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "mzinda wake"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ndi munthu aliyense"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "dziko lake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:47:13.584370556Z",
+  "model": "glm-5.3"
+}

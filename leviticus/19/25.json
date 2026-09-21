@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo m'chaka chachisanu mudzadya ⟨את⟩ chipatso chake, kuwonjezera kwa inu zikolola zake; ndine Yahwe Elohim wanu.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Ndipo m'chaka"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "chachisanu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mudzadya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chipatso chake"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "chipatso chake"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "kuwonjezera"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "zikolola zake"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:48.204751454Z",
+  "model": "glm-5.3"
+}

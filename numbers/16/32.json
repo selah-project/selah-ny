@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 16:32",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo dziko lapansi linatseula ⟨את⟩ kamwa kwake, ndipo linamera ⟨את⟩ iwo ndi ⟨את⟩ nyumba zawo ndi ⟨את⟩ anthu onse a Korahi ndi ⟨את⟩ chuma chonse.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "linatseula"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamwa kwake"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "kamwa kwake"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "ndipo linamera"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "nyumba zawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לקרח",
+      "gloss": "Korahi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chonse"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "chuma"
+    }
+  ],
+  "timestamp": "2026-09-21T07:01:00.441983496Z",
+  "model": "glm-5.3"
+}

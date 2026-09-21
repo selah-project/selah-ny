@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 40:2",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo Paro anakwiya ndi atumiki ake awiri, ndi mkuza wa ophimbira chakumwa ndi mkuza wa ophika.",
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "anakwiya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "על",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "atumiki ake"
+    },
+    {
+      "surface": "על",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mkuza"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "wa ophimbira chakumwa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mkuza"
+    },
+    {
+      "surface": "האופים",
+      "gloss": "wa ophika"
+    }
+  ],
+  "timestamp": "2026-09-21T06:01:17.404724492Z",
+  "model": "glm-5.3"
+}

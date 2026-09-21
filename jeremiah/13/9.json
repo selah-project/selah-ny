@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Mwachiwiri Yahwe anati: Mofanana ndi ichi ndidzaononga ⟨את⟩ chikondwerero cha Yehudha ndi ⟨את⟩ chikondwerero chachikulu cha Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "mwachiwiri"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "mofanana ndi ichi"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ndidzaononga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikondwerero cha Yehudha"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "chikondwerero"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chikondwerero cha Yerushalayimu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "chikondwerero"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "chachikulu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:35:11.676531121Z",
+  "model": "glm-5.3"
+}

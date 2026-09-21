@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Moyo wosochera umafuna ndipo ulibe kanthu; koma moyo wa olimbika udzakhala wamafuta.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "umafuna"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo ulibe kanthu"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "wosochera"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "koma moyo"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "wa olimbika"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "udzakhala wamafuta"
+    }
+  ],
+  "timestamp": "2026-09-21T11:22:13.544157344Z",
+  "model": "glm-5.3"
+}

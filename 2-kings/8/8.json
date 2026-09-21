@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 8:8",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo mfumu inati kwa Hazaeli: “Tengamphatso m'dzanja lako, ndipo pitakukomana ndi munthu wa Elohim, ndipo funsa ⟨את⟩ Yahwe ⟨את⟩ kudzera mwa iye, nati: 'Kodi ndidzachiritsika mulwara uwu?'”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo inati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Hazaeli"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Tenga"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "m'dzanja lako"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mphatso"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ndipo pitani"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kukomana ndi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu wa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "ndipo funsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ kudzera mwa iye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "האחיה",
+      "gloss": "Kodi ndidzachiritsika"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "mulwara"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uwu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:52:45.345862129Z",
+  "model": "glm-5.3"
+}

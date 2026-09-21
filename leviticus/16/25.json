@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo ⟨את⟩ mafuta a nsembe ya machimo adzawotcha pa guwa la nsembe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "a nsembe ya machimo"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "adzawotcha"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pa guwa la nsembe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:40:52.525015287Z",
+  "model": "glm-5.3"
+}

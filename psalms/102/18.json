@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "Wayang'anira pemphero la wosowa, sanadzibe ⟨את⟩ pemphero lawo.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "wayang'anira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "pemphero la"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "wosowa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sanadzibe"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "kusadzibe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pemphero lawo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "pemphero lawo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:46.095818354Z",
+  "model": "glm-5.3"
+}

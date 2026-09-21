@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Kwa woyang'anira; wa ana a Korahi; nyimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wa ana"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "a Korahi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nyimbo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:37.124175456Z",
+  "model": "glm-5.3"
+}

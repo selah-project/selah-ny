@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo Moshe anati: “Ndipotokeni ndidzaona ⟨את⟩ maonero amenewa akuluakulu, chifukwa chiyani sutsa silikutentha?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Ndipotokeni"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pemekani"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ndidzaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maonero amenewa akuluakulu"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "maonero"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "akuluakulu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "amenewa"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "chifukwa chiyani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "likutentha"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "sutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:25.330549235Z",
+  "model": "glm-5.3"
+}

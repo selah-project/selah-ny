@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo adachotsa ⟨את⟩ chivundikiro cha Yehuda, ndipo unayang'ana pa tsiku linalo ku zida za nyumba ya msitu.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Ndipo adachotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivundikiro cha Yehuda"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "chivundikiro"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "cha Yehuda"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "ndipo unayang'ana"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pa tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "linalo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "zida"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "היער",
+      "gloss": "ya msitu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:08:54.463092308Z",
+  "model": "glm-5.3"
+}

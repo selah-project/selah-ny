@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo adzachotsa ⟨את⟩ chiphwato chake ndi matumbo ake, nadzataya ⟨את⟩ chija kufupi ndi guwalo kummawa, pamalo a phula.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "adzachotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiphwato chake"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "chiphwato chake"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "ndi matumbo ake"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "nadzataya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ chija"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "kufupi ndi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwalo"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "kummawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "malo a"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "phula"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:12.210306634Z",
+  "model": "glm-5.3"
+}

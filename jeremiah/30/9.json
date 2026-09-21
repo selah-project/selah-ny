@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo adzatumikira ⟨את⟩ Yahwe Elohim wawo, ndi ⟨את⟩ Davide mfumu yawo, amene ndidzamuyambitsa kwa iwo.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "adzatumikira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "mfumu yawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ndidzamuyambitsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:41:03.036976954Z",
+  "model": "glm-5.3"
+}

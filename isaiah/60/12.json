@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 60,
+  "translation": "Pakuti mtundu ndi ufumu umene sadzakutumikira udzawonongeka; ndipo mitunduyo idzawonongeka adzawonongeka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "mtundu"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "ndi ufumu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadzakutumikira ⟨sa⟩"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "⟨dzakutumikira⟩"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "udzawonongeka"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "ndipo mitunduyo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "idzawonongeka"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "adzawonongeka"
+    }
+  ],
+  "timestamp": "2026-09-21T09:24:15.094239924Z",
+  "model": "glm-5.3"
+}

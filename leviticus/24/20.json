@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Kuphwanya m'malo mwa kuphwanya, diso m'malo mwa diso, dzino m'malo mwa dzino; monga anapatsa chisonono munthu, momwemo chidzapatsidwa mwa iye.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "kuphwanya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "m'malo mwa"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kuphwanya"
+    },
+    {
+      "surface": "עין",
+      "gloss": "diso"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "m'malo mwa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "diso"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dzino"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "m'malo mwa"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dzino"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "anapatsa"
+    },
+    {
+      "surface": "מום",
+      "gloss": "chisonono"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "momwemo"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "chidzapatsidwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mwa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T06:44:16.980423983Z",
+  "model": "glm-5.3"
+}

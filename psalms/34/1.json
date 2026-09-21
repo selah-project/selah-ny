@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "La Davide, pokasintha ⟨את⟩ makhalidwe ake pamaso pa Avimeleki, ndipo iye adamulamulira, nako adayenda.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "La Davide"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "pokasintha makhalidwe ake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makhalidwe ake"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "makhalidwe ake"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleki"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "ndipo iye adamulamulira"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nako adayenda"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:06.972615376Z",
+  "model": "glm-5.3"
+}

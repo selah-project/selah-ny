@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo zinakhala zotero, Yosefu atafika kwa abale ake, anavula ⟨את⟩ Yosefu ⟨את⟩ chovalo chake, ⟨את⟩ chovala cha miundo yambiri chimene chinali pa iye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zinakhala zotero"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ata-"
+    },
+    {
+      "surface": "בא",
+      "gloss": "-fika"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abale ake"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "anavula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chovalo chake"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "chovalo chake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chovala cha miundo yambiri"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "chovala cha"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "miundo yambiri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "chinali pa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T05:59:51.150752892Z",
+  "model": "glm-5.3"
+}

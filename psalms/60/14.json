@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 60,
+  "translation": "Mwa Elohim tidzachita mphamvu, ndipo Iye ndiye adzalawira adani athu.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Mwa Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "tidzachita"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mphamvu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ndipo Iye ndiye"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "adzalawira"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "adani athu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:59.567453639Z",
+  "model": "glm-5.3"
+}

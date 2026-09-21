@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 67,
+  "translation": "Mitundu ikondwere ndi ifuule mokondwa, chifukwa iwe udzaweruza anthu molunjika, ndipo mitundu pa dziko lapansi udzaiwongolera. Selah",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "ikondwere"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "ndi ifuule mokondwa"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "mitundu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "udzaweruza"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "molunjika"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ndipo mitundu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pa dziko lapansi"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "udzaiwongolera"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:54.165372332Z",
+  "model": "glm-5.3"
+}

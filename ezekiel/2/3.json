@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 2:3",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo anati kwa ine: “Mwana wa munthu, ndikutumiza ⟨את⟩ iwe kwa ana a Yisraeli, kwa amitundu otsutsa amene ananditsutsa ine; iwo ndi makolo awo anandipandukira ine, mpaka tsiku lomwe lino.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa munthu"
+    },
+    {
+      "surface": "שולח",
+      "gloss": "ndikutumiza"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine (ndikutumiza)"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ iwe",
+      "marks": "iwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amitundu"
+    },
+    {
+      "surface": "המורדים",
+      "gloss": "otsutsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "ananditsutsa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "ואבותם",
+      "gloss": "ndi makolo awo"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "anandipandukira"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "lomwe (tenelo)"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lino"
+    }
+  ],
+  "timestamp": "2026-09-21T09:55:02.403012138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Ndipo ndidzakupatsani chifundo, ndipo adzakuchitirani ⟨inu⟩ chifundo, ndipo adzabwezeretsa ⟨inu⟩ ku dziko lanu.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Ndipo ndidzakupatsani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "chifundo"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "adzakuchitirani chifundo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inu"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "adzabwezeretsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "dziko lanu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:49:43.613502943Z",
+  "model": "glm-5.3"
+}

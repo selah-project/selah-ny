@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 95,
+  "translation": "Pamene makolo anu anandiyesa, anandiyesa, ndiponso anaona ntchito yanga.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Pamene"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "anandiyesa"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "makolo anu"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "anandiyesa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ntchito yanga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:46.718910135Z",
+  "model": "glm-5.3"
+}

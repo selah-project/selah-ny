@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Elohim wanga, moyo wanga umasunthunkha mwa ine; chifukwa chake ndikukumbukira kuchokera m'dziko la Yardeni, ndi ma Hermoni, kuchokera phiri la Mitsari.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mwa ine"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "umasunthunkha"
+    },
+    {
+      "surface": "על",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chake"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "ndikukumbukira"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuchokera m'dziko"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "la Yardeni"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "ndi ma Hermoni"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "kuchokera phiri"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "la Mitsari"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:24.922640192Z",
+  "model": "glm-5.3"
+}

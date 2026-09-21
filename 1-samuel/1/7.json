@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo momwamo anachitira chaka ndi chaka; nthawi iliyonse iyemwe anamukulirapo ku nyumba ya Yahwe, momwamo anam'tonthoza; ndipo iye analira, ndipo sanadye.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "momwamo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "anachitira"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "chaka"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ndi chaka"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "nthawi iliyonse"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "anamukulirapo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ku nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "momwamo"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "anam'tonthoza"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "analira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "-dye"
+    }
+  ],
+  "timestamp": "2026-09-21T13:05:01.607623635Z",
+  "model": "glm-5.3"
+}

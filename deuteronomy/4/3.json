@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 4:3",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Maso anu anaona ⟨את⟩ zimene Yahwe anachita pa Baali-Peori; chifukwa munthu aliyense amene anayenda m'mbuye mwa Baali-Peori, Yahwe Elohim wako anawaononga m'mkati mwa inu.",
+  "tokens": [
+    {
+      "surface": "עיניכם",
+      "gloss": "Maso anu"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene Yahwe anachita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "pa Baali"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peori"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "m'mbuye mwa"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baali"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peori"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "anawaononga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "m'mkati mwa inu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:16:09.915721651Z",
+  "model": "glm-5.3"
+}

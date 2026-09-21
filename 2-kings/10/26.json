@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo anatulutsa ⟨את⟩ miyala yotsimikizira ya nyumba ya Habeyali, ndipo anayipereka ndi moto.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "anatulutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miyala yotsimikizira"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "miyala yotsimikizira"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wa nyumba"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ya Habeyali"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "anayipereka ndi moto"
+    }
+  ],
+  "timestamp": "2026-09-21T08:50:47.728769408Z",
+  "model": "glm-5.3"
+}

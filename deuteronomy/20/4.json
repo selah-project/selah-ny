@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Pakuti Yahwe, Elohim wanu, ndiye wolonda ndi inu, kulimbana chifukwa cha inu ndi adani anu, kulipulumutsa ⟨את⟩ inu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ndiye wolonda"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ndi inu"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "kulimbana"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "chifukwa cha inu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "adani anu"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "kulipulumutsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:23:56.966423919Z",
+  "model": "glm-5.3"
+}

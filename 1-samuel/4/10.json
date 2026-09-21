@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 4:10",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Pelistimu analimbana, ndipo Yisraeli anagonjeredwa, ndipo anathawa munthu aliyense ku hema yake; ndipo kuwonongedwa kunali kwakukulu kwambiri, ndipo anagwa a Yisraeli makumi atatu pa mkondo.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "Ndipo analimbana"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelistimu"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "anagonjeredwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ndipo anathawa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu aliyense"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "ku hema yake"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "kunali"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "kuwonongedwa"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "kwakukulu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ndipo anagwa"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "makumi atatu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "chiwiri cha zana"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "pa mkondo (anthu a tsinde)"
+    }
+  ],
+  "timestamp": "2026-09-21T08:00:53.390155826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Sadzalakwitsa, ndipo sadzaononga pa phiri langwa lotonthera langa lonse; pakuti dziko lidzadzidzala ndi chidziwitso cha ⟨את⟩ Yahwe, monga madzi ofunda nyanja.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "lakwitsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sadza-"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "ononga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pa … lonse"
+    },
+    {
+      "surface": "הר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "langwa lotonthera langa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "lidzadzidzala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "chidziwitso cha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "monga madzi"
+    },
+    {
+      "surface": "לים",
+      "gloss": "ya nyanja"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "ofunda"
+    }
+  ],
+  "timestamp": "2026-09-21T09:06:00.595588032Z",
+  "model": "glm-5.3"
+}

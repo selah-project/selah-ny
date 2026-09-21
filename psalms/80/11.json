@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 80,
+  "translation": "Mapiri anafupilidwa ndi mthunzi wake, ndipo nthambi zake zinali miredzere ya El.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "anafupilidwa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "ndi mthunzi wake"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "ndipo nthambi zake"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "miredzere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ya El"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:17.695333526Z",
+  "model": "glm-5.3"
+}

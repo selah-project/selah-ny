@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 116,
+  "translation": "Ndakhulupirira, chifukwa ndimalankhula; ineyo ndinasautidwa kwakukulu.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "Ndakhulupirira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ndimalankhula"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ineyo"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ndinasautidwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwakukulu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:05.189928754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Wonjezera cholakwa pa cholakwa chawo, ndipo asalowe m'chilungamo chako.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Wonjezera"
+    },
+    {
+      "surface": "עון",
+      "gloss": "cholakwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "cholakwa chawo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo asa‑"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "lowe"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "m'chilungamo chako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:24.172624370Z",
+  "model": "glm-5.3"
+}

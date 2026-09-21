@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 30:1",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo Moshe ananena kwa ana a Yisraeli monga molingana ndi zonse zimene Yahwe analamulira ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "monga molingana ndi zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "analamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T07:09:14.097572247Z",
+  "model": "glm-5.3"
+}

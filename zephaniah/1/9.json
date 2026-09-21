@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zephaniah 1:9",
+  "book": "zephaniah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo ndidzaweruza pa onse amathamangitsa pa chikhomo cha khomo, tsiku lija, iwo amene akudzaza nyumba ya mabwana awo ndi chiwawa ndi chinyengo.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "ndidzaweruza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "הדולג",
+      "gloss": "amathamangitsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המפתן",
+      "gloss": "chikhomo cha khomo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lija"
+    },
+    {
+      "surface": "הממלאים",
+      "gloss": "amene akudzaza"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "ya mabwana awo"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "chiwawa"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "ndi chinyengo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:34:27.068110385Z",
+  "model": "glm-5.3"
+}

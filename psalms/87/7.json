@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 87,
+  "translation": "Ndipo woimbaimba ngati akusewera: madzi obwerera anga onse ali mwa iwe.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "ndipo woimbaimba"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "ngati akusewera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "madzi obwerera anga"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mwa iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:41.809066043Z",
+  "model": "glm-5.3"
+}

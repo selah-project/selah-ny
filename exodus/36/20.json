@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Ndipo adachita ⟨את⟩ mapirala a chihema, mitengo ya kasiterola, yoyimirira.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "adachita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapirala"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "mapirala"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "a chihema"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mitengo ya"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shita"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "yoyimirira"
+    }
+  ],
+  "timestamp": "2026-09-21T06:27:39.716395951Z",
+  "model": "glm-5.3"
+}

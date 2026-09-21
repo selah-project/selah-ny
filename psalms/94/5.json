@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 94,
+  "translation": "Anthu ako, Yahwe, ⟨iwo⟩ amadukiza, ndi cholowa chako akuzunza.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "anthu ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "amadukiza"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "ndi cholowa chako"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "akuzunza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:38.290218360Z",
+  "model": "glm-5.3"
+}

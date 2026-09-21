@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Choncho iwe konda ⟨את⟩ Yahwe Elohim wako, ndipo sunga chisunzo chake, ndi michitidwe yake, ndi chiweruzo chake, ndi malamulo ake, masiku onse.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "konda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "sunga"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "chisunzo chake"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "michitidwe yake"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "chiweruzo chake"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "malamulo ake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "masiku"
+    }
+  ],
+  "timestamp": "2026-09-21T07:19:02.130430419Z",
+  "model": "glm-5.3"
+}

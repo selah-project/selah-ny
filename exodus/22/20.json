@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo alendo musawatemberezere, ndipo musawasautse, chifukwa inu mudali alendo m'dziko la Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "ndipo alendo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musawa-"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "temberezere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo musawa-"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "sautse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "alendo"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "mudali"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:06.380617767Z",
+  "model": "glm-5.3"
+}

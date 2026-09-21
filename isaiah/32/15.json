@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "mpaka mzimu udzathiridwa pa ife kuchokera pamwamba, ndipo chilengalene chidzakhala munda wodala, ndipo munda wodala udzayesedwa chirwa.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "udzathiridwa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "pa ife"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "kuchokera pamwamba"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ndipo chidzakhala"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "chilengalene"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "munda wodala"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "ndipo munda wodala"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "chirwa"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "udzayesedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:12:22.289420084Z",
+  "model": "glm-5.3"
+}

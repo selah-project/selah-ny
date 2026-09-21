@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Mphamvu yanga yanuma ngati chidindo cha mbale, ndipo lilime langa lakhazikika pa khomo langa; ndipo wandika ku dothi la imfa.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "yanuma"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "ngati chidindo cha mbale"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "Mphamvu yanga"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "ndipo lilime langa"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "lakhazikika"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "pa khomo langa"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "ndipo ku dothi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "la imfa"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "wandika"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:02.512951006Z",
+  "model": "glm-5.3"
+}

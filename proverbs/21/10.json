@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Moyo wa woipa umafuna choipa; mnansi wake salandira wala pa maso ake.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "Moyo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wa woipa"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "umafuna"
+    },
+    {
+      "surface": "רע",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "landira wala"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "pa maso ake"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mnansi wake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:24:02.019690878Z",
+  "model": "glm-5.3"
+}

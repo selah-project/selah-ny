@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "“Awa ana a Yisraeli achite ⟨את⟩ Pasaka pa nthawi yake yoyikidwa.”",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "achite"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pasaka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pasaka"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "pa nthawi yake yoyikidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:55:59.443020957Z",
+  "model": "glm-5.3"
+}

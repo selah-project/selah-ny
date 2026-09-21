@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Kodi petulo lothamangitsidwa ndi mpweya ungalozitse mantha? Ndi ⟨את⟩ chipyango chouma ungaitamange?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "petulo"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "lothamangitsidwa ndi mpweya"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "ungalozitse mantha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chipyango chouma"
+    },
+    {
+      "surface": "קש",
+      "gloss": "chipyango"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "chouma"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "ungaitamange"
+    }
+  ],
+  "timestamp": "2026-09-21T11:35:43.665511221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Wopa ⟨את⟩ liwu la Yahwe, mwa akapolo a Paro, anathawitsa ⟨את⟩ akapolo ake ndi ⟨את⟩ nyama zake ku m'nyumba.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "Wopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liwu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "mwa akapolo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "anathawitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akapolo ake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "akapolo ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyama zake"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "nyama zake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "m'nyumba"
+    }
+  ],
+  "timestamp": "2026-09-21T12:57:09.285851326Z",
+  "model": "glm-5.3"
+}

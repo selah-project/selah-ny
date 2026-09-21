@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 144,
+  "translation": "Odala ndi anthu amene zili chomwecho kwa iwo; odala ndi anthu amene Yahwe ndiye Elohim wawo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "odala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "zili chomwecho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "odala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "amene Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ndiye Elohim wawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:50.784398232Z",
+  "model": "glm-5.3"
+}

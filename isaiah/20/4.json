@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Mw mtengo umenewu mfumu ya Ashuru idzatengera ⟨את⟩ akapo a Mitsrayimu ndi ⟨את⟩ anthu a Kushi okhulupirika, anyamata ndi okalamba, wamaso ndi wopanda nsapato, ndi makolo awodzedwa — kunyozedwa kwa Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Mw mtengo umenewu"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "idzatengera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akapo a Mitsrayimu"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "akapo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "a Mitsrayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "anthu a Kushi okhulupirika"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "anthu okhulupirika"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "a Kushi"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "anyamata"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "ndi okalamba"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "wamaso"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "ndi wopanda nsapato"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "ndi makolo awodzedwa"
+    },
+    {
+      "surface": "שת",
+      "gloss": "makolo"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "kunyozedwa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "kwa Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:12:01.588586011Z",
+  "model": "glm-5.3"
+}

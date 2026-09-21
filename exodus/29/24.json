@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 29:24",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo iika zonse pa manja a Aharoni, ndi pa manja a ana ake, ndipo uzunzire ⟨את⟩ izonse, kuzunza, pamaso pa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "iika"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "manja a"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "manja a"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "uzunzire"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izonse"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "kuzunza"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:23:37.642698204Z",
+  "model": "glm-5.3"
+}

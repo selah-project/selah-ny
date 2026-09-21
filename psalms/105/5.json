@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Kumbukirani zodabwitsa zake zimene anachita, zizindikiro zake ndi chiweruzo cha mkamwa mwake.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "kumbukirani"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "zodabwitsa zake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "zizindikiro zake"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "ndi chiweruzo"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "cha mkamwa mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:55.971808861Z",
+  "model": "glm-5.3"
+}

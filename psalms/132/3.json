@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 132,
+  "translation": "Ndithadi sindidzalowa m'hema ya nyumba yanga, sindidzakwerapo pa malo ogona anga;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ndithadi osati"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "sindidzalowa"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "m'hema"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ya nyumba yanga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "osati"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "sindidzakwerapo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "malo ogona"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "anga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:07.411972560Z",
+  "model": "glm-5.3"
+}

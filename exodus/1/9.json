@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo anati kwa anthu ake: “Onani, anthu a ana a Yisraeli ali ochuluka ndi amphamvu koposa ife.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Onani"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ochuluka"
+    },
+    {
+      "surface": "וועצום",
+      "gloss": "ndi amphamvu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "koposa ife"
+    }
+  ],
+  "timestamp": "2026-09-21T06:07:47.029629834Z",
+  "model": "glm-5.3"
+}

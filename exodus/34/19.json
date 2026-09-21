@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 34:19",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Chilichonse chotsegula mimba ndi changa; ndi chilichonse cha ziweto zako, chamuna, choyamba kutsegula mimba ya ng'ombe kapena ya nkhosa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "chilichonse"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "choyamba kutsegula"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "mimba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi changa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi chilichonse"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "cha ziweto zako"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "chamuna"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "choyamba kutsegula"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "kapena nkhosa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:24:30.969313492Z",
+  "model": "glm-5.3"
+}

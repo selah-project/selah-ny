@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 8:6",
+  "book": "amos",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Kugula osauka ndi siliva, ndi wosowa ndi mayanzi a nsapato; ndipo mbewu yonyansidwa kutigulitsa.",
+  "tokens": [
+    {
+      "surface": "לקנות",
+      "gloss": "kugula"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ndi siliva"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "osauka"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ndi wosowa"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "mayanzi a nsapato"
+    },
+    {
+      "surface": "ומפל",
+      "gloss": "ndipo mbewu yonyansidwa"
+    },
+    {
+      "surface": "בר",
+      "gloss": "mbewu"
+    },
+    {
+      "surface": "נשביר",
+      "gloss": "kutigulitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:27:09.251155685Z",
+  "model": "glm-5.3"
+}

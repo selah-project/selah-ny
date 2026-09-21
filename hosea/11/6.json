@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo lupanga lidzagwa m'mizinda yake, lidzamaliza zikwerero zake, ndipo lidzadyawo chifukwa cha maupangiri awo.",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "lidzagwa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "lupanga"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "m'mizinda yake"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "lidzamaliza"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "zikwerero zake (zitseko)"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "lidzadya"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "chifukwa cha maupangiri awo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:22:32.021107207Z",
+  "model": "glm-5.3"
+}

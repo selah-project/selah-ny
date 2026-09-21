@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndidzakupatsa nzeru ndi kukulangiza njira imene uzayende; ndidzakupereka ulongozi, diso langa likhale pa iwe.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "Ndidzakupatsa nzeru"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "ndi kukulangiza"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "זו",
+      "gloss": "imene"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "uzayende"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "ndidzakupereka ulongozi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "likhale pa iwe"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "diso langa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:44.757922834Z",
+  "model": "glm-5.3"
+}

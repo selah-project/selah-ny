@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 113,
+  "translation": "Amayimiritsa wofooka kuchokera mu dothi, ndipo amakweza wosowa kuchokera ku madzilo.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "Amayimiritsa"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "kuchokera mu dothi"
+    },
+    {
+      "surface": "דל",
+      "gloss": "wofooka"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "kuchokera ku madzilo"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "amakweza"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "wosowa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:35.028678932Z",
+  "model": "glm-5.3"
+}

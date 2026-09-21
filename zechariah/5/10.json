@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo ndinati kwa mthenga amene ankayankhula ndi ine: “Kumene akukatengera ⟨את⟩ eyifa?”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ndinati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mthenga"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ankayankhula"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ndi ine"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kumene"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "akukatengera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eyifa"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "eyifa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:35:39.452135276Z",
+  "model": "glm-5.3"
+}

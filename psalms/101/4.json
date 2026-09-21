@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 101,
+  "translation": "Mtima wakhotakhota udzachoka kwa ine; choipa sichidzadziwa.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "wakhotakhota"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "udzachoka"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "רע",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "chidzadziwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:00.210075850Z",
+  "model": "glm-5.3"
+}

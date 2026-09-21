@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 100,
+  "translation": "Tumikirani ⟨את⟩ Yahwe mokondwa; lowani pamaso pake ndi kuimba.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Tumikirani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "mokondwa"
+    },
+    {
+      "surface": "באו",
+      "gloss": "lowani"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pamaso pake"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "ndi kuimba"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:39.239998293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Panga chokha chidebhe cha mbao za goferi; zipinda udzazipanga ⟨⟨את⟩ chidebhe⟩ ndipo udzazifinkha ⟨את⟩ icho m'munda ndi kunja ndi mafuta akuda (ulatinga).",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Panga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "chokha"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "chidebhe"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "cha mbao"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "za goferi"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "zipinda"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "udzazipanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chidebhe"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "chidebhe"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "ndipo udzazifinkha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ icho",
+      "marks": "chidebhe"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "m'munda"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "ndi kunja"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "ndi mafuta akuda (ulatinga)"
+    }
+  ],
+  "timestamp": "2026-09-21T12:53:57.968957038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo anatenga ⟨את⟩ chuma chonse cha Sodomu ndi cha Gomoraha, ndi ⟨את⟩ chakudya chawo chonse, nayenda.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Ndipo anatenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chuma chonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chonse"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "chuma"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "cha Sodomu"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "ndi cha Gomoraha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chakudya chawo chonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chonse"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "chakudya chawo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "nayenda"
+    }
+  ],
+  "timestamp": "2026-09-21T05:46:43.738088560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 12:3",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndi magalimodzi chiwiri chakukwana chikwi chimodzi, ndi anthu okwala mahachi makumi asanu ndi anayi mazana ambiri; ndipo anthu amene anadza naye kuchokera ku Mitsrayimu analibe chiwerengero — Alibiyani, Asukiyani ndi Akushiti.",
+  "tokens": [
+    {
+      "surface": "באלף",
+      "gloss": "chikwi chimodzi"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ndi mazana awiri"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "magalimodzi"
+    },
+    {
+      "surface": "ובששים",
+      "gloss": "makumi asanu ndi anayi mazana ambiri"
+    },
+    {
+      "surface": "אלף",
+      "gloss": ""
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "okwala mahachi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nalibe"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "chiwerengero"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "באו",
+      "gloss": "anadza"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuchokera ku Mitsrayimu"
+    },
+    {
+      "surface": "לובים",
+      "gloss": "Alibiyani"
+    },
+    {
+      "surface": "סכיים",
+      "gloss": "Asukiyani"
+    },
+    {
+      "surface": "וכושים",
+      "gloss": "ndi Akushiti"
+    }
+  ],
+  "timestamp": "2026-09-21T12:40:34.912541715Z",
+  "model": "glm-5.3"
+}

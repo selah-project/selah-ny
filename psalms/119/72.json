@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Tora ya kamwa kanu ndi yabwino kwa ine koposa miyala yazinganandi ya golidi ndi siliva.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ndi yabwino"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ya kamwa kanu"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "koposa miyala yazinganandi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golidi"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ndi siliva"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:46.915512021Z",
+  "model": "glm-5.3"
+}

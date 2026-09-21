@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo mfumu inati: “Fulumiritsani ⟨את⟩ Hamani kuti achite ⟨את⟩ mawu a Esteri.” Ndipo mfumu ndi Hamani anabwera ku phwando chimene Esteri anachita.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "inati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "Fulumiritsani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamani"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamani"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuti achite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu a Esteri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "a Esteri"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "anabwera"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ndi Hamani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "phwando"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteri"
+    }
+  ],
+  "timestamp": "2026-09-21T11:59:52.920647205Z",
+  "model": "glm-5.3"
+}

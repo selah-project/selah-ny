@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 12:3",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Koma iwe, Yahwe, wandidziwa; wandiona, nayesa mtima wanga ndi ⟨את⟩ iwe. Wodzose monga nkhosa za kuchiphadwa, ndi kuwapatulira tsiku lakupha.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Koma iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "wandidziwa"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "wandiona"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "nayesa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ndi ⟨את⟩ iwe",
+      "marks": "iwe"
+    },
+    {
+      "surface": "התקם",
+      "gloss": "Wodzose"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "monga nkhosa"
+    },
+    {
+      "surface": "לטבחה",
+      "gloss": "za kuchiphadwa"
+    },
+    {
+      "surface": "והקדשם",
+      "gloss": "ndi kuwapatulira"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "הרגה",
+      "gloss": "lakupha"
+    }
+  ],
+  "timestamp": "2026-09-21T09:33:24.927018427Z",
+  "model": "glm-5.3"
+}

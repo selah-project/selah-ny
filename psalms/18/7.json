@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "M'dziko la dandaulo ndinaitana Yahwe, ndipo kwa Elohim wanga ndinapemphera; iye anamva mawu ake a m'chipinda chake choyera, ndi kupemphera kwanga kunadza pamaso pake, kulowa m'makutu mwake.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "m'dziko la dandaulo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "anga"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndinaitana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo kwa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "ndinapemphera"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "anamva"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "a m'chipinda chake choyera"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "ndipo kupemphera kwanga"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pamaso pake"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kunadza"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "kulowa m'makutu mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:33.866662892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 148,
+  "translation": "Nyama zakutchire ndi ziwete zonse; zolowera pansi ndi mbalame zamapiko:",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "nyama zakutchire"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi zonse"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ziwete"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "zolowera pansi"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "ndi mbalame"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "zamapiko"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:32.523987409Z",
+  "model": "glm-5.3"
+}

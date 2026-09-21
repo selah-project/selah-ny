@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 137,
+  "translation": "Lilime langa ligwiryere ku khomo langa, ngati sindakukumbukire, ngati sindaikweza ⟨את⟩ Yerushalayimu pa mutu wa chimwemwe changa.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "ligwiryere"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lilime langa"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "ku khomo langa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "-ndakukumbukire"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "-ndaikweza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "wa chimwemwe changa"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:11.809085682Z",
+  "model": "glm-5.3"
+}

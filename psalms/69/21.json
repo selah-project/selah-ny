@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Chidani chinangwira mtima wanga, ndipo ndinapererapo mphamvu; ndinayembekezera wodandaula ndi ine, koma palibe; ndipo oyanitsa, koma sindinapeza.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "chidani"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "chinangwira"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "ndipo ndinapererapo mphamvu"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "ndinayembekezera"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "wodandaula"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "koma palibe"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "ndipo oyanitsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma (sindi-)"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ndinapeza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:45.588303332Z",
+  "model": "glm-5.3"
+}

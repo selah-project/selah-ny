@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo akapolo ake anamuika pa njinga atamwalira, kuchokera ku Megido, namubweretsa ku Yerushalayimu, namumika m'manda ake; ndipo anthu a dziko anatenga ⟨את⟩ Yehoahazi, mwana wa Yoshiyahu, namudzoza ⟨את⟩ iye, namulamba ⟨את⟩ iye mfumu m'malo mwa atate wake.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "ndipo anamuika pa njinga"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "akapolo ake"
+    },
+    {
+      "surface": "מת",
+      "gloss": "atamwalira"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "kuchokera ku Megido"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "namubweretsa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ku Yerushalayimu"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "namumika m'manda"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "m'manda ake"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ndipo anatenga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a dziko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoahazi"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahazi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "namudzoza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "iye"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "namulamba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "iye"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "m'malo mwa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atate wake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:59:27.515327164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Amaphunzitsa manja anga kunkhondo, ndipo uta wa mkuwa unatsikidwa ndi mipingo yanga.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "Amaphunzitsa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "manja anga"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "za nkhondo"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "ndipo anatsikidwa"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "wa mkuwa"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "mipingo yanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:47.320234175Z",
+  "model": "glm-5.3"
+}

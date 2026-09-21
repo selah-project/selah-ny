@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo wosenza zida zake anaona kuti Shauli wamwalira, nagwa iye nomwe pa lupanga lake, namwalira ndi iye.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "wosenza zida"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zida zake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wamwalira"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "nagwa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "lupanga lake"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "namwalira"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndi iye"
+    }
+  ],
+  "timestamp": "2026-09-21T13:06:14.468604766Z",
+  "model": "glm-5.3"
+}

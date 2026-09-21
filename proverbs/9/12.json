@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ngati unjala, unjala kwa iwe; koma ngati unyada, wekha udzanyamula.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "unjala"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "unjala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "unyada"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "wekha"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "udzanyamula"
+    }
+  ],
+  "timestamp": "2026-09-21T11:19:35.728710912Z",
+  "model": "glm-5.3"
+}

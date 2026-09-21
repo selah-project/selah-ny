@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 40:23",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "⟨Iye ndiye⟩ amachititsa mafumu kukhala <palibe chilichonse>; akweruzi a dziko lapansi awachita <monga chopanda kantho>.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "amachititsa kukhala"
+    },
+    {
+      "surface": "רוזנים",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "<palibe chilichonse>"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "akweruzi a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "כתהו",
+      "gloss": "<monga chopanda kantho>"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "awachita"
+    }
+  ],
+  "timestamp": "2026-09-21T09:18:01.752594037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 75,
+  "translation": "Ndipo nyanga zonse za anthu olakwa ndidzazimika; koma nyanga za wolungama zidzakwezedwa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ndipo zonse"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "nyanga"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "za anthu olakwa"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "ndidzazimika"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "zidzakwezedwa"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "nyanga"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "za wolungama"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:22.088300824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndi ⟨את⟩ maholo a mabalere a nkhosa zazigunga anaika pa manja ake, ndipo pa mawu a khosi lake wolimba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "maholo",
+      "marks": "maholo"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "a mabalere"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "a nkhosa zazigunga"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "anaika"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "manja ake"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndipo pa"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "wolimba"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "khosi lake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:54:12.551117926Z",
+  "model": "glm-5.3"
+}

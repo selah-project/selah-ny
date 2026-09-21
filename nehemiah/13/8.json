@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo zinandiipa kwambiri, ndipo ndinataya ⟨את⟩ zonse zotengera za nyumba ya Toviya kunja, kuchoka mu chipinda.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "zinandiipa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "ndinataya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse zotengera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zotengera"
+    },
+    {
+      "surface": "בית",
+      "gloss": "za nyumba"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "ya Toviya"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "kunja"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchoka"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "mu chipinda"
+    }
+  ],
+  "timestamp": "2026-09-21T12:22:19.682113082Z",
+  "model": "glm-5.3"
+}

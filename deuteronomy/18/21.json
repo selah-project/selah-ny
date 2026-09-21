@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Koma ngati iwe nuti mu mtima wako: Tidziwa bwanji ⟨את⟩ liwu limene Yahwe sananene?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Koma ngati"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "nuti"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "mu mtima wako"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "bwanji"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "Tidziwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liwu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "liwu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "nanene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T07:23:02.079657466Z",
+  "model": "glm-5.3"
+}

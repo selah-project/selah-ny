@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndi ⟨את⟩ yachiwiri adzapanga kuŵa nsembe yopsereza monga mwa malemba, ndipo wansembe adzamupereka chikhululukiro chifukwa cha tchimo lake amene anachimwa, ndipo adzakhululukidwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ndi ⟨את⟩",
+      "marks": "yachiwiri"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yachiwiri"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "adzapanga"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nsembe yopsereza"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "monga mwa malemba"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "adzamupereka chikhululukiro"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "chifukwa cha tchimo lake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "anachimwa"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "adzakhululukidwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T06:31:51.100728299Z",
+  "model": "glm-5.3"
+}

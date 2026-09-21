@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Atatero kuwukha kwa ⟨את⟩ Sihoni, mfumu ya Aemori, amene ankakhala mu Heshiboni, ndi ⟨את⟩ Ogu, mfumu ya Bashani, amene ankakhala ku Ashtaroti, mu Edreii.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Atatero"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "kuwukha kwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihoni"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Aemori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ankakhala"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "mu Heshiboni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Ogu"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ogu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ankakhala"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "ku Ashtaroti"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "mu Edreii"
+    }
+  ],
+  "timestamp": "2026-09-21T07:14:06.893413345Z",
+  "model": "glm-5.3"
+}

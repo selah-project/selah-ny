@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo anawalankhula monga uphungo wa anyamata, nati: “Atate anga analemeretsa ⟨את⟩ goli lanu, ndipo ine ndidzaonjezera pa goli lanu; atate anga anakuwapula ⟨את⟩ inu ndi mabango, ndipo ine ndidzakuwapula ⟨את⟩ inu ndi ziwiro.”",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ndipo anawalankhula"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "monga uphungo"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "wa anyamata"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atate anga"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "analemeretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goli lanu"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "goli lanu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ndipo ine"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "ndidzaonjezera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "goli lanu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atate anga"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "anakuwapula"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "ndi mabango"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ndipo ine"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "ndidzakuwapula"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "ndi ziwiro"
+    }
+  ],
+  "timestamp": "2026-09-21T08:40:53.854644096Z",
+  "model": "glm-5.3"
+}

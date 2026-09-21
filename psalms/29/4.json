@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Mawu a Yahwe ⟨ali ndi⟩ mphamvu; mawu a Yahwe ⟨ali ndi⟩ ukongoso.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "⟨ali ndi⟩ mphamvu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "⟨ali ndi⟩ ukongoso"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:21.599259448Z",
+  "model": "glm-5.3"
+}

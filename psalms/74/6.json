@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 74,
+  "translation": "Ndipo tsopano zolembedwa zake zonse pamodzi amazimenya ndi mapanga ndi matipini.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "ndipo tsopano"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "zolembedwa zake"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamodzi"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "ndi mapanga"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "ndi matipini"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "amazimenya"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:51.012794783Z",
+  "model": "glm-5.3"
+}

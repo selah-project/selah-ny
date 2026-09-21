@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 20:2",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo Davide anatenga ⟨את⟩ chisoti cha mfumu yawo kuchokera pa mutu wake, napeza likulemera monga linga la golide, ndipo m'menemo munali mwala wokongola; nachikhala pa mutu wa Davide. Ndipo chiwombo cha mzinduwu anachitulutsa, kwakuchuluka kwambiri.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chisoti cha mfumu yawo"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "chisoti"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "cha mfumu yawo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuchokera pa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mutu wake"
+    },
+    {
+      "surface": "וימצאה",
+      "gloss": "napeza likulemera"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "kulemera"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "monga linga la"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "ובה",
+      "gloss": "ndipo m'menemo"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "mwala"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "wokongola"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "nachikhala"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "wa Davide"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "chiwombo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cha mzinduwu"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "anachitulutsa"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "kwakuchuluka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    }
+  ],
+  "timestamp": "2026-09-21T12:31:30.912762053Z",
+  "model": "glm-5.3"
+}

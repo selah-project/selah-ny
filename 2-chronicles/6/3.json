@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo mfumu adatembenuza ⟨את⟩ nkhope yake, nadalitsa ⟨את⟩ msonkhano wonse wa Yisraeli; ndipo msonkhano wonse wa Yisraeli unayimirira.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "adatembenuza"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhope yake"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "nkhope yake"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "nadalitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "msonkhano wonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "msonkhano"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "msonkhano"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "unayimirira"
+    }
+  ],
+  "timestamp": "2026-09-21T12:37:47.335078100Z",
+  "model": "glm-5.3"
+}

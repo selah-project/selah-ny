@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Dzikadikira mwachangu usataye ⟨את⟩ Mleviye, masiku onse awo pa nthaka yako.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "dzikadikira mwachangu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kuti usatae"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "usataye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mleviye"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Mleviye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "masiku ako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "nthaka yako"
+    }
+  ],
+  "timestamp": "2026-09-21T07:21:02.150126729Z",
+  "model": "glm-5.3"
+}

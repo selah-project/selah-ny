@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 74,
+  "translation": "Musaiwale mawu a mdani wanu; phokoso la akukhalitsa nanu, liwiri pansi pa nonse nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musaiwale"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "musaiwale"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "a mdani wanu"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "phokoso la"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "akukhalitsa nanu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "liwiri pansi pa nonse"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:35.671825341Z",
+  "model": "glm-5.3"
+}

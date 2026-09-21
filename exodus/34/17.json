@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Simupangira dzako milungu yoyezedwa.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "milungu"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "yoyezedwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "-pangira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dzako"
+    }
+  ],
+  "timestamp": "2026-09-21T06:24:30.968789570Z",
+  "model": "glm-5.3"
+}

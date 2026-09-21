@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "M'zitsimikizo za molakwa unaphunzitsa munthu, ndipo unawononga chokondedwa chake monga nchesi; ndithu wonama ndi munthu aliyense. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "M'zitsimikizo"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "עון",
+      "gloss": "molakwa"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "unaphunzitsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "ndipo unawononga"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "monga nchesi"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "chokondedwa chake"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "wonama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa munthu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:38.266717869Z",
+  "model": "glm-5.3"
+}

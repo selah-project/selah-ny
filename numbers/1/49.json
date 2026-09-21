@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Koma monga wa mbumba ya Leviyi, usawerenge ⟨את⟩ mbumba ya Leviyi, ndipo ⟨את⟩ mutu wawo usauke mwa ana a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Koma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbumba ya Leviyi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mbumba"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leviyi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "werenge"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "mutu wawo"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "mutu wawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "uke"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T06:49:15.504792558Z",
+  "model": "glm-5.3"
+}

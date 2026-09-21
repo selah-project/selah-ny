@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo wansembe adzauyitsa ⟨את⟩ ziwalozo pa guwa; ndi nsembe ya moto kwa Yahwe; nsembe ya cholakwa ndi imeneyi.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "adzauyitsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ziwalozo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pa guwa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nsembe ya moto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "nsembe ya cholakwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndi imeneyi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:31:30.322515930Z",
+  "model": "glm-5.3"
+}

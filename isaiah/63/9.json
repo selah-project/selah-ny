@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 63:9",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 63,
+  "translation": "M'masautso awo onse iye sanakhale mdani, ndipo mthenga wa nkhope yake adawapulumutsa; m'chikondi chake ndi m'chifundo chake iye adawaombola; nadzaulukitsa ndi kuwanyamula masiku onse a kale.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "m'masautso awo onse"
+    },
+    {
+      "surface": "צרתם",
+      "gloss": "masautso awo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "צר",
+      "gloss": "khale mdani"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ndipo mthenga"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wa nkhope yake"
+    },
+    {
+      "surface": "הושיעם",
+      "gloss": "adawapulumutsa"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "m'chikondi chake"
+    },
+    {
+      "surface": "ובחמלתו",
+      "gloss": "ndi m'chifundo chake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "adawaombola"
+    },
+    {
+      "surface": "וינטלם",
+      "gloss": "nadzaulukitsa"
+    },
+    {
+      "surface": "וינשאם",
+      "gloss": "ndi kuwanyamula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "a kale"
+    }
+  ],
+  "timestamp": "2026-09-21T09:24:24.715640619Z",
+  "model": "glm-5.3"
+}

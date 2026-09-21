@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Amawongolera odzichepetsa m'cholungama, ndipo amaphunzitsa odzichepetsa njira yake.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "Amawongolera"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "odzichepetsa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "m'cholungama"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "ndipo amaphunzitsa"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "odzichepetsa"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "njira yake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:57.209089775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Pakuti taona, olakwa akulata uta, akukhazikitsa mivi yawo pa chinga, kuti aponyere m'mdima anthu olungama mtima.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "olakwa"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "akulata"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "akukhazikitsa"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "mivi yawo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "chinga"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "kuti aponyere"
+    },
+    {
+      "surface": "במו",
+      "gloss": "m'mdima"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "mdima"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "anthu olungama"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:14.200146808Z",
+  "model": "glm-5.3"
+}

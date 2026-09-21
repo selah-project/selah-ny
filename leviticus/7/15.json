@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 7:15",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo inyama ya nsembe ya chiyamiko ya za mtendere zake idyedwe tsiku lomwe lapereka nsembe yake; sadzaika chimene chili cholowa m'menemo kufikira mmawa.",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "ndipo inyama"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ya nsembe"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "ya chiyamiko"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "ya za mtendere zake"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "lomwe lapereka nsembe yake"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "idyedwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "dzaika"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "cholowa m'menemo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mmawa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:32:47.778361732Z",
+  "model": "glm-5.3"
+}

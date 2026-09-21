@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Pakuti tsiku lino adzakuchotserani machimo, kuti amayeretse ⟨את⟩ inu, kuchokera ku machimo anu onse; pamaso pa Yahwe mudzayera.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lino"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "adzakuchotserani machimo"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "kuti amayeretse"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuchokera ku onse"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "machimo anu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "mudzayera"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:10.477743588Z",
+  "model": "glm-5.3"
+}

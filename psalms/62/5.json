@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 62,
+  "translation": "Okha akalamulira kum'thaputsa iye pa mwayi wake; akondwera ndi bodza; pakamwa pawo amadalitsa, koma m'mitima mwawo amatemwa. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "okha"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "pa mwayi wake"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "akalamulira"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "kum'thaputsa"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "akondwera"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ndi bodza"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "pakamwa pawo"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "amadalitsa"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "koma m'mitima mwawo"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "amatemwa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:20.907628488Z",
+  "model": "glm-5.3"
+}

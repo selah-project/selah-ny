@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "Ana ake akhale amasiye, ndipo mkazi wake akhale wamasiye amuna.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "akhale"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "amasiye"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ndipo mkazi wake"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "wamasiye amuna"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:40.513897678Z",
+  "model": "glm-5.3"
+}

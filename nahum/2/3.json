@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Chifukwa Yahwe wabwezeretsa ⟨את⟩ ulemerero wa Yakobo, monga ulemerero wa Yisraeli; pakuti wochotsera anawachotsa, ndipo nthambi zawo za mpesa anazunza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "שב",
+      "gloss": "wabwezeretsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulemerero"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ulemerero"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "monga ulemerero"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "wochotsera"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "anawachotsa"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "ndipo nthambi zawo za mpesa"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "anazunza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:33:05.827662888Z",
+  "model": "glm-5.3"
+}

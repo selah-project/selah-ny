@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 92,
+  "translation": "Pa chida cha zinga zakhumi, ndi pa neveli; pa mawu owerenga pa kinora.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "chida cha zinga zakhumi"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "neveli"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "mawu owerenga"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "pa kinora"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:40.964972120Z",
+  "model": "glm-5.3"
+}

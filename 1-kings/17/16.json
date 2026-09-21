@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 17:16",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Kadindo ka ufa sikunatha, ndipo chidebe cha mafuta sichunachepa, monga mawu a Yahwe amene ananena m'dzanja la Eliyahu.",
+  "tokens": [
+    {
+      "surface": "כד",
+      "gloss": "kadindo"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "ka ufa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "siku-"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "natha"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "chidebe cha mafuta"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "(mafuta)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sichu-"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "nachepa"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "monga mawu a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:42:37.651410780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo anati kwa Yehuda kuti afune ⟨את⟩ Yahwe, Elohim wa makolo awo, ndi kuchita Tora ndi lamulo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "kwa Yehuda"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "kuti afune"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "makolo awo"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ndi kuchita"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "ndi lamulo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:42:10.372354110Z",
+  "model": "glm-5.3"
+}

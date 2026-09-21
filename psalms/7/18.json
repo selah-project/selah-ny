@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndidzayamika Yahwe monga mwa chilungamo chake, ndipo ndidzayimbira nyimbo dzina la Yahwe Elyoni.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Ndidzayamika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "monga mwa chilungamo chake"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ndipo ndidzayimbira nyimbo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dzina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoni"
+    }
+  ],
+  "timestamp": "2026-09-21T10:39:36.268709489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Yahwe Adonayi wathu, kuwala kwa dzina lako n'kochuluka m'dziko lonse lapansi!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonayi wathu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "n'kochuluka"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "kuwala kwa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dzina lako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "m'dziko lonse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:34.165808723Z",
+  "model": "glm-5.3"
+}

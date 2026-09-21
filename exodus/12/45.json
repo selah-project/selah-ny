@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Msunjuki ndi wogwirira malipiro sadya mmenemo.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "Msunjuki"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ndi wogwirira malipiro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mmenemo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:12:53.460168135Z",
+  "model": "glm-5.3"
+}

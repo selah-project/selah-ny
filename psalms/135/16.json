@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 135,
+  "translation": "Kamwa ali nako, koma sakambirana; maso ali nawo, koma saona;",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "Kamwa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ali nako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma sa-"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "kambirana"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "maso"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ali nawo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma sa-"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:21.716363717Z",
+  "model": "glm-5.3"
+}

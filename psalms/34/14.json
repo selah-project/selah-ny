@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Sunga lilime lako ku zoipa, ndi milomo yako kunena chinyengo.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "sunga"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "lilime lako"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ku zoipa"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "ndi milomo yako"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kunena"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "chinyengo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:55.528255014Z",
+  "model": "glm-5.3"
+}

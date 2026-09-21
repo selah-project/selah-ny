@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 120,
+  "translation": "Yahwe, landitsa moyo wanga wochokera k'milomo yabodza ndi k'dziko la pakamwa la chinyengo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "landitsa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "k'milomo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yabodza"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "k'dziko la pakamwa"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "la chinyengo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:22.559785786Z",
+  "model": "glm-5.3"
+}

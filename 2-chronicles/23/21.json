@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo anthu onse a dziko lapansi adakondwera, ndipo mzindo unakhala mtendere; ndipo ⟨את⟩ Ataliya anamupha ndi lupanga.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "adakondwera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a dziko lapansi"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "ndipo mzinda"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "unakhala mtendere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Ataliya"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Ataliya"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "anamupha"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ndi lupanga"
+    }
+  ],
+  "timestamp": "2026-09-21T12:43:49.677880792Z",
+  "model": "glm-5.3"
+}

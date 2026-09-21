@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo munthu ngati mbewu ya kugona ituluka mwa iye, adzasambitsa ndi madzi ⟨את⟩ thupi lake lonse, ndipo adzadetsedwa kufikira madzulo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ndipo munthu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ituluka"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mwa iye"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "ya kugona"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbewu"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "adzasambitsa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ndi madzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thupi lake lonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "thupi lake"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "adzadetsedwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "madzulo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:40:29.365393175Z",
+  "model": "glm-5.3"
+}

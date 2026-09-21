@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo uwachenjeze ⟨את⟩ iwo ⟨את⟩ malamulo ndi ⟨את⟩ Tora (chilamulo, chiphunzitso); uwadziwitse iwo ⟨את⟩ njira imene ayende m'menemo, ndi ⟨את⟩ ntchito imene ayichite.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "ndipo uwachenjeze"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ iwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malamulo"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "malamulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "uwadziwitse"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njira"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ayende"
+    },
+    {
+      "surface": "בה",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ntchito"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "ayichite"
+    }
+  ],
+  "timestamp": "2026-09-21T12:56:43.672784737Z",
+  "model": "glm-5.3"
+}

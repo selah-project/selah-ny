@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Kuti ndingasenze bwanji okha phuluso lanu, ndi mthwalo wanu, ndi kankhana zanu?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "kuti…bwanji"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ndingasenze"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "okha"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "phuluso lanu"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "ndi mthwalo wanu"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "ndi kankhana zanu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:12:37.915274567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Okondwera ndi anthu odziwa fuulo la chikondwerero; m'kuwala kwa nkhope zako, Yahwe, amayenda.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "okondwera ndi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "odziwa"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "fuulo la chikondwerero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באור",
+      "gloss": "m'kuwala"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kwa nkhope zako"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "amayenda"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:10.370136522Z",
+  "model": "glm-5.3"
+}

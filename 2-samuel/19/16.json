@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Mfumu idabwerera, nafika kufikira pa Yorodani; ndipo a Yehuda anafika ku Giligala kuti apite kudzakumana ndi mfumu, kudzapititsa ⟨את⟩ mfumu ⟨את⟩ Yorodani.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "idabwerera"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nafika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorodani"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ndipo a Yehuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "anafika"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "ku Giligala"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kuti apite"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kudzakumana ndi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "kudzapititsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfumu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yorodani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorodani"
+    }
+  ],
+  "timestamp": "2026-09-21T08:27:13.375470029Z",
+  "model": "glm-5.3"
+}

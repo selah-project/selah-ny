@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 46,
+  "translation": "Ndikulalikira chomaliziro kuchokera ku chiyambi, ndi zinthu za kale zimene sizinachitidwe; ndinena kuti: dongosolo langa lidzayima, ndipo zonse zimene ndikufuna ndidzazichita.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "Ndikulalikira"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "kuchokera ku chiyambi"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "chomaliziro"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "ndi zinthu za kale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "zinachitidwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ndinena kuti"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "dongosolo langa"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "lidzayima"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo zonse"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "zimene ndikufuna"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndidzazichita"
+    }
+  ],
+  "timestamp": "2026-09-21T09:19:13.967588524Z",
+  "model": "glm-5.3"
+}

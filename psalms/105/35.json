@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Linadya udzu wonse wa m'dzikowo, linadya zipatso za m'thaka lawo.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "Linadya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "udzu"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "wa m'dzikowo"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "linadya"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "zipatso"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "za m'thaka lawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:04.618170018Z",
+  "model": "glm-5.3"
+}

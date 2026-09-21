@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 9:14",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo mfumu anati chichitidwe chomwecho, ndipo lamulo linaperekedwa ku Shushani, ndipo ⟨את⟩ ana khumi a Hamani anayikidwa pa mtengo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo mfumu anati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "chichitidwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chomwecho"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "ndipo linaperekedwa"
+    },
+    {
+      "surface": "דת",
+      "gloss": "lamulo"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "ku Shushani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "ana khumi"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "המן",
+      "gloss": "a Hamani"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "anayikidwa pa mtengo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:03:31.041021250Z",
+  "model": "glm-5.3"
+}

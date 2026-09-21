@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "Masiku anga ⟨ali⟩ monga mthunzi wotambasulidwa; ndipo ine ndafota njalo monga udzu.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "masiku anga"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "monga mthunzi"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "wotambasulidwa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ndipo ine"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "monga udzu"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "ndafota njalo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:44.555980881Z",
+  "model": "glm-5.3"
+}

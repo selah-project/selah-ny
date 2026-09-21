@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Adani anga adzati zoipa za ine: “Adzafa liti, ndipo dzina lake litha?”",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Adani anga"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "adzati"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "za ine"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "liti"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "adzafa"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ndipo litha"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dzina lake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:11.284038127Z",
+  "model": "glm-5.3"
+}

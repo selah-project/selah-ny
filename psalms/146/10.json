@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 146,
+  "translation": "Yahwe adzachita mfumu ku nthawi zonse, Elohim wako, iwe Tsiyoni, kwa mibadwo ndi mibadwo. Lemezani Yah.",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "adzachita mfumu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "iwe Tsiyoni"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwa mibadwo"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ndi mibadwo"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lemezani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:26.928642969Z",
+  "model": "glm-5.3"
+}

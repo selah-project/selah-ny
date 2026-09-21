@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo Yehonatani adavula ⟨את⟩ chovala chake chodaya, napatsa Davidi, ndi zovala zake, ndi lupanga lake, ndi uta wake, ndi lamba lake.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "adavula"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chovala chake chodaya"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "chovala chake chodaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chomwe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "chinavalanga"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "napatsa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "ndi zovala zake"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "lupanga lake"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "uta wake"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "lamba lake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:09:43.577539821Z",
+  "model": "glm-5.3"
+}

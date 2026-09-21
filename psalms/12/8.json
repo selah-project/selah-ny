@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Iwe, Yahwe, udzasunga iwo; udzawasunga m'munsi mwa mbadwo wamenewu, ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "udzasunga iwo"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "udzawasunga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "m'munsi mwa"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "mbadwo"
+    },
+    {
+      "surface": "זו",
+      "gloss": "wamenewu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:05.755202921Z",
+  "model": "glm-5.3"
+}

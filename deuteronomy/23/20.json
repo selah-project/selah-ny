@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Musawonjezere pa ngongole kwa m'bale wako: kuwonjezera kwa siliva, kuwonjezera kwa chakudya, kuwonjezera kwa chinthu chilichonse chimene chimawonjezeredwa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mus"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "wonjezere pa ngongole"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "kwa m'bale wako"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "kuwonjezera"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kwa siliva"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "kuwonjezera"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kwa chakudya"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "kuwonjezera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chilichonse"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "chinthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "chimawonjezeredwa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:26:35.471352773Z",
+  "model": "glm-5.3"
+}

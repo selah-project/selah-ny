@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 10:8",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo malo opembedzera a Aveni, machimo a Yisraeli, adzawonongedwa; nsatsi ndi matewu adzakula pa miyala yawo ya nsembe; ndipo adzati kwa mapiri: “Titiphetse,” ndi kwa mapiri: “Gwera pa ife.”",
+  "tokens": [
+    {
+      "surface": "ונשמדו",
+      "gloss": "adzawonongedwa"
+    },
+    {
+      "surface": "במות",
+      "gloss": "malo opembedzera"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aveni"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "machimo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "קוץ",
+      "gloss": "nsatsi"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "ndi matewu"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "adzakula"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "miyala yawo ya nsembe"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "adzati"
+    },
+    {
+      "surface": "להרים",
+      "gloss": "kwa mapiri"
+    },
+    {
+      "surface": "כסונו",
+      "gloss": "Titiphetse"
+    },
+    {
+      "surface": "ולגבעות",
+      "gloss": "ndi kwa mapiri"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "Gwera"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "pa ife"
+    }
+  ],
+  "timestamp": "2026-09-21T10:23:12.664601149Z",
+  "model": "glm-5.3"
+}

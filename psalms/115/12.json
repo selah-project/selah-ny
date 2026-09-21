@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 115,
+  "translation": "Yahwe watikumbukira; adzadalitsa — adzadalitsa ⟨את⟩ banja la Yisraeli, adzadalitsa ⟨את⟩ banja la Aharoni.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "watikumbukira"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "adzadalitsa"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "adzadalitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banja la Yisraeli"
+    },
+    {
+      "surface": "בית",
+      "gloss": "banja la"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "adzadalitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banja la Aharoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "banja la"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:01.261595037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "M'Dzina lako adzakondwera tsiku lonse, ndi m'chilungamo chako adzakwezedwa.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "m'Dzina lako"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "adzakondwera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "ndi m'chilungamo chako"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "adzakwezedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:02.805456717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo Davide anachita monga momwe Elohim anamulamulira, ndipo anagonda ⟨את⟩ gulu la Afilishti kuyambira ku Gibhoni kufikira ku Gezera.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "anamulamulira"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "anagonda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gulu la Afilishti"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "gulu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "la Afilishti"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "kuyambira ku Gibhoni"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "ku Gezera"
+    }
+  ],
+  "timestamp": "2026-09-21T12:28:26.693980113Z",
+  "model": "glm-5.3"
+}

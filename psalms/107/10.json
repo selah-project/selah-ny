@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Okhala ⟨mu⟩ mdima ndi mthunzi wa imfa, akaidi a usautso ndi chitsulo,",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "Okhala"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mdima"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "ndi mthunzi wa imfa"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "akaidi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "a usautso"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "ndi chitsulo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:20.692327420Z",
+  "model": "glm-5.3"
+}

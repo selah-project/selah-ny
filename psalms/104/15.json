@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 104,
+  "translation": "Ndi mkango wokondwetsa mtima wa munthu, kupangitsa nkhope kuwala ndi mafuta, ndi mchenjezo wolimbitsa mtima wa munthu.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "Ndi mkango wo"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "kondwetsa"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "mtima wa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "kupangitsa nkhope kuwala"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "nkhope"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ndi mafuta"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "ndi mchenjezo wo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "limbitsa mtima wa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "wolimbitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:29.275665900Z",
+  "model": "glm-5.3"
+}

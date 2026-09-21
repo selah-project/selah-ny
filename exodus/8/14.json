@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo anachitira motero asansi ndi makiyi awo kuti abwetule ⟨את⟩ nsabwe, koma sanathe; ndipo nsabwe zinakhala m'munthu ndi m'nyama.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ndipo anachitira"
+    },
+    {
+      "surface": "כן",
+      "gloss": "motero"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "asansi"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "ndi makiyi awo"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "kuti abwetule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsabwe"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "nsabwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "sanathe"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ndipo zinakhala"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "nsabwe"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "m'munthu"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ndi m'nyama"
+    }
+  ],
+  "timestamp": "2026-09-21T06:11:39.698952994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo ndidzakupatsani abusa monga mtima wanga, ndipo adzaweta ⟨את⟩ inu ndi chidziwitso ndi nzeru.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ndipo ndidzakupatsani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "abusa"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "monga mtima wanga"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "ndipo adzaweta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ndi chidziwitso"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "ndi nzeru"
+    }
+  ],
+  "timestamp": "2026-09-21T09:30:26.825757475Z",
+  "model": "glm-5.3"
+}

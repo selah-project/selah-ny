@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo anamodziizira kwa Shauli kuti Davide anathawa ku Gati; ndipo sanawonjezerepo kumufuna kananso.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "anamodziizira"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kwa Shauli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "anathawa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ku Gati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sanawonjezerepo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "kuwonjezera"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kananso"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "kumufuna"
+    }
+  ],
+  "timestamp": "2026-09-21T08:14:48.032023050Z",
+  "model": "glm-5.3"
+}

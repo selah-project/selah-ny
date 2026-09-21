@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 137,
+  "translation": "Pa mitsinje ya Babela, kumeneko takhala, ndipo tinalira pamene tinakumbukira ⟨את⟩ Tsiyoni.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mitsinje"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ya Babela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "takhala"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ndipo"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "tinalira"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "tinakumbukira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyoni"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:25.408794524Z",
+  "model": "glm-5.3"
+}

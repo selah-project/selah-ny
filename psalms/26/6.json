@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndidzatsanza manja anga muyera, ndipo ndidzazungulira ⟨את⟩ guwa lanu, Yahwe.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "Ndidzatsanza"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "muyera"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "manja anga"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "ndipo ndidzazungulira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guwa lanu"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "guwa lanu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:20.067182339Z",
+  "model": "glm-5.3"
+}

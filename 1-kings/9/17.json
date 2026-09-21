@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Shelomoh anamanga ⟨את⟩ Gezeri ndi ⟨את⟩ Bethi-Horoni yachipansi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "anamanga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezeri"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Bethi-Horoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethi-"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Horoni"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "yachipansi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:36:41.405110958Z",
+  "model": "glm-5.3"
+}

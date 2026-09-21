@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Kodi ndi nthawi ya inu — inu nokha — kukhala m'nyumba zanu za mphamvu, pamene nyumba iyi ili yosweka?",
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "Kodi ndi nthawi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ya inu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "inu nokha"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "kukhala"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "m'nyumba zanu"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "za mphamvu"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "pamene nyumba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ili yosweka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:35:08.520928318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 59,
+  "translation": "Kwa woyang'anira ⟨nyimbo⟩: “Osati Kwononga.” Ya Davide, mukhatamu, pa kutuma kwa Shauli, ndipo iwo anayang'anira ⟨את⟩ nyumba kuti amuphe.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Osati"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "Kwononga"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Davide"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mukhatamu"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "pa kutuma kwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "ndipo iwo anayang'anira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "kuti amuphe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:53.210717674Z",
+  "model": "glm-5.3"
+}

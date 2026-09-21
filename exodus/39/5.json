@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 39:5",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndipo chikhwa cha efodi yake chimene chili pa iye, chinali cholowa m'menemo, monga ntchito yake: za golide, za buluu, za wunduka, za kokhoni, ndi za lineni wabwino wophatikizidwa; monga Yahwe anamulamulira ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "chikhwa"
+    },
+    {
+      "surface": "אפדתו",
+      "gloss": "cha efodi yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chinali chake chomwe"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "monga ntchito yake"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "za golide"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "za buluu"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "za wunduka"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ndi za nsewa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kokhoni"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ndi za lineni"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "wabwino wophatikizidwa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "anamulamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:28:50.385902904Z",
+  "model": "glm-5.3"
+}

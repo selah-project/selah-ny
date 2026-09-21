@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 132,
+  "translation": "Mpaka ndipeze malo a Yahwe, misasa ⟨ya⟩ Wamphamvu wa Yakobo.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Mpaka"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ndipeze"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "malo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "misasa"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "⟨ya⟩ Wamphamvu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "wa Yakobo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:18.943498578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 30:9",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Kuti ndisazeze ndikakana, ndikati: “Ndani ndi Yahwe?” Ndipo kuti ndisamade ndikabe, ndipo nditenge dzina la Elohim wanga mwachinyengo.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "ndisazeze"
+    },
+    {
+      "surface": "וכחשתי",
+      "gloss": "ndikakana"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "ndikati"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ופן",
+      "gloss": "ndipo kuti"
+    },
+    {
+      "surface": "אורש",
+      "gloss": "ndisamade"
+    },
+    {
+      "surface": "וגנבתי",
+      "gloss": "ndikabe"
+    },
+    {
+      "surface": "ותפשתי",
+      "gloss": "nditenge"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dzina"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "la Elohim wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:28:02.964061032Z",
+  "model": "glm-5.3"
+}

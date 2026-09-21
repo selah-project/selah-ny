@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Pa chiyani mudzakwaphidwa kachi? Mudzaonjezabe kuchimwira. Mutu wonse uli udwala, ndipo mtima wonse uli wodwala.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "mudzakwaphidwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kachi"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "mudzaonjezabe"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "kuchimwira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "udwala"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo wonse"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "wodwala"
+    }
+  ],
+  "timestamp": "2026-09-21T09:02:00.183187656Z",
+  "model": "glm-5.3"
+}

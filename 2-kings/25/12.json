@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Koma wa osauka a dziko lapansi anasiya wamkulu wa asilikali akhale akalima mpesa ndi akalima minda.",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "Koma wa osauka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a dziko lapansi"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "anasiya"
+    },
+    {
+      "surface": "רב",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wa asilikali"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "akhale akalima mpesa"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "ndi akalima minda"
+    }
+  ],
+  "timestamp": "2026-09-21T09:01:17.050798711Z",
+  "model": "glm-5.3"
+}

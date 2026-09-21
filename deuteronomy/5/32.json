@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo musunge kuchita monga momwe Yahwe Elohim wanu anakulamulira ⟨את⟩ inu; musapatuke kumanja kapena kumanzere.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ndipo musunge"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuchita"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "anakulamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu (chizindikiro + chiwalo)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa-"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "patuke"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "kumanja"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "kapena kumanzere"
+    }
+  ],
+  "timestamp": "2026-09-21T07:15:44.792746146Z",
+  "model": "glm-5.3"
+}

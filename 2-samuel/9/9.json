@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 9:9",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo mfumu dayitana Tsiba, kapolo wa Shauli, ndipoinati kwa iye: “Chonse chimene chinakhala cha Shauli ndi cha nyumba yake yonse, ndapatsa kwa mwana wa mbuye wako.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "dayitana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "נער",
+      "gloss": "kapolo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipoinati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Chonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "היה",
+      "gloss": "chinakhala"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "cha Shauli"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ndi cha yonse"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndapatsa"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "kwa mwana"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "wa mbuye wako"
+    }
+  ],
+  "timestamp": "2026-09-21T08:19:21.670788601Z",
+  "model": "glm-5.3"
+}

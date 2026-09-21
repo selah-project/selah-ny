@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 88,
+  "translation": "Walikitsa kutali odziwa anga <kwa ine>; wandiika kukhala chodetsa kwa iwo; ndatsekedwa, ndipo sitingatuluke.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "Walikitsa kutali"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "odziwa anga"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "<kwa ine>"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "wandiika"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "chodetsa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "ndatsekedwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si-"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "tingatuluke"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:22.249772670Z",
+  "model": "glm-5.3"
+}

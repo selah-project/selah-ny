@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Moyo wanga abwezeretsa; anditsogolera m'njira za chilungamo chifukwa cha Dzina lake.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "abwezeretsa"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "anditsogolera"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "m'njira"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "za chilungamo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Dzina lake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:26.244759447Z",
+  "model": "glm-5.3"
+}

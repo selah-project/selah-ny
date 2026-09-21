@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 73,
+  "translation": "Koma ine ndinali wopusa, ndipo sindinadziwa; ndinali ngati nyama ndi inu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Koma ine"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ndinali wopusa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sindi-"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "-nadziwa"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "ngati nyama"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndinali"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndi inu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:18.949773078Z",
+  "model": "glm-5.3"
+}

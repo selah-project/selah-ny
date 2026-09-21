@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Kodi kuopa kwako si kukhulupirira kwako, chiyembekezo chako, ndi kuyera kwa njira zako?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Kodi … si"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "kuopa kwako"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "kukhulupirira kwako"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "chiyembekezo chako"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "ndi kuyera"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "kwa njira zako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:29:16.884063324Z",
+  "model": "glm-5.3"
+}

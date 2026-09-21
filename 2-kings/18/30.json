@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo Chizkiyahu asakulimbikitseni ⟨את⟩ inu kukhulupirira Yahwe, nati: Yahwe adzapulumutsa ife ndithu, ndipo mzinda uwu sudzapatsidwa ⟨את⟩ m'dzanja la mfumu ya Ashuru.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ndipo asa-"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "kulimbikitsen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "adzapulumutsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sudza-"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "patsidwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mzinda uwu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uwu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "m'dzanja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    }
+  ],
+  "timestamp": "2026-09-21T08:58:15.755046613Z",
+  "model": "glm-5.3"
+}

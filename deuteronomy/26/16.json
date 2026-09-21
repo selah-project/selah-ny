@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Lero lino Yahwe, Elohim wako, akulamula iwe kuchita ⟨את⟩ zilembo izi ndi ⟨את⟩ miweruzo; ndipo udzasunga ndi kuchita ⟨את⟩ izonse ndi mtima wako wonse ndi moyo wako wonse.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "akulamula"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuchita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zilembo izi"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "zilembo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "miweruzo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "miweruzo"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ndipo udzasunga"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ndi kuchita"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "izonse (zilembo ndi miweruzo)"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ndi … wonse"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "mtima wako"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ndi … wonse"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moyo wako"
+    }
+  ],
+  "timestamp": "2026-09-21T07:27:42.660973702Z",
+  "model": "glm-5.3"
+}

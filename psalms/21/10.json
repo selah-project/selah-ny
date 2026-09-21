@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Mudzawika iwo ngati ng'anjo ya moto pa nthawi ya nkhope yanu; Yahwe, m'mkwiyo wake adzawameka, ndipo moto udzawadya.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "Mudzawika iwo"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "ngati ng'anjo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "pa nthawi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ya nkhope yanu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "m'mkwiyo wake"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "adzawameka"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "ndipo udzawadya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:10.001932972Z",
+  "model": "glm-5.3"
+}

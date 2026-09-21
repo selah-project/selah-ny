@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 16:16",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo Moshe anati kwa Korachi: “Iwe ndi msonkhano wako wonse mukhale pamaso pa Yahwe — iwe, ndi iwo, ndi Aharoni, mawa.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi wonse"
+    },
+    {
+      "surface": "עדתך",
+      "gloss": "msonkhano wako"
+    },
+    {
+      "surface": "היו",
+      "gloss": "mukhale"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ndi iwo"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ndi Aharoni"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "mawa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:00:55.217531368Z",
+  "model": "glm-5.3"
+}

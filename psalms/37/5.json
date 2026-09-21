@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Wongolera ⟨את⟩ njira yako kwa Yahwe, ndipo ukhulupirire mwa iye, ndipo iye adzachita ⟨iyo⟩.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "Wongolera"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "njira yako"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "ndipo ukhulupirire"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mwa iye"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ndipo iye"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "adzachita"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:51.035743155Z",
+  "model": "glm-5.3"
+}

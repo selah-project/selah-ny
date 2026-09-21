@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Wokonda chilungamo ndi chiweruzo; khesedi la Yahwe ladzaza dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Wokonda"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "chilungamo"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ndi chiweruzo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ladzaza"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:40.170927598Z",
+  "model": "glm-5.3"
+}

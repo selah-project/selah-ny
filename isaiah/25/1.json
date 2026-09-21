@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Yahwe, Elohim wanga, iwe ⟨ndiwe⟩; ndidzakweza iwe, ndidzalumba dzina lako, chifukwa wachita chachilendo; malangizo ochokera kutali, chikhulupiriro, choonadi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ndidzakweza iwe"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ndidzalumba"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dzina lako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wachita"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "chachilendo"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "malangizo"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ochokera kutali"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "chikhulupiriro"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "choonadi"
+    }
+  ],
+  "timestamp": "2026-09-21T13:11:40.844179275Z",
+  "model": "glm-5.3"
+}

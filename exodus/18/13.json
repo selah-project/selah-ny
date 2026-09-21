@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo kunachitika tsiku lomwelo, Moshe anakhala kuweruza ⟨את⟩ anthu, ndipo anthu anayimirira pafupi ndi Moshe kuyambira mm'mawa mpaka madzulo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kunachitika"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "tsiku lomwelo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "kuweruza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "anayimirira"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pafupi ndi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuyambira"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mm'mawa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "madzulo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:15:37.541958642Z",
+  "model": "glm-5.3"
+}

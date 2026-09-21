@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 25:7",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo chiwerengero chawo pamodzi ndi abale awo, ophunzitsidwa kuimba nyimbo kwa Yahwe, onse ozindikira, chinali makumi awiri ndi asanu ndi limodzi — mazana awiri, makumi asanu ndi anayi ndi asanu ndi limodzi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo chinakhalapo"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "chiwerengero chawo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "abale awo"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "ophunzitsidwa"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kuimba nyimbo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "ozindikira"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mazana awiri"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "makumi asanu ndi anayi"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "ndi asanu ndi limodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:33:44.137796834Z",
+  "model": "glm-5.3"
+}

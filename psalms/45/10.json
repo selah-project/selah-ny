@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 45,
+  "translation": "Ana a mafumu ali mwa akazi ako olemekezeka; mkazi wamkulu ayimirira ku dzanja lako lamanja, wagoledi wa ku Ofiri.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "mwa olemekezeka wako"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "ayimirira"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "mkazi wamkulu"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "ku dzanja lako lamanja"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "wagoledi wa"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofiri"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:58.690612120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 94,
+  "translation": "Amene amalangiza anthu a mitundu, kodi samatsutsa? Iye amene amaphunzitsa munthu chidziwitso ⟨kodi sadziwa?⟩",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "amene amalangiza"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "anthu a mitundu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "kodi si-"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "amatsutsa"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "amene amaphunzitsa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "chidziwitso"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:59.207708766Z",
+  "model": "glm-5.3"
+}

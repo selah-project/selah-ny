@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 113,
+  "translation": "Amadzichepetsa kuona m'kumwamba ndi pa dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "Amadzichepetsa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "m'kumwamba"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "ndi pa dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:35.028520519Z",
+  "model": "glm-5.3"
+}

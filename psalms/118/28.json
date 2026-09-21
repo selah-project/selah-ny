@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 118,
+  "translation": "Inu ndinu El wanga, ndipo ndidzakuyamikani; Elohim wanga, ndidzakukwezani.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El wanga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inu ndinu"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "ndipo ndidzakuyamikani"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ndidzakukwezani"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:34.041666381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 24:7",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Pakuti ana a Atalyahu, woipa ameneyo, adavunda ⟨את⟩ nyumba ya Elohim; ndiponso zopatulidwa zonse za nyumba ya Yahwe adazipereka kwa Baalim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "המרשעת",
+      "gloss": "woipa ameneyo"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "adavunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "zopatulidwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "za nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "adazipereka"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "kwa Baalim"
+    }
+  ],
+  "timestamp": "2026-09-21T12:45:27.583530696Z",
+  "model": "glm-5.3"
+}

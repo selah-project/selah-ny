@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 23:14",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo mkate ndi chomangidwa ndi chirwa chatsopano simudzadya, mpaka tsiku lomwelo lomwe, mpaka poti mtabweretsa ⟨את⟩ nsembe ya Elohim wanu; chilamulo chokhalitsa ku mibadwo yanu, m'malo onse amene mukhala mumalo.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "ndipo mkate"
+    },
+    {
+      "surface": "וקלי",
+      "gloss": "ndi chomangidwa"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "ndi chirwa chatsopano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mudzadya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "lomwelo lomwe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lomweli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka poti"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "mtabweretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ya Elohim wanu"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "chilamulo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "chokhalitsa"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "ku mibadwo yanu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "m'malo onse"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "amene mukhala mumalo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:44:22.209175372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo anaiwala ⟨את⟩ Yahwe Elohim wawo, ndipo adawagulitsa ⟨את⟩ m'dzanja la Sisera, mtsogoleri wankhondo wa Hatsori, ndi m'dzanja la Afilisti, ndi m'dzanja la mfumu ya Mowabu; ndipo adamenya nkhondo pa iwo.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "anaiwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wawo"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "ndipo adawagulitsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo (m'dzanja)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "m'dzanja"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "la Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mtsogoleri"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "wankhondo"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "wa Hatsori"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ndi m'dzanja"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "la Afilisti"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ndi m'dzanja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "la mfumu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ya Mowabu"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ndipo adamenya nkhondo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:03:53.261998149Z",
+  "model": "glm-5.3"
+}

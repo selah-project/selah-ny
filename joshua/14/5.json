@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Monga momwe Yahwe adalamulira ⟨את⟩ Moshe, motero ana a Yisraeli anachita, ndipo anagawanitsa ⟨את⟩ dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Monga momwe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "adalamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "motero"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "ndipo anagawanitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko lapansi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:40:04.234424663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 139,
+  "translation": "Ndawadana ndi kudana kothunthu; adakhala akhanditi anga.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "kothunthu"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "kudana"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "ndawadana"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "akhanditi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "adakhala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "anga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:24.941266745Z",
+  "model": "glm-5.3"
+}

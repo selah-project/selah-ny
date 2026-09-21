@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Ndipo mayense onse a nzeru za mtima anadzozera ndi manja awo, ndipo anabweretsa ulusi wawodzozera, ⟨את⟩ tekeleti ndi ⟨את⟩ argamanu, ⟨את⟩ toloati ya shamizi ndi ⟨את⟩ sheshe.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ndipo onse"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mayense"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "a nzeru"
+    },
+    {
+      "surface": "לב",
+      "gloss": "za mtima"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "ndi manja awo"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "anadzozera"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ndipo anabweretsa"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "ulusi wawodzozera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tekeleti"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "tekeleti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "argamanu"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "argamanu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toloati ya shamizi"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "toloati"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya shamizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "sheshe"
+    },
+    {
+      "surface": "השש",
+      "gloss": "sheshe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:26:20.513862371Z",
+  "model": "glm-5.3"
+}

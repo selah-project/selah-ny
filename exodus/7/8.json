@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo Yahwe ananena kwa Moshe ndi kwa Aharoni, kuti:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi kwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti:"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:24.439527672Z",
+  "model": "glm-5.3"
+}

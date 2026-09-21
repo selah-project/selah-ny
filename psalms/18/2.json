@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Nadati: “Ndakukondani, Yahwe, mphamvu yanga.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Nadati"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "Ndakukondani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "mphamvu yanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:09.637776080Z",
+  "model": "glm-5.3"
+}

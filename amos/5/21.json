@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "amos 5:21",
+  "book": "amos",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndinadana, ndinakana mikusinkhina yanu, ndipo sindidzanunkha m'misonkhano yanu.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Ndinadana"
+    },
+    {
+      "surface": "מאסתי",
+      "gloss": "ndinakana"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "mikusinkhina yanu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sindi-"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "-dzanunkha"
+    },
+    {
+      "surface": "בעצרתיכם",
+      "gloss": "m'misonkhano yanu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:24:24.549386766Z",
+  "model": "glm-5.3"
+}

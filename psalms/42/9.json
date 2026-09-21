@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "M'masana Yahwe adzalamulira khesedi kwake, ndi usiku nyimbo yake idzakhala ndi ine, pemphero lwa El wa moyo wanga.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "m'masana"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "adzalamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi kwake"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "ndi usiku"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "nyimbo yake"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndi ine"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "pemphero"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "lwa El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "wa moyo wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:04.671424231Z",
+  "model": "glm-5.3"
+}

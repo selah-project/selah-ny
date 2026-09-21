@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Pakuti anakana mawu a El, ndi uphungu wa Elyoni ananyoza,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "anakana"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "ndi uphungu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoni"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "ananyoza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:20.692467813Z",
+  "model": "glm-5.3"
+}

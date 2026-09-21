@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "La Davide. Undaweruze, Yahwe, popeza ine ndayenda m'chilungamo changa, ndipo mwa Yahwe ndatsimikizira; sindidzagwedezeka.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "La Davide"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "undaweruze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "m'chilungamo changa"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ndayenda"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "ndipo mwa Yahwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ndatsimikizira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "sindidzagwedezeka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:56.626076308Z",
+  "model": "glm-5.3"
+}

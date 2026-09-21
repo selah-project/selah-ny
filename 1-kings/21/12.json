@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Anaalikira kusala kudya, ndipo anaikira ⟨את⟩ Navoti pa mutu wa anthu.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "anaalikira"
+    },
+    {
+      "surface": "צום",
+      "gloss": "kusala kudya"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "anaikira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navoti"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navoti"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "pa mutu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wa anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:43:50.103700106Z",
+  "model": "glm-5.3"
+}

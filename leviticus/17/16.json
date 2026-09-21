@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Koma ngati sanasuke ndipo sanadzambe thupi lake, adzanyamula chiwembu chake.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "koma ngati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "anasuka"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "ndipo thupi lake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana-"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "nadzambe"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "adzanyamula"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "chiwembu chake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:58:23.674072028Z",
+  "model": "glm-5.3"
+}

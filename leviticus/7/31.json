@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndi wansembe adzathyeka ⟨את⟩ mafuta pa guwa; ndipo chifuwa chidzakhala cha Aharoni ndi ana ake.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "adzathyeka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pa guwa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "chidzakhala"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "chifuwa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "cha Aharoni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ndi ana ake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:31:54.987921266Z",
+  "model": "glm-5.3"
+}

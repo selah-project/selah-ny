@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Wamwini ndine; sindidziwa moyo wanga; ndidana ndi moyo wanga.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "Wamwini"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "-didziwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "ndidana"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ndi moyo wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:34:27.974251639Z",
+  "model": "glm-5.3"
+}

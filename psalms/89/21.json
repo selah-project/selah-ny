@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Ndinapeza Dawidi kapolo wanga; ndi mafuta anga opatulika ndinamudzoza.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "Ndinapeza"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kapolo wanga"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ndi mafuta"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "anga opatulika"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "ndinamudzoza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:16.760081194Z",
+  "model": "glm-5.3"
+}

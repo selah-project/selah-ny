@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Mwa nzeru nyumba imamangidwa, ndi mwa kuzindikira imakhazikika.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "mwa nzeru"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "imamangidwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "ndi mwa kuzindikira"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "imakhazikika"
+    }
+  ],
+  "timestamp": "2026-09-21T11:26:10.754064555Z",
+  "model": "glm-5.3"
+}

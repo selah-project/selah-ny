@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 4:20",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Koma inu Yahwe anakulanu, nakutulutsani m'ng'anjo ya chitsulo, kuchokera ku Mitsrayimu, kuti mukhale anthu a chilengedwe chake, monga lero lino",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "Koma ⟨את⟩ inu",
+      "marks": "inanu"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "anakulanu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "nakutulutsani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inanu"
+    },
+    {
+      "surface": "מכור",
+      "gloss": "ng'anjo"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ya chitsulo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuchokera ku Mitsrayimu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kuti mukhale"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chake"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "a chilengedwe"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "monga lero"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lino"
+    }
+  ],
+  "timestamp": "2026-09-21T07:16:31.308818998Z",
+  "model": "glm-5.3"
+}

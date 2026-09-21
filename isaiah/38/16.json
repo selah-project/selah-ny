@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 38:16",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Adonayi, mwa izi anthu amakhala ndi moyo, ndi mwa zonse mwa izi muli moyo wa mzimu wanga; motero undichirikitse ndi undipatse moyo.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mwa izi"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "anthu amakhala ndi moyo"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ndi mwa zonse"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "mwa izi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "muli moyo"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "wa mzimu wanga"
+    },
+    {
+      "surface": "ותחלימני",
+      "gloss": "undichirikitse"
+    },
+    {
+      "surface": "והחיני",
+      "gloss": "undipatse moyo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:14:26.901197359Z",
+  "model": "glm-5.3"
+}

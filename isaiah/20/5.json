@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo adzatonthozera nadzachita manyazi chifukwa cha Kushi, chiyembekezo chawo, ndi chifukwa cha Mitsrayimu, ulemerero wawo.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "adzatonthozera"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "nadzachita manyazi"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "Kushi"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "chiyembekezo chawo"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ndi chifukwa cha"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "ulemerero wawo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:07:27.722106082Z",
+  "model": "glm-5.3"
+}

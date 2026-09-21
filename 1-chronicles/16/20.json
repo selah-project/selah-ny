@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndi pozungulira mitundu ina kufikira mitundu ina ndi mfumu imodzi kufikira anthu ena.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "ndipo anayendayenda"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "kuchokera mtundu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "mtundu ina"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "ndi kuchokera ufumu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ena"
+    }
+  ],
+  "timestamp": "2026-09-21T12:28:28.354062943Z",
+  "model": "glm-5.3"
+}

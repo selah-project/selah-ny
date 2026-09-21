@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Pakuti mfumu ikhulupirira mwa Yahwe, ndi m'khesedi lwa Elyoni; sadzagwedezeka konse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ikhulupirira"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "mwa Yahwe"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "ndi m'khesedi"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "lwa Elyoni"
+    },
+    {
+      "surface": "בל",
+      "gloss": "konse"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sadzagwedezeka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:13.044128280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo Eliyahu anayenda kukawonetsa nokha kwa Ahabu; ndipo njala inali yakukuta kwambiri ku Shomeroni.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "kukawonetsa nokha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "ndipo njala"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "yakukuta kwambiri"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "ku Shomeroni"
+    }
+  ],
+  "timestamp": "2026-09-21T08:43:17.212636131Z",
+  "model": "glm-5.3"
+}

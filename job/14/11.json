@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Madzi amachoka m'nyanja, ndipo mtsinje umaluma ndi kumauma.",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "amachoka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "m'"
+    },
+    {
+      "surface": "ים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "ndipo mtsinje"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "umaluma"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ndi kumauma"
+    }
+  ],
+  "timestamp": "2026-09-21T11:35:29.785235921Z",
+  "model": "glm-5.3"
+}

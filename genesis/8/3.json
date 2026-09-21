@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo madzi anabwerera m'dziko lapansi, kuyenda ndi kubwerera; ndipo pa mapeto pa masiku zana limodzi ndi makumi asanu madzi anachepeka.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "anabwerera"
+    },
+    {
+      "surface": "המים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "m'dziko lapansi (kuchokera pa)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "kuyenda"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ndi kubwerera"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "anachepeka"
+    },
+    {
+      "surface": "המים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "pa mapeto pa"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "makumi asanu"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ndi zana limodzi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "masiku"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:54.217741935Z",
+  "model": "glm-5.3"
+}

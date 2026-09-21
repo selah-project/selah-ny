@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Yahwe Elohim anatenga ⟨את⟩ munthuyo, namuika m'munda wa Edeni, kuti amugwire ntchito ndi kuti auwatchire.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munthuyo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthuyo"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "namuika"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "m'munda"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "wa Edeni"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "kuti amugwire ntchito"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "ndi kuti auwatchire"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:17.318889753Z",
+  "model": "glm-5.3"
+}

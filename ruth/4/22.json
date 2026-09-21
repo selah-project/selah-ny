@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Obedi analenga ⟨את⟩ Yishayi, ndipo Yishayi analenga ⟨את⟩ Davide.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "Ndipo Obedi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "analenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishayi"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishayi"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "ndipo Yishayi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "analenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    }
+  ],
+  "timestamp": "2026-09-21T11:49:45.433169694Z",
+  "model": "glm-5.3"
+}

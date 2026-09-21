@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Chimodzi chimanandikira ndi chimodzi, ndipo mpweya suwolowa pakati pawo.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "chimodzi"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ndi chimodzi"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "chimanandikira"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ndipo mpweya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "su"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "wolowa"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "pakati pawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:47:12.519282283Z",
+  "model": "glm-5.3"
+}

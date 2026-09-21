@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Zakufa zakokha kapena zodzedwa ndi zilombo sadzadya, kuti asadzitembere ndi izo; ndine Yahwe.",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "zakufa zakokha"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "kapena zodzedwa ndi zilombo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dzadya"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "kuti asadzitembere"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ndi izo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:50.733182868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo anthu amene sanafe anamenyidwa ndi zilonda (maufiti), ndipo kuwera kwa mzindawo kunakwera kufikira kumwamba.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "Ndipo anthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana-"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "anamenyidwa"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "ndi zilonda (maufiti)"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "kunakwera"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "kuwera kwa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mzindawo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kufikira kumwamba"
+    }
+  ],
+  "timestamp": "2026-09-21T08:02:17.877969646Z",
+  "model": "glm-5.3"
+}

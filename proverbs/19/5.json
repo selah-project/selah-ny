@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Mboni ya bodza siidzakhalabe yosalipidwa, ndipo wofuula zobodza sadzapulumuka.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "mboni"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "ya bodza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sii-"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "dzakhalabe yosalipidwa"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "ndipo wofuula"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "zobodza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "dzapulumuka"
+    }
+  ],
+  "timestamp": "2026-09-21T11:24:42.667452703Z",
+  "model": "glm-5.3"
+}

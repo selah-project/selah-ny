@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Pakuti mwa iwe muli ⟨chitsime⟩ cha moyo; mu kuwala kwako tidzaona kuwala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mwa iwe"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "⟨chitsime⟩"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "cha moyo"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "mu kuwala kwako"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "tidzaona"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kuwala"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:37.781137732Z",
+  "model": "glm-5.3"
+}

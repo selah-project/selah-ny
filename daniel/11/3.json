@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 11:3",
+  "book": "daniel",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo mfumu yamphamvu idzayimirira, nadzalamula ulamuliro waukulu, nachita monga mwa kufuna kwake.",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "Ndipo idzayimirira"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "yamphamvu"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "nadzalamula"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "ulamuliro"
+    },
+    {
+      "surface": "רב",
+      "gloss": "waukulu"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "nachita"
+    },
+    {
+      "surface": "כרצונו",
+      "gloss": "monga mwa kufuna kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:11:36.522055758Z",
+  "model": "glm-5.3"
+}

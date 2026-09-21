@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 58,
+  "translation": "Chiwalo chawo chili monga chiwalo cha njoka, monga njoka gwara imatseka khutu lake.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "chiwalo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "chawo"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "chili monga"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "chiwalo"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "cha njoka"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "monga"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "njoka"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "imatseka"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "khutu lake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:50.502902147Z",
+  "model": "glm-5.3"
+}

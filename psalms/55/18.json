@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 55,
+  "translation": "Madzulo ndi m'mawa ndi masana ndidzaganizira ndi kulira, ndipo adzamva liwu langa.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Madzulo"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ndi m'mawa"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "ndi masana"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ndidzaganizira"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "ndi kulira"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ndipo adzamva"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "liwu langa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:15.848179243Z",
+  "model": "glm-5.3"
+}

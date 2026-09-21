@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Yahwe adalankhula kwa Moshe ndi kwa Aharoni, nati:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ndipo adalankhula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi kwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati:"
+    }
+  ],
+  "timestamp": "2026-09-21T06:50:44.656787407Z",
+  "model": "glm-5.3"
+}

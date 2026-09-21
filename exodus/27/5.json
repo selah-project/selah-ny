@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo uiike ⟨את⟩ wake pansi pa chizinga cha altare, m'munsi, kuti ulalo ukhale kufikira chimodzi mwa ziwiri cha altare.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "uiike"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ wake",
+      "marks": "ulalo (chiphadikizo: iye\/chiyenero chomwe chikuyikidwa)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "chizinga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "cha altare"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "m'munsi"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ukhale"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "ulalo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "chimodzi mwa ziwiri"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "cha altare"
+    }
+  ],
+  "timestamp": "2026-09-21T06:21:14.167292685Z",
+  "model": "glm-5.3"
+}

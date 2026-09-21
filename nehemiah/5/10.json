@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 5:10",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndiponso ineyo, abale anga ndi atumiki anga, tikulawirira kwa iwo ngongole ya siliva ndi chimanga; tiyeni tiyipe ⟨את⟩ mthwalo uwu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ineyo"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "abale anga"
+    },
+    {
+      "surface": "ונערי",
+      "gloss": "ndi atumiki anga"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "tikulawirira ngongole"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "ndi chimanga"
+    },
+    {
+      "surface": "נעזבה",
+      "gloss": "tiyeni tisiye"
+    },
+    {
+      "surface": "נא",
+      "gloss": "chonde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mthwalo uwu"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "mthwalo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uwu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:17:53.581456246Z",
+  "model": "glm-5.3"
+}

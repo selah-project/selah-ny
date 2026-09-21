@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Koma ine ndine wavutika ndi wosowa; Adonayi andiyang'anire ⟨ine⟩; thandizo langa ndi chipulumutso changa ndiwe iwe, Elohim wanga; musachedwe.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "koma ine"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wavutika"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ndi wosowa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "andiyang'anire"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "thandizo langa"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ndi chipulumutso changa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "achedwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:34.099303984Z",
+  "model": "glm-5.3"
+}

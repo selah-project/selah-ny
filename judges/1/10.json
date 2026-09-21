@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Yehuda anapita kwa ⟨ה⟩ Kanaani wokhala mu Khebironi; dzina la Khebironi linali kale Kiryati-Arba; ndipo anamenya ⟨את⟩ Sheshayi ndi ⟨את⟩ Akhimani ndi ⟨את⟩ Talmayi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "anapita"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaani"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "wokhala"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "mu Khebironi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dzina"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "la Khebironi"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "linali kale"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryati-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "-Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "anamenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshayi"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshayi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Akhimani"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Akhimani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Talmayi"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmayi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:44:37.427532033Z",
+  "model": "glm-5.3"
+}

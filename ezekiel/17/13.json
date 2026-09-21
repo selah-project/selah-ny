@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 17:13",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo adatenga mwa mbewu ya ufumu, nadzimanga naye ⟨את⟩ pangano, nabweretsa iye ⟨את⟩ m'chiwembu, ndipo anamwali amphamvu a dziko lapansi adawatenga.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "adatenga"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "mwa mbewu"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ya ufumu"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "nadzimanga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "naye ⟨את⟩"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pangano"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nabweretsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "iye ⟨את⟩",
+      "marks": "iye (m'chiwembu)"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "m'chiwembu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "anamwali amphamvu a dziko lapansi"
+    },
+    {
+      "surface": "אילי",
+      "gloss": "anamwali amphamvu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a dziko lapansi"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "adawatenga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:01:59.817930999Z",
+  "model": "glm-5.3"
+}

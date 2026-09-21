@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 2:18",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Pakuti nyumba yake yatsikira kufa, ndi kwa amwalidwa njira zake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "yatsikira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kufa ← kwa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi kwa"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "amwalidwa"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "njira zake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:18:38.432908575Z",
+  "model": "glm-5.3"
+}

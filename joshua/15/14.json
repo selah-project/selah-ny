@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 15:14",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo Kaleve anawatulutsa komweko ⟨את⟩ ana atatu a Anaki: ⟨את⟩ Sheshayi ndi ⟨את⟩ Akhimani ndi ⟨את⟩ Talmayi, obadwa a Anaki.",
+  "tokens": [
+    {
+      "surface": "וירש",
+      "gloss": "anawatulutsa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "komweko"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana atatu a Anaki"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "Anaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshayi"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshayi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Akhimani"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Akhimani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Talmayi"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmayi"
+    },
+    {
+      "surface": "ילידי",
+      "gloss": "obadwa a"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "Anaki"
+    }
+  ],
+  "timestamp": "2026-09-21T13:02:18.255015696Z",
+  "model": "glm-5.3"
+}

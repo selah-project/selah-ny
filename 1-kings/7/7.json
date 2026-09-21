@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 7:7",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndi chirambo cha mpando wachifumu, kumene anakweruzira komweko, chirambo chiweruzo, adachita; ndipo chinathingidwa ndi Cedar, kuchokera pa pavement mpaka pa pavement.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Ndi chirambo"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "cha mpando wachifumu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kumene"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "anakweruzira"
+    },
+    {
+      "surface": "שם",
+      "gloss": "komweko"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "chirambo"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "chiweruzo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "adachita"
+    },
+    {
+      "surface": "וספון",
+      "gloss": "ndipo chinathingidwa"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "ndi Cedar"
+    },
+    {
+      "surface": "מהקרקע",
+      "gloss": "kuchokera pa pavement"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "pa pavement"
+    }
+  ],
+  "timestamp": "2026-09-21T08:34:08.808279049Z",
+  "model": "glm-5.3"
+}

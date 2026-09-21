@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Opusa chifukwa cha njira ya kunyengo yawo, ndi chifukwa cha zolakwa zawo anakomokedwa.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "Opusa"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "chifukwa cha njira ya"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "kunyengo yawo"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "ndi chifukwa cha zolakwa zawo"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "anakomokedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:04.740989986Z",
+  "model": "glm-5.3"
+}

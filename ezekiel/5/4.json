@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 5:4",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo mwa amenewa mudzatenganso, ndipo mudzawaponya ⟨את⟩ ku mkati mwa moto, ndipo mudzawapsa ⟨את⟩ ndi moto; kumeneko moto udzatuluka ku nyumba ya Israyeli.",
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "Ndipo mwa amenewa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kanthu"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "mudzatenganso"
+    },
+    {
+      "surface": "והשלכת",
+      "gloss": "ndipo mudzawaponya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mudzatenganso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "mkati mwa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ושרפת",
+      "gloss": "ndipo mudzawapsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mudzawapsa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ndi moto"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "udzatuluka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israyeli"
+    }
+  ],
+  "timestamp": "2026-09-21T09:57:23.567137152Z",
+  "model": "glm-5.3"
+}

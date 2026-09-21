@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 135,
+  "translation": "Mafano amitundu ndi siliva ndi golide, ntchito ya manja a anthu.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "Mafano"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amitundu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ndi golide"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ya manja"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:21.716229471Z",
+  "model": "glm-5.3"
+}

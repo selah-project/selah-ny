@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo Moshe adatulutsa ⟨את⟩ anthu kukakomana ndi Elohim, kuchokera mu msasa; ndipo anayimirira m'munsipa pa phirilo.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "adatulutsa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kukakomana ndi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchokera"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "mu msasa"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "anayimirira"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "m'munsipa pa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "phirilo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:56:08.345783489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo Balak anati kwa Bilam: “Ngakhale kutukwana, sudzawatukwana ⟨iwo⟩; ngakhale kudalitsa, sudzawadalitse ⟨iwo⟩.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ngakhale"
+    },
+    {
+      "surface": "קב",
+      "gloss": "kutukwana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sudzawa- (osati)"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "-watukwana iwo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ngakhale"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "kudalitsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sudzawa- (osati)"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "-wadalitse iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:04:32.072891527Z",
+  "model": "glm-5.3"
+}

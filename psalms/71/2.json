@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 71,
+  "translation": "Mwachilungamo chako mundipulumutse ndi kundithandiza kuti ndipulumuke; gwedeza khutu lako kwa ine, ndi kundipulumutsa.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "mwachilungamo chako"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "mundipulumutse"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "ndi kundithandiza kuti ndipulumuke"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "gwedeza"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "khutu lako"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "ndi kundipulumutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:25.868715562Z",
+  "model": "glm-5.3"
+}

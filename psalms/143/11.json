@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 143,
+  "translation": "Chifukwa cha dzina lanu, Yahwe, mundikololole; mu chilungamo chanu mutulutse ku chisautso moyo wanga.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Chifukwa cha"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dzina lanu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "mundikololole"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "mu chilungamo chanu"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "mutulutse"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "ku chisautso"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:43.524405314Z",
+  "model": "glm-5.3"
+}

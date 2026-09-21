@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 136:24",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 136,
+  "translation": "Ndipo anatipulumutsa kwa adani athu, chifukwa khesedi chake chikhala ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "ויפרקנו",
+      "gloss": "ndipo anatipulumutsa"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "kwa adani athu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi chake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:09.029034079Z",
+  "model": "glm-5.3"
+}

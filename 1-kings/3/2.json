@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Koma anthu ankaphemba nsembe m'malo otumbwa, chifukwa nyumba sanamangidwe ya dzina la Yahwe mpaka masiku amenewo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Koma"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "ankaphemba nsembe"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "m'malo otumbwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "anamangidwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ya dzina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "amenewo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:32:30.057584036Z",
+  "model": "glm-5.3"
+}

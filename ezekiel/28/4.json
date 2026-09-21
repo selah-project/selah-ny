@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 28:4",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Mwa nzeru zako ndi mwa chidziwitso chako, unazigawira mwini chuma; ndipo unapanga golide ndi siliva m'zikhaliro zako:",
+  "tokens": [
+    {
+      "surface": "בחכמתך",
+      "gloss": "Mwa nzeru zako"
+    },
+    {
+      "surface": "ובתבונתך",
+      "gloss": "ndi mwa chidziwitso chako"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "unapanga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe mwini"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "chuma"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "ndipo unapanga"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ndi siliva"
+    },
+    {
+      "surface": "באוצרותיך",
+      "gloss": "m'zikhaliro zako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:08:53.498447688Z",
+  "model": "glm-5.3"
+}

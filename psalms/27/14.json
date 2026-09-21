@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Yembekeza kwa Yahwe; khala wamphamvu, ndipo mtima wako ukhale wolimba; inde, yembekeza kwa Yahwe!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "yembekeza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "khala wamphamvu"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "ndipo ukhale wolimba"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "mtima wako"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "inde, yembekeza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:51.723839398Z",
+  "model": "glm-5.3"
+}

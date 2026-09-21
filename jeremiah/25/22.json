@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo ⟨את⟩ amafumu onse a Tsori, ndi ⟨את⟩ amafumu onse a Tsidoni, ndi ⟨את⟩ amafumu a chirumba chimene chili pangalipadya pa nyanja.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "amafumu onse a Tsori"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amafumu a"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "amafumu onse a Tsidoni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amafumu a"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "amafumu a chirumba"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amafumu a"
+    },
+    {
+      "surface": "האי",
+      "gloss": "chirumba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "pangalipadya pa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "nyanja"
+    }
+  ],
+  "timestamp": "2026-09-21T09:38:27.734004298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 1:4",
+  "book": "micah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo mapiri adzasungunuka pansi pake, ndipo mabwalo adzatsekulana, monga doni pamaso pa moto, monga madzi okhetsedwa m'malo otsika.",
+  "tokens": [
+    {
+      "surface": "ונמסו",
+      "gloss": "adzasungunuka"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "pansi pake"
+    },
+    {
+      "surface": "והעמקים",
+      "gloss": "mabwalo"
+    },
+    {
+      "surface": "יתבקעו",
+      "gloss": "adzatsekulana"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "monga doni"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "monga madzi"
+    },
+    {
+      "surface": "מגרים",
+      "gloss": "okhetsedwa"
+    },
+    {
+      "surface": "במורד",
+      "gloss": "m'malo otsika"
+    }
+  ],
+  "timestamp": "2026-09-21T13:23:47.418733451Z",
+  "model": "glm-5.3"
+}

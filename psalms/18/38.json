@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Nditsata adani anga ndi kuwapeza, ndipo sindibwerera mpaka atathe.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "Nditsata"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "adani anga"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "ndi kuwapeza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ndibwerera"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "atathe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:12.548352020Z",
+  "model": "glm-5.3"
+}

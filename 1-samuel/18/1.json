@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 18:1",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo chinachitika, atamaliza kulankhula ndi Shauli, moyo wa Yehonatani unamangidwa ndi moyo wa Davidi, ndipo Yehonatani adamkonda iye monga moyo wake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo chinachitika"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "atamaliza"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kulankhula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "moyo wa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "נקשרה",
+      "gloss": "unamangidwa"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ndi moyo wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ויאהבו",
+      "gloss": "adamkonda"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "monga moyo wake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:09:43.576922650Z",
+  "model": "glm-5.3"
+}

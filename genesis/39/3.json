@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 39:3",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Mbuye wake adawona kuti Yahwe ali ⟨אתו⟩, ndipo zonse zimene iye ankachita, Yahwe wakuzipambanitsa m'dzanja lake.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "adawona"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mbuye wake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iye (Yosefe)"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ankachita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "wakuzipambanitsa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "m'dzanja lake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:01:20.308738027Z",
+  "model": "glm-5.3"
+}

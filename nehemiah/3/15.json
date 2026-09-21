@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 3:15",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo ⟨את⟩ khomo la chitsime Shaluni mwana wa Kol-Chozehi, mkulu wa chigawo cha Mitzpa, anachirikiza: iye anazimanga ndipo anaphimba, anayimiritsa zitseko zake, makiyi ake ndi mabara ake; ndipo ⟨את⟩ khoma la bowa la Shelahi kufikira munda wa mfumu, ndi mpaka mitepire yotsikira kuchoka mu mzinda wa Davide.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "khomo la chitsime"
+    },
+    {
+      "surface": "שער",
+      "gloss": "khomo"
+    },
+    {
+      "surface": "העין",
+      "gloss": "la chitsime"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "anachirikiza"
+    },
+    {
+      "surface": "שלון",
+      "gloss": "Shaluni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Kol"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "Chozehi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mkulu wa"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "chigawo cha"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitzpa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "יבננו",
+      "gloss": "anazimanga"
+    },
+    {
+      "surface": "ויטללנו",
+      "gloss": "anaphimba"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "anayimiritsa"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "zitseko zake"
+    },
+    {
+      "surface": "מנעליו",
+      "gloss": "makiyi ake"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "mabara ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "khoma la bowa la Shelahi"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "khoma la"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "bowa la"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "Shelahi"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "kufikira munda wa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ndi mpaka"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "mitepire"
+    },
+    {
+      "surface": "היורדות",
+      "gloss": "yotsikira"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kuchoka mu mzinda wa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    }
+  ],
+  "timestamp": "2026-09-21T13:34:52.539794584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Ndipo ndinakhala monga munthu amene sakumva, ndipo m'mkamua muli kulalatidwa —",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ndinakhala"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "monga munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kumva"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "m'mkamua"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "kulalatidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:32.414178150Z",
+  "model": "glm-5.3"
+}

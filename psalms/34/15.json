@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Chepa ku zoipa ndipo chita zabwino; funafuna mtendere ndipo mutsatire.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "chepa"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ku zoipa"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ndipo chita"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zabwino"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "funafuna"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mtendere"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "ndipo mutsatire"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:55.528376618Z",
+  "model": "glm-5.3"
+}

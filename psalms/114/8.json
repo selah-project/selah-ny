@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 114,
+  "translation": "Amene asandutsa mwala kukhala mabowa a madzi, ndi mwala wamlimi kukhala akasupe a madzi.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "Amene asandutsa"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "mwala"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "mabowa a"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "mwala wamlimi"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "akasupe a"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:56.236661393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 144,
+  "translation": "Yahwe, munthu ndi chiyani kuti mumudziwe, mwana wa munthu kuti mumuganizire?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "kuti mumudziwe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "wa munthu"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "kuti mumuganizire"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:12.084320969Z",
+  "model": "glm-5.3"
+}

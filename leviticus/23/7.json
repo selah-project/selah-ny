@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Pa tsiku loyamba mudzakhala ndi msonkhano woyera; ntchito yonse ya kukhonzala simudzaichita.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Pa tsiku"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "loyamba"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "msonkhano"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mudzakhala ndi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ya kukhonzala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mudzaichita"
+    }
+  ],
+  "timestamp": "2026-09-21T06:43:06.974544010Z",
+  "model": "glm-5.3"
+}

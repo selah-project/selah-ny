@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 26:6",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo udzapanga zomangirira makumi asanu ndi limodzi za golide, ndipo udzolumikiza ⟨את⟩ mambulo, limodzi ku limodzi, ndi zomangirirazo; ndipo chihema chidzakhala chimodzi.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "udzapanga"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "makumi asanu ndi limodzi"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "zomangirira"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "udzolumikiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mambulo"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "mambulo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "limodzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "limodzi"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "ndi zomangirirazo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "chidzakhala"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "chimodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:20:08.757422212Z",
+  "model": "glm-5.3"
+}

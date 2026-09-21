@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo Moshe anayandikitsa ⟨את⟩ Aharon ndi ⟨את⟩ ana ake, ndipo anasambitsa ⟨את⟩ iwo ndi madzi.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "anayandikitsa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana ake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "anasambitsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "Aharon ndi ana ake"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ndi madzi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:35:46.077849792Z",
+  "model": "glm-5.3"
+}

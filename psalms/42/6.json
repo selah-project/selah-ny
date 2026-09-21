@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Mwanena chiyani, moyo wanga, umasunthunkha? Ndinene chiyani, ndi kuzunzidwa mwa ine? Yembekezera Elohim, pakuti ndidzamulemekeza konse; chipulumutso cha nkhope yake.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mwanena chiyani"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "umasunthunkha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "ndi kuzunzidwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mwa ine"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "yembekezera"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "konse"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "ndidzamulemekeza"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "chipulumutso"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "cha nkhope yake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:24.922439871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Elohim anayimiritsa kwa iye ⟨את⟩ mdani wina, Rezoni mwana wa Elyiada, amene anathawa kwa ⟨את⟩ Hadadezeri mfumu ya Tsova, mbuye wake.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "anayimiritsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "mdani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mdani wina Rezoni"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezoni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "wa Elyiada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "anathawa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kwa ⟨את⟩"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezeri"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ya Tsova"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mbuye wake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:39:22.293467035Z",
+  "model": "glm-5.3"
+}

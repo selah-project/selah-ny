@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo ine ndinaphunzitsa Efraimu kuyenda, ndinawatenga pa manja awo; koma sanadziwe kuti ndinawachiritsa.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ndipo ine"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "ndinaphunzitsa kuyenda"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efraimu"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "ndinawatenga"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "manja awo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma sanadziwe"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "sanadziwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "ndinawachiritsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:22:33.307554444Z",
+  "model": "glm-5.3"
+}

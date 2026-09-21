@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo chinachitika, pamene Baasha amamva izi, anasiya kumanga ⟨את⟩ Rama, nadikiritsa ⟨את⟩ ntchito yake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "chinachitika"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "pamene amamva"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "anasiya"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "kumanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "nadikiritsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntchito yake"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "ntchito yake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:43:17.477268055Z",
+  "model": "glm-5.3"
+}

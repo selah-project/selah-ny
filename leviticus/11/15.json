@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "⟨את⟩ kokha kwa korake, monga mtundu wake.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kokha kwa korake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kokha"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kwa korake"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "monga mtundu wake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:33:46.701252217Z",
+  "model": "glm-5.3"
+}

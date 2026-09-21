@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndipo Yaakobu anawopseza kwakukulu, naperewera mtima; ndipo anagawaniza ⟨את⟩ anthu amene ⟨את⟩ ali naye, ndi ⟨את⟩ nkhosa, ndi ⟨את⟩ ng'ombe, ndi ngamira, kukhala m'magulu awiri.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "anawopseza"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwakukulu"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "naperewera mtima"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chake"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "anagawaniza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ali naye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nkhosa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ng'ombe"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "ndi ngamira"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "m'magulu a kukhala"
+    }
+  ],
+  "timestamp": "2026-09-21T05:58:01.918414034Z",
+  "model": "glm-5.3"
+}

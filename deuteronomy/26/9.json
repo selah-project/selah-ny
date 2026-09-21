@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo anatilowetsa ku malo uyu, natipatsa ife ⟨את⟩ dziko ili, dziko lakukhalitsa kukhazikika ⟨⟨⟩⟩ dziko lakuyalidwa mkaka ndi uchi.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "anatilowetsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "malo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "natipatsa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ili"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "lakuyalidwa"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mkaka"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ndi uchi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:26:30.868695402Z",
+  "model": "glm-5.3"
+}

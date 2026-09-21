@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Ndipo Hamori, atate wa Shekemu, anatuluka kwa Yaakob kulankhula ndi ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "anatuluka"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamori"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atate wa"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kulankhula"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ndi ⟨אתו⟩",
+      "marks": "Yaakob"
+    }
+  ],
+  "timestamp": "2026-09-21T05:59:13.239401889Z",
+  "model": "glm-5.3"
+}

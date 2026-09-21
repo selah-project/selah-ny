@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "M'Gati musanene, musalire; kwa inu okhala m'Beit-leAfara, phulusi mudzaphulula m'menemo.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "M'Gati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "nene"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "lira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "lira"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "m'Beit"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "leAfara"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "phulusi"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "mudzaphulula m'menemo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:29:06.736023697Z",
+  "model": "glm-5.3"
+}

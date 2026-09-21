@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 94,
+  "translation": "Amene adakatsa khutu, kodi samamva? Kapena amene anapanga diso, kodi saona?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "amene adakatsa"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "khutu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "kodi si-"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "amamva"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kapena amene"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "עין",
+      "gloss": "diso"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "kodi si-"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "amaona"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:59.207424628Z",
+  "model": "glm-5.3"
+}

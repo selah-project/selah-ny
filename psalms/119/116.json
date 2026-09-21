@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 116,
+  "ref": "psalms 119:116",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ndichirikizeni monga mawu anu, ndipo ndidzakhala ndi moyo; ndipo usandinyoze pa chiyembekezo changa.",
+  "tokens": [
+    {
+      "surface": "סמכני",
+      "gloss": "Ndichirikizeni"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "monga mawu anu"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "ndipo ndidzakhala ndi moyo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo usan-"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "-dinyoze"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "pa chiyembekezo changa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:48.194293075Z",
+  "model": "glm-5.3"
+}

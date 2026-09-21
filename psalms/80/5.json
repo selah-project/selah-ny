@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 80,
+  "translation": "Yahwe Elohim Tsevaoti, mpaka liti udzafuta utsi ⟨chifukwa cha⟩ pemphero la anthu ako?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "liti"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "udzafuta utsi"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "pemphero"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "la anthu ako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:38.837407703Z",
+  "model": "glm-5.3"
+}

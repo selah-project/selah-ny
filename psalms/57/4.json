@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 57,
+  "translation": "Adzatuma kumwamba ⟨Elohim⟩ ndi adzandipulumutsa; wodzudzula ine adzalankhulidwa. Selah. Elohim adzatuma khesedi wake ndi choonadi chake.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Adzatuma"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "ndi adzandipulumutsa"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "wodzudzula"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "ine adzalankhulidwa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "adzatuma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi wake"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "ndi choonadi chake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:51.700727897Z",
+  "model": "glm-5.3"
+}

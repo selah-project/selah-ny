@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Lemekeza ⟨את⟩ Yahwe ndi chuma chako, ndi ndi zipatso zoyamba za zipatso zonse zako.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Lemekeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "ndi chuma chako"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "ndi ndi zipatso zoyamba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "za zonse"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "za zipatso zako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:59.757575973Z",
+  "model": "glm-5.3"
+}

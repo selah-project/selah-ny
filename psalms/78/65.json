@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Ndipo Adonayi anadzuka ngati wodzera, monga wamphamvu wolira chifukwa cha vinyo.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "anadzuka"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "ngati wodzera"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "monga wamphamvu"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "wolira"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "chifukwa cha vinyo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:53.370245999Z",
+  "model": "glm-5.3"
+}

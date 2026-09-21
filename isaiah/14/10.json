@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Onse adzayankha nadzati kwa iwe: “Iwe nomwe wadwala ngati ife; kwa ife wafanana nafe.”",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "onse"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "adzayankha"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nadzati"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "wadwala"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "ngati ife"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kwa ife"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "wafanana nafe"
+    }
+  ],
+  "timestamp": "2026-09-21T09:05:20.776655650Z",
+  "model": "glm-5.3"
+}

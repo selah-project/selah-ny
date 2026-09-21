@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 10:17",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo kuwala kwa Yisraeli kuzakhala moto, ndi Wopatulika wake kuŵala laka la moto; ndikoledwa, kudzadya chisa cha nsana ndi chisa chake cha mahuta tsiku limodzi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ndipo kuzakhala"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kuwala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kwa Yisraeli"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "וקדושו",
+      "gloss": "ndi Wopatulika wake"
+    },
+    {
+      "surface": "ללהבה",
+      "gloss": "la kuŵala laka la moto"
+    },
+    {
+      "surface": "ובערה",
+      "gloss": "kuzayedwa"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "kudzadya"
+    },
+    {
+      "surface": "שיתו",
+      "gloss": "chisa cha nsana chake"
+    },
+    {
+      "surface": "ושמירו",
+      "gloss": "chisa chake cha mahuta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "limodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T09:06:26.011237694Z",
+  "model": "glm-5.3"
+}

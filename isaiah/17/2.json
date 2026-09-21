@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 17:2",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Mizi ya Aroeri yasowyedwa; idzakhala kwa mafulu, nadzagona, ndipo palibe wochititsa mantha.",
+  "tokens": [
+    {
+      "surface": "עזבות",
+      "gloss": "yasowyedwa"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "Mizi"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroeri"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "kwa mafulu"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "idzakhala"
+    },
+    {
+      "surface": "ורבצו",
+      "gloss": "nadzagona"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "wochititsa mantha"
+    }
+  ],
+  "timestamp": "2026-09-21T09:08:55.601774988Z",
+  "model": "glm-5.3"
+}

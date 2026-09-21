@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 27:33",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Sadzayang'ana ubwino kapena woipa, ndipo sadzachisintha; koma ngati wachisintha ndithu, chomwecho ndi chotchulidwira chake chikhale chopatulika; sichidzikululukidwa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sadza- (sitsutsa)"
+    },
+    {
+      "surface": "יבקר",
+      "gloss": "-yang'ana"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ubwino"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "woipa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sadza-"
+    },
+    {
+      "surface": "ימירנו",
+      "gloss": "-chisintha"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "koma ngati"
+    },
+    {
+      "surface": "המר",
+      "gloss": "wachisintha"
+    },
+    {
+      "surface": "ימירנו",
+      "gloss": "wachisintha ndithu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "chikhale"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chomwecho"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "ndi chotchulidwira chake"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "chikhale"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chopatulika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "-dikululukidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:47:45.163251199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ikakhala kuti Adonayi wasambitsa ⟨את⟩ chitsitsi cha akazi a Tsiyoni, ndipo ⟨את⟩ magazi a Yerushalayimu watsekereza m'mkati mwake, mwa mzimu wa chiweruzo ndi mwa mzimu wa kuwotcha.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ikakhala kuti"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "wasambitsa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chitsitsi cha akazi a Tsiyoni"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "chitsitsi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "cha akazi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "a Tsiyoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "magazi a Yerushalayimu"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "magazi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Yerushalayimu"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "watsekereza"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "m'mkati mwake"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "mwa mzimu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "wa chiweruzo"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "ndi mwa mzimu"
+    },
+    {
+      "surface": "בער",
+      "gloss": "wa kuwotcha"
+    }
+  ],
+  "timestamp": "2026-09-21T09:04:04.145763643Z",
+  "model": "glm-5.3"
+}

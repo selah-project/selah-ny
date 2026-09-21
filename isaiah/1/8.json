@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo wosala adzakhalabe mwana wamkazi wa Tsiyoni monga chihema m'munda wa mphesa, monga malo ogona m'munda wa mikhwanje, monga mzinda wozingidwa.",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "ndipo wosala"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "monga chihema"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "m'munda wa mphesa"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "monga malo ogona"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "m'munda wa mikhwanje"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "monga mzinda"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "wozingidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:02:00.186468774Z",
+  "model": "glm-5.3"
+}

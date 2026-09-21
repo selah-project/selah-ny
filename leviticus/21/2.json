@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Koma yekha waubale wake woyandikana naye: amake, ndi atate wake, ndi mwana wake, ndi mwana wake wamkazi, ndi m'bale wake wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Koma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yekha"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "waubale wake"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "woyandikana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "amake"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "ndi atate wake"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "ndi mwana wake"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "ndi mwana wake wamkazi"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "ndi m'bale wake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:14.789344533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Izi ndi malamulo amene Yahwe adamira ⟨את⟩ Moshe kwa ana a Yisraeli, pa phiri la Sinayi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "malamulo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "adamira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pa phiri la"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinayi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:47:45.163626205Z",
+  "model": "glm-5.3"
+}

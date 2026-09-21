@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo ndinadana ndi ⟨את⟩ moyo, chifukwa choipa kwa ine ntchito yomwe yachitidwa pansi pa dzuwa; chifukwa zonse ndi heveli ndi kusautsa mzimu.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "ndinadana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "yomwe yachitidwa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dzuwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "heveli"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "kusautsa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:33.319706033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "M'mabwalo a udzu wokhirikiriwa adzandikhaltsa; madzi ofewa adzanditsogolera.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "m'mabwalo"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "udzu wokhirikiriwa"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "adzandikhaltsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "ofewa"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "adzanditsogolera"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:26.244620521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-kings 17:38",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo pangano limene ndinapanga ⟨את⟩ ndi inu, musalikire; ndipo musaope milungu ina.",
+  "tokens": [
+    {
+      "surface": "והברית",
+      "gloss": "ndi pangano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "ndinapanga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musali-"
+    },
+    {
+      "surface": "תשכחו",
+      "gloss": "kire"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo musa-"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ope"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "milungu"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ina"
+    }
+  ],
+  "timestamp": "2026-09-21T08:55:58.227095214Z",
+  "model": "glm-5.3"
+}

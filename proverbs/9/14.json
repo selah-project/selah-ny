@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndi kukhala pa khomo la nyumba yake, pa mpando pa mapiri a mzinda.",
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "ndi kukhala"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "pa khomo"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "la nyumba yake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "mpando"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "pa mapiri"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "a mzinda"
+    }
+  ],
+  "timestamp": "2026-09-21T11:20:16.984030143Z",
+  "model": "glm-5.3"
+}

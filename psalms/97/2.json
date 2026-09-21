@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 97,
+  "translation": "Mitambo ndi mdima kuzungulira kwake; chilungamo ndi chiweruzo ndi maziko a mpando wake wachifumu.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "Mitambo"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ndi mdima wakuda"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "kuzungulira kwake"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "chilungamo"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ndi chiweruzo"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "maziko"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "mpando wake wachifumu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:18.409081056Z",
+  "model": "glm-5.3"
+}

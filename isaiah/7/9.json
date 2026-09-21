@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 7:9",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo mutu wa Ephrayimu ndi Shomeroni, ndipo mutu wa Shomeroni ndi mwana wa Remaljah; ngati simukhulupirira, ndithu simudzakhazikika.",
+  "tokens": [
+    {
+      "surface": "וראש",
+      "gloss": "ndipo mutu wa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrayimu"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeroni"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "ndipo mutu wa"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeroni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaljah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "mukhulupirira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תאמנו",
+      "gloss": "mudzakhazikika"
+    }
+  ],
+  "timestamp": "2026-09-21T09:02:46.899171854Z",
+  "model": "glm-5.3"
+}

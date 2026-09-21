@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "chifukwa ⟨את⟩ dziko lonse limene ukupenya — kwa iwe ndidzakupatsa, ndi ku mbewu yako, mpaka kalekale.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko lonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ukupenya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "ndidzakupatsa"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "ndi ku mbewu yako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kalekale"
+    }
+  ],
+  "timestamp": "2026-09-21T05:46:19.234370660Z",
+  "model": "glm-5.3"
+}

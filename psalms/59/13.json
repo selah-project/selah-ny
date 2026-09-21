@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 59,
+  "translation": "Chimwero cha kamwa mwawo, mawu a milomo yawo; alandidwe m'kudzikuza kwawo, ndipo m'kutemberera ndi m'kubodza akuyankhula.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "chimwero"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "kamwa mwawo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "milomo yawo"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "alandidwe"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "m'kudzikuza kwawo"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "m'kutemberera"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "m'kubodza"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "akuyankhula"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:10.994519131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 55,
+  "translation": "Pakuti monga kumwamba kuliposa dziko lapansi, momwemonso njira zanga ziliposa njira zanu, ndipo maganizo anga ⟨ndi⟩ oposa maganizo anu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "kuliposa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "momwemonso"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ziliposa"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "njira zanga"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "njira zanu"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "ndipo maganizo anga"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "maganizo anu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:22:56.675253138Z",
+  "model": "glm-5.3"
+}

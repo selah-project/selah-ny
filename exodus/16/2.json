@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo gulu lonse la ana a Yisraeli linadandaula pa Moshe ndi pa Aharoni m'chipululu.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "linadandaula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "gulu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "m'chipululu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:14:36.636534353Z",
+  "model": "glm-5.3"
+}

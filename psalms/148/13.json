@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 148,
+  "translation": "Alemekeze ⟨את⟩ dzina la Yahwe, pakuti dzina lake lokha lili lokwezedwa; ulemerero wake uli pamwamba pa dziko lapansi ndi kumwamba.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Alemekeze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dzina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "lili lokwezedwa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dzina lake"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "lokha"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ulemerero wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamwamba pa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "ndi kumwamba"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:27.154513723Z",
+  "model": "glm-5.3"
+}

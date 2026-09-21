@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo anthu anati kwa Yehoshuwa: “⟨את⟩ Yahwe, Elohim wathu, tidzamutumikira, ndipo mawu ake tidzamvera.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "anati"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "tidzamutumikira"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "ndipo mawu ake"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "tidzamvera"
+    }
+  ],
+  "timestamp": "2026-09-21T07:44:46.603839376Z",
+  "model": "glm-5.3"
+}

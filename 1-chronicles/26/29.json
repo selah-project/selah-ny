@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 26:29",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Kwa aYitsahari, Kenanya ndi ana ake anali ⟨pa⟩ ntchito yakunja kwa Yisraeli, kukhala akatswiri ndi aweruzi.",
+  "tokens": [
+    {
+      "surface": "ליצהרי",
+      "gloss": "Kwa aYitsahari"
+    },
+    {
+      "surface": "כנניהו",
+      "gloss": "Kenanya"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ndi ana ake"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "ya ntchito"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "yakunja"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לשטרים",
+      "gloss": "akatswiri"
+    },
+    {
+      "surface": "ולשפטים",
+      "gloss": "ndi aweruzi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:35:20.199469838Z",
+  "model": "glm-5.3"
+}

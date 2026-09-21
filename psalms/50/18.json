@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 50,
+  "translation": "Ukaona mbava, unathamanga nawe, ndipo ndi odanirana ukwati gawo lako lili.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "uka-"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ukaona"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "mbava"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "unathamanga"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "odanirana ukwati"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "gawo lako lili"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:50.052327444Z",
+  "model": "glm-5.3"
+}

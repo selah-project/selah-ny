@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo mfumu inachotsa ⟨את⟩ chizindikiro chake chomwe inachotsa kwa Hamani, nadzapatsa Mordekai; ndipo Esteri inaika ⟨את⟩ Mordekai pa nyumba ya Hamani.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "inachotsa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chizindikiro chake"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "chizindikiro chake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chomwe"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "inachotsa"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "kwa Hamani"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "nadzapatsa"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kwa Mordekai"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "ndipo inaika"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ya Hamani"
+    }
+  ],
+  "timestamp": "2026-09-21T12:02:05.234511076Z",
+  "model": "glm-5.3"
+}

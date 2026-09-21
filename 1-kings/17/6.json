@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo zipatua amamubweretsa mkate ndi nyama mmawa, ndi mkate ndi nyama madzulo; ndipo m'munda wa madzi amamumwa.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "Ndipo zipatua"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "amamubweretsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ndi nyama"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mmawa"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "ndi mkate"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ndi nyama"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "madzulo"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ndipo m'munda"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "wa madzi"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "amamumwa"
+    }
+  ],
+  "timestamp": "2026-09-21T08:41:17.704973508Z",
+  "model": "glm-5.3"
+}

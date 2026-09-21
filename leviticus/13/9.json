@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Chilonda cha tsaraati ngati chili m'munthu, ndipo adzayedwa kwa wansembe.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "chilonda"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "chili"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "m'munthu"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "ndipo adzayedwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:36:42.709045001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 68,
+  "translation": "Elohim amatipatsa okhalaekha malo m'nyumba, amatulutsa odzala m'mbondomunsi m'chimwemwe; koma osamvera akhala m'dziko louma.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "amatipatsa okhalaekha malo"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "okhalaekha"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "amatulutsa"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "odzala m'mbondomunsi"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "m'chimwemwe"
+    },
+    {
+      "surface": "אך",
+      "gloss": "koma"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "osamvera"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "akhala"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "m'dziko louma"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:40.632213237Z",
+  "model": "glm-5.3"
+}

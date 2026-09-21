@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Mutu wa mawu anu ndi choonadi; ndipo mpaka kalekale chilamuliro chilichonse cha cholungama chanu chimalimbika.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Mutu"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "wa mawu anu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "choonadi"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "ndipo mpaka kalekale"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chilichonse"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chilamuliro"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "cha cholungama chanu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:12.453514678Z",
+  "model": "glm-5.3"
+}

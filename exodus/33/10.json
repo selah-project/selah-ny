@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Ndipo anthu onse anaona ⟨את⟩ chipilala cha mkaka chimaima pa khomo la hema, ndipo anthu onse anauka, nadzala mapazi, munthu aliwonse pa khomo la hema yake.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Ndipo anaona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chipilala"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "chipilala"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "cha mkaka"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "chimaima"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pa khomo"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "la hema"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "anauka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "nadzala mapazi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu aliwonse"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pa khomo"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "la hema yake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:25:30.315663437Z",
+  "model": "glm-5.3"
+}

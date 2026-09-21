@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Udzakhala wodala koposa mwa anthu onse; wozala sadzakhalapo mwa iwe, mwamuna kapena mkazi, kapena m'nyama zako.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "wodala"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "udzakhala"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "koposa mwa"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "anthu onse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadzakhalapo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sadzakhalapo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mwa iwe"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "wozala mwamuna"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "kapena wozala mkazi"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "kapena m'nyama zako"
+    }
+  ],
+  "timestamp": "2026-09-21T07:18:33.697599141Z",
+  "model": "glm-5.3"
+}

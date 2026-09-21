@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo wansembe wodzozedwa adzalowetsa magazi a paru ku hema ya msonkhano.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Ndipo adzalowetsa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "wodzozedwa"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "magazi a"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "paru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya msonkhano"
+    }
+  ],
+  "timestamp": "2026-09-21T06:31:45.068579965Z",
+  "model": "glm-5.3"
+}

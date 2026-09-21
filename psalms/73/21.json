@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 73,
+  "translation": "Pakuti mtima wanga unafiyira, ndipo maulo anga anandunda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "unafiyira"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "ndipo maulo anga"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "anandunda"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:18.949521070Z",
+  "model": "glm-5.3"
+}

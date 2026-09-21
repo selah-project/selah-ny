@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 147,
+  "translation": "Yahwe amamanga Yerushalayimu, ndipo akusonkhanitsa ommyala a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "amamanga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "ommyala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "akusonkhanitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:02.701296078Z",
+  "model": "glm-5.3"
+}

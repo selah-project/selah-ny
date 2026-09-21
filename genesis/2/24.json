@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Chifukwa cha izi mwamuna adzasiya ⟨את⟩ atate wake ndi ⟨את⟩ amayi wake, nadzamangirira ndi mkazi wake, ndipo adzakhala thupi limodzi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Chifukwa cha"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izi"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "adzasiya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mwamuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atate wake"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atate wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "amayi wake"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "amayi wake"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "nadzamangirira"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "ndi mkazi wake"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "thupi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "limodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:25.148928104Z",
+  "model": "glm-5.3"
+}

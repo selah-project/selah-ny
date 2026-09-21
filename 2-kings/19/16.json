@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 19:16",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Yahwe, tsempanitsa khutu lako, ndipo mvera; tsegula, Yahwe, maso ako, ndipo penya; ndipo mvera ⟨את⟩ mawu a Sankheribu, amene anamutumiza kuti akatemberere Elohim wamoyo.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "tsempanitsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "khutu lako"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ndipo mvera"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "tsegula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "maso ako"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ndipo penya"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ndipo mvera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu a Sankheribu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sankheribu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "anamutumiza"
+    },
+    {
+      "surface": "לחרף",
+      "gloss": "kuti akatemberere"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wamoyo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:57:43.789017414Z",
+  "model": "glm-5.3"
+}

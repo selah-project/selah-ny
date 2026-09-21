@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Sidzabikidwa ndi chifirimira; gawo lawo ndinapereka ⟨את⟩ ichi m'zopereka zanga za moto; chopatulika koposa ndi ichi, monga nsembe ya tchimo ndi monga ya mphoso.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "dzabikidwa"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ndi chifirimira"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "gawo lawo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndinapereka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ichi (nsembe iyi)"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "m'zopereka zanga za moto"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chopatulika"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "koposa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndi ichi"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "monga nsembe ya tchimo"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "ndi monga ya mphoso"
+    }
+  ],
+  "timestamp": "2026-09-21T06:31:47.809078243Z",
+  "model": "glm-5.3"
+}

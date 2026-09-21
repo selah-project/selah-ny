@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo dziko lapansi lidzayankha ⟨את⟩ tirigu, ndi ⟨את⟩ vinyo watsopano, ndi ⟨את⟩ mafuta a mame; ndipo iwo adzayankha ⟨את⟩ Yizreeli.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "ndipo dziko lapansi"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "lidzayankha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tirigu"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "tirigu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "vinyo watsopano"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "vinyo watsopano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mafuta a mame"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "mafuta a mame"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ndipo iwo"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "adzayankha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yizreeli"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreeli"
+    }
+  ],
+  "timestamp": "2026-09-21T10:20:15.946429146Z",
+  "model": "glm-5.3"
+}

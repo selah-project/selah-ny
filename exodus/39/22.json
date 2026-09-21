@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndipo anapanga ⟨את⟩ kanzu la efodi, ntchito ya wopalasa, yathunthu ya buluu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanzu la efodi"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "kanzu"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "la efodi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "ya wopalasa"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "yathunthu"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ya buluu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:24.848848019Z",
+  "model": "glm-5.3"
+}

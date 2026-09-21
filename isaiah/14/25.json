@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 14:25",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Kuwonga Ashuru m'dziko langa, ndi pa mapiri anga ndidzamnyalanyala; ndipo linga lake lidzachoka mwa iwo, ndipo mthwalo wake kumphaundi zawo udzatayika.",
+  "tokens": [
+    {
+      "surface": "לשבר",
+      "gloss": "kuwonga"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "m'dziko langa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "mapiri anga"
+    },
+    {
+      "surface": "אבוסנו",
+      "gloss": "ndidzamnyalanyala"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "lidzachoka"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "mwa iwo"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "linga lake"
+    },
+    {
+      "surface": "וסבלו",
+      "gloss": "mthwalo wake"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kumphaundi zawo"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "mphau"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "udzatayika"
+    }
+  ],
+  "timestamp": "2026-09-21T09:05:49.048276522Z",
+  "model": "glm-5.3"
+}

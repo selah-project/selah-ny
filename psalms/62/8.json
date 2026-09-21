@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 62,
+  "translation": "Pa Elohim chipulumutso changa ndi ulemerero wanga; thanthwe la mphamvu yanga, chitetezo changa chili mwa Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "chipulumutso changa"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ndi ulemerero wanga"
+    },
+    {
+      "surface": "צור",
+      "gloss": "thanthwe"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "la mphamvu yanga"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "chitetezo changa"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "mwa Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:20.908173156Z",
+  "model": "glm-5.3"
+}

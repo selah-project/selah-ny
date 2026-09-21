@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Pikudì ya Yahwe njolunjika, zikondweretsa mtima; lamulo la Yahwe ndi loyera, zoŵunikira maso.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "Pikudì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "njolunjika"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "zikondweretsa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "lamulo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "loyera"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "zoŵunikira"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "maso"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:32.746170522Z",
+  "model": "glm-5.3"
+}

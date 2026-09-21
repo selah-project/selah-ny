@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 144,
+  "translation": "La Daudi. Wodala ndi Yahwe, mwala wanga, amene amaphunzitsa manja anga kulimbana, ndi zala anga ku nkhondo.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "La Daudi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Wodala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mwala wanga"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "amene amaphunzitsa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "manja anga"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "kulimbana"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "zala anga"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ku nkhondo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:12.083834554Z",
+  "model": "glm-5.3"
+}

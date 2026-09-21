@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 12:5",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Nyali yodzichepetsedwa m'maganizo a wokhazikika ⟨ndi⟩ yokonzeka kwa amene mapazi awo agwedezeka.",
+  "tokens": [
+    {
+      "surface": "לפיד",
+      "gloss": "nyali"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "yodzichepetsedwa"
+    },
+    {
+      "surface": "לעשתות",
+      "gloss": "m'maganizo a"
+    },
+    {
+      "surface": "שאנן",
+      "gloss": "wokhazikika"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "yokonzeka"
+    },
+    {
+      "surface": "למועדי",
+      "gloss": "kwa amene…agwedezeka"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "mapazi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:34:49.950383264Z",
+  "model": "glm-5.3"
+}

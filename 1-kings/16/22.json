@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo anthu omwe anali kwa Omri analamulira ⟨את⟩ anthu omwe anali kwa Tibni, mwana wa Ginati; ndipo Tibni anafa, ndipo Omri anachita ufumu.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "analamulira"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omwe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "anali kwa"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu omwe anali kwa Tibni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omwe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "anali kwa"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "wa Ginati"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ndipo anafa"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ndipo anachita ufumu"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-09-21T08:42:51.215664175Z",
+  "model": "glm-5.3"
+}

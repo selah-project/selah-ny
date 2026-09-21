@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo mfumu inati: “Mubweretse kwa ine lupanga.” Ndipo anabweretsa ⟨את⟩ lupanga pamaso pa mfumu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "inati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "mubweretse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "lupanga"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "anabweretsa"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "lupanga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:31:45.964235404Z",
+  "model": "glm-5.3"
+}

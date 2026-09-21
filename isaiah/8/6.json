@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Chifukwa anthu awa anakana ⟨את⟩ madzi a Shiloahi amene amayenda mofatsa, nakondwera ndi ⟨את⟩ Retsini ndi mwana wa Remalyahu;",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "anakana"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madzi a Shiloahi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "a Shiloahi"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "amene amayenda"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "mofatsa"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "nakondwera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ndi",
+      "marks": "Retsini"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsini"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ndi mwana"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "wa Remalyahu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:04:37.204596258Z",
+  "model": "glm-5.3"
+}

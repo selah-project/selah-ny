@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 15:7",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Azaraya anagona ndi makolo ake, namukumba ⟨אתו⟩ pamodzi ndi makolo ake m'mudzi wa Davide; ndipo Yotamu mwana wake anachita ufumu m'malo mwake.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "anagona"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaraya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "makolo ake"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "namukumba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iye (Azaraya)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "makolo ake"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "m'mudzi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa Davide"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "anachita ufumu"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotamu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "m'malo mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:53:47.038118920Z",
+  "model": "glm-5.3"
+}

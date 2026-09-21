@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 18:30",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo udzawauza: pamene mukweza ⟨את⟩ mafuta ake mwa iyo, idzawerengedwa kwa Alevi monga zokolola za thiresingolanga ndi monga zokolola za dengu la vinyo.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "udzawauza"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "בהרימכם",
+      "gloss": "pamene mukweza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta ake"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "mafuta ake"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mwa iyo"
+    },
+    {
+      "surface": "ונחשב",
+      "gloss": "idzawerengedwa"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "kwa Alevi"
+    },
+    {
+      "surface": "כתבואת",
+      "gloss": "monga zokolola za"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "thiresingolanga"
+    },
+    {
+      "surface": "וכתבואת",
+      "gloss": "ndi monga zokolola za"
+    },
+    {
+      "surface": "יקב",
+      "gloss": "dengu la vinyo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:01:51.202740578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 46,
+  "translation": "Ndipo Yisraeli anena kwa Yosefe: “Ndidzafa nthawi ino, popeza ndaona ⟨את⟩ nkhope yanu, chifukwa inu mukadabe moyo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anena"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "Ndidzafa"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "nthawi ino"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "ndaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhope yanu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nkhope yanu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "mukadabe"
+    },
+    {
+      "surface": "חי",
+      "gloss": "moyo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:05:05.399383438Z",
+  "model": "glm-5.3"
+}

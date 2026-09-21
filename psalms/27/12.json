@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Musandipatse ku chilakolako cha otsutsa ndi; pakuti mboni zabodza zayimirira pa ine, ndi iwo akupuma chiwawa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musandipatse (osati)"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "musandipatse"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ku chilakolako"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "cha otsutsa ndi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "zayimirira"
+    },
+    {
+      "surface": "בי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "mboni"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "zabodza"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "ndi iwo akupuma"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "chiwawa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:15.075282758Z",
+  "model": "glm-5.3"
+}

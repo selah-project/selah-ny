@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 103,
+  "translation": "La Davide. Dalitsa, moyo wanga, ⟨את⟩ Yahwe; ndi zonse za mkati mwanga, dalitsani ⟨את⟩ dzina lopatulika lake.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "La Davide"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Dalitsa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi zonse"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "za mkati mwanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzina lopatulika lake"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dzina"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "lopatulika lake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:18.403048961Z",
+  "model": "glm-5.3"
+}

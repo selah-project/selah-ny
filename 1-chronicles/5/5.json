@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 5:5",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Mika mwana wake, Reaya mwana wake, Baali mwana wake.",
+  "tokens": [
+    {
+      "surface": "מיכה",
+      "gloss": "Mika"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "Reaya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baali"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:23:48.771465359Z",
+  "model": "glm-5.3"
+}

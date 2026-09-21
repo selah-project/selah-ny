@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo ⟨את⟩ nyanja adamika kuchokera pa chiphazi chakumanja, kum'mawa, mkhalapakhala kumwera.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyanja"
+    },
+    {
+      "surface": "הים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adamika"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "kuchokera pa chiphazi"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "chakumanja"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "kum'mawa"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "mkhalapakhala"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "kumwera"
+    }
+  ],
+  "timestamp": "2026-09-21T12:37:10.437931158Z",
+  "model": "glm-5.3"
+}

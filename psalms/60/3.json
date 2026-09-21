@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 60,
+  "translation": "Elohim, watisiya, watigwaza, wakwiyira; tibweretsero ife.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "watisiya"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "watigwaza"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "wakwiyira"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "tibweretsero"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ife"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:36.641830835Z",
+  "model": "glm-5.3"
+}

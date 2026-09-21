@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo ana a Yisraeli anachotsa ⟨את⟩ Baalimu ndi ⟨את⟩ Ashitarothi, natumikira ⟨את⟩ Yahwe yekha.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "anachotsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalimu"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Ashitarothi"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "Ashitarothi"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "natumikira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yekha"
+    }
+  ],
+  "timestamp": "2026-09-21T08:02:20.489618016Z",
+  "model": "glm-5.3"
+}

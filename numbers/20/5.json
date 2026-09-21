@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 20:5",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo chifukwa chiyani mdatilengedwa <ὲng> kuchokera ku Mitsrayimu kuti mubweretse ⟨אתנו⟩ ku malo oipa awa? Si malo a mbewu, kapena mtengo wa mkuyu, kapena mphesa, kapena mkanira; ndipo madzi alibe okhwa.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "chifukwa chiyani"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "mdatilengedwa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuchokera ku Mitsrayimu"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "kuti mubweretse"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨אתנו⟩",
+      "marks": "ife"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "malo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "oipa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "malo a"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbewu"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "mtengo wa mkuyu"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "mphesa"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "mkanira"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alibe"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "okhwa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:02:26.363547107Z",
+  "model": "glm-5.3"
+}

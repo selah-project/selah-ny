@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo mudzaitana ⟨את⟩ ine, mudzayenda, ndipo mudzapemphera kwa ine, ndipo ndidzakutumikirani ⟨את⟩ — ndidzamvera inu.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "mudzaitana"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ine"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "mudzayenda"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "mudzapemphera"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "ndidzamvera"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "inu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:41:08.056656991Z",
+  "model": "glm-5.3"
+}

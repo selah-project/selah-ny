@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo anatenga ⟨את⟩ Yona nam'taya m'nyanja, ndipo nyanja inalephera mkwiyo wake.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "nam'taya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "m'"
+    },
+    {
+      "surface": "הים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "inalephera"
+    },
+    {
+      "surface": "הים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "mkwiyo wake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:29:20.629728195Z",
+  "model": "glm-5.3"
+}

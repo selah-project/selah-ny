@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 3:18",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo awa ndi mayina a ana a Gershoni m'mafuko awo: Libni ndi Shimei.",
+  "tokens": [
+    {
+      "surface": "ו אלה",
+      "gloss": "Ndipo awa"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mayina a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershoni"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "m'mafuko awo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Libni"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "ndi Shimei"
+    }
+  ],
+  "timestamp": "2026-09-21T06:51:10.657427727Z",
+  "model": "glm-5.3"
+}

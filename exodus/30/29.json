@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo udzawapatulira ⟨אתם⟩, ndipo adzakhalа ⟨opatulika⟩ aopatulika kwambiri; aliyense wakufikirako mu iwo adzapatulika.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "udzawapatulira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "iwo (zinthu zopatulika)"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "adzakhalа"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "opatulika"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "aopatulika kwambiri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "wakufikirako"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mu iwo"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "adzapatulika"
+    }
+  ],
+  "timestamp": "2026-09-21T12:56:22.501852147Z",
+  "model": "glm-5.3"
+}

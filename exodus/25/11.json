@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 25:11",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo uziphima ndi golide woyera ⟨אתו⟩; m'kati ndi kunja muziphima; ndipo upange pa iye chizinga cha golide kozungulira.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Ndipo uziphima"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "sandukolo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "m'kati"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "ndi kunja"
+    },
+    {
+      "surface": "תצפנו",
+      "gloss": "muziphima"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ndipo upange"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "זר",
+      "gloss": "chizinga"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "cha golide"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kozungulira"
+    }
+  ],
+  "timestamp": "2026-09-21T06:19:43.036716731Z",
+  "model": "glm-5.3"
+}

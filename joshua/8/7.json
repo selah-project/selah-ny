@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo inu mudzauka kuchoka m'busha, mudzalanda ⟨את⟩ mzindo; ndipo Yahwe Elohim wanu adzapereka m'dzanja lanu.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Ndipo inu"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "mudzauka"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "kuchoka m'busha"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "mudzalanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mzindo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mzindo"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "adzapereka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "m'dzanja lanu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:36:37.404385814Z",
+  "model": "glm-5.3"
+}

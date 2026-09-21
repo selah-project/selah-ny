@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ndi chiyani mphanyi adzayeretsa njira yake? Ndikuona ⟨את⟩ njira yake monga mwa mawu anu.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "Ndi chiyani"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "adzayeretsa"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mphanyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njira yake"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "njira yake"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "Ndikuona"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "monga mwa mawu anu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:10:12.160292710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo iye analowetsa ⟨את⟩ zopatulidwa za atate ake ndi zopatulidwa zake m'nyumba ya Elohim — siliva ndi golide ndi zinthu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ndipo iye analowetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zopatulidwa"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "zopatulidwa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "za atate ake"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "ndi zopatulidwa zake"
+    },
+    {
+      "surface": "בית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ndi golide"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "ndi zinthu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:41:45.462131655Z",
+  "model": "glm-5.3"
+}

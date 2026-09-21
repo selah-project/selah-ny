@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo anthu a dziko lapansi anamenya ⟨את⟩ onse anapangana pa mfumu Amoni; ndipo anthu a dziko lapansi anakhazikitsa ⟨את⟩ Yoshiyahu mwana wake m'malo mwake.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "anamenya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onse anapangana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "anapangana"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "anakhazikitsa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoshiyahu"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "m'malo mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:58:26.473908052Z",
+  "model": "glm-5.3"
+}

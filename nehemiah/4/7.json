@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 4:7",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo inayesa ndikuimiritsa pansi pamepo, kumbuyo kwa khoma, m'malo otseguka, ndipo ndinaimiritsa ⟨את⟩ anthu m'mabanja mwawo, yense ndi mapanga ake, mikondo yawo, ndi mauta awo.",
+  "tokens": [
+    {
+      "surface": "ואעמיד",
+      "gloss": "ndikuimiritsa"
+    },
+    {
+      "surface": "מתחתיות",
+      "gloss": "pansi pamepo"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "malo"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "kumbuyo kwa"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "khoma"
+    },
+    {
+      "surface": "בצחחיים",
+      "gloss": "m'malo otseguka"
+    },
+    {
+      "surface": "ואעמיד",
+      "gloss": "ndinaimiritsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "למשפחות",
+      "gloss": "m'mabanja mwawo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "חרבתיהם",
+      "gloss": "mapanga awo"
+    },
+    {
+      "surface": "רמחיהם",
+      "gloss": "mikondo yawo"
+    },
+    {
+      "surface": "וקשתתיהם",
+      "gloss": "ndi mauta awo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:18:26.418089988Z",
+  "model": "glm-5.3"
+}

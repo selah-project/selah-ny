@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 149,
+  "translation": "Tchukizani Yah; imbirani kwa Yahwe nyimbo yatsopano; mayamiko ake m'msonkhano wa akhulupirika.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Tchukizani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "imbirani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yatsopano"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "mayamiko ake"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "m'msonkhano wa"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "akhulupirika"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:39.217035125Z",
+  "model": "glm-5.3"
+}

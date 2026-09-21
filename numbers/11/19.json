@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Si tsiku limodzi mudzadya, kapena masiku awiri, kapena masiku asanu, kapena masiku khumi, kapena masiku makumi awiri.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Si"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "limodzi"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "mudzadya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kapena si"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "masiku awiri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kapena si"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "masiku asanu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku asanu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kapena si"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku khumi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kapena si"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi awiri"
+    },
+    {
+      "surface": "יום",
+      "gloss": "masiku makumi awiri"
+    }
+  ],
+  "timestamp": "2026-09-21T06:58:53.454239995Z",
+  "model": "glm-5.3"
+}

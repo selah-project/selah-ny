@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo anthu anakhulupirira, namva kuti Yahwe aweruzo ⟨את⟩ ana a Yisraeli, ndi kuti waona ⟨את⟩ chisoni chawo; nadzichepetsa, nagwadira.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "anakhulupirira"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "namva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "aweruzo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ndi kuti"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "waona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chisoni chawo"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "chisoni chawo"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "nadzichepetsa"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "nagwadira"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:43.002961773Z",
+  "model": "glm-5.3"
+}

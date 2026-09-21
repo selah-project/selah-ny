@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 29:29",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo zovala zopatulika za Aharoni zidzakhala za ana ake aja pa iye, popomera mwa iwo ndi kudzaza mwa iwo ⟨את⟩ manja awo.",
+  "tokens": [
+    {
+      "surface": "ובגדי",
+      "gloss": "ndipo zovala"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "zopatulika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "za"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "zidzakhala"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "za ana ake"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "aja pa iye"
+    },
+    {
+      "surface": "למשחה",
+      "gloss": "popomera"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mwa iwo"
+    },
+    {
+      "surface": "ולמלא",
+      "gloss": "ndi kudzaza"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mwa iwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manja awo"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "manja awo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:22:47.592828914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 1:5",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Adonijahu mwana wa Chagiti anadzikweza, nati: “Ine ndidzachita mfumu.” Ndipo anapanga kwa iye magalimoto ndi apharashi, ndi anthu makumi asanu othamanga pamaso pake.",
+  "tokens": [
+    {
+      "surface": "ואדניה",
+      "gloss": "Ndipo Adonijahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "wa Chagiti"
+    },
+    {
+      "surface": "מתנשא",
+      "gloss": "anadzikweza"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "אמלך",
+      "gloss": "ndidzachita mfumu"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "magalimoto"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "ndi apharashi"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ndi makumi asanu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "רצים",
+      "gloss": "othamanga"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pamaso pake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:30:27.081950965Z",
+  "model": "glm-5.3"
+}

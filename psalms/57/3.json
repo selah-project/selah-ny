@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 57,
+  "translation": "Ndidzaitana kwa Elohim Elyoni, kwa El amene amamaliza ⟨ntchito⟩ pa ine.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "Ndidzaitana"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoni"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kwa El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "amamaliza"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:51.700585968Z",
+  "model": "glm-5.3"
+}

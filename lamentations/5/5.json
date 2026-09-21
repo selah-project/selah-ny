@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Pa makhosi athu tinalondozedwa; tatopa, mpumulo sinaipatsidwa kwa ife.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "makhosi athu"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "tinalondozedwa"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "tatopa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "sinaipatsidwa mpumulo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa ife"
+    }
+  ],
+  "timestamp": "2026-09-21T11:54:24.451981987Z",
+  "model": "glm-5.3"
+}

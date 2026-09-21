@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 76,
+  "translation": "Kwa woyang'anira ⟨⟨⟩ pa zida za kuumba ⟨⟨⟩ mazembero a Asafi, nyimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "pa zida za kuumba"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazembero"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "a Asafi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyimbo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:39.137226530Z",
+  "model": "glm-5.3"
+}

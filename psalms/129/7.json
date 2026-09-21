@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 129,
+  "translation": "Kotero kuti sanadzaze dzanja la wodzesa, kapena chifuwa cha wophatikiza mokwa.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "kotero kuti sa-"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "nadzaze"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "dzanja la"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "wodzesa"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "kapena chifuwa cha"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "wophatikiza mokwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:08.953251740Z",
+  "model": "glm-5.3"
+}

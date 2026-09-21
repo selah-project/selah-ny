@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndinakweza ⟨את⟩ maso anga, ndinaona, ndipo taonani, nyanga zinayi.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "Ndinakweza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maso anga"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maso anga"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ndinaona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ndipo taonani"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "zinayi"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "nyanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:36:43.958780943Z",
+  "model": "glm-5.3"
+}

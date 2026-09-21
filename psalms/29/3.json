@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Mawu a Yahwe ali pamwamba pa ⟨the⟩ madzi; El wa ulemerero wauza mabingu; Yahwe ali pamwamba pa madzi ambiri.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ali pamwamba pa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "wa ulemerero"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "wauza mabingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ali pamwamba pa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ambiri"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:21.599127926Z",
+  "model": "glm-5.3"
+}

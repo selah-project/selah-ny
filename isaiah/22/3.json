@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Atsogoleri anu onse anathawa pamodzi, anamangidwa ku uta; onse amene anapezedwa mwa iwe anamangidwa pamodzi; anathawa kutali.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "Atsogoleri anu"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "anathawa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamodzi"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "ku uta"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "anamangidwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "amene anapezedwa mwa iwe"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "anamangidwa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamodzi"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kutali"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "anathawa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:09:27.034382817Z",
+  "model": "glm-5.3"
+}

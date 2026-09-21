@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo Yahwe adamva mawu a Eliyahu, ndipo moyo wa mwana unabwerera m'thupi mwake, ndipo anakhalanso ndi moyo.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "adamva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "unabwerera"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "wa mwana"
+    },
+    {
+      "surface": "על",
+      "gloss": "m'thupi"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "mwake"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "anakhalanso ndi moyo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:41:50.085255916Z",
+  "model": "glm-5.3"
+}

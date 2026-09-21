@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 39:31",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndipo anayika pa chidindochi ulusi wolemera wa tekheleti, kuikapo pa mutu wovalwa pamwamba, monga momwe Yahwe adalamulira ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "anayika"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa chidindochi"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "ulusi wolemera"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "wa tekheleti"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kuikapo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "mutu wovalwa"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "pamwamba"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "adalamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:34.614461075Z",
+  "model": "glm-5.3"
+}

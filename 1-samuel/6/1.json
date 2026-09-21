@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo chikuta cha Yahwe chinali m'munda wa Afilisiti miyezi isanu ndi iwiri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo chinali"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chikuta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "cha Yahwe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "m'munda wa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilisiti"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "isanu ndi iwiri"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "miyezi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:02:16.786059873Z",
+  "model": "glm-5.3"
+}

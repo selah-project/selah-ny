@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 18:1",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo Yahwe ananena kwa Moshe, nati:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    }
+  ],
+  "timestamp": "2026-09-21T06:39:54.671246134Z",
+  "model": "glm-5.3"
+}

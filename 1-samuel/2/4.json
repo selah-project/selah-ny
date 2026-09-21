@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Mauta a anthu amphamvu aphwanya, ndipo ogwedezeka amangidwa ndi mphamvu.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "mauta"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "a anthu amphamvu"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "aphwanya"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "ndipo ogwedezeka"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "amangidwa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ndi mphamvu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:59:36.526403606Z",
+  "model": "glm-5.3"
+}

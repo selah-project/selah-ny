@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 139,
+  "translation": "Ngati ndikalamba kumwamba, iwe ulipo; ngati ndikapanga mandapo m'Sheoli, taona, iwe ulipo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "ndikalamba"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "iwe ulipo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "ndikapanga mandapo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "m'Sheoli"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "taona, iwe ulipo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:23.518379781Z",
+  "model": "glm-5.3"
+}

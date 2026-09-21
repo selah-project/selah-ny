@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo Yahwe anachita monga mwa liwu la Moshe; ndipo zule zinafa m'nyumba, m'mabwalo ndi m'minda.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "monga mwa liwu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "zinafa"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "zule"
+    },
+    {
+      "surface": "מן",
+      "gloss": "m'"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "מן",
+      "gloss": "m'"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "mabwalo"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ndi m'"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "minda"
+    }
+  ],
+  "timestamp": "2026-09-21T06:10:49.787456503Z",
+  "model": "glm-5.3"
+}

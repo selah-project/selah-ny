@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo m'chigawo chaching'ono cha fuko la Menashe ⟨את⟩ Taanaki ndi ⟨את⟩ malo ake ozungulira, ndi ⟨את⟩ Gati-Rimonu ndi ⟨את⟩ malo ake ozungulira — mizinda iwiri.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "m'chigawo chaching'ono cha"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "fuko la"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanaki"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malo ake ozungulira"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malo ake ozungulira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Gati-Rimonu"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gati"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimonu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malo ake ozungulira"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malo ake ozungulira"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mizinda"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "iwiri"
+    }
+  ],
+  "timestamp": "2026-09-21T07:42:59.305285472Z",
+  "model": "glm-5.3"
+}

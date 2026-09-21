@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 25:19",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo dziko lapansi lidzapereka chipatso chake, ndipo mudzadya kuliira, ndipo mudzakhalabe mokhazikika pa ilo.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "ndipo lidzapereka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "chipatso chake"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ndipo mudzadya"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "kuliira"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "ndipo mudzakhalabe"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "mokhazikika"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pa ilo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:44:56.214618970Z",
+  "model": "glm-5.3"
+}

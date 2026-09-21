@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 116,
+  "translation": "Kwa iwe ndidzapha nsembe ya chiyamiko, ndipo m'dzina la Yahwe ndidzaitana.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "ndidzapha nsembe"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ya chiyamiko"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "ndipo m'dzina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndidzaitana"
+    }
+  ],
+  "timestamp": "2026-09-21T11:08:58.825009679Z",
+  "model": "glm-5.3"
+}

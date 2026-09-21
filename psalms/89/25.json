@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Ndipo chikhulupiriro changa ndi khesedi wanga zidzakhala naye, ndipo mwa Dzina langa nyanga yake idzanyululidwa.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "chikhulupiriro changa"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "khesedi wanga"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "mwa Dzina langa"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "idzanyululidwa"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "nyanga yake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:24.684342074Z",
+  "model": "glm-5.3"
+}

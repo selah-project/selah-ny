@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Yenda, udye m'chimwemwe chakuta chako, ndipo umwe mopanda mtima wine wako, pakuti kale Elohim wakondwera ndi ⟨את⟩ ntchito zako.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Yenda"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "udye"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "m'chimwemwe"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "chakuta chako"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ndipo umwe"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "mopanda"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "wine wako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "kale"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "wakondwera"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntchito zako"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ntchito zako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:42.415744760Z",
+  "model": "glm-5.3"
+}

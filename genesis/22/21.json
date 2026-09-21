@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "⟨את⟩ Utsi wakubadwa yoyamba, ndi ⟨את⟩ Buzi m'bale wake, ndi ⟨את⟩ Kemueli atate wa Aramu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Utsi"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Utsi"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "wakubadwa yoyamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Buzi"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buzi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "m'bale wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Kemueli"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemueli"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atate wa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    }
+  ],
+  "timestamp": "2026-09-21T05:50:21.159736874Z",
+  "model": "glm-5.3"
+}

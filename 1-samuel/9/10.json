@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Shauli anati kwa kapolo wake: “Mawu ako ndi abwino; bwerani, tipitire.” Ndipo anapita ku mudzi umene munali munthu wa Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "kwa kapolo wake"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "abwino"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Mawu ako"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "bwerani"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "tipitire"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "anapita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mudzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "שם",
+      "gloss": "munali"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T08:03:42.520858330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "Pakuti ⟨Iye⟩ adzayima kudzanja lamanja la wosowa, kuti ampulumutse kwa oweruza moyo wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "⟨Iye⟩ adzayima"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "kudzanja lamanja la"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "wosowa"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "kuti ampulumutse"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "kwa oweruza"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moyo wake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:01.210536872Z",
+  "model": "glm-5.3"
+}

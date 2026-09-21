@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 6:4",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo mfumu inati: “Ndi ndani m'boma?” Ndipo Hamani analowa m'boma la nyumba ya mfumu lakunja, kuti akambire mfumu kuti amenge ⟨את⟩ Mordekayi pa mtengo umene unakonzedwa kwa iye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo inati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ndi ndani"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "m'boma"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "Ndipo Hamani"
+    },
+    {
+      "surface": "בא",
+      "gloss": "analowa"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "m'boma"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la nyumba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mfumu"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "lakunja"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti akambire"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "kuti amenge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekayi"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekayi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "mtengo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "unakonzedwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T12:00:25.999269041Z",
+  "model": "glm-5.3"
+}

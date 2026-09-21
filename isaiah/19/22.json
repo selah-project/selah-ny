@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo Yahwe adzamenya ⟨את⟩ Mitsrayimu, kuimenya ndi kuchiritsa; ndipo adzabwerera kwa Yahwe, ndipo adzawamvera, nadzawachiritsa.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "adzamenya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "kuimenya"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "kuchiritsa"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "adzabwerera"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "adzawamvera"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "adzawachiritsa"
+    }
+  ],
+  "timestamp": "2026-09-21T13:12:24.082517738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Amakhala pansi, amasinkhasinkha, ndipo anthu osalakwa amagwa m'manja ake amphamvu.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "amakhala pansi"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "amasinkhasinkha"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ndipo amagwa"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "m'manja ake amphamvu"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "anthu osalakwa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:01.604913763Z",
+  "model": "glm-5.3"
+}

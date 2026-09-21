@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo ananenedwa kwa Davide ⟨את⟩ zimene Ritspah mwana wamkazi wa Aya, mzikana wa Shauli, anachita.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ananenedwa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kwa Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene Ritspah anachita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi wa"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "mzikana wa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:27:37.072798359Z",
+  "model": "glm-5.3"
+}

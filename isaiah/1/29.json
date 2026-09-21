@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 1:29",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Pakuti adzachititswa manyazi chifukwa cha mitengo ya maoni amene munakondwera nayo, ndipo adzachititswa manyazi chifukwa cha minda amene munaisankha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "adzachititswa manyazi"
+    },
+    {
+      "surface": "מאילים",
+      "gloss": "mitengo ya maoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "חמדתם",
+      "gloss": "munakondwera nayo"
+    },
+    {
+      "surface": "ותחפרו",
+      "gloss": "ndipo adzachititswa manyazi"
+    },
+    {
+      "surface": "מהגנות",
+      "gloss": "minda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "munaisankha"
+    }
+  ],
+  "timestamp": "2026-09-21T09:01:50.403602786Z",
+  "model": "glm-5.3"
+}

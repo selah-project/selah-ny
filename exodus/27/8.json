@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Chopanda mkati ndi mabala umachipanga ⟨את⟩ wake; monga anakuonetsa ⟨את⟩ iwe pa phiri, momwemonso achiite.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "chopanda mkati"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "ndi mabala"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "umachipanga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wake",
+      "marks": "altare"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "anakuonetsa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ iwe",
+      "marks": "iwe (Moshe)"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pa phiri"
+    },
+    {
+      "surface": "כן",
+      "gloss": "momwemonso"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "achiite"
+    }
+  ],
+  "timestamp": "2026-09-21T06:21:14.168255666Z",
+  "model": "glm-5.3"
+}

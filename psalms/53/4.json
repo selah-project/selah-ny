@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 53,
+  "translation": "Onse anabwerera m'mbuyo, pamodzi anafowoka; palibe wochita zabwino, palibe ndiyenso yense mmodzi.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Onse"
+    },
+    {
+      "surface": "סג",
+      "gloss": "anabwerera m'mbuyo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamodzi"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "anafowoka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wochita"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zabwino"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ndiyenso"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yense mmodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:58.925232650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "kuti ndidzalalikira madalitso onse a m'zipata za mwana wa Tsiyoni; ndidzakondwera m'chipulumutso chako.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ndidzalalikira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "madalitso a"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "m'zipata za"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "ndidzakondwera"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "m'chipulumutso chako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:19.549760178Z",
+  "model": "glm-5.3"
+}

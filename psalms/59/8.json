@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 59,
+  "translation": "Taonani, amathamutsa ndi pakamwa pawo makhwa; m'milomo yawo muli makhwa; pakuti ndani akumva?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Taonani"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "amathamutsa"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ndi pakamwa pawo"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "makhwa"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "m'milomo yawo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "akumva"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:51.540508458Z",
+  "model": "glm-5.3"
+}

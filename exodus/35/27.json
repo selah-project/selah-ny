@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Ndipo atsogoleri anabweretsa ⟨את⟩ miyala ya shohamu ndi ⟨את⟩ miyala yopezekera, ya ephodi ndi ya chosheni.",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "ndipo atsogoleri"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "anabweretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miyala ya shohamu"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "miyala ya"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shohamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "miyala yopezekera"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "miyala ya"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "yopezekera"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "ya ephodi"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "ndi ya chosheni"
+    }
+  ],
+  "timestamp": "2026-09-21T06:26:20.514259871Z",
+  "model": "glm-5.3"
+}

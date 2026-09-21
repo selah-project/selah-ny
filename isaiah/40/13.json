@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndani anayesa ⟨את⟩ mzimu wa Yahwe, ndi munthu wa uphungu wake ndiye wam'dziwitsa iye?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ndani"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "anayesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mzimu wa Yahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ndi munthu"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "wa uphungu wake"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "wam'dziwitsa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T09:17:43.557473872Z",
+  "model": "glm-5.3"
+}

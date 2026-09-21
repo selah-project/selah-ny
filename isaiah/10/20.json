@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 10:20",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo kudzakhala tsiku lomwelo, zotsalira za Yisraeli ndi opulumuka a m'banja la Yakobo sadzaonjezera kukhulupirira amene anawamenya; koma adzakhulupirira Yahwe, Wopatulika wa Yisraeli, m'choonadi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ndipo kudzakhala"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lomwelo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadzaonjezera"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "kuonjezera"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "konse"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "zotsalira"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "za Yisraeli"
+    },
+    {
+      "surface": "ופליטת",
+      "gloss": "ndi opulumuka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a m'banja"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "la Yakobo"
+    },
+    {
+      "surface": "להשען",
+      "gloss": "kukhulupirira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "amene anawamenya"
+    },
+    {
+      "surface": "ונשען",
+      "gloss": "koma adzakhulupirira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Wopatulika"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "m'choonadi"
+    }
+  ],
+  "timestamp": "2026-09-21T09:06:26.012877139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo Shauli anayankhula kwa Yonathani mwana wake, ndi kwa akapolo ake onse, kuti aphe ⟨את⟩ Davide; koma Yonathani mwana wa Shauli anakonda Davide kwambiri.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "anayankhula"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonathani"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi kwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "akapolo ake"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "kuti aphe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "koma Yonathani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "anakonda"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    }
+  ],
+  "timestamp": "2026-09-21T08:10:17.497625274Z",
+  "model": "glm-5.3"
+}

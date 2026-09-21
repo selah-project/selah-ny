@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Izi ndi nyama zimene mudzadya: ng'ombe, mwana wa nkhosa, ndi mwana wa mbuzi.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Izi"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mudzadya"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "שה",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ndi mwana wa"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "mbuzi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:20:16.884428164Z",
+  "model": "glm-5.3"
+}

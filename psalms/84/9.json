@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 84,
+  "translation": "Yahwe Elohim Tsevaoti, mvera pemphero langa; khululukira nkhwi, Elohim wa Yakobo. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "mvera"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "pemphero langa"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "khululukira nkhwi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:49.242199423Z",
+  "model": "glm-5.3"
+}

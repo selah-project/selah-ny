@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Kajini anatuluka m'manja mwa Yahwe, nakhazikika m'dziko la Nodi, kum'mawa kwa Edeni.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "anatuluka"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajini"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "m'manja mwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nakhazikika"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "la Nodi"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "kum'mawa kwa"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edeni"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:59.614854102Z",
+  "model": "glm-5.3"
+}

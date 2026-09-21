@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 15:10",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Iye anatenga kwa iye ⟨את⟩ zonse izi, nadula ⟨את⟩ pakati, ndipo anaika chidulo chilichonse chozana ndi chanzake; koma ⟨את⟩ ndege sanadulapo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse izi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "ויבתר",
+      "gloss": "nadula"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "zonsezi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakati"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "anaika"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chilichonse"
+    },
+    {
+      "surface": "בתרו",
+      "gloss": "chidulo chake"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kozana ndi"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "chanzake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ndege"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "ndege"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "בתר",
+      "gloss": "dulapo"
+    }
+  ],
+  "timestamp": "2026-09-21T05:48:15.644243550Z",
+  "model": "glm-5.3"
+}

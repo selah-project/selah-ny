@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo adasambitsa kuchokera kumeneko Moshe ndi Aharoni ndi ana ake ⟨את⟩ manja awo ndi ⟨את⟩ mapazi awo.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "adasambitsa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuchokera kumeneko"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ndi Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ndi ana ake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manja awo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "manja awo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mapazi awo"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "mapazi awo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:57:36.616722166Z",
+  "model": "glm-5.3"
+}

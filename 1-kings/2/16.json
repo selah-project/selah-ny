@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "“Ndipo tsopano ine ndipempha pempho limodzi kwa ⟨את⟩ iwe; musandichotere pa nkhope yanga.” Ndipo iye anamulankhula kuti: “Yankhula.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ndipo tsopano"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "pempho"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "limodzi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ndipempha"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "kwa ⟨את⟩ iwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musandichotere"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhope yanga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope yanga"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "anamulankhula"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Yankhula."
+    }
+  ],
+  "timestamp": "2026-09-21T08:31:05.607986519Z",
+  "model": "glm-5.3"
+}

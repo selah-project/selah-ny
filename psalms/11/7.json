@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Pakuti Yahwe ndi wolungama, amakonda chilungamo; woyenera adzaona nkhope yake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "chilungamo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "amakonda"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "woyenera"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "adzaona"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "nkhope yake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:10.942869209Z",
+  "model": "glm-5.3"
+}

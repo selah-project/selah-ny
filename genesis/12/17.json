@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo Yahwe anamenya ⟨את⟩ Paro ndi zimenyedwe zazikulu, ndi ⟨את⟩ nyumba yake, chifukwa cha nkhani ya Sarai, mkazi wa Avraham.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "anamenya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "ndi zimenyedwe"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "zazikulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyumba yake"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "על",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nkhani"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ya Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "wa Avraham"
+    }
+  ],
+  "timestamp": "2026-09-21T05:46:21.634982878Z",
+  "model": "glm-5.3"
+}

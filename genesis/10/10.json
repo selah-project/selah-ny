@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo chiyambi cha ufumu wake kunali Babuloni, Ereki, Akadi ndi Kalne, m'dziko la Shineari.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "kunali"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "chiyambi"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "cha ufumu wake"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babuloni"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "Ereki"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "Akadi"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "Kalne"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko la"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shineari"
+    }
+  ],
+  "timestamp": "2026-09-21T05:46:08.148305702Z",
+  "model": "glm-5.3"
+}

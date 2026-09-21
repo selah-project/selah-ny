@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 112,
+  "translation": "Adasaza ⟨זinthu zake⟩, adapatsa osowa; chilungamo chake chayimirira mpaka kalekale; nyanga yake idzakwezedwa m'ulemerero.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "Adasaza"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adapatsa"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "kwa osowa"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "chilungamo chake"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "mpaka kalekale"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "chayimirira"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "nyanga yake"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "idzakwezedwa"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "m'ulemerero"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:22.091880068Z",
+  "model": "glm-5.3"
+}

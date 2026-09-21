@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Ndidzatimbira khutu langa pa chifananizo; ndidzatsegula pa chisambi chinsinsi changa.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "ndidzatimbira"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "pa chifananizo"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "khutu langa"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ndidzatsegula"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "pa chisambi"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "chinsinsi changa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:10.034598460Z",
+  "model": "glm-5.3"
+}

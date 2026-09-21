@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 73,
+  "translation": "Monga maloto, m'kudzutsa, Adonayi, m'kuuka mudzanyoza chifaniziro chawo.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "monga maloto"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "m'kudzutsa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "m'kuuka"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "chifaniziro chawo"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "mudzanyoza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:20.600542525Z",
+  "model": "glm-5.3"
+}

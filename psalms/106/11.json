@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Madzi anazungulira tsankho zawo; mmodzi wa iwo sanasale.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "anazungulira"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Madzi"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "tsankho zawo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmodzi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "wa iwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "nasale"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:27.271146682Z",
+  "model": "glm-5.3"
+}

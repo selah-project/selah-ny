@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 1:7",
+  "book": "amos",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo ndidzatuma moto pa ukoma wa Aza, ndipo udzadya nyumba zazikulu zake.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ndipo ndidzatuma"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "pa ukoma"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "wa Aza"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ndipo udzadya"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "nyumba zazikulu zake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:24:42.203861894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo anavunda ⟨את⟩ chitsimbanzo cha Habeyali, ndipo anavunda ⟨את⟩ nyumba ya Habeyali, ndipo anaichita kukhala malo a chimbudzi mpaka tsiku lino lero.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "anavunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chitsimbanzo cha Habeyali"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "chitsimbanzo"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "cha Habeyali"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "anavunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba ya Habeyali"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ya Habeyali"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "anaichita kukhala"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "malo a chimbudzi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku lino lero"
+    }
+  ],
+  "timestamp": "2026-09-21T08:50:47.728903305Z",
+  "model": "glm-5.3"
+}

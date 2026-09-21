@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Pakumva kwakhutu, amva mawu ⟨ane⟩; ana a anthu akunja abodzi pamaso panga ⟨podzipereka kwa ine⟩.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "pakumva kwakhutu"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "khutu"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "amva mawu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨ane⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "anthu akunja"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "abodzi pamaso panga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "podzipereka kwa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:46.779384180Z",
+  "model": "glm-5.3"
+}

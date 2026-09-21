@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo Moshe ndi Aharoni anachita monga Yahwe adawalamulira ⟨את⟩ iwo; motero anachita.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ndi Aharoni"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "adawalamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo (Moshe ndi Aharoni)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "motero"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anachita"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:24.439145749Z",
+  "model": "glm-5.3"
+}

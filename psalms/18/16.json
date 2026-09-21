@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 18:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndi onekera miyala ya madzi, nadulidwa maziko a dziko lapansi; ku chidzudzulo chako, Yahwe, ku mpweya wa mzimu wa khumbo lako.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "onekera"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "miyala ya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "ויגלו",
+      "gloss": "nadulidwa"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "maziko"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "a dziko lapansi"
+    },
+    {
+      "surface": "מגערתך",
+      "gloss": "ku chidzudzulo chako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מנשמת",
+      "gloss": "ku mpweya wa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "khumbo lako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:57.623029518Z",
+  "model": "glm-5.3"
+}

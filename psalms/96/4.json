@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 96,
+  "translation": "Pakuti Yahwe ndi wamkulu, ndipo woyenera kutamandidwa kwakukulu; iye ndi wamanenetsa pa milungu yonse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ndipo woyenera kutamandidwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwakukulu"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "wamanenetsa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "milungu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:55.411280315Z",
+  "model": "glm-5.3"
+}

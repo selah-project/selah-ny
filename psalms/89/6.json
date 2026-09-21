@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Ndipo kumwamba kudzalemeza zodabwitsa zako, Yahwe, ndiponso chikhulupiriro chako m'msonkhano wa opatulika.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "Ndipo kumwamba kudzalemeza"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "zodabwitsa zako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "chikhulupiriro chako"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "m'msonkhano wa"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "opatulika"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:45.561903679Z",
+  "model": "glm-5.3"
+}

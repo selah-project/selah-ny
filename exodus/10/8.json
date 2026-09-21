@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo anabwezeretsa ⟨את⟩ Moshe ndi ⟨את⟩ Aharon kwa Paro, ndipo iye anati kwa iwo: “Mukani, mugwire ntchito ⟨את⟩ Yahwe Elohim wanu; koma ndani ndi ndani ndiwo akuyenda?”",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "anabwezeretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Mukani"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mugwire ntchito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ndi ndani"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ndiwo akuyenda"
+    }
+  ],
+  "timestamp": "2026-09-21T06:12:01.852047503Z",
+  "model": "glm-5.3"
+}

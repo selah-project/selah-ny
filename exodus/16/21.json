@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo anachisonkhetsetsa ⟨את⟩ ichi m'mawa ndi m'mawa, munthu aliwonse monga kudya kwake; ndipo pamene dzuwa linatentha, chinasungunuka.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "anachisonkhetsetsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ichi (chakudya chija)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "m'mawa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ndi m'mawa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu aliwonse"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "monga"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "kudya kwake"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "linatentha"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dzuwa"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "chinasungunuka"
+    }
+  ],
+  "timestamp": "2026-09-21T12:56:44.899175175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "⟨את⟩ zaulo za m'munda ⟨את⟩ mitima yake ndi ⟨את⟩ mapazi ake, ndi ⟨את⟩ chiphadzuwa cha khomo la m'munda;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zaulo za m'munda"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "zaulo"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "m'munda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitima yake"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "mitima yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mapazi ake"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "mapazi ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chiphadzuwa cha khomo"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "chiphadzuwa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "khomo"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "la m'munda"
+    }
+  ],
+  "timestamp": "2026-09-21T06:24:14.259193326Z",
+  "model": "glm-5.3"
+}

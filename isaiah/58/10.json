@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 58:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 58,
+  "translation": "ndipo udzatulutsa moyo wako kwa wanjala, ndipo udzakhotsa munthu wosauzidwa; kuwala kwako kudzayamba kum'dima, ndipo mdima wako udzakhala ngati tsikuloja:",
+  "tokens": [
+    {
+      "surface": "ותפק",
+      "gloss": "ndipo udzatulutsa"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "kwa wanjala"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ndipo munthu"
+    },
+    {
+      "surface": "נענה",
+      "gloss": "wosauzidwa"
+    },
+    {
+      "surface": "תשביע",
+      "gloss": "udzakhotsa"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "ndipo kudzayamba"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "kum'dima"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "kuwala kwako"
+    },
+    {
+      "surface": "ואפלתך",
+      "gloss": "ndipo mdima wako"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "ngati tsikuloja"
+    }
+  ],
+  "timestamp": "2026-09-21T09:25:00.828823720Z",
+  "model": "glm-5.3"
+}

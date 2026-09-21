@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ngati umapeza ng'ombe ya mdani wako kapena bulu wake otayika, ubweretsera ndithu kwa iye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "umapeza"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ng'ombe ya"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "mdani wako"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "bulu wake"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "otayika"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ubweretsera"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "ndithu ubwezere"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:20.131370506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Koma ineyo ndinati: Ndagwira ntchito mwachabe, ndathothopa mphamvu zanga pa zopanda pake ndi zaubodza; komatu chiweruzo changa chili ⟨את⟩ Yahwe, ndipo ntchito yanga ⟨את⟩ Elohim wanga.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Koma ineyo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndinati"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "mwachabe"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "Ndagwira ntchito"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "pa zopanda pake"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "ndi zaubodza"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "mphamvu zanga"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ndathothopa"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "komatu"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "chiweruzo changa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "ndipo ntchito yanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim wanga"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T09:21:07.394559001Z",
+  "model": "glm-5.3"
+}

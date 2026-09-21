@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Koma ine ndikhulupirira mwa inu, Yahwe; ndinati: Elohim wanga ndinu inu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Koma ine"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "mwa inu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ndikhulupirira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndinati"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ndinu inu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:39.972316853Z",
+  "model": "glm-5.3"
+}

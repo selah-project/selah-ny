@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo chinachitika, chifukwa achambitsi anaopa ⟨את⟩ Elohim, kuti ⟨iye⟩ anapanga kwa iwo mipeso.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "chinachitika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "anaopa"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "achambitsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "mipeso"
+    }
+  ],
+  "timestamp": "2026-09-21T12:55:32.356321134Z",
+  "model": "glm-5.3"
+}

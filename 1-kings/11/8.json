@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Momwemonso anachitira akazi ake onse akunja, iwo akupereka zozira ndi kupereka nsembe ku milungu yawo.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Momwemonso"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachitira"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "akazi ake"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "akunja"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "akupereka zozira"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "ndi kupereka nsembe"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "ku milungu yawo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:38:54.868692886Z",
+  "model": "glm-5.3"
+}

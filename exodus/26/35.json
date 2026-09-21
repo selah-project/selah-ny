@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 26:35",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndiwe, udzaika ⟨את⟩ gulo kunja kwa chiphadiko, ndipo ⟨את⟩ Menora yotsimikizira gulo, pa mbali yotsata kumwera kwa chihema; ndipo gulo udzaiika pa mbali yakumpoto.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "udzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gulo"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "gulo"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kunja kwa"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "chiphadiko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "Menora"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "Menora"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "yotsimikizira"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "gulo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "mbali"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "kumwera"
+    },
+    {
+      "surface": "והשלחן",
+      "gloss": "ndipo gulo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "udzaiika"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "mbali"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "yakumpoto"
+    }
+  ],
+  "timestamp": "2026-09-21T06:20:42.697709266Z",
+  "model": "glm-5.3"
+}

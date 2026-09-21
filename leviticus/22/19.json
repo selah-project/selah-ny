@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 22:19",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "kuti ikhale yokondweretsa inu: ya makoma, yamphamvu, yopanda chilema, m'ng'ombe, m'nkhosa, kapena m'buzi.",
+  "tokens": [
+    {
+      "surface": "לרצנכם",
+      "gloss": "kuti ikhale yokondweretsa inu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "yopanda chilema"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yamphamvu (yaikulu)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "m'ng'ombe"
+    },
+    {
+      "surface": "בכשבים",
+      "gloss": "m'nkhosa"
+    },
+    {
+      "surface": "ובעזים",
+      "gloss": "kapena m'buzi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:59.614847526Z",
+  "model": "glm-5.3"
+}

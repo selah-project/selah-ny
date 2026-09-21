@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo ana a Yisraeli anapereka kwa Alevi, mcholowa chawo, monga mawu a Yahwe, ⟨את⟩ midzi imeneyi ndi ⟨את⟩ mithango yawo.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "anapereka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "kwa Alevi"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "mcholowa chawo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "monga"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "midzi imeneyi"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "midzi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "imeneyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mithango yawo"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "mithango yawo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:43:06.003705961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 6:17",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo ⟨את⟩ nkhosa yamphongo adzapereka yo nsembe za mtendere kwa Yahwe, pamodzi ndi chinga cha mkate wosatuta; ndipo wansembe adzapereka ⟨את⟩ nsembe yake ya chimango ndi ⟨את⟩ nsembe yake yamadzi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nkhosa yamphongo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "nkhosa yamphongo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "adzapereka yo"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "za mtendere"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "סל",
+      "gloss": "chinga"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "cha mkate wosatuta"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ndipo adzapereka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe yake ya chimango"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "nsembe yake ya chimango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nsembe yake yamadzi"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "nsembe yake yamadzi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:53:15.399661905Z",
+  "model": "glm-5.3"
+}

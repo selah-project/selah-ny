@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 10:20",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Koma Yahwe analimbitsa ⟨את⟩ mtima wa Paro, ndipo sanawatumize ⟨את⟩ ana a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "analimbitsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtima wa Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sanawatumize"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kutumiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T06:12:15.251718833Z",
+  "model": "glm-5.3"
+}

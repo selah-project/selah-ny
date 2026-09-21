@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 25:10",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo mudziyeretsa ⟨את⟩ chaka cha makumi asanu, ndipo mudzalalikira cholereza m'dziko lapansi kwa okhalamo ake onse; yoveli ndiyo idzakhala kwa inu; ndipo mudzabwerera munthu aliyense ku umwini wake, ndipo munthu aliyense ku mbumba yake mudzabwerera.",
+  "tokens": [
+    {
+      "surface": "וקדשתם",
+      "gloss": "mudziyeretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chaka"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "chaka cha"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "makumi asanu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "chaka"
+    },
+    {
+      "surface": "וקראתם",
+      "gloss": "mudzalalikira"
+    },
+    {
+      "surface": "דרור",
+      "gloss": "cholereza"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko lapansi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa onse"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "okhalamo ake"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "yoveli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiyo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "idzakhala"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "mudzabwerera"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu aliyense"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "umwini wake"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ndipo munthu aliyense"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "mbumba yake"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "mudzabwerera"
+    }
+  ],
+  "timestamp": "2026-09-21T06:45:49.086878182Z",
+  "model": "glm-5.3"
+}

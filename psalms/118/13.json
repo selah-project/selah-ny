@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 118,
+  "translation": "Undipensa undipensa kuti ngugwe, koma Yahwe anandithandiza.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "undipensa"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "undipensa"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "kuti ngugwe"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "koma Yahwe"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "anandithandiza"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:10.594225915Z",
+  "model": "glm-5.3"
+}

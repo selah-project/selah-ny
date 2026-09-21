@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ngati ndinabwezera choopa kwa yemwe anali mtendere ndi ine, ndipo ndinamlanditsa mdani wanga wopanda chifukwa,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "ndinabwezera"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "kwa yemwe anali mtendere ndi ine"
+    },
+    {
+      "surface": "רע",
+      "gloss": "choopa"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "ndipo ndinamlanditsa"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "mdani wanga"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "wopanda chifukwa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:35.159003491Z",
+  "model": "glm-5.3"
+}

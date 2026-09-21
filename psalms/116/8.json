@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 116,
+  "translation": "Chifukwa wampulumutsa moyo wanga ku imfa, ⟨את⟩ maso anga kuchokera ku misozi, ⟨את⟩ mapazi anga ku kugwedezeka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chifukwa"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "wampulumutsa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ku imfa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maso anga"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maso anga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchokera ku"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "misozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapazi anga"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mapazi anga"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "ku kugwedezeka"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:35.246836851Z",
+  "model": "glm-5.3"
+}

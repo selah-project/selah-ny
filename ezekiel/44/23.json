@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Ndipo ⟨את⟩ anthu anga adzawaphunzitsa pakati pa chopatulika ndi chamba, ndipo pakati pa chodetsa ndi choyera adzawadziwitsa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "anthu anga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "anthu anga"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "adzawaphunzitsa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chopatulika"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "ndi chamba"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndipo pakati pa"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "chodetsa"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "ndi choyera"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "adzawadziwitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:17:34.111183495Z",
+  "model": "glm-5.3"
+}

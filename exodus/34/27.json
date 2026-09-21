@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 34:27",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Ndipo Yahwe anati kwa Moshe: Lembera iwe mawu awa, chifukwa mwa mawu awa ndinaikirana pangano ndi iwe ndi ⟨את⟩ Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo Yahwe anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Lembera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu awa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mwa (pa)"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kamwa — mwachifuniro"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "ndinaikirana (ndadula)"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ndi iwe ⟨את⟩"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pangano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T06:26:05.196428012Z",
+  "model": "glm-5.3"
+}

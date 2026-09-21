@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Ayamike Yahwe chifukwa cha khesedi wake, ndi zodabwitsa zake kwa ana a anthu.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Ayamike"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi wake"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ndi zodabwitsa zake"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa ana a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:05.145958288Z",
+  "model": "glm-5.3"
+}

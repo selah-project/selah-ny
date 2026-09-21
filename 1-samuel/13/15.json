@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo Shemuweli anauka, nako kayenda kuchokera ku Giligala kupita ku Gibeya ya ku Binyamini; ndipo Shauli anawerenga ⟨את⟩ anthu amene anapezedwa naye, pafupifupi mazana asanu ndi limodzi a anthu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "anauka"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "nako kayenda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchokera"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Giligala"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Gibeya"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamini"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "anawerenga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "amene anapezedwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "pafupifupi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:04:37.188008707Z",
+  "model": "glm-5.3"
+}

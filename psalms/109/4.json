@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "M'malo mwa chikondi changa anditsutsa; koma ine ndine pemphero.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "m'malo mwa"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "chikondi changa"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "anditsutsa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "koma ine"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ndine pemphero"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:24.048945692Z",
+  "model": "glm-5.3"
+}

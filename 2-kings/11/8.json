@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 11:8",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo mudzamizungulira ⟨את⟩ mfumu mozungulira, munthu aliyense ndi zida zake m'dzanja lake; ndipo wolowa m'mizati adzaphedwa; ndipo mudzakhala ⟨את⟩ mfumu potuluka kwake ndi pokhawo.”",
+  "tokens": [
+    {
+      "surface": "והקפתם",
+      "gloss": "mudzamizungulira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "mozungulira"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu aliyense"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "ndi zida zake"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "m'dzanja lake"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "ndipo wolowa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "m'"
+    },
+    {
+      "surface": "השדרות",
+      "gloss": "mizati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "adzaphedwa"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ndipo mudzakhala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfumu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "potuluka kwake"
+    },
+    {
+      "surface": "ובבאו",
+      "gloss": "ndi pokhawo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:52:09.810607992Z",
+  "model": "glm-5.3"
+}

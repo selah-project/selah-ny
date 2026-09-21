@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 101,
+  "translation": "M'mawa ndidzaononga woipa wokha-wokha wa dziko, kuchotsera mu mzinda wa Yahwe anthu onse ochita zoipa.",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "m'mawa"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "ndidzaononga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wokha-wokha\/onse"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "woipa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "kuchotsera"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "mu mzinda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ochita"
+    },
+    {
+      "surface": "און",
+      "gloss": "zoipa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:39.303767531Z",
+  "model": "glm-5.3"
+}

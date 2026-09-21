@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Akutsika kunyanja m'zombo, ochita ntchito m'madzi ambiri —",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "akutsika"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kunyanja"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "m'zombo"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ochita"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "במים",
+      "gloss": "m'madzi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ambiri"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:34.613122835Z",
+  "model": "glm-5.3"
+}

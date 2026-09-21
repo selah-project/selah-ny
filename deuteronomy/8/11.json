@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Dzikhalira weniweni, kuti musaiwale ⟨את⟩ Yahwe Elohim wako, posunga malamulo ake, ndi miweruzo yake, ndi ziphunzitso zake, amene ndikukulamulira lero.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Dzikhalira weniweni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kuti musaiwale — kuti"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "musaiwale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "posunga"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "kusunga"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "malamulo ake"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "ndi miweruzo yake"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ndi ziphunzitso zake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ndikukulamulira"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    }
+  ],
+  "timestamp": "2026-09-21T07:17:23.485282470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo ⟨את⟩ inyama ndi ⟨את⟩ khungu anawotcha ndi moto kunja kwa msasa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "inyama"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "khungu"
+    },
+    {
+      "surface": "העור",
+      "gloss": "khungu"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "anawotcha"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ndi moto"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kunja kwa"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "msasa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:33:42.207716880Z",
+  "model": "glm-5.3"
+}

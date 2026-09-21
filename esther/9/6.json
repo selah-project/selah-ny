@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo m'Shushani wa nkhokwe, Ayuda anapha ndi kuwononga anthu mazana asanu.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "Ndipo m'Shushani"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "wa nkhokwe"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "anapha"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Ayuda"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ndi kuwononga"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "asanu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:01:13.726842287Z",
+  "model": "glm-5.3"
+}

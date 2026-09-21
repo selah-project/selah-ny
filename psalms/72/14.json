@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 72,
+  "translation": "Kuchokera ku chinyengo ndi ku mphulupulu adzawombolitsa moyo wawo, ndipo mwazi wawo udzakhala wofunika pamaso pake.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "Kuchokera ku"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "ndi ku mphulupulu"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "adzawombolitsa"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "moyo wawo"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "ndipo udzakhala wofunika"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "mwazi wawo"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "pamaso pake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:39.311882706Z",
+  "model": "glm-5.3"
+}

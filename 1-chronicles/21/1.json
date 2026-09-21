@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo Satani anayimirira kutsutsana ndi Yisraeli, namulimbikitsa ⟨את⟩ Davide kuwerenga ⟨את⟩ Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "anayimirira"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "Satani"
+    },
+    {
+      "surface": "על",
+      "gloss": "kutsutsana ndi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "namulimbikitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "kuwerenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T12:31:27.809912556Z",
+  "model": "glm-5.3"
+}

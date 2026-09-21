@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 15:37",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "M'masiku amenewa Yahwe anayamba kutuma m'Yudaha Retisini, mfumu ya Aramu, ndi ⟨את⟩ Pekahi mwana wa Remaliyahu.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "M'masiku"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "amenewa"
+    },
+    {
+      "surface": "החל",
+      "gloss": "anayamba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להשליח",
+      "gloss": "kutuma"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "m'Yudaha"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retisini"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ya Aramu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Pekahi"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "Pekahi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "wa Remaliyahu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:55:37.824572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ngati kuba kapezedwa kudzapezedwa m'dzanja lake, kuyambira ng'ombe mpaka bulu, mpaka nkhosa, zamoyo, adzalipira kawiri.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "kapezedwa"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "kudzapezedwa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "m'dzanja lake"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "משור",
+      "gloss": "kuyambira ng'ombe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "bulu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "שה",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "zamoyo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kawiri"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "adzalipira"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:21.440649680Z",
+  "model": "glm-5.3"
+}

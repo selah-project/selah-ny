@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Adzakumwa uchimi wa nyumba yako, ndipo mtsinje wa zokondweretsa zako udzawapatsa madzi.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "Adzakumwa"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "uchimi"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "wa nyumba yako"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "ndipo mtsinje"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "wa zokondweretsa zako"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "udzawapatsa madzi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:37.780940624Z",
+  "model": "glm-5.3"
+}

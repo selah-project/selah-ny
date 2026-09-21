@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Koma anamuwuza kuti: “Ayi, mbuye wathu; akapolo anu anabwera kugula chakudya.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "anamuwuza kuti"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ayi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mbuye wathu"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "akapolo anu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "anabwera"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kugula"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "chakudya"
+    }
+  ],
+  "timestamp": "2026-09-21T06:02:27.842711155Z",
+  "model": "glm-5.3"
+}

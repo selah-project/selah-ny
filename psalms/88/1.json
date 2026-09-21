@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 88,
+  "translation": "Nyimbo, mazamu, la ana a Korah, kwa woyang'anira, pa Machalati lowa, chiphunzitso cha Hemanu wa Ezrahi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyimbo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazamu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "la ana a"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "kwa woyang'anira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalati"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "lowa"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "chiphunzitso"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "cha Hemanu"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "wa Ezrahi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:35.667580507Z",
+  "model": "glm-5.3"
+}

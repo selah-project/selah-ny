@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo chitachitika, popeza anachulukitsa kupemphera pamaso pa Yahwe, Eli anayang'ana ⟨את⟩ kamwa keya.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ndipo chitachitika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "anachulukitsa"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "kupemphera"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ndipo Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "anayang'ana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamwa keya"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "kamwa keya"
+    }
+  ],
+  "timestamp": "2026-09-21T07:58:42.584635256Z",
+  "model": "glm-5.3"
+}

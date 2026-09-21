@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ukayankhe mboni ya bodza pa mnzako.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ukayankhe"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "yankha"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "pa mnzako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mboni"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ya bodza"
+    }
+  ],
+  "timestamp": "2026-09-21T06:14:37.506190577Z",
+  "model": "glm-5.3"
+}

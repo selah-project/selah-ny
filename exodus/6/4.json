@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "“Ndinayikanso ⟨את⟩ pangano langa ⟨את⟩ ndi iwo, kupatsa iwo ⟨את⟩ dziko la Kenakhani, ⟨את⟩ dziko la kukhalawo kwamodzi, limene anakhalamo.”",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ndinayikanso"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "ndinayika pangano langa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangano langa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "pangano langa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ndi iwo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kupatsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko la Kenakhani"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko la"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenakhani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko la kukhalawo kwamodzi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko la"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "kukhalawo kwamodzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "anakhalamo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "m'menemo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:09:26.991275210Z",
+  "model": "glm-5.3"
+}

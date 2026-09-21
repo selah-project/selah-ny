@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Zakudya zosavundika zidzadyedwa ⟨את⟩ masiku asanu ndi awiri onse; ndipo chakavundika sichidzaonekana kwa iwe, ndiponso chimera sichidzaonekana kwa iwe m'malire ako onse.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "Zakudya zosavundika"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zidzadyedwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masiku asanu ndi awiri"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "masiku asanu ndi awiri"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sichidza"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "onekana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "chakavundika"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndiponso sichidza"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "onekana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "chimera"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "m'malire ako onse"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "malire ako"
+    }
+  ],
+  "timestamp": "2026-09-21T06:12:50.290009920Z",
+  "model": "glm-5.3"
+}

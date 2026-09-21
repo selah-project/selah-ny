@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "M'mapiri, m'mabwalo, m'chigwa cha Yorodano, m'mapeto a mapiri, m'chipululu, ndi kumwamba kumwera — Ahiti,eamori, Akanani, Aperizi, Ahivi, ndi Ayebusi.",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "M'mapiri"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "m'mabwalo"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "m'chigwa cha Yorodano"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "m'mapeto a mapiri"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "m'chipululu"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "kumwamba kumwera"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Ahiti"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "eamori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "Akanani"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Aperizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Ahivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Ayebusi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:39:02.075436096Z",
+  "model": "glm-5.3"
+}

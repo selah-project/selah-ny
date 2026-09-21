@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "M'mabangula anga, mafupa anga anamata ku thupi langa.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "m'mabangula"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "anga"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "anamata"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mafupa anga"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "ku thupi langa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:31.022007951Z",
+  "model": "glm-5.3"
+}

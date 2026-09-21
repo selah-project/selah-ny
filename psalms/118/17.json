@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 118,
+  "translation": "Sidzafa, koma ndidzakhala ndi moyo, ndipo ndidzalankhula za ntchito za Yah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dzafa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koma"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ndidzakhala ndi moyo"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "ndipo ndidzalankhula za"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ntchito za"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:22.933419247Z",
+  "model": "glm-5.3"
+}

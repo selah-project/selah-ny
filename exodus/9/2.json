@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Pakuti ngati iwe ukana kuwasulira, ndipo ukadali kuwachirikizira —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ukana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kuwasulira"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "ukadali"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "kuwachirikizira"
+    },
+    {
+      "surface": "בם",
+      "gloss": "iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:11:44.904291034Z",
+  "model": "glm-5.3"
+}

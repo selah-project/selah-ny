@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Ndipo munthu m'ulemunu sabakhala tsiku limodzi; wafanizidwa monga nyama, zatha.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "Ndipo munthu"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "m'ulemunu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sabakhala tsiku limodzi"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "sabakhala tsiku limodzi"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "wafanizidwa"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "monga nyama"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "zatha"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:36.998783500Z",
+  "model": "glm-5.3"
+}

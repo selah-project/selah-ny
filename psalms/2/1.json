@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Chifukwa chiyani amitundu aphulika, ndipo anthu amaganiza zopanda pake?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Chifukwa chiyani"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "aphulika"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amitundu"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ndipo anthu"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "amaganiza"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "zopanda pake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:57.325968851Z",
+  "model": "glm-5.3"
+}

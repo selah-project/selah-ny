@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Koma monga momwe ankuwonongeza ⟨אתו⟩, momwemonso anakula, ndipo momwemonso anafalikira; ndipo anakwiya chifukwa cha ana a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "Koma monga momwe"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ankuwonongeza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iwo (ana a Yisraeli)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "momwemonso"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "anakula"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "momwemonso"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "anafalikira"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "anakwiya"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T06:07:47.030876744Z",
+  "model": "glm-5.3"
+}

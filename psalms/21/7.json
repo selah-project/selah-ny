@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Pakuti mum'muika madalitso ku nthawi zonse; mum'masangalatsa ndi chimwemwe cha ⟨את⟩ nkhope yako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "mum'muika"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "madalitso"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "mum'masangalatsa"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ndi chimwemwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhope yako"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nkhope yako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:13.043984255Z",
+  "model": "glm-5.3"
+}

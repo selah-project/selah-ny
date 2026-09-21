@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 95,
+  "translation": "Pakuti iye ndiye Elohim wathu, ndipo ife ndife anthu oweta ake, ndi nkhosa za dzanja lake; lero, ngati muwumvera mawu ake —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ndipo ife"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "oweta ake"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ndi nkhosa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "za dzanja lake"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "mu mawu ake"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "muwumvere"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:07.321010736Z",
+  "model": "glm-5.3"
+}

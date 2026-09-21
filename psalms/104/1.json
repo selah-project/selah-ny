@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 104,
+  "translation": "Dalitsani, moyo wanga, Yahwe; Yahwe, Elohim wanga, wanuza kwambiri; wavalidwa ulemerero ndi kukongola.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Dalitsani"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "wanuza"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "ulemerero"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ndi kukongola"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "wavalidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:32.548462004Z",
+  "model": "glm-5.3"
+}

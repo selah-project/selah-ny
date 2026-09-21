@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 81,
+  "translation": "Ndipo ndinawasiya m'kukakamiza mtima wawo, ndipo iwo anayenda m'zomangamira zawo.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "ndipo ndinawasiya"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "m'kukakamiza mtima"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "mtima wawo"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ndipo iwo anayenda"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "m'zomangamira zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:33.829765941Z",
+  "model": "glm-5.3"
+}

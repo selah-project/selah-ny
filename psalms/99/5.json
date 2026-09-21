@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 99:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 99,
+  "translation": "Lembedzani Yahwe Elohim wathu, ndipo mulambire pa chidindo cha mapazi ake; wopatulika ndi Iye.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Lembedzani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "ndipo mulambire"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "pa chidindo cha"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "mapazi ake"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "wopatulika"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Iye"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:20.792589242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo El Shadayi adzakudalitsa ⟨את⟩ iwe, ndi kukufalitsa iwe, ndi kukuchulukitsa iwe, kuti ukhale gulu la anthu.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ndipo El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadayi"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "adzakudalitsa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "iwe"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "ndi kukufalitsa iwe"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "ndi kukuchulukitsa iwe"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "kuti ukhale"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "gulu la"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:55:29.431834317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 124,
+  "translation": "Moyo wathu wathawira ngati mbalame, wachokera mu chide cha olanda mbalame; chide chathyoka, ndipo ife tathawira.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Moyo wathu"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "ngati mbalame"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "wathawira"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "mu chide"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "cha olanda mbalame"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "chide"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "chathyoka"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ndipo ife"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "tathawira"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:32.964195330Z",
+  "model": "glm-5.3"
+}

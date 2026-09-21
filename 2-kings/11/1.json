@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Athaliya, mai wa Ahaziya, anaona kuti mwana wake wafa, nadzuka nadzawonongitsa ⟨את⟩ mbewu yonse ya ufumu.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Ndipo Athaliya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mai"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "wa Ahaziya"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wafa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "nadzuka"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "nadzawonongitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbewu yonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbewu"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ya ufumu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:52:59.847237818Z",
+  "model": "glm-5.3"
+}

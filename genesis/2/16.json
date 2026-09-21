@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Yahwe Elohim analamula munthuyo, nati: “Kudya udzadya ⟨מכל⟩ mtengo uliwonse wa m'munda.”",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "analakula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthuyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "wachilichonse"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mtengo"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "wa m'munda"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "udzadya"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kudya udzadya"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:17.319007586Z",
+  "model": "glm-5.3"
+}

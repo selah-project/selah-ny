@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo adavunda ⟨את⟩ nyumba za amuna oyera amene zili m'nyumba ya Yahwe, kumene akazi analukira komweko zambiya za Ashera.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "adavunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba za amuna oyera"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "nyumba za"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "amuna oyera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "m'nyumba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kumene"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "akazi"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "analukira"
+    },
+    {
+      "surface": "שם",
+      "gloss": "komweko"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "zambiya"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "za Ashera"
+    }
+  ],
+  "timestamp": "2026-09-21T09:00:09.326961696Z",
+  "model": "glm-5.3"
+}

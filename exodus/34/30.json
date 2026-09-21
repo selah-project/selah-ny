@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Ndipo Aaroni ndi ana onse a Yisraeli anaona ⟨את⟩ Moshe, ndipo taona, khungu la nkhope yake linaala kuwala; ndipo anaopa kuyandikira kwa iye.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ndipo anaona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaroni"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi onse"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ndipo taona"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "linaala kuwala"
+    },
+    {
+      "surface": "עור",
+      "gloss": "khungu"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "la nkhope yake"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ndipo anaopa"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "kuyandikira"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T06:25:47.183380403Z",
+  "model": "glm-5.3"
+}

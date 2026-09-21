@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 2:31",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Yahwe ananena kwa ine: “Ona, nayamba kupatsa pamaso pako ⟨את⟩ Sichoni ndi ⟨את⟩ dziko lake; yamba kulanda, kulanda dziko lake.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo ananena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "nayamba"
+    },
+    {
+      "surface": "תת",
+      "gloss": "kupatsa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamaso pako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sichoni"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sichoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "dziko lake"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "dziko lake"
+    },
+    {
+      "surface": "החל",
+      "gloss": "yamba"
+    },
+    {
+      "surface": "רש",
+      "gloss": "kulanda"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "kulanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko lake"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "dziko lake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:13:33.565010686Z",
+  "model": "glm-5.3"
+}

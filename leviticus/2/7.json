@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo ngati minchah ya m'chida cha kuzingira ndiye chinsembe chako, ichitidwe ndi soleti ndi mafuta.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ndipo ngati"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minchah"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "chida cha kuzingira"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "chinsembe chako"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "soleti"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ndi mafuta"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ichitidwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:14.227840938Z",
+  "model": "glm-5.3"
+}

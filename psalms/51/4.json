@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 51,
+  "translation": "Chisambitse ⟨kwambiri⟩ ine ndi cholakwa changa, ndi m'uchimo wanga mutiyeretse.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "Chisambitse ine"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "ndi cholakwa changa"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "ndi m'uchimo wanga"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "mutiyeretse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:40.646461473Z",
+  "model": "glm-5.3"
+}

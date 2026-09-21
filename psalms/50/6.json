@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 50,
+  "translation": "Ndipo kumwamba kudzalalikira chilungamo chake, pakuti Elohim ndiye waweruza. Selah.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "kudzalalikira"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "chilungamo chake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "waweruza"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah."
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:40.727647896Z",
+  "model": "glm-5.3"
+}

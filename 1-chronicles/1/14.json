@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "ndi ⟨את⟩ ayabusi, ndi ⟨את⟩ aamori, ndi ⟨את⟩ agirigashi;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ayabusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "ayabusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "aamori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "aamori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "agirigashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "agirigashi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:23:00.208252843Z",
+  "model": "glm-5.3"
+}

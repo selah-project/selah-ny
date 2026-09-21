@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 88,
+  "translation": "Ndalekerezedwa mwa akufa, monga owondedwa akagona m'manda, amene simunawakumbukire so, ndipo iwo adadulidwa m'dzanja lako.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "mwa akufa"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "Ndalekerezedwa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "monga"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "owondedwa"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "akagona"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "m'manda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "munawakumbukire"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "so"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ndipo iwo"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "m'dzanja lako"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "adadulidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:15.641170273Z",
+  "model": "glm-5.3"
+}

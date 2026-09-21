@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Pakuti maso anu ndiwo ona ⟨את⟩ ntchito ya Yahwe yonse yaikulu, imene anachita.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "maso anu"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ndiwo ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntchito yonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "yaikulu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachita"
+    }
+  ],
+  "timestamp": "2026-09-21T07:18:45.475817067Z",
+  "model": "glm-5.3"
+}

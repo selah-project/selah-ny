@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo Bilam anayamura ⟨את⟩ maso ake, ndipo anaona ⟨את⟩ Yisraeli okhala mafuko ake; ndipo mzimu wa Elohim unatsika pa iye.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "anayamura"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maso ake"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "maso ake"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "okhala"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "mafuko ake"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "unatsika"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T07:05:53.775728610Z",
+  "model": "glm-5.3"
+}

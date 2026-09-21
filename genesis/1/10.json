@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Elohim anatcha chomwe chili chouma Dziko lapansi, ndipo chikwanjithe cha madzi anachitcha Nyanja; ndipo Elohim anaona kuti nili zabwino.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "anatcha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "chomwe chili chouma"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Dziko lapansi"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "ndipo chikwanjithe cha"
+    },
+    {
+      "surface": "המים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "anachitcha"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Nyanja"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ndipo anaona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zabwino"
+    }
+  ],
+  "timestamp": "2026-09-21T05:41:49.930805559Z",
+  "model": "glm-5.3"
+}

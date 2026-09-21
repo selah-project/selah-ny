@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 58,
+  "translation": "Osatembenuzika m'malo mwa chilungamo atadukana ndi mimba; amasochera akatuluka mu mimba, akunena zabodza.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "atadukana"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Osatembenuzika m'malo mwa chilungamo"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ndi mimba"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "amasochera"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "mu mimba"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "akunena"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "zabodza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:43.507892168Z",
+  "model": "glm-5.3"
+}

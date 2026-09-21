@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo kunakhalabe madzulo, ndipo kunakhalabe m'mawa — tsiku lachisanu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kunakhalabe"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "madzulo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kunakhalabe"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "m'mawa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "lachisanu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:53:17.753056204Z",
+  "model": "glm-5.3"
+}

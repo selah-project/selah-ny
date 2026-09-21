@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Ndipo anakulupirira mawu ake, nayimba nyimbo ya mayamiko ake.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "anakulupirira"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "mawu ake"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "nayimba"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "nyimbo ya mayamiko ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:27.271270172Z",
+  "model": "glm-5.3"
+}

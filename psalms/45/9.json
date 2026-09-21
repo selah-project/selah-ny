@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 45,
+  "translation": "Mora ndi ahalotsi, katsiya — zipewa zako zonse; m'mipando ya nkhanga ya mano, zida za kuimba nyimbo zidakondweretsa iwe.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "mora"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "ndi ahalotsi"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "katsiya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "zipewa zako"
+    },
+    {
+      "surface": "מן",
+      "gloss": "m'mipando ya"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "mipando"
+    },
+    {
+      "surface": "שן",
+      "gloss": "nkhanga ya mano"
+    },
+    {
+      "surface": "מני",
+      "gloss": "zida za kuimba nyimbo"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "zidakondweretsa iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:58.690385745Z",
+  "model": "glm-5.3"
+}

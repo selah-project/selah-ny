@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndanitulutsa ⟨את⟩ ine ku malo a chiwombolo, anandilanditsa; chifukwa anakondwera nindine.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ndanitulutsa"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "ku malo a chiwombolo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ine",
+      "marks": "ine"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "anandilanditsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "anakondwera"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nindine"
+    }
+  ],
+  "timestamp": "2026-09-21T08:28:25.286040177Z",
+  "model": "glm-5.3"
+}

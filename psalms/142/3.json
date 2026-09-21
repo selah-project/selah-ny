@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 142,
+  "translation": "Nditsegule pamaso pake chidutswa changa, chisautso changa pamaso pake ndichiuza.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "Nditsegule"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pamaso pake"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "chidutswa changa"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "chisautso changa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pamaso pake"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ndichiuza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:17.919393579Z",
+  "model": "glm-5.3"
+}

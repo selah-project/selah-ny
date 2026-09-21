@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 103,
+  "translation": "Monga momwe kum'mawa kuli kutali kum'chere, koteronso anatichotsera kutali kwa ife ⟨את⟩ mphulupulu zathu.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "monga momwe … kutali"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "kum'mawa"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "kum'chere"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "anatichotsera kutali"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kwa ife"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mphulupulu zathu"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "mphulupulu zathu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:28.409808256Z",
+  "model": "glm-5.3"
+}

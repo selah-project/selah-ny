@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "Chinyengo cha makolo ake chikumbutsidwe kwa Yahwe; ndipo tchimo la amake lisachotsedwe.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "chikumbutsidwe"
+    },
+    {
+      "surface": "עון",
+      "gloss": "chinyengo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "cha makolo ake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "ndipo tchimo"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "la amake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "lisachotsedwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:29.565710283Z",
+  "model": "glm-5.3"
+}

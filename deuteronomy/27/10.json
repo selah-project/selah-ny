@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo udzamvera liwu la Yahwe Elohim wako, ndipo udzachita ⟨את⟩ malamulo ake ndi ⟨את⟩ miyambo yake, umene ine ndikulamulira lero.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "udzamvera"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "liwu la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ndipo udzachita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malamulo ake"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "malamulo ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "miyambo yake"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "miyambo yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ndikulamulira"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    }
+  ],
+  "timestamp": "2026-09-21T07:26:37.366711139Z",
+  "model": "glm-5.3"
+}

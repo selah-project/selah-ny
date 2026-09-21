@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Unauza ndi mpweya wako, nyanja inawaphimba; anamerameradi monga mkuwa m'madzi amphamvu.",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "Unauza"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "ndi mpweya wako"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "inawaphimba"
+    },
+    {
+      "surface": "ים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "anamerameradi"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "monga mkuwa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "m'madzi"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "amphamvu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:12:22.921229735Z",
+  "model": "glm-5.3"
+}

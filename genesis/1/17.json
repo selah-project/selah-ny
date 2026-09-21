@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Elohim adaika ⟨את⟩ iwo m'chiphadziko cha kumwamba, kuwala pa dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "adaika"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "m'chiphadziko"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cha kumwamba"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "kuwala"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:41:55.579372686Z",
+  "model": "glm-5.3"
+}

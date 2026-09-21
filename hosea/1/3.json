@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo iye anapita, nalanda ⟨את⟩ Gomeri mwana wa Diblayimu; ndipo iye anayemba, nabala kwa iye mwana.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ndipo iye anapita"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nalanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomeri"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomeri"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Diblayimu"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "anayemba"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nabala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    }
+  ],
+  "timestamp": "2026-09-21T10:21:19.361111770Z",
+  "model": "glm-5.3"
+}

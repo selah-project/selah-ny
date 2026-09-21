@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Ndipo mitsale yonse ya ⟨the⟩ chihema ndi ya ⟨the⟩ bwalo kozungulira anali mkuwa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ndipo yonse"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "mitsale"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ya chihema"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "ndi ya bwalo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kozungulira"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "mkuwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:28:21.679579606Z",
+  "model": "glm-5.3"
+}

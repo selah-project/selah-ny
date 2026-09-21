@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Aminadabu anabala ⟨את⟩ Nakhshoni, ndipo Nakhshoni anabala ⟨את⟩ Salmah.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "Ndipo Aminadabu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakhshoni"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhshoni"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "ndipo Nakhshoni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmah"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salmah"
+    }
+  ],
+  "timestamp": "2026-09-21T13:31:43.117068101Z",
+  "model": "glm-5.3"
+}

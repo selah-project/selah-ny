@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 20:10",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo ndinawatulutsa m'dziko la Mitsrayimu, ndipo ndinawalowetsa ku chilengalenga.",
+  "tokens": [
+    {
+      "surface": "ואוציאם",
+      "gloss": "ndinawatulutsa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "m'dziko la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "ואבאם",
+      "gloss": "ndinawalowetsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "chilengalenga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:03:08.099073284Z",
+  "model": "glm-5.3"
+}

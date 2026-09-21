@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 31:12",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Anthu onse amphamvu anauka, nayenda usiku wonse, natenga ⟨את⟩ thupi la Shauli ndi ⟨את⟩ matumbi a ana ake pa khoma la Beit-Shani, nalowa ku Yabeushi, napisisa ⟨את⟩ iwo iweyo.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "anauka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "amphamvu"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "nayenda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "natenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thupi la Shauli"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "thupi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "la Shauli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "matumbi a ana ake"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "matumbi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "a ana ake"
+    },
+    {
+      "surface": "מחומת",
+      "gloss": "pa khoma"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la Beit-Shani"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Beit-Shani"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "nalowa"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "ku Yabeushi"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "napisisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "thupi la Shauli ndi matumbi a ana ake"
+    },
+    {
+      "surface": "שם",
+      "gloss": "iweyo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:16:18.912917517Z",
+  "model": "glm-5.3"
+}

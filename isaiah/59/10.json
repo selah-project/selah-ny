@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 59:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 59,
+  "translation": "Timasasaza khoma monga akhungu, ndipo monga osanu maso timasasaza; tagwedezeka masana ngati madzulo; mu malo akuda ngati akufa.",
+  "tokens": [
+    {
+      "surface": "נגששה",
+      "gloss": "timasasaza"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "monga akhungu"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "khoma"
+    },
+    {
+      "surface": "וכאין",
+      "gloss": "ndipo monga osanu"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "maso"
+    },
+    {
+      "surface": "נגששה",
+      "gloss": "timasasaza"
+    },
+    {
+      "surface": "כשלנו",
+      "gloss": "tagwedezeka"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "masana"
+    },
+    {
+      "surface": "כנשף",
+      "gloss": "ngati madzulo"
+    },
+    {
+      "surface": "באשמנים",
+      "gloss": "mu malo akuda"
+    },
+    {
+      "surface": "כמתים",
+      "gloss": "ngati akufa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:24:04.791734326Z",
+  "model": "glm-5.3"
+}

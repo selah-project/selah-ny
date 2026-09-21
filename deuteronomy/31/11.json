@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 31:11",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Mmene Yisraeli wonse ungafike kuona ⟨את⟩ nkhope za Yahwe Elohim wako, m'malo amene adzasankha, werengani ⟨את⟩ Tora iyi pamaso pa Yisraeli onse, m'makutu mwawo.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Mmene … ungafike"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhonde za Yahwe Elohim wako"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhonde za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "m'malo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "adzasankha"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "werengani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora iyi"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "m'makutu mwawo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:31:38.314939751Z",
+  "model": "glm-5.3"
+}

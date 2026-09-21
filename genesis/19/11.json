@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo ⟨את⟩ amuna amene anali pa khomo la nyumbayo anawamenya ndi khungu, kwa waing'ono mpaka wamkulu, ndipo anatopa kufunafuna khomo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "amuna"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "amuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pa khomo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la nyumbayo"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "anawamenya"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "ndi khungu"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "kwa waing'ono"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "anatopa"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "kufunafuna"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "khomo"
+    }
+  ],
+  "timestamp": "2026-09-21T05:48:18.060226036Z",
+  "model": "glm-5.3"
+}

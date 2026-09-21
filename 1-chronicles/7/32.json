@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo Kheberi anabala ⟨את⟩ Yafleti, ndi ⟨את⟩ Shomeri, ndi ⟨את⟩ Khotamu, ndi ⟨את⟩ Shua mlongo wawo.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Ndipo Kheberi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yafleti"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yafleti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Shomeri"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Shomeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Khotamu"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Khotamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Shua"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "mlongo wawo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:25:45.008337708Z",
+  "model": "glm-5.3"
+}

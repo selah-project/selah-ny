@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Yahwe Elohim adauditsa munda ku Edeni, kum'mawa; nadzayika komweko ⟨את⟩ munthu amene anamupanga.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "ndipo adauditsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "munda"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "ku Edeni"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "kum'mawa"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nadzayika"
+    },
+    {
+      "surface": "שם",
+      "gloss": "komweko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munthu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "anamupanga"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:23.361184998Z",
+  "model": "glm-5.3"
+}

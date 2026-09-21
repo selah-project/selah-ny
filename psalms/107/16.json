@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Pakuti wathyola zitseko za mkuwa, ndi zibulala zaitsulo wagwetsa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "wathyola"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "zitseko"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "za mkuwa"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "ndi zibulala za"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "itsulo"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "wagwetsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:05.146116352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 148,
+  "translation": "Lemezani iye, dzuwa ndi mwezi; lemezani iye, nyenyezi zonse za kuwala.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "lemezani iye"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "dzuwa"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ndi mwezi"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lemezani iye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "nyenyezi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "za kuwala"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:03.672155021Z",
+  "model": "glm-5.3"
+}

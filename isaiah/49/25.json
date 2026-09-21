@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Pakuti kotero anati Yahwe: ngakhale owoleredwa wa mphamvu adzatengedwa, ndipo cholingedwe cha wachifwamba chidzapulumutsidwa; ndipo ine ndidzatsutsa ndi ⟨את⟩ wotsutsa ndi iwe, ndipo ine ndidzapulumutsa ⟨את⟩ ana ako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kotero"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ngakhale"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "owoleredwa"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "wa mphamvu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "adzatengedwa"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "ndipo cholingedwe"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "wa uchifwamba"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "chidzapulumutsidwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "wotsutsa ndi iwe"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "wotsutsa ndi iwe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ndidzatsutsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana ako"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ana ako"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "ndidzapulumutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:21:31.665467116Z",
+  "model": "glm-5.3"
+}

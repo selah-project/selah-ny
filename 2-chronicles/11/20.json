@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo pambuyo pake iye anatenga ⟨את⟩ Maakaha mwana wa Avishalomi, ndipo iye anamubereka ⟨את⟩ Aviya ndi ⟨את⟩ Atayi ndi ⟨את⟩ Ziza ndi ⟨את⟩ Sholomiti.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "pambuyo pake iye"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maakaha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakaha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avishalomi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "anamubereka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aviya"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Atayi"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Atayi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Ziza"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Ziza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Sholomiti"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Sholomiti"
+    }
+  ],
+  "timestamp": "2026-09-21T12:40:21.234467191Z",
+  "model": "glm-5.3"
+}

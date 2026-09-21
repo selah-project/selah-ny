@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 58:4",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 58,
+  "translation": "Taona, musala kudya kwa kusutsana ndi kukanizana, ndi kukwapula ndi chifisi cha zoipa; simusala kudya monga lero, kuti liwu lanu liamveke pamwamba.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Taona"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "kwa kusutsana"
+    },
+    {
+      "surface": "ומצה",
+      "gloss": "ndi kukanizana"
+    },
+    {
+      "surface": "תצומו",
+      "gloss": "musala kudya"
+    },
+    {
+      "surface": "ולהכות",
+      "gloss": "ndi kukwapula"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "ndi chifisi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "cha zoipa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תצומו",
+      "gloss": "musala kudya"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "monga lero"
+    },
+    {
+      "surface": "להשמיע",
+      "gloss": "kuti liamveke"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "pamwamba"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "liwu lanu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:25:24.603786550Z",
+  "model": "glm-5.3"
+}

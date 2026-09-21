@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Makumi asanu ndiwo mafumu aakazi, ndi makumi anayi aakapolo aakazi, ndi atsikana amene chiwerengero chawo chilibe.",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "makumi asanu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ndiwo"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "mafu aakazi"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ndi makumi anayi"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "aakapolo aakazi"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "ndi atsikana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "chiwerengero"
+    }
+  ],
+  "timestamp": "2026-09-21T11:48:42.910317359Z",
+  "model": "glm-5.3"
+}

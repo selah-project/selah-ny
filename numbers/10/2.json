@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 10:2",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Panga kwako malipenga awiri a siliva; ntchito yodindidwa m'chisombo udzawapanga ⟨את⟩ iwo; ndipo adzakhala kwa iwe pozitana ⟨את⟩ msonkhano ndi posuntha ⟨את⟩ mabisa.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Panga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "חצוצרת",
+      "gloss": "malipenga"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "a siliva"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "ntchito yodindidwa m'chisombo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "udzawapanga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "malipenga awiri a siliva"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "pozitana"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "msonkhano"
+    },
+    {
+      "surface": "ולמסע",
+      "gloss": "ndi posuntha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabisa"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "mabisa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:55:35.385499014Z",
+  "model": "glm-5.3"
+}

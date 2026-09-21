@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Pakuti mwanauyo adziwe kuyitana “Atate” ndi “Amayi”, ⟨את⟩ chuma cha Damasiko ndi ⟨את⟩ zovala za Samariya zidzanyamulidwa pamaso pa mfumu ya Ashuru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "asana"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "adziwe"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mwanauyo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kuyitana"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Atate"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "ndi Amayi"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "zidzanyamulidwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chuma cha Damasiko"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "chuma"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "cha Damasiko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zovala za Samariya"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "zovala"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "za Samariya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ya Ashuru"
+    }
+  ],
+  "timestamp": "2026-09-21T09:04:24.663991980Z",
+  "model": "glm-5.3"
+}

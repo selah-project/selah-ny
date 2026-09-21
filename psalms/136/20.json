@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 136,
+  "translation": "Ndi Ogi, mfumu ya Bashani, chifukwa khesedi wake kukhalabe ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "Ndi Ogi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi wake kukhalabe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:06.318059224Z",
+  "model": "glm-5.3"
+}

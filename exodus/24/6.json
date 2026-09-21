@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndi Moshe anatora theka la magazi, ndiuliika m'mabwalo, ndipo theka la magazi anathira pa guwero la nsembe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anatora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "theka"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "la magazi"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ndiuliika"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "m'mabwalo"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ndipo theka"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "la magazi"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "anathira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwero la nsembe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:57.903816092Z",
+  "model": "glm-5.3"
+}

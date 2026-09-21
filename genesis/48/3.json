@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 48,
+  "translation": "Ndipo Yakobo anati kwa Yosefe: “El Shadayi anaonekera kwa ine ku Luzu, m'dziko la Kenani, ndipo anandidalitsa ⟨את⟩.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadayi"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "anaonekera"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "ku Luzu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko la"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenani"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "anandidalitsa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ine"
+    }
+  ],
+  "timestamp": "2026-09-21T06:05:51.265275220Z",
+  "model": "glm-5.3"
+}

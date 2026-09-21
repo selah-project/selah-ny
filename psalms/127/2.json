@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 127,
+  "translation": "Mwadala kwa inu, omuka mmamawa, ogona manja usiku, odya mkate wa zovuta; mmodzi yemweyo amapereka kwa wokondedwa wake tulo.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "mwadala"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "omuka mmamawa"
+    },
+    {
+      "surface": "קום",
+      "gloss": "omuka"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ogona manja"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "odya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "wa zovuta"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mmodzi yemweyo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "amapereka"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "kwa wokondedwa wake"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "tulo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:08.542450869Z",
+  "model": "glm-5.3"
+}

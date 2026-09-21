@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo ana aamuna a Chetsron amene anabadwa kwa iye: ⟨את⟩ Yerakhmueli, ndi ⟨את⟩ Ramu, ndi ⟨את⟩ Kelubayi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ndipo ana aamuna a"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "anabadwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerakhmueli"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerakhmueli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Ramu"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ramu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Kelubayi"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Kelubayi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:22:57.103080758Z",
+  "model": "glm-5.3"
+}

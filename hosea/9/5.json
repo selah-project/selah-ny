@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Mudzachita chiyani tsiku la chiwonetsero, ndi tsiku la chiwombolo cha Yahwe?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mudzachita"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "tsiku la"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "chiwonetsero"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "ndi tsiku la"
+    },
+    {
+      "surface": "חג",
+      "gloss": "chiwombolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:22:56.239894098Z",
+  "model": "glm-5.3"
+}

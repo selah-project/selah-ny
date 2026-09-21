@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndinati kwa Yahwe: Adonayi Inu ⟨ndinu⟩; ubwino wanga ulibe pambali pa Inu.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Ndinati"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Inu ⟨ndinu⟩"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "ubwino wanga"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ulibe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pambali pa Inu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:14.967341622Z",
+  "model": "glm-5.3"
+}

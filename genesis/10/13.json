@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 10:13",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo Mitsrayimu anabala ⟨את⟩ Aludi ndi ⟨את⟩ Anamimi ndi ⟨את⟩ Lehabimi ndi ⟨את⟩ Naftukhimi.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Ndipo Mitsrayimu"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aludi"
+    },
+    {
+      "surface": "לודים",
+      "gloss": "Aludi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Anamimi"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Anamimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Lehabimi"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Lehabimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Naftukhimi"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Naftukhimi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:45:51.672823868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Ndipo kunali mfumu pomva ⟨את⟩ mawu a Tora, nadzadula ⟨את⟩ zovala zake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kunali"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "pomva"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu a Tora"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "nadzadula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zovala zake"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "zovala zake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:51:22.331151748Z",
+  "model": "glm-5.3"
+}

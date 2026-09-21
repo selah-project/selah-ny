@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Pakuti atate wanga ndi amayi wanga andisiya, koma Yahwe adzandilandira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atate wanga"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "ndi amayi wanga"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "andisiya"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "koma Yahwe"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "adzandilandira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:15.074981787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Koti anabala ⟨את⟩ Anubu ndi ⟨את⟩ Tsobebaha, ndi mibadwo ya Aharheli mwana wa Harumu.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Ndipo Koti"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anubu"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anubu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Tsobebaha"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "Tsobebaha"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "ndi mibadwo ya"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Aharheli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Harumu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:23:50.562636467Z",
+  "model": "glm-5.3"
+}

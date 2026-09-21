@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndipo ⟨את⟩ nyumba ya mfumu ndi ⟨את⟩ nyumba ya anthu Akashedi anayatsa ndi moto, ndipo ⟨את⟩ makholo a Yerushalayimu anagwetsa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyumba ya mfumu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mfumu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyumba ya anthu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya anthu"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "anayatsa"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Akashedi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ndi moto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "makholo a Yerushalayimu"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "makholo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Yerushalayimu"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "anagwetsa"
+    }
+  ],
+  "timestamp": "2026-09-21T13:16:42.623352128Z",
+  "model": "glm-5.3"
+}

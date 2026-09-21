@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 12:7",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo iwe, bwerera kwa Elohim wako; sunga khesedi ndi chilamulo, ndipo dikirira Elohim wako nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ndipo iwe"
+    },
+    {
+      "surface": "באלהיך",
+      "gloss": "kwa Elohim wako"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "bwerera"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesedi"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ndi chilamulo"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "sunga"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "ndipo dikirira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:22:14.072738853Z",
+  "model": "glm-5.3"
+}

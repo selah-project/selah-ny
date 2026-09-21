@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Mfumu yakanati: “Dulani ⟨את⟩ mwana wamoyo kumagawo awiri, ndipo mupatse the half kwa imodzi, ndi ⟨את⟩ the half kwa ina.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yakanati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "dulani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wamoyo"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "החי",
+      "gloss": "wamoyo"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "kumagawo awiri"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "mupatse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "the half"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "the half"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "kwa imodzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "the half"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "the half"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "kwa ina"
+    }
+  ],
+  "timestamp": "2026-09-21T08:32:33.717350354Z",
+  "model": "glm-5.3"
+}

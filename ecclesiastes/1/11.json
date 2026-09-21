@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Palibe chikumbutso cha anthu oyamba; ndiponso za omwe adzakhala kumapeto kwawo, sadzakhala nayo chikumbutso pamodzi ndi iwo akubwera pambuyo pawo.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Palibe"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "chikumbutso"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "cha anthu oyamba"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "za omwe adzakhala kumapeto kwawo"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadzakhala nayo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "chidzakhala"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "chikumbutso"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "iwo akubwera"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "pambuyo pawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:54:49.255674572Z",
+  "model": "glm-5.3"
+}

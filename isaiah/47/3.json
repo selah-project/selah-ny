@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 47,
+  "translation": "Kudzululidwa kwa thanzi lako, ndiponso kuonetsedwa kwa manyazi ako; ndidzachitira chiweruzo, ndipo sitidzawelengedwa monga munthu.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "Kudzululidwa"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "kwa thanzi lako"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "kuonetsedwa"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "kwa manyazi ako"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "chiweruzo"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ndidzachitira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "tidzawelengedwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "monga munthu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:20:26.115237233Z",
+  "model": "glm-5.3"
+}

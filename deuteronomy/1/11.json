@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Yahwe, Elohim wa makolo anu, waonjezere pa inu monga momwe muli ⟨⟨⟩⟩mphambu zana, ndipo akudalitseni ⟨את⟩ inu, monga ananenera kwa inu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "makolo anu"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "waonjezere"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pa inu"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "monga momwe muli"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "zana"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mphambu"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ndipo akudalitseni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ananenera"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:00:35.155112993Z",
+  "model": "glm-5.3"
+}

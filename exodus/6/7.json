@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 6:7",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo ndidzakulandirani ⟨את⟩ inu kwa ine kukhala mtundu, ndipo ndidzakhala kwa inu Elohim, ndipo mudzadziwa kuti ine ndine Yahwe Elohim wanu, wakutulutsani ⟨את⟩ inu pansi pa zolemetsa za Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "ndidzakulandirani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kukhala mtundu"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "ndidzakhala"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "mudzadziwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "wakutulutsani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inu"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "סבלות",
+      "gloss": "zolemetsa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "za Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:09:55.919182284Z",
+  "model": "glm-5.3"
+}

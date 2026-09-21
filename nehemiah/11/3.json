@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 11:3",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo awa ndiwo mitu ya chigawo cha dziko amene anakhalabe ku Yerushalayimu; koma m'mizi ya Yehudha munakhala munthu aliyense m'cholo chake m'mizi mwawo: Yisraeli, ansembe, ndi Alevi, ndi Netinimu, ndi ana a akapolo a Shelomo.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ndipo awa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mitu ya"
+    },
+    {
+      "surface": "המדינה",
+      "gloss": "chigawo cha dziko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "anakhalabe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ku Yerushalayimu"
+    },
+    {
+      "surface": "ובערי",
+      "gloss": "koma m'mizi ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "munakhala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu aliyense"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "m'cholo chake"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "m'mizi mwawo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ndi Alevi"
+    },
+    {
+      "surface": "והנתינים",
+      "gloss": "ndi Netinimu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ndi ana a"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "akapolo a"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:21:51.240353485Z",
+  "model": "glm-5.3"
+}

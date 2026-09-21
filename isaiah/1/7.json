@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Dziko lanu lathabwala; mizi yanu yopsa ndi moto; nthaka yanu, aliendo akuwadya ⟨את⟩ pamaso panu, ndipo yathabwala, ngati kuvumbulutsidwa kwa aliendo.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "dziko lanu"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "lathabwala"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "mizi yanu"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "yopsa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ndi moto"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "nthaka yanu"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "pamaso panu"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "aliendo"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "akuwadya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nthaka yanu"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "ndipo yathabwala"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "ngati kuvumbulutsidwa"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "wa aliendo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:02:00.185494273Z",
+  "model": "glm-5.3"
+}

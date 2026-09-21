@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Pakuti amanena ndi chilungamo kuti: “Gwa pansi pa dziko lapansi”; ndi mvula, ndi mvula za mphamvu yake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "ndi chilungamo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "amanena"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Gwa (khala)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pansi pa dziko lapansi"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "ndi mvula"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ya mvula"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "ndi mvula"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "za mphamvu"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "yake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:45:41.097089691Z",
+  "model": "glm-5.3"
+}

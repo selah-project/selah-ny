@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 60,
+  "translation": "Wakazedwetsa dziko, walikwanitsa; cholera mapando ake, chifukwa chakuti chagwedezeka.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Wakazedwetsa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "walikwanitsa"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "cholera"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "mapando ake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa chakuti"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "chagwedezeka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:36.641981286Z",
+  "model": "glm-5.3"
+}

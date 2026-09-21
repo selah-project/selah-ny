@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 15:1",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "M'chaka chachisambi ndi chiwiri cha Yarobeamu, mfumu ya Yisraeli, Azariya mwana wa Amatsiya anachita mfumu ya Yehudha.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "M'chaka"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi awiri"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ndi chiwiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "cha"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "cha Yarobeamu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "anachita mfumu"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azariya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "wa Amatsiya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehudha"
+    }
+  ],
+  "timestamp": "2026-09-21T08:54:28.423156670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Monga zimachotsedwa mafuta a ng'ombe ya nsembe za mtendere; ndipo wansembe adzawotcha pa guwa la nsembe yopsereka.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "monga zimene"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "zimachotsedwa"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "za mtendere"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "adzawotcha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "guwa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "la nsembe yopsereka"
+    }
+  ],
+  "timestamp": "2026-09-21T06:31:34.916905376Z",
+  "model": "glm-5.3"
+}

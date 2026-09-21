@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "ndipo musunge moyo wa ⟨את⟩ atate wanga ndi ⟨את⟩ amayi wanga ndi ⟨את⟩ abale anga ndi ⟨את⟩ alongo anga ndi ⟨את⟩ zonse zimene ali nazo, ndipo mupulumutse ⟨את⟩ moyo wathu ku imfa.",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "musunge moyo wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atate wanga"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atate wanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "amayi wanga"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "amayi wanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "abale anga"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "abale anga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "alongo anga"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "alongo anga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ali nazo"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "mupulumutse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wathu"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "moyo wathu"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ku imfa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:33:36.303581911Z",
+  "model": "glm-5.3"
+}

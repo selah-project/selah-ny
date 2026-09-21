@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "Koma iwe, Yahwe, mudzakhala chikhalire, ndipo chikumbutso chako mpaka mibadwomibadwo yonse.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Koma iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "chikhalire"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "mudzakhala"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "ndipo chikumbutso chako"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "mpaka mibadwo"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "mibadwo yonse"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:44.146401902Z",
+  "model": "glm-5.3"
+}

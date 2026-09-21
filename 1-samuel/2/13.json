@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 2:13",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo chizolowezi cha ansembe pa ⟨את⟩ anthu chinali chakuti: munthu aliyense wopereka nsembe, mnyamata wa mnsembe amadza pamene nyama ikubisika, ndipo chida chodina nyama champhambu zitatu chili m'dzanja lake.",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "Ndipo chizolowezi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "cha ansembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "wopereka"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "amadza"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mnyamata"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wa mnsembe"
+    },
+    {
+      "surface": "כבשל",
+      "gloss": "pamene ikubisika"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "והמזלג",
+      "gloss": "ndipo chida chodina nyama"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "zitatu"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "champhambu"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "m'dzanja lake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:00:33.636388685Z",
+  "model": "glm-5.3"
+}

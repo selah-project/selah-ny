@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Moyo wanga wavunda ndi chilakolako ⟨cha⟩ miweruzo yako nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "wavunda"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Moyo wanga"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "ndi chilakolako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨cha⟩"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "miweruzo yako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nthawi zonse (chiganizo)"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:12.805447442Z",
+  "model": "glm-5.3"
+}

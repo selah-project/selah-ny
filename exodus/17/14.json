@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 17:14",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo Yahwe anati kwa Moshe: Lembani izi chikumbutso m'buku, ndipo ziike m'makutu a Yehoshuwa, chifukwa ndidzachotsa ndithu ⟨את⟩ chikumbutso cha Amaleki m'munsi mwa kumwamba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Lembani"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izi"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "chikumbutso"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "m'buku"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "ndipo ziike"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "m'makutu a"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "ndidzachotsa"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikumbutso cha Amaleki"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "chikumbutso"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "cha Amaleki"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "m'munsi mwa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    }
+  ],
+  "timestamp": "2026-09-21T12:55:58.806551666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Mwachotsa ⟨monga⟩ zinyalala za siliva onse olakwa a dziko lapansi; chifukwa chake ndikukonda mboni zanu.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "zinyalala za siliva"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Mwachotsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "olakwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a dziko lapansi"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "chifukwa chake"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ndikukonda"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "mboni zanu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:51.636139136Z",
+  "model": "glm-5.3"
+}

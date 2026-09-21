@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndithu m'chifaniziro munthu amayenda; ndithu hebeli ndiye amakhumudwa mwachabe; amasonkha chuma, koma sanadziwe ndani adzausonkha.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "m'chifaniziro"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "amayenda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebeli"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "amakhumudwa"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "amasonkha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma sanadziwe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sanadziwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "adzausonkha"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:29.734599525Z",
+  "model": "glm-5.3"
+}

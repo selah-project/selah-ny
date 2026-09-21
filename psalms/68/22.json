@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 68,
+  "translation": "Ndithu Elohim adzaphwanya mutu wa adani ake, tiki la tsitsi la woyenda m'machimo ake.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "adzaphwanya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "wa adani ake"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "tiki"
+    },
+    {
+      "surface": "שער",
+      "gloss": "la tsitsi"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "woyenda"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "m'machimo ake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:34.477407146Z",
+  "model": "glm-5.3"
+}

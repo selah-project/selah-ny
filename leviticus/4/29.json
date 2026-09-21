@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo adzayika ⟨את⟩ dzanja lake pa mutu wa nsembe ya machimo, nadzapha ⟨את⟩ nsembe ya machimo m'malo amene amapha nsembe ya kuwunika.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "adzayika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzanja lake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "nsembe ya machimo"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "nadzapha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe ya machimo"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "nsembe ya machimo"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "m'malo amene"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nsembe ya kuwunika"
+    }
+  ],
+  "timestamp": "2026-09-21T06:32:33.123123136Z",
+  "model": "glm-5.3"
+}

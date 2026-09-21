@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Pakuti anakwaniritsa moyo wolakalaka, ndi moyo wanjala anadzaza ndi zabwino.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "anakwaniritsa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "wolakalaka"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ndi moyo"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "wanjala"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "anadzaza"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zabwino"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:20.692019395Z",
+  "model": "glm-5.3"
+}

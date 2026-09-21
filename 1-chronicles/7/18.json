@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo mlongo wake Hamolekheti anabala ⟨את⟩ Ishodi, ndi ⟨את⟩ Abiyezere, ndi ⟨את⟩ Makhala.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "Ndipo mlongo wake"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Hamolekheti"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ishodi"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ishodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Abiyezere"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Abiyezere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Makhala"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Makhala"
+    }
+  ],
+  "timestamp": "2026-09-21T12:25:24.244175406Z",
+  "model": "glm-5.3"
+}

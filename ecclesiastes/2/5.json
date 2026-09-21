@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndinapanga ya ine minda ndi minda ya zipatso, ndipo ndinadzala m'menemo mitengo ya zipatso chilichonse.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Ndinapanga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya ine"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "minda"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "ndi minda ya zipatso"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "ndinadzala"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mitengo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chilichonse"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ya zipatso"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:47.342552534Z",
+  "model": "glm-5.3"
+}

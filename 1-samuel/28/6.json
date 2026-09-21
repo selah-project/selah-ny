@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo Shauli anafunsa kwa Yahwe, koma Yahwe sanamuyankhe, ndi m'maloto, komanso m'Aurimu, komanso m'maneneri.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "anafunsa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma... sanayankhe"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "sanamuyankhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "m'maloto"
+    },
+    {
+      "surface": "גם",
+      "gloss": "komanso"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "m'Aurimu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "komanso"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "m'maneneri"
+    }
+  ],
+  "timestamp": "2026-09-21T08:15:36.069063383Z",
+  "model": "glm-5.3"
+}

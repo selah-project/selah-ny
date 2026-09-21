@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo anawayika ⟨את⟩ iwo m'kusungidwa, m'nyumba ya mkuza wa asilikali, kum'ndende, malo amene Yosefe anamangidwa komwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "anawayika"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "m'kusungidwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ya mkuza"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "wa asilikali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "ya ndende"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "malo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "anamangidwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "komwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:01:17.404908749Z",
+  "model": "glm-5.3"
+}

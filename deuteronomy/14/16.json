@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "⟨את⟩ kadzidzi kang'ono, ndi ⟨את⟩ kadzidzi wamkulu, ndi tinshemeti",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadzidzi kang'ono"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kadzidzi kang'ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "kadzidzi wamkulu"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "kadzidzi wamkulu"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ndi tinshemeti"
+    }
+  ],
+  "timestamp": "2026-09-21T07:20:22.741352729Z",
+  "model": "glm-5.3"
+}

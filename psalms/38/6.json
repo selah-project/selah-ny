@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Zanunkha zoipa, zavunda matupa anga, chifukwa cha upusu wanga.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "zanunkha zoipa"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "zavunda"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "matupa anga"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "upusu wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:20.926636435Z",
+  "model": "glm-5.3"
+}

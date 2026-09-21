@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 144,
+  "translation": "Yahwe, tampezere miyamba yako ndi utseke, khudzitsa pa mapiri, ndipo adzayamba kufuta ⟨⟨mortofu⟩⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הט",
+      "gloss": "tampezere"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "miyamba yako"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "ndi utseke"
+    },
+    {
+      "surface": "גע",
+      "gloss": "khudzitsa"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "pa mapiri"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "ndipo adzayamba kufuta"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:10.044672188Z",
+  "model": "glm-5.3"
+}

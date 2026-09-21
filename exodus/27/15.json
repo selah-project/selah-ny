@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 27:15",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo pa mbali yachiwiri zolembedwa zikhale makumi anayi ndi asanu a miyeso; mipando yawo ikhale itatu, ndipo maziko awo ikhale atatu.",
+  "tokens": [
+    {
+      "surface": "ולכתף",
+      "gloss": "ndipo pa mbali"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "yachiwiri"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "asanu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ndi khumi"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "zolembedwa"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "mipando yawo"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "itatu"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ndipo maziko awo"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "atatu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:19:29.386755382Z",
+  "model": "glm-5.3"
+}

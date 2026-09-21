@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 43,
+  "translation": "Tumizirani kuwala kwanu ndi choonadi chanu; izo zidzanditsogolera, zidzandibweretsa ku phiri lanu lopatulika ndi ku misko manja anu.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "tumizirani"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "kuwala kwanu"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ndi choonadi chanu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izo"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "zidzanditsogolera"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "zidzandibweretsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "lanu lopatulika"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi ku"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "misko manja anu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:00.235276686Z",
+  "model": "glm-5.3"
+}

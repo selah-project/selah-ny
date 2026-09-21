@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 14:10",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Koma ngati anati kotero: “Kwelerani kwa ife,” tidzakwera; chifukwa Yahwe wawapatsa m'dzanja mwathu, ndipo ichi chizindikiro kwa ife.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Koma ngati"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kotero"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "anati"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Kwelerani"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kwa ife"
+    },
+    {
+      "surface": "ועלינו",
+      "gloss": "tidzakwera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "wawapatsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "m'dzanja mwathu"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ndipo ichi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa ife"
+    },
+    {
+      "surface": "האות",
+      "gloss": "chizindikiro"
+    }
+  ],
+  "timestamp": "2026-09-21T08:06:59.399738590Z",
+  "model": "glm-5.3"
+}

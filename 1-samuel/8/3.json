@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 8:3",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo ana ake sanayende m'mayendedwe ake, koma adatembenukira kwa phindu losalungama, analandira mando, ndipo anatembenuza chiweruzo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "sanayende ayi"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "kuyenda"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "בדרכו",
+      "gloss": "m'mayendedwe ake"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "adatembenukira"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הבצע",
+      "gloss": "phindu losalungama"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "analandira"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "mando"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "anatembenuza"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chiweruzo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:01:26.897344074Z",
+  "model": "glm-5.3"
+}

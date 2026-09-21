@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 47,
+  "translation": "Elohim anakwera ndi kulira kwa mphamvu, Yahwe ndi mawu a shofara.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "anakwera"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ndi kulira kwa mphamvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ndi mawu"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "a shofara"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:50.985676024Z",
+  "model": "glm-5.3"
+}

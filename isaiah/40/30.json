@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo anyamata adzatopa ndi kunyoweza, ndipo achinyamata adzagwa-gwa.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "ndipo adzatopa"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "anyamata"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "ndi kunyoweza"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "ndipo achinyamata"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "adzagwa-gwa"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "adzagwa-gwa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:17:41.480544704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 19:28",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo watukwanira kapolo wanu kwa Ambuye wanga, mfumu; koma Ambuye wanga, mfumu, ndi ⟨monga⟩ mthenga wa Elohim; chifukwa chake chita chimene chili chabwino m'maso mwanu.”",
+  "tokens": [
+    {
+      "surface": "וירגל",
+      "gloss": "ndipo watukwanira"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "kapolo wanu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ambuye wanga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "koma Ambuye wanga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "כמלאך",
+      "gloss": "monga mthenga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "chita"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "chimene chili chabwino"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "m'maso mwanu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:08:08.588975905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 79,
+  "translation": "Koma ife, anthu anu ndi nkhosa za m'bwalo zanu, tidzakuyamika iwe kosatha, kwa mibadwo ndi mibadwo, tidzalemba matamando anu.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "koma ife"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "anthu anu"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ndi nkhosa"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "za m'bwalo zanu"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "tidzakuyamika"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kosatha"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwa mibadwo"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ndi mibadwo"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "tidzalemba"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "matamando anu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:55.063982883Z",
+  "model": "glm-5.3"
+}

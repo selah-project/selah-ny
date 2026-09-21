@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 12:7",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo ndinatero monga momwe ndinaumidwa: katundu wanga ndinatulutsa masana, monga katundu wa wolanda; madzulo ndinayenga kwa ine m'khoma ndi dzanja, mu mdima ndinatulutsa, pa phewu ndinanamula, pamaso pawo.",
+  "tokens": [
+    {
+      "surface": "ואעש",
+      "gloss": "Ndipo ndinatero"
+    },
+    {
+      "surface": "כן",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ndinaumidwa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "katundu wanga"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ndinatulutsa"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "monga katundu"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "wa wolanda"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "masana"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "madzulo"
+    },
+    {
+      "surface": "חתרתי",
+      "gloss": "ndinayenga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "m'khoma"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ndi dzanja"
+    },
+    {
+      "surface": "בעלטה",
+      "gloss": "mu mdima"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ndinatulutsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "phewu"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ndinanamula"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "pamaso pawo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:58:10.462572012Z",
+  "model": "glm-5.3"
+}

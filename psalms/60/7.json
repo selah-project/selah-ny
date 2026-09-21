@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 60,
+  "translation": "Kuti okondedwa anu apulumutsidwe; pulumutsa ndi dzanja lamanja lanu, ndipo muyankhe ife.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Kuti"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "apulumutsidwe"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "okondedwa anu"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "pulumutsa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dzanja lamanja lanu"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "ndipo muyankhe ife"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:54.714193124Z",
+  "model": "glm-5.3"
+}

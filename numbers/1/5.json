@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo awa ndi maina a anthu amene adayimirira ndi ⟨את⟩ inu: wa Rubeni, Elitsuri mwana wa Shedeuru.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ndipo awa"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maina"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "a anthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "adayimirira"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "ndi ⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "wa Rubeni"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsuri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "wa Shedeuru"
+    }
+  ],
+  "timestamp": "2026-09-21T06:48:11.901334672Z",
+  "model": "glm-5.3"
+}

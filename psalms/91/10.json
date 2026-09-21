@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 91,
+  "translation": "Choipa sichidzakufikira, ndipo chifundo cha matenda sichidzayandikira pa holo yanu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sichi"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "chidzakufikira"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "ndipo chifundo cha matenda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sichidza"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "yandikira"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "pa holo yanu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:45.637543405Z",
+  "model": "glm-5.3"
+}

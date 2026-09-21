@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo anachotsa ⟨את⟩ milungu yachilendo pakati pawo, natumikira ⟨את⟩ Yahwe; ndipo moyo wake unafupizgika ndi masautso a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "Ndipo anachotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "milungu yachilendo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "milungu"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "yachilendo"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "pakati pawo"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "natumikira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "unafupizgika"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "ndi masautso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T07:49:50.820899488Z",
+  "model": "glm-5.3"
+}

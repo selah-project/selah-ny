@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 49:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Monga nkhosa anayikidwa ku Sheoli; imfa idzaweta iwo; ndipo olungama adzalamulira iwo mmawa; ndipo ukongo wawo udzaswa; Sheoli ikhale malo awo.",
+  "tokens": [
+    {
+      "surface": "כצאן",
+      "gloss": "Monga nkhosa"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ku Sheoli"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "anayikidwa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "imfa"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "idzaweta iwo"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "adzalamulira"
+    },
+    {
+      "surface": "בם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "olungama"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "mmawa"
+    },
+    {
+      "surface": "וצירם",
+      "gloss": "ndipo ukongo wawo"
+    },
+    {
+      "surface": "לבלות",
+      "gloss": "udzaswa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheoli"
+    },
+    {
+      "surface": "מזבל",
+      "gloss": "ikhale malo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "awo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:36.999159138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 21:2",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Mwana wa munthu, ikiratu nkhope ynjira ya kumwera, ndipo iritsa ku kumwera, ndipo unenerere ku thengo la munda, ku Negevu.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa munthu"
+    },
+    {
+      "surface": "שים",
+      "gloss": "ikiratu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nkhope yako"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njira <ya>"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "kumwera"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "ndipo iritsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "kumwera"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "ndipo unenerere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יער",
+      "gloss": "thengo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "la munda"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ku Negevu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:04:02.775474650Z",
+  "model": "glm-5.3"
+}

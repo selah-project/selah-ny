@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Munayesa mtima wanga, munasanza usiku, munayeretsa iye ndipo simunapeza; maganizo anga sanadutse pakamwa panga.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Munayesa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "munasanza"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "munayeretsa iye"
+    },
+    {
+      "surface": "בל",
+      "gloss": "si"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "munapeza"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "maganizo anga"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sana"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "dutse"
+    },
+    {
+      "surface": "פי",
+      "gloss": "pakamwa panga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:12.364803713Z",
+  "model": "glm-5.3"
+}

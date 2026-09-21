@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Kuchita chifuniro chako, Elohim wanga, ndakondwera; ndipo Tora yako ili mkati mwa m'mimba manga.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "kuchita"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "chifuniro chako"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ndakondwera"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ndipo Tora yako"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mkati mwa"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "m'mimba manga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:48.724883248Z",
+  "model": "glm-5.3"
+}

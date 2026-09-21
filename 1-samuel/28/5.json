@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo Shauli anaona ⟨את⟩ gulu la nkhondo la Mafilisiti, ndipo anaopa, ndipo mtima wake unagwedezeka kwambiri.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gulu la nkhondo la Mafilisiti"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "gulu la nkhondo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "la Mafilisiti"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "anaopa"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "unagwedezeka"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "mtima wake"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    }
+  ],
+  "timestamp": "2026-09-21T08:15:36.068787626Z",
+  "model": "glm-5.3"
+}

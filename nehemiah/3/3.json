@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo ⟨את⟩ khomo la nsomba anamanga ana a Hasenaahi; iwo anazenga mabula ake, ndipo anayimiritsa zikhomo zake, maulo ake ndi mibayo yake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "שער",
+      "gloss": "khomo"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "la nsomba"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anamanga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hasenaahi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "anazenga mabula ake"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "anayimiritsa"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "zikhomo zake"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "maulo ake"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "mibayo yake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:18:02.086124301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 63,
+  "translation": "Chifukwa chiyani chovala chako chili chokhera, ndipo zovala zako ngati wa kupalasa m'chophimbo cha mpewa?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Chifukwa chiyani"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "chokhera"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "chovala chako"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "zovala zako"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "ngati wa kupalasa"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "m'chophimbo cha mpewa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:25:37.792411669Z",
+  "model": "glm-5.3"
+}

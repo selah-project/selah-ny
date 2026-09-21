@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Pakuti iwe ndiwe thanthwe langa ndi bwalo langa; chifukwa cha Dzina lako unditsogolere ndi kundiyendetsa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "thanthwe langa"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ndi bwalo langa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Dzina lako"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "unditsogolere"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "ndi kundiyendetsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:46.138574931Z",
+  "model": "glm-5.3"
+}

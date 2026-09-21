@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo Chizkiyahu mfumu anauka mmamawa, nasongeza ⟨את⟩ atsogoleri a m'mudzi, nakwera ku nyumba ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "anauka mmamawa"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "nasongeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atsogoleri a m'mudzi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "atsogoleri"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a m'mudzi"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "nakwera"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ku nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T12:48:21.700713794Z",
+  "model": "glm-5.3"
+}

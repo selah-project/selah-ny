@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "M'veni, ihu mapiri, ⟨את⟩ mkhalidwe wa kutsutsana wa Yahwe, ndi maziko okhazikika a dziko lapansi; pakuti Yahwe ali ndi nkhondo yotsutsa ndi anthu ake, ndi Yisraeli adzaweruzana naye.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "M'veni"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ihu mapiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkhalidwe wa kutsutsana wa Yahwe"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "mkhalidwe wa kutsutsana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "ndi maziko okhazikika"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "maziko a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "nkhondo yotsutsa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "adzaweruzana naye"
+    }
+  ],
+  "timestamp": "2026-09-21T13:25:00.397794964Z",
+  "model": "glm-5.3"
+}

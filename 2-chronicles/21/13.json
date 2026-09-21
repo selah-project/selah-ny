@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 21:13",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "koma iwe wayenda m'njira ya mafumu a Yisraeli, ndipo wachititsa chiwerewere ⟨את⟩ Yehuda ndi ⟨את⟩ okhala ba Yerushalayimu, monga chiwerewere cha banja la Achav; ndiponso ⟨את⟩ abale ako, a banja la atate ako, amene anali abwino kuposa iwe, iwe wawapha.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "koma iwe wayenda"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "m'njira ya"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "ndipo wachititsa chiwerewere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "okhala ba Yerushalayimu"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "okhala ba"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "כהזנות",
+      "gloss": "monga chiwerewere cha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "banja la"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abale ako"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "abale ako"
+    },
+    {
+      "surface": "בית",
+      "gloss": "banja la"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atate ako"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "amene anali abwino"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuposa iwe"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "iwe wawapha"
+    }
+  ],
+  "timestamp": "2026-09-21T12:44:40.690796033Z",
+  "model": "glm-5.3"
+}

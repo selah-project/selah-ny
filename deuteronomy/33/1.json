@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Ndipo uwu ndi madalitso amene Moshe, munthu wa Elohim, adadalitsa ⟨את⟩ ana a Yisraeli, pamaso pa imfa yake.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ndipo uwu"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "madalitso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "adadalitsa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "imfa yake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:31:03.004282289Z",
+  "model": "glm-5.3"
+}

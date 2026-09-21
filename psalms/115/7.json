@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 115,
+  "translation": "Manja awo, koma safatira; mapazi awo, koma sayenda; sakubzera m'komwe mwao;",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "manja awo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma sa"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "fafatira"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "mapazi awo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma sa"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "yenda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "akubzera"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "m'komwe mwao"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:17.562232034Z",
+  "model": "glm-5.3"
+}

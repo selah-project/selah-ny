@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Pakuti kuponderezedwa kumapweteka mtima wanzeru, ndipo mphatso imaononga ⟨את⟩ mtima.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "kuponderezedwa"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "kumapweteka mtima"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wanzeru"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "ndipo imaononga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtima"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "mphatso (kolakwa)"
+    }
+  ],
+  "timestamp": "2026-09-21T11:56:57.121813584Z",
+  "model": "glm-5.3"
+}

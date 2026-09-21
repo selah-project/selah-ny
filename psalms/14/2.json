@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Yahwe adayang'anitsa kuchokera kumwamba pa ana a anthu, kuona ngati pali wonzeru, wofunafuna ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "kuchokera kumwamba"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "adayang'anitsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ngati pali"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "wonzeru"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "wofunafuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:20.143413267Z",
+  "model": "glm-5.3"
+}

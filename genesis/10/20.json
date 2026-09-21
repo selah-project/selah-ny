@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Awa ndiwo ana a Cham, mwa mafuko awo, m'zilankhulo zawo, m'madera mwawo, m'mitundu yawo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Awa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "חם",
+      "gloss": "a Cham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "mwa mafuko awo"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "m'zilankhulo zawo"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "m'madera mwawo"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "m'mitundu yawo"
+    }
+  ],
+  "timestamp": "2026-09-21T05:45:55.030788180Z",
+  "model": "glm-5.3"
+}

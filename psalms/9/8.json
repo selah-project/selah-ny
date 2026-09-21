@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Yahwe akhala chikhalire; waikapo mwadala mpando wake wachifumu chiweruzo.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ndipo Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "chikhalire"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "akhala"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "waikapo mwadala"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "chiweruzo"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "mpando wake wachifumu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:58.616431939Z",
+  "model": "glm-5.3"
+}

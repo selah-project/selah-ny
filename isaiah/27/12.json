@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 27:12",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo chidzachitika pa tsiku lija, Yahwe adzagwetsa ⟨zipatso⟩ kuchokera ku mtsinje wamkulu mpaka mtsinje wa Mitsrayimu; ndipo inu mudzasonkhanitsidwa kamodzi ndi kamodzi, inu ana a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ndipo chidzachitika"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pa tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lija"
+    },
+    {
+      "surface": "יחבט",
+      "gloss": "adzagwetsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משבלת",
+      "gloss": "kuchokera ku mtsinje"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "mtsinje waching'ono wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ndipo inu"
+    },
+    {
+      "surface": "תלקטו",
+      "gloss": "mudzasonkhanitsidwa"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "kamodzi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ndi kamodzi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anu ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T13:13:08.024945609Z",
+  "model": "glm-5.3"
+}

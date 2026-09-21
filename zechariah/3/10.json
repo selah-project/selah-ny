@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 3:10",
+  "book": "zechariah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Tsiku lamenelo, mawu a Yahwe Tsevaoti, mudzaitanirana munthu kwa mnansi wake, pansi pa mpesa ndi pansi pa mkuyu.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lamenelo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "mudzaitanirana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "kwa mnansi wake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "mpesa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi ku"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "mkuyu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:35:28.096064556Z",
+  "model": "glm-5.3"
+}

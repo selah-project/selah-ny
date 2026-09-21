@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 81,
+  "translation": "Imbirani kwa Elohim, mphamvu yathu; fuuzani kwa Elohim wa Yakobo.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "Imbirani"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa Elohim"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "mphamvu yathu"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "fuuzani"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kwa Elohim wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:37.705575065Z",
+  "model": "glm-5.3"
+}

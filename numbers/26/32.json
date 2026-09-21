@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 26:32",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "ndi wa Shemida banja la aShemida; ndi wa Cheferi banja la aCheferi.",
+  "tokens": [
+    {
+      "surface": "ושמידע",
+      "gloss": "ndi wa Shemida"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "banja la"
+    },
+    {
+      "surface": "השמידעי",
+      "gloss": "aShemida"
+    },
+    {
+      "surface": "וחפר",
+      "gloss": "ndi wa Cheferi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "banja la"
+    },
+    {
+      "surface": "החפרי",
+      "gloss": "aCheferi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:06:26.772430929Z",
+  "model": "glm-5.3"
+}

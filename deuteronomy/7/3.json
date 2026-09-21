@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo usakwatse ndi iwo: mwana wako wamkazi umusampatse kwa mwana wake mwamuna, ndipo mwana wake wamkazi umusamulare kwa mwana wako mwamuna.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ndipo usa"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "kwatse"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ndi iwo"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "mwana wako wamkazi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mupatse"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "kwa mwana wake mwamuna"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "ndipo mwana wake wamkazi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "mulare"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "kwa mwana wako mwamuna"
+    }
+  ],
+  "timestamp": "2026-09-21T07:17:10.239779283Z",
+  "model": "glm-5.3"
+}

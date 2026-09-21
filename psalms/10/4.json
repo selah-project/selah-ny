@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Woipa, monga kukweza kwa nkhope yake, safunafuna; palibe Elohim — mano ake onse.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "woipa"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "monga kukweza kwa"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "nkhope yake"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sachita konse"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "safunafuna"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "mano ake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:43.665020576Z",
+  "model": "glm-5.3"
+}

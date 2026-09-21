@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "ndi ⟨את⟩ khosi, ndi ⟨את⟩ shalach, ndi ⟨את⟩ yanshofu",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "khosi"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "khosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "shalach"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "shalach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "yanshofu"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "yanshofu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:34:22.748655691Z",
+  "model": "glm-5.3"
+}

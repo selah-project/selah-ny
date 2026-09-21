@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndiye Yobu anayima, naduliza ⟨את⟩ chovalo, nadula ⟨את⟩ mutu wake, nagwa pansi pansi pa dziko, nalambira.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "anayima"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Yobu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "naduliza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chovalo"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "chovalo"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "nadula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutu wake"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mutu wake"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "nagwa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "pansi pa dziko"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "nalambira"
+    }
+  ],
+  "timestamp": "2026-09-21T11:30:12.762735112Z",
+  "model": "glm-5.3"
+}

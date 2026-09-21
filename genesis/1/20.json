@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Elohim adati: “Madzi azadzaze ndi zokolola zamoyo, ndipo mbalame zidzeduta pa dziko lapansi, pa nkhope ya chikwesere cha kumwamba.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "azadzaze ndi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "zokolola"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "zamoyo"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "zamoyo"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "mbalame"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "zidzeduta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope ya"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "chikwesere"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:16.135852039Z",
+  "model": "glm-5.3"
+}

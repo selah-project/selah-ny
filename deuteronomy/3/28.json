@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 3:28",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndilamulire ⟨את⟩ Yehoshuwa, ndimulimbikitse ndimukhazikitsa, chifukwa iyeye adzapita patsogolo pa anthu awa, ndipo iyeye adzawapangitsa ⟨את⟩ anthu awa kulowa ⟨את⟩ dziko limene udzaiona.",
+  "tokens": [
+    {
+      "surface": "וצו",
+      "gloss": "Ndilamulire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshuwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "וחזקהו",
+      "gloss": "ndimulimbikitse"
+    },
+    {
+      "surface": "ואמצהו",
+      "gloss": "ndimukhazikitsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyeye"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "adzapita"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "patsogolo pa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ndipo iyeye"
+    },
+    {
+      "surface": "ינחיל",
+      "gloss": "adzawapangitsa kulowa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "anthu awa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "udzaiona"
+    }
+  ],
+  "timestamp": "2026-09-21T07:14:29.772839753Z",
+  "model": "glm-5.3"
+}

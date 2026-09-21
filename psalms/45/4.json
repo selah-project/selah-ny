@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 45,
+  "translation": "Chingani lupanga lako pa chala changa, iwe wamphamvuyonse; kukongola kwako ndi ulemerero wako.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Chingani"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "lupanga lako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "chala changa"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "iwe wamphamvuyonse"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "kukongola kwako"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "ndi ulemerero wako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:35.087632663Z",
+  "model": "glm-5.3"
+}

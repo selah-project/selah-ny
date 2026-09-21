@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo sindinafune kumvera Bileamu, nadalitirani dalitiro ⟨את⟩, nandipulumutsani inu ⟨את⟩ m'dzanja lake.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sindinafune"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "kufuna"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kumvera"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bileamu"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "nadalitirani"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "dalitiro"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inu (odalitsidwa)"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "nandipulumutsani inu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inu (opulumutsidwa)"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "m'dzanja lake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:44:51.223839411Z",
+  "model": "glm-5.3"
+}

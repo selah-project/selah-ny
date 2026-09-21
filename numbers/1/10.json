@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Kwa ana a Yosefe: wa Efrayimu, Eliyashama mwana wa Ammihudi; wa Menashe, Gamliyeli mwana wa Pedahsturi.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "kwa ana a"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "wa Efrayimu"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Eliyashama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Ammihudi"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "wa Menashe"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliyeli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedahsturi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:48:12.481671962Z",
+  "model": "glm-5.3"
+}

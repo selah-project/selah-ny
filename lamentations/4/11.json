@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Yahwe atamaliza mkwiyo wake, anathira kukwiya kotentha kwa nkhope yake; nayatsa ⟨את⟩ moto m'Tziyoni, moto umenewo udaweta maziko ake.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "atamaliza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkwiyo"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "mkwiyo wake"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "anathira"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "kukwiya kotentha"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "kwa nkhope yake"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "nayatsa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "m'Tziyoni"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "udaweta"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "maziko ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:52:59.892792714Z",
+  "model": "glm-5.3"
+}

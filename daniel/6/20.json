@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 6:20",
+  "book": "daniel",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Pakufika m'mawa mfumu inauka pamene kunali kuwala koyamba, nachita mwachangu kupita ku khomo la mikango.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Pakufika"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "בשפרפרא",
+      "gloss": "mwachangu"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "inauka"
+    },
+    {
+      "surface": "בנגהא",
+      "gloss": "pamene kunali kuwala koyamba"
+    },
+    {
+      "surface": "ובהתבהלה",
+      "gloss": "nachita comedzu"
+    },
+    {
+      "surface": "לגבא",
+      "gloss": "ku khomo"
+    },
+    {
+      "surface": "די",
+      "gloss": "la"
+    },
+    {
+      "surface": "אריותא",
+      "gloss": "mikango"
+    },
+    {
+      "surface": "אזל",
+      "gloss": "kupita"
+    }
+  ],
+  "timestamp": "2026-09-21T12:08:47.013883330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Kumbukira ine, Yahwe, m'chikondi cha anthu ako; yang'ana ine m'chipulumutso chako.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Kumbukira ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "m'chikondi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cha anthu ako"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "yang'ana ine"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "m'chipulumutso chako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:46.781429998Z",
+  "model": "glm-5.3"
+}

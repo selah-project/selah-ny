@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 17:8",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo anayenda m'mitheto ya amitundu amene Yahwe anawataya pamaso pa ana a Yisraeli, ndi ya mafumu a Yisraeli, amene iwo anapanga.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "m'mitheto"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ya amitundu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "anawataya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "ndi ya mafumu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anapanga"
+    }
+  ],
+  "timestamp": "2026-09-21T08:56:33.402975535Z",
+  "model": "glm-5.3"
+}

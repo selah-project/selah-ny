@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo wansembe adzaiwonga kumene guwali, nadzing'amba ⟨את⟩ mutu wake, nadzautsa pa guwa; ndipo mwazi wake udzatulutsidwa pa khoma la guwalo.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "adzaiwonga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kumene"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwali"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "nadzing'amba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutu wake"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mutu wake"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "nadzautsa"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pa guwa"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "udzatulutsidwa"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "mwazi wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "khoma"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "la guwalo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:12.209542229Z",
+  "model": "glm-5.3"
+}

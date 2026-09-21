@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 134,
+  "translation": "Nyimbo ya makwelero. Taonani, dalitsani ⟨את⟩ Yahwe, inu akapolo onse a Yahwe, amayimirira m'nyumba ya Yahwe usiku.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya makwelero"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "taonani"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "dalitsani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "akapolo a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "amayimirira"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "m'nyumba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "usiku"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:35.128297686Z",
+  "model": "glm-5.3"
+}

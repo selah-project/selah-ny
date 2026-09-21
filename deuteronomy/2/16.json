@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo zinachitika, pamene anthu onse a nkhondo atatha kufa m'mkati mwa anthuwo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo zinachitika"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "pamene"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "atatha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "anthu onse"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "a"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "nkhondo"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "m'mkati mwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthuwo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:13:00.178699238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo iye analimbana ndi mngelo, ndipo anathera; analira, nadzapempha chifundo kwa iye; ku Betheli Yehova adampeza iye, komweko adzalankhula nafe;",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "ndipo iye analimbana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mngelo"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "ndipo anathera"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "analira"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "nadzapempha chifundo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ku Betheli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Betheli"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "adampeza iye"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "komweko"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "adzalankhula"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nafe"
+    }
+  ],
+  "timestamp": "2026-09-21T13:19:35.325241347Z",
+  "model": "glm-5.3"
+}

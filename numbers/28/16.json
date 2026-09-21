@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo m'mwezi woyamba, pa tsiku lachakhumi ndi chinayi la mwezi, ⟨⟨ndi⟩⟩ Pesa kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "ndipo m'mwezi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "woyamba"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "chinayi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lachakhumi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "pa tsiku"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la mwezi"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T07:07:47.922241560Z",
+  "model": "glm-5.3"
+}

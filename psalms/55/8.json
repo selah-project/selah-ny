@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 55,
+  "translation": "Taona, ndidzatandaza kutali, ndidzakhazikika m'chipululu. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Taona"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "ndidzatandaza kutali"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "kutandaza"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "ndidzakhazikika"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "m'chipululu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:48.283462986Z",
+  "model": "glm-5.3"
+}

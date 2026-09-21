@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo anatumiza mithenga kwa Ahabu mfumu ya Yisraeli, kumudzi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ndipo anatumiza"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "mithenga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "kumudzi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:44:52.071928441Z",
+  "model": "glm-5.3"
+}

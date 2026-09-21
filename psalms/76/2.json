@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 76,
+  "translation": "Elohim adziwika m'Yuda; m'Yisraeli dzina lake ndi lalikulu.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "adziwika"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "m'Yuda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "m'Yisraeli"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lalikulu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dzina lake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:39.137413021Z",
+  "model": "glm-5.3"
+}

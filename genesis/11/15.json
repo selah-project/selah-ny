@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Shelachi anakhala pambuyo pake pobala ⟨את⟩ Everi zaka zisanu ndi ziwiri ndi mazana anayi, nabala ana aamuna ndi aakazi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelachi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pambuyo pake"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "pobala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Everi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Everi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "zisanu ndi ziwiri"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ndi anayi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "nabala"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ana aamuna"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ndi aakazi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:46:14.956046606Z",
+  "model": "glm-5.3"
+}

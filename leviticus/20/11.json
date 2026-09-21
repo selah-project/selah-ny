@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo munthu amene amagona ⟨את⟩ mkazi wa ababo ake — ululu wa ababo ake adamuulula — iwo awiri adzamwalira, ndithu adzamwalira; mwazi wawo uli pa iwo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ndipo munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "amagona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkazi wa ababo ake"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "wa ababo ake"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ululu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "wa ababo ake"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "adamuulula"
+    },
+    {
+      "surface": "מות",
+      "gloss": "adzamwalira"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ndithu adzamwalira"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "iwo awiri"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "mwazi wawo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:44.095716631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Ndidzati kwa El thanthwe langa: Chifukwa chiyani wandaiwala ine? Chifukwa chiyani ndiyenda ndi chisoni m'kudzazunza kwa mdani?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "Ndidzati"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kwa El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "thanthwe langa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Chifukwa chiyani"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "wandaiwala ine"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Chifukwa chiyani"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ndi chisoni"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ndiyenda"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "m'kudzazunza"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kwa mdani"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:04.671833326Z",
+  "model": "glm-5.3"
+}

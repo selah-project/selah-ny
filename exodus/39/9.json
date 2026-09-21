@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Hosheni anali wolunjika; anapanga ⟨את⟩ hosheni chakhumi; chidindo cha dzanja kulea kwake, ndi chidindo cha dzanja m'limo mwake, chakhumi.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "wolunjika"
+    },
+    {
+      "surface": "היה",
+      "gloss": "anali"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "chakhumi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hosheni"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hosheni"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "chidindo cha dzanja"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "kulea kwake"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "ndi chidindo cha dzanja"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "m'limo mwake"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "chakhumi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:28:02.135339486Z",
+  "model": "glm-5.3"
+}

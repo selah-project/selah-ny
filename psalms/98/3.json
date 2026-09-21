@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 98,
+  "translation": "Wakumbukira khesedi kwake ndi kukhulupirika kwake kwa banja la Yisraeli; mbali zonse za dziko lapansi zinaona ⟨את⟩ chipulumutso cha Elohim wathu.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Wakumbukira"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi kwake"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "ndi kukhulupirika kwake"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kwa banja la"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "zinaona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "mbali zonse za"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chipulumutso"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "chipulumutso"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "cha Elohim wathu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:02.846543755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo mudzoze ⟨את⟩ iwo, monga momwe mudazoza ⟨את⟩ abambo awo, ndipo akhale asembe a Ine; ndipo kudzoza kwawo kudzakhalabe kukhala usembe wosatha kwa mibadwo yawo.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "mudzoze"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "mudazoza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abambo awo"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "abambo awo"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "akhale asembe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a Ine"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "kudzakhalabe"
+    },
+    {
+      "surface": "להית",
+      "gloss": "kukhala"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwawo"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "kudzoza kwawo"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "usembe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wosatha"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "kwa mibadwo yawo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:44.400531032Z",
+  "model": "glm-5.3"
+}

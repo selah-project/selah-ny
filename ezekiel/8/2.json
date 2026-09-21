@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 8:2",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo ndinaona, ndipo taona, chifanizo chonga maonekedwe a moto: kuchokera pamaonekedwe a chiwerengero chake mpaka pansi, moto; ndipo kuchokera pa chiwerengero chake mpaka pamwamba, chonga maonekedwe a kuwala, chonga mtundu wa chamkuwa chowala.",
+  "tokens": [
+    {
+      "surface": "ואראה",
+      "gloss": "ndipo ndinaona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ndipo taona"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "chifanizo"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "chonga maonekedwe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "a moto"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "kuchokera pamaonekedwe"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "a chiwerengero chake"
+    },
+    {
+      "surface": "ולמטה",
+      "gloss": "mpaka pansi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "וממתניו",
+      "gloss": "ndipo kuchokera pa chiwerengero chake"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "mpaka pamwamba"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "chonga maonekedwe"
+    },
+    {
+      "surface": "זהר",
+      "gloss": "a kuwala"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "chonga mtundu"
+    },
+    {
+      "surface": "החשמלה",
+      "gloss": "wa chamkuwa chowala"
+    }
+  ],
+  "timestamp": "2026-09-21T09:57:29.136293529Z",
+  "model": "glm-5.3"
+}

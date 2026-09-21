@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo anthu opatulika mudzakhala kwa Ine; nyama ya m'kutchire yakavedwa simudzayidya; kwa galu muponye ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "Ndipo anthu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "opatulika"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "mudzakhala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa Ine"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ya m'kutchire"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "yakavedwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "simudzayi-"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "-dya"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "kwa galu"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "muponye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iye (nyama yakavedwayo)"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:19.445686528Z",
+  "model": "glm-5.3"
+}

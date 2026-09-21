@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndi kudzakhala kuti, mukafika pafupi ndi nkhondo, mkulu wa ansembe adzafika pamaso, ndipo adzalankhula ndi anthuwo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ndi kudzakhala kuti"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "mukafika pafupi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "nkhondo"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "adzafika pamaso"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mkulu wa ansembe"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ndipo adzalankhula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthuwo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:23:56.966020693Z",
+  "model": "glm-5.3"
+}

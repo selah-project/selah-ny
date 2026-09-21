@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Ana a Efrayimu, olilira ⟨את⟩ uta, anatembenuzira msanga pa tsiku la nkhondo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "olilira"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "kutulutsa"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "anatembenuzira msanga"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pa tsiku la"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "nkhondo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:27.009907196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 73,
+  "translation": "Ndani ndi wanga m'kumwamba? Ndipo pamene ndili ndi iwe, sindikondwera ndi chinthu pa dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ndani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi wanga"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "m'kumwamba"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "pamene ndili ndi iwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi-"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "kondwera"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pa dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:28.250661861Z",
+  "model": "glm-5.3"
+}

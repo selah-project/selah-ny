@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 20:20",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Nati: “Sudzapita.” Ndipo Edomu anatuluka kukakomana naye ndi anthu ochuluka ndi dzanja lalikulu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Nati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "su-"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "dzapita"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "Ndipo anatuluka"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "kukakomana naye"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "ndi anthu"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ochuluka"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ndi dzanja"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "lalikulu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:03:22.981236430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 77,
+  "translation": "Mitambo ya ukulu idathira madzi; kumwamba kunapereka mawu; ndithu, mivi yanu inayendayenda.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "idathira"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "mitambo ya ukulu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "kunapereka"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "mivi yanu"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "inayendayenda"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:03.952816102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ndili ndi mtima wonse ndinakufunafunani inu; musanditsekereze kuchoka pa malamulo anu.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wonse"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "ndinakufunafunani inu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musandi-"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "-ditsekereze"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "kuchoka pa malamulo anu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:10:12.160610444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo Davidi anatenganso akazi ku Yerushalayimu, ndipo Davidi anabalaanso ana amuna ndi ana akazi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anatenganso"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "-nso"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "akazi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ku Yerushalayimu"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "anabalaanso"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "-nso"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ana amuna"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ndi ana akazi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:28:34.548444215Z",
+  "model": "glm-5.3"
+}

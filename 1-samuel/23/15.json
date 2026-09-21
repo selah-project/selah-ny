@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo Davide anaona kuti Shauli watuluka kufunafuna ⟨את⟩ moyo wake; ndipo Davide anali m'chipululu cha Zifi, mu thengo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "watuluka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "kufunafuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wake"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ndipo Davide"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "m'chipululu"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "cha Zifi"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "mu thengo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:11:40.300564612Z",
+  "model": "glm-5.3"
+}

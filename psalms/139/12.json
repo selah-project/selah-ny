@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 139,
+  "translation": "Komanso mdima sumazimika kwa iwe, ndipo usiku udzawala ngati tsiku; ngati mdima, ngati kuwala kwa iye.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Komanso"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mdima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sumazimika"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "zimika"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ndipo usiku"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ngati tsiku"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "udzawala"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "ngati mdima"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "ngati kuwala"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:17.651384800Z",
+  "model": "glm-5.3"
+}

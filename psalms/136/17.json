@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 136,
+  "translation": "Kwa Iye amene anamenya mafumu akulu, chifukwa khesedi wake kukhalabe ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Kwa Iye amene anamenya"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "akulu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi wake kukhalabe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:06.317443313Z",
+  "model": "glm-5.3"
+}

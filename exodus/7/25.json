@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo masiku asanu ndi awiri anakwaniritsidwa, atangomenya Yahwe ⟨את⟩ mtsinje wa Nili.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "anakwaniritsidwa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "asanu ndi awiri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "atangomenya"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "kumenya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtsinje wa Nili"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "mtsinje wa Nili"
+    }
+  ],
+  "timestamp": "2026-09-21T12:55:40.511268290Z",
+  "model": "glm-5.3"
+}

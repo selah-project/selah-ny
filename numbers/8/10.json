@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo udzabweretsa ⟨את⟩ Alevi pamaso pa Yahwe, ndipo ana a Yisraeli adzayika ⟨את⟩ manja awo pa Alevi.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "udzabweretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Alevi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "adzayika"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manja awo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "manja awo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Alevi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:54:57.939364645Z",
+  "model": "glm-5.3"
+}

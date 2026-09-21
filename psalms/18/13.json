@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ku kuwala kuli pamaso pake, mitambo yake inadutsa; chivunde ndi malale a moto.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "ku kuwala"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "pamaso pake"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "mitambo yake"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "inadutsa"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "chivunde"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "ndi malale"
+    },
+    {
+      "surface": "אש",
+      "gloss": "a moto"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:57.622411441Z",
+  "model": "glm-5.3"
+}

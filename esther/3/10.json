@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndiye mfumu inachotsa ⟨את⟩ chizindikiro chake choikapo manja choikapo pa dzanja lake, napatsa Hamedi mwana wa Medata, wa Agagi, mlonda wa Ayuda.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "inachotsa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chizindikiro chake choikapo manja"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "chizindikiro chake choikapo manja"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pa dzanja lake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "napatsa"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Hamedi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Medata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "wa Agagi"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "mlonda wa"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Ayuda"
+    }
+  ],
+  "timestamp": "2026-09-21T11:59:29.489612696Z",
+  "model": "glm-5.3"
+}

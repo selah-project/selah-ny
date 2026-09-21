@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Ndataya mphamvu ndipo ndagwadidwa mpaka kwambiri; ndafuula mokweza chifukwa cha kudandaula kwa mtima wanga.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "ndataya mphamvu"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "ndipo ndagwadidwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "ndafuula mokweza"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "chifukwa cha kudandaula"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kwa mtima wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:37.701634947Z",
+  "model": "glm-5.3"
+}

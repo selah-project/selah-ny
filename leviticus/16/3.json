@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "M'njira iyi Aharoni adzalowa ku malo oyera: ndi ng'ombe yamuna yachinyamata ngati nsembe ya machimo, ndi nkhosa yamuna ngati nsembe yopsereka.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "M'njira iyi"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "adzalowa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "malo oyera"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "ng'ombe yamuna yachinyamata"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨yachinyamata⟩"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "⟨ya ng'ombe⟩"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ngati nsembe ya machimo"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ndi nkhosa yamuna"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ngati nsembe yopsereka"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:12.803371154Z",
+  "model": "glm-5.3"
+}

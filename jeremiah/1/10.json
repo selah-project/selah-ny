@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 1:10",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ona, lero ndakuyika iwe pa anthu a mitundu ndi pa ufumu, kuchotsa mizu, kuvunda, kuononga ndi kuphwanya, kumanga ndi kudzala.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "הפקדתיך",
+      "gloss": "ndakuyika iwe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨ino⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "anthu a mitundu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "ufumu"
+    },
+    {
+      "surface": "לנתוש",
+      "gloss": "kuchotsa mizu"
+    },
+    {
+      "surface": "ולנתוץ",
+      "gloss": "kuvunda"
+    },
+    {
+      "surface": "ולהאביד",
+      "gloss": "kuononga"
+    },
+    {
+      "surface": "ולהרוס",
+      "gloss": "kuphwanya"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kumanga"
+    },
+    {
+      "surface": "ולנטוע",
+      "gloss": "kudzala"
+    }
+  ],
+  "timestamp": "2026-09-21T09:27:05.786151906Z",
+  "model": "glm-5.3"
+}

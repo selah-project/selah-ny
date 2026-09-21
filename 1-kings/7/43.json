@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo ⟨את⟩ mabwalo okhazikika khumi, ndi ⟨את⟩ mabwalo ake khumi pa mabwalo okhazikika.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mabwalo okhazikika khumi"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "mabwalo okhazikika"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mabwalo ake khumi"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "mabwalo ake"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "mabwalo okhazikika"
+    }
+  ],
+  "timestamp": "2026-09-21T08:33:28.666880787Z",
+  "model": "glm-5.3"
+}

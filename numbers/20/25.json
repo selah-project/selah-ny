@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Mula ⟨את⟩ Aharoni ndi ⟨את⟩ Elazara mwana wake, ndipo mwaloweretsa ⟨את⟩ iwo pa phiri la Hora.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Mula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Elazara"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazara"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "ndipo mwaloweretsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hora"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "phiri la"
+    }
+  ],
+  "timestamp": "2026-09-21T07:02:48.738295011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 46,
+  "translation": "Mtsinje — mitsinje yake imapangitsa kukondwera mudzi wa Elohim, chinsinsi cha malo okhala a Elyoni.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "mtsinje"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "mitsinje yake"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "imapangitsa kukondwera"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mudzi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chinsinsi"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "malo okhala a"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoni"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:45.306522149Z",
+  "model": "glm-5.3"
+}

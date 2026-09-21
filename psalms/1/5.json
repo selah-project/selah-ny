@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Chifukwa chake oipa sadzaime m'chiweruzo, ndipo ochimwa m'mpingo wa olungama.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "dzaime"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "oipa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "m'chiweruzo"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ndipo ochimwa"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "m'mpingo wa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "olungama"
+    }
+  ],
+  "timestamp": "2026-09-21T10:39:42.999267787Z",
+  "model": "glm-5.3"
+}

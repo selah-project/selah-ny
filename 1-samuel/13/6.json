@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo anthu a Yisraeli anaona kuti ali m'chizonzo, popeza anthu anakakamizidwa; ndipo anthu anabisika m'miphanga, ndi m'mitsidze, ndi m'mabwe, ndi m'malo okwera, ndi m'madziwe.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ndipo anthu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "צר",
+      "gloss": "m'chizonzo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "anakakamizidwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "anabisika"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "m'miphanga"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "ndi m'mitsidze"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "ndi m'mabwe"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "ndi m'malo okwera"
+    },
+    {
+      "surface": "ובבורות",
+      "gloss": "ndi m'madziwe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:03:54.814802518Z",
+  "model": "glm-5.3"
+}

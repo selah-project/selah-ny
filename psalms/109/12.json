@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "Asakhale ndi wokongoletsedwa ndi khesedi, ndipo asakhale wachitira chifundo ana ake amasiye.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "asa"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "akhale"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "משך",
+      "gloss": "wokongoletsedwa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesedi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo asa"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "akhale"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "wachitira chifundo"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "ana ake amasiye"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:40.514430402Z",
+  "model": "glm-5.3"
+}

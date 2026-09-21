@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Koma Avimeleki sanayandikire kwa iye, nati: “Adonayi, kodi udzapha komanso mtundu wolungama?”",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "Koma Avimeleki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "nayandikire"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "mtundu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "komanso"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "udzapha"
+    }
+  ],
+  "timestamp": "2026-09-21T12:53:27.695453040Z",
+  "model": "glm-5.3"
+}

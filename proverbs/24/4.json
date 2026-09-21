@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo mwa chidziwitso zipinda zimadzazidwa ndi chuma chonse cha mtengo wapatali ndi chokondweretsa.",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "ndipo mwa chidziwitso"
+    },
+    {
+      "surface": "חדרים",
+      "gloss": "zipinda"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "zimadzazidwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chonse"
+    },
+    {
+      "surface": "הון",
+      "gloss": "chuma cha"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "mtengo wapatali"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "ndi chokondweretsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:26:10.754183156Z",
+  "model": "glm-5.3"
+}

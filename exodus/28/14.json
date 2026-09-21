@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 28:14",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo maola awiri a golide woyera; monga zingwe upange ⟨את⟩ iwo, ntchito ya kusokonezera; ndipo uiike ⟨את⟩ maola a zosokonezera pa makongoletsedwe.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "ndipo awiri"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "maola"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "a golide"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "מגבלת",
+      "gloss": "monga zingwe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "upange"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo (maola awiri)"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "ya kusokonezera"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ndipo uiike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maola"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "maola"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "a zosokonezera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המשבצת",
+      "gloss": "makongoletsedwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:21:47.199537229Z",
+  "model": "glm-5.3"
+}

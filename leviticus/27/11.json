@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 27:11",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo ngati ndi nyama iliyonse yodetsa imene sapereka kwa Yahwe korban, ndipo waimitsa ⟨את⟩ nyamayo pamaso pa wansembe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ndipo ngati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iliyonse"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "yodetsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "osati"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "sapereka"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "ndipo waimitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyamayo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "nyamayo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:48:42.282636592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "M'dziko limenelo Ashuri anatuluka, namanga ⟨את⟩ Ninive, ndi ⟨את⟩ Rehoboti-iri, ndi ⟨את⟩ Kelahi.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "m'"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "limenelo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "anatuluka"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuri"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "namanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninive"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Rehoboti-iri"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rehoboti"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-iri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Kelahi"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelahi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:46:08.148468865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo Shemuëli adamva ⟨את⟩ mawu onse a anthu, ndipo adawatero m'makutu a Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "adamva"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuëli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu onse a anthu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a anthu"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "adawatero"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "m'makutu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:00:22.477822939Z",
+  "model": "glm-5.3"
+}

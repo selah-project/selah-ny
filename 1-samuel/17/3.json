@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 17:3",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo Afilishti anali akuyimirira pa phiri lino, ndipo Yisraeli anali akuyimirira pa phiri limenelo, ndipo chigwa chili pakati pawo.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Ndipo Afilishti"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "anali akuyimirira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "lino"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ndipo Yisraeli"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "anali akuyimirira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "limenelo"
+    },
+    {
+      "surface": "והגיא",
+      "gloss": "chigwa"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "chili pakati pawo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:08:25.232529433Z",
+  "model": "glm-5.3"
+}

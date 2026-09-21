@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo upange ⟨את⟩ mipanda ya mishkani, mitengo ya shittim, yokhala yoyimirira.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ndipo upange"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mipanda"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "mipanda"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ya mishkani"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mitengo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ya shittim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "yoyimirira"
+    }
+  ],
+  "timestamp": "2026-09-21T06:20:23.466955668Z",
+  "model": "glm-5.3"
+}

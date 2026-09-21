@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 50,
+  "translation": "Ndipo ana ake anamuchitira monga momwe anawalamulira.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "anamuchitira"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "כן",
+      "gloss": "monga"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "momwe"
+    },
+    {
+      "surface": "צום",
+      "gloss": "anawalamulira"
+    }
+  ],
+  "timestamp": "2026-09-21T06:06:54.614598263Z",
+  "model": "glm-5.3"
+}

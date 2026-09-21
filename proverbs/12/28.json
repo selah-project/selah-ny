@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "M'njira ya chilungamo muli moyo, ndipo m'njira yake palibe imfa.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "m'njira"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ya chilungamo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ndipo m'njira"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "yake (njira yopapatiza)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "imfa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:21:43.017407113Z",
+  "model": "glm-5.3"
+}

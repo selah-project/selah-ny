@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 18:36",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndi anthu anakhala chete, sanamuyankhe ⟨אתו⟩ liwu; chifukwa lamulo la mfumu linali ⟨ndilo⟩ lokuti: “Musamuyankhe.”",
+  "tokens": [
+    {
+      "surface": "והחרישו",
+      "gloss": "anakhala chete"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sana-"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "-muyankhe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "liwu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liwu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "lamulo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "la mfumu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ndilo⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "lokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa-"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "-muyankhe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:56:31.339233916Z",
+  "model": "glm-5.3"
+}

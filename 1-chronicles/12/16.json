@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Awa ndiwo amene anadutsa ⟨את⟩ Yordani m'mwezi woyamba, pamene unadzaza mpaka kwa mphaka zake zonse, ndipo anawathamitsa ⟨את⟩ onse a m'mabwalo, ku m'mawa ndi ku madzulo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Awa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ndiwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "anadutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yordani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordani"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "m'mwezi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "woyamba"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "pamene unadzaza"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "unadzaza"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpaka kwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "mphaka zake"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "ndipo anawathamitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onse a m'mabwalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "a m'mabwalo"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "ku m'mawa"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "ndi ku madzulo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:35:38.471179168Z",
+  "model": "glm-5.3"
+}

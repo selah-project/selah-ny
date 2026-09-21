@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 48,
+  "translation": "Iwo anaona; motero anadabwa; anamvutitsidwa ndi mantha, anathawa mwachangu.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Iwo"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "כן",
+      "gloss": "motero"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "anadabwa"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "anamvutitsidwa ndi mantha"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "anathawa mwachangu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:31.257279855Z",
+  "model": "glm-5.3"
+}

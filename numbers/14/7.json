@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 14:7",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo ananena kwa msonkhano wonse wa ana a Yisraeli, nati: “Dziko limene tinadutsa m’lime, kufufuza ⟨את⟩ lili, ndi dziko labwino kwambiri kwambiri.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse wa"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "msonkhano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Dziko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "tinadutsa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "m’lime"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "kufufuza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ lili",
+      "marks": "dziko lili"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "labwino"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    }
+  ],
+  "timestamp": "2026-09-21T06:58:12.127830668Z",
+  "model": "glm-5.3"
+}

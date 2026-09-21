@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Nati: Tsopano komanso, monga mawu anu, kotero ndi kotero; amene angapezedwe ⟨את⟩ kwa iye adzakhala kapolo wanga, ndipo inu mudzakhala opanda mulandu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Nati"
+    },
+    {
+      "surface": "גם",
+      "gloss": "komanso"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Tsopano"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "monga mawu anu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kotero"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndi kotero"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "angapezedwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kwa iye",
+      "marks": "chikhocho chidzapezedwa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kapolo wanga"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kapolo"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ndipo inu"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "mudzakhala"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "opanda mulandu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:03:44.092776017Z",
+  "model": "glm-5.3"
+}

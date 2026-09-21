@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 98,
+  "translation": "Nyanja ikhumudwe ndi zonse zimene zili mmenemo; dziko lapansi ndi okhalamo pawo.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "ikhumudwe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Nyanja"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ndi zonse zimene zili mmenemo"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ndi okhalamo pawo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "pawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:36.483658419Z",
+  "model": "glm-5.3"
+}

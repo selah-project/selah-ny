@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo apange ine malo odzikhalira oyera; ndipo ndidzakhala pakati pawo.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Ndipo apange"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "malo odzikhalira oyera"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "ndipo ndidzakhala"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "pakati pawo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:19:20.807015869Z",
+  "model": "glm-5.3"
+}

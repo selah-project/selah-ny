@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo ⟨את⟩ nyumba za Yerushalayimu munaziwerengera; ndipo munagwetsa ⟨הבתים⟩ nyumbazo kuti muzimanga chikhalire khoma.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "za Yerushalayimu"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "munaziwerengera"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "ndipo munagwetsa"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "nyumbazo"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "kuti muzimanga chikhalire"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "khoma"
+    }
+  ],
+  "timestamp": "2026-09-21T09:08:20.777346648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 3:3",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo ndinati kwa iye: “Masiku ambiri udzakhalabe ndi ine; sudzagolola, ndipo sudzakhala kwa munthu wina; ndiponso ine ndidzakhala ⟨choncho⟩ kwa iwe.”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ndipo ndinati"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ambiri"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "udzakhalabe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi ine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sudza- (osati)"
+    },
+    {
+      "surface": "תזני",
+      "gloss": "golola"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo osati"
+    },
+    {
+      "surface": "תהיי",
+      "gloss": "udzakhala"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kwa munthu wina"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T13:20:45.319831788Z",
+  "model": "glm-5.3"
+}

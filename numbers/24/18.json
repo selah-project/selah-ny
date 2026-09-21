@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 24:18",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Edomu idzakhala cholowa, ndipo Seiri idzakhala cholowa cha adani ake, ndipo Yisraeli adzachita mphamvu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "idzakhala"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "cholowa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ndipo idzakhala"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "cholowa"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seiri"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "cha adani ake"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ndipo Yisraeli"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "adzachita"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mphamvu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:05:49.448748551Z",
+  "model": "glm-5.3"
+}

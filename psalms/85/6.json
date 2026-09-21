@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 85,
+  "translation": "Kodi mpaka muyaya mudzakwiyira ⟨pa ife⟩? Kodi mudzaduliza mkwiyo wanu kwa mtendere ndi mtendere?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "kodi mpaka muyaya"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "mudzakwiyira"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨pa ife⟩"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "mudzaduliza"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "mkwiyo wanu"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwa mtendere"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ndi mtendere"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:22.576395922Z",
+  "model": "glm-5.3"
+}

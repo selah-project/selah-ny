@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 50,
+  "translation": "Ndipembedse pa tsiku la mavuto; ndidzakutulutsa, ndipo undizilemeretsa.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "Ndipembedse"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pa tsiku"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "la mavuto"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "ndidzakutulutsa"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "undizilemeretsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:59.326797613Z",
+  "model": "glm-5.3"
+}

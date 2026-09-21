@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 68,
+  "translation": "Monga utsi umatayidwa, momwemo ⟨adzatayidwa⟩; monga donagi limasungunuka pamaso pa moto, momwemo olakwa adzaonongeka pamaso pa Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "Monga utsi umatayidwa"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "utsi"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "momwemo ⟨adzatayidwa⟩"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "monga kusungunuka kwa"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "donagi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "adzaonongeka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "olakwa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:28.185009962Z",
+  "model": "glm-5.3"
+}

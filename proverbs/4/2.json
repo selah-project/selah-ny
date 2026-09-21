@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Chifukwa ndinapatsani chiphunzitso chabwino; Tora yanga musaike.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chifukwa"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "chiphunzitso"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "chabwino"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndinapatsani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora yanga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musaike (negation)"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "musaike"
+    }
+  ],
+  "timestamp": "2026-09-21T11:18:57.307053835Z",
+  "model": "glm-5.3"
+}

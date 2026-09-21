@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo Yokashani anabala ⟨את⟩ Sheba ndi ⟨את⟩ Dedani; ndipo ana a Dedana anali Ashurimi ndi Letushimi ndi Leumimi.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Yokashani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Dedani"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedani"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedana"
+    },
+    {
+      "surface": "היו",
+      "gloss": "anali"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ashurimi"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "Letushimi"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "Leumimi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:53:16.249658804Z",
+  "model": "glm-5.3"
+}

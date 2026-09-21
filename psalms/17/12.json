@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Chifaniziro chake chili ngati mkango wofunitsitsa kudzapha, ndi ngati mkango wamng'ono wokhala m'mabisa.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "chifaniziro chake"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "ngati mkango"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "wofunitsitsa"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "kudzapha"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "ndi ngati mkango wamng'ono"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wokhala"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "m'mabisa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:56.756202926Z",
+  "model": "glm-5.3"
+}

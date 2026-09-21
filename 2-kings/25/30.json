@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo gawo lake, gawo la mwamuyayi, linalipatsidwa kwa iye kwa ⟨את⟩ mfumu, chiwerengero cha tsiku pa tsiku lake, tsiku lonse la moyo wake.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "gawo lake"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "gawo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "la mwamuyayi"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "linalipatsidwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kwa ⟨את⟩",
+      "marks": "mfumu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "chiwerengero"
+    },
+    {
+      "surface": "יום",
+      "gloss": "cha tsiku"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "pa tsiku lake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "la moyo wake"
+    }
+  ],
+  "timestamp": "2026-09-21T09:00:14.540758092Z",
+  "model": "glm-5.3"
+}

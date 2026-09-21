@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 83,
+  "translation": "Elohim wanga, aike iwo monga chinthu chokhotakhotaka, monga usana pamaso pa mphepo.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "aike iwo"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "monga chinthu chokhotakhotaka"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "monga usana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mphepo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:43.156419284Z",
+  "model": "glm-5.3"
+}

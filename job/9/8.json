@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 9:8",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Wokhazikika yekha, amene anatambasula miyamba, ndi kuwayenda pa mitu ya nyanja.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "anatambasula"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "miyamba"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yekha"
+    },
+    {
+      "surface": "ודורך",
+      "gloss": "ndi kuwayenda"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "mitu ya"
+    },
+    {
+      "surface": "ים",
+      "gloss": "nyanja"
+    }
+  ],
+  "timestamp": "2026-09-21T11:31:56.537250102Z",
+  "model": "glm-5.3"
+}

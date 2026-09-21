@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ruth 2:1",
+  "book": "ruth",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo kwa Naomi panali wodziwa ⟨wa⟩ mwamuna wake, munthu wamphamvu ndi chuma, wa m'banja la Elimelĕkh; ndipo dzina lake Boazi.",
+  "tokens": [
+    {
+      "surface": "ולנעמי",
+      "gloss": "kwa Naomi"
+    },
+    {
+      "surface": "מידע",
+      "gloss": "wodziwa"
+    },
+    {
+      "surface": "לאישה",
+      "gloss": "wa mwamuna wake"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "wamphamvu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "chuma"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "wa m'banja"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelĕkh"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "dzina lake"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:51:49.277934735Z",
+  "model": "glm-5.3"
+}

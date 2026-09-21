@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo ⟨את⟩ khungu la ng'ombeyo ndi ⟨את⟩ inso yake yonse, ndi mutu wake ndi mapazi ake, ndi zamkati mwake ndi chimbudzi chake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "khungu la ng'ombeyo"
+    },
+    {
+      "surface": "עור",
+      "gloss": "khungu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "la ng'ombeyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "inso yake yonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "inso yake"
+    },
+    {
+      "surface": "על",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mutu wake"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "mapazi ake"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "ndi zamkati mwake"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ndi chimbudzi chake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:31:34.917457517Z",
+  "model": "glm-5.3"
+}

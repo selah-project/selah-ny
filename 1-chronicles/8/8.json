@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo Shaharaimi adazala m'thengo la Moabu, atawatumiza ⟨אתם⟩ ⟨את⟩ Hushimi ndi ⟨את⟩ Baara akazi ake.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "Ndipo Shaharaimi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "adazala"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "m'thengo la"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "atawatumiza"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "atawatumiza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "Hushimi"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Hushimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Baara"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "akazi ake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:25:18.690249225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo Afilishti anakusanya ⟨את⟩ magulu awo ku nkhondo, nadzikusanya ku Sokoho, imene ili wa Yehudha, nakagona pakati pa Sokoho ndi pakati pa Azeka, ku Efesi-Damimu.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "anakusanya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilishti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magulu awo"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "magulu awo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ku nkhondo"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "nadzikusanya"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokoho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene ili"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "wa Yehudha"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "nakagona"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokoho"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeka"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Efesi-Damimu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:08:25.231952564Z",
+  "model": "glm-5.3"
+}

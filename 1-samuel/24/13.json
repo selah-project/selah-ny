@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 24:13",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Yahwe aweruze pakati pa ine ndi pakati pa iwe, ndipo Yahwe adzandiwenga mwa iwe, koma dzanja langa silidzakhalapo pa iwe.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "aweruze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "pakati pa ine"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ndi pakati pa iwe"
+    },
+    {
+      "surface": "ונקמני",
+      "gloss": "ndipo adzandiwenga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "mwa iwe"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "koma dzanja langa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "-dzakhalapo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "pa iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:11:26.074625656Z",
+  "model": "glm-5.3"
+}

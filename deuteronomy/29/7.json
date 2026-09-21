@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo tinatenga ⟨את⟩ dziko lawo, ndipo tinayipatsa kukhala cholowa cha a Reuvieni, ndi a Gadi, ndi theka la fuko la a Menashe.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "ndipo tinatenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko lawo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dziko lawo"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ndipo tinayipatsa"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "kukhala cholowa"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "cha a Reuvieni"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "ndi a Gadi"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "ndi theka la"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "fuko la"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "a Menashe"
+    }
+  ],
+  "timestamp": "2026-09-21T07:28:45.733032813Z",
+  "model": "glm-5.3"
+}

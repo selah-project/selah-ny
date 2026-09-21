@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 28:3",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Iwe ulankhule ndi onse ali nzeru za mtima, amene ndinawadzaza mzimu wa nzeru, ndipo apange ⟨את⟩ zovala za Aharon, kumupatulira, kuti asa memo kwa ine.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ulankhule"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "חכמי",
+      "gloss": "ali nzeru"
+    },
+    {
+      "surface": "לב",
+      "gloss": "za mtima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "מלאתיו",
+      "gloss": "ndinawadzaza"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wa nzeru"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ndipo apange"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zovala za Aharon"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "zovala"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "za Aharon"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "kumupatulira"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "kuti asa memo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T06:21:09.373592478Z",
+  "model": "glm-5.3"
+}

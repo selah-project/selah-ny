@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo anatenga nadzika ⟨את⟩ umboni m'chikatira, nakaika ⟨את⟩ ndodo pa chikatira, nadzika ⟨את⟩ chikhomo cha popeza pamwamba pa chikatira.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nadzika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umboni"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "umboni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "m'"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "chikatira"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nakaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndodo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ndodo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "chikatira"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nadzika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikhomo cha popeza"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "chikhomo cha popeza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "chikatira"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "pamwamba"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:41.864053414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndipo Yahwe anali ⟨את⟩ Yosefe, nakhala munthu wopambana, ndipo adakhala m'nyumba ya mbuye wake wa ku Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo anali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nakhala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "wopambana"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ndipo adakhala"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ya mbuye wake"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "wa ku Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:01:20.308575982Z",
+  "model": "glm-5.3"
+}

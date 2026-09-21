@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo ana a Gomeri: Ashkenazi, Rifathi ndi Togarmahi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ndipo ana a"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomeri"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ashkenazi"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "Rifathi"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "ndi Togarmahi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:45:13.376677035Z",
+  "model": "glm-5.3"
+}

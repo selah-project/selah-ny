@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Ndipo mfumu ya Mitsrayimu idamuchotsera ku Yerushalayimu, nipo idawalanga ⟨את⟩ dziko ndi talenti zana za siliva ndi talenti imodzi ya golide.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "idamuchotsera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayimu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ku Yerushalayimu"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "idawalanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zana"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talenti"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "za siliva"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "ndi talenti imodzi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya golide"
+    }
+  ],
+  "timestamp": "2026-09-21T12:52:05.979814220Z",
+  "model": "glm-5.3"
+}

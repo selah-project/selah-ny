@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 47,
+  "translation": "Elohim akuchita ufumu pa mitundu ya anthu; Elohim wakhala pa mpando wachifumu woyera wake.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "akuchita ufumu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mitundu ya anthu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wakhala"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "mpando wachifumu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "woyera wake"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:10.293898265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 14:43",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo ngati matenda abweranso, nafyala m'nyumbayo, atatha kutchola ⟨את⟩ matumbiwo, ndi atakwera ⟨את⟩ nyumbayo, ndi atadzazanso.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ndipo ngati"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "abweranso"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "matenda"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "nafyala"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "m'nyumbayo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "atatha"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "kutchola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matumbiwo"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "matumbiwo"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ndi atakwera"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "kuikwera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumbayo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumbayo"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ndi atadzazanso"
+    },
+    {
+      "surface": "הטוח",
+      "gloss": "kudzaza"
+    }
+  ],
+  "timestamp": "2026-09-21T06:37:22.289975515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Khozera pa Yahwe, ntchita zabwino; khazikika m'dziko lapansi, ndipo yetsa chikhulupiriro.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Khozera"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "pa Yahwe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ntchita"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zabwino"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "khazikika"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "m'dziko lapansi"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "yetsa"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "chikhulupiriro"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:33.559804957Z",
+  "model": "glm-5.3"
+}

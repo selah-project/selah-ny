@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 71,
+  "translation": "Elohim, usakhale kutali ndi ine; Elohim wanga, fulumira kundithandiza.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "khale kutali"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ndi ine"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "kundithandiza"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "fulumira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:49.545323854Z",
+  "model": "glm-5.3"
+}

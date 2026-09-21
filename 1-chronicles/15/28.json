@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 15:28",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo Yisraeli onse analikwera ⟨את⟩ sanduku la pangano la Yahwe ndi makuwe, ndi mawu a nyanga ya nkhosa, ndi malipenga, ndi zida zowirira, akuzimiranitsa ndi nabalim ndi kinorothi.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ndi onse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "analikwera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku la pangano la Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "la pangano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ndi makuwe"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "ndi mawu a"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "nyanga ya nkhosa"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "ndi malipenga"
+    },
+    {
+      "surface": "ובמצלתים",
+      "gloss": "ndi zida zowirira"
+    },
+    {
+      "surface": "משמעים",
+      "gloss": "akuzimiranitsa"
+    },
+    {
+      "surface": "בנבלים",
+      "gloss": "ndi nabalim"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "ndi kinorothi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:29:15.088785327Z",
+  "model": "glm-5.3"
+}

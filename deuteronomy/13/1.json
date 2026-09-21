@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "⟨את⟩ mawu onse amene inu ndikulamulira ⟨אתכם⟩, ⟨את⟩ ndiwo mudzawasunga kuwachita; musawonjezere pa iwo, ndipo musachotse konse kokha mwa iwo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ndikulamulira"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "inu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ndiwo",
+      "marks": "mawu onse"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "mudzawasunga"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuwachita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mus-"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "wonjezere"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iwo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo musa-"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "chotse"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mwa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:22:10.918922755Z",
+  "model": "glm-5.3"
+}

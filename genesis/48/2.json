@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 48:2",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 48,
+  "translation": "Ndipo ananena kwa Yakobo, nati: “Taona, mwana wako Yosefe akudza kwa iwe.” Ndipo Yisraeli adamphamvukitsa yekha, nadzakhala pa ⟨את⟩ bedi.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kwa Yakobo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Taona"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana wako"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "akudza"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "adamphamvukitsa yekha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nadzakhala"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "bedi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:05:51.265103466Z",
+  "model": "glm-5.3"
+}

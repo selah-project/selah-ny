@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ngati iye atenga mkazi wina, chakudya chake, chovala chake, ndi kukondana kwake sadzachotsera.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "mkazi wina"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "atenga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "chakudya chake"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "chovala chake"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "ndi kukondana kwake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "dzachotsera"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:11.923330335Z",
+  "model": "glm-5.3"
+}

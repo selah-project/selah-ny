@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 138,
+  "translation": "Pakuti Yahwe ndi wamkulu, koma wopyapyala ⟨amamuona⟩, ndipo wodzikweza adamudziwa kuchokera kutali.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ndi wamkulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "koma wopyapyala"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "⟨amamuona⟩"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "ndipo wodzikweza"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "kuchokera kutali"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "adamudziwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:05.130690470Z",
+  "model": "glm-5.3"
+}

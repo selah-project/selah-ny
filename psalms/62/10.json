@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 62,
+  "translation": "Ndithu ana a anthu ndi zopanda pake, ndipo ana a akulu ndi achinyengo; pa miyeso, akakwezedwa, iwo onse pamodzi ndi zopanda pake.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "zopanda pake"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "achinyengo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "איש",
+      "gloss": "akulu"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "pa miyeso"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "akakwezedwa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "zopanda pake"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:30.602304076Z",
+  "model": "glm-5.3"
+}

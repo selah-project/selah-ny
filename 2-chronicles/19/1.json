@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo Yehoshuwa, mfumu ya Yehuda, anabwerera ku nyumba yake m'mtendere, ku Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "anabwerera"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "m'mtendere"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "ku Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:44:20.576292060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Koma ndithu ine ndamazala mphamvu, ⟨את⟩ mzimu wa Yahwe, ndi chiweruzo ndi mphamvu zazikulu, kuuza Yaakob kulakwa kwake ndi kwa Yisraeli tchimo lake.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Koma ndithu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "ndamazala"
+    },
+    {
+      "surface": "כח",
+      "gloss": "mphamvu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mzimu wa Yahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ndi chiweruzo"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "ndi mphamvu zazikulu"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "kuuza"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "kulakwa kwake"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "ndi kwa Yisraeli"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "tchimo lake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:29:38.132989761Z",
+  "model": "glm-5.3"
+}

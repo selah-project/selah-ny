@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndani ndi ameneyu, mfumu ya ulemerero? Yahwe, wamphamvu ndi wankhanza; Yahwe, wankhanza pa nkhondo.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ndani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ndi ameneyu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ya ulemerero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "wamphamvu"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "ndi wankhanza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "wankhanza"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "pa nkhondo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:47.893223471Z",
+  "model": "glm-5.3"
+}

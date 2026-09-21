@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo munthu yemwe adamenya moyo wa munthu aliyense, kufa adzafa.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ndipo munthu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yemwe"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "adamenya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moyo wa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "adzafa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:44:16.979843414Z",
+  "model": "glm-5.3"
+}

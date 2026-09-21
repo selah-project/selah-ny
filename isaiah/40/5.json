@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo ulemerero wa Yahwe udzaonekera, ndipo ku nthawi imodzi nonse udzaona; pakuti kamwa ka Yahwe kwanena.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "udzaonekera"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ulemerero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "udzaona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nonse"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ku nthawi imodzi nonse"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ku nthawi imodzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kamwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwanena"
+    }
+  ],
+  "timestamp": "2026-09-21T09:16:57.516883876Z",
+  "model": "glm-5.3"
+}

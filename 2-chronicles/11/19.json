@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo iye anamubereka ana: ⟨את⟩ Yeushi ndi ⟨את⟩ Shemaryahu ndi ⟨את⟩ Zahamu.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "anamubereka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeushi"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Yeushi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Shemaryahu"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Shemaryahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Zahamu"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zahamu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:40:21.234272108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 12:5",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "ndi Yirmeyahu, ndi Yakhaziyeli, ndi Yokhanani, ndi Yozavadi, wa Gedera;",
+  "tokens": [
+    {
+      "surface": "וירמיה",
+      "gloss": "ndi Yirmeyahu"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "ndi Yakhaziyeli"
+    },
+    {
+      "surface": "ויוחנן",
+      "gloss": "ndi Yokhanani"
+    },
+    {
+      "surface": "ויוזבד",
+      "gloss": "ndi Yozavadi"
+    },
+    {
+      "surface": "הגדרתי",
+      "gloss": "wa Gedera"
+    }
+  ],
+  "timestamp": "2026-09-21T12:26:44.569035289Z",
+  "model": "glm-5.3"
+}

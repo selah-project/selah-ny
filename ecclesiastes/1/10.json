@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Kodi pali chinthu chomwe munthu anganene: “Ona ichi, nchatsopano”? Kale kale chinkhalirapo kwa nthawi zambiri, chimene chinkhalirapo pamaso pathu.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "pali"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "chinthu"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "chomwe munthu anganene"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nchatsopano"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ndi⟩"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "kale kale"
+    },
+    {
+      "surface": "היה",
+      "gloss": "chinkhalirapo"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "kwa nthawi zambiri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "היה",
+      "gloss": "chinkhalirapo"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "pamaso pathu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:54:49.255540047Z",
+  "model": "glm-5.3"
+}

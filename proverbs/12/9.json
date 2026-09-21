@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Wopepedwa ndipo ali ndi kapolo ndi wabwino ⟨koposa⟩ wodzilemekeza yekha, amene alibe mkate.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "wabwino"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "wopepedwa"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ndipo ali ndi kapolo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lake"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "koposa wodzilemekeza yekha"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "amene alibe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    }
+  ],
+  "timestamp": "2026-09-21T11:21:27.594778344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo anathira ndi limenelo pa guwa la nsembe kasanu ndi kawiri, nadzozera ⟨את⟩ guwa la nsembe ndi ⟨את⟩ zida zake zonse, ndi ⟨את⟩ beseni ndi ⟨את⟩ chitsinde chake, kuziyeretsa.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "anathira"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ndi limenelo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa la nsembe"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "kasanu ndi kawiri"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": ""
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "nadzozera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guwa la nsembe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa la nsembe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zida zake zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zida zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "beseni"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "beseni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chitsinde chake"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "chitsinde chake"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "kuziyeretsa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:34:56.978320997Z",
+  "model": "glm-5.3"
+}

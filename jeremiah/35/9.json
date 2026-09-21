@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 35:9",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "kuti tisange kumanga nyumba zokhala kwathu; ndipo mpesa, ndi munda, ndi mbewu — sizikhalabe kwa ife.",
+  "tokens": [
+    {
+      "surface": "ולבלתי",
+      "gloss": "kuti tisange"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kumanga"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "לשבתנו",
+      "gloss": "zokhala kwathu"
+    },
+    {
+      "surface": "וכרם",
+      "gloss": "ndi mpesa"
+    },
+    {
+      "surface": "ושדה",
+      "gloss": "ndi munda"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ndi mbewu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zikhala"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa ife"
+    }
+  ],
+  "timestamp": "2026-09-21T09:43:08.032912300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Kwa iwe mtima wanga unati: “Funani nkhope yanga.” ⟨את⟩ nkhope yanu, Yahwe, ndidzafuna.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kwa iwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "unati"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Funani"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope yanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhope yanu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nkhope yanu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ndidzafuna"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:53.544369727Z",
+  "model": "glm-5.3"
+}

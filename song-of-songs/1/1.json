@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Nyimbo ya nyimbo, imene ndi ya Shelomo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyimbo"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "ya nyimbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ndi ya Shelomo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:47:58.235519115Z",
+  "model": "glm-5.3"
+}

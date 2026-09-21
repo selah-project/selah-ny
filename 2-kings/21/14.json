@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 21:14",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo ndidzataya ⟨את⟩ chotsala cha cholowa changa, ndipo ndidzawapereka m'dzanja la adani awo; ndipo adzakhala chavundukiyo ndi chaboola kwa adani awo onse.",
+  "tokens": [
+    {
+      "surface": "ונטשתי",
+      "gloss": "ndipo ndidzataya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chotsala cha cholowa changa"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "chotsala"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "cha cholowa changa"
+    },
+    {
+      "surface": "ונתתים",
+      "gloss": "ndipo ndidzawapereka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "m'dzanja"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "la adani awo"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ndipo adzakhala"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "chavundukiyo"
+    },
+    {
+      "surface": "ולמשסה",
+      "gloss": "ndi chaboola"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa adani awo onse"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "adani awo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:59:51.238029107Z",
+  "model": "glm-5.3"
+}

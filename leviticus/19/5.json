@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo pamene mudzapereka nsembe ya zaulere kwa Yahwe, muzipereka mokhulupirika pamaso pake.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ndipo pamene"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "mudzapereka nsembe"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "ya zaulere"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "kuti mukhale okhulupirika pamaso pake"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "muzipereka"
+    }
+  ],
+  "timestamp": "2026-09-21T06:40:13.975128745Z",
+  "model": "glm-5.3"
+}

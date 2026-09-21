@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 16:12",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo ndinapatsa khwangwala pa khomo lako, ndi zikhwangwala zam'makutu ako, ndi chisoti cha kukongola pa mutu wako.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "ndinapatsa"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "khwangwala"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa khomo lako"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "khomo lako"
+    },
+    {
+      "surface": "ועגילים",
+      "gloss": "zikhwangwala zam'makutu ako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa makutu ako"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "makutu ako"
+    },
+    {
+      "surface": "ועטרת",
+      "gloss": "chisoti"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "cha kukongola"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "pa mutu wako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:00:06.239070857Z",
+  "model": "glm-5.3"
+}

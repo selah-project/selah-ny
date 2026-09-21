@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "“Khala ⟨את⟩ ndi ine; usaleme: pakuti amene akufuna ⟨את⟩ moyo wanga adzafunanso ⟨את⟩ moyo wako; pakuti wosungidwa ndi une ndi ine.”",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "Khala"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ndi ine",
+      "marks": "moyo wanga \/ moyo wako — chitetezo cha Ebjathar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "leme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "akufuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wanga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "adzafunanso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wako"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "wosungidwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "une"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ndi ine"
+    }
+  ],
+  "timestamp": "2026-09-21T08:10:43.013553255Z",
+  "model": "glm-5.3"
+}

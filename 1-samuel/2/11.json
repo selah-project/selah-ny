@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Elkanaha anabwerera ku Ramata ku nyumba yake; ndipo mnyamata uja anali kutumikira ⟨את⟩ Yahwe pamaso pa ⟨את⟩ Eli wansembe.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "anabwerera"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanaha"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "ku Ramata"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "ndipo mnyamata uja"
+    },
+    {
+      "surface": "היה",
+      "gloss": "anali"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "kutumikira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pamaso pa Eli wansembe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    }
+  ],
+  "timestamp": "2026-09-21T07:59:03.062844384Z",
+  "model": "glm-5.3"
+}

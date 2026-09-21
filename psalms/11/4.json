@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Yahwe ali m'chitempelo chake chopatulika, Yahwe m'kumwamba ⟨ndi⟩ mpando wake wachifumu; maso ake akuona, phiko lake aliyeserera ana a anthu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "m'chitempelo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "chake chopatulika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "m'kumwamba"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "mpando wake wachifumu"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "maso ake"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "akuona"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "phiko lake"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "aliyeserera"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:03.992756589Z",
+  "model": "glm-5.3"
+}

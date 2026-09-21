@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "M'mawu a wonyozayo ndi wotembererayo, chifukwa cha mdani ndi wolanga.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "m'mawu a"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "wonyoza"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "ndi wotemberera"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mdani"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "ndi wolanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:56.546381337Z",
+  "model": "glm-5.3"
+}

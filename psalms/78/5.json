@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Adaika umboni m'Yakobo, ndipo Tora adaika m'Yisraeli, imene ada lamulira ⟨את⟩ makolo athu, kuti awadziwitse ana awo.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "adaika"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "umboni"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "m'Yakobo"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "ndipo Tora"
+    },
+    {
+      "surface": "שם",
+      "gloss": "adaika"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "m'Yisraeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ada lamulira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makolo athu"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "makolo athu"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "kuti awadziwitse"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ana awo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:35.047743804Z",
+  "model": "glm-5.3"
+}

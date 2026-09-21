@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Mokhala ndi nyimbo sadzamwa vinyo; zakumwa zamphamvu zidzakhala zawawa kwa akumwa.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "mokhala ndi nyimbo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "dzamwa"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vinyo"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "zidzakhala zawawa"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "zakumwa zamphamvu"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "kwa akumwa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:10:18.385904278Z",
+  "model": "glm-5.3"
+}

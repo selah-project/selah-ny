@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 1:3",
+  "book": "amos",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Monga ali monso anena Yahwe: Pa machimo atatu a Damasiko, ndi pa chachinayi, sindidzabwezera; popeza anadinda ⟨את⟩ Giladi ndi zodola za chitsulo.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Monga ali monso"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "machimo"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "a Damasiko"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "chachinayi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "dzabwezera"
+    },
+    {
+      "surface": "על",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "דושם",
+      "gloss": "anadinda"
+    },
+    {
+      "surface": "בחרצות",
+      "gloss": "ndi zodola"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "za chitsulo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giladi"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giladi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:25:57.795463713Z",
+  "model": "glm-5.3"
+}

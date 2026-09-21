@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 1:13",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo matupi ake amdya ndi mapazi adzasambitsidwa ndi madzi, ndipo wansembe adzabweretsa ⟨את⟩ zonse, ndipo adzautsa pa guwa; nsembe yopsereka ndiye iyi, nsembe ya moto, fungo lokoma kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקרב",
+      "gloss": "matupi ake amdya"
+    },
+    {
+      "surface": "והכרעים",
+      "gloss": "ndi mapazi"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "adzasambitsidwa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ndi madzi"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "adzabweretsa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "adzautsa"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pa guwa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nsembe yopsereka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye iyi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nsembe ya moto"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "fungo"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "lokoma"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:12.208995746Z",
+  "model": "glm-5.3"
+}

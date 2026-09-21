@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Chipululu chidzakondwera ndi malo owuma, ndipo m'dambwe udzasekera, ndipo udzafumba monga loleza.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "chidzakondwera"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "chipululu"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "ndi malo owuma"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ndipo udzasekera"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "m'dambwe"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "ndipo udzafumba"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "monga loleza"
+    }
+  ],
+  "timestamp": "2026-09-21T09:14:42.580896616Z",
+  "model": "glm-5.3"
+}

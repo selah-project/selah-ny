@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 6:13",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Iyi ndi nsembe ya Aharoni ndi ana ake, imene adzapereka kwa Yahwe tsiku limene adzamudzodza ⟨אתו⟩: chikhumi cha efasi cha ufa wowomba, nsembe ya nthawi zonse; chigawo chake chimoza mmawa, ndi chigawo chake chimoza madzulo.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Iyi"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ya Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ndi ana ake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "adzapereka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "limene adzamudzodza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "עשירת",
+      "gloss": "chikhumi"
+    },
+    {
+      "surface": "האפה",
+      "gloss": "cha efasi"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "cha ufa wowomba"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ya nthawi zonse"
+    },
+    {
+      "surface": "מחציתה",
+      "gloss": "chigawo chake chimoza"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mmawa"
+    },
+    {
+      "surface": "ומחציתה",
+      "gloss": "ndi chigawo chake chimoza"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "madzulo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:32:10.399212527Z",
+  "model": "glm-5.3"
+}

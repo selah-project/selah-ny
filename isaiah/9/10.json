@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Yahwe adzaika pamwamba ⟨את⟩ achilikenge a Retsini pa iye, ndi ⟨את⟩ adani ake adzawachenjeza.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "Ndipo adzaika pamwamba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "achilikenge a Retsini"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "achilikenge a"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsini"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "adani ake"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "adani ake"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "adzawachenjeza"
+    }
+  ],
+  "timestamp": "2026-09-21T09:05:58.730501056Z",
+  "model": "glm-5.3"
+}

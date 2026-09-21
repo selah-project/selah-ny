@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Ndipo anadandaula m'mahema awo, sanamve m'liwu la Yahwe.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "anadandaula"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "m'mahema awo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "-namve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "m'liwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:59.289494501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "kusiyanitsa pakati pa chodetsa ndi pakati pa choyera, ndi pakati pa nyama imene imidya ndi pakati pa nyama imene simidya.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "kusiyanitsa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "chodetsa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "choyera"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "imene imidya"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "imidya"
+    }
+  ],
+  "timestamp": "2026-09-21T06:33:48.511657270Z",
+  "model": "glm-5.3"
+}

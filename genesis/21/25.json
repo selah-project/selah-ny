@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo Avraham adatsutsa ⟨את⟩ Abimelekhi chifukwa cha chiwerengero cha chitsime cha madzi chimene akapolo a Abimelekhi anabira.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "adatsutsa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abimelekhi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelekhi"
+    },
+    {
+      "surface": "על",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "chiwerengero cha"
+    },
+    {
+      "surface": "באר",
+      "gloss": "chitsime"
+    },
+    {
+      "surface": "המים",
+      "gloss": "cha madzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "anabira"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "akapolo a"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelekhi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:50:06.882068978Z",
+  "model": "glm-5.3"
+}

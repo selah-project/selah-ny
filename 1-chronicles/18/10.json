@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 18:10",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo anatumiza ⟨את⟩ Hadoramu mwana wake kwa mfumu Davidi, kumufunsa za mtendere wake ndi kumdalitsa, chifukwa anamenya nkhondo ndi Hadadezeri namphamvanso; pakuti wankhondo wa To'u anali Hadadezeri. Ndipo anabweretsa zida zonse za golide, ndi la siliva, ndi la kopala.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "anatumiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadoramu"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadoramu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kumufunsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "za iye"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "za mtendere"
+    },
+    {
+      "surface": "ולברכו",
+      "gloss": "ndi kumdalitsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "anamenya nkhondo"
+    },
+    {
+      "surface": "בהדדעזר",
+      "gloss": "ndi Hadadezeri"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "namphamvanso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "wa nkhondo"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "za To'u"
+    },
+    {
+      "surface": "היה",
+      "gloss": "anali"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezeri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zida"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "za golide"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ndi la siliva"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ndi la kopala"
+    }
+  ],
+  "timestamp": "2026-09-21T12:30:47.344581050Z",
+  "model": "glm-5.3"
+}

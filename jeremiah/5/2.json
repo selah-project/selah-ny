@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo ngati akunena: “Yahwe akhala ndi moyo,” ndithu akulumbira zabodza.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ndipo ngati"
+    },
+    {
+      "surface": "חי",
+      "gloss": "akhala ndi moyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "akunena"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "zabodza"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "akulumbira"
+    }
+  ],
+  "timestamp": "2026-09-21T09:30:49.671819307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 80,
+  "translation": "Elohim Tsevaoti, tipembherenso, ndipo kuunikira nkhope yanu, ndipo tidzapulumuka.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "tipembherenso"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "ndipo kuunikira"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nkhope yanu"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "ndipo tidzapulumuka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:38.837862268Z",
+  "model": "glm-5.3"
+}

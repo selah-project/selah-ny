@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo Davide anatsata, iye ndi anthu mazana anayi; ndipo anthu mazana awiri anaima, amene adaphwanyika mphamvu kudutsa ⟨את⟩ mtsinje wa Besori.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "anatsata"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ndi mazana anayi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ndipo anaima"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mazana awiri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "adaphwanyika mphamvu"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "kudutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtsine"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "mtsine"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "wa Besori"
+    }
+  ],
+  "timestamp": "2026-09-21T13:06:26.169868675Z",
+  "model": "glm-5.3"
+}

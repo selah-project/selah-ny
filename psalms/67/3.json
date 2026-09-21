@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 67,
+  "translation": "Kuti njira yanu idziwike pa dziko lapansi, chipulumutso chanu pakati pa anthu a mitundu yonse.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "Kuti...idziwike"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pa dziko lapansi"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "njira yanu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pakati pa...yonse"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "anthu a mitundu"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "chipulumutso chanu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:02.232833499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 2:9",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "ndipo adamulamulitsa ⟨את⟩ ku Giladi, ndi ku Ashuri, ndi ku Yizreeli, ndi pa Efrayimu, ndi pa Binyamini, ndi pa Yisraeli yonse.",
+  "tokens": [
+    {
+      "surface": "וימלכהו",
+      "gloss": "ndipo adamulamulitsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giladi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi ku"
+    },
+    {
+      "surface": "האשורי",
+      "gloss": "Ashuri"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi ku"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreeli"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamini"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "yonse"
+    }
+  ],
+  "timestamp": "2026-09-21T08:16:11.369605299Z",
+  "model": "glm-5.3"
+}

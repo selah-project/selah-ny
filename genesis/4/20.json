@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Adahi anabala ⟨את⟩ Yabhali; iye anakhalabe atate a akhale hema ndi a ziweto.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yabhali"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yabhali"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "היה",
+      "gloss": "anakhalabe"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atate a"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "akhale"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "ndi a ziweto"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:46.274788597Z",
+  "model": "glm-5.3"
+}

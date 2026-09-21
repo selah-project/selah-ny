@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 18:8",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo m'Tibhati ndi m'Kuni, midzi ya Hadadezeri, Dawidi anatenga koposa kwakukulu kosatha; m'menemo Shelomo anapanga ⟨את⟩ nyanja ya koposa ndi ⟨את⟩ matani ndi ⟨את⟩ zida za koposa.",
+  "tokens": [
+    {
+      "surface": "ומטבחת",
+      "gloss": "m'Tibhati"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "ndi m'Kuni"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "midzi ya"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezeri"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "koposa"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "kwakukulu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kosatha"
+    },
+    {
+      "surface": "בה",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyanja ya koposa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ya koposa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "matani"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "matani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zida za koposa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zida"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "za koposa"
+    }
+  ],
+  "timestamp": "2026-09-21T12:31:13.430179062Z",
+  "model": "glm-5.3"
+}

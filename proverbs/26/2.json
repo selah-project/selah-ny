@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Monga mbalame yendayenda, monga savulo pa kuwuluka kwake, momwemo matemberero opanda chifukwa sapeza malo.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "monga mbalame"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "yendayenda"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "monga savulo"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "pa kuwuluka kwake"
+    },
+    {
+      "surface": "כן",
+      "gloss": "momwemo"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "matemberero"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "opanda chifukwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "peza malo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:27:05.211351736Z",
+  "model": "glm-5.3"
+}

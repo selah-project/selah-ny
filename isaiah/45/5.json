@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 45,
+  "translation": "Ine ndine Yahwe, ndipo palibe wina; kupatula Ine palibe Elohim; ndinakulinga, ndipo iwe simunandidziwa Ine.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wina"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "kupatula Ine"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "ndinakulinga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo simu-"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "nandidziwa Ine"
+    }
+  ],
+  "timestamp": "2026-09-21T09:20:09.531792315Z",
+  "model": "glm-5.3"
+}

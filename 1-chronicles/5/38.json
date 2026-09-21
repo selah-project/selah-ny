@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo Achitubu anabala ⟨את⟩ Tsadoki, ndipo Tsadoki anabala ⟨את⟩ Shalumu.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "ndipo Achitubu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadoki"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadoki"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ndipo Tsadoki"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shalumu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalumu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:23:39.211804508Z",
+  "model": "glm-5.3"
+}

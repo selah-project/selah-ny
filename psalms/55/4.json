@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 55,
+  "translation": "Chifukwa cha mawu a mdani, chifukwa cha kunyozedwa kwa woipa; popeza akutsitsa cholakwika pa ine, ndi mkwiyo akundidana.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "chifukwa cha mawu"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "a mdani"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "kunyozedwa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kwa woipa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "akutsitsa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "און",
+      "gloss": "cholakwika"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "ndi mkwiyo"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "akundidana"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:33.087704186Z",
+  "model": "glm-5.3"
+}

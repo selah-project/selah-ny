@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 150,
+  "translation": "Lemekani m'zida zamkuwa zokweza ⟨את⟩ mawu; lemekani m'zida zamkuwa zofuula.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Lemekani-mu"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "m'zida zamkuwa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "zokweza mawu"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Lemekani-mu"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "m'zida zamkuwa"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "zofuula"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:29.778453775Z",
+  "model": "glm-5.3"
+}

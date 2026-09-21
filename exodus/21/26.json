@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo ngati munthu anamenya ⟨את⟩ diso la kapolo wake kapena ⟨את⟩ diso la kapolo wake wamkazi, nachiononga, amutuma waulere chifukwa cha diso lake.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ndipo ngati"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "anamenya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diso"
+    },
+    {
+      "surface": "עין",
+      "gloss": "diso"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "la kapolo wake"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diso"
+    },
+    {
+      "surface": "עין",
+      "gloss": "diso"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "la kapolo wake wamkazi"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "nachiononga"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "waulere"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "amutuma"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "diso lake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:44.957099342Z",
+  "model": "glm-5.3"
+}

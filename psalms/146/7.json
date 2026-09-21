@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 146,
+  "translation": "Wochita chiweruzo kwa osedwa, wopatsa chakudya kwa anthu anjala; Yahwe amatsegulitsa okhungidwa.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Wochita"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chiweruzo"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "kwa osedwa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wopatsa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chakudya"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "kwa anthu anjala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "amatsegulitsa"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "okhungidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:30.419111944Z",
+  "model": "glm-5.3"
+}

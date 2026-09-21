@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 46,
+  "translation": "Kwa yani mundifanizire, ndi kundilinganiza, ndi kundiyerekezera, kuti tifanane?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "Kwa yani"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "mundifanizire"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "ndi kundilinganiza"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "ndi kundiyerekezera"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "kuti tifanane"
+    }
+  ],
+  "timestamp": "2026-09-21T09:20:05.820112196Z",
+  "model": "glm-5.3"
+}

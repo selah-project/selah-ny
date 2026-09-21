@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo Ataliya anamva ⟨את⟩ mawu a anthu akuthamanga ndi akuyamika ⟨את⟩ mfumu, ndipo analowa kwa anthu m'nyumba ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "anamva"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Ataliya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a anthu"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "akuthamanga"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "ndi akuyamika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfumu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "analowa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T12:45:40.115626206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 62,
+  "translation": "Kamodzi Elohim adanena, kawiri ndinamva izi, kuti mphamvu ndi ya Elohim.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "kamodzi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "adanena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kawiri"
+    },
+    {
+      "surface": "זו",
+      "gloss": "izi"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndinamva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mphamvu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ya Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:30.602630820Z",
+  "model": "glm-5.3"
+}

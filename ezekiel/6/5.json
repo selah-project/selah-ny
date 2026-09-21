@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo ndidzaika ⟨את⟩ mabhodza a ana a Yisraeli pamaso pa mafano awo, ndipo ndidzamwaza ⟨את⟩ mafupa anu kuzungulira mapiri a nsembe anu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ndipo ndidzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabhodza a ana a Yisraeli"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "mabhodza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "mafano awo"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "ndipo ndidzamwaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafupa anu"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "mafupa anu"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "kuzungulira"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "mapiri a nsembe anu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:55:49.431191051Z",
+  "model": "glm-5.3"
+}

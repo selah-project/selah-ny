@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo abale ake anapita kulisa ⟨את⟩ nkhosa za atate wawo ku Shekhem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Ndipo anapita"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abale ake"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "kulisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhosa"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "za atate wawo"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "ku Shekhem"
+    }
+  ],
+  "timestamp": "2026-09-21T05:59:00.334328043Z",
+  "model": "glm-5.3"
+}

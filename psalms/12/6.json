@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Chifukwa cha kuwunidwa kwa osauka ndi kudandaulira kwa osowa, tsopano ndidzauka, Yahwe akuti; ndidzamuika m'chitetezo kwa iye amene akufuwula pa iye.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "kuwunidwa"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "osauka"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "kudandaulira"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "osowa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ndidzauka"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "akuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ndidzamuika"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "m'chitetezo"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "akufuwula"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:31.450059714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 3:1",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo Solomoni anachita ubwenzi ndi ⟨את⟩ Paro, mfumu ya Mitsrayimu, ndipo anatenga ⟨את⟩ mwana wamkazi wa Paro, nadza naye ku mzinda wa Dawidi, mpaka atamaliza kumanga ⟨את⟩ nyumba yake ndi ⟨את⟩ nyumba ya Yahwe ndi ⟨את⟩ khoma la Yerushalayimu kozungulira.",
+  "tokens": [
+    {
+      "surface": "ויתחתן",
+      "gloss": "anachita ubwenzi ndi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayimu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wamkazi wa Paro"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paro"
+    },
+    {
+      "surface": "ויביאה",
+      "gloss": "nadza naye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa Dawidi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "atamaliza"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kumanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba yake"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyumba ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "khoma la Yerushalayimu"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "khoma la"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kozungulira"
+    }
+  ],
+  "timestamp": "2026-09-21T08:32:30.057266511Z",
+  "model": "glm-5.3"
+}

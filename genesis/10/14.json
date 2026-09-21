@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "ndi ⟨את⟩ Pathrusimi ndi ⟨את⟩ Kaslukhimi, amene anachokera mmenemo Afilisiti, ndi ⟨את⟩ Kaphtorimi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Pathrusimi"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Pathrusimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Kaslukhimi"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kaslukhimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "anachokera"
+    },
+    {
+      "surface": "משם",
+      "gloss": "mmenemo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilisiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Kaphtorimi"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaphtorimi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:45:51.673069102Z",
+  "model": "glm-5.3"
+}

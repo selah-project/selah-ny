@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 14:7",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Iye anagunda ⟨את⟩ Edomu m'chigwa cha mchere, zihari khumi; ndipo anagwira ⟨את⟩ Sela m'nkhondo; nadzitchinjiriza ⟨את⟩ dzina lake Yakutiyeli, mpaka lero lino.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "anagunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "m'chigwa cha"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "mchere"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "zihari"
+    },
+    {
+      "surface": "ותפש",
+      "gloss": "ndipo anagwira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sela"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "m'nkhondo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nadzitchinjiriza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzina lake"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dzina lake"
+    },
+    {
+      "surface": "יקתאל",
+      "gloss": "Yakutiyeli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero lino"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lino"
+    }
+  ],
+  "timestamp": "2026-09-21T08:55:08.377660079Z",
+  "model": "glm-5.3"
+}

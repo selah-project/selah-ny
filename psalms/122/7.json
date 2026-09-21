@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 122,
+  "translation": "Mtendere ukhale m'maboma ako, chitendere chikhale m'nyumba zako zazikulu.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ukhale"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mtendere"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "m'maboma ako"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "chitendere"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "m'nyumba zako zazikulu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:07.531377582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Yahwe Elohim wathu adamupereka iye patsogolo pathu, ndipo tinamenya ⟨אתו⟩ ndi ⟨את⟩ ana ake ndi ⟨את⟩ anthu ake onse.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "adamupereka patsogolo pathu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "patsogolo pathu"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "ndipo tinamenya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana ake"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "anthu ake onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:14:11.558837334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo kwa Mikali, mwana wamkazi wa Shauli, sanakhale ndi mwana kufikira tsiku la imfa yake.",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "Ndipo kwa Mikali"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi wa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "היה",
+      "gloss": "-nakhale"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku la"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "imfa yake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:18:32.346187789Z",
+  "model": "glm-5.3"
+}

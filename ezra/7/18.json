@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 7:18",
+  "book": "ezra",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo chilichonse chimene chikuoneke bwino kwa iwe ndi kwa abale ako kuchita ndi zotsalira za siliva ndi golide, muchite monga mwa mafuna a Elohim wanu.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "ndipo chilichonse"
+    },
+    {
+      "surface": "די",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi kwa"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "abale ako"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "chikuoneke bwino"
+    },
+    {
+      "surface": "בשאר",
+      "gloss": "ndi zotsalira za"
+    },
+    {
+      "surface": "כספא",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "ודהבה",
+      "gloss": "ndi golide"
+    },
+    {
+      "surface": "למעבד",
+      "gloss": "kuchita"
+    },
+    {
+      "surface": "כרעות",
+      "gloss": "monga mwa mafuna"
+    },
+    {
+      "surface": "אלהכם",
+      "gloss": "a Elohim wanu"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "muchite"
+    }
+  ],
+  "timestamp": "2026-09-21T12:15:46.707692532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 88,
+  "translation": "Yahwe, Elohim wa chipulumutso changa, tsiku ndalephera, usiku pamaso panu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "chipulumutso changa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "ndalephera"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "pamaso panu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:35.667849209Z",
+  "model": "glm-5.3"
+}

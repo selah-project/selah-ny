@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "ana khumi a Haman, mwana wa Hamedata, mdani wa Ayuda — ana apha; koma pa kuwomba sanatume ⟨את⟩ dzanja lawo.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamedata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "mdani"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "wa Ayuda"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ana apha"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "koma pa kuwomba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "-natume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzanja lawo"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "dzanja lawo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:01:41.373909974Z",
+  "model": "glm-5.3"
+}

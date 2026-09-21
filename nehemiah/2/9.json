@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 2:9",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndinakafika kwa akulu a chigawo akutsadya pa mtsinje, ndipo ndinawapatsa ⟨את⟩ makalata a mfumu; ndipo mfumu inatumiza pamodzi ndi ine akulu a asilikali ndi okwera mahachi.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "Ndinakafika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פחוות",
+      "gloss": "akulu a chigawo"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "akutsadya"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "pa mtsinje"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ndipo ndinawapatsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makalata"
+    },
+    {
+      "surface": "אגרות",
+      "gloss": "makalata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a mfumu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ndipo inatumiza"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pamodzi ndi ine"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "akulu a"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "asilikali"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "ndi okwera mahachi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:17:01.084648994Z",
+  "model": "glm-5.3"
+}

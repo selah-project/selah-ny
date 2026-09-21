@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 80,
+  "translation": "Unatuma nthambi zake kufikira nyanja, ndi kumtsinje matsamba ake.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "unatuma"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "nthambi zake"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "ים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi ku"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "mtsitsi"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "matsamba ake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:17.695462813Z",
+  "model": "glm-5.3"
+}

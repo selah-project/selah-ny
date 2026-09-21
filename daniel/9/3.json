@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo ndinaika ⟨את⟩ nkhope yanga kwa Adonayi, ⟨ha⟩Elohim, kufunafuna pempho ndi zopemphera, mu kusala kudya, ndi nsanza, ndi phulusa.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ndipo ndinaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhope yanga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope yanga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "haElohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "kufunafuna"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "pempho"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "ndi zopemphera"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "mu kusala kudya"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "ndi nsanza"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "ndi phulusa"
+    }
+  ],
+  "timestamp": "2026-09-21T12:07:59.619563892Z",
+  "model": "glm-5.3"
+}

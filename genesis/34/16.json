@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "ndipo tidzapereka ⟨את⟩ ana athu akazi kwa inu, ndipo ⟨את⟩ ana anu akazi tidzatenga kwa ife; ndipo tidzakhala ndi ⟨את⟩ inu, ndipo tidzakhala anthu amodzi.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "tidzapereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana athu akazi"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "ana athu akazi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "ana anu akazi"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "ana anu akazi"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "tidzatenga"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa ife"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "tidzakhala"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "ndi ⟨את⟩ inu"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "tidzakhala"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "amodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:58:43.770154741Z",
+  "model": "glm-5.3"
+}

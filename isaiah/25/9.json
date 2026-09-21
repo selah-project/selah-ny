@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 25:9",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo adzati pa tsiku lija: “Taona, Elohim wathu ndi ameneyu; tinayembekezera iye, ndipo adzatipulumutsa; ameneyu ndi Yahwe, tinayembekezera iye; tikondwere, ndipo tisekere m'chipulumutso chake.”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ndipo adzati"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pa tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lija"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ndi ameneyu"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "tinayembekezera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ויושיענו",
+      "gloss": "ndipo adzatipulumutsa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ameneyu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "tinayembekezera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "tikondwere"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "ndipo tisekere"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "m'chipulumutso chake"
+    }
+  ],
+  "timestamp": "2026-09-21T09:10:24.566455979Z",
+  "model": "glm-5.3"
+}

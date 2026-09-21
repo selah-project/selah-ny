@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Dziko lalira, lapukuta mtima; Lebanoni achititsa manyazi, wamala; Sharoni wakhala ngati chiputu, ndi Bashani ndi Karmeli zikukankhiza zipatso zawo.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "lalira"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "lapukuta mtima"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Dziko"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "achititsa manyazi"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanoni"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "wamala"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wakhala"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Sharoni"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "ngati chiputu"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "zikukankhiza"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashani"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "ndi Karmeli"
+    }
+  ],
+  "timestamp": "2026-09-21T09:12:08.184716369Z",
+  "model": "glm-5.3"
+}

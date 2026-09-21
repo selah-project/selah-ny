@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 66,
+  "translation": "Pakuti Yahwe adzaweruza ndi moto, ndipo ndi lupanga lake ⟨את⟩ thupi lonse; ndipo owundidwa a Yahwe adzachuluka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ndi moto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "adzaweruza"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "ndipo ndi lupanga lake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thupi lonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "thupi"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ndipo adzachuluka"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "owundidwa a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T09:27:25.401952770Z",
+  "model": "glm-5.3"
+}

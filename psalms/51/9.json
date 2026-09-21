@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 51,
+  "translation": "Undithirire ndi ezobu ndidzayera, undisuke ndidzayera koposa malovu.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "Undithirire"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "ndi ezobu"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "ndidzayera"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "undisuke"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "koposa malovu"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "ndidzayera"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:45.466089525Z",
+  "model": "glm-5.3"
+}

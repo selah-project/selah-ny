@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Pakuti ndinati: Khesedi kumangidwa ku nthawi zonse; kumwamba, mumakhazikitsa chikhulupiriro chako mwa iwo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndinati"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesedi"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "kumangidwa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "mumakhazikitsa"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "chikhulupiriro chako"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mwa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:40.823530506Z",
+  "model": "glm-5.3"
+}

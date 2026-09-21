@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 118,
+  "translation": "Okhulupirira Yahwe anene tsopano kuti khesedi khake kumakhala ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "anene"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "Okhulupirira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi khake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:15.676093567Z",
+  "model": "glm-5.3"
+}

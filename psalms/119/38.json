@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Khazikitsa liwu lako kwa kapolo wako, limene ling'amba kuopa iwe.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "Khazikitsa"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "kwa kapolo wako"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "liwu lako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "ling'amba kuopa iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:45.634855768Z",
+  "model": "glm-5.3"
+}

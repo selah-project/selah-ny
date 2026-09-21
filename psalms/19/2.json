@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Kumwamba kunakuza ulemerero wa El, ndipo chopinga chimeneuza ntchito ya manja mwake.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Kumwamba"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "kunakuza"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ulemerero"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa El"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ndipo ntchito"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ya manja mwake"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "chimeneuza"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "chopinga"
+    }
+  ],
+  "timestamp": "2026-09-21T13:25:46.741994649Z",
+  "model": "glm-5.3"
+}

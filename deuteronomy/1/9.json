@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo ndinakunena inu pa nthawiyo, ndati: “Sindingathe okha kusenza ⟨את⟩ inu.”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ndipo ndinati"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pa nthawi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ija"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ndati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ndingathe"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "okha"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "kusenza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:12:37.914605992Z",
+  "model": "glm-5.3"
+}

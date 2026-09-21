@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 121,
+  "translation": "Chithandizo changa chichokera kwa Yahwe, wopanga kumwamba ndi dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "chithandizo changa"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "chichokera kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wopanga"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ndi dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:26.898238420Z",
+  "model": "glm-5.3"
+}

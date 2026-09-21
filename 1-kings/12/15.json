@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 12:15",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo mfumu sinamvera ⟨את⟩ anthu, chifukwa chake chinachokera kwa Yahwe, kuti amimikitsire ⟨את⟩ mawu ake, amene Yahwe analankhula mwa dzanja la Achiya wa ku Shilo kwa Yarobeamu mwana wa Nebati.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sina"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mvera"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "chinachokera"
+    },
+    {
+      "surface": "סבה",
+      "gloss": "chifukwa chake"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "amimikitsire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu ake"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "mawu ake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "analankhula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mwa dzanja"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "la Achiya"
+    },
+    {
+      "surface": "השילני",
+      "gloss": "wa ku Shilo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebati"
+    }
+  ],
+  "timestamp": "2026-09-21T08:40:53.854827584Z",
+  "model": "glm-5.3"
+}

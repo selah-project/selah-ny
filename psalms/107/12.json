@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Ndi anawirikiza mtima wawo ndi mavuto; anagwedezeka, ndipo palibe wothandiza.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "Ndi anawirikiza"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "ndi mavuto"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "mtima wawo"
+    },
+    {
+      "surface": "כשלwu",
+      "gloss": "anagwedezeka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "wothandiza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:20.692627483Z",
+  "model": "glm-5.3"
+}

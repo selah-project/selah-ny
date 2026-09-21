@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 147,
+  "translation": "Lemekeza ⟨את⟩ Yahwe, iwe Yerushalayimu; yamika Elohim wako, iwe Tsiyoni.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Lemekeza"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iwe Yerushalayimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "yamika"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "iwe Tsiyoni"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:45.697364215Z",
+  "model": "glm-5.3"
+}

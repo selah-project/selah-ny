@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo Yahwe anagodola pa Sodoma ndi pa Gomora sulfala ndi moto, chochokera kwa Yahwe ⟨את⟩, kuchokera m'kumwamba.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ndipo Yahwe"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "anagodola"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodoma"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Gomora"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "sulfala"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ndi moto"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "chochokera kwa ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchokera"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "m'kumwamba"
+    }
+  ],
+  "timestamp": "2026-09-21T05:48:38.574039958Z",
+  "model": "glm-5.3"
+}

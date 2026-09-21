@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo Yahwe anatulutsa ife kuchokera ku Mitsrayimu, ndi dzanja lamphamvu, ndi mkono wowoseredwa, ndi mantha akulu, ndi zizindikiro ndi zozizwitsa.",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "anatulutsa ife"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuchokera ku Mitsrayimu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ndi dzanja"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "lamphamvu"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "ndi mkono"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "wowoseredwa"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "ndi mantha"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "akulu"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "ndi zizindikiro"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "ndi zozizwitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:26:04.143824472Z",
+  "model": "glm-5.3"
+}

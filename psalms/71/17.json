@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 71,
+  "translation": "Elohim, munandiphunzitsa kuyambira ubwana wanga, ndipo mpaka lero ndikulalikira zodabwitsa zako.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "munandiphunzitsa"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "kuyambira ubwana wanga"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ndipo mpaka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lero"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ndikulalikira"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "zodabwitsa zako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:35.439031205Z",
+  "model": "glm-5.3"
+}

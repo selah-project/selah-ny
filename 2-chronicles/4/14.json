@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo ⟨את⟩ maziko anaopanga, ndipo ⟨את⟩ mabwalo anaopanga pa maziko.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "maziko"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "maziko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anaopanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mabwalo"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "mabwalo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anaopanga"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "maziko"
+    }
+  ],
+  "timestamp": "2026-09-21T12:38:04.105756692Z",
+  "model": "glm-5.3"
+}

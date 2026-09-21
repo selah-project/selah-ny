@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo awa ⟨ndi⟩ abale a atate a Eyitamu: Yizreeli, ndi Yishima, ndi Yidbash; ndipo dzina la mlongo wawo nake Tselelponi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ndipo awa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "a atate"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "a Eyitamu"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreeli"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "ndi Yishima"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "ndi Yidbash"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ndipo dzina"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "la mlongo wawo"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "nake Tselelponi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:24:28.581875089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Maso a Yahwe ali kwa olungama, ndi makutu ake kwa kulilira kwawo.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "maso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "olungama"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "ndi makutu ake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "kulilira kwawo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:55.528503530Z",
+  "model": "glm-5.3"
+}

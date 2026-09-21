@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo ndidzaika ⟨את⟩ Yerushalayimu kukhala matani, malo a chimbwe; ndipo ⟨את⟩ midzi ya Yehudha ndidzaipanga chiputu, wopanda ⟨wokhala m'menemo⟩.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ndipo ndidzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "kukhala matani"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "malo"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "a chimbwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "midzi ya Yehudha"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "midzi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehudha"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndidzaipanga"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "chiputu"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "wopanda"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "wokhala m'menemo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:32:50.413683103Z",
+  "model": "glm-5.3"
+}

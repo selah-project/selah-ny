@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 12:17",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo mudzasunga ⟨את⟩ mkate wopanda chimere, pakuti pa tsiku lomweno ndinatulutsa ⟨את⟩ makamu anu m'dziko la Mitsrayimu; ndipo mudzasunga ⟨את⟩ tsiku lino kwa mibadwo yanu, lamulo losatha.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "mudzasunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkate wopanda chimere"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "mkate wopanda chimere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "pa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lomweno"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ndinatulutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makamu anu"
+    },
+    {
+      "surface": "צבאותיכם",
+      "gloss": "makamu anu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "mudzasunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsiku lino"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lino"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "kwa mibadwo yanu"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "lamulo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "losatha"
+    }
+  ],
+  "timestamp": "2026-09-21T06:13:46.192987751Z",
+  "model": "glm-5.3"
+}

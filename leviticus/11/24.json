@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo mwa izi mudzadetsedwa: aliyense akakhudza thupi lawo lofa adzakhala wodetsa mpaka madzulo.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "Ndipo mwa izi"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "mudzadetsedwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "akakhudza"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "thupi lawo lofa"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "adzakhala wodetsa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "madzulo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:34:12.854848677Z",
+  "model": "glm-5.3"
+}

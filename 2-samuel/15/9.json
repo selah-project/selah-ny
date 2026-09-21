@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Mfumu idati kwa iye: “Pita m'mtendere.” Ndipo iye anamuka, anapita ku Khebroni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "idati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mfumu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Pita"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "m'mtendere"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "anamuka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "anapita"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "ku Khebroni"
+    }
+  ],
+  "timestamp": "2026-09-21T08:23:41.481353801Z",
+  "model": "glm-5.3"
+}

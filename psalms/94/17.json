@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 94,
+  "translation": "Singata Yahwe anali thandizo kwa ine, moyo wanga ukanakhala pang'ono m'chetenthantu.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "singata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "thandizo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "pang'ono"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "ukanakhala"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "m'chetenthantu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:07.239879934Z",
+  "model": "glm-5.3"
+}

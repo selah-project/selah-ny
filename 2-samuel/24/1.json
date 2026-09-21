@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo mkwiyo wa Yahwe unawonjezera kuwira pa Yisraeli, ndipo unadzalira ⟨את⟩ Davide mwa iwo, nati: “Pita werengani ⟨את⟩ Yisraeli ndi ⟨את⟩ Yehudha.”",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "unawonjezera"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mkwiyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "kuwira"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "pa Yisraeli"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "unadzalira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mwa iwo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Pita"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "werengani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Yehudha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    }
+  ],
+  "timestamp": "2026-09-21T08:30:04.424659476Z",
+  "model": "glm-5.3"
+}

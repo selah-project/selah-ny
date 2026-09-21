@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "Ndipo mitundu ya anthu idzaopa ⟨את⟩ Dzina la Yahwe, ndi mafumu onse a dziko lapansi ⟨את⟩ ulemerero wako.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "Ndipo... idzaopa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mitundu ya anthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dzina la Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Dzina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi... onse"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a dziko lapansi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulemerero wako"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ulemerero wako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:44.146999583Z",
+  "model": "glm-5.3"
+}

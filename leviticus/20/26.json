@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 20:26",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo mudzakhala oyera mtima kwa Ine, chifukwa Ine Yahwe ndine woyera mtima; ndipo ndinakupatulani ⟨אתכם⟩ kuchokera ku mitundu yina, kuti mukhale anga.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "mudzakhala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa Ine"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "oyera mtima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "woyera mtima"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואבדל",
+      "gloss": "ndipo ndinakupatulani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "inu (mitu yanu)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchokera ku"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mitundu yina"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kuti mukhale"
+    },
+    {
+      "surface": "לי",
+      "gloss": "anga"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:50.570866066Z",
+  "model": "glm-5.3"
+}

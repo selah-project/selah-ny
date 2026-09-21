@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "⟨את⟩ Ngolo ziwiri ndi ⟨את⟩ ng'ombe anayi anapereka kwa ana a Gereshoni, monga mwa ntchito yawo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngolo ziwiri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "ngolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ng'ombe anayi"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "anayi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anapereka"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa ana a"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gereshoni"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "monga mwa"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "ntchito yawo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:52:24.793125853Z",
+  "model": "glm-5.3"
+}

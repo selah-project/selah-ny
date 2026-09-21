@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 68,
+  "translation": "M'kachisi kako pa Yerushalayimu, kwa iwe mfumu zidzabweretsa zopereka.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "M'kachisi kako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "zidzabweretsa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "שי",
+      "gloss": "zopereka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:58.404705573Z",
+  "model": "glm-5.3"
+}

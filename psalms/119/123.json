@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Maso anga akufa kudikirira chipulumutso chako ndi liwu la chilungamo chako.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "maso anga"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "akufa"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "chipulumutso chako"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "ndi liwu la"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "chilungamo chako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:16.005876856Z",
+  "model": "glm-5.3"
+}

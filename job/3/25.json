@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Pakuti chinthu chimene ndinaopa chidza pa ine, ndipo chimene ndinaichiritsa chidzadza kwa ine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "chinthu chimene ndinaopa"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "ndinaopa"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "chidza pa ine"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ndipo chimene"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "ndinaichiritsa"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "chidzadza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T11:29:04.159405068Z",
+  "model": "glm-5.3"
+}

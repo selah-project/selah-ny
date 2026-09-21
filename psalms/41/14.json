@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Wodala ndi Yahwe, Elohim wa Yisraeli, kuyambira nthawi ya kale mpaka nthawi yosatha; Ameni, ndi Ameni.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Wodala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "kuyambira nthawi ya kale"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "nthawi yosatha"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ameni"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ndi Ameni"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:59.168885799Z",
+  "model": "glm-5.3"
+}

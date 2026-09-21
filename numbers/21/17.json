@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Pamenepo Yisraeli adayimba ⟨את⟩ nyimbo iyi: Kalirani, iwe bwalo, imbeni kwa ilo.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Pamenepo"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "adayimba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyimbo"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Kalirani"
+    },
+    {
+      "surface": "באר",
+      "gloss": "bwalo"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "imbeni"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwa ilo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:02:29.784977452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo ngati anthu akangana, ndipo munthu wamenza mnzake ⟨את⟩ ndi mwala kapena ndi thumba, ndipo sanafe, koma anagwa kuti alale pa bedi;",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ndipo ngati"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "akangana"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ndipo wamenza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mnzake"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mnzake"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ndi mwala"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "ndi thumba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sanafe"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "sanafe"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "koma anagwa"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "kuti alale pa bedi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:56.995763669Z",
+  "model": "glm-5.3"
+}

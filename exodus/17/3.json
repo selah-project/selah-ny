@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo anthu anafuula pamenepo chifukwa cha madzi, anakwiya ndi Moshe, nanena: “Chifukwa chiyani usatilonjeza ku Mitsrayimu, kukupha ⟨את⟩ ine ndi ⟨את⟩ ana anga ndi ⟨את⟩ ziweto zanga ndi ludzu?”",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "anafuula"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pamenepo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "למים",
+      "gloss": "chifukwa cha madzi"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "anakwiya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanena"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Chifukwa chiyani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "usatilonjeza"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ku Mitsrayimu"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "kukupha"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ine",
+      "marks": "ine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana anga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana anga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ziweto zanga"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "ziweto zanga"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "ndi ludzu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:16:37.900874446Z",
+  "model": "glm-5.3"
+}

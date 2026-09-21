@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 141,
+  "translation": "Nyimbo ya Davide. Yahwe, ndaitana kwa iwe; fulumira kwa ine; pereka khutu pa liwu langa, pamene ndikulankhulira kwa iwe.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Nyimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Davide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ndaitana kwa iwe"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "fulumira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "pereka khutu"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "pa liwu langa"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "pamene ndikulankhulira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:53.696827971Z",
+  "model": "glm-5.3"
+}

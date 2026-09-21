@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndi kuzilemba pa mitsindo ya zipata za nyumba yanu ndi pa makomo anu.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "kuzilemba"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "mitsindo ya zipata"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "za nyumba yanu"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "ndi pa makomo anu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:18:37.564108508Z",
+  "model": "glm-5.3"
+}

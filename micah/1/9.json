@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Pakuti mavayo ndi osachiritsika; pakuti 〈choipa〉 wafika ku Yehuda, wakomako mpaka khomo la anthu anga, mpaka Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "osachiritsika"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "mavayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "באה",
+      "gloss": "wafika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "wakomako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "שער",
+      "gloss": "khomo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "la anthu anga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:29:06.735806473Z",
+  "model": "glm-5.3"
+}

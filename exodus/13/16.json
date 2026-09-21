@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 13:16",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo izi zidzakhala chizindikiro pa dzanja lako, ndi zolembedwa pakati pa maso anu, chifukwa ndime ya mphamvu Yahwe adatulutsa ife ku Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ndipo izidzakhala"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "chizindikiro"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידכה",
+      "gloss": "dzanja lako"
+    },
+    {
+      "surface": "ולטוטפת",
+      "gloss": "ndi zolembedwa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "maso anu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "ndime ya mphamvu"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ya dzanja"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "adatulutsa ife"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ku Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:14:02.564240041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Pakuti kenako pang'ono kwambiri, ndipo mkwiyo udzatha, ndi kukwiya kwanga pa kuwononga kwawo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kenako"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "pang'ono"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ndipo udzatha"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "mkwiyo"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "ndi kukwiya kwanga"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "kuwononga kwawo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:05:37.013409381Z",
+  "model": "glm-5.3"
+}

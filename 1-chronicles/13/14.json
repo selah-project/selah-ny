@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo Sanduku la Elohim kunakhala kwa banja la Oved-Edomu m'nyumba yake miyezi itatu; ndipo Yahwe adalitse ⟨את⟩ nyumba ya Oved-Edomu ndi ⟨את⟩ zonse zimene zake.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kunakhala"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Sanduku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "banja"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "m'nyumba yake"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "itatu"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "miyezi"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "adalitse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:27:48.929269034Z",
+  "model": "glm-5.3"
+}

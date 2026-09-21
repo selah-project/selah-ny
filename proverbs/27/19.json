@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Monga madzi, nkhope kwa nkhope, momwemo mtima wa munthu kwa munthu.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "monga madzi"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "nkhope"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "kwa nkhope"
+    },
+    {
+      "surface": "כן",
+      "gloss": "momwemo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "wa munthu"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "kwa munthu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:27:14.306439335Z",
+  "model": "glm-5.3"
+}

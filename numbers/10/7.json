@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo posonkhanitsa ⟨את⟩ msonthano muwulire, koma musakuwire mkuwa.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "posonkhanitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "msonthano"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "msonthano"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "muwulire"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma musa-"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "kuwire mkuwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:55:33.099474403Z",
+  "model": "glm-5.3"
+}

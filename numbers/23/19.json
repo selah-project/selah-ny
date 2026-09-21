@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 23:19",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "El si munthu wobera, kapena mwana wa munthu wosandula mtima; kodi wanena, ndipo sadzachita? Kapena wanena, ndipo sadzaimitsa?",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויכזב",
+      "gloss": "wobera"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "kapena mwana wa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ויתנחם",
+      "gloss": "wosandula mtima"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wanena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sadza"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "chita"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "kapena wanena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sadza"
+    },
+    {
+      "surface": "יקימנה",
+      "gloss": "imitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:05:26.688578488Z",
+  "model": "glm-5.3"
+}

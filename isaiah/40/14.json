@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 40:14",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "⟨את⟩ ndani anamulangira, ndipo anam'vetsa? Anam'phunzitsa m'njira ya chiweruzo, anam'phunzitsa chidziwitso, ndipo njira za nzeru anam'idziwitsa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "נועץ",
+      "gloss": "anamulangira"
+    },
+    {
+      "surface": "ויבינהו",
+      "gloss": "ndipo anam'vetsa"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "anam'phunzitsa"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "m'njira"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ya chiweruzo"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "anam'phunzitsa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "chidziwitso"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ndi njira"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "za nzeru"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "anam'idziwitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:17:43.557977120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Mathero a nkhani yonse tamva: opani ⟨את⟩ Elohim, ndipo sungani ⟨את⟩ malamulo ake, chifukwa ichi ndi ⟨כל⟩ chamunthu wonse.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "mathero"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a nkhani"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "tamva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "opani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "malamulo ake"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "malamulo ake"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "sungani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "chamunthu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:58:29.851855366Z",
+  "model": "glm-5.3"
+}

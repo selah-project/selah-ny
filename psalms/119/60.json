@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ndinafulumira, sindinachedwa, kusunga malamulo anu.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "ndinafulumira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sindi"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "nachedwa"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kusunga"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "malamulo anu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:52.630730668Z",
+  "model": "glm-5.3"
+}

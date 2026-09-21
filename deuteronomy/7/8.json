@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Pakuti chifukwa chakukondani ⟨אתכם⟩ ndi kusunga ⟨את⟩ lonjezo amene analumbirira kwa makolo anu, kuti Yahwe adatulutsa ⟨אתכם⟩ inu ndi dzanja lamphamvu, ndipo anakulanditsani m'nyumba ya ukapolo, m'dzanja la Paro, mfumu ya Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "chifukwa chakukondani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "inu (chimene Yahwe anakonda)"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "ndi kusunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lonjezo"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "lonjezo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "analumbirira"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "kwa makolo anu"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "adatulutsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "inu (chimene Yahwe adatulutsa)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ndi dzanja"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "lamphamvu"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "ndipo anakulanditsani"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "m'nyumba ya"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ukapolo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:17:08.514420507Z",
+  "model": "glm-5.3"
+}

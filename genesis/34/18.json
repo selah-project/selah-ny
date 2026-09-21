@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 34:18",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Ndipo mawu awo anakondwetsa ⟨ה⟩maso a Chamori ndi maso a Shekemu mwana wa Chamori.",
+  "tokens": [
+    {
+      "surface": "וייטבו",
+      "gloss": "anakondwetsa"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "mawu awo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "maso a"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamori"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ndi maso a"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamori"
+    }
+  ],
+  "timestamp": "2026-09-21T05:58:45.102316667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo ⟨את⟩ nkhosa yachimuna udzagawanitsa m'zigawo zake, udzasambitsa m'mimba mwake ndi mapazi ake, ndipo udzaika ⟨pa⟩ zigawo zake ndi pa mutu wake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nkhosa yachimuna"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "nkhosa yachimuna"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "udzagawanitsa"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "m'zigawo zake"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "udzasambitsa"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "m'mimba mwake"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "ndi mapazi ake"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "udzaika"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "zigawo zake"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mutu wake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:23:28.537782426Z",
+  "model": "glm-5.3"
+}

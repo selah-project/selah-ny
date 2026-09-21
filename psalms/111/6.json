@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 111,
+  "translation": "Mphamvu za ntchito zake adaonetsa kwa anthu ake, popereka kwa iwo cholowa cha amitundu.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "Mphamvu"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "za ntchito zake"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "adaonetsa"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "kwa anthu ake"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "popereka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "cholowa cha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amitundu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:01.898365325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Koma anaona mavuto awo, pakumva kwake ⟨את⟩ kulira kwawo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "mavuto"
+    },
+    {
+      "surface": "להם",
+      "gloss": "awo"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "pakumva kwake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulira kwawo"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "kulira kwawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:45.045028581Z",
+  "model": "glm-5.3"
+}

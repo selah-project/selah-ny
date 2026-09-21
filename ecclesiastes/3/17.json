@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndinati ine m'mtima mwanga: Wolungama ndi woipa, Yahwe adzaweruza ⟨את⟩ wolungama ndi ⟨את⟩ woipa — Elohim adzaweruza — popeza pali nthawi ya chilichonse chosangalatsa, ndi pa ntchito iliyonse ⟨kumene ichitika⟩.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ndinati"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "m'mtima mwanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wolungama"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "woipa"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "woipa"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "adzaweruza"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nthawi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ya chilichonse"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "chosangalatsa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iliyonse"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨kumene ichitika⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:20.129711156Z",
+  "model": "glm-5.3"
+}

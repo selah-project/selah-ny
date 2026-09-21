@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 25:2",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Lankhula ndi ana a Yisraeli, ndipo nena kwa iwo: pamene mulowa m'dziko ndimakupatsani, dziko lidzakhala ndi Sabata, Sabata ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Lankhula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ndipo nena"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pamene"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "mulowa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "m'"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ndimakupatsani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "ושבתה",
+      "gloss": "lidzakhala ndi Sabata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabata"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:45:34.033858070Z",
+  "model": "glm-5.3"
+}

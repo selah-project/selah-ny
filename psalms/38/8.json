@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Pakuti kumunsi kwanga kunazala ndi kuwotcha; ndipo palibe thanzi mu thupi langa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "kumunsi kwanga"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "kunazala"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "ndi kuwotcha"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "thanzi"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "mu thupi langa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:20.926938314Z",
+  "model": "glm-5.3"
+}

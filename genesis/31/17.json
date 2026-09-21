@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo Yaakob anauka, nanyamula ⟨את⟩ ana ake ndi ⟨את⟩ akazi ake pa ngamira.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Ndipo anauka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "nanyamula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana ake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "akazi ake"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "akazi ake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "ngamira"
+    }
+  ],
+  "timestamp": "2026-09-21T05:56:45.538961274Z",
+  "model": "glm-5.3"
+}

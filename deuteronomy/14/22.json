@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Pereka chakhumu mudzapereka ⟨את⟩ cholowa chonse cha mbewu yanu, chimene chituluka m'munda, chaka ndi chaka.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Pereka chakhumu"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "mudzapereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cholowa chonse cha mbewu yanu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chonse"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "cholowa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "cha mbewu yanu"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "chimene chituluka"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "m'munda"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "chaka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ndi chaka"
+    }
+  ],
+  "timestamp": "2026-09-21T07:21:02.909929658Z",
+  "model": "glm-5.3"
+}

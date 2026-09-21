@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 117,
+  "translation": "Pakuti khesedi kwake kukuchitira ife mphamvu, ndipo choonadi cha Yahwe chikhala ku nthawi zonse. Lemezani Yah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "kukuchitira mphamvu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi kwake"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ndipo choonadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "cha Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lemezani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-21T11:08:55.624420117Z",
+  "model": "glm-5.3"
+}

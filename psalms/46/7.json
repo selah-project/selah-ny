@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 46,
+  "translation": "Mitundu inachitakwiya, mafumu anagwedezeka; anapereka mawu ake, dziko lapansi linasungunuka.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "inachitakwiya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mitundu"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "anagwedezeka"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anapereka"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "mawu ake"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "linasungunuka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:45.306926284Z",
+  "model": "glm-5.3"
+}

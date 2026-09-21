@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ayalu, ndi mhembwe, ndi yachmuru, ndi akuwo, ndi dishoni, ndi teowo, ndi zamari.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "ayalu"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "ndi mhembwe"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "ndi yachmuru"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "ndi akuwo"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "ndi dishoni"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "ndi teowo"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "ndi zamari"
+    }
+  ],
+  "timestamp": "2026-09-21T07:21:44.400301156Z",
+  "model": "glm-5.3"
+}

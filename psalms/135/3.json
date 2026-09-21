@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 135,
+  "translation": "Lemekezani Yah, pakuti Yahwe ndi wabwino; imbirani ku dzina lake, pakuli lokoma.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lemekezani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wabwino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "imbirani"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "ku dzina lake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "lokoma"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:34.864021126Z",
+  "model": "glm-5.3"
+}

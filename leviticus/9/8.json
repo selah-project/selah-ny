@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Aharon anafikirira kwa guwa la nsembe, napha ⟨את⟩ kachip young wa nsembe ya tchimo chimene chinali chake.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "anafikirira"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa la nsembe"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "napha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kachipy Young ga nsembe ya tchimo"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "kachipy Young"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "nsembe ya tchimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chinali chake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:34:12.871501953Z",
+  "model": "glm-5.3"
+}

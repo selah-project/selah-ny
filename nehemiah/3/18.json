@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 3:18",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Pambuyo pake anamanga abale awo: Bavayi mwana wa Chenadadi, mtsogoleri wa gawo la boma la Keila.",
+  "tokens": [
+    {
+      "surface": "אחריו",
+      "gloss": "Pambuyo pake"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "anamanga"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "abale awo"
+    },
+    {
+      "surface": "בוי",
+      "gloss": "Bavayi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "חנדד",
+      "gloss": "wa Chenadadi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mtsogoleri"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "gawo"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "la boma"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "la Keila"
+    }
+  ],
+  "timestamp": "2026-09-21T12:17:49.864497661Z",
+  "model": "glm-5.3"
+}

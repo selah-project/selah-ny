@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 8:1",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Yahwe adati kwa Moshe: “Nena kwa Aharon: Totolani ⟨את⟩ dzanja lako ndi ndodo yako pa mipata ya madzi, pa mitsinje, ndi pa mabayo, ndipo wezani ⟨את⟩ chule pa dziko la Mitsrayimu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Nena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Totolani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzanja lako"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dzanja lako"
+    },
+    {
+      "surface": "במטך",
+      "gloss": "ndi ndodo yako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הנהרת",
+      "gloss": "mipata ya madzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "היארים",
+      "gloss": "mitsinje"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "mabayo"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "ndipo wezani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chule"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "chule"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:11:29.324922498Z",
+  "model": "glm-5.3"
+}

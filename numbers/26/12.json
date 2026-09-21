@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ana a Shimeoni, m'mafuko awo: wa Nemueli, fuko la anenedwa Nemueli; wa Yamini, fuko la anenedwa Yamini; wa Yakhini, fuko la anenedwa Yakhini.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ana a"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeoni"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "m'mafuko awo"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "wa Nemueli"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fuko la"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "anenedwa Nemueli"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "wa Yamini"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fuko la"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "anenedwa Yamini"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "wa Yakhini"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fuko la"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "anenedwa Yakhini"
+    }
+  ],
+  "timestamp": "2026-09-21T07:05:59.611336741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo Yahwe anaika mawu m'kamwa mwa Bilamu, nati: “Bwererera kwa Balaki, ndipo motero udzalankhula.”",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Ndipo anaika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "m'kamwa mwa"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilamu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Bwererera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balaki"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ndipo motero"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "udzalankhula"
+    }
+  ],
+  "timestamp": "2026-09-21T07:05:08.575034529Z",
+  "model": "glm-5.3"
+}

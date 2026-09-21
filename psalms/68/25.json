@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 68,
+  "translation": "Anaona mayendedwe ako, Elohim, mayendedwe a El wanga, mfumu yanga, m'malo opatulika.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "mayendedwe ako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "mayendedwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "a El wanga"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mfumu yanga"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "m'malo opatulika"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:24.175090111Z",
+  "model": "glm-5.3"
+}

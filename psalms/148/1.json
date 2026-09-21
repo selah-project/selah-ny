@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 148,
+  "translation": "Lelemezani Yah, lemezani ⟨את⟩ Yahwe kuchokera m'kumwamba, lemezani iye m'malo a patali.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "lemezani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lemezani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchokera m'"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lemezani iye"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "m'malo a patali"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:03.671753051Z",
+  "model": "glm-5.3"
+}

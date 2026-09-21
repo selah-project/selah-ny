@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 129,
+  "translation": "Ndipo sananene akudutsawo: “Madalitso a Yahwe agwirire inu; takudalitsani ⟨את⟩ inu m'dzina la Yahwe.”",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sa-"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nanene"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "akudutsawo"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "madalitso a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "agwirire inu"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "takudalitsani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "m'dzina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:08.953418046Z",
+  "model": "glm-5.3"
+}

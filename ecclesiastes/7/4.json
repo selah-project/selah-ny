@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Mtima wa anzeru uli m'nyumba ya maliro, koma mtima wa opusa m'nyumba ya chimwemwe.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "wa anzeru"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ya maliro"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "koma mtima"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "wa opusa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ya chimwemwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:05.055815336Z",
+  "model": "glm-5.3"
+}

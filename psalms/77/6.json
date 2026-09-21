@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 77,
+  "translation": "Ndinaganiza masiku akale, zaka za kalekale.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "Ndinaganiza"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "akale"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "za kalekale"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:28.388208779Z",
+  "model": "glm-5.3"
+}

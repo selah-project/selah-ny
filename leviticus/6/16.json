@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo nsembe iliyonse ya wansembe idzakhala yothanidwa konse; sidzadyedwa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ndipo iliyonse"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ya nsembe"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "wa wansembe"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "yothanidwa konse"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "idzakhala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dzadyedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:32:10.400366679Z",
+  "model": "glm-5.3"
+}

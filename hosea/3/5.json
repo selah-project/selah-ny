@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Pambuyo pake ana a Yisraeli adzabweranso, ndipo adzafufuta ⟨את⟩ Yahwe Elohim wawo ndi ⟨את⟩ Dawidi mfumu yawo, ndipo adzagwedezeka ku Yahwe ndi ku zabwino zake m'mapeto a masiku.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Pambuyo pake"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "adzabweranso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "ndipo adzafufuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim wawo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Dawidi mfumu yawo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "mfumu yawo"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "ndipo adzagwedezeka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi ku"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "zabwino zake"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "m'mapeto"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "a masiku"
+    }
+  ],
+  "timestamp": "2026-09-21T10:19:14.388814591Z",
+  "model": "glm-5.3"
+}

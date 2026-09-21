@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 103,
+  "translation": "Dalitsa, moyo wanga, ⟨את⟩ Yahwe; ndipo usaiwale zonse zochitira zake zabwino.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Dalitsa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo usa-"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "iwale"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "zochitira zake zabwino"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:18.403312424Z",
+  "model": "glm-5.3"
+}

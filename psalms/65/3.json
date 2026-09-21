@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 65,
+  "translation": "Wakumvera pempho; kwa iwe thupi lonse lidzafika.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Wakumvera"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "pempho"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "thupi"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "lidzafika"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:30.055423218Z",
+  "model": "glm-5.3"
+}

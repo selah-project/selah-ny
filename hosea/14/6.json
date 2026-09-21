@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 14:6",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndidzakhala ngati madontho etesi kwa Yisraeli; adzamera ngati duwa, ndipo mizu yake idzamiza monga ya Lebanoni.",
+  "tokens": [
+    {
+      "surface": "אהיה",
+      "gloss": "Ndidzakhala"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "ngati madontho etesi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kwa Yisraeli"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "adzamera ngati duwa"
+    },
+    {
+      "surface": "כשושנה",
+      "gloss": "ngati duwa"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "idzamiza"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "mizu yake"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "monga ya Lebanoni"
+    }
+  ],
+  "timestamp": "2026-09-21T10:22:17.967430149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 52,
+  "translation": "Ndipo mfumu ya Babeli inapha ⟨את⟩ ana a Tsidkiyahu pamaso pake; ndiponso ⟨את⟩ akuluakulu onse a Yehuda inapha ku Riblahi.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "inapha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ya Babeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Tsidkiyahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "a Tsidkiyahu"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "pamaso pake"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akuluakulu onse a Yehuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "akuluakulu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yehuda"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "inapha"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "ku Riblahi"
+    }
+  ],
+  "timestamp": "2026-09-21T13:16:54.637761362Z",
+  "model": "glm-5.3"
+}

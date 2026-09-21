@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 81,
+  "translation": "Mulungu wachilendo asakhale mwa iwe, ndipo usagwadire mulungu wa kunja.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "asakhale"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "asakhale"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mwa iwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mulungu"
+    },
+    {
+      "surface": "זר",
+      "gloss": "wachilendo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo usagwadire"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "usagwadire"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kwa mulungu"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wa kunja"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:12.469128163Z",
+  "model": "glm-5.3"
+}

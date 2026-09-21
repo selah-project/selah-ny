@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Mizinda yonse imene mudzapatsa kwa Alevi idzakhala mizinda makumi anayi ndi sanu ndi limodzi — ⟨את⟩ iyo ndi ⟨את⟩ malo ake ozungulira.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mizinda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "mudzapatsa"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "kwa Alevi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi anayi"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ndi sanu ndi limodzi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mizinda"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "iyo (mizinda)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malo ake ozungulira"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "malo ake ozungulira"
+    }
+  ],
+  "timestamp": "2026-09-21T07:12:22.656233452Z",
+  "model": "glm-5.3"
+}

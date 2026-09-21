@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Monga momwe Yahwe analamulira ⟨את⟩ Moshe, nawo anawawerenga m'chipululu cha Sinayi.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Monga momwe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "analamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "anawawerenga"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "m'chipululu cha"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinayi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:49:18.130077295Z",
+  "model": "glm-5.3"
+}

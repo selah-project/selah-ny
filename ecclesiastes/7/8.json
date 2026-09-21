@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Mapeto a nkhani ndi okoma koposa chiyambi chake; wopirira mzimu ndi wabwino koposa wakukweza mzimu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ndi okoma"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "mapeto a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nkhani"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "koposa chiyambi chake"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ndi wabwino"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "wopirira"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "koposa wakukweza"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:56:57.121989808Z",
+  "model": "glm-5.3"
+}

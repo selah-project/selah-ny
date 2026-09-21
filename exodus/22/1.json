@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ngati wakuba apezedwa akuphimula ⟨ndi⟩, namenyedwa n'kufa, palibe mwazi ⟨wa iye⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "akuphimula ⟨ndi⟩"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "apezedwa"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "wakuba"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "namenyoedwa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "n'kufa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨wa iye⟩"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "mwazi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:21.440204475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Moyo wanga uli m'dzanja langa nthawi zonse, koma Tora yanui sindinaiwale.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "m'dzanja langa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nthawi zonse"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "koma Tora yanu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "dinaiwale"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:03.912250768Z",
+  "model": "glm-5.3"
+}

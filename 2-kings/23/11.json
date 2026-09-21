@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 23:11",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndiye adachotsa ⟨את⟩ mahatchi amene mafumu a Yudaha adapatsa ku dzuwa, kumalo kulowa kwa nyumba ya Yahwe, ku chipinda cha Netan-meleki suna wa mfumu, chomwe chili m'mabwere, ndipo ⟨את⟩ magalimoto a dzuwa anawotcha ndi moto.",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "adachotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahatchi"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "mahatchi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "adapatsa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mafumu a"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudaha"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "ku dzuwa"
+    },
+    {
+      "surface": "מבא",
+      "gloss": "kumalo kulowa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לשכת",
+      "gloss": "chipinda cha"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Netan-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "meleki"
+    },
+    {
+      "surface": "הסריס",
+      "gloss": "suna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chomwe"
+    },
+    {
+      "surface": "בפרורים",
+      "gloss": "m'mabwere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "magalimoto a dzuwa"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "magalimoto"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a dzuwa"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "anawotcha"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ndi moto"
+    }
+  ],
+  "timestamp": "2026-09-21T09:00:06.178095614Z",
+  "model": "glm-5.3"
+}

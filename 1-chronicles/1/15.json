@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "ndi ⟨את⟩ ahiwi, ndi ⟨את⟩ aariki, ndi ⟨את⟩ asini;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ahiwi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ahiwi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "aariki"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "aariki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "asini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "asini"
+    }
+  ],
+  "timestamp": "2026-09-21T12:23:00.208430674Z",
+  "model": "glm-5.3"
+}

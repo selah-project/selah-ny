@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 74,
+  "translation": "Nyamula mapazi ako ku zoipa zobadwa mochuluka — zonse zimene mdani anachita zoipa m'malo opatulika.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Nyamula"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "mapazi ako"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "ku zoipa zobadwa"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "mochuluka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "anachita zoipa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mdani"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "m'malo opatulika"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:26.588214906Z",
+  "model": "glm-5.3"
+}

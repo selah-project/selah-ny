@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Nasonkhetsa ⟨את⟩ atsamwali onse a Yisraeli, ndi ansembe, ndi Alevi.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Nasonkhetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atsamwali onse a Yisraeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "atsamwali"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ndi ansembe"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ndi Alevi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:33:38.218881065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo mpho musalandire; pakuti mpho imatseka maso a amene amaona, ndipo imasokoneza mawu a olungama.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "ndipo mpho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa-"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "landire"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "mpho"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "imatseka maso a"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "amene amaona"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "imasokoneza"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "olungama"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:26.609295998Z",
+  "model": "glm-5.3"
+}

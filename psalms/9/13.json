@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Pakuti Iye amene afufuza magazi adawakumbukira ⟨את⟩ iwo; sanaiwale kulira kwa anthu osauka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "amene afufuza"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "magazi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo (owakumbukira)"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "adawakumbukira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "-iwale"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "kulira"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "anthu osauka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:19.549317836Z",
+  "model": "glm-5.3"
+}

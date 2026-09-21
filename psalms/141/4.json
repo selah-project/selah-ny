@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 141,
+  "translation": "Usatse mtima wanga ku liwu loipa, kuchita ntchito zoipa m'cholakwa, pamodzi ndi ⟨את⟩ anthu ochita zoipa; ndipo usandidyetsere zakudya zabwino zawo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Usa-"
+    },
+    {
+      "surface": "תט",
+      "gloss": "tse"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ku liwu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "loipa"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "kuchita"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "ntchito zoipa"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "m'cholakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ochita"
+    },
+    {
+      "surface": "און",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ndipo usandi-"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "dyetsere"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "zakudya zabwino zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:53.697398971Z",
+  "model": "glm-5.3"
+}

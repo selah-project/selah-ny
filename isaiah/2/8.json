@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo dziko lawo ladzala ndi mafano; ntchito ya manja awo amapembedza, kumene zala zawo zinapanga.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "Ndipo dziko lawo ladzala"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "dziko lawo"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "ndi mafano"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ya manja awo"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "amapembedza"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "kumene"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "zinapanga"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "zala zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:01:51.106325438Z",
+  "model": "glm-5.3"
+}

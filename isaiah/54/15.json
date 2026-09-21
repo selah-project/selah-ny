@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 54,
+  "translation": "Taona, angakayera, koma osati ⟨את⟩ ndi Ine; amene adzakayera ⟨את⟩ ndi iwe, pa iwe adzagwa.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Taona"
+    },
+    {
+      "surface": "גור",
+      "gloss": "angakayera"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "kusonkhana"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "koma osati"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩ ndi Ine"
+    },
+    {
+      "surface": "מי",
+      "gloss": "amene"
+    },
+    {
+      "surface": "גר",
+      "gloss": "adzakayera"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ndi iwe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pa iwe"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "adzagwa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:21:46.533441569Z",
+  "model": "glm-5.3"
+}

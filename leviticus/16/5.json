@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo mwa ⟨את⟩ msonkhano wa ana a Yisraeli adzalandira mbawala ziwiri za mbuzi monga nsembe ya tchimo, ndi mwanawankhosa m'modzi monga nsembe yopsereza.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "mwa ⟨את⟩",
+      "marks": "msonkhano"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "msonkhano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "adzalandira"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "mbawala"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "za mbuzi"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "monga nsembe ya tchimo"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ndi mwanawankhosa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "m'modzi"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "monga nsembe yopsereza"
+    }
+  ],
+  "timestamp": "2026-09-21T06:40:02.571831497Z",
+  "model": "glm-5.3"
+}

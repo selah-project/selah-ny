@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 20:3",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "ndipo ananena kwa iye: “Kotero ananena Ben-Hadad: Siliva yako ndi golide wako ndi wanga; ndipo akazi ako ndi ana ako, abwino kwambiri, ndianga.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo ananena"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Kotero"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "Siliva yako"
+    },
+    {
+      "surface": "וזהבך",
+      "gloss": "ndi golide wako"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi wanga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ndi wanga⟩"
+    },
+    {
+      "surface": "ונשיך",
+      "gloss": "ndipo akazi ako"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ndi ana ako"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "abwino kwambiri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndianga"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨ndianga⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T08:44:52.072092861Z",
+  "model": "glm-5.3"
+}

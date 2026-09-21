@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 9:22",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Yahwe anati kwa Moshe: “Tambasula ⟨את⟩ dzanja lako ku kumwamba, kuti kukhale chivunde chimene chidzaoka m'dziko lonse la Mitsrayimu, pa munthu ndi pa nyama, ndi pa bondo chilichonse cha m'themberero, m'dziko la Mitsrayimu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo … anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Tambasula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzanja lako"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dzanja lako"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kuti kukhale"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "chivunde"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "m'dziko lonse"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la …"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chilichonse"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "bondo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "cha m'themberero"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:11:59.633615616Z",
+  "model": "glm-5.3"
+}

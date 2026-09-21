@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ngati iye satembenuka, adzaloza lupanga lake; uta wake adawunikapo, ndipo wokonzeka.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "tembenuka"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "lupanga lake"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "adzaloza"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "uta wake"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "adawunikapo"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "ndipo wokonzeka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:03.675268792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 75,
+  "translation": "Pakuti Elohim ndiye waweruza; wamtsika uyu, ndipo wakweza uja.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ndiye waweruza"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "wamtsika"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ndipo uja"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "wakweza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:01.844798594Z",
+  "model": "glm-5.3"
+}

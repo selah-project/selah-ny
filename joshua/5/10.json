@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo ana a Yisraeli anakhazikika msasa ku Gilgali, nayeneretsa ⟨את⟩ Paseka pa tsiku lachikhumi ndi linayi la mwezi, madzulo, m'zizinda za Yerikho.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "anakhazikika msasa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "ku Gilgali"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "nayeneretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paseka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "lachikhumi ndi linayi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(pa lachikhumi)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "pa tsiku"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la mwezi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "madzulo"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "m'zizinda"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "za Yerikho"
+    }
+  ],
+  "timestamp": "2026-09-21T07:33:13.084692123Z",
+  "model": "glm-5.3"
+}

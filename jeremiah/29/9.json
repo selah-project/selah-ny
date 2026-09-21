@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 29:9",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Pakuti m'bodza iwo akunenera kwa inu m'Dzina langa; sindidawatumize — Yahwe wanena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "m'bodza"
+    },
+    {
+      "surface": "הם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "akunenera"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "m'Dzina langa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi-"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "dawatumize"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "wanena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T09:41:08.055957192Z",
+  "model": "glm-5.3"
+}

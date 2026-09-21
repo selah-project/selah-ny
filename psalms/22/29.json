@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Chifukwa ufumu ndi ⟨wa⟩ Yahwe, ndipo Iye amalamulira mwa mitundu ya anthu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ufumu"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ndipo amalamulira"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mwa mitundu ya anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:16.949856470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo ngati sadzakombola ⟨את⟩ munda, kapena ngati wamugulitsa ⟨את⟩ munda kwa munthu wina, sadzakombolanso.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ndipo ngati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "dzakombola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munda"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "munda"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kapena ngati"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "wamugulitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munda"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "munda"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kwa munthu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "dzakombola"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "-nso"
+    }
+  ],
+  "timestamp": "2026-09-21T06:49:09.223788235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo adaika ⟨את⟩ guwa lagolide m'chihema cha kudziwirana, pamaso pa chophimba.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "adaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guwa lagolide"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "guwa"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "lagolide"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "m'chihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "cha kudziwirana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "chophimba"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:09.828840268Z",
+  "model": "glm-5.3"
+}

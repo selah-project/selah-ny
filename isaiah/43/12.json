@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 43,
+  "translation": "Ine ndinaonetsa, ndipo ndinapulumutsa, ndipo ndinavumbulutsa; ndipo panali wachilendo alibe mwa inu. Inu ndinu mboni zanga, mtima wa Yahwe, ndipo ine ndine El.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ndinaonetsa"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "ndipo ndinapulumutsa"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "ndipo ndinavumbulutsa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo… alibe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mwa inu"
+    },
+    {
+      "surface": "זר",
+      "gloss": "wachilendo"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "Inu"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "mboni zanga"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "mtima wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ndipo ine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndine El"
+    }
+  ],
+  "timestamp": "2026-09-21T09:17:00.027658309Z",
+  "model": "glm-5.3"
+}

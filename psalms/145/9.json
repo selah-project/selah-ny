@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 145,
+  "translation": "Wabwino ndi Yahwe kwa onse, ndipo zifundo zake zili pa ntchito zake zonse.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Wabwino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa onse"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "ndipo zifundo zake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ntchito zake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:47.330772204Z",
+  "model": "glm-5.3"
+}

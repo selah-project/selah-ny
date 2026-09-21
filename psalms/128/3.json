@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 128,
+  "translation": "Mkazi wako ngati mpesa wobala zipatso m'munsi mwa nyumba yako; ana ako ngati zitsanzo za maolive m'mphepete mwa tebulo lako.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "mkazi wako"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "ngati mpesa"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "wobala zipatso"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "m'munsi mwa"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nyumba yako"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ana ako"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "ngati zitsanzo"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "za maolive"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "m'mphepete mwa"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "tebulo lako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:41.649410491Z",
+  "model": "glm-5.3"
+}

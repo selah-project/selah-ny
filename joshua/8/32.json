@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndalemba pamenepo pa ⟨את⟩ miala kope la Tora ya Moshe, imene anayilemba pamaso pa ana a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Ndalemba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pamenepo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "miala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kope la Tora"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "kope"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "la Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ya Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "anayilemba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T07:37:17.939047029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Uzawafunafuna, koma suzawapeza — anthu a nkhondo zako; adzakhala monga ⟨palibe⟩ kanthu ndi monga chinthu chosachepa, anthu a nkhondo yako.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "uzawafunafuna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma osati"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "suzawapeza"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "a nkhondo zako"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "monga ⟨palibe⟩ kanthu"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "ndi monga chinthu chosachepa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "a nkhondo yako"
+    }
+  ],
+  "timestamp": "2026-09-21T09:17:23.984320165Z",
+  "model": "glm-5.3"
+}

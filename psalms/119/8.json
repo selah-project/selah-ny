@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "⟨את⟩ Malamulo anu ndidzawasunga; musandisiye kufikira kwambiri.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malamulo anu"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "malamulo anu"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ndidzawasunga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musandi-"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "siye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:45.623203953Z",
+  "model": "glm-5.3"
+}

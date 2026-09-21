@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 138,
+  "translation": "Ndidzagwadira ku hekhali yako yapatulika, ndipo ndidzakuyamika ⟨את⟩ dzina lako pa khesedi ako ndi pa choonadi chako; pakuti wakukulitsa pa dzina lako lonse mawu ako.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "Ndidzagwadira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "hekhali"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "yako yapatulika"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "ndipo ndidzakuyamika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzina lako"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dzina lako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedi ako"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "choonadi chako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "wakukulitsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dzina lako"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "mawu ako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:44.607498126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 73,
+  "translation": "Amakhazikitsa pakamwa pawo m'kumwamba, ndipo lilime lawo limayenda m'dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "Amakhazikitsa"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "m'kumwamba"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "pakamwa pawo"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "ndipo lilime lawo"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "limayenda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:22.395620803Z",
+  "model": "glm-5.3"
+}

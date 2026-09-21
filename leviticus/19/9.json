@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Mukatuta ⟨את⟩ zokolola za dziko lanu, musatule mezere a munda wanu konse kale, ndipo zotsala za zokolola zanu musazitutire.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "mukatuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zokolola"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "zokolola"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "za dziko lanu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musatule"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "konse kale"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "mezere a munda wanu"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "munda wanu"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "kututa"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "ndipo zotsala"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "za zokolola zanu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "musazitutire"
+    }
+  ],
+  "timestamp": "2026-09-21T12:57:42.397859523Z",
+  "model": "glm-5.3"
+}

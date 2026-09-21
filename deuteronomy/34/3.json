@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "ndi ⟨את⟩ kumwera, ndi ⟨את⟩ chigwa, mchere wa Yerikho, mzinda wa mikanjo, mpaka Zowari.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "kumwera"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "kumwera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chigwa"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "chigwa"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "mchere"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yerikho"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "mikanjo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Zowari"
+    }
+  ],
+  "timestamp": "2026-09-21T07:31:25.829429591Z",
+  "model": "glm-5.3"
+}

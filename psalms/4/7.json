@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ambiri akunena: “Ndani adzationetsa chabwino?” Yinikitsa kuunika kwa nkhope yanu pa ife, Yahwe.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Ambiri"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "akunena"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ndani"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "adzationetsa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "chabwino"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "Yinikitsa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "pa ife"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kuunika"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kwa nkhope yanu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:07.985432406Z",
+  "model": "glm-5.3"
+}

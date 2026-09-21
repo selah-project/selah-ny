@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 95,
+  "translation": "Musawumitse mitima yanu monga ku Meriba, monga tsiku la Masa, m'chipululu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musana"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "wumitse"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "mitima yanu"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "monga ku Meriba"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "monga tsiku"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "la Masa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "m'chipululu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:07.321148963Z",
+  "model": "glm-5.3"
+}

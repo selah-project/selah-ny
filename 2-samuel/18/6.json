@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 18:6",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo anthu anatuluka ku thengo kukakomana ndi Yisraeli, ndipo nkhondo inachitika m'chisiko cha Efurayimu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "anatuluka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ku thengo"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kukakomana ndi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "inachitika"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "nkhondo"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "m'chisiko"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efurayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:24:46.120302395Z",
+  "model": "glm-5.3"
+}

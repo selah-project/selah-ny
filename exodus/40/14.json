@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo ⟨את⟩ ana ake muweretere, ndipo muwavale ⟨את⟩ iwo mavala.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "muweretere"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "muvale"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "mavala"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:44.400348033Z",
+  "model": "glm-5.3"
+}

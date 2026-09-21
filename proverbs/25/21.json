@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ngati wakudana nawe alibe chakudya, mmulutse chingwa; ndipo ngati alibe madzi, mmupatse madzi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "alibe chakudya"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "wakudana nawe"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "mmulutse"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chingwa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ndipo ngati"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "alibe madzi"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "mmupatse madzi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:26:29.948008778Z",
+  "model": "glm-5.3"
+}

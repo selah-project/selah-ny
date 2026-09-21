@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Usadane ndi ⟨את⟩ m'bale wako mu mtima mwako; tanilirira-tanilirira ⟨את⟩ mnzako, ndipo usamulere cholakwa pa iye.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "dane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "m'bale wako"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "m'bale wako"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "mu mtima mwako"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "tanilirira"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "tanilirira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mnzako"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "mnzako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo usa"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ulere"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "cholakwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:40.120462130Z",
+  "model": "glm-5.3"
+}

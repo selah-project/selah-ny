@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo ngati mlendo wakhazikika ⟨אתך⟩ m'dziko lanu, musam'ononge ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ndipo ngati"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "wakhazikika"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe",
+      "marks": "nawe"
+    },
+    {
+      "surface": "גר",
+      "gloss": "mlendo"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "m'dziko lanu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musam'ononge"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "musam'ononge"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iye"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:49.585435747Z",
+  "model": "glm-5.3"
+}

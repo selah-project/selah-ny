@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Pakuti oipa adzatayika, ndipo adani a Yahwe, monga mafuta a nkhosa zamafuta, adzatha; monga utsi adzatha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "oipa"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "adzatayika"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "ndipo adani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "monga ulemu wa"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "nkhosa zamafuta"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "adzatha"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "monga utsi"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "adzatha"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:11.088534600Z",
+  "model": "glm-5.3"
+}

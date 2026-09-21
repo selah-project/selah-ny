@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Phwanya dzanja la woipa ndi wa chiwawa; fufuzitsa chiwawa chake — sudzachipeza.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Phwanya"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "dzanja"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "la woipa"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ndi wa chiwawa"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "fufuzitsa"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "chiwawa chake"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sudzachi-"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "peza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:23.698443071Z",
+  "model": "glm-5.3"
+}

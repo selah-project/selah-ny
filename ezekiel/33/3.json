@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "ndipo iye ataona ⟨את⟩ lupangalo likubwera pa dziko, ndipo akalira ndi shofaro, ndipo awachenjeza ⟨את⟩ anthuwo,",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ndipo iye ataona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupangalo"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "lupangalo"
+    },
+    {
+      "surface": "באה",
+      "gloss": "likubwera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "ndipo akalira"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "ndi shofaro"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "ndipo awachenjeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthuwo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthuwo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:10:26.970136284Z",
+  "model": "glm-5.3"
+}

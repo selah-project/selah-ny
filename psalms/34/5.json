@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Ndinasanthula ⟨את⟩ Yahwe, nandiyankha, nadandiza ine kuchokera ku mantha onse anga.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "Ndinasanthula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "nandiyankha"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "kuchokera ku onse"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "mantha anga"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "nadandiza ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:41.027715581Z",
+  "model": "glm-5.3"
+}

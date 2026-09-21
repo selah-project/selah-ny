@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo tsopano, bwerani, ndipo ndidzakutumiza kwa Paro, kuti mutulutse ⟨את⟩ anthu anga, ana a Yisraeli, m'Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ndipo tsopano"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "bwerani"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "ndidzakutumiza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "mutulutse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu anga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "anthu anga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "m'Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:09:50.539138308Z",
+  "model": "glm-5.3"
+}

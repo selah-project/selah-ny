@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Odetsa mtima kwa Yahwe ndi anthu amitima okhotakhota; koma chikondwerо chake nkuopa akhulupirika pa njira yawo.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "chodetsa mtima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עקשי",
+      "gloss": "okhotakhota"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mitima"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "koma chikondwe chake"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "akhulupirika"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "pa njira"
+    }
+  ],
+  "timestamp": "2026-09-21T11:21:44.548209942Z",
+  "model": "glm-5.3"
+}

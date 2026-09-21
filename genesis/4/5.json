@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Koma kwa Kajini ndi kwa nsembe yake sanayang'ire. Ndipo Kajini anakwiya kwambiri, nabo nkhope zake zinagwa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "koma kwa"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajini"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi kwa"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "nsembe yake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sanayang'ire"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "sanayang'ire"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "anakwiya"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "Kajini"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "zinagwa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "nkhope zake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:53:29.362670013Z",
+  "model": "glm-5.3"
+}

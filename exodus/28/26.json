@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 28:26",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo udzachita zipinda ziwiri za golide, ndipo udzaika ⟨את⟩ iwo pa mapeto awiri a chikhazi, pa mzere wake, kumene kuli mbali ya ephodi, kuseri.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ndipo udzachita"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "zipinda"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "za golide"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ndipo udzaika"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo (zipinda)"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "mapeto"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "a chikhazi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "mzere wake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kumene kuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "mbali"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ya ephodi"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "kuseri"
+    }
+  ],
+  "timestamp": "2026-09-21T06:22:31.668362626Z",
+  "model": "glm-5.3"
+}

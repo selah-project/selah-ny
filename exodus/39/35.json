@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "⟨את⟩ chikwama cha umboni ndi ⟨את⟩ ndodo zake, ndi ⟨את⟩ chidindo cha kufanizidwa;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikwama cha umboni"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "chikwama"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "cha umboni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ndodo zake"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ndodo zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chidindo cha kufanizidwa"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "chidindo cha kufanizidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:12.826543524Z",
+  "model": "glm-5.3"
+}

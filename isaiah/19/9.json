@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 19:9",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Adzachita manyazi ogwira ntchito ya chwalu choswala, ndi osakumika zovala zoyera.",
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "adzachita manyazi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ogwira ntchito ya"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "chwalu"
+    },
+    {
+      "surface": "שריקות",
+      "gloss": "choswala"
+    },
+    {
+      "surface": "וארגים",
+      "gloss": "ndi osakumika"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "zovala zoyera"
+    }
+  ],
+  "timestamp": "2026-09-21T09:07:48.422596584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 117,
+  "ref": "psalms 119:117",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ndithandizireni, ndipo ndzapulumuka, ndipo ndidzayang'ana m'malamulo anu nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "סעדני",
+      "gloss": "Ndithandizireni"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "ndipo ndzapulumuka"
+    },
+    {
+      "surface": "ואשעה",
+      "gloss": "ndipo ndidzayang'ana"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "m'malamulo anu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:51.635788015Z",
+  "model": "glm-5.3"
+}

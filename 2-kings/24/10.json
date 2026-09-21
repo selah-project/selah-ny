@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Pa nthawi iyo, atumiki a Nevukadnetsari, mfumu ya Babeli, anakwera ku Yerushalayimu; ndipo mzinda unalowa mu ⟨mazinga⟩.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Pa nthawi"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "anakwera"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "atumiki a"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukadnetsari"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babeli"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ndipo unalowa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "mu mazinga"
+    }
+  ],
+  "timestamp": "2026-09-21T09:00:46.221031577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo awa ndiwo mawu amene Yahwe ananena pa Yisraeli ndi pa Yehuda.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ndipo awa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-21T09:42:13.974004814Z",
+  "model": "glm-5.3"
+}

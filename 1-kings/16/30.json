@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo Ahabi mwana wa Omri anachita choipa pamaso pa Yahwe koposa onse amene anali patsogolo pake.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "koposa onse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "analipatsogolo pake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:42:35.067234761Z",
+  "model": "glm-5.3"
+}

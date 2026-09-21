@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 142,
+  "translation": "Ndalira kwa iwe, Yahwe; ndinati: “Iwe ndiwe chitetezo changa, gawo langa m'dziko la moyo.”",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "Ndalira"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndinati"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "chitetezo changa"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "gawo langa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "la moyo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:02.263601110Z",
+  "model": "glm-5.3"
+}

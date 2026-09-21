@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 98,
+  "translation": "Ndiye nyimbo. Imbirani kwa Yahwe nyimbo yatsopano, pakuti wachita zodabwitsa; chipulumutso chake adachipatsa dzanja lake lamanja ndi likono lake loyera.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Imbirani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yatsopano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "zodabwitsa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wachita"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "adachipatsa chipulumutso"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chake"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "dzanja lake lamanja"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "ndi likono lake"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "loyera"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:02.846091425Z",
+  "model": "glm-5.3"
+}

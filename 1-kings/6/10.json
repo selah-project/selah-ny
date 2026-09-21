@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo anamanga ⟨את⟩ chowonjezera pa nyumba yonse, mapima asanu kutalika kwake; ndipo chinagwirizanitsa ⟨את⟩ nyumba ndi mapango a Cedar.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "anamanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chowonjezera"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "chowonjezera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "asanu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "mapima"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "kutalika kwake"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "ndipo chinagwirizanitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "ndi mapango"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "a Cedar"
+    }
+  ],
+  "timestamp": "2026-09-21T08:34:05.133326635Z",
+  "model": "glm-5.3"
+}

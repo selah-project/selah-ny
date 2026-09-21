@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Pakuti sangazindikire ntchito za Yahwe, ndiponso ntchito za manja ake; adawononga ⟨iwo⟩, ndipo sanawamange (kukamuwiritsitsa).",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "-ngazindikire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "za"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndiponso za"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "manja ake"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "adawononga ⟨iwo⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sa-"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "-nawamange (kukamuwiritsitsa)"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:34.882377922Z",
+  "model": "glm-5.3"
+}

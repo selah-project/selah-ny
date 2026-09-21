@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 56,
+  "translation": "Kodi adzapulumuka m'choipa? M'chiwawa, Elohim, itsa mitundu ya anthu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "m'"
+    },
+    {
+      "surface": "און",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "adzapulumuka"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨iwo⟩"
+    },
+    {
+      "surface": "באף",
+      "gloss": "M'chiwawa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mitundu ya anthu"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "itsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:44.969711506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Pakuti mwa iye mtima wathu umasangalala; pakuti m'dzina lake lopatulika tinakhulupirira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mwa iye"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "umasangalala"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "mtima wathu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "m'dzina lake"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "lopatulika"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "tinakhulupirira"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:29.031161761Z",
+  "model": "glm-5.3"
+}

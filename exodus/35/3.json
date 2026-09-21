@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Musayake moto m'malo onse amene mukhala m'menemo, pa tsiku la Sabata.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Musasa-"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "yake"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "m'malo onse"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "amene mukhala m'menemo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pa tsiku"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "la Sabata"
+    }
+  ],
+  "timestamp": "2026-09-21T06:26:00.147273408Z",
+  "model": "glm-5.3"
+}

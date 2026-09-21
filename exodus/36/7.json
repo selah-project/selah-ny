@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Ndipo nchito yonse idakhala yokwanira ku ntchito yonse kuchipanga ⟨את⟩ iye, ndipo kwanatsala.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "ndipo nchito yonse"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "idakhala"
+    },
+    {
+      "surface": "דים",
+      "gloss": "yokwanira"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ntchito yonse"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuchipanga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ iye",
+      "marks": "iye"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "ndipo kwanatsala"
+    }
+  ],
+  "timestamp": "2026-09-21T12:57:40.291793619Z",
+  "model": "glm-5.3"
+}

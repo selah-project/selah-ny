@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndi poabadwa kwa iye ana asanu ndi awiri amuna ndi ana atatu akazi.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "Ndi poabadwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "asanu ndi awiri"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ana amuna"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "ndi atatu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ana akazi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:29:51.766785993Z",
+  "model": "glm-5.3"
+}

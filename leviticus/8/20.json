@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo nkhosayo ⟨את⟩ anadula palimense, ndipo Moshe anayatsa monga nsembe ⟨את⟩ mutu, ndi zidulo ⟨את⟩, ndi mafuta ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nkhosayo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "nkhosayo"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "anadula"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "palimense"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "anayatsa monga nsembe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutu"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zidulo"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "zidulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "mafuta"
+    }
+  ],
+  "timestamp": "2026-09-21T06:35:11.988315002Z",
+  "model": "glm-5.3"
+}

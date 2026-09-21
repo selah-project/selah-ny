@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 72,
+  "translation": "Zimapita tsopano mapemphero a Davide mwana wa Yishayi.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Zimapita tsopano"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "mapemphero"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "a Davide"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "wa Yishayi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:27.596352896Z",
+  "model": "glm-5.3"
+}

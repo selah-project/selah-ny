@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo uike ⟨את⟩ zingwe ziwiri zagolide pa zikhwamba ziwiri, kumalekezero a chikhazi.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Ndipo uike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zingwe ziwiri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "zingwe"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zagolide"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "zikhwamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "malekezero"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "a chikhazi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:21:33.192960090Z",
+  "model": "glm-5.3"
+}

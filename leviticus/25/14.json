@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo mukagulitsa mgulitsidwe ku wathu wanu, kapena kugula m'dzanja la wathu wanu, musapondere munthu ⟨את⟩ m'bale wake.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ndipo muka"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "mugulitsa"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "mgulitsidwe"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "ku wathu wanu"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kugula"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "la wathu wanu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "pondere"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "m'bale wake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "m'bale wake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:44:52.773279122Z",
+  "model": "glm-5.3"
+}

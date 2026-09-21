@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 19:10",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo uphwanye chiyerero pamaso pa anthu amene akukulira ⟨את⟩ ndi iwe.",
+  "tokens": [
+    {
+      "surface": "ושברת",
+      "gloss": "Ndipo uphwanye"
+    },
+    {
+      "surface": "הבקבק",
+      "gloss": "chiyerero"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "amene akukulira"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ndi iwe",
+      "marks": "ndi iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T09:37:00.961111880Z",
+  "model": "glm-5.3"
+}

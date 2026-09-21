@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 145,
+  "translation": "Yahwe ndi wamkulu, wodzitama kwambiri, ndipo kukulu kwake kulibe kufufuzidwa.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "wodzitama"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "ndipo kukulu kwake"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kulibe"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "kufufuzidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:29.128357506Z",
+  "model": "glm-5.3"
+}

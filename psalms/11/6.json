@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Adzanyetsa pa anthu oipa matepe a moto ndi sulfala, ndi mphepo yotentha ya mkwiyo — ndiro gawo la chikho chawo.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "Adzanyetsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "anthu oipa"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "matepe a moto"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "ndi sulfala"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ndi mphepo"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "yotentha ya mkwiyo"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "gawo"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "la chikho chawo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:10.942740621Z",
+  "model": "glm-5.3"
+}

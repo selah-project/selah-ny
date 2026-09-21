@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 112,
+  "translation": "Lembelani Yah! Odala munthu woopsa ⟨את⟩ Yahwe, wakondwera kwambiri ndi malamulo ake.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lembelani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Odala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "woopsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "ndi malamulo ake"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "wakondwera"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:36.296318358Z",
+  "model": "glm-5.3"
+}

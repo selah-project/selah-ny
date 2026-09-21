@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 54:12",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 54,
+  "translation": "Ndipo ndidzayika kadakodi pa madzikho ako, ndipo makomo ako miyala ya akodakhi, ndipo mphaka wako wonse miyala yakondweretsa.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ndipo ndidzayika"
+    },
+    {
+      "surface": "כדכד",
+      "gloss": "kadakodi"
+    },
+    {
+      "surface": "שמשתיך",
+      "gloss": "pa madzikho ako"
+    },
+    {
+      "surface": "ושעריך",
+      "gloss": "ndipo makomo ako"
+    },
+    {
+      "surface": "לאבני",
+      "gloss": "miyala ya"
+    },
+    {
+      "surface": "אקדח",
+      "gloss": "akodakhi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo wonse"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "mphaka wako"
+    },
+    {
+      "surface": "לאבני",
+      "gloss": "miyala ya"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "chokondweretsa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:22:14.806643354Z",
+  "model": "glm-5.3"
+}

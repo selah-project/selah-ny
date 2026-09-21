@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo Yehoshuwa anati: “Mudzadziwa ndi ichi kuti El wamoyo ali pakati panu, ndipo adzawotcha ⟨wotcha⟩ m'masanu opanda pansi panu ⟨את⟩ Mkhanaani, ndi ⟨את⟩ Muhiti, ndi ⟨את⟩ Muhivi, ndi ⟨את⟩ Muperizi, ndi ⟨את⟩ Mugirigashi, ndi Muamori ndi Muyebusi.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "ndi ichi"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "mudzadziwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wamoyo"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "ali pakati panu"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "adzawotcha"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "⟨wotcha⟩"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "opanda pansi panu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mkhanaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mkhanaani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Muhiti"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Muhiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Muhivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Muhivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Muperizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Muperizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Mugirigashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Mugirigashi"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ndi Muamori"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ndi Muyebusi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:32:58.988281864Z",
+  "model": "glm-5.3"
+}

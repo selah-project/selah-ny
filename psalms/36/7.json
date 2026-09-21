@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Chilungamo chako chili monga mapiri a El; miweruzo yako nii madzi akuya athunthu; munthu ndi nyama umawapulumutsa, Yahwe.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Chilungamo chako"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "monga mapiri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "miweruzo yako"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "madzi akuya"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "athunthu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "ndi nyama"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "umawapulumutsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:07.975202670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 148,
+  "translation": "Anyamata ndiponso atsikana; okalamba pamodzi ndi achinyamata:",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "anyamata"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "atsikana osanakwatira"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "okalamba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "achinyamata"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:32.524267845Z",
+  "model": "glm-5.3"
+}

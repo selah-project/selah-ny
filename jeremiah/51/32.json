@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 51:32",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 51,
+  "translation": "Ndipo madutsidwe onatengedwa, ndi ⟨את⟩ mabwalo anawotcha ndi moto, ndipo anthu a nkhondo adadera.",
+  "tokens": [
+    {
+      "surface": "והמעברות",
+      "gloss": "Ndipo madutsidwe"
+    },
+    {
+      "surface": "נתפשו",
+      "gloss": "onatengedwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mabwalo"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "mabwalo"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "anawotcha"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ndi moto"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ndipo anthu a"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "nkhondo"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "adadera"
+    }
+  ],
+  "timestamp": "2026-09-21T09:53:29.571127163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 103,
+  "translation": "Yahwe akuchita zolungama ndi miweruzo kwa anthu onse olandidwa.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "akuchita"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "zolungama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ndi miweruzo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa anthu onse"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "olandidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:43.646897430Z",
+  "model": "glm-5.3"
+}

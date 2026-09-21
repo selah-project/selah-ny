@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 96,
+  "translation": "Nenanit pakati pa mitundu: “Yahwe wachita ufumu”; ndithu dziko lapansi lidzakhazikika, silidzagwedezeka; adzaweruza anthu mokhulupirika.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Nenanit"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "pakati pa mitundu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wachita ufumu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "lidzakhazikika"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "-lidzagwedezeka"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "adzaweruza"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "mokhulupirika"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:58.237742146Z",
+  "model": "glm-5.3"
+}

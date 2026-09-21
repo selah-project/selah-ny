@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Ndipo Iye anati: “Ungathe kuona ⟨את⟩ nkhope yanga; pakuti munthu sadzaona Ine ndipo akhale ndi moyo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo Iye anati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ungathe"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhope yanga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope yanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "dzaona Ine"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ndipo akhale ndi moyo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:25:54.021185759Z",
+  "model": "glm-5.3"
+}

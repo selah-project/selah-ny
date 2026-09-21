@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo akulu a m'nyumba yake anauka kwa iye, kumusimikira kuti amuke m'dziko, koma sanafune, ndipo sanadya ndi ⟨אתם⟩ chingwa.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "anauka"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "akulu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "a m'nyumba yake"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "kumusimikira"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchokera"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma sanafune"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "sanafune"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sanadyanso"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "kudya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chingwa"
+    }
+  ],
+  "timestamp": "2026-09-21T08:21:29.440348338Z",
+  "model": "glm-5.3"
+}

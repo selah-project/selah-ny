@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Pelegi anakhala zaka makumi atatu, ndipo anabala ⟨את⟩ Rewu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Pelegi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "makumi atatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rewu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Rewu"
+    }
+  ],
+  "timestamp": "2026-09-21T05:46:23.875424265Z",
+  "model": "glm-5.3"
+}

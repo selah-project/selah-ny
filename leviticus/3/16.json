@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo wansembe adzawotcha pa guwa la nsembe: chakudya cha nsembe ya moto, chifundo chokoma; mafuta onse ndi a Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "adzawotcha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pa guwa la nsembe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chakudya"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "cha nsembe ya moto"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "chifundo chak"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "chokoma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ndi a Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:40.696261769Z",
+  "model": "glm-5.3"
+}

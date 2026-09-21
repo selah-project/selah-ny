@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Monga mbawala imafuula kufunafuna mitsinje ya madzi, momwemonso moyo wanga umafuula kwa Inu, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Monga mbawala"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "imafuula kufunafuna"
+    },
+    {
+      "surface": "על",
+      "gloss": "kufunafuna"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "mitsinje"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ya madzi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "momwemonso"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "umafuula"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa Inu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:16.249065855Z",
+  "model": "glm-5.3"
+}

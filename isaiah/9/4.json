@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 9:4",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Pakuti chidzalo chilichonse chokhudzana ndi kunyamula, ndi chovala chotsukidwa ndi mwazi, chidzakhala chotsudzulo, chakudya cha moto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chilichonse"
+    },
+    {
+      "surface": "סאון",
+      "gloss": "chidzalo"
+    },
+    {
+      "surface": "סאן",
+      "gloss": "chokhudzana ndi kunyamula"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "m'kunyamula"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "ndi chovala"
+    },
+    {
+      "surface": "מגוללה",
+      "gloss": "chotsukidwa"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "ndi mwazi"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "chidzakhala"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "chotsudzulo"
+    },
+    {
+      "surface": "מאכלת",
+      "gloss": "chakudya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "cha moto"
+    }
+  ],
+  "timestamp": "2026-09-21T09:04:54.230815835Z",
+  "model": "glm-5.3"
+}

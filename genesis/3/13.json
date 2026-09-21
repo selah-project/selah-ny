@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Yahwe Elohim anati kwa mkaziyu: “Chinachititsa ichi?” Mkaziyu anati: “Njokayo inandisocheretsa, ndipo ndinadya.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kwa mkaziyu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Chinachititsa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "unachita"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ndipo anati"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mkaziyu"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "njokayo"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "inandisocheretsa"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ndipo ndinadya"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:49.488383Z",
+  "model": "glm-5.3"
+}

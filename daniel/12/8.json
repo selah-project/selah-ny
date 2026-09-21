@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo ine ndinamva, koma sindinamvetse; ndipo ndinati: “Adonayi wanga, chidzakhala chiyani chimaliziro cha izi?”",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ndipo ine"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndinamva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma osati"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "kumvetsetsa"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "ndipo ndinati"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "chimaliziro"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "cha izi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:12:03.100550426Z",
+  "model": "glm-5.3"
+}

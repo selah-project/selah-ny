@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 18:19",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo inu muziti: Chifukwa chiyani mwana sanenere m'chimo cha abambo? Ndipo mwana anachita chiweruzo ndi chilungamo, anasunga ⟨את⟩ malamulo onse anga, nachita ⟨את⟩ monga zonse moyo adzakhala ndi moyo.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "Ndipo inu muziti"
+    },
+    {
+      "surface": "מדע",
+      "gloss": "Chifukwa chiyani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nenere"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "m'chimo"
+    },
+    {
+      "surface": "האב",
+      "gloss": "cha abambo"
+    },
+    {
+      "surface": "והבן",
+      "gloss": "Ndipo mwana"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chiweruzo"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ndi chilungamo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malamulo onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "malamulo anga"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "anasunga"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "nachita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "malamulo onse"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "adzakhala ndi moyo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:03:23.370920335Z",
+  "model": "glm-5.3"
+}

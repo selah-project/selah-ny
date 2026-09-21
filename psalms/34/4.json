@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Limbitsani Yahwe pamodzi ndi ine ⟨את⟩, ndipo tiyamikire dzina lake limodzi.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Limbitsani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "pamodzi ndi ine ⟨את⟩"
+    },
+    {
+      "surface": "וונרוממה",
+      "gloss": "ndipo tiyamikire"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dzina lake"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "limodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:06.973129450Z",
+  "model": "glm-5.3"
+}

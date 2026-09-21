@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "book": "zephaniah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Mafumu ake mkati mwa iye ali ngati mikango yokongola; aweruzi ake ali ngati mipheyo ya usiku, sangawole mafupa kufikira mmawa.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "Mafumu ake"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "mkati mwa iye"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "ngati mikango"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "yokongola"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "aweruzi ake"
+    },
+    {
+      "surface": "זאבי",
+      "gloss": "ngati mipheyo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ya usiku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "גרמו",
+      "gloss": "-ngawole mafupa"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "kufikira mmawa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:34:28.579415121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Boazu anabala ⟨את⟩ Obedi, ndipo Obedi anabala ⟨את⟩ Yishayi.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Ndipo Boazu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obedi"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obedi"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "ndipo Obedi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishayi"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishayi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:22:57.103606356Z",
+  "model": "glm-5.3"
+}

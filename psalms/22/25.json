@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Pakuti sananyoze ndipo sanaodzetsa kulakwa kwa wolasidwa; ndipo sanabinso nkhope yake kwa iye, koma mu kufuula kwake kwa iye adamva.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "anyoza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sana"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "anaodzetsa"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "kulakwa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kwa wolasidwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sana"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "anabisa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "nkhope yake"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "koma mu kufuula kwake"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "adamva"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:17.892237858Z",
+  "model": "glm-5.3"
+}

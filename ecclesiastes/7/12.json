@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Pakuti m'mthunzi wa nzeru, m'mthunzi wa ndalama; ndipo phindu la kudziwa nzeru ndiko kusunga moyo wa iwo okhala nayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "m'mthunzi"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "wa nzeru"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "m'mthunzi"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "wa ndalama"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "ndipo phindu"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "la kudziwa"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "nzeru"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "kusunga moyo"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "wa iwo okhala nayo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:56:44.581554113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo anaona ⟨את⟩ Amaleke, nadzaika malonje ake, nati: “Woyamba wa mitundu ndi Amaleke, koma mapeto ake ⟨adzakhala⟩ kuonongeka kosatha.”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ndipo anaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleke"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleke"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "nadzaika"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "malonje ake"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "Woyamba"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "wa mitundu"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ndi Amaleke"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "koma mapeto ake"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kosatha"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "kuonongeka"
+    }
+  ],
+  "timestamp": "2026-09-21T07:05:49.449012921Z",
+  "model": "glm-5.3"
+}

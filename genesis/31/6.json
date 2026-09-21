@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo inu mudziwa kuti ndinatumikira makolo anu ndi mphamvu yanga yonse ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ndipo inu"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "mudziwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ndi … yonse"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "mphamvu yanga"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "ndinatumikira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makolo anu"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "makolo anu"
+    }
+  ],
+  "timestamp": "2026-09-21T05:56:36.856790535Z",
+  "model": "glm-5.3"
+}

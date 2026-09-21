@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Chifukwa Elohim adzabweretsa ⟨את⟩ ntchito iliyonse m'chiweruzo, pamodzi ndi chinthu chobisika chilichonse, ngati chili chabwino kapena choipa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntchito iliyonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iliyonse"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "adzabweretsa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "m'chiweruzo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chilichonse"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "chobisika"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati chili"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "chabwino"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "רע",
+      "gloss": "choipa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:58:29.852181272Z",
+  "model": "glm-5.3"
+}

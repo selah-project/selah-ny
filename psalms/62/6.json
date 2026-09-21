@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 62,
+  "translation": "Okha kwa Elohim, moyo wanga, khala chete; pakuti kwa Iye ndiye chiyembekezo changa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "okha"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "khala chete"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kwa Iye"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "chiyembekezo changa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:20.907873023Z",
+  "model": "glm-5.3"
+}

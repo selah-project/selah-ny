@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ine, Koheleth, ndinali mfumu ya Yisraeli ku Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Koheleth"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndinali"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ku Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:54:49.255804347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Adati mu mtima wake: “Sindidzasunthika, kwa mbadwo ndi mbadwo sindidzakhala m'kavuto.”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "mu mtima wake"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sindi"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "dzasunthika"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwa mbadwo"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ndi mbadwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "m'kavuto"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:41.714730430Z",
+  "model": "glm-5.3"
+}

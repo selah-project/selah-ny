@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Kuwonongeka kumudzafika, sadziwa; ndipo momba wake amene anaubisa kumudzi iye yemwe; m'kuwonongekako adzagwa mmenemo.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "kumudzafika"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "kuwonongeka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadziwa <negation>"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sadziwa"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "ndipo momba wake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "anaubisa"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "kumudzi iye yemwe"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "m'kuwonongekako"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "adzagwa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mmenemo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:06.342441250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Kwa woyendetsa. Nyimbo ya Davide. Mwa Yahwe ndakhala ndi chitetezo; mumati bwanji kwa moyo wanga: Thawanani, phiri lanu, iwe mbalame?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyendetsa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Nyimbo ya Davide"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Mwa Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ndakhala ndi chitetezo"
+    },
+    {
+      "surface": "איך",
+      "gloss": "bwanji"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "mumati"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kwa moyo wanga"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "Thawanani"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "phiri lanu"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "iwe mbalame"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:14.199851844Z",
+  "model": "glm-5.3"
+}

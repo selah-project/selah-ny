@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndipo Yahwe analankhula ndi Moshe, nati: “Pita, tsika, chifukwa anthu ako, amene unawatulutsa m'dziko la Mitsrayimu, awonongekha.”",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "analankhula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pita"
+    },
+    {
+      "surface": "רד",
+      "gloss": "tsika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "awonongekha"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "anthu ako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "unawatulutsa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "m'dziko la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:24:41.328913202Z",
+  "model": "glm-5.3"
+}

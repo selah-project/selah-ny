@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Maliseche a atate wako ndi maliseche a amayi wako, suwafotokozere; iye ndiye amayi wako, suwafotokoze maliseche ake.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "Maliseche"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "a atate wako"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "ndi maliseche"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "a amayi wako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "suwafotokozere — osati"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "suwafotokozere"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "amayi wako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye ndiye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "suwafotokoze — osati"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "suwafotokoze"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "maliseche ake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:39:23.099626478Z",
+  "model": "glm-5.3"
+}

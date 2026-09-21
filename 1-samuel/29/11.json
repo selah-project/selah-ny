@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo Davide nadzuka mmamawa, iye ndi anthu ake, kuti ayende mmamawa nabwerera ku dziko la Afilisti; ndipo Afilisti anakwera Yizreeli.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "nadzuka mmamawa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ndi anthu ake"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kuti ayende"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mmamawa"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "nabwerera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko la"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilisti"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ndipo Afilisti"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "anakwera"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreeli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:13:13.537939028Z",
+  "model": "glm-5.3"
+}

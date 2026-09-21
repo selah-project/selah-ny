@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Muope ⟨את⟩ Yahwe, oyera ake; pakuti kwa amene amamuopa palibe chosowa.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Muope"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "oyera ake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "chosowa"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "kwa amene amamuopa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:39.190549631Z",
+  "model": "glm-5.3"
+}

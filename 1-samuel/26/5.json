@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 26:5",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Davide anauka, nadza kumalo amene Shauli anakhala m'menemo, ndipo Davide anaona ⟨את⟩ malo amene Shauli anagona m'menemo, ndi Avineri mwana wa Neri, mtsogoleri wa nkhondo zake, ndipo Shauli anagona mu chizungulire, ndi anthu ali okhala ozungulira iye.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "anauka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nadza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "malo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malo"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "malo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "anagona"
+    },
+    {
+      "surface": "שם",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ואבנר",
+      "gloss": "ndi Avineri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נר",
+      "gloss": "wa Neri"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mtsogoleri"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "wa nkhondo zake"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ndipo Shauli"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "anagona"
+    },
+    {
+      "surface": "במעגל",
+      "gloss": "mu chizungulire"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ndi anthu"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "ali okhala"
+    },
+    {
+      "surface": "סביבתו",
+      "gloss": "ozungulira iye"
+    }
+  ],
+  "timestamp": "2026-09-21T08:15:39.122376943Z",
+  "model": "glm-5.3"
+}

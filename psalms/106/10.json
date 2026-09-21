@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Adawapulumutsa m'dzanja la wodana nawo, nadawambula m'dzanja la mdani.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Adawapulumutsa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "wodana nawo"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "nadawambula"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mdani"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:27.270997629Z",
+  "model": "glm-5.3"
+}

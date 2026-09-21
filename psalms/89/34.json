@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Koma khesedi kwanga sindidzaichotera kwa iye, ndipo sindidzakhumba ndi kukhulupirika kwanga.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "Koma khesedi kwanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "didzaichotera"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sindi"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "didzakhamba"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "ndi kukhulupirika kwanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:53.258447398Z",
+  "model": "glm-5.3"
+}

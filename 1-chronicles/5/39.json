@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo Shalumu anabala ⟨את⟩ Chilkiyaya, ndipo Chilkiyaya anabala ⟨את⟩ Azarjaya.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "ndipo Shalumu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chilkiyaya"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Chilkiyaya"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "ndipo Chilkiyaya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjaya"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjaya"
+    }
+  ],
+  "timestamp": "2026-09-21T12:23:39.211938125Z",
+  "model": "glm-5.3"
+}

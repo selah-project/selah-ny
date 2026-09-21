@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 116,
+  "translation": "Yahwe ⟨ndi⟩ wachisomo ndi wolungama, ndipo Elohim wathu ndi wachikondi.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "wachisomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ndi wolungama"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "ndipo Elohim wathu"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "wachikondi"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:53.312547536Z",
+  "model": "glm-5.3"
+}

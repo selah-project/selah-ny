@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Reayaha mwana wa Shobali anabala ⟨את⟩ Yachathi; ndipo Yachathi anabala ⟨את⟩ Achumayi ndi ⟨את⟩ Lahadhi; awa ndi mafuko a wa Tsorati.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "Ndipo Reayaha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "wa Shobali"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yachathi"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yachathi"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "ndipo Yachathi"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achumayi"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Achumayi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Lahadhi"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahadhi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "mafuko"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "a wa Tsorati"
+    }
+  ],
+  "timestamp": "2026-09-21T12:24:28.581693487Z",
+  "model": "glm-5.3"
+}

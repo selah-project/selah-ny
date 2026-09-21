@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Msonkhano wonse wa Yisraeli udzachita ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "Msonkhano"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "udzachita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "imeneyi (kupasa)"
+    }
+  ],
+  "timestamp": "2026-09-21T06:12:53.460555157Z",
+  "model": "glm-5.3"
+}

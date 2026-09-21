@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Amene amalamulira dzuwa, ndipo silituluka; ndipo nyenyezi azimitira.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "amene amanena\/amalamulira"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "ku dzuwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "lituluka (limwala)"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ndipo kudzera"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "nyenyezi"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "azimitira (atseka chizindikiro)"
+    }
+  ],
+  "timestamp": "2026-09-21T11:31:56.537108033Z",
+  "model": "glm-5.3"
+}

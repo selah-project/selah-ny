@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 14:20",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo unalowa pakati pa tenti za Mitsrayimu ndi pakati pa tenti za Yisraeli; ndipo unakhala mkuta ndi mdima, ndipo unawalitsa ⟨את⟩ usiku; ndipo wina sanayandikire kwa mnzake usiku wonse.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ndipo unalowa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tenti za"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tenti za"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ndipo unakhala"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "mkuta"
+    },
+    {
+      "surface": "והחשך",
+      "gloss": "ndi mdima"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "ndipo unawalitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "usiku"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sa-"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "sanayandikire"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "mnzake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "usiku wonse"
+    }
+  ],
+  "timestamp": "2026-09-21T06:14:38.435086583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Sitizibisa kwa ana awo, kwa mbadwo wolondola akulalikira matamando a Yahwe, ndi mphamvu yake, ndi zodabwitsa zake zimene anachita.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Si"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "tizibisa"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "kwa ana awo"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kwa mbadwo"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "wolondola"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "akulalikira"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "matamando"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "ndi mphamvu yake"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ndi zodabwitsa zake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachita"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:26.265849176Z",
+  "model": "glm-5.3"
+}

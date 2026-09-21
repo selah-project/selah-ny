@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 31:9",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo ana a Yisraeli anawolola ⟨את⟩ akazi a Midiyani ndi ⟨את⟩ ana awo, ndi ⟨את⟩ nyama zawo zonse, ndi ⟨את⟩ ziweto zawo zonse, ndi ⟨את⟩ chuma chawo chonse anabza.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "anawolola"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akazi a Midiyani"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "akazi a"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana awo"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "ana awo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyama zawo zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "nyama zawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ziweto zawo zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "מקנהם",
+      "gloss": "ziweto zawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chuma chawo chonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chonse"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "chuma chawo"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "anabza"
+    }
+  ],
+  "timestamp": "2026-09-21T07:09:18.051585988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Munthu aliyense amene adzadya magazi onse, munthu ameneyo adzachedwa <m'gulu la anthu ake>.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "adzadya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "דם",
+      "gloss": "magazi"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "adzachedwa"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ameneyo"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "m'gulu la anthu ake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:32:40.081124650Z",
+  "model": "glm-5.3"
+}

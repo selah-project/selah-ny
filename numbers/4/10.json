@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo adzayika ⟨את⟩ yekha ndi ⟨את⟩ zida zake zonse mu chophimba cha khungu la takhashi, ndipo adzayika pa ndodo yolundira.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "adzayika"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yekha",
+      "marks": "yekha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zida zake zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "zida zake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "chophimba cha"
+    },
+    {
+      "surface": "עור",
+      "gloss": "khungu la"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "takhshi"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "adzayika"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "ndodo yolundira"
+    }
+  ],
+  "timestamp": "2026-09-21T06:52:01.230884157Z",
+  "model": "glm-5.3"
+}

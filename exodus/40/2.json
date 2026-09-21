@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "“Pa tsiku la mwezi woyamba, pa tsiku loyamba la mwezi, udzayimiritsa ⟨את⟩ chihema, chihema cha msonkhano.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Pa tsiku la"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "mwezi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "woyamba"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "pa tsuku loyamba"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la mwezi"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "udzayimiritsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chihema"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chihema cha"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "msonkhano"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:48.522262071Z",
+  "model": "glm-5.3"
+}

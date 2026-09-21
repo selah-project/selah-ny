@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo Afilisiti anasonkhitsa ⟨את⟩ misasa yawo yonse ku Afeka, ndipo Yisraeli anakhazikika pa chitsime chimene chili mu Yizreeli.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "anasonkhitsa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilisiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "misasa yawo yonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "misasa yawo"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "ku Afeka"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ndipo Yisraeli"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "anakhazikika"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "pa chitsime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene chili"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "mu Yizreeli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:14:46.572281359Z",
+  "model": "glm-5.3"
+}

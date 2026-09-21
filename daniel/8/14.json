@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 8:14",
+  "book": "daniel",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndiyeno anati kwa ine: Mpaka madzulo ndi mmawa, mazana awiri ndi zana zitatatu; ndipo malo opatulika adzayesedwa olungama.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ndiyeno anati"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "madzulo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mmawa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mazana awiri"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ndi (zitatatu)"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "zana zitatatu"
+    },
+    {
+      "surface": "ונצדק",
+      "gloss": "adzayesedwa olungama"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "malo opatulika"
+    }
+  ],
+  "timestamp": "2026-09-21T12:07:33.403726745Z",
+  "model": "glm-5.3"
+}

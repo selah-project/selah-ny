@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ana a Yehudha: Peretsi, Chetsroni, ndi Karmi, ndi Churi, ndi Shobali.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yehudha"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peretsi"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsroni"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "ndi Karmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "ndi Churi"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "ndi Shobali"
+    }
+  ],
+  "timestamp": "2026-09-21T12:24:28.581358431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo Yeshua anabala ⟨את⟩ Yoyakimu, ndipo Yoyakimu anabala ⟨את⟩ Elyashivu, ndipo Elyashivu ⟨את⟩ Yoyada.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "ndipo Yeshua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyakimu"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Yoyakimu"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "ndipo Yoyakimu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyashivu"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyashivu"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "ndipo Elyashivu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyada"
+    }
+  ],
+  "timestamp": "2026-09-21T12:21:13.569886321Z",
+  "model": "glm-5.3"
+}

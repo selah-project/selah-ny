@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Kalebu anati: “Amene adzamenya ⟨את⟩ Kiryati-Seferi ndi kuligwira, ndidzampatsa ⟨את⟩ Akhsa mwana wanga wamkazi kukhala mkazi wake.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalebu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Amene"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "adzamenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryati-Seferi"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryati-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "-Seferi"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "ndi kuligwira"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ndidzampatsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhsa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akhsa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mwana wanga wamkazi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "mkazi wake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:44:37.427856472Z",
+  "model": "glm-5.3"
+}

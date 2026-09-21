@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo munandipiringa mphamvu yogwiritsa nkhondo; munaweretsa pansi panga amene anandimiritsa.",
+  "tokens": [
+    {
+      "surface": "ותאזרני",
+      "gloss": "Ndipo munandipiringa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mphamvu"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "yogwiritsa nkhondo"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "munaweretsa"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "amene anandimiritsa"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "pansi panga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:12.548679393Z",
+  "model": "glm-5.3"
+}

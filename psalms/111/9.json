@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 111,
+  "translation": "Adatumiza chiwombolo kwa anthu ake; adalamulira pangano lake kosalekeza; dzina lake ndi lopatulika ndi loyenera kuopedwa.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "chiwombolo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "adatumiza"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "kwa anthu ake"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "adalamulira"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kosalekeza"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "pangano lake"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "lopatulika"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ndi loyenera kuopedwa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dzina lake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:37.606959887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo adayankha ndi kuti: “Manja athu sanathire ⟨את⟩ mwazi uwu, ndipo maso athu sanaona.”",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "adayankha"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ndi kuti"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "Manja athu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "nathire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwazi uwu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "mwazi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uwu"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "ndipo maso athu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "naona"
+    }
+  ],
+  "timestamp": "2026-09-21T07:23:22.822472969Z",
+  "model": "glm-5.3"
+}

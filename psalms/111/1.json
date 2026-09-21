@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 111,
+  "translation": "Lemekezani Yah! Ine ndidayamba kuyamika Yahwe ndi mtima wathunthu, m'chinsinsi cha olungama ndi m'msonkhano wa anthu.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lemekezani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ndidayamba kuyamika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ndi ... wathunthu"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "m'chinsinsi"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "cha olungama"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "ndi m'msonkhano wa anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:15.564079719Z",
+  "model": "glm-5.3"
+}

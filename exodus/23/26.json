@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Sidzakhalabe wachitayo mimba kapena wopanda mbewu m'dzikomo lanu; ⟨את⟩ chiwerengero cha masiku anu ndidzachimiza.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "idzakhalabe"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "wachitayo mimba"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "wopanda mbewu"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "m'dzikomo lanu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiwerengero"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "chiwerengero"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "masiku anu"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "ndidzachimiza"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:56.862997371Z",
+  "model": "glm-5.3"
+}

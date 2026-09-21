@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 149,
+  "translation": "Mayamiko apamwamba a El akhale m'khumbo mwawo, ndi lupanga loumbidwa mano awiri m'manja mwawo.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "mayamiko apamwamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "m'khumbo mwawo"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ndi lupanga"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "loumbidwa mano awiri"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "m'manja mwawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:02.780939384Z",
+  "model": "glm-5.3"
+}

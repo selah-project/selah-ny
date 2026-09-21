@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "Musabise nkhope yako kwa ine tsiku la mavuto anga; tendetsa khutu lako kwa ine; tsiku londidza liti, fulumira, andibwezere.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Musasa"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ubise"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nkhope yako"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku la"
+    },
+    {
+      "surface": "צר",
+      "gloss": "mavuto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "anga"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "tendetsa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "khutu lako"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "londidza liti"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "fulumira"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "andibwezere"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:05.803800859Z",
+  "model": "glm-5.3"
+}

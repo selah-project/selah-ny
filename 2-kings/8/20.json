@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Mu masiku ake Edomu inafuruka pansi pa dzanja la Yahuda, ndipo anaimitsa mfumu pa iwo.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "Mu masiku ake"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "inafuruka"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dzanja la"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ndipo anaimitsa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pa iwo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:51:34.269088702Z",
+  "model": "glm-5.3"
+}

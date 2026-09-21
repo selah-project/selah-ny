@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Chinga cha imfa chandizinga, ndipo mitsinje ya obela idandaulitsa ine.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "yandizinga"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "chinga"
+    },
+    {
+      "surface": "מות",
+      "gloss": "imfa"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "ndipo mitsinje"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "obeliali"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "idandaulitsa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:33.866264834Z",
+  "model": "glm-5.3"
+}

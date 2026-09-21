@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Musatukwane Elohim, ndipo mfumu ya mwa anthu anu musailere.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "tukwane"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ndipo mfumu"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "ya mwa anthu anu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ilere"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:17.807090272Z",
+  "model": "glm-5.3"
+}

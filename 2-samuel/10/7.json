@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo Davide amva, nadatumiza ⟨את⟩ Yowabu ndi ⟨את⟩ onse a gulu la anthu amphamvu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "amva"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "nadatumiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yowabu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "onse a gulu la anthu amphamvu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse a"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "gulu la"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "anthu amphamvu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:20:02.268319832Z",
+  "model": "glm-5.3"
+}

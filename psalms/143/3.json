@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 143,
+  "translation": "Chifukwa mdani wakalondola moyo wanga; anandipweteka m'munthu wanga kufika pa dziko lapansi; anandikhazikitsa ku mdima, monga akufa akale.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chifukwa"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "wakalondola"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mdani"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "anandipweteka"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "kufika pa dziko lapansi"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "m'munthu wanga"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "anandikhazikitsa"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "ku mdima"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "monga akufa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "akale"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:55.580293072Z",
+  "model": "glm-5.3"
+}

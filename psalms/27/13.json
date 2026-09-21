@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ngati sindinakhulupirira, ndidathawa ⟨kuona⟩ zabwino za Yahwe m'dziko la amoyo.",
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "ngati si-"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "ndinakhulupirira"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "zabwino za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko la"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "amoyo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:51.723453144Z",
+  "model": "glm-5.3"
+}

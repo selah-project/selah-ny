@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo anati: Aitani iye. Ndipo anaitana iye, ndipo anayimirira pa khomo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo anati"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "aitani"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ndipo anaitana"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ndipo anayimirira"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "pa khomo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:49:00.056331883Z",
+  "model": "glm-5.3"
+}

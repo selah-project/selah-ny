@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "M'malo a kukhala kwake adayang'anitsa mokhwa okhala onse a dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "m'malo"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "a kukhala kwake"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "adayang'anitsa mokhwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "okhala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:10.689928589Z",
+  "model": "glm-5.3"
+}

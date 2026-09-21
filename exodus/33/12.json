@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 33:12",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Ndipo Moshe anati kwa Yahwe: “Ona, iwe ukunena kwa ine kuti: ‘Kweza ⟨את⟩ anthu awa,’ koma iwe sinandiuzire ⟨את⟩ amene udzatumiza ndi ine; ndipo iwe wanena: ‘Ndakudziwa ndi dzina, ndipo inenso wapeza chisomo m'maso anga.’”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ukunena"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "העל",
+      "gloss": "Kweza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu awa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "koma iwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "הודעתני",
+      "gloss": "nandiuzire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amene udzatumiza ndi ine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "udzatumiza"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndi ine"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ndipo iwe"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "wanena"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "Ndakudziwa"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ndi dzina"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "wapeza"
+    },
+    {
+      "surface": "חן",
+      "gloss": "chisomo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "m'maso anga"
+    }
+  ],
+  "timestamp": "2026-09-21T06:25:30.316039843Z",
+  "model": "glm-5.3"
+}

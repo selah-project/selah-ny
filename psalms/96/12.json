@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 96,
+  "translation": "Munda udzasangalala, ndi zonse zimene zili mmenemo; pomwepo mitengo yonse ya thengo idzalimbikira ndi kukondwera.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "udzasangalala"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Munda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "בו",
+      "gloss": "zili mmenemo"
+    },
+    {
+      "surface": "אז",
+      "gloss": "pomwepo"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "idzalimbikira ndi kukondwera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mitengo"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ya thengo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:58.238005679Z",
+  "model": "glm-5.3"
+}

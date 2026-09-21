@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 91,
+  "translation": "Adzaitana Ine, ndipo Ine ndidzamuyankha; Ine ndidzakhala ndi iye pomwe ali m'dautso; ndidzampulumutsa, ndipo ndidzamulemekeza.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "adzaitana Ine"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "ndipo ndidzamuyankha"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndi iye"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "m'dautso"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "ndidzampulumutsa"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "ndipo ndidzamulemekeza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:22.912991459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Monga bwenzi, monga m'bale wanga, ndinayendayenda; monga wakulira amayi ake, ndinamva chisoni ndi kugwada.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "Monga bwenzi"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "monga m'bale wanga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "ndinayendayenda"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "monga wakulira"
+    },
+    {
+      "surface": "אם",
+      "gloss": "amayi ake"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ndinamva chisoni"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "ndi kugwada"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:52.842430671Z",
+  "model": "glm-5.3"
+}

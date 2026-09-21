@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Kuyenda ⟨את⟩ anthu anzeru ndi kuva nzeru, koma bwenzi la akhuluopusa adzaonongeka.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Kuyenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu anzeru"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "anthu anzeru"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ndi kuva nzeru"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "koma bwenzi la"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "akhuluopusa"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "adzaonongeka"
+    }
+  ],
+  "timestamp": "2026-09-21T11:21:52.659706490Z",
+  "model": "glm-5.3"
+}

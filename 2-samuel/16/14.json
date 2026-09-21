@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo mfumu ndi anthu onse amene anali ⟨את⟩ naye adafika atafu, nipo anapuma pompo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ndipo adafika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi anthu onse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye",
+      "marks": "mfumu"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "atafu"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "nipo anapuma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pompo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:24:14.034777735Z",
+  "model": "glm-5.3"
+}

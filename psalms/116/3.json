@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 116,
+  "translation": "Makhasu a imfa aandizinga, ndiponso zowala za Sheoli zandinpeza; chisautso ndi chisomo ndinapeza.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "aandizinga"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "Makhasu a"
+    },
+    {
+      "surface": "מות",
+      "gloss": "imfa"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "ndiponso zowala za"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheoli"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "zandinpeza"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "chisautso"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "ndi chisomo"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ndinapeza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:54.002314499Z",
+  "model": "glm-5.3"
+}

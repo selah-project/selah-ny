@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo Eli anaitana ⟨את⟩ Shemuweli, nati: “Shemuweli, mwana wanga.” Ndipo iye anati: “Ndili pano.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "anaitana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuweli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana wanga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ndili pano"
+    }
+  ],
+  "timestamp": "2026-09-21T08:00:49.338501917Z",
+  "model": "glm-5.3"
+}

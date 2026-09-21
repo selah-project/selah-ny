@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Amene angapezedwe ⟨את⟩ kwa iye mwa akapolo ako, adzafa, ndipo ifenso tidzakhala akapolo a mbuye wathu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Amene"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "angapezedwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kwa iye",
+      "marks": "chinthucho chomwe chidzapezedwa"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "mwa akapolo ako"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "adzafa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndipo"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ifenso"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "tidzakhala"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "a mbuye wathu"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "akapolo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:03:44.092469318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Taonani, ndikudzudzula kwa inu ⟨את⟩ mbewu, ndipo ndidzabzalitsa manyi pa nkhope zanu, manyi a misonkhano yanu, ndipo chidzakutengerani kwa yomweyo.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Taonani"
+    },
+    {
+      "surface": "גער",
+      "gloss": "ndikudzudzula"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbewu"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "mbewu"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "ndidzabzalitsa"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "manyi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "nkhope zanu"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "manyi a"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "misonkhano yanu"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "chidzakutengerani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ -ku-",
+      "marks": "inu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa yomweyo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:39:19.680121255Z",
+  "model": "glm-5.3"
+}

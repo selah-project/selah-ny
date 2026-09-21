@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 63,
+  "translation": "Choncho ndidalemekeza Inu m'moyo wanga; mu Dzina lanu ndidzaulula matambi anga.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Choncho"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ndidalemekeza Inu"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "m'moyo wanga"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "mu Dzina lanu"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ndidzaulula"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "matambi anga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:56.907173926Z",
+  "model": "glm-5.3"
+}

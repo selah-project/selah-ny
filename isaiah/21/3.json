@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 21:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Chifukwa cha ichi chiwalo changa chadzaza ndi kuwawa kwa mbali; ziwalo zandigwira, monga ziwalo za mkazi wakubala; ndinagweda pamene ndinamva, ndadabwa pamene ndinaona.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chifukwa cha ichi"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "chadzaza"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "chiwalo changa"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "kuwawa kwa mbali"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "ziwalo"
+    },
+    {
+      "surface": "אחזוני",
+      "gloss": "zandigwira"
+    },
+    {
+      "surface": "כצירי",
+      "gloss": "monga ziwalo za"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "mkazi wakubala"
+    },
+    {
+      "surface": "נעויתי",
+      "gloss": "ndinagweda"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "pamene ndinamva"
+    },
+    {
+      "surface": "נבהלתי",
+      "gloss": "ndadabwa"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "pamene ndinaona"
+    }
+  ],
+  "timestamp": "2026-09-21T13:11:49.135387403Z",
+  "model": "glm-5.3"
+}

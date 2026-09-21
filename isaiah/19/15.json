@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo padzakhala palibe ntchito ya Mitsrayimu, imene mutu kapena mkwati, tsamba la mnjedza kapena liwa angachite.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ndipo palibe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "padzakhala"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "ya Mitsrayimu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "angachite"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "kapena mkwati"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "tsamba la mnjedza"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "kapena liwa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:08:09.399761161Z",
+  "model": "glm-5.3"
+}

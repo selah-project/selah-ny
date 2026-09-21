@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndinaona ⟨את⟩ dziko, ndipo taona, tohu ndi bohu ⟨chabwanja, chopanda⟩; ndipo ndinayang'ana kumwamba, ndipo kuwala kwawo kulibe.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ndinaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ndipo taona"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tohu"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "ndi bohu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo kwa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo kulibe"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "kuwala kwawo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:28:58.300529092Z",
+  "model": "glm-5.3"
+}

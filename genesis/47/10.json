@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 47,
+  "translation": "Ndipo Yaakob adadalitsa ⟨את⟩ Paro, natuluka pamaso pa Paro.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "adadalitsa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "natuluka"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-21T06:05:06.614104491Z",
+  "model": "glm-5.3"
+}

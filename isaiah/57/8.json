@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 57:8",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 57,
+  "translation": "Ndipo kumbuyo kwa khomo ndi kwa chirambo cha khomo umaika chikumbutso chako; popeza kwa Ine ⟨את⟩ unawulula, unakwera, unafotokoza pogona kwako, unadzipanga pangano ndi iwo; pogona pawo unakonda, dzanja unaona.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ndipo kumbuyo kwa"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "khomo"
+    },
+    {
+      "surface": "והמזוזה",
+      "gloss": "ndi kwa chirambo cha khomo"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "unaika"
+    },
+    {
+      "surface": "זכרונך",
+      "gloss": "chikumbutso chako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "kwa Ine ⟨את⟩",
+      "marks": "Ine (Yahwe)"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "unawulula"
+    },
+    {
+      "surface": "ותעלי",
+      "gloss": "unakwera"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "unafotokoza"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "pogona kwako"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "unadzipanga pangano"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ndi iwo"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "unakonda"
+    },
+    {
+      "surface": "משכבם",
+      "gloss": "pogona pawo"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dzanja"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "unaona"
+    }
+  ],
+  "timestamp": "2026-09-21T13:13:45.958518918Z",
+  "model": "glm-5.3"
+}

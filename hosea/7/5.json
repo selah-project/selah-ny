@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Tsiku la mfumu yathu, mafumu anamumetsa ndi kutentha kwa vinyo; anakhotsoza dzanja lake ⟨את⟩ ndi odzunda.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "la mfumu yathu"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "anamumetsa"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ndi kutentha"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "kwa vinyo"
+    },
+    {
+      "surface": "משך",
+      "gloss": "anakhotsoza"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odzunda"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "ndi odzunda"
+    }
+  ],
+  "timestamp": "2026-09-21T10:23:01.740384424Z",
+  "model": "glm-5.3"
+}

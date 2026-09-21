@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Dzakondwera ndi kusekerera m'khesedi lako, umene unaona ⟨את⟩ masautso anga; unadziwa mu mavuto a moyo wanga.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "Dzakondwera"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "ndi kusekerera"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "m'khesedi lako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "unaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masautso anga"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "masautso anga"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "unadziwa"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "mu mavuto"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "a moyo wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:11.750675420Z",
+  "model": "glm-5.3"
+}

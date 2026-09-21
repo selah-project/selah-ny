@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo nkhombe ndi bvumbwe zidzafuza pamodzi, ana awo adzagona limodzi; ndipo mkango ngati nkhombe adzadya uswa.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "ndipo nkhombe"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "ndi bvumbwe"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "zidzafuza"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamodzi"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "adzagona"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "ana awo"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "ndipo mkango"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "ngati nkhombe"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "adzadya"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "uswa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:06:44.148894671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 76:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 76,
+  "translation": "Lapani mphatso ndi kuzalipirira kwa Yahwe Elohim wanu, inu onse m'kati mwake; adzabweretsa mphatso kwa Wachiopsya.",
+  "tokens": [
+    {
+      "surface": "נדרו",
+      "gloss": "Lapani mphatso"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "ndi kuzalipirira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onu onse"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "m'kati mwake"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "adzabweretsa"
+    },
+    {
+      "surface": "שי",
+      "gloss": "mphatso"
+    },
+    {
+      "surface": "למורא",
+      "gloss": "kwa Wachiopsya"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:31.955706966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 3:6",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo Yehoshuwa anati kwa ansembe, nati: “Kwezani ⟨את⟩ sanduku la pangano, ndipo pitani patsogolo pa anthu.” Ndipo anakweza ⟨את⟩ sanduku la pangano, nanapita patsogolo pa anthu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "Kwezani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku la pangano"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "la pangano"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "pitani"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "patsogolo pa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "anakweza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku la pangano"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "la pangano"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "nanapita"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "patsogolo pa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:33:52.922470463Z",
+  "model": "glm-5.3"
+}

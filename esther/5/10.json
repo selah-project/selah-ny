@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Koma Haman anadziletsa, nalowa m'nyumba yake, natuma ndi kuwalowetsa ⟨את⟩ abwenzi ake ndi ⟨את⟩ Zeresh mkazi wake.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "anadziletsa"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "nalowa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "m'nyumba yake"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "natuma"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kuwalowetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abwenzi ake"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "abwenzi ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Zeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mkazi wake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:00:19.030001660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 60,
+  "translation": "Ndipo ana a anthu akunja adzamanga makoma ako, ndi mafumu awo adzakutumikira; pakuti m'mkwiyo wanga ndinakumenya iwe, ndipo m'kondwerro changa ndinakuchitira chifundo.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "adzamanga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "anthu akunja"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "makoma ako"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "ndi mafumu awo"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "adzakutumikira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "m'mkwiyo wanga"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "ndinakumenya iwe"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "ndipo m'kondwerro changa"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "ndinakuchitira chifundo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:24:15.093970455Z",
+  "model": "glm-5.3"
+}

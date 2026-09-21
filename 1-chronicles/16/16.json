@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "umene anakolola ⟨את⟩ Avraham, ndi kulumbira kwake kwa Yitskhaki.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "anakolola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "ndi kulumbira kwake"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kwa Yitskhaki"
+    }
+  ],
+  "timestamp": "2026-09-21T12:28:54.160143411Z",
+  "model": "glm-5.3"
+}

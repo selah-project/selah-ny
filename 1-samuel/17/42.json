@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo Mfilistiyo anayang'ana, naamona ⟨את⟩ Dawidi, nam'nyoze; pakuti anali mwana wachinyamata, wofiira nazo makolo, ndi wokongola m'masomo.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "anayang'ana"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Mfilistiyo"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "naamona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "nam'nyoze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "היה",
+      "gloss": "anali"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mwana wachinyamata"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "wofiira nazo makolo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "wokongola"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "m'masomo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:05:59.919921579Z",
+  "model": "glm-5.3"
+}

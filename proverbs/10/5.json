@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Wosonkhanitsa pa chilimwe ndi mwana wochenjera; wozama tulo pa nthawi ya kolera ndi mwana wochititsa manyazi.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "wosonkhanitsa"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "pa chilimwe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "wochenjera"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "wozama tulo"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "pa nthawi ya kolera"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "wochititsa manyazi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:20:48.115673655Z",
+  "model": "glm-5.3"
+}

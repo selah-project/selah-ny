@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 9:5",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndi nsapato zonse zophwa ndi zowadzimbidwa pa miyoyo yao, ndi chovala chophwa pa iwo; ndi mkate wonse wa chakudya chawo unalizira, unakhala zowungulira.",
+  "tokens": [
+    {
+      "surface": "ונעלות",
+      "gloss": "ndi nsapato zonse"
+    },
+    {
+      "surface": "בלות",
+      "gloss": "zophwa"
+    },
+    {
+      "surface": "ומטלאות",
+      "gloss": "ndi zowadzimbidwa"
+    },
+    {
+      "surface": "ברגליהם",
+      "gloss": "pa miyoyo yao"
+    },
+    {
+      "surface": "ושלמות",
+      "gloss": "ndi chovala"
+    },
+    {
+      "surface": "בלות",
+      "gloss": "chophwa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pa iwo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi wonse"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "צידם",
+      "gloss": "wa chakudya chawo"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "unalizira"
+    },
+    {
+      "surface": "היה",
+      "gloss": "unakhala"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "zowungulira"
+    }
+  ],
+  "timestamp": "2026-09-21T07:36:03.485050752Z",
+  "model": "glm-5.3"
+}

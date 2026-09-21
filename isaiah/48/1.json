@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 48:1",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 48,
+  "translation": "Mverani izi, banja la Yakobo, amene amatchedwa ndi dzina la Yisraeli, ndipo a madzi a Yuda anatulukira; akulambira m'dzina la Yahwe, ndipo mulungu wa Yisraeli amamukumbukira, osati mwachoonadi kapena m'cholungama.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mverani"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "banja"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "la Yakobo"
+    },
+    {
+      "surface": "הנקראים",
+      "gloss": "amatchedwa"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ndi dzina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "la Yisraeli"
+    },
+    {
+      "surface": "וממי",
+      "gloss": "ndipo a madzi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yuda"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "anatulukira"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "akulambira m'dzina"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "ndipo mulungu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "יזכירו",
+      "gloss": "amamukumbukira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "osati"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "mwachoonadi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kapena m'"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "cholungama"
+    }
+  ],
+  "timestamp": "2026-09-21T09:20:42.332565130Z",
+  "model": "glm-5.3"
+}

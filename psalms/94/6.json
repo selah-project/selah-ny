@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 94,
+  "translation": "Amapha mkazi wamasiye ndi mlendo, ndi ana amasiye amapha mwadala.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "mkazi wamasiye"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "ndi mlendo"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "amapha"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "ndi ana amasiye"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "amapha mwadala"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:38.290510810Z",
+  "model": "glm-5.3"
+}

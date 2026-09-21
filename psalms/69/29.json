@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Achotsedwe m'buku la amoyo, ndipo osalembedwa pamodzi ndi olungama.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "achotsedwe"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "m'buku"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "la amoyo"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ndipo pamodzi ndi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "olungama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "osalembedwa osati"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "osalembedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:40.785511096Z",
+  "model": "glm-5.3"
+}

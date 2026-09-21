@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo iye anati: “Sindinasautse ⟨את⟩ Yisraeli, koma iwe ndi nyumba ya atate wako, poti inu munasiya ⟨את⟩ malamulo a Yahwe, ndipo iweinuyo munayenda mwa Baalim.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Sindi-"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "nasautse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "koma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ndi nyumba"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya atate wako"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "munasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malamulo a Yahwe"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "malamulo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "munayenda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalim"
+    }
+  ],
+  "timestamp": "2026-09-21T08:44:06.335531898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 99,
+  "translation": "Yahwe Elohim wathu, iwe ndiye unawayankha; El wokhululuka unakhala wa iwo, ndiponso wolanga pa machitidwe awo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe ndiye"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "unawayankha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "wokhululuka"
+    },
+    {
+      "surface": "היית",
+      "gloss": "unakhala"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wa iwo"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "ndiponso wolanga"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "machitidwe awo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:20.793152349Z",
+  "model": "glm-5.3"
+}

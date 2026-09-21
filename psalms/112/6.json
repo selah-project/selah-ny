@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 112,
+  "translation": "Pakuti kwa nthawi zonse sadzagwedezeka; wolungama adzakhalabe chikumbumtso cha kwa nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kwa nthawi zonse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "dzagwedezeka"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "chikumbumtso cha"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nthawi zonse"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adzakhalabe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wolungama"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:05.144536050Z",
+  "model": "glm-5.3"
+}

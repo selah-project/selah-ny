@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Awa ndi ana a Yisraeli: Reuvoni, Shimon, Levi, Yehudha, Yissaskari, ndi Zevuloni.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuvoni"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskari"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "Zevuloni"
+    }
+  ],
+  "timestamp": "2026-09-21T12:23:28.199439756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ndidzakuyamikani ndi mtima wolungama, pophunzira mweruzo wa chilungamo chanu.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ndidzakuyamikani"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "pophunzira"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mweruzo"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "chilungamo chanu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:45.623047286Z",
+  "model": "glm-5.3"
+}

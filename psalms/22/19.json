@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 22:19",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Amagawa zovala zanga pakati pawo, ndipo pa chovala changa amaponya chizindikiro cha kugawa.",
+  "tokens": [
+    {
+      "surface": "יחלקו",
+      "gloss": "amagawa"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "zovala zanga"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pakati pawo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndipo pa"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "chovala changa"
+    },
+    {
+      "surface": "יפילו",
+      "gloss": "amaponya"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "chizindikiro cha kugawa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:11.622735311Z",
+  "model": "glm-5.3"
+}

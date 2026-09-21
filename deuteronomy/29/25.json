@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo anapita, nanatumikira milungu ina, nagwadira ku iwo — milungu imene sanadziwayo, ndi imene sanawapatselera.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "anapita"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "nanatumikira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "milungu"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ina"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "nagwadira ku iwo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ku iwo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "milungu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "nadziwayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndi imene sa-"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "napatselera"
+    },
+    {
+      "surface": "להם",
+      "gloss": "-wa"
+    }
+  ],
+  "timestamp": "2026-09-21T13:01:46.628361067Z",
+  "model": "glm-5.3"
+}

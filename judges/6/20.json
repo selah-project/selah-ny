@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo mthenga wa Elohim anati kwa iye: “Tenga ⟨את⟩ nyama ndi ⟨את⟩ mikate yopanda chivundi, naoika pa thanthwe ili, ndipo ⟨את⟩ mchere umwaze.” Ndipo iye anachita motero.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo … anati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mthenga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Tenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mikate yopanda chivundi"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "mikate yopanda chivundi"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "naoika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "thanthwe"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "ili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "mchere"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "mchere"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "umwaze"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "כן",
+      "gloss": "motero"
+    }
+  ],
+  "timestamp": "2026-09-21T13:04:08.427727623Z",
+  "model": "glm-5.3"
+}

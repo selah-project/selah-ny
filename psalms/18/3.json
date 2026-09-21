@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Yahwe thanthwe langa, ndi chikhalire changa, ndi wopulumutsa wanga; El wanga, thanthwe langa, mwa iye ndimatembekera; chishango changa, ndi nyanga ya chipulumutso changa, chitetezo changa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "thanthwe langa"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ndi chikhalire changa"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ndi mathero anga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El wanga"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "thanthwe langa"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ndimatembekera"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mwa iye"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "chishango changa"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "ndi nyanga"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ya chipulumutso changa"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "chitetezo changa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:09.637963969Z",
+  "model": "glm-5.3"
+}

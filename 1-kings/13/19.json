@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo iye anabwerera ndi ⟨את⟩ iye, nadya mkate mu nyumba yake, namwa madzi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ndipo anabwerera"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ndi ⟨את⟩ iye"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "nadya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "mu nyumba yake"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "namwa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:40:04.692250973Z",
+  "model": "glm-5.3"
+}

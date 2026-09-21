@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo Afilisti anatsata Shauli ndi ana ake; ndipo Afilisti anamenya ⟨את⟩ Yonatani ndi ⟨את⟩ Avinadabu ndi ⟨את⟩ Malki-Shua, ana a Shauli.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "anatsata"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilisti"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kutsata"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ndi kutsata"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ndipo anamenya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatani"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Avinadabu"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Malki-Shua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    }
+  ],
+  "timestamp": "2026-09-21T12:27:23.879184906Z",
+  "model": "glm-5.3"
+}

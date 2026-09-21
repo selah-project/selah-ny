@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 20:24",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Kuchokera kwa Yahwe ndi mapazi a munthu; ndipo munthu adziwe bwanji njira yake?",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "kuchokera kwa Yahwe"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "mapazi a"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ndipo munthu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bwanji"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "adziwe"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "njira yake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:24:12.736965890Z",
+  "model": "glm-5.3"
+}

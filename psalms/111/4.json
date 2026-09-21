@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 111,
+  "translation": "Wachita chikumbutso cha zodabwitsa zake; Yahwe ndi wachifundo ndi wachikondwerero.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "chikumbutso"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Wachita"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "cha zodabwitsa zake"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "wachifundo"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ndi wachikondwerero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:15.564590231Z",
+  "model": "glm-5.3"
+}

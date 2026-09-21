@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 55,
+  "translation": "Kwa woyang'anira ⟨⟨, pa zitolankhuland. Maphunzitso a Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "pa zitolankhuland"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Maphunzitso"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "a Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:33.087141987Z",
+  "model": "glm-5.3"
+}

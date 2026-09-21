@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 74,
+  "translation": "Chiphunzitso cha Asafu. Chifukwa chiyani, Elohim, watisiya ku nthawi zosatha? Mkwiyo wako ukusuta m'nkhosa za kufumba kwako.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Chiphunzitso"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "cha Asafu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Chifukwa chiyani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "watisiya"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ku nthawi zosatha"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "ukusuta"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "mkwiyo wako"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "m'nkhosa"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "za kufumba kwako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:26.587847092Z",
+  "model": "glm-5.3"
+}

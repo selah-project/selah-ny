@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 83,
+  "translation": "Pakuti taona, adani ako akuyimba chivundi, ndipo odana nawe anakweza mutu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "adani ako"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "akuyimba chivundi"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "ndipo odana nawe"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "anakweza"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:16.638776261Z",
+  "model": "glm-5.3"
+}

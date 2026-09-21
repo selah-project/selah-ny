@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ngati nsembe yake ndi yopsereka, yochokera mwa ng'ombe, wamuna wopanda chilema adzawombolera pamlomo pa chihema cha msonkhano; adzawombolera ⟨את⟩ yake monga ndi kufunafuna kwake, pamaso pa Yahwe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yopsereka"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "nsembe yake"
+    },
+    {
+      "surface": "מן",
+      "gloss": "yochokera mwa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "wamuna"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "wopanda chilema"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "adzawombolera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pamlomo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "pa chihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "cha msonkhano"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "adzawombolera"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yake",
+      "marks": "yopsereka"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "monga ndi kufunafuna kwake"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:35.054365052Z",
+  "model": "glm-5.3"
+}

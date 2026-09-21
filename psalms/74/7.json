@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 74,
+  "translation": "Anatumiza moto mu malo opatulika anu, kudza pansi anapeputsa malo okhala Dzina lanu.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "anatumiza"
+    },
+    {
+      "surface": "באש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "mu malo opatulika anu"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "kudza pansi"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "anapeputsa"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "malo okhala"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Dzina lanu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:51.012946002Z",
+  "model": "glm-5.3"
+}

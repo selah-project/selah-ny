@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 43,
+  "translation": "Ndipo iye adzadza, nadzamenya ⟨את⟩ dziko la Mitsrayimu; amene ali a imfa, ku imfa, ndipo amene ali a kukapolizedwa, ku kukapolizedwa, ndipo amene ali a lupanga, ku lupanga.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "nadzadza"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "nadzamenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko la Mitsrayimu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ku imfa"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ku imfa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ndipo amene"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "ku kukapolizedwa"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "ku kukapolizedwa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ndipo amene"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "ku lupanga"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "ku lupanga"
+    }
+  ],
+  "timestamp": "2026-09-21T13:16:57.060595041Z",
+  "model": "glm-5.3"
+}

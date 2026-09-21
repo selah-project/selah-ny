@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo ndinayezera kwa iwo ⟨את⟩ siliva ndi ⟨את⟩ golide ndi ⟨את⟩ zida — mphatso ya nyumba ya Elohim wathu, imene mfumu ndi aphungu ake ndi akulu ake ndi Yisraeli wonse amene analipo anakweza.",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "ndinayezera"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siliva"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "golide"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zida"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "zida"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "mphatso ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "anakweza"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "ndi aphungu ake"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "ndi akulu ake"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi wonse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "amene analipo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:14:58.083241348Z",
+  "model": "glm-5.3"
+}

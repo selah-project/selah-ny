@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo ineyo ndinati: Nzeru zabwino koposa mphamvu; koma nzeru za wosauka zinyozedwa, ndipo mawu ake simakumbidwa.",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "ndipo ndinati"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ineyo"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "zabwino"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "nzeru"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "koposa mphamvu"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "koma nzeru"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "za wosauka"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "zinyozedwa"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "ndipo mawu ake"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "si-"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "makumbidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:14.178370896Z",
+  "model": "glm-5.3"
+}

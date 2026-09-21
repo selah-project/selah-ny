@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo chidzachitika tsiku lomenelo, kuti ndidzavunda ⟨את⟩ uta wa Yisraeli m'chigwa cha Yizreeli.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "chidzachitika"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lomenelo"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "ndidzavunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uta"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "m'chigwa"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "cha Yizreeli"
+    }
+  ],
+  "timestamp": "2026-09-21T10:21:12.283468120Z",
+  "model": "glm-5.3"
+}

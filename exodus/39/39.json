@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 39:39",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "⟨את⟩ altare ya mkuwa, ndi ⟨את⟩ khasu lake la mkuwa, ⟨את⟩ zitsinde zake, ndi ⟨את⟩ zida zake zonse, ⟨את⟩ chotsuka madzi ndi ⟨את⟩ maziko ake.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altare ya mkuwa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ya mkuwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "khasu lake la mkuwa"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "khasu"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "la mkuwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zitsinde zake"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "zitsinde zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zida zake zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zida zake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chotsuka madzi"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "chotsuka madzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "maziko ake"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "maziko ake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:57:58.074420776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Penya, ndapatsa pamaso pano lero ⟨את⟩ moyo ndi ⟨את⟩ chabwino, ndi ⟨את⟩ imfa ndi ⟨את⟩ choipa.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "penya"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndapatsa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamaso pano"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chabwino"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "chabwino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "imfa"
+    },
+    {
+      "surface": "המות",
+      "gloss": "imfa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "choipa"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "choipa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:29:16.906268195Z",
+  "model": "glm-5.3"
+}

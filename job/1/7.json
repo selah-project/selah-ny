@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Yahwe anati kwa Satani: “Walowa kuchokera kuti?” Ndipo Satani anayankha ⟨את⟩ Yahwe, nati: “Kuchokera kusanthula dziko lapansi ndi kuyendayenda m'menemo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satani"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "kuchokera kuti"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "walowa"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "anayankha"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "kusanthula"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "ndi kuyendayenda"
+    },
+    {
+      "surface": "בה",
+      "gloss": "m'menemo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:30:11.716088698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Ndipo udzatenga mwa ana ake akazi kwa ana ako, ndipo ana ake akazi adzayendera chigololo milungu yawo, ndipo adzawachititsa chigololo ⟨את⟩ ana ako kulondola milungu wawo.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ndipo udzatenga"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "mwa ana ake akazi"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "kwa ana ako"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "ndipo adzayendera chigololo"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "ana ake akazi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kulondola"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "milungu yawo"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "ndipo adzawachititsa chigololo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana ako"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ana ako"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kulondola"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "milungu wawo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:25:22.118278343Z",
+  "model": "glm-5.3"
+}

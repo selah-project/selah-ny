@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo tsopano, mabuku adafika kwa inu, ndipo muli ndi ⟨את⟩ ana a mbuye wanu, ndipo muli ndi ⟨את⟩ magalimoto ndi mahachi, ndipo m'mudzi wa chitetezo ndi zida za nkhondo:",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ndipo tsopano"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "mabuku adafika"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "bukuli"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "muli ndi ⟨את⟩",
+      "marks": "ana a mbuye wanu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "a mbuye wanu"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "muli ndi ⟨את⟩",
+      "marks": "magalimoto ndi mahachi"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "magalimoto"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "ndi mahachi"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ndipo m'mudzi"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "wa chitetezo"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "ndi zida za nkhondo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:51:18.649149195Z",
+  "model": "glm-5.3"
+}

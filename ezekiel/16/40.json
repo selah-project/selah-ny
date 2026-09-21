@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo adzakweza gulu pa iwe, ndipo adzakuponyera ⟨את⟩ iwe ndi miyala, ndipo adzakuthwa ndi makhali awo.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "ndipo adzakweza"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pa iwe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "gulu"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "ndipo adzakuponyera"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "iwe"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ndi miyala"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "ndipo adzakuthwa"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "ndi makhali awo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:01:36.016976716Z",
+  "model": "glm-5.3"
+}

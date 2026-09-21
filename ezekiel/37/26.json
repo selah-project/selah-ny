@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 37:26",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo ndidzaphimza nawo pangano la mtendere; pangano la nthawi zonse lidzakhara nawo; ndipo ndidzayika iwo, ndipo ndidzawachulukitsa iwo, ndipo ndidzaika ⟨את⟩ malire a patulidwe anga pakati pawo ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "וכרתי",
+      "gloss": "ndidzaphimza (ndidzakhazikitsa)"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nawo (kwa iwo)"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pangano"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "la mtendere"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pangano"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "la nthawi zonse"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lidzakhara"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo (וּנְתַתִּים — omwe adzayikidwa)"
+    },
+    {
+      "surface": "ונתתים",
+      "gloss": "ndipo ndidzayika iwo"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ndipo ndidzawachulukitsa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo (omwe adzachulukitsidwa)"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ndipo ndidzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malire a patulidwe anga"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "malire a patulidwe anga"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "pakati pawo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:13:26.811513060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo iye anakwera kuchokera kumeneko kuluta kwa akhala a Debiri; ndipo dzina la Debiri kale linali Kiriyati-Seferi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "anakwera"
+    },
+    {
+      "surface": "משם",
+      "gloss": "chokera kumeneko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuluta"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "akhala"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debiri"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ndipo dzina"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la Debiri"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "kale"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiriyati-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Seferi"
+    }
+  ],
+  "timestamp": "2026-09-21T13:01:43.861839725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo m'mawa, Afilisti anadza kuvula ⟨את⟩ akufa, nao anapeza ⟨את⟩ Shauli ndi ⟨את⟩ ana ake atatu ogwera pa phiri la Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kunachitika"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "m'mawa"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "anadza"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilisti"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "kuvula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akufa"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "akufa"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "anapeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shauli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana ake atatu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "ogwera"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pa phiri la"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-21T13:06:54.441394124Z",
+  "model": "glm-5.3"
+}

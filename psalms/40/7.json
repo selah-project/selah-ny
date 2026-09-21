@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Nsembe yaikulu ndi nsembe ya munde sunafuna; makutu anga unatsekulira; nsembe ya kuwotcha ndi ya tchimo sunaitsa.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "nsembe yaikulu"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "ndi nsembe ya munde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "osati"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "sunafera"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "makutu"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "unatsekulira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "nsembe ya kuwotcha"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "ndi ya tchimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "osati"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "sunaitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:35.051297877Z",
+  "model": "glm-5.3"
+}

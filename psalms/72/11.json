@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 72,
+  "translation": "Ndipo mafumu onse adzamulambira iye; mayiko onse adzamutumikira iye.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "Ndipo adzamulambira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mayiko"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "adzamutumikira iye"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:49.969597843Z",
+  "model": "glm-5.3"
+}

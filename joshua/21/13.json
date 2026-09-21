@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo kwa ana a Aharoni wansembe anapereka ⟨את⟩ mzinda wothawiramo wa wobulukira ⟨את⟩ Khebroni ndi ⟨את⟩ malire ake, ndi ⟨את⟩ Libna ndi ⟨את⟩ malire ake.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "kwa ana a"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "anapereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mzinda wothawiramo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "wothawiramo"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "wa wobulukira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khebroni"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khebroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malire ake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malire ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Libna"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malire ake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malire ake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:42:53.287783088Z",
+  "model": "glm-5.3"
+}

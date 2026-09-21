@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 127,
+  "translation": "Wodala ndi munthu amene adazaza ⟨את⟩ chikwatu chake ndi iwo; sadzachititsidwa manyazi, pakuti adzalankhula ⟨את⟩ ⟨ndi⟩ adaniwo m'khomo la mzinda.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Wodala"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "adazaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikwatu chake"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "chikwatu chake"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ndi iwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "-chititsidwa manyazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "adzalankhula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨ndi⟩",
+      "marks": "adaniwo"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "adaniwo"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "m'khomo la mzinda"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:27.050061106Z",
+  "model": "glm-5.3"
+}

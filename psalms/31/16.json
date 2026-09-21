@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "M'dzanja lanu muli nthawi zanga; ndipulumutseni m'dzanja la adani anga ndi ochotsa anga.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "M'dzanja lanu"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "nthawi zanga"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ndipulumutseni"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "adani anga"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "ndi ochotsa anga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:39.972439016Z",
+  "model": "glm-5.3"
+}

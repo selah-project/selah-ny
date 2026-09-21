@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo udzapanga ⟨את⟩ mapango, mitengo ya shito, ndipo udzawaphimba ⟨את⟩ golide.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "udzapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapango"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "mapango"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mitengo ya"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shito"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "udzawaphimba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mapango"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    }
+  ],
+  "timestamp": "2026-09-21T06:21:50.896423307Z",
+  "model": "glm-5.3"
+}

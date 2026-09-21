@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndinayang'anitsa ⟨את⟩ maso anga ndipo ndinaona, ndipo taona, munthu m'modzi wovala zovala za lineni, ndipo chiwalo chake chomangidwa ndi golide wa Uphazi.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "Ndinayang'anitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maso anga"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maso anga"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ndipo ndinaona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ndipo taona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "m'modzi"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "wovala"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "zovala za lineni"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "ndipo chiwalo chake"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "chomangidwa"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "ndi golide wa"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "Uphazi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:09:18.314444330Z",
+  "model": "glm-5.3"
+}

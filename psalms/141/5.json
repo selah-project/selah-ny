@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 141,
+  "translation": "Wolungama angandigunde ndi khesedi, ndipo anganditsutsa; ndiwo mafuta pamutu, mutu wanga usawakane; pakuti pemphero langa likhalebe pa zoipa zawo.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "angandigunde"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Wolungama"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesedi"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "ndipo anganditsutsa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pamutu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "יני",
+      "gloss": "wakane"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mutu wanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "likhalebe"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "pemphero langa"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "pa zoipa zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:56.543413312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo anapanga ⟨את⟩ gulo la mtengo wa akashya; kutalika kwake kunali maamba awiri, ndi m'mba mmodzi m'kuzungulira kwake, ndi m'mba mmodzi ndi bachisi m'kukweza kwake.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gulo"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "gulo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "la mtengo wa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akashya"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "maamba awiri"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "kutalika kwake"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ndi m'mba mmodzi"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "m'kuzungulira kwake"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ndi m'mba mmodzi"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ndi bachisi"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "m'kukweza kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:27:05.211306828Z",
+  "model": "glm-5.3"
+}

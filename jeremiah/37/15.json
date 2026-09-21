@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 37:15",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo akuluakulu anakwiya ndi Yirmeyahu, namupweteka ⟨את⟩, namuyika ⟨את⟩ m'nyumba ya kundende, m'nyumba ya Yehonatani wolemba; popeza iwo anachita ⟨את⟩ kuti ikhale nyumba ya kundende.",
+  "tokens": [
+    {
+      "surface": "ויקצפו",
+      "gloss": "anakwiya"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "akuluakulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "namupweteka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (Yirmeyahu)"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "namuyika"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (Yirmeyahu)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "האסור",
+      "gloss": "kundende"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "wolemba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iyo (nyumba)"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kukhala nyumba"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "kundende"
+    }
+  ],
+  "timestamp": "2026-09-21T09:46:27.220414561Z",
+  "model": "glm-5.3"
+}

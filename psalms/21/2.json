@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Yahwe, m'phamvu zako mfumu ikondwera, ndi m'chipulumutso chako ikondwera kwambiri.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "m'phamvu zako"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ikondwera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "ndi m'chipulumutso chako"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "ikondwera"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwakukulu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:10.763180534Z",
+  "model": "glm-5.3"
+}

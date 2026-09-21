@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Chilungamo, chilungamo udzalondola, kuti ukhale ndi moyo, ndipo ulande ⟨את⟩ dziko limene Yahwe Elohim wako akupatsa iwe.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Chilungamo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "chilungamo"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "udzalondola"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ukhale ndi moyo"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "ndipo ulande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akupatsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T07:21:30.625731263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Peza nzeru, peza chidziwitso; usaiwale, ndipo usatembenuke m'mawu a pakamwa panga.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "peza"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "nzeru"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "peza"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "chidziwitso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "iwale"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo usa-"
+    },
+    {
+      "surface": "תט",
+      "gloss": "satembenuke"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "m'mawu a"
+    },
+    {
+      "surface": "פי",
+      "gloss": "pakamwa panga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:18:27.866120834Z",
+  "model": "glm-5.3"
+}

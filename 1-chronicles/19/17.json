@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 19:17",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo anamuuza Davide, ndipo anasonkhitsa ⟨את⟩ Yisraeli wonse, nadutsa Yorodano, nadza kwa iwo, nayika nkhondo molimbana ndi iwo; Davide nayika nkhondoyi yokomana ndi Aramu, ndipo anamenyana ndi iye.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "anamuuza"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "kwa Davide"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "anasonkhitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli wonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "nadutsa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorodano"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nadza"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "nayika nkhondo molimbana"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ndi iwo"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "nayika nkhondo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "yokomana ndi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "nkhondo"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "anamenyana"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndi iye"
+    }
+  ],
+  "timestamp": "2026-09-21T12:29:56.550504921Z",
+  "model": "glm-5.3"
+}

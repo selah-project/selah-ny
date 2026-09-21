@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 145,
+  "translation": "Chikumbutiro cha kukoma kwako kochuluka adzachulutsa, ndi chilungamo chako adzayimba nyimbo.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Chikumbutiro"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kochuluka"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "cha kukoma kwako"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "adzachulutsa"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ndi chilungamo chako"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "adzayimba nyimbo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:05.319859722Z",
+  "model": "glm-5.3"
+}

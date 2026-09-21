@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 143,
+  "translation": "Nyimbo ya Davide. Yahwe, mvera pemphero langa, khulupirika kupemphera kwanga; m'chikhulupiriro chako ndiyankhe ine, m'chilungamo chako.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Nyimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Davide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mvera"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "pemphero langa"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "khulupirika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "kupemphera kwanga"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "m'chikhulupiriro chako"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ndiyankhe ine"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "m'chilungamo chako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:55.579797786Z",
+  "model": "glm-5.3"
+}

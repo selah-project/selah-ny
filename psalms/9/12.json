@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Imbalirani Yahwe wokhala m'Ziyoni; nena mmagulu a anthu ntchito zake.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Imbalirani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wokhala"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "m'Ziyoni"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "nena"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "mmagulu a anthu"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ntchito zake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:50.422415708Z",
+  "model": "glm-5.3"
+}

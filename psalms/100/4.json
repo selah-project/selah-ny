@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 100,
+  "translation": "Lowani m'masuo ake ndi chiyamiko, ndi m'mabwalo ake ndi matamando; muthokoze Iye, mudalitse dzina lake.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Lowani"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "m'masuo ake"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ndi chiyamiko"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "ndi m'mabwalo ake"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "ndi matamando"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "muthokoze"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Iye"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "mudalitse"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dzina lake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:39.240279287Z",
+  "model": "glm-5.3"
+}

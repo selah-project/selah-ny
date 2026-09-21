@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo motero mudzadya ⟨את⟩: chiwindi chanu cholembedwa, nsapato zanu pa mapazi anu, ndi ndodo yanu m'dzanja lanu; ndipo mudzadya ⟨את⟩ mwachangu; ndiye Pesakha ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "motero"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mudzadya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (nyamayi)"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "chiwindi chanu"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "cholembedwa"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "nsapato zanu"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "pa mapazi anu"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "ndi ndodo yanu"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "m'dzanja lanu"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "mudzadya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (nyamayi)"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "mwachangu"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesakha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:12:21.797968725Z",
+  "model": "glm-5.3"
+}

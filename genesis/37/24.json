@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndamutenga iye, namuponya ⟨את⟩ iye m'bwalo; ndipo bwalo linenali lathunthu, linali lopanda madzi.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "ndamutenga iye"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "namuponya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "m'bwalo"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "ndipo bwalo"
+    },
+    {
+      "surface": "רק",
+      "gloss": "linenali lathunthu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "linali lopanda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "-"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:59:51.150885322Z",
+  "model": "glm-5.3"
+}

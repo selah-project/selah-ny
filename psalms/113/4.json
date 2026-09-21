@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 113,
+  "translation": "Yahwe ali wapachulu pa anthu onse, ulemerero wake pambuyo pa miyamba.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "wapachulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pambuyo pa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "miyamba"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ulemerero wake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:29.054949295Z",
+  "model": "glm-5.3"
+}

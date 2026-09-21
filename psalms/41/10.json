@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Ndiponso munthu wa mtendere wanga, amene ndidamukhulupirira mwa iye, wakudya mkate wanga, wasandutsa chidole chake pa ine.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ndiponso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "wa mtendere wanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ndidamukhulupirira"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mwa iye"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "wakudya"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mkate wanga"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "wasandutsa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "chidole chake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:51.067413391Z",
+  "model": "glm-5.3"
+}

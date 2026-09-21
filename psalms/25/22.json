@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Elohim, sambula ⟨את⟩ Yisraeli m'mavuto ake onse.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "sambula"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "m'mavuto ake onse"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "m'mavuto ake onse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:49.936358550Z",
+  "model": "glm-5.3"
+}

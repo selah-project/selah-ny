@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Pamenepo sindidzachita manyazi, pamene ndikapenyerera malamulidwe anu onse.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "pamenepo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "chita manyazi"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "pamene ndikapenyerera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "malamulidwe anu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:45.622893972Z",
+  "model": "glm-5.3"
+}

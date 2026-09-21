@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 11:3",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo anati munthu kwa mnansi wake: “Bwerani, tipange njerwa, niziotche mpaka kuotcha konse.” Ndipo njerwa zinakhala miyala kwa iwo, ndi chiwonda chinakhala chophimba kwa iwo.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mnansi wake"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "Bwerani"
+    },
+    {
+      "surface": "נלבנה",
+      "gloss": "tipange"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "njerwa"
+    },
+    {
+      "surface": "ונשרפה",
+      "gloss": "niziotche"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "mpaka kuotcha konse"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "zinakhala"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "הלבנה",
+      "gloss": "njerwa"
+    },
+    {
+      "surface": "לאבן",
+      "gloss": "miyala"
+    },
+    {
+      "surface": "והחמר",
+      "gloss": "ndi chiwonda"
+    },
+    {
+      "surface": "היה",
+      "gloss": "chinakhala"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "לחמר",
+      "gloss": "chophimba"
+    }
+  ],
+  "timestamp": "2026-09-21T05:47:24.235706015Z",
+  "model": "glm-5.3"
+}

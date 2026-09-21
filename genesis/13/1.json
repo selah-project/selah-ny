@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo Avram anakwera kuchokera ku Mitsrayimu — iye ndi mkazi wake ndi zonse zake zamtengo, ndi Loti pamodzi ndi iye — m'dziko la kumwera.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "anakwera"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuchokera ku Mitsrayimu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ndi mkazi wake"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zake zamtengo ⟨zonse zake zamtengo⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zake"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "ndi Loti"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamodzi ndi iye"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "m'dziko la kumwera"
+    }
+  ],
+  "timestamp": "2026-09-21T05:47:00.721450311Z",
+  "model": "glm-5.3"
+}

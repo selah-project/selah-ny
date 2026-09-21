@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Kodi wa mtengo wapatali bwanji khesedi kwanu, Elohim! Choncho ana a anthu amakhalaria m'mthunzi mwa mapiko anu.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kodi … bwanji"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "wa mtengo wapatali"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedi kwanu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "m'mthunzi"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "mwa mapiko anu"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "amakhalaria"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:07.975333913Z",
+  "model": "glm-5.3"
+}

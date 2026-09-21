@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo uzanenedwetse ⟨את⟩ Aharoni ndi ⟨את⟩ ana ake kumkhomo kwa chihema cha msonkhano, ndipo uwashe ⟨את⟩ iwo ndi madzi.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "uzanenedwetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana ake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mkhomo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "cha msonkhano"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "uwashe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo (Aharoni ndi ana ake)"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ndi madzi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:23.942153461Z",
+  "model": "glm-5.3"
+}

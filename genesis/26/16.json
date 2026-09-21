@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo Avimeleke anati kwa Yitsakhe: “Choka kwa ife, pakuti wasanduka wamphamvu koposa ife kwambiri.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsakhe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Choka"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "kwa ife"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "wasanduka wamphamvu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "koposa ife"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    }
+  ],
+  "timestamp": "2026-09-21T05:53:16.505726031Z",
+  "model": "glm-5.3"
+}

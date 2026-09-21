@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 46:1",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 46,
+  "translation": "Bel adagwada, Nevo watembera; mafano awo akhala kwa nyama ndi kwa ziweto; katundu wanu wolemetsedwa, wolemetsa kwa wodwala.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "adagwada"
+    },
+    {
+      "surface": "בל",
+      "gloss": "Bel"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "watembera"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nevo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "akhala"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "mafano awo"
+    },
+    {
+      "surface": "לחיה",
+      "gloss": "kwa nyama"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "ndi kwa ziweto"
+    },
+    {
+      "surface": "נשאתיכם",
+      "gloss": "katundu wanu"
+    },
+    {
+      "surface": "עמוסות",
+      "gloss": "wolemetsedwa"
+    },
+    {
+      "surface": "משא",
+      "gloss": "wolemetsa"
+    },
+    {
+      "surface": "לעיפה",
+      "gloss": "kwa wodwala"
+    }
+  ],
+  "timestamp": "2026-09-21T09:19:53.210255667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo mfumu inatuluka, ndi nyumba yake yonse pa mapazi ake; ndipo mfumu inasiya ⟨את⟩ akazi khumi achipwamwambo, kusunga nyumbayo.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "inatuluka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi yonse"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "pa mapazi ake"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "inasiya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akazi khumi achipwamwambo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "akazi"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "achipwamwambo"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kusunga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumbayo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:23:35.035146155Z",
+  "model": "glm-5.3"
+}

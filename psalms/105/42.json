@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Pakuti anakumbukira ⟨את⟩ liwu lake lotapatulika, ⟨את⟩ Avraham kapolo wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "anakumbukira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liwu lake lotapatulika"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liwu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "lake lotapatulika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "kapolo wake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:00.912928277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "nadiikapo kwa Yaakov monga chilamulo, kwa Yisraeli pangano losatha;",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "nadiikapo"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kwa Yaakov"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "monga chilamulo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kwa Yisraeli"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pangano"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "losatha"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:12.728410153Z",
+  "model": "glm-5.3"
+}

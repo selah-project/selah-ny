@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 61,
+  "translation": "Masiku pa masiku a mfumu mudzaonjeza; zaka zake zikhale monga mbadwo ndi mbadwo.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "Masiku"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "masiku a"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "mudzaonjeza"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "zaka zake"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "monga"
+    },
+    {
+      "surface": "דר",
+      "gloss": "mbadwo"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ndi mbadwo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:59.519770829Z",
+  "model": "glm-5.3"
+}

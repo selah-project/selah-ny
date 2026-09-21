@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo Moshe adamura guwa, nadatcha dzina lake Yahwe-Nisi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "adamura"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "guwa"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nadatcha"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dzina lake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nisi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:56:16.030513676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo ntsani ndi madeya idzakumeretsa kwa iwe, ndipo udzadya ⟨את⟩ udzu wa munda.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "ndipo ntsani"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "ndi madeya"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "idzakumeretsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ndipo udzadya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udzu wa munda"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "udzu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "wa munda"
+    }
+  ],
+  "timestamp": "2026-09-21T05:43:18.423902263Z",
+  "model": "glm-5.3"
+}

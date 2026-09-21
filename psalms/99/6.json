@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 99,
+  "translation": "Moshe ndi Aharoni mwa ansembe ake, ndi Shmueli mwa oitanira dzina lake; analankhula ndi Yahwe, ndipo Iye adawayankha.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ndi Aharoni"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "mwa ansembe ake"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "ndi Shmueli"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "mwa oitanira"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dzina lake"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "analankhula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ndipo Iye"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "adawayankha"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:20.792846838Z",
+  "model": "glm-5.3"
+}

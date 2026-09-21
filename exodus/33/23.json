@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Ndipo ndidzachotsa ⟨את⟩ dzanja langa, ndipo udzaona ⟨את⟩ mbali yanga yakumbuyo; koma nkhope yanga sizaonidwa.”",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "ndidzachotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzanja langa"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "dzanja langa"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "udzaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbali yanga yakumbuyo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mbali yanga yakumbuyo"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "nkhope yanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "zaonidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:24:20.794741641Z",
+  "model": "glm-5.3"
+}

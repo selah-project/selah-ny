@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo asunge ⟨את⟩ chisamaliro cha hema ya msonkhano, ndi ⟨את⟩ chisamaliro cha chopatulo, ndi chisamaliro cha ana a Aharoni, abale awo, pa ntchito ya nyumba ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Ndipo asunge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chisamaliro"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "chisamaliro cha"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya msonkhano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chisamaliro"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "chisamaliro cha"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "chopatulo"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "ndi chisamaliro cha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "abale awo"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "pa ntchito ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T12:34:13.970407886Z",
+  "model": "glm-5.3"
+}

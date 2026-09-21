@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Dzuka, Yahwe, mu mkwiyo wako; simama chifukwa cha ukali wa otsutsa ine; ndipo dzukira ine: chiweruzo wachita chidzimu ⟨umalamula⟩.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Dzuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "mu mkwiyo wako"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "simama"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "chifukwa cha ukali"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "wa otsutsa ine"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "ndipo dzukira"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chiweruzo"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "umalamula"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:35.159511070Z",
+  "model": "glm-5.3"
+}

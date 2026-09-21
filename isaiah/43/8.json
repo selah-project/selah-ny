@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 43,
+  "translation": "Tulutsani anthu akhungu ali nazo maso, ndi agonthi ali nazo makutu.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "tulutsani"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "akhungu"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ndi maso"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ali nazo"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "ndi agonthi"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "ndi makutu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kwa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:17:18.055577156Z",
+  "model": "glm-5.3"
+}

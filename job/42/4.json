@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Mvera, ndapempha, ndipo ine ndidzalankhula; ndidzakufunsa, ndipo udziwitse ine.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Mvera"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapempha"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ndipo ine"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ndidzalankhula"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "ndidzakufunsa"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "udziwitse ine"
+    }
+  ],
+  "timestamp": "2026-09-21T11:47:33.428891831Z",
+  "model": "glm-5.3"
+}

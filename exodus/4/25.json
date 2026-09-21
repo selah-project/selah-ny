@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Tsipora adatenga chidole chamsepu, nadula ⟨את⟩ cholu cha mwana wake, nachikhudza miyendo yawo, ndipo anati: “Ndithu ukhate wamagazi ndiwe kwa ine.”",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "adatenga"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsipora"
+    },
+    {
+      "surface": "צר",
+      "gloss": "chidole chamsepu"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "nadula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cholu cha mwana wake"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "cholu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "nachikhudza miyendo yawo"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "miyodo yawo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ukhate"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "wamagazi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ndiwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T06:09:05.934243529Z",
+  "model": "glm-5.3"
+}

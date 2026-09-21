@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 16:42",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo pamodzi ndi iwo analipo Heimanu ndi Yeduthunu, ndi malipoti ndi zida zamkuono zosemera, kufuulira, ndi zida za nyimbo za Elohim; ndipo ana a Yeduthunu anali pa khomo.",
+  "tokens": [
+    {
+      "surface": "ועמהם",
+      "gloss": "pamodzi ndi iwo"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "Heimanu"
+    },
+    {
+      "surface": "וידותון",
+      "gloss": "ndi Yeduthunu"
+    },
+    {
+      "surface": "חצצרות",
+      "gloss": "malipoti"
+    },
+    {
+      "surface": "ומצלתים",
+      "gloss": "ndi zida zamkuono zosemera"
+    },
+    {
+      "surface": "למשמיעים",
+      "gloss": "kufuulira"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ndi zida"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "za nyimbo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "za Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ndipo ana a"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Yeduthunu"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "anali pa khomo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:30:02.457582570Z",
+  "model": "glm-5.3"
+}

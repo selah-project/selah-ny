@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo adasiya komweko ⟨את⟩ mafano awo, ndipo Davide ndi anthu ake adawatenga.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "adasiya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "komweko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafano awo"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "mafano awo"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "adawatenga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ndi anthu ake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:18:29.246774993Z",
+  "model": "glm-5.3"
+}

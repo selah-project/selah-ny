@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 3:1",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Pambuyo pa zinthu izi, mfumu Achashverosh inakweza ⟨את⟩ Hamani, mwana wa Medata wa Agagi, namkweza, nakaika ⟨את⟩ mpando wake pamwamba pa anseru onse amene anali naye.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Pambuyo pa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "zinthu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "inakweza"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamani"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Medata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "wa Agagi"
+    },
+    {
+      "surface": "וינשאהו",
+      "gloss": "namkweza"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nakaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpando wake"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "mpando wake"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pamwamba pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "anseru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nali naye"
+    }
+  ],
+  "timestamp": "2026-09-21T13:32:59.051392421Z",
+  "model": "glm-5.3"
+}

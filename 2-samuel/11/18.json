@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Yoabu anatumiza, nadziwitsa kwa Davide ⟨את⟩ mawu onse a nkhondo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "anatumiza"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "nadziwitsa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kwa Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu onse a nkhondo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "a nkhondo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:21:02.584574129Z",
+  "model": "glm-5.3"
+}

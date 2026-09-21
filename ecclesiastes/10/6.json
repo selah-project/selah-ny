@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Chidzidzi chiikidwa m'malo apamwamba ambiri, ndipo olemera akhala m'malo a pansi.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "chiikidwa"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "chidzidzi"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "m'malo apamwamba"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ambiri"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "ndipo olemera"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "m'malo a pansi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "akhala"
+    }
+  ],
+  "timestamp": "2026-09-21T11:56:28.664343205Z",
+  "model": "glm-5.3"
+}

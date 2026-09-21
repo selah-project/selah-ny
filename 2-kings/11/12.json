@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndiye anatulutsa ⟨את⟩ mwana wa mfumu, anaika pa iye ⟨את⟩ chisoti cha ufumu ndi ⟨את⟩ umboni, namuchita mfumu ⟨את⟩ iye, namuzodza; nagunda dzanja, nati: “Mfumu ikhale ndi moyo!”",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "anatulutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa mfumu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "anaika"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chisoti cha ufumu"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "chisoti cha ufumu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "umboni"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "umboni"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "namuchita mfumu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "anamuzodza (namuzodza)"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "namuzodza"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "nagunda"
+    },
+    {
+      "surface": "כף",
+      "gloss": "dzanja"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nati"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "ikhale ndi moyo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:53:48.081026182Z",
+  "model": "glm-5.3"
+}

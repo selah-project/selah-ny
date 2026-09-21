@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 21:35",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo anamenya ⟨את⟩ iye ndi ⟨את⟩ ana ake ndi ⟨את⟩ anthu ake onse, kufikira kuti sanamusiyire wosala; ndipo anatenga ⟨את⟩ dziko lake.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "anamenya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "iye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana ake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "anthu ake onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira kuti"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "sanamusiyire"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "sanamusiyire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "wosala"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko lake"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "dziko lake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:01:28.706274436Z",
+  "model": "glm-5.3"
+}

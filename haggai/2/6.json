@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Pakuti monga momwe Yahwe Tsevaoti atanena: kanzindo kamodzi, kanthawi kang'ono kokha, ndipo ine ndikuzunza ⟨את⟩ kumwamba ndi ⟨את⟩ dziko lapansi ndi ⟨את⟩ nyanja ndi ⟨את⟩ malo auma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wanena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kanzindo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kamodzi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kanthawi kang'ono"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kokha"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ndipo ine"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ndikuzunza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kumwamba"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "dziko lapansi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyanja"
+    },
+    {
+      "surface": "הים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malo auma"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "malo auma"
+    }
+  ],
+  "timestamp": "2026-09-21T10:34:39.597298974Z",
+  "model": "glm-5.3"
+}

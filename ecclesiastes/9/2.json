@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 9:2",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Zonse zili monga kwa onse: mwamba wina wokha umene uli kwa wolungama ndi woipa, kwa wabwino ndi woyera, ndi wodetsedwa, ndi wopereka nsembe, ndi yemwe sapereka nsembe; monga wabwino, chomwecho wochimwa; wolumbira, monga yemwe amaopa kulumbira.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa onse"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "mwamba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wina wokha"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "kwa wolungama"
+    },
+    {
+      "surface": "ולרשע",
+      "gloss": "ndi woipa"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "kwa wabwino"
+    },
+    {
+      "surface": "ולטהור",
+      "gloss": "ndi woyera"
+    },
+    {
+      "surface": "ולטמא",
+      "gloss": "ndi wodetsedwa"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "ndi wopereka nsembe"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "ndi yemwe"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sapereka nsembe"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "monga wabwino"
+    },
+    {
+      "surface": "כחטא",
+      "gloss": "chochimwa"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "wolumbira"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "שבועה",
+      "gloss": "kulumbira"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "amaopa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:53.801376Z",
+  "model": "glm-5.3"
+}

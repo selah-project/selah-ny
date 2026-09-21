@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 48,
+  "translation": "Yahwe ndi wamkulu, ndi oyenera kupatulidwa kwambiri, m'mudzi wa Elohim wathu, phiri lake loyera.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ndi oyenera kupatulidwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "m'mudzi wa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    },
+    {
+      "surface": "הר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "lake loyera"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:55.768500737Z",
+  "model": "glm-5.3"
+}

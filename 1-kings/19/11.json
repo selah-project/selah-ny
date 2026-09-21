@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 19:11",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Nati: “Tuluka, ndimiririr pa phiri pamaso pa Yahwe; ndipo taona, Yahwe akudutsa, ndipo mphepo yaikulu ndi yaamphamvu ikudutsa ikutyola mapiri, ndipo ikudula miala pamaso pa Yahwe; koma Yahwe sanali m'mphepo; ndipo pambuyo pa mphepo kunachitika chivundamlendo; koma Yahwe sanali m'chivundamlendoco.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Nati"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Tuluka"
+    },
+    {
+      "surface": "ועמדת",
+      "gloss": "ndimiririr"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pa phiri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "akudutsa"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ndipo mphepo"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "yaikulu"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "ndi yaamphamvu"
+    },
+    {
+      "surface": "מפרק",
+      "gloss": "ikutyola"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "ומשבר",
+      "gloss": "ndipo ikudula"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "miala"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "koma sanali"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "m'mphepo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "pambuyo pa"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "mphepo"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "kunachitika chivundamlendo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "koma sanali"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "m'chivundamlendoco"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:44:58.630688478Z",
+  "model": "glm-5.3"
+}

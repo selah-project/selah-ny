@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo ana amabadwa kwa Davidi ku Khebroni; wamkulu wake anali Amnoni, wa Akhinoamu wa ku Yizreeli.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "amabadwa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kwa Davidi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ana"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "ku Khebroni"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "anali"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "wamkulu wake"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnoni"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "wa Akhinoamu"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "wa ku Yizreeli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:17:11.023614744Z",
+  "model": "glm-5.3"
+}

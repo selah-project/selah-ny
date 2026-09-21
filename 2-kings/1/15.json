@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Mthenga wa Yahwe ananena kwa Eliyahu: “Tsikira naye; usawe ndi iye.” Ndipo anauka natsikira naye kwa mfumu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Mthenga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "רד",
+      "gloss": "Tsikira"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usawe"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ndi iye"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "chifukwa cha iye"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "anauka"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "natsikira"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:48:34.954686203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 24:19",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo inu lero munamulalatira ⟨את⟩ zimene munachitira ine ⟨את⟩ nane zabwino, ⟨את⟩ zimene Yahwe ananditsekereza m'dzanja lanu, ndipo simunandiphe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ndipo inu"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "munamulalatira"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene munachitira ine nane zabwino"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "munachitira"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nane"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "zabwino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene Yahwe ananditsekereza m'dzanja lanu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "סגרני",
+      "gloss": "ananditsekereza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "m'dzanja lanu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo simuna-"
+    },
+    {
+      "surface": "הרגתני",
+      "gloss": "-ndiphe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:11:31.773623189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ngati wagwa, sadzatayidwa chilichonse; pakuti Yahwe amam'tsimikizira ndi dzanja lake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "wagwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadzatayidwa chilichonse"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "sadzatayidwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "amam'tsimikizira"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ndi dzanja lake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:11.612628688Z",
+  "model": "glm-5.3"
+}

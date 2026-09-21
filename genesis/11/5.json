@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Yahwe anatsika kuona ⟨את⟩ mzinda ndi ⟨את⟩ nsanja imene ana a anthu anamanga.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "anatsika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mzinda"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nsanja"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "nsanja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anamanga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T05:46:46.634861130Z",
+  "model": "glm-5.3"
+}

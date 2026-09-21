@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo analowetsa ⟨את⟩ zinthu zopatulidwa za makolo ake ndi zopatulidwa zake m'nyumba ya Yahwe — siliva, golide ndi zipatso.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ndipo analowetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zinthu zopatulidwa za makolo ake"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "zinthu zopatulidwa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "za makolo ake"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "ndi zopatulidwa zake"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "ndi zipatso"
+    }
+  ],
+  "timestamp": "2026-09-21T08:41:49.388501559Z",
+  "model": "glm-5.3"
+}

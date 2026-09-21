@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndi bwino kukhala wodzichepetsa mzimu pamodzi ndi osauka, kuposa kugawana ⟨את⟩ chuma cholanda pamodzi ndi ⟨את⟩ odzikuza.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ndi bwino"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "wodzichepetsa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "osauka"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "osauka"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "kugawana"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "chuma cholanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odzikuza"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "odzikuza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:23:02.626301885Z",
+  "model": "glm-5.3"
+}

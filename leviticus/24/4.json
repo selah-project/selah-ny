@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Pa menora yoyera adzaikonza ⟨את⟩ nyale, pamaso pa Yahwe, nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "yoyera"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "adzaikonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyale"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "nyale"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T06:46:12.722305117Z",
+  "model": "glm-5.3"
+}

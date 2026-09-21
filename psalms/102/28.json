@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "Koma inu ndinu ⟨Iye yemweyo⟩, ndipo zaka zanu sizidzatha.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Koma inu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Iye yemweyo⟩"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "ndipo zaka zanu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "zidzatha"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:26.432967741Z",
+  "model": "glm-5.3"
+}

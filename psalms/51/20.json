@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 51,
+  "translation": "Chitani zabwino monga mwa chikondwerero chanu ⟨את⟩ Tsiyoni; mudzamanga mikozo ya Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "chitani zabwino"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "monga mwa chikondwerero chanu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyoni"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "mudzamanga"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "mikozo ya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:30.094035497Z",
+  "model": "glm-5.3"
+}

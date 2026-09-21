@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 12:18",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo Shemueli anaitana kwa Yahwe, ndipo Yahwe anapereka mawu ndi mvula tsiku lomwelo; ndipo anthu onse analewa kwambiri ⟨את⟩ Yahwe ndi ⟨את⟩ Shemueli.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ndipo Shemueli anaitana"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "anapereka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "ndi mvula"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lomwelo"
+    },
+    {
+      "surface": "ויירא",
+      "gloss": "ndipo anthu onse analewa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Shemueli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:05:11.504295619Z",
+  "model": "glm-5.3"
+}

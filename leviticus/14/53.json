@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 14:53",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo adzatulutsa ⟨את⟩ mbalame yamoyo kuchibanja kwa mzinda, ku nkhope ya munda, ndipo adzaweruzira pa nyumba, ndipo idzayera.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "adzatulutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbalame yamoyo"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "mbalame"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "yamoyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "chibanja"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kwa mzinda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ya munda"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ndipo adzaweruzira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ndipo idzayera"
+    }
+  ],
+  "timestamp": "2026-09-21T06:36:56.947711307Z",
+  "model": "glm-5.3"
+}

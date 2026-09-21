@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo Yahwe anati kwa iye: “Yenda, bwerera pa njira yako ku chipululu cha Damaske; ndipo utafika, udzadzozetsa ⟨את⟩ Hazaeli kukhala mfumu pa Aramu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Yenda"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "bwerera"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "pa njira yako"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "ku chipululu"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "cha Damaske"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ndipo utafika"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "udzadzozetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hazaeli"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazaeli"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kukhala mfumu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:44:34.428974329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Pakuti mawu a Yahwe ndi a chilungamo; ndipo ntchito zake zonse m'chikhulupiriro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "a chilungamo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo zonse"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "ntchito zake"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "m'chikhulupiriro"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:30.790009618Z",
+  "model": "glm-5.3"
+}

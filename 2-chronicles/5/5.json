@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo anakweza ⟨את⟩ sandukulo ndi ⟨את⟩ chihema cha msonkhano, ndi ⟨את⟩ zinthu zonse za chiyero chimene chili m'chihema; ansembe, a Liyivi, anakweza ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "Ndipo anakweza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandukulo"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sandukulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chihema cha msonkhano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "cha msonkhano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zinthu zonse za chiyero"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zinthu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "za chiyero"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "m'chihema"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "anakweza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "izi (zonse zitatu)"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "a Liyivi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:38:58.015231113Z",
+  "model": "glm-5.3"
+}

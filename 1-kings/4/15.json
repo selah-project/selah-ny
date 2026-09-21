@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Achimaatsi m'Naftali; iye nayo anakwatira ⟨את⟩ Bashimati mwana wa Shelomo kukhala mkazi wake.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achimaatsi"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "m'Naftali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ndinso"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "anakwatira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bashimati"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bashimati"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "wa Shelomo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ukhala mkazi wake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:31:18.162053744Z",
+  "model": "glm-5.3"
+}

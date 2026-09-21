@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndipo anapanga ⟨את⟩ miyala ya shohamu, wozungulira, m'malo a golide, wudulidwa ndi kudula kwa chizindikiro, pa maina a ana a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miyala ya shohamu"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "miyala ya"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shohamu"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "wozungulira"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "m'malo osungidwa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "a golide"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "wudulidwa"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "ndi kudula"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "chizindikiro"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T06:28:50.386384360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Wonyozeka pamaso pake wanyozedwa, koma iye amalemekeza ⟨את⟩ oopa Yahwe; wolumbira kuvutika, ndipo salisintha.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "Wonyozeka"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "pamaso pake"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "wanyozedwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "koma iye amalemekeza ⟨את⟩"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "oopa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "amalemekeza"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "wolumbira"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "kuvutika"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sa-"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "lisintha"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:55.351494653Z",
+  "model": "glm-5.3"
+}

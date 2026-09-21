@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 10:6",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo mzimu wa Yahwe udzatsika pa iwe ndi mphamvu, ndipo udzanenera pamodzi ndi iwo, ndipo udzasandulika kukhala munthu wina.",
+  "tokens": [
+    {
+      "surface": "וצלחה",
+      "gloss": "ndipo udzatsika ndi mphamvu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pa iwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "והתנבית",
+      "gloss": "ndipo udzanenera"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "pamodzi ndi iwo"
+    },
+    {
+      "surface": "ונהפכת",
+      "gloss": "ndipo udzasandulika"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kukhala munthu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wina"
+    }
+  ],
+  "timestamp": "2026-09-21T13:05:32.335564718Z",
+  "model": "glm-5.3"
+}

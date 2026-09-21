@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Ndipo chinachitika tsiku lachiwiri la kupha ⟨את⟩ Gedalyahu, ndipo palibe munthu amene anadziwa kanthu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "chinachitika"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "השני",
+      "gloss": "lachiwiri"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "la kupha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedalyahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalyahu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ndipo munthu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anadziwa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:48:09.131446875Z",
+  "model": "glm-5.3"
+}

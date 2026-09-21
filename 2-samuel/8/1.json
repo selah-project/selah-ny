@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo zitachitika izi, Dawidi anamenya ⟨את⟩ Afilishti namgwetsa ⟨iwo⟩; ndipo Dawidi anatenga ⟨את⟩ chikhwaju cha mudzi wamkulu m'dzanja la Afilishti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo zitachitika izi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pambuyo pake"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "anamenya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Afilishti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilishti"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "namgwetsa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ndipo anatenga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikhwaju"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "chikhwaju"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "cha mudzi wamkulu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilishti"
+    }
+  ],
+  "timestamp": "2026-09-21T08:20:10.211711242Z",
+  "model": "glm-5.3"
+}

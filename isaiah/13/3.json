@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 13:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ine ndinalamula anthu anga oyeretsedwa, ndinaitananso akulu amphamvu anga chifukwa cha mkwiyo wanga, okondwera ndi ulemerero wanga.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ndinalamula"
+    },
+    {
+      "surface": "למקדשי",
+      "gloss": "anthu anga oyeretsedwa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ndinaitananso"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ndinaitana"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "akulu amphamvu anga"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "chifukwa cha mkwiyo wanga"
+    },
+    {
+      "surface": "עליזי",
+      "gloss": "okondwera"
+    },
+    {
+      "surface": "גאותי",
+      "gloss": "ndi ulemerero wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T09:06:53.623814631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Nipo chita monga mwa nzeru zako, osalola kuti ukalamba kwake kutsike m'mtendere kunkhondo ya Sheoli.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Nipo chita"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "monga mwa nzeru zako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "osalola kuti"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "kutsike"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "ukalamba kwake"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "m'mtendere"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "kunkhondo ya Sheoli"
+    }
+  ],
+  "timestamp": "2026-09-21T13:08:37.499209149Z",
+  "model": "glm-5.3"
+}

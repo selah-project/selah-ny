@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo anthu anafuulira kwa Moshe, ndipo Moshe anapemphera kwa Yahwe, ndipo moto unazimirika.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "Ndipo anafuulira"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ndipo anapemphera"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "ndipo unazimirika"
+    },
+    {
+      "surface": "האש",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-09-21T06:56:23.797463356Z",
+  "model": "glm-5.3"
+}

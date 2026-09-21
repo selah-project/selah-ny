@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo Yahwe Elohim wako adzakulowetsa m'dziko limene makolo ako anachirala, ndipo iwe udzachirala; ndipo adzakuchitira zabwino, ndipo adzakuchulukitsa koposa makolo ako.",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "adzakulowetsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "anachirala"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "makolo ako"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "udzachirala"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "adzakuchitira zabwino"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "adzakuchulukitsa"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "koposa makolo ako"
+    }
+  ],
+  "timestamp": "2026-09-21T07:29:30.012278965Z",
+  "model": "glm-5.3"
+}

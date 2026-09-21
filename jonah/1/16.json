@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo anthuwo anaopa mantha akulu ⟨את⟩ Yahwe, napereka nsembe kwa Yahwe, ndipo analumbira malumbiro.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "anaopa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "anthuwo"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "mantha"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "akulu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "napereka"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "analumbira"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "malumbiro"
+    }
+  ],
+  "timestamp": "2026-09-21T10:29:20.629886398Z",
+  "model": "glm-5.3"
+}

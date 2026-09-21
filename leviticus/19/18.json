@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Usabwezere, ndipo usasunge mkwiyo ⟨pa⟩ ⟨את⟩ ana a mtundu wako; koma udzakonda mnzako monga iwe mwini; ine ndine Yahwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "sabwezere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo usa"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "sunge mkwiyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a mtundu wako"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "a mtundu wako"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "koma udzakonda"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "mnzako"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "monga iwe mwini"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:40.120720005Z",
+  "model": "glm-5.3"
+}

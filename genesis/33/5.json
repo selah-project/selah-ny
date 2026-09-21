@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 33:5",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Ndiipo adayang'amira ⟨את⟩ maso ake, ndipo adaona ⟨את⟩ akazi ndi ⟨את⟩ ana, nati: “Ana ndi ndani awa?” Ndiipo adati: “Ndi ana amene Elohim anachitira chifundo ⟨את⟩ kapolo wanu.”",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "adayang'amira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maso ake"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "maso ake"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "adaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akazi"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "akazi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "anachitira chifundo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapolo wanu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kapolo wanu"
+    }
+  ],
+  "timestamp": "2026-09-21T05:56:54.939171173Z",
+  "model": "glm-5.3"
+}

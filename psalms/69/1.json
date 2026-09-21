@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Kwa woyang'anira, pa Shoshannim, nyimbo ya Davide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kwa woyang'anira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nyimbo ya Davide"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:47.489817984Z",
+  "model": "glm-5.3"
+}

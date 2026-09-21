@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo Arpakashadi anabala ⟨את⟩ Shelahi, ndipo Shelahi anabala ⟨את⟩ Eberi.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Ndipo Arpakashadi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelahi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelahi"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ndipo Shelahi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eberi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eberi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:45:53.593638970Z",
+  "model": "glm-5.3"
+}

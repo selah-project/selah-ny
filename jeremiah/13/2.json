@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo ndinagula ⟨את⟩ chiphulicho monga mwa liwu la Yahwe, ndipo ndinaika pa chiwalo changa.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "Ndipo ndinagula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiphulicho"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "chiphulicho"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "monga mwa liwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ndipo ndinaika"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "chiwalo changa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:35:11.242133924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 56,
+  "translation": "Pamenepo adani anga adzabwerera m'mbuyo tsiku ndidzaitana; izi ndazidziwa, kuti Elohim ndi ⟨wa⟩ ine.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "pamenepo"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "adzabwerera"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "adani anga"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "m'mbuyo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndidzaitana"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndazidziwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi ⟨wa⟩ ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:48.922048512Z",
+  "model": "glm-5.3"
+}

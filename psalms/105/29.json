@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Anasandutsa ⟨את⟩ madzi awo kukhala mwazi, nadzatsopanso anamwalitsa ⟨את⟩ nsomba zawo.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "anasandutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madzi awo"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "madzi awo"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "kukhala mwazi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "nadzatsopanso anamwalitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsomba zawo"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "nsomba zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:49.032830401Z",
+  "model": "glm-5.3"
+}

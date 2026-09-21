@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Mwa Yahwe Elohim wanu muziyenda, ndi iye muzamuopa, ndi malamulo ake muzasunga, m'liwu lake muzamvera, ndi iye muzamutumikira, ndi mwa iye muzamukhulupirika.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "muziyenda"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ ndi iye"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "muzamuopa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "malamulo ake"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "malamulo ake"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "muzasunga"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "m'liwu lake"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "muzamvera"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ ndi iye"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "muzamutumikira"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "ndi mwa iye"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "muzamukhulupirika"
+    }
+  ],
+  "timestamp": "2026-09-21T07:22:17.630189099Z",
+  "model": "glm-5.3"
+}

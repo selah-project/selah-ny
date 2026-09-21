@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo munthu yemwe apatsa chisonono kwa mnzake, monga anachitira, momwemo chidzachitika kwa iye.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ndipo munthu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yemwe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "apatsa"
+    },
+    {
+      "surface": "מום",
+      "gloss": "chisonono"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "kwa mnzake"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachitira"
+    },
+    {
+      "surface": "כן",
+      "gloss": "momwemo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "chidzachitika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T06:44:16.980260541Z",
+  "model": "glm-5.3"
+}

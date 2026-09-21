@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Antoni a mfumu amene anali pa khomo la mfumu anati kwa Mordekayi: “Chifukwa chiyani iwe ukuphwanya ⟨את⟩ lamulo la mfumu?”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "anati"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "antoni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a mfumu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "pa khomo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "la mfumu"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kwa Mordekayi"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "chifukwa chiyani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "ukuphwanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lamulo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "lamulo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "la mfumu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:32:28.729570663Z",
+  "model": "glm-5.3"
+}

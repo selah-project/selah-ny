@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "El amene amandipatsa chiweruzo changa, ndipo amagonjetsa mitundu ya anthu pansi panga.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "amene amandipatsa"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "chiweruzo changa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "amagonjetsa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mitundu ya anthu"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "pansi panga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:46.779860676Z",
+  "model": "glm-5.3"
+}

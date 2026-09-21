@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndayankhula nati: “Wotembereredwa ndi Kenani; kapolo wa akapolo adzakhala kwa abale ake.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ndayankhula nati"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "wotembereredwa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenani"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kapolo"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "wa akapolo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "kwa abale ake"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:22.474137466Z",
+  "model": "glm-5.3"
+}

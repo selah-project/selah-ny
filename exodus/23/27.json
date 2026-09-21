@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 23:27",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "⟨את⟩ mantha anga ndidzatuma patsogolo panu, ndipo ndidzapha ⟨את⟩ anthu onse amene mudzalowa mwa iwo, ndipo ndidzapatsa ⟨את⟩ adani anu onse kwa inu <mgodi>.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantha anga"
+    },
+    {
+      "surface": "אימתי",
+      "gloss": "mantha anga"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ndidzatuma"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "patsogolo panu"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "ndidzapha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "mudzalowa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mwa iwo"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ndidzapatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adani anu onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "adani anu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "<mgodi>"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:56.863556077Z",
+  "model": "glm-5.3"
+}

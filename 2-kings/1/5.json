@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Atumiki anabwerera kwa iye, ndipo iye anawafunsa kuti: Kodi n'chiyani ichi, mabwereranu?",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "anabwerera"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "atumiki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "anawafunsa kuti"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kodi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "chiyani ichi"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "mabwereranu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:47:54.262076035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Yahwe adule milomo yonse ya chifewa, lilime lankhula zazikulu.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "adule"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "milomo"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "ya chifewa"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lilime"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "lankhula"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "zazikulu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:57.415908470Z",
+  "model": "glm-5.3"
+}

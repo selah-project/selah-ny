@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Kuchokera kumeneko udzafunafuna ⟨את⟩ Yahwe Elohim wako, ndipo udzamupeza, chifukwa udzamufunafuna ndi mtima wako wonse ndi ndi moyo wako wonse.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "udzafunafuna"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kuchokera kumeneko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "ndipo udzamupeza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "udzamufunafuna"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ndi wonse"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "mtima wako"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ndi wonse"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moyo wako"
+    }
+  ],
+  "timestamp": "2026-09-21T07:16:36.831555021Z",
+  "model": "glm-5.3"
+}

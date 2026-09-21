@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 66,
+  "translation": "Kwa woyang'anira ⟨nyimbo⟩. Nyimbo, chidole. Fokani kwa Elohim, dziko lonse lapansi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "⟨nyimbo⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nyimbo, chidole"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Fokani"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:27.102048303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 10:31",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "ndi kuti tipereke ayenera si akazi athu ku anthu a dziko lapansi, ndi ⟨את⟩ akazi awo sititengera kwa ana athu amuna.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ndi kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "tipereke ayenera"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "akazi athu"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "ku anthu a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "akazi awo"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "akazi awo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "siti"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "tengera"
+    },
+    {
+      "surface": "לבנינו",
+      "gloss": "kwa ana athu amuna"
+    }
+  ],
+  "timestamp": "2026-09-21T12:21:22.746022073Z",
+  "model": "glm-5.3"
+}

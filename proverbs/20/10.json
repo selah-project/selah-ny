@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Mwala ndi mwala, efa ndi efa — komanso awiriwonse ndi chodetsa kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "Mwala"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ndi mwala"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "ndi efa"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "chodetsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "komanso"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "awiriwonse"
+    }
+  ],
+  "timestamp": "2026-09-21T11:24:32.775333505Z",
+  "model": "glm-5.3"
+}

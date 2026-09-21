@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo ⟨את⟩ Khileni ndi malire ake, ⟨את⟩ Debiri ndi malire ake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Khileni"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Khileni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malire ake"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "malire ake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Debiri"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Debiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malire ake"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "malire ake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:24:57.629004827Z",
+  "model": "glm-5.3"
+}

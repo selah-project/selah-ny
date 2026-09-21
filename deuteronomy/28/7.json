@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 28:7",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Yahwe adzapereka ⟨את⟩ adani ako olewera pa iye agonjecedwa pamaso pako; njira imodzi adzatulukira kwa iwe, ndipo m'njira zisanu ndi ziwiri adzathawa pamaso pako.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "adzapereka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adani ako"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "adani ako"
+    },
+    {
+      "surface": "הקמים",
+      "gloss": "olewera pa iye"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "נגפים",
+      "gloss": "agonjecedwa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamaso pako"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imodzi"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "adzatulukira"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "ובשבעה",
+      "gloss": "ndipo m'njira zisanu ndi ziwiri"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "njira"
+    },
+    {
+      "surface": "ינוסו",
+      "gloss": "adzathawa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamaso pako"
+    }
+  ],
+  "timestamp": "2026-09-21T07:28:05.093153377Z",
+  "model": "glm-5.3"
+}

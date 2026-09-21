@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 66:22",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 66,
+  "translation": "Pakuti monga kumwamba kwatsopano ndi dziko lapansi latsopano, chimene ine ndikupanga, zikhaladi pamaso panga, kalankhulo kwa Yahwe, motero mbewu yanu ndi dzina lanu zidzakhala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "החדשים",
+      "gloss": "kwatsopano"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ndi dziko lapansi"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "latsopano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ndikupanga"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "zikhaladi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso panga"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kalankhulo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "motero"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "zidzakhala"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "mbewu yanu"
+    },
+    {
+      "surface": "ושמכם",
+      "gloss": "ndi dzina lanu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:27:14.200286956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 6:32",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo zitseko ziwiri za mitengo ya mafuta; anachika pa iwo zochika za akherubu, mitengo ya mkuyu, ndi maluwa otseguka, nazingiza golide; anatsitsa ⟨את⟩ golide pa akherubu ndi pa mitengo ya mkuyu.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "zitseko"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "za mitengo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ya mafuta"
+    },
+    {
+      "surface": "וקלע",
+      "gloss": "anachika"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pa iwo"
+    },
+    {
+      "surface": "מקלעות",
+      "gloss": "zochika"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "akherubu"
+    },
+    {
+      "surface": "ותמרות",
+      "gloss": "mitengo ya mkuyu"
+    },
+    {
+      "surface": "ופטורי",
+      "gloss": "maluwa"
+    },
+    {
+      "surface": "צצים",
+      "gloss": "otseguka"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "nazingiza"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "anatsitsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "akherubuwo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "התמרות",
+      "gloss": "mitengo ya mkuyuyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "golide"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "golide wo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:34:04.130901903Z",
+  "model": "glm-5.3"
+}

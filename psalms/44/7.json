@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Pakuti m'seŵero wanga sindidzakhulupirira, ndipo lupanga wanga siudzapulumutsa ine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "m'seŵero wanga"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "sindidzakhulupirira"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "ndipo lupanga wanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "udzapulumutsa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:35.360322873Z",
+  "model": "glm-5.3"
+}

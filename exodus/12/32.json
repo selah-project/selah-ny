@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndi nkhosa zanu, ndiponso ng'ombe zanu, muzitenge; monga mwanena, mukani, ndipo mudalitse ⟨את⟩ ine komanso.”",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "nkhosa zanu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "ng'ombe zanu"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "muzitenge"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "mwanena"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "mukani"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "ndipo mudalitse"
+    },
+    {
+      "surface": "גם",
+      "gloss": "komanso"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ine",
+      "marks": "ine"
+    }
+  ],
+  "timestamp": "2026-09-21T12:56:26.162309081Z",
+  "model": "glm-5.3"
+}

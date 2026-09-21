@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Bat-Sheba anagwada, nalambira mfumu; ndipo mfumu anati: “Ndi chiyani chili kwa iwe?”",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "Ndipo… anagwada"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "nalambira"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo… anati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ndi chiyani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:30:41.559163170Z",
+  "model": "glm-5.3"
+}

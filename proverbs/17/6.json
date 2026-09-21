@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Azukulu ndi chisoti cha okalamba, ndipo ulemerero wa ana ndi makolo awo.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "chisoti"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "cha okalamba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "(a) ana a"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "ndipo ulemerero"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wa ana"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "makolo awo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:23:43.814497011Z",
+  "model": "glm-5.3"
+}

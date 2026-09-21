@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Khesedi ndi choonadi zisakupeze; zikate m'mpando wa mkhalidwe wako, ulembere pa laibulodi la mtima wako.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Khesedi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ndi choonadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zisakupeze"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "zisakupeze"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "zikate"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "mpando wa mkhalidwe wako"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "ulembere"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "laibulodi"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "la mtima wako"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:53.234198146Z",
+  "model": "glm-5.3"
+}

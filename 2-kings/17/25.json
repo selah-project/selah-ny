@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo pamene anayamba kukhala komweko, sanaopa Yahwe ⟨את⟩; ndipo Yahwe anatumiza mwa iwo ⟨את⟩ mikango, ndipo mikangoyo inali kuwapha mwa iwo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo pamene"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "anayamba"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "kukhala kwawo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "komweko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "san-"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "-aopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ndipo anatumiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mwa iwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikango"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "mikango"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ndipo inali"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "kuwapha"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mwa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:57:41.395442371Z",
+  "model": "glm-5.3"
+}

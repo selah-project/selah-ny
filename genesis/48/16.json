@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 48:16",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 48,
+  "translation": "Mngelo wondilamulira ine ⟨את⟩ kuipa konse, adalitse ⟨את⟩ anyamata awa, ndipo dzina langa litanidwe mwa iwo, ndi dzina la makolo anga, Avraham ndi Yitshaka, ndipo achulukire kwambiri pakati pa dziko lapansi.”",
+  "tokens": [
+    {
+      "surface": "המלאך",
+      "gloss": "Mngelo"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "wondilamulira"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ine",
+      "marks": "ine"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuipa konse"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kuipa"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "adalitse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anyamata awa"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "anyamata awa"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "litanidwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mwa iwo"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "dzina langa"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ndi dzina la"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "makolo anga"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "ndi Yitshaka"
+    },
+    {
+      "surface": "וידגו",
+      "gloss": "achulukire kwambiri"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:05:48.676337824Z",
+  "model": "glm-5.3"
+}

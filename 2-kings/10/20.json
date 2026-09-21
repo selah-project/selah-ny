@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo Yehu adati: “Patulirani msonkhano wopatulika wa Baali.” Ndipo anaulula.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "Patulirani"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "msonkhano wopatulika"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "wa Baali"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "anaulula"
+    }
+  ],
+  "timestamp": "2026-09-21T08:51:23.258563808Z",
+  "model": "glm-5.3"
+}

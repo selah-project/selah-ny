@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Kwa woyang'anira ⟨ndi⟩ kuyimba, pa Githiti, nyimbo ya Davide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira kuyimba"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Githiti"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Davide"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:09.557741945Z",
+  "model": "glm-5.3"
+}

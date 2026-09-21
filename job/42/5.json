@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Ndinamva ndi khutu la kumva za Iwe, koma tsopano diso langa lakuona Iwe.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "la kumva"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "khutu"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "Ndinamva Iwe"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "koma tsopano"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "diso langa"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "lakuona Iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T13:30:21.699626583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 25:26",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo upange cho mizinga zinayi ya golidi, ndipo uike ⟨את⟩ mizinga pa ngodya zinayi zimene zili pa mapazi anayi ake.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "upange"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "zinayi"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "mizinga"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya golidi"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "uike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizinga"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "mizinga"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "zinayi"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "ngodya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "anayi"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "mapazi ake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:56:49.951714594Z",
+  "model": "glm-5.3"
+}

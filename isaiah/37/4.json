@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 37:4",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Katero Yahwe Elohim wako angamve ⟨את⟩ mawu a Ravshake, amene mfumu ya Ashuru, mbuye wake, inamutuma kutyokereza Elohim wamoyo, ndi kutsutsa mawu amene Yahwe Elohim wako wamva; choncho nyamulira pemphero m'malo mwa otsala amene anapezedwa.",
+  "tokens": [
+    {
+      "surface": "אולי",
+      "gloss": "Katero"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "angamve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu a Ravshake"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "shake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "inamutuma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mbuye wake"
+    },
+    {
+      "surface": "לחרף",
+      "gloss": "kutyokereza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wamoyo"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "kutsutsa"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wamva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "ונשאת",
+      "gloss": "nyamulira"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "pemphero"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "m'malo mwa"
+    },
+    {
+      "surface": "השארית",
+      "gloss": "otsala"
+    },
+    {
+      "surface": "הנמצאה",
+      "gloss": "amene anapezedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:16:17.627780325Z",
+  "model": "glm-5.3"
+}

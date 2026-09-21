@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 147,
+  "translation": "Amutuma liwu lake ndipo awamasula; amufuuza mpweyo wake, ndipo madzi amathirira.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "amutuma"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "liwu lake"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "ndipo awamasula"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "amufuuza"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "mpweyo wake"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "amathirira"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:13.610446170Z",
+  "model": "glm-5.3"
+}

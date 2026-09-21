@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo anakonza ⟨את⟩ bengalu wake, ndi ⟨את⟩ anthu ake anawatenga nawo.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "anakonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bengalu wake"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "bengalu wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "anawatenga"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "nawo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:13:30.943911940Z",
+  "model": "glm-5.3"
+}

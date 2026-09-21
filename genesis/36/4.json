@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Ndipo Adaha anabala kwa Esavu ⟨את⟩ Elifazi; ndipo Bashimati anabala ⟨את⟩ Reueli.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Ndipo anabala"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adaha"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "kwa Esavu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elifazi"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifazi"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "ndipo Bashimati"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reueli"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reueli"
+    }
+  ],
+  "timestamp": "2026-09-21T05:58:12.303787865Z",
+  "model": "glm-5.3"
+}

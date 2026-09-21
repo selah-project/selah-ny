@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Davidi anakwera kuchokera kumeneko, nakhalabe mumabema a Eyin Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "anakwera"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kuchokera kumeneko"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nakhalabe"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "mumabema"
+    },
+    {
+      "surface": "עין",
+      "gloss": "a Eyin-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:11:52.422856877Z",
+  "model": "glm-5.3"
+}

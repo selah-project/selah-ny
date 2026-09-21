@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 7:27",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo anapanga ⟨את⟩ mipando yoperekera miyala khumi ya nsingano (khopper); mphambu ina ya mipando imodzi inali ndi utali wa maama anayi, ndi m'lifupi maama anayi, ndi kukwera kwake maama atatu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ndipo anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mipando yoperekera miyala"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "mipando yoperekera miyala"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ya nsingano (khopper)"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "anayi"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "maama"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "utali"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "ya mipando"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "imodzi"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ndi anayi"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "maama"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "m'lifupi"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ndi atatu"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "maama"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "kukwera kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:35:01.908297159Z",
+  "model": "glm-5.3"
+}

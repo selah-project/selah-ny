@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo ngati minchah yokazingidwa pa mphanga ndiye chinsembe chako, ikhale ya soleti yosakanidwa ndi mafuta, mkate wosafirimika.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ndipo ngati"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minchah"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "mphanga"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "chinsembe chako"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "soleti"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "yosakanidwa"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ndi mafuta"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "mkate wosafirimika"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ikhale"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:14.226896257Z",
+  "model": "glm-5.3"
+}

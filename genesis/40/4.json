@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Mkuza wa asilikali anapereka ⟨את⟩ Yosefe ndi ⟨את⟩ iwo, ndipo Yosefe anawatumikira ⟨את⟩ iwo; ndipo iwo anakhala masiku m'kusungidwa.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "anapereka"
+    },
+    {
+      "surface": "שר",
+      "gloss": "Mkuza"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "wa asilikali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ndi ⟨את⟩ iwo"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "anawatumikira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "m'kusungidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:01:17.405057872Z",
+  "model": "glm-5.3"
+}

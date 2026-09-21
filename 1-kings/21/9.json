@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Analemba m'mabuku kuti: “Lalikirani kusala kudya, ndipo muikire ⟨את⟩ Navoti pa mutu wa anthu.”",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "analemba"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "m'mabuku"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "lalikirani"
+    },
+    {
+      "surface": "צום",
+      "gloss": "kusala kudya"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "muikire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navoti"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navoti"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "pa mutu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wa anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:43:50.103112413Z",
+  "model": "glm-5.3"
+}

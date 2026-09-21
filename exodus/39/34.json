@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "ndi ⟨את⟩ chophimba cha nkhawa za nkhosa zaamuna zofipedwa zofiira, ndi ⟨את⟩ chophimba cha nkhawa za tachashi, ndi ⟨את⟩ chihema chodutsa cha chophimba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chophimba"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "chophimba"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "nkhawa za"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "nkhosa zaamuna"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "zofipedwa zofiira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chophimba"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "chophimba"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "nkhawa za"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "tachashi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chihema chodutsa"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "chihema chodutsa"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "cha chophimba"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:12.826367300Z",
+  "model": "glm-5.3"
+}

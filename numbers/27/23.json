@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Namusenzera ⟨את⟩ manja ake pa iye, namulamulira; monga Yahwe analankhula mwa dzanja la Moshe.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "namusenzera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manja ake"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "manja ake"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "namulamulira"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "analankhula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mwa dzanja la"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T07:06:53.692895464Z",
+  "model": "glm-5.3"
+}

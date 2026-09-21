@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 96,
+  "translation": "Imbirani kwa Yahwe nyimbo yatsopano; imbirani kwa Yahwe, dziko lonse lapansi.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "imbirani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yatsopano"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "imbirani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:55.410795227Z",
+  "model": "glm-5.3"
+}

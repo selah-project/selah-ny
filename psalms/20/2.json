@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Yahwe akayankhe iwe tsiku la mavuto; dzina la Elohim wa Yakobo likukweze ⟨iwe⟩.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "akayankhe iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku la"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "mavuto"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "likukweze ⟨iwe⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dzina la"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:25.617590220Z",
+  "model": "glm-5.3"
+}

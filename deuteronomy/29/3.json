@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Koma Yahwe sanakupatsani inu mtima wodziwa, ndiponso maso a kuona, ndi makutu a kumva, mpaka lero lino.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "koma s(i)"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anapatsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "wodziwa"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ndiponso maso"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a kuona"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "makutu"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "a kumva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lino"
+    }
+  ],
+  "timestamp": "2026-09-21T07:29:34.033640484Z",
+  "model": "glm-5.3"
+}

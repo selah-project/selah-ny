@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo mitengo iwiri ya mafuta ili pa iye, chimodzi pa dzanja lamanja la chidebecho, ndi chimodzi pa dzanja lamanzere.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "ndi mitengo iwiri"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "ya mafuta"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "chimodzi"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "pa dzanja lamanja"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "la chidebecho"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ndi chimodzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "dzanja lamanzere"
+    }
+  ],
+  "timestamp": "2026-09-21T10:36:35.790253430Z",
+  "model": "glm-5.3"
+}

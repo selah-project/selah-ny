@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Kufikira nthawi zosatha ndidzakhazikitsa mbewu yako, ndipo ndidzamanga mpando wachifumu wako kwa mibadwo ndi mibadwo. Selahi.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kufikira"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nthawi zosatha"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "ndidzakhazikitsa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbewu yako"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "ndipo ndidzamanga"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kwa mibadwo"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ndi mibadwo"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "mpando wachifumu wako"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:45.561693369Z",
+  "model": "glm-5.3"
+}

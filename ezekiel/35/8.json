@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 35:8",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Ndipo ndidzazza ⟨את⟩ mapiri ake ndi akufa ake; pa mapiri ako, ndi m'madambwe ako, ndi mitsinje yanu yonse, olumedwa ndi lupanga adzagwa mmenemo.",
+  "tokens": [
+    {
+      "surface": "ומלאתי",
+      "gloss": "ndipo ndidzazza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapiri ake"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "mapiri ake"
+    },
+    {
+      "surface": "חלליו",
+      "gloss": "ndi akufa ake"
+    },
+    {
+      "surface": "גבעותיך",
+      "gloss": "pa mapiri ako"
+    },
+    {
+      "surface": "וגאותיך",
+      "gloss": "ndi m'madambwe ako"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi ... yonse"
+    },
+    {
+      "surface": "אפיקיך",
+      "gloss": "mitsinje yanu"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "olumedwa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ndi lupanga"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "adzagwa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mmenemo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:12:22.806725955Z",
+  "model": "glm-5.3"
+}

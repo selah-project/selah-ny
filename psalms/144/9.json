@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 144,
+  "translation": "Elohim, nyimbo yatsopano ndidzayimba kwa iwe; pa nevelu, chida cha zingwe zakhumi, ndidzazimba kwa iwe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yatsopano"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ndidzayimba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "pa nevelu"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "chida cha zingwe zakhumi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ndidzazimba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:48.420906715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 90,
+  "translation": "Kuti tiziwerengera masiku athu, choncho utiphunzitse, ndipo tibweretse mtima wa nzeru.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "kuti tiziwerengera"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "masiku athu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "choncho"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "utiphunzitse"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "ndipo tibweretse"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wa nzeru"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:51.558179222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo ngati ali wamkazi, kuyesa kwako kukhale makumi atatu a sikeli.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ndipo ngati"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "wamkazi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ali"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ukakhale"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "kuyesa kwako"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "makumi atatu"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "a sikeli"
+    }
+  ],
+  "timestamp": "2026-09-21T06:48:34.749501692Z",
+  "model": "glm-5.3"
+}

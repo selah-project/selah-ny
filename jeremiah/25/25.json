@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "ndi ⟨את⟩ mfumu zonse za Zimri, ndi ⟨את⟩ mfumu zonse za Elamu, ndi ⟨את⟩ mfumu zonse za Madai",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mfumu zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "za Zimri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mfumu zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "za Elamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mfumu zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "za Madai"
+    }
+  ],
+  "timestamp": "2026-09-21T13:16:07.159112616Z",
+  "model": "glm-5.3"
+}

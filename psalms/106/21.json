@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 106:21",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Anaiwala El, wopulumutsa wawo, wochita zinthu zazikulu m'Mitsrayimu,",
+  "tokens": [
+    {
+      "surface": "שכחו",
+      "gloss": "Anaiwala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מושיעם",
+      "gloss": "wopulumutsa wawo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wochita"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "zinthu zazikulu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "m'Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:21.777598021Z",
+  "model": "glm-5.3"
+}

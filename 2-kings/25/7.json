@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo anapha ⟨את⟩ ana a Tsidekiyahu pamaso pake; ndipo ⟨את⟩ maso a Tsidekiyahu anaawisa, namumangitsa ndi zitsulo za kopala, namulowetsa ku Babeli.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana a Tsidekiyahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "a Tsidekiyahu"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "anapha"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "pamaso pake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "maso a Tsidekiyahu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maso"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "a Tsidekiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "anaawisa"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "namumangitsa"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "ndi zitsulo za kopala"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "namulowetsa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ku Babeli"
+    }
+  ],
+  "timestamp": "2026-09-21T09:01:03.253357557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo ⟨iye⟩ anakuyandikitsa ⟨את⟩ iwe, ndi ⟨את⟩ onse abale ako, ana a Levi, pamodzi ⟨ndi iwe⟩; ndipo inu mukufuna komanso ubusa wa wansembe?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Ndipo anakuyandikitsa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ iwe",
+      "marks": "iwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "onse abale ako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "abale ako"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ndi iwe ⟨את⟩"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "ndipo inu mukufuna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "komanso"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "ubusa wa wansembe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:59:55.704575418Z",
+  "model": "glm-5.3"
+}

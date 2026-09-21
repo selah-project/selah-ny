@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 5:1",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Mwana wanga, kwa changucho weruzira, kwa luntha langa kyeretsa khutu lako.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mwana wanga"
+    },
+    {
+      "surface": "לחכמתי",
+      "gloss": "kwa changucho langa"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "weruzira"
+    },
+    {
+      "surface": "לתבונתי",
+      "gloss": "kwa luntha langa"
+    },
+    {
+      "surface": "הט",
+      "gloss": "kyeretsa"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "khutu lako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:18:56.357344092Z",
+  "model": "glm-5.3"
+}

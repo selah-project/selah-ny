@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Khulupirira Yahwe ndi mtima wako wonse, ndipo usamatsirikire pa chidziwitso chako chokha.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Khulupirira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ndi wonse"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "mtima wako"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo usama-"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "pa chidziwitso chako chokha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usama-"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "-tsirikire"
+    }
+  ],
+  "timestamp": "2026-09-21T11:18:26.537215830Z",
+  "model": "glm-5.3"
+}

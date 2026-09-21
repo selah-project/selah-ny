@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 145,
+  "translation": "Tsiku lililonse ndidalemekeza iwe, ndipo ndidalamba dzina lako ku nthawi zonse ndi ku nthawi yosatha.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku lililonse"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ndidalemekeza iwe"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "ndipo ndidalamba"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dzina lako"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ndi ku nthawi yosatha"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:29.128245052Z",
+  "model": "glm-5.3"
+}

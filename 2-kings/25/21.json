@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo mfumu ya Babuloni idawamenya ⟨את⟩ iwo, nadzipha ku Rivila, m'dziko la Hamati; ndipo Yehuda anachotsedwa kuchokera pa nthaka yake.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "idawamenya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babuloni"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "nadzipha"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "ku Rivila"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamati"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "anachotsedwa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuchokera pa"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "nthaka yake"
+    }
+  ],
+  "timestamp": "2026-09-21T09:02:26.699782968Z",
+  "model": "glm-5.3"
+}

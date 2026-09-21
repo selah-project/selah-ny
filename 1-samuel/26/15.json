@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 26:15",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo Davide anati kwa Avineri: “Kodi siwe munthu? Ndipo ndani ngati iwe m'Yisraeli? Ndi chifukwa chiyani sunasunga mbuye wako, mfumu, popeza wina wa anthu anabwera kufa ⟨את⟩ mfumu mbuye wako?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avineri"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "kodi si"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ndi ndani"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ngati iwe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "m'Yisraeli"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ndi chifukwa chiyani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "sunasunga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mbuye wako"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "mbuye wako"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "בא",
+      "gloss": "anabwera"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wina"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wa anthu"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfumu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "mbuye wako"
+    }
+  ],
+  "timestamp": "2026-09-21T08:15:37.139027106Z",
+  "model": "glm-5.3"
+}

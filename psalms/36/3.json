@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Pakuti (waoipa) amanyengerera yokha m'maso ake, kufikira kupeza chiolawa chake chidananidwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "amanyengerera"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "yokha"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "m'maso ake"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "kufikira kupeza"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "chiolawa chake"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "chidananidwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:05.923514057Z",
+  "model": "glm-5.3"
+}

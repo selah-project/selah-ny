@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Eifaha, mkazi wachiwiri wa Kalebi, anabala ⟨את⟩ Kharani ndi ⟨את⟩ Motsa ndi ⟨את⟩ Gazezi; ndipo Kharani anabala ⟨את⟩ Gazezi.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "Ndipo Eifaha"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "mkazi wachiwiri"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "wa Kalebi"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kharani"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Kharani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Gazezi"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazezi"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "ndipo Kharani"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gazezi"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazezi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:23:10.293043549Z",
+  "model": "glm-5.3"
+}

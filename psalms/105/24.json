@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Ndipo adachulukitsa ⟨את⟩ anthu ake kwambiri, n'adawamphamvutsa koposa otsutsa nawo.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "Ndipo adachulukitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu ake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "n'adawamphamvutsa"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "koposa otsutsa nawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:07.188134578Z",
+  "model": "glm-5.3"
+}

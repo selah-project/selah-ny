@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Aleke phazi la kudzikuza kundigwera, ndipo dzanja la oipa lisanditutse.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aleke"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "kundigwera"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "phazi"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "la kudzikuza"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ndipo dzanja"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "la oipa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aleke"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "lisanditutse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:37.781361802Z",
+  "model": "glm-5.3"
+}

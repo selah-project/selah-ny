@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo Yisraeli anatora ⟨את⟩ midzi yonse iyi, ndipo Yisraeli anakhalamo mu midzi yonse ya Aemori, mu Cheshboni ndi m'midzi yaying'ono yake yonse.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anatora"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "midzi yonse iyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "midzi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "anakhalamo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu yonse"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "midzi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ya Aemori"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "mu Cheshboni"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ndi mu yonse"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "m'midzi yaying'ono yake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:02:24.737798965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 1:16",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo ana a Keni, asibweni wa Moshe, anakwera kuchokera mu mzinda wa nthindwa pamodzi ndi ⟨את⟩ ana a Yehuda, ku chipululu cha Yehuda chimene chili kumwera chakuti Aradi; ndipo anapita, nakakhala ndi ⟨את⟩ anthu.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ndipo ana"
+    },
+    {
+      "surface": "קיני",
+      "gloss": "a Keni"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "asibweni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "wa Moshe"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "anakwera"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kuchokera mu mzinda"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "wa nthindwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "pamodzi ndi ⟨את⟩",
+      "marks": "ana a Yehuda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yehuda"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ku chipululu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "cha Yehuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "chili kumwera"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "chakuti Aradi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "anapita"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nakakhala"
+    },
+    {
+      "surface": "את",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:46:00.004975701Z",
+  "model": "glm-5.3"
+}

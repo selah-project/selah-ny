@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 40:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Pakuti zoipa zosawerengera zandizingirira; mphulupulu zanga zandipeza, ndipo sindinathe kuona; zikugwira pafupi kuposa tsitsi la mutu wanga, ndipo mtima wanga wandisiya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "אפפו",
+      "gloss": "zandizingirira"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "kuwerenga"
+    },
+    {
+      "surface": "השיגוני",
+      "gloss": "zandipeza"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "mphulupulu zanga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "יכלתי",
+      "gloss": "sindinathe"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "zikugwira pafupi"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "kuposa tsitsi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "la mutu wanga"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ndipo mtima wanga"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "wandisiya"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:47.773324519Z",
+  "model": "glm-5.3"
+}

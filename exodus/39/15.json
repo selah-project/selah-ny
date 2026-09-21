@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 39:15",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndipo anapanga pa chifua zingwe zobatanidwa, ntchito ya zingwe zobalalika, za golide woyera.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ndipo anapanga"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "chifua"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "zingwe zobatanidwa"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "zobatanidwa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ntchito ya"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "zingwe zobalalika"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "woyera"
+    }
+  ],
+  "timestamp": "2026-09-21T06:28:57.472907820Z",
+  "model": "glm-5.3"
+}

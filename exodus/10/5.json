@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo zidzafunda ⟨את⟩ diso la dziko lapansi, ndipo sadzakhoza kupenya ⟨את⟩ dziko lapansi; ndipo zidzadya ⟨את⟩ chotsalira cholapadwa, chosalira kwa inu kuchokera m'chivunde, ndipo zidzadya ⟨את⟩ mitengo yonse yomera kwa inu m'munda.",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "zidzafunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diso"
+    },
+    {
+      "surface": "עין",
+      "gloss": "diso"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la dziko lapansi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sadzakhoza"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "sadzakhoza"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "kupenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko lapansi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ndipo zidzadya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chotsalira"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "chotsalira"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "cholapadwa"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "chosalira"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchokera"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "m'chivunde"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ndipo zidzadya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitengo yonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "mitengo"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "yomera"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "m'munda"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "m'munda"
+    }
+  ],
+  "timestamp": "2026-09-21T06:12:01.851134884Z",
+  "model": "glm-5.3"
+}

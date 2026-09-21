@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Chifukwa maziko akugwa, wolungama — wachita chiyani?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "maziko"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "akugwa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "wachita"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:03.992431800Z",
+  "model": "glm-5.3"
+}

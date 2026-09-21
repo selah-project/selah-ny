@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 72,
+  "translation": "Adzaweruza osauka a mtundu, adzapulumutsa ana a osowa, nadzaphwanya wokhumudwitsa.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "Adzaweruza"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "osauka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a mtundu"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "adzapulumutsa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "osowa"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "nadzaphwanya"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "wokhumudwitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:44.035468034Z",
+  "model": "glm-5.3"
+}

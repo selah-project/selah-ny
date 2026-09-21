@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 14:16",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo Yehoash anagona ndi makolo ake, nadaikidwa m’manda ku Shomroni ndi mafumu a Yisraeli; ndipo Yerovamu mwana wake anachita ufumu m’malo mwake.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "anagona"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "makolo ake"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "nadaikidwa m’manda"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "ku Shomroni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "anachita ufumu"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerovamu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "m’malo mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:54:17.066099744Z",
+  "model": "glm-5.3"
+}

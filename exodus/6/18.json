@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 6:18",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo ana a Kehati: Amram, Yitsari, Chevroni ndi Uzieli; ndipo zaka za moyo wa Kehati zinali zana limodzi ndi makumi atatu ndi atatu.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ndipo ana"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "a Kehati"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "Yitsari"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "Chevroni"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ndi Uzieli"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ndipo zaka"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "za moyo"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "wa Kehati"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ndi makumi atatu"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ndi zana limodzi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:30.187917997Z",
+  "model": "glm-5.3"
+}

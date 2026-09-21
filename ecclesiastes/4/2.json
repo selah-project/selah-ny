@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo ine ndinalemekeza ⟨את⟩ akufa amene adafa kale, koposa amoyo amene ali ndi moyo mpaka lero.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "ndipo ndinalemekeza"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akufa"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "akufa"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "kale"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "adafa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "koposa"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "amoyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ali"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ndi moyo"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "mpaka lero"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:44.535168035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Ndipo Dinah, mwana wamkazi wa Leah, amene anamubala kwa Yakobo, anatuluka kuona ana akazi a dziko.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "anatuluka"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "wa Leah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "anamubala"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kwa Yakobo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "ana akazi a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    }
+  ],
+  "timestamp": "2026-09-21T05:58:44.844718557Z",
+  "model": "glm-5.3"
+}

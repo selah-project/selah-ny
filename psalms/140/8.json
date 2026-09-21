@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 140,
+  "translation": "Yahwe, Adonayi, mphamvu ya chipulumutso changa, wavala mutu wanga tsiku la zida.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mphamvu ya"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "chipulumutso changa"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "wavala"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "mutu wanga"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku la"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "zida"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:58.800497673Z",
+  "model": "glm-5.3"
+}

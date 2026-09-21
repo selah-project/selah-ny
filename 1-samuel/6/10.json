@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo anthu anachita motero; anatenga ng'ombe zakazi ziwiri zoyamwitsa, nazamanga pa galimoto, ndi ⟨את⟩ ana awo anawatseka m'nyumba.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "motero"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "ng'ombe zakazi"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "zoyamwitsa"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "anazamanga"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "pa galimoto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana awo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ana awo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "anawatseka"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "m'nyumba"
+    }
+  ],
+  "timestamp": "2026-09-21T08:02:38.242943051Z",
+  "model": "glm-5.3"
+}

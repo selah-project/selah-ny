@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "ndipo ndi ⟨את⟩ m'bale wanu wamng'ono mudzamubwaza kwa ine, kuti mawu anu akhazikike, ndipo simudzafa. Ndipo anachita chomwecho.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "m'bale wanu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "m'bale wanu"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "wamng'ono"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "mudzamubwaza"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "akhazikike"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "mawu anu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo osati"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "mudzafa"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chomwecho"
+    }
+  ],
+  "timestamp": "2026-09-21T06:03:04.233223268Z",
+  "model": "glm-5.3"
+}

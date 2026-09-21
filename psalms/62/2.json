@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 62,
+  "translation": "Yokha kwa Elohim moyo wanga umakhala chete; kwa Iye chipulumutso changa chili.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Yokha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "umakhala chete"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kwa Iye"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "chipulumutso changa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:52.684338164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Davide anati kwa iye: “Kumene ukuchokera ubwera?” Ndipo iye anati kwa iye: “Ndathawa mu msasa wa Yisraeli.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kumene"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ukuchokera"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ubwera"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "mu msasa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "ndathawa"
+    }
+  ],
+  "timestamp": "2026-09-21T13:07:17.829367482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 92,
+  "translation": "Ndimiro wa nyimbo, yotsatira tsiku la Sabata.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Ndimiro"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "wa nyimbo"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "yotsatira tsiku la"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabata"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:39.253196342Z",
+  "model": "glm-5.3"
+}

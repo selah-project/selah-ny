@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo kwa anthu awa udzati: Kotero anena Yahwe: Taona, ine ndikuyika pamaso panu ⟨את⟩ njira ya moyo, ndi ⟨את⟩ njira ya imfa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "udzati"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kotero"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "taona, ine"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ndikuyika"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pamaso panu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njira ya moyo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ya moyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "njira ya imfa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ya imfa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:37:59.189258809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo anawatora ⟨את⟩ ana akazi awo kukhala akazi awo, ndipo ⟨את⟩ ana akazi awo anawapatsa kwa ana awo amuna, ndipo anatumikira ⟨את⟩ milungu yawo.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Ndipo anawatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana akazi awo (oyamba)"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "ana akazi awo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kukhala awo"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "akazi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "ana akazi awo (achiwiri)"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "ana akazi awo"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "anawapatsa"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "kwa ana awo amuna"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ndipo anatumikira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "milungu yawo"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "milungu yawo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:46:15.383745951Z",
+  "model": "glm-5.3"
+}

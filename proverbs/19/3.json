@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Uchitsiru wa munthu umasokoneza njira yake, ndipo mtima wake umakwiya Yahwe.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "uchitsiru"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa munthu"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "umasokoneza"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "njira yake"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndipo pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "umakwiya"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "mtima wake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:24:50.737738683Z",
+  "model": "glm-5.3"
+}

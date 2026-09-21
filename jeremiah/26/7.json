@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 26:7",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo anamva ahemero ndi aneneri ndi anthu onse ⟨את⟩ Yirmeyahu wolankhula ⟨את⟩ mawu awa m'nyumba ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Ndipo anamva"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ahemero"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "ndi aneneri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi anthu onse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "wolankhula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu awa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "m'nyumba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T09:39:56.826677392Z",
+  "model": "glm-5.3"
+}

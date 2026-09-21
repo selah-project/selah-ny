@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 46:7",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 46,
+  "translation": "Ana ake aamuna, ndi ana a ana ake aamuna, naye ⟨אתו⟩; ana ake aakazi, ndi ana aakazi a ana ake aamuna, ndi mbewu yake yonse — anabweretsa naye ⟨אתו⟩ ku Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "בניו",
+      "gloss": "ana ake aamuna"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ndi ana a"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake aamuna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "naye ⟨אתו⟩"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "ana ake aakazi"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ndi ana aakazi a"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake aamuna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi yonse"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "mbewu yake"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "anabweretsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "naye ⟨אתו⟩"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ku Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:05:10.832394690Z",
+  "model": "glm-5.3"
+}

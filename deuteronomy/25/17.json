@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Kumbukira ⟨את⟩ zimene Amaleki anachita kwa iwe pa njira, pamene munkatuluka m'Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Kumbukira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleki"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pa njira"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "pamene munkatuluka"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "m'Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:25:46.535245471Z",
+  "model": "glm-5.3"
+}

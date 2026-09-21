@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Moshe anatsika kwa anthu, ndipo anawawuza iwo.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "anatsika"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "anawawuza"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:14:27.934528892Z",
+  "model": "glm-5.3"
+}

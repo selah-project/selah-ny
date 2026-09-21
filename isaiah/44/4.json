@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Ndipo adzamera monga udzu, monga makhasu pa mitsinjira ya madzi.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "ndipo adzamera"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "monga"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "udzu"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "monga makhasu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "mitsinjira"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ya madzi"
+    }
+  ],
+  "timestamp": "2026-09-21T13:13:58.950410331Z",
+  "model": "glm-5.3"
+}

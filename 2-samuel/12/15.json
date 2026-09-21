@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo Natani anapita ku nyumba yake, ndipo Yahwe anamenya ⟨את⟩ mwana amene mkazi wa Uliya anamubadzira Davide, ndipo <analwara> mosalekeza.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "anapita"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "anamenya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "anamubadzira"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mkazi wa"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uliya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "mosalekeza"
+    }
+  ],
+  "timestamp": "2026-09-21T08:21:48.914592891Z",
+  "model": "glm-5.3"
+}

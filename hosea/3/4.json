@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Chifukwa ana a Yisraeli adzakhala masiku ambiri opanda mfumu, ndipo opanda mtsogoleri, ndipo opanda nsembe, ndipo opanda mzati wopatulika, ndipo opanda efodi ndi terafimu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ambiri"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אין",
+      "gloss": "opanda (palibe)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo opanda"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mtsogoleri"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo opanda"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo opanda"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "mzati wopatulika"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo opanda"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efodi"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "ndi terafimu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:20:45.320148614Z",
+  "model": "glm-5.3"
+}

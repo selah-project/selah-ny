@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Tsiku la Sabata, tsiku la Sabata, adzaiziranga pamaso pa Yahwe nthawi zonse; ⟨את⟩ yochokera kwa ana a Yisraeli, pangano lachikhalire.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "la Sabata"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "la Sabata"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "adzaiziranga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nthawi zonse"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ yochokera",
+      "marks": "ana a Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pangano"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "lachikhalire"
+    }
+  ],
+  "timestamp": "2026-09-21T06:44:32.061541409Z",
+  "model": "glm-5.3"
+}

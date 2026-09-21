@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Monga mawu akumva a za Mitsrayimu, adzakhala ndi chisoni, momwemonso mawu akumva a za Tsori.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mawu akumva"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "a za Mitsrayimu"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "adzakhala ndi chisoni"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "momwemonso mawu akumva"
+    },
+    {
+      "surface": "צר",
+      "gloss": "a za Tsori"
+    }
+  ],
+  "timestamp": "2026-09-21T09:10:16.918449707Z",
+  "model": "glm-5.3"
+}

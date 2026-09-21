@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 95,
+  "translation": "Bwerani, tiyimbe ndi kufuula mokondwa kwa Yahwe, tibvomotse liu kwa Mwala wa chipulumutso chathu.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Bwerani"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "tiyimbe ndi kufuula mokondwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "tibvomotse liu"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "kwa Mwala"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "wa chipulumutso chathu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:31.338237710Z",
+  "model": "glm-5.3"
+}

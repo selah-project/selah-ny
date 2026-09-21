@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo ndidzaika ⟨את⟩ nyumba ya Ahabi monga nyumba ya Yaravamu mwana wa Navati, ndi monga nyumba ya Basha mwana wa Ahiya.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ndidzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba ya Ahabi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabi"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "monga nyumba"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "wa Navati"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "ndi monga nyumba"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ya Basha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "wa Ahiya"
+    }
+  ],
+  "timestamp": "2026-09-21T08:51:09.871076096Z",
+  "model": "glm-5.3"
+}

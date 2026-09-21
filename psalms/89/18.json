@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Pakuti iwe ndiwe ulemerero wa mphamvu yawo, ndi m'chikondi chako nyanga yathu idzakwezedwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ulemerero"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "wa mphamvu yawo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "ndi m'chikondi chako"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "idzakwezedwa"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "nyanga yathu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:02.805738130Z",
+  "model": "glm-5.3"
+}

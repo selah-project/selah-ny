@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Ndi ⟨את⟩ chikwaniri cha kuwala, ndi ⟨את⟩ zida zake, ndi ⟨את⟩ nyale zake, ndi ⟨את⟩ mafuta a kuwala.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chikwaniri cha kuwala"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "chikwaniri"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "cha kuwala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zida zake"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "zida zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyale zake"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "nyale zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mafuta a kuwala"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "a kuwala"
+    }
+  ],
+  "timestamp": "2026-09-21T06:25:09.726336574Z",
+  "model": "glm-5.3"
+}

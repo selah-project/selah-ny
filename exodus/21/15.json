@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo womenya atate wake kapena amayi wake, afa adzafa.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Ndipo wamenya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atate wake"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "kapena amayi wake"
+    },
+    {
+      "surface": "מות",
+      "gloss": "afa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "adzafa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:36.665324675Z",
+  "model": "glm-5.3"
+}

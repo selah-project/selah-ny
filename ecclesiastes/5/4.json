@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Kwabwino kuti usaonjeze, koposa kuti uaonjeza koma musalipire.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Kwabwino"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "onjeze"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "koposa kuti uaonjeza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma usa-"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "lipire"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:56.661122236Z",
+  "model": "glm-5.3"
+}

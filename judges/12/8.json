@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo muta wake Ibtsani wa Beti-lehemu anaweruza ⟨את⟩ Yisraeli.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "anaweruza"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "muta wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibtsani"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beti-lehemu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:54:10.532974190Z",
+  "model": "glm-5.3"
+}

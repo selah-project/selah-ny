@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 104,
+  "translation": "Mapiri akwera, mavalidwe awa amatsika, ku malo umene unawakhazikitsira iwo.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "akwera"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "amatsika"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "mavalidwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "malo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "umene"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "unawakhazikitsira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:30.124856691Z",
+  "model": "glm-5.3"
+}

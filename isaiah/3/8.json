@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Pakuti Yerushalayimu yasunthika, ndi Yehuda wagwa; pakuti lilime lawo ndi zochita zawo zili molwanda kwa Yahwe, kuonetsa mnyozo pamaso a maso a ulemerero wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "yasunthika"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ndi Yehuda"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "wagwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lilime lawo"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "ndi zochita zawo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "kuonetsa mnyozo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pamaso a maso a"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ulemerero wake"
+    }
+  ],
+  "timestamp": "2026-09-21T09:02:28.191144020Z",
+  "model": "glm-5.3"
+}

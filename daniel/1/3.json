@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 1:3",
+  "book": "daniel",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo mfumu inanena kwa Ashipenazi, wamkulu wa oduna ake, kuti abweretse ena mwa ana a Yisraeli, ndi mbumba ya ufumu, ndi a mwa olemekezeka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo inanena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "לאשפנז",
+      "gloss": "kwa Ashipenazi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "wa oduna ake"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "kuti abweretse"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ena mwa ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ומזרע",
+      "gloss": "ndi mbumba"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ya ufumu"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ndi a mwa"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "olemekezeka"
+    }
+  ],
+  "timestamp": "2026-09-21T12:02:45.736155448Z",
+  "model": "glm-5.3"
+}

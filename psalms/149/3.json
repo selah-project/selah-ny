@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 149,
+  "translation": "Alemekeze dzina lake ndi kuvina; ndi tofuni (phwaŵu) ndi kinora (citheleso) aimbire nyimbo kwa iye.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Alemekeze"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dzina lake"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "ndi kuvina"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "ndi tofuni"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ndi kinora"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "aimbire nyimbo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:39.217381287Z",
+  "model": "glm-5.3"
+}

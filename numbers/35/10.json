@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Yankhula ndi ana a Yisraeli, ndipo uzati kwa iwo: popeza inu mukudutsa ⟨את⟩ Yordano, kuluta ku dziko la Kanaani,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Yankhula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ndipo uzati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "mukudutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yordano"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordano"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "kuluta ku dziko"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "la Kanaani"
+    }
+  ],
+  "timestamp": "2026-09-21T07:11:47.861669486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo munthu adzakhala pansi pa mpesa wake ndi pansi pa mkuyu wake, ndipo palibe wochititsa mantha; pakuti mkamwa wa Yahwe Tsevaoti mwaulula.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Ndipo adzakhala pansi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu aliyense"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pa"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "mpesa wake"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "mkuyu wake"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "wochititsa mantha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mkamwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mwaulula"
+    }
+  ],
+  "timestamp": "2026-09-21T10:30:32.013856582Z",
+  "model": "glm-5.3"
+}

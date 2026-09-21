@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo mudzatumikira ⟨את⟩ Yahwe Elohim wanu, ndipo adzadalitsa ⟨את⟩ mkate wanu ndi ⟨את⟩ madzi anu, ndipo ndidzachotsa matenda pakati panu.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "mudzatumikira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "adzadalitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkate wanu"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "mkate wanu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "madzi anu"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "madzi anu"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "ndidzachotsa"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "matenda"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "pakati panu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:56.862716237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo Yokotani anabala ⟨את⟩ Alamodadi, ndi ⟨את⟩ Shelefu, ndi ⟨את⟩ Chatsarmavetu, ndi ⟨את⟩ Yerachi.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Ndipo Yokotani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alamodadi"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Alamodadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Shelefu"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelefu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Chatsarmavetu"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Chatsarmavetu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Yerachi"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerachi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:45:55.803418001Z",
+  "model": "glm-5.3"
+}

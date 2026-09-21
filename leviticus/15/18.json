@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 15:18",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo mkazi amene munthu agonera ⟨את⟩ iye kugona kwambewu, adzasambitsidwa awiri mumadzi, ndipo adzakhala adetsedwa mpaka madzulo.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "ndipo mkazi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "agonera"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mkazi"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "kugona"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbewu"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "adzasambitsidwa awiri"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mumadzi"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "adzakhala adetsedwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "madzulo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:40:29.625311971Z",
+  "model": "glm-5.3"
+}

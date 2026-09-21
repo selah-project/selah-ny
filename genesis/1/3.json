@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Elohim adati: “Kukhale kuwala”; ndipo kunakhala kuwala.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo adati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Kukhale"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kuwala"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ndipo kunakhala"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kuwala"
+    }
+  ],
+  "timestamp": "2026-09-21T05:41:59.442993080Z",
+  "model": "glm-5.3"
+}

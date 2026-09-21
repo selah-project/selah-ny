@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 57,
+  "translation": "Pakuti khesedi kako nkulunkulu mpaka miyamba, ndi choonadi chako mpaka mitambo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "nkulunkulu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "miyamba"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedi kako"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ndi mpaka"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "mitambo"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "choonadi chako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:04.978568671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo anabweza ⟨את⟩ katundu wonse, nabwezansonso ⟨את⟩ Loti m'bale wake — ndi katundu wake anabwezanso — komanso ⟨את⟩ akazi ndi ⟨את⟩ anthu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "anabweza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katundu wonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "katundu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nabwezansonso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Loti m'bale wake"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loti"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "m'bale wake"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "ndi katundu wake"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "anabwezanso"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "komanso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akazi"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "akazi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T05:47:14.019044490Z",
+  "model": "glm-5.3"
+}

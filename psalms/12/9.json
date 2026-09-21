@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Oipa amaenda kuzungulira konse konse, pamene zoipa zikukwezedwa mwa ana a anthu.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "kuzungulira konse konse"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Oipa"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "amaenda"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "pamene"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mwa ana a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:34.839706065Z",
+  "model": "glm-5.3"
+}

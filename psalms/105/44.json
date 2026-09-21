@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Ndipo adapatsa iwo madziko a amitundu, ndipo ntchito ya mafuko anawatenga monga cholowa chawo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "adapatsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "madziko"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "a amitundu"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ya mafuko"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "anawatenga monga cholowa chawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:00.913177282Z",
+  "model": "glm-5.3"
+}

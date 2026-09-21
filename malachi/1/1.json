@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Katundu wolemera wa mawu a Yahwe kwa Yisraeli, mwa dzanja la Malaki.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Katundu wolemera"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wa mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mwa dzanja"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "la Malaki"
+    }
+  ],
+  "timestamp": "2026-09-21T10:39:11.263070231Z",
+  "model": "glm-5.3"
+}

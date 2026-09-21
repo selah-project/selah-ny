@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Chifukwa cha izi, ndidzakuyamika mwa mitundu ya anthu, Yahwe, ndipo ndidzayimba nyimbo ku Dzina lako.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Chifukwa cha"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izi"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ndidzakuyamika"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mwa mitundu ya anthu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "ndipo ku Dzina lako"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ndidzayimba nyimbo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:15.573753508Z",
+  "model": "glm-5.3"
+}

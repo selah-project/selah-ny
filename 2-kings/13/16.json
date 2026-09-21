@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 13:16",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Nati kwa mfumu ya Yisraeli: “Ikidza dzanja lako pa uta.” Ndipo anaikidza dzanja lake; ndipo Eliisha anaikazo manja ake pa manja a mfuma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Nati"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kwa mfumu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "Ikidza"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dzanja lako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "anaikidza"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "anaikazo"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliisha"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "manja ake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "manja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a mfumu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:54:11.486636870Z",
+  "model": "glm-5.3"
+}

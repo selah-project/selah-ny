@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 67,
+  "translation": "Elohim atichereire ndi kutidalitsa; adzayitse kuwala kwa nkhope yake ⟨את⟩ nathi. Sela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "atichereire"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "ndi kutidalitsa"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "adzayitse kuwala"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kwa nkhope yake"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nathi",
+      "marks": "nathi — ndi ife"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:02.232715458Z",
+  "model": "glm-5.3"
+}

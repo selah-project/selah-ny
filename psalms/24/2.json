@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Chifukwa iye adaimitsa pa nyanja, ndipo pa mitsinje adatsimikizitsa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chifukwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "adaimitsa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndipo pa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mitsinje"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "adatsimikizitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:23.314030966Z",
+  "model": "glm-5.3"
+}

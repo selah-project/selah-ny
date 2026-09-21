@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo wansembe adzalamula, ndipo adzatulutsa ⟨את⟩ matombo amene muli kowolawo, ndipo adzawaponya ⟨את⟩ ku kunja kwa mzinda, ku malo odetsa.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ndipo adzalamula"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "ndipo adzatulutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matombo"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "matombo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "muli"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "kowolawo"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "ndipo adzawaponya"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "matombowo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kunja kwa"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "malo"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "odetsa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:36:51.892964196Z",
+  "model": "glm-5.3"
+}

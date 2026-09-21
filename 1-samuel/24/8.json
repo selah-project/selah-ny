@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo Davide anaphweteka ⟨את⟩ anthu ake ndi mawu, ndipo sanawalole kuuka kontra Shauli; ndipo Shauli anauka m'phanga, nayenda pa njira.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "anaphweteka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu ake"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "anthu ake"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "ndi mawu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sanawalole"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "sanawapereke"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "kuuka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kontra"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ndipo Shauli"
+    },
+    {
+      "surface": "קם",
+      "gloss": "anauka"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "m'phanga"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nayenda"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pa njira"
+    }
+  ],
+  "timestamp": "2026-09-21T08:11:25.195597283Z",
+  "model": "glm-5.3"
+}

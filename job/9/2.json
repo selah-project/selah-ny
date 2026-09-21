@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 9:2",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndithu ndadziwa kuti ndi choncho; koma munthu angayeneretsedwe bwanji ndi El?",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndadziwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndi choncho"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "koma bwanji"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "angayeneretsedwe"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-21T11:32:10.545067037Z",
+  "model": "glm-5.3"
+}

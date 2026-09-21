@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 66,
+  "translation": "Mitundu inu, dalitsani Elohim wathu; feretsani liwu la matamando ake.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "dalitsani"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Mitundu inu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "feretsani"
+    },
+    {
+      "surface": "קול",
+      "gloss": "liwu la"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "matamando ake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:12.721737479Z",
+  "model": "glm-5.3"
+}

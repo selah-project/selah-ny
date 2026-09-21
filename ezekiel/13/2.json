@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 13:2",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Mwana wa munthu, profetiza kwa aneneri a Yisraeli akuprofetiza, ndipo unena ndi iwo akuprofetiza m'mtima mwawo: Imvani liwu la Yahwe.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa munthu"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "profetiza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "aneneri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "akuprofetiza"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ndipo unena"
+    },
+    {
+      "surface": "לנביאי",
+      "gloss": "ndi aneneri"
+    },
+    {
+      "surface": "מלבם",
+      "gloss": "m'mtima mwawo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Imvani"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T09:59:25.727889754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Yamikani Yahwe, chifukwa ndi wabwino, chifukwa ku nthawi zosaperiwa khesedi wake.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Yamikani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wabwino"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zosaperiwa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi wake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:12.525697649Z",
+  "model": "glm-5.3"
+}

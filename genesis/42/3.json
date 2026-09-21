@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Ndipo abale khumi a Yosefe anatsika kugula chirala kuchokera ku Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "anatsika"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "abale"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "a Yosefe"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kugula"
+    },
+    {
+      "surface": "בר",
+      "gloss": "chirala"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuchokera ku Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:03:27.969579433Z",
+  "model": "glm-5.3"
+}

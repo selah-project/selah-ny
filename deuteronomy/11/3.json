@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "ndi ⟨את⟩ zizindikiro zake ndi ⟨את⟩ ntchito zake, zimene anachita pakati pa Mitsrayimu, ku Paro mfumu ya Mitsrayimu, ndi ku dziko lake lonse;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zizindikiro zake"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "zizindikiro zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ntchito zake"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ntchito zake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ku Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ndi ku dziko lake lonse"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "dziko lake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:19:02.130950430Z",
+  "model": "glm-5.3"
+}

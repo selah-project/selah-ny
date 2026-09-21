@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Kwa Davide. Kwa iwe, Yahwe, moyo wanga ndimukweza.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kwa Davide"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Kwa iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ndimukweza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:17.959063241Z",
+  "model": "glm-5.3"
+}

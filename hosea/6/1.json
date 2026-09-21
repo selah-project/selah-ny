@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Bwerani, ndipo tipembere kwa Yahwe, pakuti iye anatibereka, ndipo adzatichiritsa; anatimenya, ndipo adzatimangitsa.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Bwerani"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "ndipo tipembere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "anatibereka"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "adzatichiritsa"
+    },
+    {
+      "surface": "יך",
+      "gloss": "anatimenya"
+    },
+    {
+      "surface": "וחבשנו אין",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-21T10:20:33.827597772Z",
+  "model": "glm-5.3"
+}

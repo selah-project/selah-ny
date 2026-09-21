@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo Avraham anayimirira, nadzichepetsa pansi kwa anthu a dziko lapansi, kwa ana a Khete.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "anayimirira"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "nadzichepetsa pansi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kwa anthu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a dziko lapansi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa ana a"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Khete"
+    }
+  ],
+  "timestamp": "2026-09-21T05:51:17.912258511Z",
+  "model": "glm-5.3"
+}

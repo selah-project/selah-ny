@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Iwe wanasunga kwa kapolo wako David atate wanga ⟨את⟩ zimene unanena kwa iye; ndi pakamwa pako unanena, ndi dzanja lako unazimikitsa, monga lero lino.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Iwe wonasunga"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "wanasunga"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "kwa kapolo wako"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atate wanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene unanena kwa iye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "unanena"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "unanena"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "pakamwa pako"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "dzanja lako"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "unazimikitsa"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "monga lero"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lino"
+    }
+  ],
+  "timestamp": "2026-09-21T08:37:24.919588918Z",
+  "model": "glm-5.3"
+}

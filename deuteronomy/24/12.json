@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo ngati munthu ali wosaluma, usagone ndi chikole chake.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ndipo ngati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wosaluma"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "gone"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "ndi chikole chake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:25:25.950173758Z",
+  "model": "glm-5.3"
+}

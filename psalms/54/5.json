@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 54,
+  "translation": "Pakuti alendo anauka pa ine, ndiponso anthu amphulupulu anafufuza moyo wanga; sanayike Elohim pamaso pawo. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "alendo"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "anauka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "ndiponso anthu amphulupulu"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "anafufuza"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "-ayike"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "pamaso pawo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:07.371800001Z",
+  "model": "glm-5.3"
+}

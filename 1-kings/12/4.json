@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "“Atate wako anapangitsa ⟨את⟩ goli lathu lovuta; koma iwe tsopano chepetsani ntchito ya atate wako yovuta ndi goli lake lolemetsa limene anatipatsa, ndipo tidzakutumikira.”",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Atate wako"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "anapangitsa … lovuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goli lathu"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "goli lathu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "koma iwe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "chepetsani"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "ntchito ya"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atate wako"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "yovuta"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "ndi goli lake"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "lolemetsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anatipatsa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "pa ife"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "tidzakutumikira"
+    }
+  ],
+  "timestamp": "2026-09-21T08:40:34.742440979Z",
+  "model": "glm-5.3"
+}

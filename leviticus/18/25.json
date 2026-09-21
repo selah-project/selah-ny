@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo dziko lapansi ladetsedwa, ndipo ndinaika mphulupulu yake pa iyo, ndipo dziko lapansi linawunda ⟨את⟩ okhala mwake.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "ladetsedwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "ndinaika"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "mphulupulu yake"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pa iyo"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "linawunda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okhala mwake"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "okhala mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:39:51.224131378Z",
+  "model": "glm-5.3"
+}

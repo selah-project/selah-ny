@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Chifukwa cha uswaresware dachi limagwa, ndi chifukwa cha kuchepa kwa manja nyumba imadziza madzi.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "chifukwa cha uswaresware"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "limagwa"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "dachi"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "ndi chifukwa cha kuchepa"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "kwa manja"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "imadziza madzi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    }
+  ],
+  "timestamp": "2026-09-21T13:31:31.590946967Z",
+  "model": "glm-5.3"
+}

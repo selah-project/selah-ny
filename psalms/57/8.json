@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 57,
+  "translation": "Mitima yanga ikhazikika, Elohim, mitima yanga ikhazikika; ndidzayimbira nyimbo, nditha kuyimba ndi kulemekeza.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "wakhazikika"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "wakhazikika"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ndidzayimba"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ndidzayimbira ndi kulemekeza"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:40.060226888Z",
+  "model": "glm-5.3"
+}

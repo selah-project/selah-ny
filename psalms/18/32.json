@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Pakuti ndani ali Elohu koma Yahwe? Ndipo ndani ali mwala koma Elohim wathu?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elohu"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "koma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ndipo ndani"
+    },
+    {
+      "surface": "צור",
+      "gloss": "mwala"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "koma"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:02.211681160Z",
+  "model": "glm-5.3"
+}

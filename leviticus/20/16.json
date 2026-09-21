@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo mkazi amene adzayandikira ku nyama iliyonse kukagona nayo ⟨את⟩ iye — ndipo udzapha ⟨את⟩ mkaziyu ndi ⟨את⟩ nyambayo; kufa adzafa awiriwo; mwazi wawo uli pa iwo.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "Ndipo mkazi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "adzayandikira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ililonse"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "kukagona nayo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ iye"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "ndipo udzapha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkaziyu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mkaziyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyambayo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "nyambayo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "adzafa"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "mwazi wawo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:43:17.390254328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 21:4",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Namanganso maguwa a nsembe m'nyumba ya Yahwe, imene Yahwe ananena: “Mwa Yerushalayimu ndidzaika ⟨את⟩ Dzina langa.”",
+  "tokens": [
+    {
+      "surface": "ובנה",
+      "gloss": "namanganso"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "maguwa a nsembe"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Mwa Yerushalayimu"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ndidzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dzina langa"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Dzina langa"
+    }
+  ],
+  "timestamp": "2026-09-21T08:59:01.203135837Z",
+  "model": "glm-5.3"
+}

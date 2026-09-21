@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 72,
+  "translation": "Pakuti iye adzapulumutsa wosauka wofuula, ndi wovutika, wopanda wothandiza iye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "adzapulumutsa"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "wosauka"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "wofuula"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ndi wovutika"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "wopanda"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "wothandiza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:49.969732438Z",
+  "model": "glm-5.3"
+}

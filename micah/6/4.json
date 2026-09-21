@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Pakuti ndinakwezedwa ⟨את⟩ inu kuchokera mu dziko la Mitsrayimu, ndinakuombolani mu nyumba ya akapolo, ndipo ndinatuma pamaso panu ⟨את⟩ Moshe, ⟨את⟩ Aharoni ndi Miriyamu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "ndinakwezedwa ⟨את⟩ inu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuchokera mu dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "mu nyumba ya"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "akapolo"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "ndinakuombolani"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "ndipo ndinatuma"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamaso panu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "ndi Miriyamu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:23:48.056396264Z",
+  "model": "glm-5.3"
+}

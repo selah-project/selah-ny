@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 3:18",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Pamene ndinena kwa woipa kuti kufa udzafa, ndipo simunamuchenjeze ndipo sunanene kumuchenjeza woipa kuchoka pa njira yake yoipa kuti amoyo, iye, woipa, adzafa m'chimwino chake, koma mwazi wake ndidzafuna m'dzanja lako.",
+  "tokens": [
+    {
+      "surface": "באמרי",
+      "gloss": "Pamene ndinena"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "kwa woipa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "udzafa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo simu-"
+    },
+    {
+      "surface": "הזהרתו",
+      "gloss": "munamuchenjeza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo su-"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "nanene"
+    },
+    {
+      "surface": "להזהיר",
+      "gloss": "kumuchenjeza"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "woipa"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "kuchoka pa njira yake"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "yoipa"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "kuti amoyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "woipa"
+    },
+    {
+      "surface": "בעונו",
+      "gloss": "m'chimwino chake"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "adzafa"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "koma mwazi wake"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "m'dzanja lako"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ndidzafuna"
+    }
+  ],
+  "timestamp": "2026-09-21T09:56:56.546018281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 84,
+  "translation": "Kodi malo okhala ako akukongola bwanji, Yahwe Tsevaoti!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kodi… bwanji"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "akukongola"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "malo okhala ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:18.186558364Z",
+  "model": "glm-5.3"
+}

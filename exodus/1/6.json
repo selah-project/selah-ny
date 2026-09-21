@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Yosefe anafa, ndi abale ake onse, ndi gulo lonse lomwe linali pamenepo.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Ndipo anafa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi onse"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abale ake"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi lonse"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "gulo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lomwe linali pamenepo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:07:19.925878376Z",
+  "model": "glm-5.3"
+}

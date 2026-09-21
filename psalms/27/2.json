@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Pamene oipa anandilondola kuti adye ⟨את⟩ thupi langa, adani anga ndi otsutsana ndi ine — iwo anagwedezeka ndi kugwa.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "Pamene anandilondola"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "oipa"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kuti adye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thupi langa"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "thupi langa"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "adani anga"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "ndi otsutsana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi ine"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "anagwedezeka"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ndi kugwa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:04.713585356Z",
+  "model": "glm-5.3"
+}

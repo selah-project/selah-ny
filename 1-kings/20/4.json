@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 20:4",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo mfumu ya Yisraeli nayankha, nanena: “Monga mawu anu, mbuye wanga, mfumu: ine ndili wanu, ndipo zonse zimene ndili nazo.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "nayankha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanena"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Monga mawu anu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mbuye wanga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wanu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndili nazo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:44:52.072247362Z",
+  "model": "glm-5.3"
+}

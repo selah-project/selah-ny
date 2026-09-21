@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ndiposa akulu m'chidziwitso, pakuti ndasunga malamulo ako.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "koposa akulu"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "Ndiposa m'chidziwitso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "malamulo ako"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ndasunga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:43.997614230Z",
+  "model": "glm-5.3"
+}

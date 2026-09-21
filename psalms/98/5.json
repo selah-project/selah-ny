@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 98,
+  "translation": "Imbani kwa Yahwe ndi kinora; ndi kinora ndi liwu la nyimbo.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Imbani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ndi kinora"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ndi kinora"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ndi liwu"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "la nyimbo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:36.483277264Z",
+  "model": "glm-5.3"
+}

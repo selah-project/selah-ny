@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 50,
+  "translation": "Msinga wanga ndinapereka kwa akuphanga, ndipo masaya anga kwa akupotola tsitsi; nkhope yanga sindinayibisa ku manyazi ndi ku kulira mkamwa.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "msinga wanga"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndinapereka"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "kwa akuphanga"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "ndipo masaya anga"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "kwa akupotola tsitsi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope yanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si(ndinayibisa)"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "sindinayibisa"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "ku manyazi"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "ndi ku kulira mkamwa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:22:46.268296706Z",
+  "model": "glm-5.3"
+}

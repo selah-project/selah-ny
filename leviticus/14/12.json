@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo mkulu wa nsembe adzalandira ⟨את⟩ nkhosa imodzi ya abyana, ndi kuzipereka ngati nsembe ya cholowa, pamodzi ndi ⟨את⟩ logi ya mafuta, ndi kuzinyamulira kuwomboleka pamaso pa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "adzalandira"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mkulu wa nsembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhosa imodzi ya abyana"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "nkhosa ya abyana"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "imodzi"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ndi kuzipereka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "nsembe ya cholowa"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "ngati nsembe ya cholowa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "logi ya mafuta"
+    },
+    {
+      "surface": "לג",
+      "gloss": "logi"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ya mafuta"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "ndi kuzinyamulira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ izi",
+      "marks": "kuwomboleka"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "kuwomboleka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T12:58:14.025568869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Ndipo awa ndi ana a Dishani: Chemdani, ndi Eshbani, ndi Yithrani, ndi Cherani.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ndipo awa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "Dishani"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "Chemdani"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "ndi Eshbani"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "ndi Yithrani"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "ndi Cherani"
+    }
+  ],
+  "timestamp": "2026-09-21T05:57:44.418350122Z",
+  "model": "glm-5.3"
+}

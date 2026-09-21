@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 139,
+  "translation": "Ndipo ndinati: “Ndithu mdima udzandizunza, koma usiku udzakhala kuwala kwa ine.”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ndipo ndinati"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Ndithu"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mdima"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "udzandizunza"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "koma usiku"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kuwala"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "kwa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:17.651230438Z",
+  "model": "glm-5.3"
+}

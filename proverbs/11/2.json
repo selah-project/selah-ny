@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Kudzikweza pokudza, manyazi namadza; koma ndi ⟨את⟩ odzichepetsa pali nzeru.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "pokudza"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "kudzikweza"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "namadza"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "manyazi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "odzichepetsa"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "odzichepetsa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "nzeru"
+    }
+  ],
+  "timestamp": "2026-09-21T11:22:12.009021395Z",
+  "model": "glm-5.3"
+}

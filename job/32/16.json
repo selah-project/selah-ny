@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 32:16",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndipo ndinadikira, popeza sanalankhula, popeza anayimirira ndipo sanayankhenso.",
+  "tokens": [
+    {
+      "surface": "והוחלתי",
+      "gloss": "ndipo ndinadikira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "sanalankhula"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "anayimirira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "sanayankhe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "-nso"
+    }
+  ],
+  "timestamp": "2026-09-21T11:43:28.329462660Z",
+  "model": "glm-5.3"
+}

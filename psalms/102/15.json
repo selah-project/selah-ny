@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "Pakuti akapolo ako akondwera ndi ⟨את⟩ miyala yake, ndipo ⟨את⟩ dothi lake akuchitira chifundo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "akondwera ndi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "akapolo ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miyala yake"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "miyala yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "dothi lake"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "dothi lake"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "akuchitira chifundo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:44.146830623Z",
+  "model": "glm-5.3"
+}

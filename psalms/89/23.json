@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Mdani sadzamuzunza, ndipo mwana wa zoipa sadzamunyozetsa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sadza"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "kumuzunza"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "Mdani"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ndipo mwana"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "wa zoipa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "kumunyozetsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:16.760469683Z",
+  "model": "glm-5.3"
+}

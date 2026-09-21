@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 71,
+  "translation": "Koma ine ndidikirira ndi chiyembekezo nthawi zonse, ndipo ndidzaonjezera pa mayamiko anu onse.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Koma ine"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nthawi zonse"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "ndidikirira ndi chiyembekezo"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "ndipo ndidzaonjezera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "mayamiko anu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:09.022857011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo munthu adati: “⟨the⟩ mkazi umene munandipatsa kukhala ndi ine — iyeyo ndiye anandipatsa ⟨the⟩ chakudya cha mu mtengo, ndipo ndidadya.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "munandipatsa"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kukhala ndi ine"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyeyo"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "anandipatsa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "מן",
+      "gloss": "chakudya cha mu"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "mtengo"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ndipo ndidadya"
+    }
+  ],
+  "timestamp": "2026-09-21T05:41:58.400365758Z",
+  "model": "glm-5.3"
+}

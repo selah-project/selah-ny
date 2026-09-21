@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 53,
+  "translation": "Mu kukanizidwa ndi mu chiweruzo anatengedwa; ndipo za ⟨את⟩ mbadwo wake, ndani angafotokoze? Pakuti anadulidwa kuchoka ku dziko la moyo; chifukwa cha mphulupulu ya anthu ake, mavuto anamugwera iye.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "mu kukanizidwa"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "ndi mu chiweruzo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "anatengedwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "mbadwo wake"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "mbadwo wake"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "angafotokoze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "anadulidwa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuchoka ku dziko"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "la moyo"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "chifukwa cha mphulupulu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ya anthu ake"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "mavuto"
+    },
+    {
+      "surface": "למו",
+      "gloss": "anamugwera iye"
+    }
+  ],
+  "timestamp": "2026-09-21T09:22:53.467548882Z",
+  "model": "glm-5.3"
+}

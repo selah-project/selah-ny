@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 29:20",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo Yahwe adzamulekanitsa iye ku zoipa, mwa mafuko onse a Yisraeli, monga matemberero onse a pangano lolembedwa m'buku la Tora lino.",
+  "tokens": [
+    {
+      "surface": "והבדילו",
+      "gloss": "adzamulekanitsa iye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "ku zoipa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mwa onse a"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "mafuko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "monga onse a"
+    },
+    {
+      "surface": "אלות",
+      "gloss": "matemberero"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "a pangano"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "lolembedwa"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "m'buku"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "la Tora"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lino"
+    }
+  ],
+  "timestamp": "2026-09-21T07:29:59.989403947Z",
+  "model": "glm-5.3"
+}

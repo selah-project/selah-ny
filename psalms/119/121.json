@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ndinali̇́za chilungamo ndi cholungama; musandiise kwa osandipweteka.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "ndinaliza"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chilungamo"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "ndi cholungama"
+    },
+    {
+      "surface": "בל",
+      "gloss": "musandiise-nanga (inenso)"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "musandiise"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "kwa osandipweteka"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:16.005441290Z",
+  "model": "glm-5.3"
+}

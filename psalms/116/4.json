@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 116,
+  "translation": "Ndipo m'Dzina la Yahwe ndinaitana: “Ndikupemphera, Yahwe, ndithandizeni moyo wanga.”",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Ndipo m'Dzina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndinaitana"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Ndikupemphera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "ndithandizeni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:54.002437500Z",
+  "model": "glm-5.3"
+}

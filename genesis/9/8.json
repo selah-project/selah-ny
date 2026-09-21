@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Elohim ananena kwa Noa ndi kwa ana ake ⟨את⟩ pamodzi ndi iye, nati:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo ananena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi kwa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pamodzi ndi iye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:16.454875079Z",
+  "model": "glm-5.3"
+}

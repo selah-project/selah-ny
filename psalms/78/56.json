@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Koma anayesa ndi kukwiiritsa ⟨את⟩ Elohim wa pamwamba, ndipo mboni zake sanazisunge.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "anayesa"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "kukwiiritsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim wa pamwamba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "wa pamwamba"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "mboni zake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sanazisunge"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "sunge"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:01.592299985Z",
+  "model": "glm-5.3"
+}

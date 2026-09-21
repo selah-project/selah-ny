@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 120,
+  "translation": "Nyimbo ya makwerero. Kwa Yahwe m'da langu ndinaitana, ndipo anayankha ine.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya makwerero"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "m'da langu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ndinaitana"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "ndipo anayankha ine"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:22.559399812Z",
+  "model": "glm-5.3"
+}

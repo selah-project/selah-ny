@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 5:12",
+  "book": "amos",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Pakuti ndadziwa kuti kulakwa kwanu ndi kambiri, ndipo machimo anu ndi akulu: akutsutsa olungama, alandira kachisi, ndipo osauka pa khomo akuwasocheretsa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndadziwa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "kambiri"
+    },
+    {
+      "surface": "פשעיכם",
+      "gloss": "kulakwa kwanu"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "ndipo akulu"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "machimo anu"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "akutsutsa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "olungama"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "alandira"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "kachisi"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "ndipo osauka"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "pa khomo"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "akuwasocheretsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:26:39.763626869Z",
+  "model": "glm-5.3"
+}

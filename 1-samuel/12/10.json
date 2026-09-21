@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo anafuula kwa Yahwe, nati: “Tinachimwira, chifukwa tinasiwa ⟨את⟩ Yahwe, ndipo tinapembedza ⟨את⟩ Baalim ndi ⟨את⟩ Ashtaroti; ndipo tsopano titipulumutse m'dzanja la adani athu, ndipo tidzakupembedza.”",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "anafuula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Tinachimwira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "tinasiwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "ndipo tinapembedza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Ashtaroti"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "Ashtaroti"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ndipo tsopano"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "titipulumutse"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "la adani athu"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "ndipo tidzakupembedza"
+    }
+  ],
+  "timestamp": "2026-09-21T08:03:53.262257213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 50,
+  "translation": "Ndipo Yosefe analumbiritsa ⟨את⟩ ana a Yisraeli, nati: “Elohim adzayera adzayerani, ndipo mudzakweza ⟨את⟩ mafupa anga kuchoka m'menepa.”",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "Ndipo analumbiritsa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "יושראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "adzayera"
+    },
+    {
+      "surface": "יפפקד",
+      "gloss": "adzayerani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "ndipo mudzakweza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafupa anga"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "mafupa anga"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kuchoka m'menepa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:06:20.376784109Z",
+  "model": "glm-5.3"
+}

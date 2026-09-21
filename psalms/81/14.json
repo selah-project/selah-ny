@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 81,
+  "translation": "Kadzali anthu anga akundimvera, Yisraeli akayenda m'njira zanga!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Kadzali"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "anthu anga"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "akundimvera"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "m'njira zanga"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "akayenda"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:33.829989940Z",
+  "model": "glm-5.3"
+}

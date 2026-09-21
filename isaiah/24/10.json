@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Mzinda wa chisokonezo wathyoka; nyumba iliyonse itatsekedwa kuti palibe woulowa.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "wathyoka"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "wa chisokonezo"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "itatsekedwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iliyonse"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "kuti palibe woulowa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:10:18.386102713Z",
+  "model": "glm-5.3"
+}

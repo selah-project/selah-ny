@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 52,
+  "translation": "Kwa woyang'anira ⟨wa⟩ nyimbo; chiphunzitso cha Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira ⟨wa⟩ nyimbo"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "chiphunzitso"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "cha Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:19.092558351Z",
+  "model": "glm-5.3"
+}

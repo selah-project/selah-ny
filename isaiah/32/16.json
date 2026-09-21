@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndipo chilamulo chidzakhazikika m'chilengalene, ndipo chilungamo chidzakhala m'munda wodala.",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "Ndipo chidzakhazikika"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "m'chilengalene"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chilamulo"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ndipo chilungamo"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "m'munda wodala"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "chidzakhala"
+    }
+  ],
+  "timestamp": "2026-09-21T09:12:22.289688296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 46,
+  "translation": "Madzi ake akukhungira, akusenzeka, mapiri agwedezeka m'kukwera kwake. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "akukhungira"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "akusenzeka"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "Madzi ake"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "agwedezeka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "m'kukwera kwake"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:13.444328601Z",
+  "model": "glm-5.3"
+}

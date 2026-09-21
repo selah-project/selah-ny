@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Izi ndi nyengo zopatulika za Yahwe, misonkhano yopatulika, zimene mudzaitanira ⟨את⟩ pa nthawi yawo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Izi"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "nyengo zopatulika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "za Yahwe"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "misonkhano yopatulika"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "yopatulika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "mudzaitanira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "pa nthawi yawo (במועדם)"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "pa nthawi yawo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:43:01.804379567Z",
+  "model": "glm-5.3"
+}

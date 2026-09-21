@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Popeza khesediako lili pamaso pa maso anga, ndipo ndayenda m'choona chako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Popeza"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesediako"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maso anga"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "ndipo ndayenda"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "m'choona chako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:56.626515856Z",
+  "model": "glm-5.3"
+}

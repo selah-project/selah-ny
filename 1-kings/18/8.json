@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndi iye anamuyankha: “Ine ndine; pita, nena kwa mbuye wako: Taona, Eliyahu ali pano.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anamuyankha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ine ndine"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pita"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nena"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "kwa mbuye wako"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Taona"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu ali pano"
+    }
+  ],
+  "timestamp": "2026-09-21T08:43:07.157405123Z",
+  "model": "glm-5.3"
+}

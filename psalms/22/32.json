@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Adzadza ndi kulalikira chilungamo chake kwa anthu obadwa posachedwa, chifukwa Iye wachita.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "adzadza"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ndi kulalikira"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "chilungamo chake"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kwa anthu"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "obadwa posachedwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Iye wachita"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:16.950401067Z",
+  "model": "glm-5.3"
+}

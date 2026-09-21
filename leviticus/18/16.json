@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Chibare cha mkazi wa m'bale wako usiuvumbulire; chibare cha m'bale wako iyo.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "chibare"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "cha mkazi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wa m'bale wako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usi-"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "uvumbulire"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "chibare"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "cha m'bale wako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:39:47.901223839Z",
+  "model": "glm-5.3"
+}

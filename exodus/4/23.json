@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo ndinanena kwa iwe: “Tumiza ⟨את⟩ mwana wanga kuti anditumikire; koma anakana kumutumiza — onani, ine ndidzapha ⟨את⟩ mwana wako wobadwa yamba.”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ndipo ndinanena"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Tumiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wanga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana wanga"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "kuti anditumikire"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "koma anakana"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "kumutumiza"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "onani"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ndidzapha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wako"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana wako"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "wobadwa yamba"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:49.563509008Z",
+  "model": "glm-5.3"
+}

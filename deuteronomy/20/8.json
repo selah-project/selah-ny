@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 20:8",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo alangizi adzaonjezera kulankhula kwa anthu, nati: Ndani ndi munthu woopa ndi wofewa mtima? Apite, nabwerere ku nyumba yake, ndipo mtima wa abale ake usungunuke ⟨את⟩ mtima monga mtima wake.",
+  "tokens": [
+    {
+      "surface": "ויספו",
+      "gloss": "adzaonjezera"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "alangizi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kulankhula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "nati"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "הירא",
+      "gloss": "woopa"
+    },
+    {
+      "surface": "ורך",
+      "gloss": "ndi wofewa mtima"
+    },
+    {
+      "surface": "הלבב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "apite"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nabwerere"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ku nyumba yake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "usungunuke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtima"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wa abale ake"
+    },
+    {
+      "surface": "כלבבו",
+      "gloss": "monga mtima wake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:24:08.863179812Z",
+  "model": "glm-5.3"
+}

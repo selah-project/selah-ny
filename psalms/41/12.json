@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Mwa izi ndazindikira kuti umakondwera ndi ine, chifukwa mdani wanga safuula molandiza pa ine.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Mwa izi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndazindikira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "umakondwera"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ndi ine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "afuula molandiza"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mdani wanga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:51.067667704Z",
+  "model": "glm-5.3"
+}

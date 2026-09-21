@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Koma nyama, pamene ili ndi moyo wake — ndi mwazi wake — simudya.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Koma"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "pamene ili ndi moyo wake"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "mwazi wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mudya"
+    }
+  ],
+  "timestamp": "2026-09-21T05:45:05.246932385Z",
+  "model": "glm-5.3"
+}

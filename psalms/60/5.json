@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 60,
+  "translation": "Unawonetsa anthu anu chinthu cholimba; unatisangalatsa kunwa vinyo la kuzungulira.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "Unawonetsa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "anthu anu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "chinthu cholimba"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "unatisangalatsa kunwa"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vinyo"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "la kuzungulira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:54.713866380Z",
+  "model": "glm-5.3"
+}

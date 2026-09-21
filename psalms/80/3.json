@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 80,
+  "translation": "Pamaso pa Efrayimu ndi Benjamini ndi Manase, dzukitsa ⟨את⟩ mphamvu zako, ndipo bwerera ku chipulumutso chathu.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Pamaso pa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ndi Benjamini"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "ndi Manase"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "dzukitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mphamvu zako"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "mphamvu zako"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "ndipo bwerera"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "ku chipulumutso"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "chathu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:57.205086737Z",
+  "model": "glm-5.3"
+}

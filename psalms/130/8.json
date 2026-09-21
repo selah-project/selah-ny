@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 130,
+  "translation": "Ndipo iye adzawombolera ⟨את⟩ Yisraeli kuchokera ku machimo awo onse.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Ndipo iye"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "adzawombolera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuchokera ku ... onse"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "machimo awo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:10.274515792Z",
+  "model": "glm-5.3"
+}

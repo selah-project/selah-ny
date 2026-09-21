@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 119:46",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ndipo ndidzalankhula za maboni anu pamaso pa mafumu, ndipo sindidzachita manyazi.",
+  "tokens": [
+    {
+      "surface": "ואדברה",
+      "gloss": "ndipo ndidzalankhula"
+    },
+    {
+      "surface": "בעדתיך",
+      "gloss": "za maboni anu"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "didzachita manyazi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:10:29.237384278Z",
+  "model": "glm-5.3"
+}

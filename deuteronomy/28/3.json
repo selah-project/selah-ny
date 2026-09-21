@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Wodala ndiwe mu mzinda, ndipo wodala ndiwe kumunda.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Wodala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ndiwe"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mzinda"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ndipo wodala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ndiwe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kumunda"
+    }
+  ],
+  "timestamp": "2026-09-21T07:28:57.190459321Z",
+  "model": "glm-5.3"
+}

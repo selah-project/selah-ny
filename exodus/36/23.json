@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Ndipo adachita ⟨את⟩ makapepe a chihema: makapepe makumi awiri ku mbali ya kumwera, kum'mwera chakumwera.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ndipo adachita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makapepe"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "makapepe"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "a chihema"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi awiri"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "makapepe"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ku mbali ya"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "kumwera"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "kum'mwera chakumwera"
+    }
+  ],
+  "timestamp": "2026-09-21T06:27:28.177302093Z",
+  "model": "glm-5.3"
+}

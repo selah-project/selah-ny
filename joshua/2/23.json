@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 2:23",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo amuna awiri anabwerera, anatsika kuchokera ku phiri, anadutsa, anafika kwa Yehoshuwa mwana wa Nunu, ndipo anamuuza ⟨את⟩ zonse zimene zinawapeza ⟨את⟩ iwo.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "anabwerera"
+    },
+    {
+      "surface": "שני",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "amuna"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "anatsika"
+    },
+    {
+      "surface": "מההר",
+      "gloss": "kuchokera ku phiri"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "anadutsa"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "anafika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נון",
+      "gloss": "wa Nunu"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "anamuuza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "המצאות",
+      "gloss": "zimene zinawapeza"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo (amuna awiri)"
+    }
+  ],
+  "timestamp": "2026-09-21T07:34:28.587622500Z",
+  "model": "glm-5.3"
+}

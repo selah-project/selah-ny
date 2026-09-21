@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 118,
+  "translation": "Ndikupembedza, Yahwe, chipulumutso tsopano; ndikupembedza, Yahwe, phindu tsopano.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "ndikupembedza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "chipulumutso"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "ndikupembedza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "phindu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tsopano"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:34.041091400Z",
+  "model": "glm-5.3"
+}

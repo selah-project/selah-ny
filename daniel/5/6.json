@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 5:6",
+  "book": "daniel",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Pamenepo nkhope ya mfumu inasintha, ndipo maganizo ake zinam'maniza, ndipo mavalo ake a pa msana anasatuluka, ndipo maholo ake anagongonzana achi ndi achi.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "pamenepo"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "זיוהי",
+      "gloss": "kuwala kwa nkhope"
+    },
+    {
+      "surface": "שנוהי",
+      "gloss": "inasintha"
+    },
+    {
+      "surface": "ורעינהי",
+      "gloss": "ndipo maganizo ake"
+    },
+    {
+      "surface": "יבהלונה",
+      "gloss": "zinam'maniza"
+    },
+    {
+      "surface": "וקטרי",
+      "gloss": "ndipo mavalo"
+    },
+    {
+      "surface": "חרצה",
+      "gloss": "ake a pa msana"
+    },
+    {
+      "surface": "משתרין",
+      "gloss": "anasatuluka"
+    },
+    {
+      "surface": "וארכבתה",
+      "gloss": "ndipo maholo ake"
+    },
+    {
+      "surface": "דא",
+      "gloss": "achi"
+    },
+    {
+      "surface": "לדא",
+      "gloss": "ku achi"
+    },
+    {
+      "surface": "נקשן",
+      "gloss": "anagongonzana"
+    }
+  ],
+  "timestamp": "2026-09-21T12:05:56.866977784Z",
+  "model": "glm-5.3"
+}

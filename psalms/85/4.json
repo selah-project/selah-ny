@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 85,
+  "translation": "Unasonkhanitsa mkwiyo wonse wako; unatembenukira ku ukali wa nkhope yako.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "Unasonkhanitsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "mkwiyo wako"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "unatembenukira"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "ku ukali"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "wa nkhope yako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:23.455600989Z",
+  "model": "glm-5.3"
+}

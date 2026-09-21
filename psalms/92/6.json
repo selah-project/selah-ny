@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 92,
+  "translation": "Kukula kwakukulu kwa nchito zanu, Yahwe; maganizo anu ali pakati kwambiri.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kukulu"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "kukula kwakukulu"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "kwa nchito zanu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "ali pakati"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "maganizo anu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:38.858270164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo Bela anali nawo ana: Addar, ndi Gera, ndi Avihudi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ndipo anali"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ana"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "kwa Bela"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Addar"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "ndi Gera"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "ndi Avihudi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:25:22.232730610Z",
+  "model": "glm-5.3"
+}

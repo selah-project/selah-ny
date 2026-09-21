@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 103,
+  "translation": "Amakhululukira zonse za zolakwika zako; amachiritsa matenda ako onse.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "Amakhululukira"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "zonse za"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "zolakwika zako"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "amachiritsa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "onse a"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "matenda ako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:18.403467135Z",
+  "model": "glm-5.3"
+}

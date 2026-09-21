@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo pa tsiku lomwe musuntha ⟨את⟩ mthinga, mudzachita: nkhosa yamwana wamwamuna wopanda chilema, mwana wa chaka chake, nsembe yakupsya kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "mudzachita"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pa tsiku"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "lomwe musuntha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mthinga"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "mthinga"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "nkhosa yamwana wamwamuna"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "wopanda chilema"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "chaka chake"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "nsembe yakupsya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:59.483621922Z",
+  "model": "glm-5.3"
+}

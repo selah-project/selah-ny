@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Koma ine, monga wopweteka makutu, sindimamva; ndipo monga wakhumbu, sakutseka mkamwa mwake — sindimayankha",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "koma ine"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "monga wopweteka makutu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi-"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "dimamva"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "ndipo monga wakhumbu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "kutsegula"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "mkamwa mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:32.414041599Z",
+  "model": "glm-5.3"
+}

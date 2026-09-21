@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 88,
+  "translation": "Wandikhazikitsa m'pitsi wakutsikirapo, m'mdima, m'madzi ozama.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "Wandikhazikitsa"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "m'pitsi"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "wakutsikirapo"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "m'mdima"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "m'madzi ozama"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:15.641310317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Pang'ono la wolungama ndi lobwino koposa chuma chochuluka cha woipa ambiri.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lobwino koposa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "Pang'ono"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "la wolungama"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "chuma"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "cha woipa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ambiri"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:25.653881488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo iye anati: “Mawa.” Ndipo iye anati: “Monga mawu ⟨ako⟩, kuti udziwe kuti palibe wofanana ndi Yahwe, Elohim wathu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo iye anati"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "Mawa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo iye anati"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Monga mawu ako"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "udziwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe wofanana"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "ndi Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:10:48.816154401Z",
+  "model": "glm-5.3"
+}

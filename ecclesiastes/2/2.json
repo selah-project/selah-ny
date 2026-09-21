@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Za chisekeseke ndinati: “Ndi chidala”; ndipo za chikondwerero: “Chiyani ichi chichita?”",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "Za chisekeseke"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndinati"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "ndi chidala"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "ndipo za chikondwerero"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "chichita"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:51.127180920Z",
+  "model": "glm-5.3"
+}

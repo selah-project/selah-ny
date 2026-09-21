@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Iwo anachita nkhondo ndi ⟨את⟩ Bera mfumu ya Sodoma, ndi ⟨את⟩ Birsha mfumu ya Gomora, Shinabu mfumu ya Adama, ndi Shemeberi mfumu ya Tsevoyimu, ndi mfumu ya Bela — iyo ndiyo Tsoari.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "nkhondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bera"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodoma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Birsha"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birsha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Gomora"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Shinabu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Adama"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "ndi Shemeberi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Tsevoyimu"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ndi mfumu ya"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iyo ndiyo"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoari"
+    }
+  ],
+  "timestamp": "2026-09-21T05:47:13.563464555Z",
+  "model": "glm-5.3"
+}

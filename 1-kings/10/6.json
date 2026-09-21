@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo iye anati kwa mfumu: “Mawu anali zoona omwe ndinamva m'dzikolanga, za mawu anu ndi za nzeru zanu.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ndipo iye anati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "zoona"
+    },
+    {
+      "surface": "היה",
+      "gloss": "anali"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omwe"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndinamva"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "m'dzikolanga"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "mawu anu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi za"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "nzeru zanu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:36:17.146570032Z",
+  "model": "glm-5.3"
+}

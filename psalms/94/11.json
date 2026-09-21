@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 94,
+  "translation": "Yahwe adziwa maganizo a munthu, kuti iwo ndi zopanda pake.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "adziwa"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "maganizo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a munthu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "zopanda pake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:59.207822826Z",
+  "model": "glm-5.3"
+}

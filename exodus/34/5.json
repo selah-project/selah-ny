@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Yahwe adatsika m'mkati mwa chipiri, nadzimirira pamodzi ndi iye kumeneko, nayitana ndi dzina la Yahwe.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "adatsika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "m'mkati mwa chipiri"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "nadzimirira"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamodzi ndi iye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nayitana"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ndi dzina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:25:22.243426644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Kapena wowomba chizimba, kapena wonseza mzimu, kapena wonseza wodziwa zonse, kapena wofufuza kwa akufa.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "kapena wowomba"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "chizimba"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "kapena wonseza"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "kapena wonseza wodziwa zonse"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "kapena wofufuza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "akufa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:23:25.516374547Z",
+  "model": "glm-5.3"
+}

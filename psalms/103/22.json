@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 103,
+  "translation": "Lemekezeni Yahwe, ntchito zake zonse, m'malo onse a ufumu wake; moyo wanga, lemekeza ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Lemekezeni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ntchito zake"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "m'malo onse a"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "malo"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "ufumu wake"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "lemekeza"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:27.174137879Z",
+  "model": "glm-5.3"
+}

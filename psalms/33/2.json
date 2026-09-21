@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Yamikani Yahwe ndi kinora; ndi nevela ya zinga zikhumi imbirani kwa Iye.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Yamikani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ndi kinora"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "ndi nevela"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ya zinga zikhumi"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "imbirani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa Iye"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:30.789760892Z",
+  "model": "glm-5.3"
+}

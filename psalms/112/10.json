@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 112,
+  "translation": "Woipa adzaona ndi kupsinjika; mano ake adzaomenyera, ndipo adzathothoka; chilakolako cha anthu woipa chidzatayika.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Woipa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "adzaona"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ndi kupsinjika"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "mano ake"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "adzaomenyera"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "ndipo adzathothoka"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "chilakolako"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "cha anthu woipa"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "chidzatayika"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:22.092160435Z",
+  "model": "glm-5.3"
+}

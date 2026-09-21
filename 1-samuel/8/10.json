@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Samuweli ananena ⟨את⟩ mawu onse a Yahwe kwa anthu akufuna kwa ⟨את⟩ iye mfumu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuweli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "akufuna"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "kwa ⟨את⟩ iye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:01:08.039019163Z",
+  "model": "glm-5.3"
+}

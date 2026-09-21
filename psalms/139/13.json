@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 139,
+  "translation": "Pakuti iwe munandipanga chakati mwanga, munandizinga m'mimba mwa amayi wanga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "munandipanga"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "chakati mwanga"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "munandizinga"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "m'mimba mwa"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "amayi wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:50.232781250Z",
+  "model": "glm-5.3"
+}

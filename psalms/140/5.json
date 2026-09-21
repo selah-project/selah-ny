@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 140,
+  "translation": "Nditsunge, Yahwe, pa manja a woipa; nditeteze wochokera kwa munthu wa zankhanza, amene anazinga kunditsitsa mapazi anga.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Nditsunge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "pa manja a"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "woipa"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "wochokera kwa munthu wa"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "zankhanza"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "nditeteze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "anazinga"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "kunditsitsa"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "mapazi anga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:58.799905510Z",
+  "model": "glm-5.3"
+}

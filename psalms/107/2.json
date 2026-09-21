@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Woombolwa a Yahwe azinena, amene adawaombola m'dzanja la mdani;",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "azinena"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "woombolwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "adawaombola"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja"
+    },
+    {
+      "surface": "צר",
+      "gloss": "la mdani"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:12.525900694Z",
+  "model": "glm-5.3"
+}

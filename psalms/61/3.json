@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 61,
+  "translation": "Ku mapeto a dziko lapansi ndidzakuitana kwa iwe, pamene mtima wanga umandizungira; nditsogolere ku mwala wapatali woposa ine.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Ku mapeto"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a dziko lapansi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndidzakuitana"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "pamene mtima wanga umandizungira"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "⟨mtima wanga⟩"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ku mwala"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "wapatali"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "woposa ine"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "nditsogolere"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:04.458517526Z",
+  "model": "glm-5.3"
+}

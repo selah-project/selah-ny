@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo ⟨את⟩ mizi yawo yonse, m'malo mwawo okhala, ndi ⟨את⟩ maboma awo onse anayatsa ndi moto.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mizi yawo yonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "mizi yawo"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "m'malo mwawo okhala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "maboma awo onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "maboma awo"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "anayatsa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ndi moto"
+    }
+  ],
+  "timestamp": "2026-09-21T07:09:18.051809079Z",
+  "model": "glm-5.3"
+}

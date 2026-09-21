@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo Shauli anaona ⟨את⟩ Davide ndi diso la tchimo, kuchokera tsiku limenelo ndi kupitirira patali.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "עון",
+      "gloss": "tchimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "kuchokera tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "limenelo"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "ndi kupitirira patali"
+    }
+  ],
+  "timestamp": "2026-09-21T08:08:52.667022528Z",
+  "model": "glm-5.3"
+}

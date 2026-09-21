@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 69:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Odina ndi ine popanda chifukwa alipo ambiri koposa msanga wa mutu wanga; akukonda kunditsimangiza ali amphamvu, adani anga ndi bodza; zimene sindinaba, ndidzabweza.",
+  "tokens": [
+    {
+      "surface": "רבו",
+      "gloss": "alipo ambiri"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "msanga"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "wa mutu wanga"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "odina ndi ine"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "popanda chifukwa"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "ali amphamvu"
+    },
+    {
+      "surface": "מצמיתי",
+      "gloss": "akukonda kunditsimangiza"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "adani anga"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ndi bodza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi-"
+    },
+    {
+      "surface": "גזלתי",
+      "gloss": "ninaba"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ndipo pomwepo"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ndidzabweza"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:54.329574719Z",
+  "model": "glm-5.3"
+}

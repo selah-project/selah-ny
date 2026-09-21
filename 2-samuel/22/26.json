@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 22:26",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo ndi wachikhesedi umadzionetsera khesedi, ndi wamphamvu wathunthu umadzionetsera thunthu.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "wachikhesedi"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "umadzionetsera khesedi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "wamphamvu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "wathunthu"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "umadzionetsera thunthu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:28:40.685910009Z",
+  "model": "glm-5.3"
+}

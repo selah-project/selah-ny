@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 64:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 64,
+  "translation": "Nyumba yathu yopatulika ndi yaulemerero wathu, kumene makolo athu anakuyamikani, idakhala yakuyotchedwa ndi moto; ndi zokonda zathu zonse zidakhala zowonongeka.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Nyumba"
+    },
+    {
+      "surface": "קדשנו",
+      "gloss": "yopatulika yathu"
+    },
+    {
+      "surface": "ותפארתנו",
+      "gloss": "ndi yaulemerero wathu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kumene"
+    },
+    {
+      "surface": "הללוך",
+      "gloss": "anakuyamikani"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "makolo athu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "idakhala"
+    },
+    {
+      "surface": "לשרפת",
+      "gloss": "yakuyotchedwa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ndi moto"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi zonse"
+    },
+    {
+      "surface": "מחמדינו",
+      "gloss": "zokonda zathu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "zidakhala"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "zowonongeka"
+    }
+  ],
+  "timestamp": "2026-09-21T09:26:37.327194354Z",
+  "model": "glm-5.3"
+}

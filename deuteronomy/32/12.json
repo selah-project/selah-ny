@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Yahwe yekha anamutsogolera, ndipo palibe mulungu wachilendo pamodzi ndi iye.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "yekha"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "anamutsogolera"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamodzi ndi iye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mulungu"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wachilendo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:30:27.945031992Z",
+  "model": "glm-5.3"
+}

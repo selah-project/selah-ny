@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 43:8",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 43,
+  "translation": "Ndipo Yehudha anati kwa Yisraeli atate wake: “Mutumize mwana ameneyo ⟨את⟩ ndi ine, ndipo tiyamike ndi kuyenda, ndipo tikhale ndi moyo osati kufa — ife, komanso inu, komanso ana athu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atate wake"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "Mutumize"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mwana ameneyo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ndi ine"
+    },
+    {
+      "surface": "ונקומה",
+      "gloss": "tiyamike"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "tiyende"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "tikakhala ndi moyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "osati"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ife komanso"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "גם",
+      "gloss": "komanso"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "komanso"
+    },
+    {
+      "surface": "טפנו",
+      "gloss": "ana athu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:04:25.369330620Z",
+  "model": "glm-5.3"
+}

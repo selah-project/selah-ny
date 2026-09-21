@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo mfumu Shelomah anakonda ⟨את⟩ akazi ambiri achilendo, ndi ⟨את⟩ mwana wa Paro; akazi a ku Moabu, a ku Amoni, a ku Edomu, a ku Tsidoni, ndi a ku Hitimu.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ndipo mfumu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "anakonda"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "akazi"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "achilendo"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ambiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mwana wa Paro"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paro"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "a ku Moabu"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "a ku Amoni"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "a ku Edomu"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "a ku Tsidoni"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "a ku Hitimu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:40:59.805230250Z",
+  "model": "glm-5.3"
+}

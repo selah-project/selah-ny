@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo munthu aliwonse — ⟨את⟩ zopatulika zake zidzakhala zake; chinthu chimene munthu apereka kwa wansembe, chidzakhala chake.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ndipo munthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zopatulika zake"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "zopatulika zake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zake"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "zidzakhala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "apereka"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kwa wansembe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chake"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "chidzakhala"
+    }
+  ],
+  "timestamp": "2026-09-21T06:52:40.783551369Z",
+  "model": "glm-5.3"
+}

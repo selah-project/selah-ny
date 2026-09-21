@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Kodi kukula bwanji ubwino wako, umene wabisa kwa akukuopsa, umene wachitira akukudalira iwe, pamaso pa ana a anthu!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kodi kukula bwanji"
+    },
+    {
+      "surface": "רב",
+      "gloss": "⟨kukula bwanji⟩"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "ubwino wako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "wabisa"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "kwa akukuopsa"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "wachitira"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "akukudalira"
+    },
+    {
+      "surface": "בך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:33.942038493Z",
+  "model": "glm-5.3"
+}

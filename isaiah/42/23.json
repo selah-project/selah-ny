@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Ndani mwa inu adzamvera izi, adzayang'ana momvetsetsa ndi kumva zakudza m'tsogolo?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ndani"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mwa inu"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "adzamvera"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izi"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "adzayang'ana momvetsetsa"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ndi kumva"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "zakudza m'tsogolo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:17:41.819774490Z",
+  "model": "glm-5.3"
+}

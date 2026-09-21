@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Mawu a Yirimeyahu, mwana wa Chilkiyahu, mwa ansembe amene anali ku Anatoti, m'dziko la Binyamini.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Mawu a"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirimeyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Chilkiyahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene anali"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "ku Anatoti"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko la"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamini"
+    }
+  ],
+  "timestamp": "2026-09-21T09:27:51.767554200Z",
+  "model": "glm-5.3"
+}

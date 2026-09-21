@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo Yitro, m'tsibweni wa Moshe, anatenga ⟨את⟩ Tsipora, mkazi wa Moshe, pambuyo pa kum'pachikira kwake.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "m'tsibweni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "wa Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsipora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "wa Moshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pambuyo pa"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "kum'pachikira kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:16:22.040348862Z",
+  "model": "glm-5.3"
+}

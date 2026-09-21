@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo chinthu ichi chinakhala choonadi cholakwika; ndipo anthu anayenda patsogolo pa chimodzi chake, mpaka ku Dani.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "chinakhala"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chinthu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "choonadi cholakwika"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "patsogolo pa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "chimodzi chake"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka ku"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dani"
+    }
+  ],
+  "timestamp": "2026-09-21T13:08:53.581367823Z",
+  "model": "glm-5.3"
+}

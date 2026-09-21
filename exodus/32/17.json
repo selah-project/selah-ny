@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Yehoshuwa adamva ⟨את⟩ liu la anthu pokweza liu, nati kwa Moshe: “Liu la nkhondo muli mu msasa!”",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "adamva"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "liu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "la anthu"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "pokweza liu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "liu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "la nkhondo"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "muli mu msasa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:25:33.525007599Z",
+  "model": "glm-5.3"
+}

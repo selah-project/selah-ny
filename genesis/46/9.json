@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 46:9",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 46,
+  "translation": "Ndipo ana aamuna a Reuveni: Chanokhi, ndi Pallu, ndi Chetsroni, ndi Karmi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ndipo ana aamuna a"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuveni"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanokhi"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "ndi Pallu"
+    },
+    {
+      "surface": "וחצרון",
+      "gloss": "ndi Chetsroni"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "ndi Karmi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:04:26.511365633Z",
+  "model": "glm-5.3"
+}

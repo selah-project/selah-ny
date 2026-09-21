@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndipo anapangana ndi akulu ake ndi anthu amphamvu ake kuti atseke ⟨את⟩ madzi a akasupe amene anali kunja kwa mzinda; ndipo anamuthandiza.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "anapangana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "akulu ake"
+    },
+    {
+      "surface": "וגבריו",
+      "gloss": "ndi anthu amphamvu ake"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "kuti atseke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madzi"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "a akasupe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kunja"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kwa mzinda"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "ndipo anamuthandiza"
+    }
+  ],
+  "timestamp": "2026-09-21T12:50:20.272775367Z",
+  "model": "glm-5.3"
+}

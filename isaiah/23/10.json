@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Yendani m'dziko lanu monga Mtsinji, iwe mwana wamkazi wa Tarshishi; palibe chikwatulo komaso.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "Yendani"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "m'dziko lanu"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "monga Mtsinji"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "wa Tarshishi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "chikwatulo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "komaso"
+    }
+  ],
+  "timestamp": "2026-09-21T09:09:48.319025250Z",
+  "model": "glm-5.3"
+}

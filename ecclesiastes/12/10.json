@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Koheleti anafuna kupeza mawu okondweretsa, ndi cholembedwa moyenera — mawu a choonadi.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "anafuna"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Koheleti"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "kupeza"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "okondweretsa"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "ndi cholembedwa"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "moyenera"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "choonadi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:58:40.280842017Z",
+  "model": "glm-5.3"
+}

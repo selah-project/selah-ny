@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo anati: “Sunam'wononga, ndipo sunam'kankhula, ndipo sunatenga kanthu m'dzanja la munthu aliyense.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ndipo anati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "sunam'wononga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "sunam'kankhula"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "sunatenga"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "kanthu aliyense"
+    }
+  ],
+  "timestamp": "2026-09-21T08:05:36.106762448Z",
+  "model": "glm-5.3"
+}

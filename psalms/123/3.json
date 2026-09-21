@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 123,
+  "translation": "Chitichitire chifundo, Yahwe, chitichitire chifundo; pakuti kwambiri tafera nyoza.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Chitichitire chifundo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "chitichitire chifundo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "tafera"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "nyoza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:43.877222172Z",
+  "model": "glm-5.3"
+}

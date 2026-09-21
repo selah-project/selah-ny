@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Kwa woyang'anira, wa ana a Korahi, maskili ⟨ndakatulo yophunzitsa⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wa ana a"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskili ⟨ndakatulo yophunzitsa⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:31.476018488Z",
+  "model": "glm-5.3"
+}

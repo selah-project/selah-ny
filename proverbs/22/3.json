@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Wanzeru aona choipa ndikubisala; ndi opusa amapitirira, ndipo amalangidwa.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "wanzeru"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "aona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "ndikubisala"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "ndi opusa"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "amapitirira"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "ndipo amalangidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:25:24.208179462Z",
+  "model": "glm-5.3"
+}

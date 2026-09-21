@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 33:1",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Koma tsopano, iwe Iyobu, imva mawu anga, ndipo mawu anga onse mweruzi ⟨ndi khutu⟩.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "koma tsopano"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "imva"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨iwe⟩"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobu"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "mawu anga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo onse"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu anga"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "mweruzi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:43:49.763519083Z",
+  "model": "glm-5.3"
+}

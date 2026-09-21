@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 59,
+  "translation": "Koma iwe, Yahwe, udzaseka ndi iwo; udzachitira chipongwe anthu a mitundu onse.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Koma iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "udzaseka"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ndi iwo"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "udzachitira chipongwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku onse a"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "anthu a mitundu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:56.058366726Z",
+  "model": "glm-5.3"
+}

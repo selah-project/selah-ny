@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 44:22",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Ndawafafaniza monga m'dunda kusamalira kwathu kwanu, ndi monga mtambo machimo anu; bwererani kwa ine, pakuti ndinakukambukiran.",
+  "tokens": [
+    {
+      "surface": "מחיתי",
+      "gloss": "Ndawafafaniza"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "monga m'dunda"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "kusamalira kwathu kwanu"
+    },
+    {
+      "surface": "וכענן",
+      "gloss": "ndi monga mtambo"
+    },
+    {
+      "surface": "חטאותיך",
+      "gloss": "machimo anu"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "bwererani"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "גאלתיך",
+      "gloss": "ndinakukambukiran"
+    }
+  ],
+  "timestamp": "2026-09-21T09:19:41.162424675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Kumbukira zifundo zako, Yahwe, ndi khesedi zako, pakuti kuyambira nthawi yakale ndimo zilili.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "kumbukira"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "zifundo zako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "ndi khesedi zako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "kuyambira nthawi yakale"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ndimo zilili"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:21.394955372Z",
+  "model": "glm-5.3"
+}

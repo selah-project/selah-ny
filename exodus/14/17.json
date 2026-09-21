@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 14:17",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo Ine, taona, ndili kukhazikitsa ⟨את⟩ mtima wa Mitsrayimu, ndipo adzalowa m'mawa mwawo; ndipo ndidzalemekezedwa mwa Paro ndi m'gulu lake lonse, m'magalimende ake ndi m'akavalo ake.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ndipo Ine"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "taona"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "ndili kukhazikitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtima wa Mitsrayimu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayimu"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ndipo adzalowa"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "m'mawa mwawo"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "ndipo ndidzalemekezedwa"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "mwa Paro"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ndi m'gulu lake lonse"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "gulu lake lonse"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "m'magalimende ake"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "ndi m'akavalo ake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:14:38.434332865Z",
+  "model": "glm-5.3"
+}

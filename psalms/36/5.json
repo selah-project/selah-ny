@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Amawunikira tchimo pa bedi lake; amayimirira pa njira yathabwino; wochitsa sichidana nacho.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "tchimo"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "amawunikira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "bedi lake"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "amayimirira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yabwino"
+    },
+    {
+      "surface": "רע",
+      "gloss": "wochitsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sichi"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "dana nacho"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:07.974823191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Elohim adapatsa ⟨את⟩ Danieli khesedi ndi chifundo pamaso pa mfumu ya akapolo odziletsa.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "adapatsa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Danieli"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Danieli"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "khesedi"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "ndi chifundo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "akapolo odziletsa"
+    }
+  ],
+  "timestamp": "2026-09-21T12:02:18.626008783Z",
+  "model": "glm-5.3"
+}

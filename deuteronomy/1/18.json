@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo pa nthawi imeniyi ndinakulamulirani ⟨את⟩ inu ⟨את⟩ mawu onse amene mukhala kuchita.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "ndinakulamulirani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pa nthawi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "imeniyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "mukhala kuchita"
+    }
+  ],
+  "timestamp": "2026-09-21T07:14:12.199754323Z",
+  "model": "glm-5.3"
+}

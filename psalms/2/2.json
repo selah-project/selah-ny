@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Mafumu a dziko lapansi aimirira, ndipo olemekezwa anaphatikiza pamodzi, pa Yahwe ndi pa Mashiya wake,",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "aimirira"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Mafumu a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "ndipo olemekezwa"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "anaphatikiza pamodzi"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamodzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiya wake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:57.326211430Z",
+  "model": "glm-5.3"
+}

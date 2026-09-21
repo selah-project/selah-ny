@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ana a Shemu: Elamu, ndi Ashuru, ndi Arpakashadi, ndi Ludi, ndi Aramu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ana a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shemu"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elamu"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "ndi Ashuru"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "ndi Arpakashadi"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "ndi Ludi"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "ndi Aramu"
+    }
+  ],
+  "timestamp": "2026-09-21T05:45:53.593354063Z",
+  "model": "glm-5.3"
+}

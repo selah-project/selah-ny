@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo tinapemphera kwa Yahwe, Elohim wa makolo athu; ndipo Yahwe anamva ⟨את⟩ liu lathu, anaona ⟨את⟩ chisoni chathu ndi ⟨את⟩ ntchito zathu zovuta ndi ⟨את⟩ kupsinjika kwathu.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "tinapemphera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "makolo athu"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "anamva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liu lathu"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "liu lathu"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chisoni chathu"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "chisoni chathu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ntchito zathu zovuta"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "ntchito zathu zovuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "kupsinjika kwathu"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "kupsinjika kwathu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:26:04.143675977Z",
+  "model": "glm-5.3"
+}

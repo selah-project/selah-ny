@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo Yahwe anakutuma m'njira, ndipo anati: “Kuka, uononge ⟨את⟩ ochimwa, ⟨את⟩ Amaleki, ndipo uli ndi nkhondo ndi iwo, mpaka kuwathetsa iwo.”",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "anakutuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "m'njira"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo anati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "uononge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ochimwa"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "ochimwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleki"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "uli ndi nkhondo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ndi iwo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "kuwathetsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:07:20.877388831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Chipulumutsa, Yahwe, pakuti wolungama atha, pakuti okhulupirika aphwa mwa ana a anthu.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Chipulumutsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "atha"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "aphwa"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "okhulupirika"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "mwa ana a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:57.415372045Z",
+  "model": "glm-5.3"
+}

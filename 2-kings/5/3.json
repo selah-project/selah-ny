@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Nati kwa mbuye wake wamkazi: “Ah! Mbuye wanga akadakhala pamaso pa mneneri amene ali ku Shomroni, akadamuchotsera ⟨אתו⟩ ukachiremba wake.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Nati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "mbuye wake wamkazi"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Ah!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Mbuye wanga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mneneri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "ali ku Shomroni"
+    },
+    {
+      "surface": "אז",
+      "gloss": "⟨pamenepo⟩"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "akadamuchotsera"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ukachiremba wake"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "ukachiremba wake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:50:23.506713949Z",
+  "model": "glm-5.3"
+}

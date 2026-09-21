@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 103,
+  "translation": "Koma khesedi kwa Yahwe ndiko kuyambira ⟨nthawi⟩ yosatha mpaka nthawi yosatha, kwa iwo amuopswa Iye, ndi chilungamo chake kwa ana a ana.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "koma khesedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "kuyambira ⟨nthawi⟩ yosatha"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nthawi yosatha"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "iwo amuopswa Iye"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ndi chilungamo chake"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa ana a"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ana"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:48.293908059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 145,
+  "translation": "Ndipo mphamvu za zochititsa mantha zako adzanena, ndi ukulu wako ndidzachiulula.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "Ndipo mphamvu"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "za zochititsa mantha zako"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "adzanena"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "ndi ukulu wako"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "ndidzachiulula"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:05.319721425Z",
+  "model": "glm-5.3"
+}

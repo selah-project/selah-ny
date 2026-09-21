@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 139,
+  "translation": "Yeseni ine, El, ndipo dziwa mtima wanga; yezani ine ndipo dziwa maganizo anga.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "yeseni ine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "ndipo dziwa"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "yezani ine"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "ndipo dziwa"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "maganizo anga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:24.941450513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Njira zanu, Yahwe, ndidziwitse; mayendedwe anu ndiphunzitseni.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Njira zanu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "ndidziwitse"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "mayendedwe anu"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ndiphunzitseni"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:17.959559225Z",
+  "model": "glm-5.3"
+}

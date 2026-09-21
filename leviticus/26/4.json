@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "ndipo Ine ndidzakupatsani mvula yanu pa nthawi yake, ndipo dziko lapansi lidzapereka zolengedwa zake, ndipo mitengo ya kutchire idzapereka chipatso chake.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ndipo Ine ndidzakupatsani"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "mvula yanu"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "pa nthawi yake"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ndipo lidzapereka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "zolengedwa zake"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ndipo mitengo ya"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kutchire"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "idzapereka"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "chipatso chake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:58:24.814472763Z",
+  "model": "glm-5.3"
+}

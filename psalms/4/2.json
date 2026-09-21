@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Pakandiitana, yandiyankha, Elohim wa chilungamo changa; m'masautso unandipangasa ⟨malo⟩; ndichitire chisomo, ndipo mvera pemphero langa.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "Pakandiitana"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "yandiyankha"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "wa chilungamo changa"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "m'masautso"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "unandipangasa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨malo⟩ ine"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ndichitire chisomo"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ndipo mvera"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "pemphero langa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:43.978284056Z",
+  "model": "glm-5.3"
+}

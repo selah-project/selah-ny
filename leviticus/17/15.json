@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo munthu aliyense amene adadya nyama yofa yodzifera kapena yovutidwa ndi zilombo, m'wobadwa m'dziko ndi mwa mlendo, adasuka zovala zake nadzamba m'madzi, nakhala wodetsedwa mpaka madzulo, nayera.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "adadya"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "nyama yofa yodzifera"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "kapena yovutidwa ndi zilombo"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "m'wobadwa m'dziko"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "ndi mlendo"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "adasuka"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "zovala zake"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "nadzamba"
+    },
+    {
+      "surface": "במים",
+      "gloss": "m'madzi"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "nakhala wodetsedwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "madzulo"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "nayera"
+    }
+  ],
+  "timestamp": "2026-09-21T12:58:23.673817715Z",
+  "model": "glm-5.3"
+}

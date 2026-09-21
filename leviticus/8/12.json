@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo anathira ndi mafuta odzozera pa mutu wa Aroni, namdzozera ⟨את⟩ iye, kumuyeretsa.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "anathira"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ndi mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "odzozera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "wa Aroni"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "namdzozera"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "Aroni"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "kumuyeretsa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:34:56.978462926Z",
+  "model": "glm-5.3"
+}

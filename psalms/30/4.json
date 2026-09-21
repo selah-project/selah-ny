@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Yahwe, munanditsitsimutsa moyo wanga m'Sheoli, mundayesa moyo ⟨wa kusitsa⟩ m'khola.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "munanditsitsimutsa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "m'"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheoli"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "mundayesa moyo"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "⟨wa kusitsa⟩"
+    },
+    {
+      "surface": "בור",
+      "gloss": "m'khola"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:12.064175144Z",
+  "model": "glm-5.3"
+}

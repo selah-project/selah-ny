@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo mfumu ndi anthu onse anapereka nsembe pamaso pa Yahwe.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi anthu onse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu onse"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "anapereka nsembe"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T12:39:06.604152666Z",
+  "model": "glm-5.3"
+}

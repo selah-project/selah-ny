@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 26:8",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ana ako akazi m'munda adzaphedwa ndi lupanga; nadzayika pa iwe chizinga chankhondo, nadzathira pa iwe dothi la kuukiridwa, nadzayimiritsa pa iwe chishango.",
+  "tokens": [
+    {
+      "surface": "בנותיך",
+      "gloss": "ana ako akazi"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "m'munda"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ndi lupanga"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "adzaphedwa"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "nadzayika"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pa iwe"
+    },
+    {
+      "surface": "דיק",
+      "gloss": "chizinga chankhondo"
+    },
+    {
+      "surface": "ושפך",
+      "gloss": "nadzathira"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pa iwe"
+    },
+    {
+      "surface": "סללה",
+      "gloss": "dothi la kuukiridwa"
+    },
+    {
+      "surface": "והקים",
+      "gloss": "nadzayimiritsa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pa iwe"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "chishango"
+    }
+  ],
+  "timestamp": "2026-09-21T10:07:42.958326820Z",
+  "model": "glm-5.3"
+}

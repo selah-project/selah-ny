@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 1:40",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo anthu onse anamuka motsatira iye, ndipo anthu analira ziwinda za mbawa, nakondwera chimwemwe chachikulu, ndipo dziko linabwazika m'mawu awo.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "Ndipo anamuka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "motsatira iye"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ndipo anthu"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "analira ziwinda"
+    },
+    {
+      "surface": "בחללים",
+      "gloss": "za mbawa"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "nakondwera"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "chimwemwe"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "chachikulu"
+    },
+    {
+      "surface": "ותבקע",
+      "gloss": "ndipo dziko linabwazika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "m'mawu awo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:30:49.530818460Z",
+  "model": "glm-5.3"
+}

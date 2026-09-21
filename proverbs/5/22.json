@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Zolakwa zake zidzam’kora ⟨את⟩ woipa, ndipo m’madontho a machimo ake adzakhala wotenganidwa.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "zolakwa zake"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "zidzam’kora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "woipa"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "woipa"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "ndipo m’madontho a"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "machimo ake"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "adzakhala wotenganidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:18:17.107776019Z",
+  "model": "glm-5.3"
+}

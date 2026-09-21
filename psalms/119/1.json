@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Odala iwo olungama m'njira yao, amene amayenda m'Tora ⟨ya⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Odala"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "olungama"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "m'njira"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "amene amayenda"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "m'Tora ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:54.854568484Z",
+  "model": "glm-5.3"
+}

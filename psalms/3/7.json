@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Sindidzaopa maumi gulu la anthu, amene m'mphepete mwanga adayika okhazikika motsutsana ndi ine.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Sindi-"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "dzaopa"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "maumi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gulu la anthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "m'mphepete mwanga"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "adayika okhazikika"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "motsutsana ndi ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:18.100632540Z",
+  "model": "glm-5.3"
+}

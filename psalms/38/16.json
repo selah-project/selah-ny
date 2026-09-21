@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Pakuti ndinayembekezera inu, Yahwe; inu mudzayankha, Adonayi Elohim wanga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "inu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "ndinayembekezera"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inu"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "mudzayankha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:32.414329229Z",
+  "model": "glm-5.3"
+}

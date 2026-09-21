@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 79,
+  "translation": "Ndipo bwezeretsani kwa amalonda athu kachisanu ndi kawiri kaye m'matumba mwawu manyazi awo, amene anakunyozani inu, Adonayi.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "Ndipo bwezeretsani"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "kwa amalonda athu"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "kachisanu ndi kawiri kaye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "m'matumba mwawu"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "manyazi awo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "anakunyozani inu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:36.180727175Z",
+  "model": "glm-5.3"
+}

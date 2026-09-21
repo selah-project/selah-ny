@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Koma monga ⟨את⟩ mbawala ndi ⟨את⟩ nyalugwe zimenedzi, momwemonso mudzadya; wodetsa ndi woyera limodzi adzadya.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "koma"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "zimenedzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbawala"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "mbawala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyalugwe"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "nyalugwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "momwemonso"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "mudzadya"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "wodetsa"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "ndi woyera"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "limodzi"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "adzadya"
+    }
+  ],
+  "timestamp": "2026-09-21T07:20:24.387542646Z",
+  "model": "glm-5.3"
+}

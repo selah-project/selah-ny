@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 14:22",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo Yehuda anachita zoipa m'masompa a Yahwe, ndipo nam'kwiitsa ⟨את⟩ iye koposa zonse zimene makolo awo anachita, m'machimo awo amene anachimwira.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ndipo anachita"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "m'masompa a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויקנאו",
+      "gloss": "nam'kwiitsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "koposa zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "makolo awo"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "m'machimo awo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "anachimwira"
+    }
+  ],
+  "timestamp": "2026-09-21T08:42:13.797041149Z",
+  "model": "glm-5.3"
+}

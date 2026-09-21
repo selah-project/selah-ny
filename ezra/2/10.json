@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ana a Bani, zana zisanu ndi ziwiri ndi makumi anayi ndi ziwiri.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ana a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bani"
+    },
+    {
+      "surface": "שש",
+      "gloss": "zisanu ndi limodzi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "zana"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi anayi"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ndi ziwiri"
+    }
+  ],
+  "timestamp": "2026-09-21T12:11:15.625053917Z",
+  "model": "glm-5.3"
+}

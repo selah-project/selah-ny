@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Oh inu ana a anthu, mpaka liti ulemerero wanga udzachititsidwa manyazi? Mudzakonda chodola, ndipo kufunafuna bodza. Selahi.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a anthu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "liti"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ulemerero wanga"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "udzachititsidwa manyazi"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "mudzakonda"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "chodola"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "kufunafuna"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "bodza"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:43.978443377Z",
+  "model": "glm-5.3"
+}

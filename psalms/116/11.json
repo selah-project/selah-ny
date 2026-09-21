@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 116,
+  "translation": "Ine ndinati m'thamsa langa: “Munthu aliyense ndi wabodza.”",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndinati"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "m'thamsa langa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "wabodza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:05.190057273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo ine ndidzaononga ⟨את⟩ dziko ilo, ndipo adani anu akhale odabwa ndi lilo, iwo akhala mumalo mwake.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "Ndipo ndidzaononga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko ilo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko ilo"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "akhale odabwa ndi lilo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pa lilo"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "adani anu"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "iwo akhala"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mumalo mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:48:10.600593822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Mphango za mkango zimasowa ndi kumva njala, koma ofunafuna Yahwe sizisowa chinthu chabwino.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "Mphango za mkango"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "zimasowa"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "ndi kumva njala"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "koma ofunafuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "zisowa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chinthu chilichonse"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "chabwino"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:39.190717124Z",
+  "model": "glm-5.3"
+}

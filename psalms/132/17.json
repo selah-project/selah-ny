@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 132,
+  "translation": "Mmenepo ndidzameretsa nyanga ya Davide; ndinaika nyale ya Mashiya wanga.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Mmenepo"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "ndidzameretsa"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "nyanga"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Davide"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "ndinaika"
+    },
+    {
+      "surface": "נר",
+      "gloss": "nyale"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "ya Mashiya wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:42.308298856Z",
+  "model": "glm-5.3"
+}

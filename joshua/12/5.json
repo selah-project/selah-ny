@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 12:5",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndi kuweramulira pa phiri la Chermoni, m'Salkahi, ndi m'Bashani lonse, mpaka m'malembano a Igashuri ndi Amaakhati, ndi gawo limodzi ya Ghileadi — malembano a Sihoni, mfumu ya Cheshboni.",
+  "tokens": [
+    {
+      "surface": "ומשל",
+      "gloss": "ndi kuweramulira"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pa phiri la"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermoni"
+    },
+    {
+      "surface": "ובסלכה",
+      "gloss": "m'Salkahi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ndi m'"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashani lonse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "m'malembano"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "a Igashuri"
+    },
+    {
+      "surface": "והמעכתי",
+      "gloss": "ndi Amaakhati"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ndi gawo limodzi"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "a Ghileadi"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "malembano"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "a Sihoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshboni"
+    }
+  ],
+  "timestamp": "2026-09-21T07:39:02.074806425Z",
+  "model": "glm-5.3"
+}

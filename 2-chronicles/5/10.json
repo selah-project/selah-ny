@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 5:10",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "M'ngombo munali kanthu kosiyapo mbadwa ziwiri zimene Moshe anazikhazikitsa ku Horebu, zimene Yahwe anapanga pangano ndi ana a Yisraeli akutuluka mwa Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "munali kosiyapo"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "m'ngombo"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kosiyapo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "הלחות",
+      "gloss": "mbadwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anazikhazikitsa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ku Horebu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "akutuluka"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mwa Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:38:36.088348094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo asunge ⟨את⟩ chisunzo chake, ndi ⟨את⟩ chisunzo cha msonkhano wonse pamaso pa hema ya kudzana, kuti achitire ⟨את⟩ utumiki wa malo ake otseguka.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "ndipo asunge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chisunzo chake"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "chisunzo chake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chisunzo cha msonkhano wonse"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "chisunzo cha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "msonkhano"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema ya"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kudzana"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kuti achitire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utumiki"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "utumiki wa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "malo otseguka"
+    }
+  ],
+  "timestamp": "2026-09-21T06:50:28.226475239Z",
+  "model": "glm-5.3"
+}

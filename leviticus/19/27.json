@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Musadule mbali za mutu wanu, ndipo musononge ⟨את⟩ mbali ya ndevu zanu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "dulani"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "mbali za"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "mutu wanu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo musa"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "sonongani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbali ya ndevu zanu"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "mbali ya"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "ndevu zanu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:48.205142108Z",
+  "model": "glm-5.3"
+}

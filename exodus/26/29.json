@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 26:29",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo udzafunda ⟨את⟩ mapango ndi golide, ndipo ⟨את⟩ mabanga awo udzapanga agolide, malo a zitsindo zawo; ndipo udzafunda ⟨את⟩ zitsindo zawo golide.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "mapango"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "mapango"
+    },
+    {
+      "surface": "תצפה",
+      "gloss": "udzafunda"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "mabanga awo"
+    },
+    {
+      "surface": "טבעתיהם",
+      "gloss": "mabanga awo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "udzapanga"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "agolide"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "malo"
+    },
+    {
+      "surface": "לבריחם",
+      "gloss": "a zitsindo zawo"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ndipo udzafunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zitsindo zawo"
+    },
+    {
+      "surface": "הבריחם",
+      "gloss": "zitsindo zawo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    }
+  ],
+  "timestamp": "2026-09-21T06:20:52.845518709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Ndipo Yahwe adati: “Taonani, pali malo ⟨את⟩ kwa ine, ndipo udzayimirira pa thanthwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Taonani"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "malo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kwa ine"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "udzayimirira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "thanthwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:24:20.794204168Z",
+  "model": "glm-5.3"
+}

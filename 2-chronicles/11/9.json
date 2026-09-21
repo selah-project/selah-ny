@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "ndi ⟨את⟩ Adorayimu, ndi ⟨את⟩ Lakhishi, ndi ⟨את⟩ Azekaha",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Adorayimu"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "Adorayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Lakhishi"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakhishi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Azekaha"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azekaha"
+    }
+  ],
+  "timestamp": "2026-09-21T12:39:15.946502886Z",
+  "model": "glm-5.3"
+}

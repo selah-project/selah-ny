@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 9:14",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo ndi ⟨את⟩ Sabata lako lapatulika unawadziwitsa, ndi malamudo ndi michero ndi Tora unawalamulira m'dzanja la Moshe, kapolo wako.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabata"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "lako lapatulika"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "unawadziwitsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "ומצוות",
+      "gloss": "ndi malamudo"
+    },
+    {
+      "surface": "וחקים",
+      "gloss": "ndi michero"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "ndi Tora"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "unawalamulira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kapolo wako"
+    }
+  ],
+  "timestamp": "2026-09-21T12:19:54.872922138Z",
+  "model": "glm-5.3"
+}

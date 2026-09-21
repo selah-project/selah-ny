@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 63,
+  "translation": "Koma iwo, olonda kuwononga moyo wanga, adzalowa m'malo otsika a dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "koma iwo"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "kuwononga"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "olonda"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "adzalowa"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "m'malo otsika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:20.914032346Z",
+  "model": "glm-5.3"
+}

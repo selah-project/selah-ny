@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 142,
+  "translation": "Mawu anga kwa Yahwe ndikulira, mawu anga kwa Yahwe ndikupempha chifundo.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Mawu anga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ndikulira"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mawu anga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ndikupempha chifundo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:17.919264223Z",
+  "model": "glm-5.3"
+}

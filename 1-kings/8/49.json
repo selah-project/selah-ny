@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 8:49",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo umve kumwamba, malo anu okhala, ⟨את⟩ kupemphera kwawo ndi ⟨את⟩ pemphero chifundo chawo, ndipo uchitire chiweruzo chawo.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "umve"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "malo anu okhala"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "(anu okhala)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kupemphera kwawo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "kupemphera kwawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "pemphero chifundo chawo"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "pemphero chifundo chawo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ndipo uchitire"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "chiweruzo chawo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:35:56.603208924Z",
+  "model": "glm-5.3"
+}

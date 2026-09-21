@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Elohim ndi woweruza wolungama, ndipo El akwiya tsiku ndi tsiku.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "woweruza"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "akwiya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tsiku ndi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    }
+  ],
+  "timestamp": "2026-09-21T10:39:47.951131041Z",
+  "model": "glm-5.3"
+}

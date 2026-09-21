@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndiipo mfumu inati: “Tembenukani, yimirirani apa.” Ndiipo anatembenuka naye anayimirira.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "inati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "סב",
+      "gloss": "Tembenukani"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "yimirirani"
+    },
+    {
+      "surface": "כה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "anatembenuka"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "anayimirira"
+    }
+  ],
+  "timestamp": "2026-09-21T08:26:38.038878016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Mwa iwe, Yahwe, ndathawira; musandichititse manyazi ku nthawi zonse; m'chilungamo chako ndipulumutse.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Mwa iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ndathawira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musandi-"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "chititse manyazi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "m'chilungamo chako"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "ndipulumutse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:46.138193357Z",
+  "model": "glm-5.3"
+}

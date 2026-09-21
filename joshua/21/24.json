@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ayaloni ndi ⟨את⟩ midzi yake yozungulira, ⟨את⟩ Gati-Rimmoni ndi ⟨את⟩ midzi yake yozungulira — mizera inayi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayaloni"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayaloni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "midzi yake yozungulira"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "midzi yake yozungulira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gati-Rimmoni"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gati"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "midzi yake yozungulira"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "midzi yake yozungulira"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mizera"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "inayi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:42:30.496110755Z",
+  "model": "glm-5.3"
+}

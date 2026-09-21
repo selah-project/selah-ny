@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo anaweruza ⟨את⟩ Yisraeli m'masiku a Afilisti zaka makumi awiri.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "anaweruza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "m'masiku"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a Afilisti"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi awiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    }
+  ],
+  "timestamp": "2026-09-21T07:54:24.906209728Z",
+  "model": "glm-5.3"
+}

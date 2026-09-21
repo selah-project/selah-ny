@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 19:3",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo mudzapatsa ⟨את⟩ yake kwa Elazara wansembe, ndipo adzatulutsa ⟨את⟩ yake kunja kwa msasa, ndipo adzapha ⟨את⟩ yake pamaso pake.",
+  "tokens": [
+    {
+      "surface": "ונתתם",
+      "gloss": "mudzapatsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yake",
+      "marks": "yake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazara"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "adzatulutsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yake",
+      "marks": "yake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kunja"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kwa msasa"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "adzapha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yake",
+      "marks": "yake"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pamaso pake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:03:34.501295910Z",
+  "model": "glm-5.3"
+}

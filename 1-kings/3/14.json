@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo ugwire njira zachifumu usunge malamulo anga ndi malamuliro anga, monga anayendera Dawidi atate wako, ndidzaonjeza ⟨את⟩ masiku ako.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ndipo ugwire"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "njira zachifumu"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "njira zanga"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "usunge"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "malamulo anga (achikhazikitso)"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "malamuliro anga"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "anayendera"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atate wako"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "ndidzaonjeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masiku ako"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "masiku ako"
+    }
+  ],
+  "timestamp": "2026-09-21T08:31:33.977581978Z",
+  "model": "glm-5.3"
+}

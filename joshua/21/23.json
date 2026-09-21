@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo kufuma m'chigwa cha Dani, ⟨את⟩ Eltekeyi ndi ⟨את⟩ midzi yake yozungulira, ⟨את⟩ Gibetiyoni ndi ⟨את⟩ midzi yake yozungulira.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ndipo kufuma m'chigwa cha"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eltekeyi"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "Eltekeyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "midzi yake yozungulira"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "midzi yake yozungulira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibetiyoni"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Gibetiyoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "midzi yake yozungulira"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "midzi yake yozungulira"
+    }
+  ],
+  "timestamp": "2026-09-21T07:42:30.495966521Z",
+  "model": "glm-5.3"
+}

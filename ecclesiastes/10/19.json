@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Kuseketsa kumapanga chakudya, ndi vinyo kumaseketsa moyo, ndipo siliva imayankha ⟨את⟩ zonse.",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "kuseketsa"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "kumapanga"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chakudya"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ndi vinyo"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "kumaseketsa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "ndipo siliva"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "imayankha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T13:31:39.677115864Z",
+  "model": "glm-5.3"
+}

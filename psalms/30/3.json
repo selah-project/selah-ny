@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Yahwe Elohim wanga, ndinalira kwa Inu, ndipo munandichiritsa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ndinalira"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa Inu"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "ndipo munandichiritsa"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:39.437024127Z",
+  "model": "glm-5.3"
+}

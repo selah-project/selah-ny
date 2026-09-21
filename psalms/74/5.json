@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 74,
+  "translation": "Adziwika ⟨monga⟩ wolowera kumusoro, mu chikhalire cha mitengo — mapanga.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "adziwika"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "monga wolowera"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "kumusoro"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "mu chikhalire"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "cha mitengo"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "mapanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:51.012430741Z",
+  "model": "glm-5.3"
+}

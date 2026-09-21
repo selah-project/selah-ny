@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 77,
+  "translation": "Ndidzakumbukira ntchito za Yah; chifukwa chake ndidzakumbukira zodabwitsa zako zakale.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "ndidzakumbukira"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "יה",
+      "gloss": "za Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa chake"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ndidzakumbukira"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "zakale"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "zodabwitsa zako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:39.167038858Z",
+  "model": "glm-5.3"
+}

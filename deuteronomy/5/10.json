@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo wochitira khesedi kwa mibadwo yapansi ya zikwi, kwa akonda iye, ndi akasunga malamulo ake.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ndipo wochitira"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesedi"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "kwa mibadwo yapansi ya zikwi"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "kwa akonda iye"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "ndi akasunga"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "malamulo ake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:15:14.914069716Z",
+  "model": "glm-5.3"
+}

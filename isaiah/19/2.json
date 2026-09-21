@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo ndidzawasokeranitsa Amtsurayimu ndi Amtsurayimu, ndipo adzalimbana munthu ndi m'bale wake, ndi munthu ndi mnansi wake, mzinda ndi mzinda, ufumu ndi ufumu.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "ndipo ndidzawasokeranitsa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Amtsurayimu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ndi Amtsurayimu"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "ndipo adzalimbana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "ndi m'bale wake"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ndi munthu"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "ndi mnansi wake"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ndi mzinda"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "ufumu"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "ndi ufumu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:08:34.701084176Z",
+  "model": "glm-5.3"
+}

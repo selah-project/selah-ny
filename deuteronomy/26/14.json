@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 26:14",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Sindinadya mwa ichi pa chisoni changa, ndipo sindinachotse mwa ichi podetsedwa, ndipo sindinapatsa mwa ichi kwa wakufa; ndinamvera liwu la Yahwe, Elohim wanga, ndipo ndinachita monga zonse zimene munandilamula.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sindi-"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "ndinadya"
+    },
+    {
+      "surface": "באני",
+      "gloss": "pa chisoni changa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mwa ichi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sindi-"
+    },
+    {
+      "surface": "בערתי",
+      "gloss": "ndinachotse"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mwa ichi"
+    },
+    {
+      "surface": "בטמא",
+      "gloss": "podetsedwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sindi-"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndinapatsa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mwa ichi"
+    },
+    {
+      "surface": "למת",
+      "gloss": "kwa wakufa"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndinamvera"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "liwu la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndinachita"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "monga zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "צויתני",
+      "gloss": "munandilamula"
+    }
+  ],
+  "timestamp": "2026-09-21T07:27:42.660505518Z",
+  "model": "glm-5.3"
+}

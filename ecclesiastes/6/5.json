@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ngakhale dzuwa silinaone, sanadziwe ⟨ichoke⟩; wakhalibe mphumulo woposa <yesamenya>. Correction follows in tokens.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ngakhale"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "dzuwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "anaone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dziwe"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "mphumulo"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "wa uyu"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kuposa uja"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:39.066345723Z",
+  "model": "glm-5.3"
+}

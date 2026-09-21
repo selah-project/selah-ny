@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 137,
+  "translation": "Pakuti kumeneko amene anatipasa u Humphando anatifunsa mawu a nyimbo, ndi ohukumnzathu anatifunsa chimwemwe, nati: “Imbani ife nyimbo ya Tsiyoni.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "anatifunsa"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "amene anatipasa u Humphando"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "a nyimbo"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "ndi ohukumnzathu"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "chimwemwe"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "imbani"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "nyimbo ya"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:25.409176168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Masa wa Bhabhuloni, umene Yeshayahu mwana wa Amotsi anaona.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Masa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "wa Bhabhuloni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "wa Amotsi"
+    }
+  ],
+  "timestamp": "2026-09-21T09:06:53.623088782Z",
+  "model": "glm-5.3"
+}

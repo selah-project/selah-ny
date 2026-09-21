@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 80,
+  "translation": "Yahwe Elohim Tsevaoti, titsutsenso; nyalitsa nkhope yako, ndipo tipulumutsidwe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "titsutsenso"
+    },
+    {
+      "surface": "האר",
+      "gloss": "nyalitsa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nkhope yako"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "ndipo tipulumutsidwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:34.298175630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 8:6",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Pakuti chomwechi chili cha Yisraeli; wopanga zinthu ndiye anachipanga, ndipo sichina Elohim; pakuti mwana wa ng'ombe wa Shomeroni udzakhala zidakatula.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "cha Yisraeli"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "wopanga zinthu"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "anachipanga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sichina"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chi-"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "שבבים",
+      "gloss": "zidakatula"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "udzakhala"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "mwana wa ng'ombe"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "wa Shomeroni"
+    }
+  ],
+  "timestamp": "2026-09-21T10:23:11.740399579Z",
+  "model": "glm-5.3"
+}

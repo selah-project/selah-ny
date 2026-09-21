@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Nadzatembetsa ⟨את⟩ nyumba ndi miyala yofunika kuti ikongole; ndipo golidewo anali golide wa Parvayimu.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "nadzatembetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "miyala"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "yofunika"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "kuti ikongole"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ndipo golidewo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "wa Parvayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:38:11.061809593Z",
+  "model": "glm-5.3"
+}

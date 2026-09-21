@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndipo ndinatenga ⟨את⟩ buku la kugula, ⟨את⟩ lotsekedwa, lamalamulo ndi maziko, ndi ⟨את⟩ lotsegulidwa.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "ndinatenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buku la kugula"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buku"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "la kugula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lotsekedwa"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "lotsekedwa"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "lamalamulo"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "maziko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "lotsegulidwa"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "lotsegulidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:43:38.259806479Z",
+  "model": "glm-5.3"
+}

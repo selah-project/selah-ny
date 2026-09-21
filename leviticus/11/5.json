@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo ⟨את⟩ shafani, chifukwa iye amakweza cholowera, koma chidole sachipatura; wodetsa iye kwa inu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "shafani"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "shafani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "amakweza"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "cholowera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "ndipo chidole"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "chipatura"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "wodetsa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:58:40.338329792Z",
+  "model": "glm-5.3"
+}

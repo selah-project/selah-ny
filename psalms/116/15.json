@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 116,
+  "translation": "Wofunika m'maso a Yahwe ndi imfa ya olungama ake.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "wofunika"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "m'maso a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "imfa ya"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "olungama ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:22.393443242Z",
+  "model": "glm-5.3"
+}

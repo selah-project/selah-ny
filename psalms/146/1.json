@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 146,
+  "translation": "Lembedzani Yahwe; moyo wanga ulemetse ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lembedzani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "ulemetse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:48.289380324Z",
+  "model": "glm-5.3"
+}

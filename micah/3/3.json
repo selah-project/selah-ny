@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Iwo amadya inyama ya anthu ake, ndipo khungu lao amachotsera pa iwo, ndipo ⟨את⟩ mafupa awo amaswa namagawa monga zinthu za m’mbiya, ndi monga nyama mkati mwa chidindo.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Iwo amene"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "amadya"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "inyama ya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "anthu ake"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "ndipo khungu lao"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "pa iwo"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "amachotsera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "mafupa awo"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "amaswa"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "namagawa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "za m’mbiya"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "ndi monga nyama"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mkati mwa"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "chidindo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:29:58.057352303Z",
+  "model": "glm-5.3"
+}

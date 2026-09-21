@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 143,
+  "translation": "Ndiphunzitsa kuchita zokondweretsa chanu, pakuti Inu ndinu Eloha wanga; mzimu wanu wabwino unditsogolere mu dziko lopingasa.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "Ndiphunzitsa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuchita"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "zokondweretsa chanu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Inu"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloha wanga"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "mzimu wanu"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "wabwino"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "unditsogolere"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu dziko"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "lopingasa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:43.524274561Z",
+  "model": "glm-5.3"
+}

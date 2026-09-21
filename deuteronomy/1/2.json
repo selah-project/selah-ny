@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Masiku khumi ndi modzi ⟨ulendo⟩ kuchoka ku Horebi, ndi njira ya phiri la Seiri, kufikira Kadeshi Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ndi modzi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "kuchoka ku Horebi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njira ya"
+    },
+    {
+      "surface": "הר",
+      "gloss": "phiri la"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seiri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadeshi"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-09-21T07:14:06.892887677Z",
+  "model": "glm-5.3"
+}

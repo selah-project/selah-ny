@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndi ⟨את⟩ Reseni, pakati pa Ninive ndi pakati pa Kelahi; imeneyo ndiyo mzinda wamkulu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Reseni"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Reseni"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelahi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "imeneyo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "wamkulu"
+    }
+  ],
+  "timestamp": "2026-09-21T05:46:08.148678826Z",
+  "model": "glm-5.3"
+}

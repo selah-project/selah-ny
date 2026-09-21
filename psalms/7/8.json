@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo msonkhano wa mitundu uzikuzungulira; ndipo pa iwo, kumwamba kwenikweni, bwererera ⟨kumwamba⟩.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "Ndipo msonkhano"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "wa mitundu"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "uzikuzungulira"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "ndipo pa iwo"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "kumwamba kwenikweni"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "bwererera"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:35.159666409Z",
+  "model": "glm-5.3"
+}

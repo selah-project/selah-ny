@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo wansembe adzaikadi ⟨את⟩ iyayi pakati pa chabwino ndi pakati pa choyipa; monga momwe wansembe waiikira, momwemo chidzakhala.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "adzaikadi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyayi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "chabwino"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "choyipa"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "monga momwe waiikira"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "momwemo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "chidzakhala"
+    }
+  ],
+  "timestamp": "2026-09-21T06:48:42.282767974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 31:9",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo adameta ⟨את⟩ mutu wake, ndipo adavula ⟨את⟩ zida zake, ndipo atumiza m'dziko la Afilistimu kuzungulira, kulalikira ⟨nkhani⟩ m'nyumba ya mafano awo ndi ⟨את⟩ anthu.",
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "adameta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutu wake"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mutu wake"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "adavula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zida zake"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zida zake"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "atumiza"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "la Afilistimu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kuzungulira"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "kulalikira ⟨nkhani⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ya mafano awo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:16:18.912266332Z",
+  "model": "glm-5.3"
+}

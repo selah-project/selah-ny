@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 8:15",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo kunatha kudzalo, natenga chophimba, namizira m'madzi, nautambasula pa nkhope yake, nafa; ndipo Chazaeli anachita mfumu m'malo mwake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kunatha"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "kudzalo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "natenga"
+    },
+    {
+      "surface": "המכבר",
+      "gloss": "chophimba"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "namizira"
+    },
+    {
+      "surface": "במים",
+      "gloss": "m'madzi"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "nautambasula"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "nkhope yake"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "nafa"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "anachita mfumu"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Chazaeli"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "m'malo mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:51:35.290725753Z",
+  "model": "glm-5.3"
+}

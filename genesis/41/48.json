@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "genesis 41:48",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Ndipo anasonkhaza ⟨את⟩ chakudya chonse cha zaka zisanu ndi ziwiri zimo zinali m'dziko la Mitsrayimu, nakhazikitsa chakudya m'mizi; chakudya cha munda wa mudzi uliwonse womuzungulira anaika m'menemu.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "anasonkhaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chakudya chonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chonse"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "chakudya"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zisanu ndi ziwiri"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "zinali"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nakhazikitsa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "chakudya"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "m'mizi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "chakudya"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "cha munda"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wa mudzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "womuzungulira"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "kuzungulira"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anaika"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "m'menemu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:02:38.705935138Z",
+  "model": "glm-5.3"
+}

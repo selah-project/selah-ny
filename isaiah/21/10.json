@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Wolanda wanga, ndi mwana wa liwiro langa; zimene ndinamva kwa ⟨את⟩ Yahwe Tsevaoti, Elohim wa Yisraeli, ndawauza kwa inu.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "Wolanda wanga"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ndi mwana"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "wa liwiro langa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndinamva"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kwa ⟨את⟩",
+      "marks": "Yahwe Tsevaoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ndawauza"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:07:46.097721832Z",
+  "model": "glm-5.3"
+}

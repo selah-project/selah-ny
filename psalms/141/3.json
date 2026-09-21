@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 141,
+  "translation": "Ika, Yahwe, chitetezo pamlomo mwanga; sunga khomo la milomo yanga.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Ika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "chitetezo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "pamlomo mwanga"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "sunga"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "דל",
+      "gloss": "khomo"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "milomo yanga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:53.697195576Z",
+  "model": "glm-5.3"
+}

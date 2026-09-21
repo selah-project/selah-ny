@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo zidzakhala chonyansa kwa inu; nyama yawo simudzadya, ndipo ⟨את⟩ khondo lawo mudzaiona ndi chonyansa.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "ndipo zidzakhala chonyansa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "zidzakhala"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "nyama yawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "simudzadya — si"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "simudzadya — mudzadya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "khondo lawo"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "mudzaiona ndi chonyansa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:33:54.250530045Z",
+  "model": "glm-5.3"
+}

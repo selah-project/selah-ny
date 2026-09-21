@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Achazi anabala ⟨את⟩ Yarah; ndipo Yarah anabala ⟨את⟩ Alemeti ndi ⟨את⟩ Azimaveti ndi ⟨את⟩ Zimri; ndipo Zimri anabala ⟨את⟩ Motsa.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "Ndipo Achazi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarah"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "Yarah"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "ndipo Yarah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemeti"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemeti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Azimaveti"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azimaveti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Zimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "ndipo Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    }
+  ],
+  "timestamp": "2026-09-21T12:26:25.070112987Z",
+  "model": "glm-5.3"
+}

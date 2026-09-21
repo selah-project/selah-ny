@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo chifukwa chiyani munabweretsa ⟨את⟩ gulu la Yahwe ku chipululu ili, kuti tife ife ndi nyama zathu kumeneko?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "chifukwa chiyani"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "munabweretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gulu la Yahwe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "gulu la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "chipululu ili"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ili"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kuti tife"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "ndi nyama zathu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:02:59.108155512Z",
+  "model": "glm-5.3"
+}

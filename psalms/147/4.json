@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 147,
+  "translation": "akuwerenga chiwerengero cha nyenyezi, kwa izonse amatcha mayina.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "akuwerenga"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "chiwerengero"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "cha nyenyezi"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "kwa izonse"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mayina"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "amatcha"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:02.701527272Z",
+  "model": "glm-5.3"
+}

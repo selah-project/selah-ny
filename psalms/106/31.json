@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Ndipo zinawerengedwa kwa iye kukhala chilungamo, kwa mibadwo ndi mibadwo, mpaka ku nthawi zosatha.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "zinawerengedwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "ukhale chilungamo"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwa mibadwo"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ndi mibadwo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka ku"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nthawi zosatha"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:00.973887175Z",
+  "model": "glm-5.3"
+}

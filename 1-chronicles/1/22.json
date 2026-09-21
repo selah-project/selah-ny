@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "ndi ⟨את⟩ Evali, ndi ⟨את⟩ Avimaeli, ndi ⟨את⟩ Sheva",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Evali"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Evali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Avimaeli"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avimaeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-09-21T12:22:25.026757887Z",
+  "model": "glm-5.3"
+}

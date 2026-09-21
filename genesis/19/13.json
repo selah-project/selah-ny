@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 19:13",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "chifukwa ife tidzawononga ⟨את⟩ malo amenewa, chifukwa kulira kwawo kukuliratu ⟨את⟩ pamaso pa Yahwe, ndipo Yahwe watituma kuti tiwononge.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "משחתים",
+      "gloss": "tidzawononga"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malo amenewa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "malo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "amenewa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "kukuliratu"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "kulira kwawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pamaso pa Yahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pamaso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישלחנו",
+      "gloss": "watituma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשחתה",
+      "gloss": "kuti tiwononge"
+    }
+  ],
+  "timestamp": "2026-09-21T12:54:00.063740264Z",
+  "model": "glm-5.3"
+}

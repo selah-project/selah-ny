@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 80,
+  "translation": "Nkhulu ya ku mtengo ichiononga, ndi kanthawa ka za m'bwalo kadyawo.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "ichiononga"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "nkhulu"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "ya ku mtengo"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "ndi kanthawa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "za m'bwalo"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "kadyawo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:28.138054359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 55,
+  "translation": "Zonama zili m'mkati mwake; ndipo chisuzo ndi chinyengo sichichoka m'miseu yake.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "zonama"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "m'mkati mwake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sichichoka"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "kusachoka"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "m'miseu yake"
+    },
+    {
+      "surface": "תך",
+      "gloss": "chisuzo"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "ndi chinyengo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:58.827448306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo udzatenga ⟨את⟩ zovala, ndipo udzavala ⟨את⟩ Aharon ⟨את⟩ kutonetu, ndi ⟨את⟩ meili wa efodi, ndi ⟨את⟩ efodi, ndi ⟨את⟩ chosheni, ndipo udzamumanga ndi chingwe cha efodi.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "udzatenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zovala"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "zovala"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "udzavala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutonetu"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "kutonetu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "meili",
+      "marks": "meili"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "wa efodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodi",
+      "marks": "efodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "chosheni",
+      "marks": "chosheni"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "udzamumanga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "ndi chingwe cha"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:21:43.595882162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Pakuti moyo wathu wagwadira phulusa, mimba yathu yamata ndi dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "wagwadira"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "phulusa"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "moyo wathu"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "yamata"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ndi dziko lapansi"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "mimba yathu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:50.902372229Z",
+  "model": "glm-5.3"
+}

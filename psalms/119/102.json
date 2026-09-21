@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ndapatukana ndi miweruzo yako; chifukwa iwe ndandiphunzitsa.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "ndi miweruzo yako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "ndapatukana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "ndandiphunzitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:24.564854560Z",
+  "model": "glm-5.3"
+}

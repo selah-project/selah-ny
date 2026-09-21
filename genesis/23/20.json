@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo unakhazikika mundawo, ndi phanga lili mmenemo, kwa Avraham kukhala cholowa cha manda, mwa ⟨את⟩ ana a Heti.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "unakhazikika"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "mundawo"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "ndi phanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mmenemo"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kwa Avraham"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "kukhala cholowa cha"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "manda"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mwa ⟨את⟩",
+      "marks": "ana a Heti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heti"
+    }
+  ],
+  "timestamp": "2026-09-21T05:51:05.219265389Z",
+  "model": "glm-5.3"
+}

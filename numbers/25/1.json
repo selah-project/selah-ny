@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 25:1",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo Yisraeli anakhala ku Shitimi, ndipo anthu anayamba kujambula kwa ana akazi a Moabu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בשטים",
+      "gloss": "ku Shitimi"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "anayamba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "kujambula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ana akazi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "a Moabu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:04:58.621197525Z",
+  "model": "glm-5.3"
+}

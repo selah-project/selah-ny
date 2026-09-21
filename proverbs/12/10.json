@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Wolungama amadziwa moyo wa nyama yake, koma zifundo za anthu oipa nizo zoopsa.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "amadziwa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "wa nyama yake"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "koma zifundo za"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "anthu oipa"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "zoopsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:21:27.595036499Z",
+  "model": "glm-5.3"
+}

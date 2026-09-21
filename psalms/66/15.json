@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 66,
+  "translation": "Nsembe zopsereza zamafuta ndidzakuperekera kwa iwe, pamodzi ndi fumo la nkhosa zamphongo; ndidzachita ng'ombe pamodzi ndi mbuzi amuna. Selah.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "nsembe zopsereza"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "zamafuta"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ndidzakuperekera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "fumo"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "la nkhosa zamphongo"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndidzachita"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "mbuzi amuna"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:56.290089800Z",
+  "model": "glm-5.3"
+}

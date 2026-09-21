@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 20:18",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo munthu amene adzagona ndi ⟨את⟩ mkazi wodwala, ndipo wawulula ⟨את⟩ maliseche ake: ⟨את⟩ gwero lake wawulula, ndipo iye wawulula ⟨את⟩ gwero la magazi ake; adzadulidwa iwo onse awiri m'mdzi mwa anthu awo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ndipo munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "adzagona"
+    },
+    {
+      "surface": "את",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mkazi wodwala"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "wodwala"
+    },
+    {
+      "surface": "וגלה",
+      "gloss": "ndipo wawulula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maliseche ake"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "maliseche ake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gwero lake"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "gwero lake"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "wawulula"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ndipo iye"
+    },
+    {
+      "surface": "גלתה",
+      "gloss": "wawulula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gwero la magazi ake"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "gwero"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "la magazi ake"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "adzadulidwa"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "iwo onse awiri"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "m'mdzi mwa"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "anthu awo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:43:31.740984630Z",
+  "model": "glm-5.3"
+}

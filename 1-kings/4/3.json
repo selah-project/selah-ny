@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 4:3",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Elichorefu ndi Achiya, ana a Shisha, olemba; Yehoshafat mwana wa Achiludi, wokumbukira.",
+  "tokens": [
+    {
+      "surface": "אליחרף",
+      "gloss": "Elichorefu"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "ndi Achiya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "שישא",
+      "gloss": "Shisha"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "olemba"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Achiludi"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "wokumbukira"
+    }
+  ],
+  "timestamp": "2026-09-21T08:31:54.192152714Z",
+  "model": "glm-5.3"
+}

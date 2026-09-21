@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Indetu, ngati ndiyenda m'chigwa cha mthunzi wa imfa, sindidzaopa choipa; pakuti iwe uli ndi ine; ndodo yako ndi chinthu chodyeretsa chako, ndizo zonditonthoza.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "indetu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ndiyenda"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "m'chigwa"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "cha mthunzi wa imfa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ndidzaopa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "uli ndi ine"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "ndodo yako"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "ndi chinthu chodyeretsa chako"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ndizo"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "zonditonthoza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:26.244940630Z",
+  "model": "glm-5.3"
+}

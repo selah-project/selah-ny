@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo wansembe anayankha ⟨את⟩ Davide nati: “Palibe mkate wamba m'manja mwanga, koma mkate wopatulika ulipo; ngati anyamatawo adadzisunga okha kuchokera ku akazi.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "anayankha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "חל",
+      "gloss": "wamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "m'manja"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mwanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "wopatulika"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ulipo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "adadzisunga"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "anyamatawo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "okha"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "kuchokera ku akazi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:12:37.499234896Z",
+  "model": "glm-5.3"
+}

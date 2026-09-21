@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Pakuti munthu aliyense amene amatukwana ⟨את⟩ ababo ake ndi ⟨את⟩ amake — adzamwalira, ndithu adzamwalira; ababo ake ndi amake adawatukwana; mwazi wake uli pa iye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "amatukwana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ababo ake"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ababo ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "amake"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "amake"
+    },
+    {
+      "surface": "מות",
+      "gloss": "adzamwalira"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ndithu adzamwalira"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ababo ake"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ndi amake"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "adawatukwana"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "mwazi wake"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:44.095254663Z",
+  "model": "glm-5.3"
+}

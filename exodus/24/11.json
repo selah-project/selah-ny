@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Koma pa atsogoleri a ana a Yisraeli sanatambolere dzanja lake; ndipo anaona ⟨את⟩ Elohim, ndipo anadya ndi anamwa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "atsogoleri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "-tambolere"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "anadya"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "anamwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:55.099361414Z",
+  "model": "glm-5.3"
+}

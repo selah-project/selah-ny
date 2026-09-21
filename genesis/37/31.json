@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo anatenga ⟨את⟩ chovala cha Yosefu, nadyera mbusi wamwamuna wa mbuzi, namizira ⟨את⟩ chovala mu magazi.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chovala cha Yosefu"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "chovala"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "cha Yosefu"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "nadyera"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "mbusi wamwamuna"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "wa mbuzi"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "namizira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chovala"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "chovala"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "mu magazi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:59:54.221411734Z",
+  "model": "glm-5.3"
+}

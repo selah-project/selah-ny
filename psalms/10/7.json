@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Pakamwa pake palidzala ndi matemberero ndi chinyengo ndi kunamiza; pansi pa lilime lake pali chisautso ndi zoipa.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "matemberero"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "pakamwa pake"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "palidzala ndi"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "ndi chinyengo"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "ndi kunamiza"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "lilime lake"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "chisautso"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ndi zoipa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:41.714871171Z",
+  "model": "glm-5.3"
+}

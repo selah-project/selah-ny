@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndiponso mwazi wa wosalakwa umene anawulula; nadzadza ⟨את⟩ Yerushalayimu mwazi wa wosalakwa; ndipo Yahwe sanafune kukhululukira.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "דם",
+      "gloss": "mwazi"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "wa wosalakwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "anawulula"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "nadipo anadzaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "דם",
+      "gloss": "mwazi"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "wa wosalakwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sanafune"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "kufuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "kukhululukira"
+    }
+  ],
+  "timestamp": "2026-09-21T09:02:14.245358858Z",
+  "model": "glm-5.3"
+}

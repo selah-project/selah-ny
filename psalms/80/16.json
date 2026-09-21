@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 80,
+  "translation": "Ndipo dzizi limene dzanja lako lamanja analima, ndi mwana amene unamulimbitsira iwe.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "ndipo dzizi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "lanalima"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dzanja lako lamanja"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "unamulimbitsira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:28.138344923Z",
+  "model": "glm-5.3"
+}

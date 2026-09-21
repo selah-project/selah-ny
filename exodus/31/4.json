@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "kugawa maganizo ochita, kuchita mu golide, ndi m'siliva, ndi m'mkuwa:",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "kugawa maganizo"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "maganizo ochita"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuchita"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "mu golide"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "ndi m'siliva"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "ndi m'mkuwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:21:30.257089318Z",
+  "model": "glm-5.3"
+}

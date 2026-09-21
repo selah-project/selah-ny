@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Nkhosa yopanda chilema, yamwamuna, yachaka chimodzi, ikhale kwa inu; mwa nkhosa zazing'ono ndi mwa mbuzi mutenge.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "yopanda chilema"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yamwamuna"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "chaka chimodzi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ikhale"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "nkhosa zazing'ono"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ndi mwa"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "mbuzi"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "mutenge"
+    }
+  ],
+  "timestamp": "2026-09-21T12:56:50.207818848Z",
+  "model": "glm-5.3"
+}

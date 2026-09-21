@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Ndam'ulaza ⟨את⟩ iye ndi mzimu wa Elohim, m'changamulo, m'kuzindikira ndi m'madziidzi, ndi mu ntchito iliyonse.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Ndam'ulaza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "Betsaleli"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "m'changamulo"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "m'kuzindikira"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "ndi m'madziidzi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ndi mu iliyonse"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ntchito"
+    }
+  ],
+  "timestamp": "2026-09-21T06:27:06.967850281Z",
+  "model": "glm-5.3"
+}

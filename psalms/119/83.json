@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Pakuti ndakhala ngati chikhwa champheso m'utsi; malamulo ako sindinaiwala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndakhala"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "ngati chikhwa champheso"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "m'utsi"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "malamulo ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ndinaiwala"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:47.437789619Z",
+  "model": "glm-5.3"
+}

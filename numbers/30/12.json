@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 30:12",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "ndipo mwamuna wake amva, nacheperera kwa iye, samuletsa ⟨את⟩ iye; ndipo malamulo ake onse adzayima, ndipo mangidwe uliwonse umene anamangira pa moyo wake udzayima.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "ndipo amva"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "mwamuna wake"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "nacheperera"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "muletsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "וקמו",
+      "gloss": "adzayima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "malamulo ake"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo uliwonse"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "mangidwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "anamangira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "udzayima"
+    }
+  ],
+  "timestamp": "2026-09-21T07:08:49.927871355Z",
+  "model": "glm-5.3"
+}

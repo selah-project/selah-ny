@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 142,
+  "translation": "Chiphunzitso cha Davide, ali m'phanga; pemphero.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Chiphunzitso"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "cha Davide"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "ali"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "m'phanga"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "pemphero"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:17.918977012Z",
+  "model": "glm-5.3"
+}

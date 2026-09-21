@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 45:20",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 45,
+  "translation": "Ndipo diso lanu lisachite chifundo pa katundu wanu, chifukwa zabwino za dziko lonse la Mitsrayimu ndi zanu.",
+  "tokens": [
+    {
+      "surface": "ועינכם",
+      "gloss": "diso lanu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lisa-"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "chite chifundo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כליכם",
+      "gloss": "katundu wanu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zabwino"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "za dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "zanu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ndi⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T06:05:40.804889259Z",
+  "model": "glm-5.3"
+}

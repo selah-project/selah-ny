@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Koma wanasiya ndipo watichititsa manyazi, ndipo sutuluka ndi magulu ankhondo athu.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Koma"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "wanasiya"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "ndipo watichititsa manyazi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo su-"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "-tuluka"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "ndi magulu ankhondo athu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:52.356966389Z",
+  "model": "glm-5.3"
+}

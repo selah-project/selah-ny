@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo iye anati: “Sindingathe kubweranso ndi iwe ⟨את⟩, kapena kulowa ndi iwe ⟨את⟩; sindidya mkate, sindimwa ndi iwe ⟨את⟩ madzi m’malo umo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "sindingathe"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kubweranso"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ndi iwe"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "kapena kulowa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ndi iwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndiponso ayi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "sindidya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndiponso ayi"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "sindimwa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ndi iwe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "m’malo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "umo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:39:35.236006119Z",
+  "model": "glm-5.3"
+}

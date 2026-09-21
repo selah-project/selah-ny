@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndipo Yahwe anati kwa Moshe: “Amene wachimwira ine, ndidzamchotcha m'buku langa.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Amene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "wachimwira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "ndidzamchotcha"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "m'buku langa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:24:16.921628801Z",
+  "model": "glm-5.3"
+}

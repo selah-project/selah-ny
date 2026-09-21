@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Tora ya Yahwe ndi yathunthu, yobwezeretsa moyo; umboni wa Yahwe ndi wokhulupirika, wopatsa nzeru wopusa.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "yathunthu"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "yobwezeretsa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "umboni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "wokhulupirika"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "wopatsa nzeru"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "wopusa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:34.964399432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 64,
+  "translation": "Imva, Elohim, mawu a m'dzimu langa; chiteteze moyo wanga ku mantha wa mdani.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Imva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mawu anga"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "mu kudandaula kwanga"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ku mantha"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "wa mdani"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "chiteteze"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "moyo wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:51.674681307Z",
+  "model": "glm-5.3"
+}

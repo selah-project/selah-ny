@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 1:15",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo mukatambasula manja anu, ndidzabisa maso anga kuchoka kwa inu; ngakhale mukuonjezera mapemphero, sindikumva; manja anu anadzaza ndi magazi.",
+  "tokens": [
+    {
+      "surface": "ובפרשכם",
+      "gloss": "ndipo mukatambasula"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "manja anu"
+    },
+    {
+      "surface": "אעלים",
+      "gloss": "ndidzabisa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maso anga"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kuchoka kwa inu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ngakhale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨muku-⟩"
+    },
+    {
+      "surface": "תרבו",
+      "gloss": "onjezera"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "mapemphero"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "sindi-"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kumva"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "manja anu"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ndi magazi"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "anadzaza"
+    }
+  ],
+  "timestamp": "2026-09-21T09:01:39.915654030Z",
+  "model": "glm-5.3"
+}

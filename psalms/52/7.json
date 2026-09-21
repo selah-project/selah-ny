@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 52,
+  "translation": "Choncho El adzakugwetsetsa mpaka muyaya, adzakulandira ndi kukuchotsa mu ihema yako, ndi kudzulitsa mizu yako mu dziko la amoyo. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Choncho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "adzakugwetsetsa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "mpaka muyaya"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "adzakulandira"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "ndi kukuchotsa"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "mu ihema"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "ndi kudzulitsa mizu yako"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu dziko"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "la amoyo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:20.168374644Z",
+  "model": "glm-5.3"
+}

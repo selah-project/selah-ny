@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Imva, Yisraeli: Yahwe Elohim wathu, Yahwe ndi mmodzi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Imva"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ndi mmodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:16:49.229070270Z",
+  "model": "glm-5.3"
+}

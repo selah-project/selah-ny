@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo anapanga ⟨את⟩ nyumba za malo a pamwamba, ndipo anapanga ansembe kuchokera m'magawo a anthu, amene sanakhale a mwa ana a Levi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba za malo a pamwamba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "במות",
+      "gloss": "za malo a pamwamba"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "kuchokera m'magawo a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sanakhale"
+    },
+    {
+      "surface": "היו",
+      "gloss": "sanakhale"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "a mwa ana a"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-09-21T13:08:53.581731027Z",
+  "model": "glm-5.3"
+}

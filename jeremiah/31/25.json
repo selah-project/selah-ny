@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Pakuti ndinamwetsa moyo wotopa, ndipo moyo wonse wosowadi ndidzaza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "הרויתי",
+      "gloss": "ndinamwetsa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "wotopa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo moyo wonse"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "wosowadi"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "ndidzaza"
+    }
+  ],
+  "timestamp": "2026-09-21T09:41:47.313193123Z",
+  "model": "glm-5.3"
+}

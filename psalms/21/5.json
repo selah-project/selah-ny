@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Moyo anawufunsa kwa iwe, unamuwapatsa — kutalika kwa masiku, ku nthawi zonse ndi ku nthawi yosatha.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "anawufunsa"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "unamuwapatsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ku iye⟩"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "kutalika"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwa masiku"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ndi ku nthawi yosatha"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:13.043475699Z",
+  "model": "glm-5.3"
+}

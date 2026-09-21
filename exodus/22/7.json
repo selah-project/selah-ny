@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 22:7",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ngati mbava sakupezeka, mwini nyumba adzayandikira kwa Elohim, ngati sanalowe dzanja lake m'katundu wa mnansi wake.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "kupezeka"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "mbava"
+    },
+    {
+      "surface": "ונקרב",
+      "gloss": "adzayandikira"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "mwini"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sanalowe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "m'katundu"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "wa mnansi wake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:36.563974882Z",
+  "model": "glm-5.3"
+}

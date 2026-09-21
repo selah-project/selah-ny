@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 71,
+  "translation": "Mwa iwe, Yahwe, ndakhambilabe; chonde musandiwombolere manyazi ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "mwa iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ndakhambilabe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chonde musa-"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "-wombolere manyazi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:25.868446092Z",
+  "model": "glm-5.3"
+}

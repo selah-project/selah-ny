@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 76,
+  "translation": "Ku kudzudzula kwako, Elohim wa Yaakovi, magalo ndi mahachi zonse zinagwa tulo lolemekeza.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "ku kudzudzula kwako"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovi"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "zinagwa tulo"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "magalo"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "ndi mahachi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:55.165907600Z",
+  "model": "glm-5.3"
+}

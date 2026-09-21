@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 146,
+  "translation": "Wolenga kumwamba ndi dziko lapansi, ⟨את⟩ nyanja ndi ⟨את⟩ zonse zimene zili mwa izo; wosunga choona ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Wolenga"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ndi dziko lapansi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyanja"
+    },
+    {
+      "surface": "הים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mwa izo"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "wosunga"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "choona"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:30.418947873Z",
+  "model": "glm-5.3"
+}

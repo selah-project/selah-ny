@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Ndipo anthu anamva ⟨את⟩ mawuwo oipa awa, nawirikana; ndipo palibe munthu anavala zokometsera zake.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "anamva"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawuwo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mawuwo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "oipa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "nawirikana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "anavala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "zokometsera zake"
+    },
+    {
+      "surface": "עליו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-21T06:25:45.494789295Z",
+  "model": "glm-5.3"
+}

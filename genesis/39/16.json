@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 39:16",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndipo iye anasiya chovala chake pafupi ndi iye, mpaka mkulu wake atabwerera ku nyumba yake.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "anasiya"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "chovala chake"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "pafupi ndi iye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "atabwerera"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mkulu wake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:00:35.237658639Z",
+  "model": "glm-5.3"
+}

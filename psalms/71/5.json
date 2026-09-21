@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 71,
+  "translation": "Pakuti iwe ndiwe chiyembekezo changa, Adonayi Yahwe, chikhulupiriro changa kuyambira ubwana wanga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "chiyembekezo changa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "chikhulupiriro changa"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "kuyambira ubwana wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:42.800850641Z",
+  "model": "glm-5.3"
+}

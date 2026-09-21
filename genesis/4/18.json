@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 4:18",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo anabadwitsidwa kwa Khenokhi ⟨את⟩ Iradi; ndi Iradi anabala ⟨את⟩ Mekhuyaeli; ndi Mekhiyaeli anabala ⟨את⟩ Metushaeli; ndi Metushaeli anabala ⟨את⟩ Lemekhi.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "anabadwitsidwa"
+    },
+    {
+      "surface": "לחנוך",
+      "gloss": "kwa Khenokhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iradi"
+    },
+    {
+      "surface": "עירד",
+      "gloss": "Iradi"
+    },
+    {
+      "surface": "ועירד",
+      "gloss": "ndi Iradi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mekhuyaeli"
+    },
+    {
+      "surface": "מחויאל",
+      "gloss": "Mekhuyaeli"
+    },
+    {
+      "surface": "ומחייאל",
+      "gloss": "ndi Mekhiyaeli"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metushaeli"
+    },
+    {
+      "surface": "מתושאל",
+      "gloss": "Metushaeli"
+    },
+    {
+      "surface": "ומתושאל",
+      "gloss": "ndi Metushaeli"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lemekhi"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemekhi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:46.274384599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo ndidzachita mwa iwe ⟨את⟩ zimene sindinachite, ndi ⟨את⟩ zimene sindidzachitiranso zotere, chifukwa cha zodetsa nkhawa zanu zonse.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "ndipo ndidzachita"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mwa iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "-dinachite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zimene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "-didzachitiranso"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "zotere"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "-ranso"
+    },
+    {
+      "surface": "יען",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "zodetsa nkhawa zanu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:56:50.192881746Z",
+  "model": "glm-5.3"
+}

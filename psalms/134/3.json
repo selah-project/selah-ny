@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 134,
+  "translation": "Yahwe akudalitse iwe kuchokera ku Tsiyoni, Iye Wolenga kumwamba ndi dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "akudalitse iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "kuchokera ku Tsiyoni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Wolenga"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ndi dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:35.128735348Z",
+  "model": "glm-5.3"
+}

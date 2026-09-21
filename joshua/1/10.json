@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Yehoshuwa adalamulira ⟨את⟩ atsogoleri a anthu, nati:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "adalamulira"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atsogoleri a anthu"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "atsogoleri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a anthu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    }
+  ],
+  "timestamp": "2026-09-21T07:33:23.684565444Z",
+  "model": "glm-5.3"
+}

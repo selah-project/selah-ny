@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Nenanani kwa abale anu: Ami; ndi kwa alongo anu: Rukhamu.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Nenanani"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "kwa abale anu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ami"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "ndi kwa alongo anu"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Rukhamu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:21:04.033649213Z",
+  "model": "glm-5.3"
+}

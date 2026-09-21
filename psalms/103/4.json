@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 103,
+  "translation": "Wopulumutsa moyo wako m'chigwa; wakukongoletsako chisoti cha khesedi ndi chifundo.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "Wopulumutsa"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "m'chigwa"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "wakukongoletsako chisoti"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesedi"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "ndi chifundo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:18.403656072Z",
+  "model": "glm-5.3"
+}

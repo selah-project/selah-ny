@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 51,
+  "translation": "Ndiwire chifundo, Elohim, monga mwa khesedi wako; monga mwa kuchuluka kwa zifundo zako chotsa zolakwa zanga.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ndiwire chifundo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "monga mwa khesedi wako"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "monga mwa kuchuluka"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "kwa zifundo zako"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "chotsa"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "zolakwa zanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:40.646353839Z",
+  "model": "glm-5.3"
+}

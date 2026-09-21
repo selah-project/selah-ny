@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndithu ⟨את⟩ magazi anu, pa moyo wanu, ndidzafuna; m'dzanja la nyama iliyonse ndidzawafunira; ndipo m'dzanja la munthu, m'dzanja la munthu m'bale wake, ndidzafuna ⟨את⟩ moyo wa munthu.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "Ndithu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magazi anu"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "magazi anu"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "pa moyo wanu"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ndidzafuna"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iliyonse"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "ndidzawafunira"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ndipo m'dzanja la"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "m'bale wake"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ndidzafuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wa munthu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "wa munthu"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:16.454219003Z",
+  "model": "glm-5.3"
+}

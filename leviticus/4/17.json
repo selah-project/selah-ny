@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo wansembe adzamizira chala chake mu ⟨the⟩ madzi, nadzafafiza mphambu zisanu ndi chimodzi pamaso pa Yahwe, ⟨את⟩ pamaso pa chizuwa.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "adzamizira"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "chala chake"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "nadzafafiza"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zisanu ndi chimodzi"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mphambu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pamaso (pa chizuwa)"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pamaso"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "chizuwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:31:33.938990008Z",
+  "model": "glm-5.3"
+}

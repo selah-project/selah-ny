@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo kukondweretsa kwake kudzakhala mu kuopa Yahwe; sadzaweruza monga mwa kuoneka kwa maso ake, ndipo sadzatsimikizira monga mwa kumva khutu lake.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "kukondweretsa kwake kudzakhala"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "mu kuopa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sadzaweruza"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "monga mwa kuoneka"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "kwa maso ake"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "(sadzaweruza)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sadzatsimikizira"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "monga mwa kumva"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "khutu lake"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "(sadzatsimikizira)"
+    }
+  ],
+  "timestamp": "2026-09-21T09:06:57.189974514Z",
+  "model": "glm-5.3"
+}

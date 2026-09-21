@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo liwu la Yahwe lidadza m'dzanja la Chagi mneneri, nati:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "m'dzanja"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "la Chagi"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mneneri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    }
+  ],
+  "timestamp": "2026-09-21T10:35:08.520767461Z",
+  "model": "glm-5.3"
+}

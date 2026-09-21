@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 115,
+  "translation": "Makutu ali nazo, koma sizimva; mphuno ali nazo, koma siziphunka;",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "makutu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ali nazo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma si"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "zimva"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mphuno"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ali nazo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma si"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "ziphunka"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:17.562058115Z",
+  "model": "glm-5.3"
+}

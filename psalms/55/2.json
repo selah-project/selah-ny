@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 55,
+  "translation": "Mvera, Elohim, pemphero langa, usabisike ku pemphero kwanga.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Mvera"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "pemphero langa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "bisike"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "ku pemphero kwanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:33.087359840Z",
+  "model": "glm-5.3"
+}

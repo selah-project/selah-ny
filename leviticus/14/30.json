@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo adzachita ⟨את⟩ chimodzi mwa nkhunda, kapena mwa ana a nkhunda, monga mwa chimene dzanja lake chifikira.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Ndipo adzachita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chimodzi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "chimodzi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "nkhunda"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "nkhunda"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "monga mwa chimene"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "chifikira"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:36:34.487610445Z",
+  "model": "glm-5.3"
+}

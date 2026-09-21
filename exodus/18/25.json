@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 18:25",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Moshe adasankha anthu amphamvu mwa Yisraeli onse, ndipo adawapanga ⟨את⟩ iwo mitsogoleri ya anthu: atsogoleri a chikwi, atsogoleri a zana, atsogoleri a makumi asanu, ndi atsogoleri a khumi.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "adasankha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "amphamvu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli onse"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "adawapanga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo (mitsogoleri ya anthu)"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "mitsogoleri"
+    },
+    {
+      "surface": "על",
+      "gloss": "ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "atsogoleri a"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "chikwi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "atsogoleri a"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "zana"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "atsogoleri a"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "makumi asanu"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ndi atsogoleri a"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "khumi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:15:10.577931011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 122,
+  "translation": "Pemphani mtendere wa Yerushalayimu; akhale pamtendere akukondani inu.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "Pemphani"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mtendere"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "wa Yerushalayimu"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "akhale pamtendere"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "akukondani inu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:22.195523364Z",
+  "model": "glm-5.3"
+}

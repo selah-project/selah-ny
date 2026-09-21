@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 16:13",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo adzaika ⟨את⟩ nsambi pa moto pamaso pa Yahwe, kuti thambo la nsambili lifunike ⟨את⟩ chiphimba chili pa umboni, ndipo sadzafa.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "adzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsambi"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "nsambi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "lifunike"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "thambo"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "la nsambili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiphimba"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "chiphimba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chili"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "umboni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sa-"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "-dzafa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:40:59.037993946Z",
+  "model": "glm-5.3"
+}

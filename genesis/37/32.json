@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 37:32",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo anatumiza ⟨את⟩ chovala cha miundu, nabweretsa kwa atate wawo, nati: “Izi tazipeza; chonde dziwani ngati chovala cha mwana wako ndi ichi, kapena ayi.”",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "anatumiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chovala cha miundu"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "chovala"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "cha miundu"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "nabweretsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "atate wawo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nati"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izi"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "tazipeza"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "dziwani"
+    },
+    {
+      "surface": "נא",
+      "gloss": "chonde"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "chovala"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "cha mwana wako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndi ichi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kapena ayi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:59:54.221604722Z",
+  "model": "glm-5.3"
+}

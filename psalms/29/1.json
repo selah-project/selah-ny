@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndambo la Davide. Patsani Yahwe, ⟨inu⟩ ana a El; patsani Yahwe ulemerero ndi mphamvu.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Ndambo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "la Davide"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Patsani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "a El"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "patsani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ulemerero"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ndi mphamvu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:21.598764302Z",
+  "model": "glm-5.3"
+}

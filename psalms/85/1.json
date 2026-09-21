@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 85,
+  "translation": "Kwa woyang'anira, mwa ana a Korachi, nyimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mwa ana a"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nyimbo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:23.455090686Z",
+  "model": "glm-5.3"
+}

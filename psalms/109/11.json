@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "Wokongoletsedwa ndi ngodo atenge zonse zamke, ndipo anthu akundadzi apange chinyengo pa ntchito yake.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "ikaze ngodo"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "wokongoletsedwa ndi ngodo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "zonse za"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zamke"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ake"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "ndipo apange chinyengo"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "anthu akundadzi"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "pa ntchito yake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:40.514286377Z",
+  "model": "glm-5.3"
+}

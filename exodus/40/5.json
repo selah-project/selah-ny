@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo iwe mudzaika ⟨את⟩ guwa lagolodi la nsembe zokhungitsa pamaso pa chikwatu cha umboni, ndipo mudzaika ⟨את⟩ chikhomo cha khomo la chihema.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "udzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guwa lagolodi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "guwa"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "lagolodi"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "la nsembe zokhungitsa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chikwatu"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "cha umboni"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "udzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikhomo"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "chikhomo"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "cha khomo"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "la chihema"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:21.278137313Z",
+  "model": "glm-5.3"
+}

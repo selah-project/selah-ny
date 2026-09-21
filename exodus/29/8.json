@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo ⟨את⟩ ana adzaonetsa pafupi, ndipo udzavala iwo makutonetu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana",
+      "marks": "ana ake"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "adzaonetsa pafupi"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "udzavala iwo"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "makutonetu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:21:43.596393861Z",
+  "model": "glm-5.3"
+}

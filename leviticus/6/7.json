@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo uwu ndi Tora (chilamulo) wa nsembe ya ufa: ana a Aharon adzayandikitsa ⟨את⟩ iyo pamaso pa Yahwe, kutsogolo kwa guwa.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Ndipo uwu"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora (chilamulo)"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "wa nsembe ya ufa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "adzayandikitsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "nsembe ya ufa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "a Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kutsogolo kwa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:32:20.570174709Z",
+  "model": "glm-5.3"
+}

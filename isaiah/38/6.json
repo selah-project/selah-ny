@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Ndipo ndidzakutulutsa iwe ndi ⟨את⟩ mzinda uwu m'dzanja la mfumu ya Ashuru, ndipo ndidzamuteteza mzinda uwu.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "ndipo m'dzanja la"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "ndidzakutulutsa iwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mzinda uwu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uwu"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "ndipo ndidzamuteteza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uwu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:14:37.520501151Z",
+  "model": "glm-5.3"
+}

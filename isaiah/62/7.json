@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 62,
+  "translation": "Ndipo musampatse iye chete, mpaka akakhazikitsa, ndipo mpaka akayika ⟨את⟩ Yerushalayimu kukhala matamando m'dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ndipo musa"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "mpatse"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "chete"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "akakhazikitsa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ndipo mpaka"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "akayika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "matamando"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T09:26:03.836266386Z",
+  "model": "glm-5.3"
+}

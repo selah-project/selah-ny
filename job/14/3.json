@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Koma pa izi ndinu amene mwatsegula masiko anu, ndipo ⟨את⟩ ine mumalowetsa m'weruzo ndi inu?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Koma"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "mwatsegula"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "masiko anu"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "ndipo ⟨את⟩ ine",
+      "marks": "ine"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "mumalowetsa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "m'weruzo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndi inu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:35:51.131639668Z",
+  "model": "glm-5.3"
+}

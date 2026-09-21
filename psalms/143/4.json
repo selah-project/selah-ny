@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 143,
+  "translation": "Pamene mzimu wanga unagonjera pa ine, mtima wanga ukadabwa mkati mwa ine.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "unagonjera"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mzimu wanga"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "mkati mwa ine"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "ukadabwa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:55.580405595Z",
+  "model": "glm-5.3"
+}

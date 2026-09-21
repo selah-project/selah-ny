@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Pakuti ine ndili wofikira kukhomoka, ndipo ululu wanga uli pamaso pangabe nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "wofikira kukhomoka"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "⟨ndili⟩ wokonzeka"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "ndipo ululu wanga"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "pamaso pangabe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:32.176593366Z",
+  "model": "glm-5.3"
+}

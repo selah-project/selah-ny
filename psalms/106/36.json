@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Ndipo anatumikira ⟨את⟩ mafano awo, ndipo zinali kwa iwo chidebe.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "anatumikira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafano awo"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "mafano awo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "zinali"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "chidebe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:55.008056248Z",
+  "model": "glm-5.3"
+}

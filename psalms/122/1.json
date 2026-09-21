@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 122,
+  "translation": "Nyimbo ya makwero, ya Davide. Ndinasangalala mwa akunena kwa ine: “Ku nyumba ya Yahwe tipite.”",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya makwero"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Davide"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Ndinasangalala"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "mwa akunena"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "tipite"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:13.929985758Z",
+  "model": "glm-5.3"
+}

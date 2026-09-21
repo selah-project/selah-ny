@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 63:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 63,
+  "translation": "Koma iwo anakana, nakwiyitsa ⟨את⟩ mzimu wake woyera; ndipo anasintha kukhala mdani wawo, iye mwini anamenya nkhondo ndi iwo.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "koma iwo"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "anakana"
+    },
+    {
+      "surface": "ועצבו",
+      "gloss": "ndi kuwawiritsetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mzimu wake woyera"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "woyera wake"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "ndipo anasintha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kukhala kwawo"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "mdani"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye mwini"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "anamenya nkhondo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ndi iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:24:24.715902127Z",
+  "model": "glm-5.3"
+}

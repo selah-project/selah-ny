@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 12:18",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "M'mwezi woyamba, pa tsiku la khumi ndi inayi la mwezi, madzulo, mudzadya mkate wopanda chimere; kufikira tsiku la makumi awiri ndi limodzi la mwezi, madzulo.",
+  "tokens": [
+    {
+      "surface": "בראשן",
+      "gloss": "M'mwezi woyamba"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "khumi ndi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "inayi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "pa tsiku"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la mwezi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "madzulo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mudzadya"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "mkate wopanda chimere"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ndi limodzi"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "la makumi awiri"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la mwezi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "madzulo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:13:46.193217478Z",
+  "model": "glm-5.3"
+}

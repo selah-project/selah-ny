@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo Yehonatani anati kwa Davide: “Chiyani moyo wako ukunena? Ndiipo ndidzachichita kwa iwe.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo Yehonatani anati"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Chiyani"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ukunena"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ndipo ndidzachita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T13:05:04.672697035Z",
+  "model": "glm-5.3"
+}

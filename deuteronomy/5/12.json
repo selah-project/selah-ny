@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Sunga ⟨את⟩ tsiku la Sabata kuti ulisanye, monga momwe Yahwe Elohim wako anakulamulira.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Sunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsiku la Sabata"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "la Sabata"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "kuti ulisanye"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "anakulamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    }
+  ],
+  "timestamp": "2026-09-21T07:15:14.914561298Z",
+  "model": "glm-5.3"
+}

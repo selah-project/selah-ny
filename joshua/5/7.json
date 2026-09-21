@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 5:7",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo m'malo mwawo anaukitsidwa ⟨את⟩ ana awo; iwo ⟨את⟩ ⟨אותם⟩ Yehoshuwa anawadula, pakuti anali osadulidwa, chifukwa sanawadule pa njira.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana awo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ana awo"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "anaukitsidwa"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "m'malo mwawo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "מל",
+      "gloss": "anawadula"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "osadulidwa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "anali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana-"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "nawadule"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pa njira"
+    }
+  ],
+  "timestamp": "2026-09-21T07:34:41.275406399Z",
+  "model": "glm-5.3"
+}

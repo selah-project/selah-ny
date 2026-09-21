@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 91,
+  "translation": "Pa mkango ndi pa njoka mudzayendetsa; mkango wamng'ono ndi chilombo chamadzi mudzawafinya.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "mkango"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "ndi pa njoka"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "mudzayendetsa"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "mudzawafinya"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "mkango wamng'ono"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "ndi chilombo chamadzi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:22.912662899Z",
+  "model": "glm-5.3"
+}

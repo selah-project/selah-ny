@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 10:11",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo Yahwe anati kwa ana a Yisraeli: “Kodi, m'Mitsrayimu ndi mwa aEmori, ndi mwa ana a Amoni, ndi mwa Afilisiti,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Kodi"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "m'Mitsrayimu"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ndi mwa"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "aEmori"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ndi mwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "a Amoni"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ndi mwa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilisiti"
+    }
+  ],
+  "timestamp": "2026-09-21T07:50:01.423434209Z",
+  "model": "glm-5.3"
+}

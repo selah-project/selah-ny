@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo mkazi anaona ⟨את⟩ Shumueli, nadandaula ndi liwu lalikulu; ndipo mkazi anati kwa Shauli, nati: “Chifukwa chiyani wandinyenga? Ndipo iwe ⟨ndinu⟩ Shauli.”",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ndipo anaona"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shumueli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shumueli"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "nadandaula"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ndi liwu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lalikulu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ndipo anati"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "למה",
+      "gloss": "chifukwa chiyani"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "wandinyenga"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ndipo iwe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:13:39.988290964Z",
+  "model": "glm-5.3"
+}

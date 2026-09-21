@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo wansembe adzatentha ⟨את⟩ chikhumbutso chake, cha nsengu zake ndi cha mafuta ake, pamodzi ndi lubani wake wonse; nsembe yoyaka mumoto kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "Ndipo adzatentha (kuphulitsa ufa)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikhumbutso chake"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "chikhumbutso chake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "cha nsengu zake"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "ndi cha mafuta ake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "lubani wake"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nsembe yoyaka mumoto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:12.726081507Z",
+  "model": "glm-5.3"
+}

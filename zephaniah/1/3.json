@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 1:3",
+  "book": "zephaniah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndidzaononga munthu ndi nyama; ndidzaononga mbalame za kumwamba ndi nsomba za nyanja, ndi zopinga ⟨את⟩ pamodzi ndi oipa; ndipo ndidzadula ⟨את⟩ munthu kuchokera pa nkhope ya dziko lapansi, monenenera wa Yahwe.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Ndidzaononga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "ndi nyama"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ndidzaononga"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "mbalame za"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "ndi nsomba za"
+    },
+    {
+      "surface": "הים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "והמכשלות",
+      "gloss": "ndi zopinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oipa"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "pamodzi ndi oipa"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ndipo ndidzadula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munthu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuchokera pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope ya"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "monenenera wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:34:59.404043896Z",
+  "model": "glm-5.3"
+}

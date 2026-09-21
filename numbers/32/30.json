@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 32:30",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Koma ngati sadutsa okonzeka ndi ⟨את⟩ inu, adzakhalitsidwa pakati panu m'dziko la Kenani.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "koma ngati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "dutsa"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "okonzeka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "ndi ⟨את⟩ inu"
+    },
+    {
+      "surface": "ונאחזו",
+      "gloss": "adzakhalitsidwa"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "pakati panu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "la Kenani"
+    }
+  ],
+  "timestamp": "2026-09-21T07:10:15.569729795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Mawu onse ndi okhumudwa; munthu sakhoza kulankhula; diso silikhuta kuona, ndipo khutu silidzala kumva.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "ndi okhumudwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "khoza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kulankhula"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "likhuta"
+    },
+    {
+      "surface": "עין",
+      "gloss": "diso"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "lidzala"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "khutu"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "kumva"
+    }
+  ],
+  "timestamp": "2026-09-21T11:56:07.912462464Z",
+  "model": "glm-5.3"
+}

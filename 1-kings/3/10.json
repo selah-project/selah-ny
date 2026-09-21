@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo mawuwo anayendera bwino m'maso a Adonayi, chifukwa Shelomo anapempha ⟨את⟩ mawu awa.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "anayendera bwino"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mawuwo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "m'maso a"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "anapempha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu awa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "awa"
+    }
+  ],
+  "timestamp": "2026-09-21T08:31:43.391638059Z",
+  "model": "glm-5.3"
+}

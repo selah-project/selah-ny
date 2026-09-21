@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo ana a Elkanahi anali Amai ndi Ahimoti.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ndipo ana a"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanahi"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "Amai"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "ndi Ahimoti"
+    }
+  ],
+  "timestamp": "2026-09-21T12:24:27.643454081Z",
+  "model": "glm-5.3"
+}

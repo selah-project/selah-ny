@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Imvani ⟨את⟩ mawu amenewa amene ndili kunyamula pa inu nyimbo ya maliro, inu nyumba ya Yisraeli.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Imvani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "amenewa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "kunyamula"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pa inu"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "nyimbo ya maliro"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T10:27:25.829103886Z",
+  "model": "glm-5.3"
+}

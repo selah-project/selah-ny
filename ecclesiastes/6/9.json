@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Kuona kwa maso nkubwino kuposa kuyenda kwa moyo; izi ndiponso ndi heveli ndi kusautsa kwa mzimu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "nkubwino"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "kwa maso"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "kuyenda"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kwa moyo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "heveli"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ndi kusautsa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "kwa mzimu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:50.151098389Z",
+  "model": "glm-5.3"
+}

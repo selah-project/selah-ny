@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 60,
+  "translation": "Ndipo mitundu ya anthu idzayenda m'kuwala kwako, ndi mafumu mu kuwunika kwa m'bandakucha yako.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "idzayenda"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mitundu ya anthu"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "m'kuwala kwako"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "ndi mafumu"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "mu kuwunika"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "kwa m'bandakucha yako"
+    }
+  ],
+  "timestamp": "2026-09-21T09:25:41.897354190Z",
+  "model": "glm-5.3"
+}

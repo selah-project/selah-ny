@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 50,
+  "translation": "Ngati ndilamba, sindidzakuuza; pakuti changu ndi dziko lapansi ndi chodzaza mwake.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "ndilamba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi-"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dzakuuza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-u"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "changu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ndi chodzaza mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:12.510320725Z",
+  "model": "glm-5.3"
+}

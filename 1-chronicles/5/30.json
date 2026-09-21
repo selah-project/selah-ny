@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Elazara adabala ⟨את⟩ Pinechasi; Pinechasi adabala ⟨את⟩ Abishua.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazara"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "adabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinechasi"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechasi"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechasi"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "adabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abishua"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Abishua"
+    }
+  ],
+  "timestamp": "2026-09-21T12:24:06.827364889Z",
+  "model": "glm-5.3"
+}

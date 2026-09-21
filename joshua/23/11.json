@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo msamale kwambiri moyo wanu, kuti mukonde ⟨את⟩ Yahwe Elohim wanu.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "msamale"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "moyo wanu"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "kuti mukonde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim wanu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:44:43.378687520Z",
+  "model": "glm-5.3"
+}

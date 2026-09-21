@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndi zoipa zawo amakondweretsa mfumu, ndi nabodza zawo amakondweretsa anayombo.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "Ndi zoipa zawo"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "amakondweretsa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "ndi nabodza zawo"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "anayombo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:21:23.323239503Z",
+  "model": "glm-5.3"
+}

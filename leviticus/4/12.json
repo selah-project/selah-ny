@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 4:12",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo adzatulutsa ⟨את⟩ ng'ombe yonseyo ku kunja kwa msasa, ku malo oyera, ku malo amene amathamangitsira doto la nsembe; ndipo adzawotcha ⟨אתו⟩ pa nkhuni m'moto; pa malo amene amathamangitsira doto adzapsereka.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "adzatulutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombe yonseyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kunja"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kwa msasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "malo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "oyera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "malo amene amathamangitsira"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "doto la nsembe"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "adzawotcha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ng'ombe yonseyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "nkhuni"
+    },
+    {
+      "surface": "באש",
+      "gloss": "m'moto"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "malo amene amathamangitsira"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "doto"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "adzapsereka"
+    }
+  ],
+  "timestamp": "2026-09-21T06:31:34.917869684Z",
+  "model": "glm-5.3"
+}

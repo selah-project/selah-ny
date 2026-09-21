@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 113,
+  "translation": "Ku kuwala kwa dzuwa mpaka kuzimirwa kwake, dzina la Yahwe lamaniridwa.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "ku kuwala kwa"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "dzuwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "kuzimirwa kwake"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "lamaniridwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dzina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:29.054830485Z",
+  "model": "glm-5.3"
+}

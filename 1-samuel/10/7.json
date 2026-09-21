@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 10:7",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo zidzakhala, pamene zizindikiro izi zidzadza kwa iwe, chita chamene dzanja lako lidzapeza, pakuti Elohim ali ndi iwe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ndipo zidzakhala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pamene"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "zidzadza"
+    },
+    {
+      "surface": "האתות",
+      "gloss": "zizindikiro"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "chita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chamene"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "lidzapeza"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dzanja lako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ali ndi iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T13:05:07.370838192Z",
+  "model": "glm-5.3"
+}

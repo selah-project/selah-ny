@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 48,
+  "translation": "Ndipo Yosefe anawatulutsa ⟨את⟩ pakati pa mapazi a atate wake, nadzigwaditsa, nkhope yake yafika nthaka.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "anawatulutsa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "mapazi a atate wake"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "nadzigwaditsa"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "nkhope yake"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yafika nthaka"
+    }
+  ],
+  "timestamp": "2026-09-21T06:05:34.347491805Z",
+  "model": "glm-5.3"
+}

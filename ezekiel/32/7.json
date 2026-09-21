@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 32:7",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndipo pamene ndidzakuzimitsa, ndidzaphimba kumwamba, ndipo ndidzaphimba ⟨את⟩ nyenyezi zake; ndidzaphimba dzuwa ndi chiphadzua, ndipo mwezi sudzapereka kuwala kwake.",
+  "tokens": [
+    {
+      "surface": "וכסיתי",
+      "gloss": "ndipo pamene ndidzakuzimitsa ndidzaphimba"
+    },
+    {
+      "surface": "בכבותך",
+      "gloss": "pamene ndidzakuzimitsa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "והקדרתי",
+      "gloss": "ndipo ndidzaphimba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyenyezi zake"
+    },
+    {
+      "surface": "ככביהם",
+      "gloss": "nyenyezi zake"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "dzuwa"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "ndi chiphadzua"
+    },
+    {
+      "surface": "אכסנו",
+      "gloss": "ndidzaphimba"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ndipo mwezi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "-dzapereka"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "kuwala kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:09:31.409317443Z",
+  "model": "glm-5.3"
+}

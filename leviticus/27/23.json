@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 27:23",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "ndipo kaphembele adzawerengera iye ⟨את⟩ gawo la mtengo wako, kufikira chaka cha yobole; ndipo adzapereka ⟨את⟩ mtengo wako tsiku limenelo, chakupatulika kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "adzawerengera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kaphembele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gawo"
+    },
+    {
+      "surface": "מכסת",
+      "gloss": "gawo la"
+    },
+    {
+      "surface": "הערכך",
+      "gloss": "mtengo wako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "chaka cha"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "yobole"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "adzapereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtengo wako"
+    },
+    {
+      "surface": "הערכך",
+      "gloss": "mtengo wako"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "limenelo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chakupatulika"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:48:51.029101309Z",
+  "model": "glm-5.3"
+}

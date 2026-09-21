@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 30:30",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo Yahwe adzamveketsa ⟨את⟩ ulemerero wa mawu ake, ndipo adzaonetsa kutsika kwa dzanja lake ndi mkwiyo wachikali, ndi lamba wa moto wodya, kuphwanya ndi mphepo yamkuntho, ndi mwala wa chivumbwa.",
+  "tokens": [
+    {
+      "surface": "והשמיע",
+      "gloss": "adzamveketsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulemerero wa mawu ake"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "ulemerero"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "mawu ake"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "kutsika"
+    },
+    {
+      "surface": "זרועו",
+      "gloss": "kwa dzanja lake"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "adzaonetsa"
+    },
+    {
+      "surface": "בזעף",
+      "gloss": "ndi mkwiyo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "wachikali"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "ndi lamba"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wa moto"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "wodya"
+    },
+    {
+      "surface": "נפץ",
+      "gloss": "kuphwanya"
+    },
+    {
+      "surface": "וזרם",
+      "gloss": "ndi mphepo yamkuntho"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ndi mwala"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "wa chivumbwa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:14:12.095058032Z",
+  "model": "glm-5.3"
+}

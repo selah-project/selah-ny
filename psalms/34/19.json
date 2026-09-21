@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Yahwe ali pafupi ndi ophwanyidwa mtima, ndipo ⟨את⟩ odetsedwa mzimu awapulumutsa.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ali pafupi ndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "ophwanyidwa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "odetsedwa mzimu"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "odetsedwa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "awapulumutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:02.726426250Z",
+  "model": "glm-5.3"
+}

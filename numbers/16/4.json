@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo Moshe atamva, anagwa pa nkhope yake.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "atamva"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "anagwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "nkhope yake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:00:47.779891431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Koma ngati chineneru ichi nchchoona, kuti sanapezedwe chizindikiro cha usulwa cha mnsungwana —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "koma ngati"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nchchoona"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chineneru"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "-pezedwe"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "chizindikiro cha usulwa"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "cha mnsungwana"
+    }
+  ],
+  "timestamp": "2026-09-21T07:25:28.988516328Z",
+  "model": "glm-5.3"
+}

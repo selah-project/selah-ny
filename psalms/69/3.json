@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Ndazama m'matope a kuzama, ndipo ⟨palibe⟩ malo owimirirako; ndalowa mu kuya kwa madzi, ndipo chigwa cha madzi chandizundzira.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Ndazama"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "m'matope"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "a kuzama"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "malo owimirirako"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ndalowa"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "mu kuya kwa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "ndipo chigwa cha madzi"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "chandizundzira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:47.490175112Z",
+  "model": "glm-5.3"
+}

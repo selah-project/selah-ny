@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndi kudzozera ndi awo ⟨את⟩ chihema cha msonkhano, ndi ⟨את⟩ chikwama cha umboni",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ndi kudzozera"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ndi awo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chihema cha msonkhano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "cha msonkhano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chikwama cha umboni"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chikwama"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "cha umboni"
+    }
+  ],
+  "timestamp": "2026-09-21T06:22:48.337869993Z",
+  "model": "glm-5.3"
+}

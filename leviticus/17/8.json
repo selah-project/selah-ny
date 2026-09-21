@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 17:8",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo mudzanena kwa iwo: Munthu aliyense wa m'banja la Yisraeli, ndipo wa mlendo amene akhala pakati pawo, amene apereka nsembe ya kuwotcha kapena nsembe ya kupha nyama —",
+  "tokens": [
+    {
+      "surface": "ואלהם",
+      "gloss": "Ndipo kwa iwo"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "mudzanena"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Munthu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wa m'banja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "la Yisraeli"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ndipo wa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "mlendo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "akhala"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "pakati pawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "apereka"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nsembe ya kuwotcha"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "nsembe ya kupha nyama"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:04.954730403Z",
+  "model": "glm-5.3"
+}

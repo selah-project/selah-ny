@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 9:16",
+  "book": "zechariah",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Yahwe Elohim wawo adzawapulumutsa tsiku limeneli monga nkhosa za gulu lake; pakuti miyala ya chisoti cha mfumu zikuwunikidwa pa dziko lake.",
+  "tokens": [
+    {
+      "surface": "והושיעם",
+      "gloss": "ndipo adzawapulumutsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wawo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "limeneli"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "monga nkhosa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "za gulu lake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "miyala ya"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "chisoti cha mfumu"
+    },
+    {
+      "surface": "מתנוססות",
+      "gloss": "zikuwunikidwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "dziko lake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:37:47.098788476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Anatumiza mdima, ndipo unakaza; ndipo sanaswe ⟨את⟩ mawu ake.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Anatumiza"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mdima"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "ndipo unakaza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sanaswe — ayi"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "sanaswe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu ake"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "mawu ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:33.567996058Z",
+  "model": "glm-5.3"
+}

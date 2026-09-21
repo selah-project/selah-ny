@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "ndipo tidzabwezeretse ⟨את⟩ sanduku la Elohim wathu kwa ife, pakuti sitinamufunse masiku a Shaule.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "ndipo tidzabwezeretse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku la Elohim wathu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "la Elohim wathu"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kwa ife"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "tinamufunse"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "masiku a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    }
+  ],
+  "timestamp": "2026-09-21T12:29:31.651415619Z",
+  "model": "glm-5.3"
+}

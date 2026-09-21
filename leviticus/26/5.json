@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo kupanda kwanu kudzafika ⟨את⟩ nthawi ya kusuna vinyo, ndipo kusuna vinyo kudzafika ⟨את⟩ nthawi ya kufesa; mudzadya mkate wanu mpaka kuchibweranso, nipo mudzakhala m'dziko lanu mwachitetezo.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "kudzafika"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwanu"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "kupanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nthawi ya kusuna vinyo"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "kusuna vinyo"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "ndipo kusuna vinyo"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "kudzafika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nthawi ya kufesa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kufesa"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "mudzadya"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "mkate wanu"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "mpaka kuchibweranso"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "mudzakhala"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "mwachitetezo"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "m'dziko lanu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:46:08.387213674Z",
+  "model": "glm-5.3"
+}

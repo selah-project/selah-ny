@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 115,
+  "translation": "Pakamwa ali nazo, koma sizayankhula; maso ali nazo, koma sizaona;",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "pakamwa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ali nazo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma si"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "zayankhula"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "maso"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ali nazo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma si"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "zaona"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:17.561756445Z",
+  "model": "glm-5.3"
+}

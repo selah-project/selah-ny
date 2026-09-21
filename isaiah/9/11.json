@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Aramu patsogolo, ndi Afilisti m'mbuyo; ndipo adadya ⟨את⟩ Yisraeli ndi kamwa konse. Pa zonse izi mkwiyo wake sunatembenuke, ndipo dzanja lake lili kutalikirabe.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "patsogolo"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ndi Afilisti"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "m'mbuyo"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ndipo adadya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ndi konse"
+    },
+    {
+      "surface": "פה",
+      "gloss": "kamwa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pa zonse"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "שב",
+      "gloss": "natembenuke"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "mkwiyo wake"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ndipo chabe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "lili kutalikirabe"
+    }
+  ],
+  "timestamp": "2026-09-21T09:05:58.731009611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo Yehonatani ndi Davidi anapanga pangano, chifukwa adamkonda iye ⟨אתו⟩ monga moyo wake.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ndi Davidi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pangano"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "chifukwa adamkonda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "monga moyo wake"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "monga moyo wake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:09:43.577333911Z",
+  "model": "glm-5.3"
+}

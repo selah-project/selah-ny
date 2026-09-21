@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Kotero mubwezeretsa kuola kwa lupanga lake, ndipo simunamuimiritsa pa nkhondo.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "kotero"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "mubwezeretsa"
+    },
+    {
+      "surface": "צור",
+      "gloss": "kuola"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "kwa lupanga lake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo simu-"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "-namuimiritsa"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "pa nkhondo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:54.151464786Z",
+  "model": "glm-5.3"
+}

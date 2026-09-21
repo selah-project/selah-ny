@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Merayothi anabala ⟨את⟩ Amarya, ndipo Amarya anabala ⟨את⟩ Achitubu.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merayothi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarya"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarya"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "ndipo Amarya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achitubu"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achitubu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:23:57.710519284Z",
+  "model": "glm-5.3"
+}

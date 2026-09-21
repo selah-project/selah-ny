@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 1:5",
+  "book": "habakkuk",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Penyererani mwa amitundu, ndipo penyerani, ndipo danirani kwakukulu; pakuti ntchito akuchita pa masiku anu, simukhulupirira kuti ikulanjidwa.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Penyererani"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mwa amitundu"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "ndipo penyerani"
+    },
+    {
+      "surface": "והתמהו",
+      "gloss": "ndipo danirani"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "kwakukulu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "akuchita"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "pa masiku anu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "mukhulupirira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ikulanjidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:32:53.083818305Z",
+  "model": "glm-5.3"
+}

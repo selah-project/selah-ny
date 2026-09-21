@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 2:9",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Koma tsopano musamuleke wosalakwa, popeza iwe ndiwe munthu wanzeru, ndipo udzadziwa ⟨את⟩ chimene udzachita kwa iye, ndipo udzatsitsa ⟨את⟩ mtsedo wake ndi magazi ku Sheoli.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "koma tsopano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תנקהו",
+      "gloss": "mumuleke wosalakwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wanzeru"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "udzadziwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chimene udzachita kwa iye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "udzachita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "והורדת",
+      "gloss": "udzatsitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtsedo wake"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "mtsedo wake"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ndi magazi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheoli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:31:04.417689592Z",
+  "model": "glm-5.3"
+}

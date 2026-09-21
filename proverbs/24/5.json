@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Munthu wa nzeru ndi wamphamvu, ndipo munthu wa chidziwitso amawonjezera mphamvu.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wa nzeru"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "ndi wamphamvu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ndipo munthu"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "wa chidziwitso"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "amawonjezera"
+    },
+    {
+      "surface": "כח",
+      "gloss": "mphamvu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:25:39.671920586Z",
+  "model": "glm-5.3"
+}

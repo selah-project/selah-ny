@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Avigayili anabala ⟨את⟩ Amasa, ndipo atate wa Amasa anali Yeteri, mwa Ismaeli.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Ndipo Avigayili"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "ndipo atate wa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeteri"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "mwa Ismaeli"
+    }
+  ],
+  "timestamp": "2026-09-21T12:23:14.849498458Z",
+  "model": "glm-5.3"
+}

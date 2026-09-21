@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 104,
+  "translation": "Kodi zinthu zingwerenge bwanji, Yahwe; zonse munazipanga ndi nzeru; dziko lapansi ladzala ndi zolengedwa zanu.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kodi bwanji"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "zingwerenge bwanji"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "zinthu zanu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "ndi nzeru"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "munazipanga"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ladzala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "zolengedwa zanu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:45.723228947Z",
+  "model": "glm-5.3"
+}

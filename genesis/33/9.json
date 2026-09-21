@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Esav anati: “Ndi ndi zonse, m'bale wanga; chimene chili chako chikhale chako.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨pali⟩ ndi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "רב",
+      "gloss": "zambiri"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "m'bale wanga"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "chikhale"
+    },
+    {
+      "surface": "לך",
+      "gloss": "chako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "לך",
+      "gloss": "chili chako"
+    }
+  ],
+  "timestamp": "2026-09-21T12:54:48.068533998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 122,
+  "translation": "Mapazi athu adakhala ayimirira m'zipata zako, Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "ayimirira"
+    },
+    {
+      "surface": "היו",
+      "gloss": "adakhala"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "mapazi athu"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "m'zipata zako"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:13.930194601Z",
+  "model": "glm-5.3"
+}

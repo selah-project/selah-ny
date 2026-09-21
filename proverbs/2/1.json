@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Mwana wanga, ngati ulandira mawu anga, ndipo malamulo anga ubisense ndi ⟨את⟩ iwe;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mwana wanga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ulandira"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mawu anga"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ndipo malamulo anga"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "ubisense"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ iwe",
+      "marks": "mawu anga ndi malamulo anga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:19:09.017842350Z",
+  "model": "glm-5.3"
+}

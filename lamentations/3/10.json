@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Iye ali benga wolindira kwa ine, mkango m'malo obisika.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "benga"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "wolindira"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Iye ali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "mkango"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "m'malo obisika"
+    }
+  ],
+  "timestamp": "2026-09-21T11:52:15.219911552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo anayenda kuchokera ku Sukoti, nakhazikika m'manda ku Etamu, pa malekezero a chilengalenga.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "kuchokera ku Sukoti"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "nakhazikika m'manda"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "ku Etamu"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "pa malekezero"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "a chilengalenga"
+    }
+  ],
+  "timestamp": "2026-09-21T06:14:23.986864600Z",
+  "model": "glm-5.3"
+}

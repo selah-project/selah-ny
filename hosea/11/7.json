@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 11:7",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo anthu anga akumalingalira za kubwerera kwanga, koma pamene akuitana iwo kukwamba, palibe wina adzaulemere.",
+  "tokens": [
+    {
+      "surface": "ועמי",
+      "gloss": "Ndipo anthu anga"
+    },
+    {
+      "surface": "תלואים",
+      "gloss": "akumalingalira (atakayika)"
+    },
+    {
+      "surface": "למשובתי",
+      "gloss": "za kubwerera kwanga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kwa (kuti)"
+    },
+    {
+      "surface": "על",
+      "gloss": "kukwamba (Wapachulu)"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "akuitana iwo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamodzi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "palibe (sadza-)"
+    },
+    {
+      "surface": "ירומם",
+      "gloss": "-ulemere"
+    }
+  ],
+  "timestamp": "2026-09-21T10:22:32.021680441Z",
+  "model": "glm-5.3"
+}

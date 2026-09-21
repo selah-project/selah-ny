@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndi Moshe anatumiza ⟨את⟩ anyamata a ana a Yisraeli, ndipo anakweza nsembe zopsereza, nadzera nsembe za chikondwerero kwa Yahwe — ana a ng'ombe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "anatumiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anyamata a ana a Yisraeli"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "anyamata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "anakweza"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "nsembe zopsereza"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "nadzera"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "za chikondwerero"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ana a ng'ombe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:57.903562687Z",
+  "model": "glm-5.3"
+}

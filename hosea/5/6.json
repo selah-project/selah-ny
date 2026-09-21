@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Adzayenda ndi nkhosa zawo ndi ng'ombe zawo kukafuna ⟨את⟩ Yahwe, koma sadzampeza; wadzipatula ndi iwo.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "ndi nkhosa zawo"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "ndi ng'ombe zawo"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "adzayenda"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "kukafuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma osati"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "sadzampeza"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "wadzipatula"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ndi iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:20:28.655281522Z",
+  "model": "glm-5.3"
+}

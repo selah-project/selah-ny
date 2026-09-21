@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 32:4",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndipo anthu ambiri anasonkhana, natseka ⟨את⟩ masanzi onse ndi ⟨את⟩ mtsinje wothamanga pakati pa dziko, nati: “Chifukwa chiyani mafumu a Ashuru adzadza, napeza madzi ambiri?”",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "anasonkhana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ambiri"
+    },
+    {
+      "surface": "ויסתמו",
+      "gloss": "natseka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masanzi onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "המעינות",
+      "gloss": "masanzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mtsinje"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "mtsinje"
+    },
+    {
+      "surface": "השוטף",
+      "gloss": "wothamanga"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "למה",
+      "gloss": "chifukwa chiyani"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "adzadza"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "a Ashuru"
+    },
+    {
+      "surface": "ומצאו",
+      "gloss": "napeza"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ambiri"
+    }
+  ],
+  "timestamp": "2026-09-21T12:50:20.272940346Z",
+  "model": "glm-5.3"
+}

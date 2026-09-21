@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 24:12",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo anamusungitsa m'ndende, kuti afotokoze kwa iwo mwa mlomo wa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויניחהו",
+      "gloss": "anamusungitsa"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "m'ndende"
+    },
+    {
+      "surface": "לפרש",
+      "gloss": "kuti afotokoze"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mlomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:44:17.363437201Z",
+  "model": "glm-5.3"
+}

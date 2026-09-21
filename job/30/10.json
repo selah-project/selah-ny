@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Andinyada, anatiza kutali ndi ine, ndipo pamaso panga sanalephere kutulutsa mkwanza.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "Andinyada"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "anatiza"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kutali ndi ine"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ndipo pamaso panga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "-lephere"
+    },
+    {
+      "surface": "רק",
+      "gloss": "mkwanza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:42:49.010292286Z",
+  "model": "glm-5.3"
+}

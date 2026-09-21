@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 10:18",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo mfumu idapanga mpando wachifumu waukulu wa dzino la njovu, ndipo idawuzinga ndi golide wabwino kwambiri.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ndipo idapanga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "mpando wachifumu"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dzino la njovu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "waukulu"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "ndipo idawuzinga"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "מופז",
+      "gloss": "wabwino kwambiri"
+    }
+  ],
+  "timestamp": "2026-09-21T08:37:50.580523306Z",
+  "model": "glm-5.3"
+}

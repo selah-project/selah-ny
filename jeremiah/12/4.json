@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 12:4",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Kufikira liti dziko lidzamva chisoni, ndi kutuwa kwa minda yonse kuwuma, chifukwa cha zoipa za okhala m'menemo? Nyama zachita kvutapo ndi mbalame, popeza ananena kuti: sadzaona ⟨את⟩ mathero athu.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kufikira"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "liti"
+    },
+    {
+      "surface": "תאבל",
+      "gloss": "lidzamva chisoni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "ndi kutuwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kwa minda"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "kuwuma"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "chifukwa cha zoipa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "za okhala"
+    },
+    {
+      "surface": "בה",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "ספתה",
+      "gloss": "zachita kvutapo"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "Nyama"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "ndi mbalame"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ananena kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "-dzaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mathero athu"
+    },
+    {
+      "surface": "אחריתנו",
+      "gloss": "mathero athu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:33:24.927191089Z",
+  "model": "glm-5.3"
+}

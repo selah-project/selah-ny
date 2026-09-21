@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo maziko anali ndi zovala zokoma mtengo, zovala zazikulu, zovala za miyeso khumi, ndi zovala za miyeso sisiri.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "ndipo maziko"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "zovala"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "zokoma mtengo"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "zovala"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "zazikulu"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "zovala za"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "miyeso"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ndi zovala za"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "sisiri"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "miyeso"
+    }
+  ],
+  "timestamp": "2026-09-21T08:32:54.192723683Z",
+  "model": "glm-5.3"
+}

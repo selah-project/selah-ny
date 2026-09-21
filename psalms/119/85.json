@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Odzikuza anakomba miwalo ya ine, zimene si ⟨monga⟩ mwa Tora yako.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "anakomba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya ine"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "Odzikuza"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "miwalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "monga mwa Tora yako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:05.445810314Z",
+  "model": "glm-5.3"
+}

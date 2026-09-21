@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Ndipo moyo wanga udzasekera mwa Yahwe, udzakondwera m'chipulumutso chake.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Ndipo moyo wanga"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "udzasekera"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "mwa Yahwe"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "udzakondwera"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "m'chipulumutso chake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:31.433664839Z",
+  "model": "glm-5.3"
+}

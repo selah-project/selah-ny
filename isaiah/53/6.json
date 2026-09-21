@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 53:6",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 53,
+  "translation": "Tonse tinasochera ngati nkhosa, munthu aliyense watembenukira pa njira yake; ndipo Yahwe wafikitsa pa iye ⟨את⟩ zoipa za tonsefe.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "tonse"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "ngati nkhosa"
+    },
+    {
+      "surface": "תעינו",
+      "gloss": "tinasochera"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu aliyense"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "pa njira yake"
+    },
+    {
+      "surface": "פנינו",
+      "gloss": "watembenukira"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ndipo Yahwe"
+    },
+    {
+      "surface": "הפגיע",
+      "gloss": "wafikitsa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zoipa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "za tonsefe"
+    }
+  ],
+  "timestamp": "2026-09-21T09:22:53.467092502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 121,
+  "translation": "Yahwe akusunga iwe; Yahwe ndiye mthunzi wako, kumanja kwa dzanja lako.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "akusunga iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "mthunzi wako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dzanja"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "lako lamanja"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:35.913144305Z",
+  "model": "glm-5.3"
+}

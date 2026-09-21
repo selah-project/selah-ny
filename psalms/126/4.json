@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 126,
+  "translation": "Bwereranso, Yahwe, ⟨את⟩ kubweranso kwathu, ngati mitsinje m'kumwera kwa Negevi.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Bwereranso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kubweranso kwathu"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "kubweranso kwathu"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "ngati mitsinje"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "m'kumwera kwa Negevi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:23.336713386Z",
+  "model": "glm-5.3"
+}

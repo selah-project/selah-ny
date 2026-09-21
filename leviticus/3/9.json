@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 3:9",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo adzapereka, kuchokera pa nsembe ya ashelami, chakuyera cha moto kwa Yahwe: mafuta ake, msana wa mafuta wonse wathunthu, adzawochotera pafupi ndi mafupa; ndi ⟨את⟩ mafuta ofunda ⟨את⟩ zamkati, ndi ⟨את⟩ mafuta onse ali pa zamkati.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "adzapereka"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "kuchokera pa nsembe"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ya ashelami"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "chakuyera cha moto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "mafuta ake"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "msana wa mafuta"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "wathunthu"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "pafupi ndi"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "mafupa"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "adzawochotera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mafuta ofunda"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "ofunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zamkati"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "zamkati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mafuta onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ali"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "zamkati"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:58.388578757Z",
+  "model": "glm-5.3"
+}

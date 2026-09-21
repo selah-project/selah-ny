@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Aharoni ndi ana ake alowe posamukira msasa, ndipo atsitsere ⟨את⟩ chiphadzuwa cha chiphimbo, ndipo azifunda nacho ⟨את⟩ sanduku la umboni.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "alowe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ndi ana ake"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "posamukira"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "msasa"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "atsitsere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiphadzuwa"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "chiphadzuwa"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "cha chiphimbo"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "azifunda"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nacho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "la umboni"
+    }
+  ],
+  "timestamp": "2026-09-21T06:50:59.519894007Z",
+  "model": "glm-5.3"
+}

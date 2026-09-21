@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 3:18",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Pamodzi akaidi ali mtendere; samva liwu la wosenza ntchito mwa ankholo.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "pamodzi"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "akaidi"
+    },
+    {
+      "surface": "שאננו",
+      "gloss": "ali mtendere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mva"
+    },
+    {
+      "surface": "קול",
+      "gloss": "liwu"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "la wosenza ntchito mwa ankholo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:29:19.969598359Z",
+  "model": "glm-5.3"
+}

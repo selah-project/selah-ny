@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 47,
+  "translation": "Pakuti Elohim ⟨ndi⟩ mfumu ya dziko lonse lapansi; imbalani ⟨ndi⟩ nzeru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "imbalani"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "⟨ndi⟩ nzeru"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:54.929778397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo adzabweretsa ⟨את⟩ cholawa chake kwa Yahwe, ku khomo la chihema cha msonkhano, nkhosa yankhosa ya cholawa.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "adzabweretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cholawa chake"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "cholawa chake"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "khomo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "cha msonkhano"
+    },
+    {
+      "surface": "איל",
+      "gloss": "nkhosa yankhosa"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ya cholawa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:53.754458938Z",
+  "model": "glm-5.3"
+}

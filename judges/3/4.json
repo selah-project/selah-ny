@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo analipo kuti ayese mwa iwo ⟨את⟩ Yisraeli, kudziwa ngati amamvera ⟨את⟩ malamulo a Yahwe, amene anawalamulira ⟨את⟩ makolo awo mwa dzanja la Moshe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ndipo analipo"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "kuti ayese"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mwa iwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kudziwa"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "ngati amamvera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malamulo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "malamulo a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "anawalamulira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makolo awo"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "makolo awo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mwa dzanja la"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T07:46:20.658167592Z",
+  "model": "glm-5.3"
+}

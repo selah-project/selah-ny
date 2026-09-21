@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo Shauli anaitana ⟨את⟩ anthu onse ku nkhondo, kuti atsike ku Keila, kukazinga Dawidi ndi anthu ake.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "anaitana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ku nkhondo"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "kuti atsike"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ku Keila"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "kukazinga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "anthu ake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:11:13.983873564Z",
+  "model": "glm-5.3"
+}

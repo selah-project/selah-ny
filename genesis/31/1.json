@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 31:1",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo iye anamva ⟨את⟩ mawu a ana a Lavan, akuti: Yaakov atenga ⟨את⟩ zonse zinali za ababa athu, ndipo za zinali za ababa athu iye anapanga ⟨את⟩ ulemerero wonse uwu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "anamva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "a Lavan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akuti"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "atenga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zinali"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "za ababa athu"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "ndipo za"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "zinali za ababa athu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulemerero wonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ulemerero"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uwu"
+    }
+  ],
+  "timestamp": "2026-09-21T05:56:36.534347993Z",
+  "model": "glm-5.3"
+}

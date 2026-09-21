@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 94,
+  "translation": "Koma Yahwe adakhala ine chitetezo chokweza, ndipo Elohim wanga adakhala phwanga la chitetezo changa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "koma adakhala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "chitetezo chokweza"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ndipo Elohim wanga"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "phwanga"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "la chitetezo changa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:14.384355790Z",
+  "model": "glm-5.3"
+}

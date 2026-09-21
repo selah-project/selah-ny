@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo kunali tsiku lomwenero Yahwe anatulutsa ⟨את⟩ ana a Yisraeli kuchokera m'dziko la Mitsrayimu, m'magulu awo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo kunali"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "lomwenero"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lija"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "anatulutsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuchokera m'dziko la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "m'ma"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "magulu awo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:12:17.944585964Z",
+  "model": "glm-5.3"
+}

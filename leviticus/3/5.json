@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo ana a Aharon adzawotcha ⟨את⟩ uwu pa guwa, pa nsembe yopsereka ilili pa nkhuni izimene zili pa moto — nsembe ya moto, fungo lokondweretsa kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "adzawotcha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uwu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pa guwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nsembe yopsereka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "nkhuni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nsembe ya moto"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "fungo"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "lokondweretsa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:56.073009473Z",
+  "model": "glm-5.3"
+}

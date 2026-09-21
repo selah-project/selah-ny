@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Yitro, wansembe wa Midiyani, m'tsibweni wa Moshe, anamva ⟨את⟩ zonse zimene Elohim anachitira Moshe ndi Yisraeli, anthu ake, chifukwa Yahwe anatulutsa ⟨את⟩ Yisraeli kuchokera ku Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "anamva"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "wa Midiyani"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "m'tsibweni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "wa Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachitira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "ndi Yisraeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "anatulutsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuchokera ku Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:16:22.040084701Z",
+  "model": "glm-5.3"
+}

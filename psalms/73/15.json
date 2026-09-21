@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 73,
+  "translation": "Ngati ndati, ndidanena momwe, taona, ndinawukira mibadwo ya ana ako.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndati"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ndidanena"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "momwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mibadwo"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ana ako"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "ndinawukira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:26.326392869Z",
+  "model": "glm-5.3"
+}

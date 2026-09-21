@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Elohim anapanga ⟨את⟩ rakiya, ndipo anapatsaniza pakati pa madzi omwe ali pansi pa rakiya ndi pakati pa madzi omwe ali pamwamba pa rakiya; ndipo chinali chomwecho.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakiya"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "rakiya"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "anapatsaniza"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omwe"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakiya"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omwe"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pamwamba pa"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakiya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "chinali"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chomwecho"
+    }
+  ],
+  "timestamp": "2026-09-21T05:41:44.983660833Z",
+  "model": "glm-5.3"
+}

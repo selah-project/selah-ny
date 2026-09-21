@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo mbuziyo idanyamula pa iyeyo ⟨את⟩ machimo awo onse kufikira dziko lopatukira; ndipo adatuma ⟨את⟩ mbuziyo kum'dzeremu.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "idanyamula"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "mbuziyo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iyeyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "machimo awo onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "machimo awo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "lopatukira"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "adatuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbuziyo"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "mbuziyo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kum'dzeremu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:40:52.313921795Z",
+  "model": "glm-5.3"
+}

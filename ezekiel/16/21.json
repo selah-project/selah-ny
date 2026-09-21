@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo unapha ⟨את⟩ ana anga, ndipo unawapereka m'kupititsa ⟨את⟩ ⟨אותם⟩ kwa iwo.",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "Ndipo unapha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana anga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana anga"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "ndipo unawapereka"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "m'kupititsa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "kwa iwo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:01:18.536881302Z",
+  "model": "glm-5.3"
+}

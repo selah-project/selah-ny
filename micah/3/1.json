@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo ndinati: “Imvani tsopano, inu mitu ya Yakobo, ndi atsogoleri a nyumba ya Yisraeli: kodi si kwa inu kudziwa ⟨את⟩ chilamulo?”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ndinati"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Imvani"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mitu ya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "ndi atsogoleri a"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "kodi si"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kudziwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chilamulo"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "chilamulo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:29:58.056446387Z",
+  "model": "glm-5.3"
+}

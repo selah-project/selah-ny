@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Pakuti pali mawu ambiri owonjezera heveli; kodi kwa munthu pali chowonjezera chiyani?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "יש",
+      "gloss": "pali"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ambiri"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "owonjezera"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "heveli"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kodi … chiyani"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "chowonjezera"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "kwa munthu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:50.151468437Z",
+  "model": "glm-5.3"
+}

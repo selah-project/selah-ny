@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Moshe anasonkhaneza ⟨את⟩ gulu lonse la ana a Yisraeli, ndipo anati kwa iwo: “Izi ndi mawu amene Yahwe adalamulira ⟨את⟩ kuchita iwo.”",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "anasonkhaneza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gulu lonse la ana a Yisraeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "gulu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo anati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Izi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "adalamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "kuchita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "mawu (kuchita iwo)"
+    }
+  ],
+  "timestamp": "2026-09-21T06:26:00.146873674Z",
+  "model": "glm-5.3"
+}

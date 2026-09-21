@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 43:12",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 43,
+  "translation": "Ndipo ndalama ziwiri tengani m'manja mwanu, ndipo ⟨את⟩ ndalama yobwezedwa m'kamwa mwa zipatso zanu mubwezere m'manja mwanu; angakhale ndi cholakwika.",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "ndipo ndalama"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "tengani"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "m'manja mwanu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ndalama yobwezedwa"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ndalama"
+    },
+    {
+      "surface": "המושב",
+      "gloss": "yobwezedwa"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "m'kamwa mwa"
+    },
+    {
+      "surface": "אמתחתיכם",
+      "gloss": "zipatso zanu"
+    },
+    {
+      "surface": "תשיבו",
+      "gloss": "mubwezere"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "m'manja mwanu"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "angakhale"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "cholakwika"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:03:17.027749450Z",
+  "model": "glm-5.3"
+}

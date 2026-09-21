@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Kuti mbadwo wolonda udziwe, ana obadwa, adzayimiritsa nadzaonetsa kwa ana awo;",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "udziwe"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mbadwo"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "wolonda"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ana"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "obadwa"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "adzayimiritsa"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "nadzaonetsa"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "kwa ana awo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:35.048002168Z",
+  "model": "glm-5.3"
+}

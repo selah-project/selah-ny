@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo ngati idyedwa pa tsiku lachitatu, ndi choletsedwa; sichidzakhulupirikiridwa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ndipo ngati"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "idyedwa ndithu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "idyedwa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pa tsiku"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "lachitatu"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "ndi choletsedwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sichi-"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "dzakhulupirikiridwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:40:13.975513183Z",
+  "model": "glm-5.3"
+}

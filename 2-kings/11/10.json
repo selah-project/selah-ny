@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo wonsembe anapereka ku akulu a zana ⟨את⟩ mkwangwa ndi ⟨את⟩ zishango za mfumu Davide, zili m'nyumba ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "anapereka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wonsembe"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "ku akulu"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "a zana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkwangwa"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "mkwangwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zishango"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "zishango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "za"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zili"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:53:48.080621697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "udzadula ⟨את⟩ dzanja lake; diso lako lisachitire chifundo.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "udzadula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzanja lake"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lisa-"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "-chitire chifundo"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "diso lako"
+    }
+  ],
+  "timestamp": "2026-09-21T07:25:25.354915912Z",
+  "model": "glm-5.3"
+}

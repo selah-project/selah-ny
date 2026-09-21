@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 43,
+  "translation": "Weruzani, Elohim, ndipo chitirani chiweruzo changa ndi mtundu wosaopa Mulungu, ndi munthu wachinyengo ndi wolakwa mupulumutseni.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "weruzani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "ndipo chitirani chiweruzo"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "chiweruzo changa"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ndi mtundu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wosaopa"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "Mulungu"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ndi munthu"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "wachinyengo"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "ndi wolakwa"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "mupulumutseni"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:00.234833228Z",
+  "model": "glm-5.3"
+}

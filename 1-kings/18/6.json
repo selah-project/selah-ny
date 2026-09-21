@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 18:6",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo anadula mgawo ⟨kwa iwo⟩ ⟨את⟩ dziko, kuluta nalo; Ahabu anayenda njira imodzi yekha, ndipo Obadiahu anayenda njira imodzi yekha.",
+  "tokens": [
+    {
+      "surface": "ויחלקו",
+      "gloss": "anadula mgawo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨kwa iwo⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "kuluta nalo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imodzi"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yekha"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "ndipo Obadiahu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imodzi"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yekha"
+    }
+  ],
+  "timestamp": "2026-09-21T08:43:07.157094723Z",
+  "model": "glm-5.3"
+}

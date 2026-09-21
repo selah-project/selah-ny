@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 79,
+  "translation": "Pakuti anadya ⟨את⟩ Yakobo, ndipo ⟨את⟩ malo ake okhala anaawononga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "anadya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakobo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "malo ake okhala"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "anaawononga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:56.305716683Z",
+  "model": "glm-5.3"
+}

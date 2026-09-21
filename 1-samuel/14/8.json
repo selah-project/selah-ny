@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 14:8",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo Yehonatan anati: “Taona, ife tikupita kwa anthu amenewa, ndipo tidzionetse kwa iwo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo ... anati"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Taona"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "tikupita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "anthu amenewa"
+    },
+    {
+      "surface": "ונגלינו",
+      "gloss": "ndipo tidzionetse"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:05:33.746945348Z",
+  "model": "glm-5.3"
+}

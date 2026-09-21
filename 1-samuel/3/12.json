@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "M'menelo tsiku ndidzachitira Eli ⟨את⟩ zonse zimene ndanena za nyumba yake — ndiyamba ndikamaliza.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "m'menelo tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "umenewu"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ndidzachitira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ndanena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "za"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ndiyamba"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ndikamaliza"
+    }
+  ],
+  "timestamp": "2026-09-21T08:00:42.232110707Z",
+  "model": "glm-5.3"
+}

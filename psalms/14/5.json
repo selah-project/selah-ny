@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Mmenemo anaopsa mantha atali, popeza Elohim ali m'mbadwa ya wolungama.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Mmenemo"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "anaopsa mantha"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "atali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "m'mbadwa ya"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wolungama"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:01.529620124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo tchazi idzatuluka m'kachisi wa Yishayi, ndipo nthambi m'mizi yake idzabala zwabwino.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "idzatuluka"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "tchazi"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "m'kachisi wa"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishayi"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "ndipo nthambi"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "m'mizi yake"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "idzabala zwabwino"
+    }
+  ],
+  "timestamp": "2026-09-21T09:06:57.188150254Z",
+  "model": "glm-5.3"
+}

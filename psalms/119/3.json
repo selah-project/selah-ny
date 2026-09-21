@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ndithu iwo sachita chosalungama; m'njira zake anayenda.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ndithu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "chita"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "chosalungama"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "m'njira zake"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "anayenda"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:54.854946077Z",
+  "model": "glm-5.3"
+}

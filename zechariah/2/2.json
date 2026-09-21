@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndinati kwa mngelo wolankhula ndi ine: “Izi ndi zotani?” Ndiipo anati kwa ine: “Izi ndi zinyanga zimene zinabalalitsa ⟨את⟩ Yehuda, ⟨את⟩ Yisraeli, ndi Yerushalayimu.”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ndinati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mngelo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "wolankhula"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ndi ine"
+    },
+    {
+      "surface": "מה",
+      "gloss": "zotani"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Izi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Izi"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "zinyanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "zinabalalitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ndi Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:36:43.959031415Z",
+  "model": "glm-5.3"
+}

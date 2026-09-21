@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo mwa Yerushalayimu anakhalabe ena mwa ana a Yehudha, ndi ena mwa ana a Binyamini, ndi ena mwa ana a Efrayimu ndi Menashe.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "Ndipo mwa Yerushalayimu"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "anakhalabe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ena mwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ndi ena mwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamini"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ndi ena mwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "ndi Menashe"
+    }
+  ],
+  "timestamp": "2026-09-21T12:27:03.164083611Z",
+  "model": "glm-5.3"
+}

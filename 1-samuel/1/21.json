@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo munthu Elkanah ndi nyumba yake yonse anakwera kupereka kwa Yahwe ⟨את⟩ nsembe ya masiku ndi ⟨את⟩ chilumbiro chake.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "anakwera"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi yonse"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "kupereka nsembe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe ya masiku"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ya masiku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chilumbiro chake"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "chilumbiro chake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:59:41.014280105Z",
+  "model": "glm-5.3"
+}

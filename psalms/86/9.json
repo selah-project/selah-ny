@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 86,
+  "translation": "Mayiko onse umene anapanga adzadza ndi kugwada pamaso panu, Adonayi, ndi kulemekeza Dzina lanu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mayiko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "adzadza"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ndi kugwada pamaso"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "panu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "ndi kulemekeza"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Dzina lanu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:18.439966161Z",
+  "model": "glm-5.3"
+}

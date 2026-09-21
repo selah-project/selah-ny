@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 91,
+  "translation": "Pa manja adzakweza iwe, kuti usagwetse khosi lako pa mwala ungwiro.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "manja"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "adzakweza iwe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kuti usa"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "usagwetse khosi"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "pa mwala"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "kako ligulu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:45.637777602Z",
+  "model": "glm-5.3"
+}

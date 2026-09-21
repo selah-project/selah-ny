@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 72,
+  "translation": "Ndi wodala dzina la ulemerero wake ku nthawi zonse; ndipo ulemerero wake udzazira ⟨את⟩ dziko lonse lapansi. Ameni, ndi Ameni.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "Ndi wodala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dzina"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "la ulemerero wake"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "udzazira"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ulemerero wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko lonse lapansi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ameni"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ndi Ameni"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:27.596235204Z",
+  "model": "glm-5.3"
+}

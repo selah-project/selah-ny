@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 60,
+  "translation": "Elohim analankhula m'chipatso chake choyera: Ndidzakondwera, ndidzagawanitsa Shekemu, ndipo chigwa cha Sukuti ndidzayesa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "analankhula"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "m'chipatso chake choyera"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "Ndidzakondwera"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "ndidzagawanitsa"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemu"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ndipo chigwa cha"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukuti"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "ndidzayesa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:54.714311864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo golide wa dziko limeneli ndi wabwino; kumeneko kuli bedolamu ndi mwala wa shohamu.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "Ndipo golide"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa dziko"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "limeneli"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wabwino"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "kuli bedolamu"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ndi mwala"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "wa shohamu"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:47.437287218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 68,
+  "translation": "Wodala ndi Adonayi; tsiku ndi tsiku amatiunikira; El ndi chipulumutso chathu. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Wodala"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ndi Adonayi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ndi tsiku"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "amatiunikira"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨ife⟩"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "chipulumutso chathu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:18.116799922Z",
+  "model": "glm-5.3"
+}

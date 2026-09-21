@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo munthu amene adzagona ⟨את⟩ mwamuna, kugona kwa mkazi — choipitsa anachita awiriwo; kufa adzafa; mwazi wawo uli pa iwo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ndipo munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "adzagona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwamuna"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mwamuna"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "kugona kwa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "choipitsa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "awiriwo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "adzafa"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "mwazi wawo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:43:17.389697228Z",
+  "model": "glm-5.3"
+}

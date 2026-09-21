@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndi ⟨את⟩ Waaravadi, ndi ⟨את⟩ Watsemari, ndi ⟨את⟩ Wahamati; ndipo pambuyo pake mafuko a Mkanana anafalikafalika.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Waaravadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Waaravadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Watsemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Watsemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Wahamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Wahamati"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "pambuyo pake"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "anafalikafalika"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "mafuko"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "a Mkanana"
+    }
+  ],
+  "timestamp": "2026-09-21T05:45:55.030402134Z",
+  "model": "glm-5.3"
+}

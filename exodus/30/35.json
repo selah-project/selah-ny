@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo udzapanga ⟨את⟩ nkhunga, zamphambo zophatikizidwa, ntchito ya wophatikiza, yosakaniza mchere, yoyera, yopatulika.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "udzapanga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nkhunga"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "nkhunga"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "zamphambo zophatikizidwa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "ya wophatikiza"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "yosakaniza mchere"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "yoyera"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "yopatulika"
+    }
+  ],
+  "timestamp": "2026-09-21T06:22:17.497881234Z",
+  "model": "glm-5.3"
+}

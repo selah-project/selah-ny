@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 94,
+  "translation": "Dzikweza, iwe weruzi wa dziko lapansi; bwezera mphotho pa odzikuza.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Dzikweza"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "weruzi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "השב",
+      "gloss": "bwezera"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "mphotho"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "odzikuza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:52.544240676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo iye anauka pakati pa usiku, natenga ⟨את⟩ mwana wanga kumbali mwanga, pomwe mzakazi wako unagona, namugonetsa m'chifuwa mwake; ndipo ⟨את⟩ mwana wake wakufayo anamugonetsa m'chifuwa mwanga.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "Ndipo anauka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "natenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wanga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana wanga"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "kumbali mwanga"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "mzakazi wako"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "unagona"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "namugonetsa"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "m'chifuwa mwake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "mwana wake wakufayo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "המת",
+      "gloss": "wakufayo"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "anamugonetsa"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "m'chifuwa mwanga"
+    }
+  ],
+  "timestamp": "2026-09-21T08:32:03.020010557Z",
+  "model": "glm-5.3"
+}

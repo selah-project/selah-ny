@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ana a Azigadi, chiwiri chikwi makumi atatu ndi awiri.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ana a"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Azigadi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "chiwiri chikwi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makumi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi awiri"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ndi awiri"
+    }
+  ],
+  "timestamp": "2026-09-21T12:19:04.001337011Z",
+  "model": "glm-5.3"
+}

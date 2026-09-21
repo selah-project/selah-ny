@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 31:6",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Limbanani ndipo limbikani mtima, musaope ndipo musadadize chifukwa cha iwo, pakuti Yahwe Elohim wanu, ndiye amene ayenda ndi inu; sadzakulephera ndipo sadzakusiya.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Limbanani"
+    },
+    {
+      "surface": "ואמצו",
+      "gloss": "limbikani mtima"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musao-"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "pe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo musada-"
+    },
+    {
+      "surface": "תערצו",
+      "gloss": "dize"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "chifukwa cha iwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "amene ayenda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndi inu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "kulephera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sadza-"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "kusiya"
+    }
+  ],
+  "timestamp": "2026-09-21T07:32:18.757743587Z",
+  "model": "glm-5.3"
+}

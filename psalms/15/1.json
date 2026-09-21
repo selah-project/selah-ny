@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Nyimbo ya Davide. Yahwe, ndani adzakhalabe ngati mlendo m'hema yako? ndani adzakhala pa phiri lopatulika lako?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Nyimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Davide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "adzakhalabe ngati mlendo"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "m'hema yako"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pa phiri"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "lopatulika lako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:55.350958996Z",
+  "model": "glm-5.3"
+}

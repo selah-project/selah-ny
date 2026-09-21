@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 8:12",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "ndi kuyika kwa iwo paokha atsogoleri a mphambu zikwi ndi atsogoleri a makumi asanu, ndi kulima kulima kwake, ndi kukolola zokolola zake, ndi kupanga zida za nkhondo yake ndi zida za galeta zake.",
+  "tokens": [
+    {
+      "surface": "ולשום",
+      "gloss": "ndi kuyika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iwo paokha"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "atsogoleri"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "a mphambu zikwi"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ndi atsogoleri"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "a makumi asanu"
+    },
+    {
+      "surface": "ולחרש",
+      "gloss": "ndi kulima"
+    },
+    {
+      "surface": "חרישו",
+      "gloss": "kulima kwake"
+    },
+    {
+      "surface": "ולקצר",
+      "gloss": "ndi kukolola"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "zokolola zake"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ndi kupanga"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zida"
+    },
+    {
+      "surface": "מלחמתו",
+      "gloss": "za nkhondo yake"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ndi zida"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "za galeta zake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:01:08.039419879Z",
+  "model": "glm-5.3"
+}

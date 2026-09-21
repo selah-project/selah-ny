@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo mnduna zimenezo anapezera chakudya ⟨את⟩ mfumu Shelomo ndi ⟨את⟩ onse akafupi ndi gome la mfumu Shelomo, munthu mu mwezi wake; sanasowe kanthu.",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "anapezera chakudya"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "mnduna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "zimenezo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfumu Shelomo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "onse akafupi ndi gome"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "akafupi ndi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "gome"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "la mfumu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "mu mwezi wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana-"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "-sowe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kanthu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:33:17.265065223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo ine ndili ngati chiwombankhanga kwa Efrayimu, ndi ngati kuwola kwa nyumba ya Yehuda.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ndipo ine"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "ngati chiwombankhanga"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "kwa Efrayimu"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "ndi ngati kuwola"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kwa nyumba ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-21T10:19:45.758805683Z",
+  "model": "glm-5.3"
+}

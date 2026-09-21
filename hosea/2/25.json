@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndidzabwezera iye ndi mbewu yanga m'dziko lapansi, ndipo ndidzachitira chifundo ⟨את⟩ Lo-Ruhamahi; ndipo ndidzati kwa Lo-Ami: Inu ndinu anthu anga, ndipo iye adzati: Ndinu Elohim wanga.",
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "ndidzabwezera iye ndi mbewu yanga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko lapansi"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "ndipo ndidzachitira chifundo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamahi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamahi (wosachitiridwa chifundo)"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "ndipo ndidzati"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "kwa Lo-"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ami"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "anthu anga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ndipo iye"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "adzati"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:19:18.232467796Z",
+  "model": "glm-5.3"
+}

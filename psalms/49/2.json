@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Imvani izi, anthu onse; mwamvani makutu, nonse okhala m'dziko.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Imvani"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "anthu ⟨onse⟩ a mitundu"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "mwamvani makutu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nonse"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "okhala"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "m'dziko"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:37.124454984Z",
+  "model": "glm-5.3"
+}

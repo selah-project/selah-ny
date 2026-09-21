@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo ana a Aharon, ansembe, adzakhazikitsa ⟨את⟩ zigawo, ⟨את⟩ mutu ndi ⟨את⟩ mafuta, pa nkhuni zimene zili pa moto zimene zili pa altyari.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "adzakhazikitsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "a Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zigawo"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "zigawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutu"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩ mafuta",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "nkhuni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altyari"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:18.682268582Z",
+  "model": "glm-5.3"
+}

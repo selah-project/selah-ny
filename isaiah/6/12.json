@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo Yahwe adzaachotsa ⟨את⟩ munthu kuti agwire ntchito ya pakati pa dziko lapansi, ndipo chotayika chikhale chambiri pakati pa dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "adzaachotsa kutali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munthu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "chikhale chambiri"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "chotayika"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T09:03:48.630870475Z",
+  "model": "glm-5.3"
+}

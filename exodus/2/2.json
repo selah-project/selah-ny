@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo mkaziyo anabereka, nabala mwana wamwamuna; ndipo poona ⟨אתו⟩ kuti ali wokongola, anamubisa kwa miyezi itatu.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "anabereka"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mkaziyo"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nabala"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wamwamuna"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "poona"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iye (mwana)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wokongola"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ali"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "anamubisa"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "itatu"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "kwa miyezi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:03.555873918Z",
+  "model": "glm-5.3"
+}

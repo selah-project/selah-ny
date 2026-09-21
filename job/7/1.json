@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Kodi utumiki <wa nchito> siwuza munthu pa dziko lapansi, ndipo masiku ake ali monga masiku a mdayiri?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Kodi…si"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "utumiki"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "ndipo monga masiku a"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "mdayiri"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "masiku ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:31:36.367908881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 145,
+  "translation": "Kudziwitsa ana a anthu mphamvu zake, ndi ulemerero wokongola wa ufumu wake.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "Kudziwitsa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa ana a"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "mphamvu zake"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ndi ulemerero"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "wokongola"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "wa ufumu wake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:47.331256175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 3:1",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo Shelomoh anayamba kumanga ⟨את⟩ nyumba ya Yahwe ku Yerushalayimu, pa phiri la Moriya, komene kunayera kwa Davidi atate wake, kumene kunakonzedwa pa malo a Davidi, pa gululi la Arnani mye Yebusi.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "anayamba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kumanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ku Yerushalayimu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pa phiri"
+    },
+    {
+      "surface": "המוריה",
+      "gloss": "la Moriya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "komene"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "kunayera"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "kwa Davidi"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "atate wake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kumene"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "kunakonzedwa"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "pa malo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "a Davidi"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "pa gululi"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "la Arnani"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "mye Yebusi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:37:34.069118218Z",
+  "model": "glm-5.3"
+}

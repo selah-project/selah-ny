@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 57,
+  "translation": "Ndidzakuyamika mwa anthu, Adonayi; ndidzakuyimbira nyimbo mwa mitundu ya anthu.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ndidzakuyamika"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "mwa anthu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ndidzakuyimbira nyimbo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "mitundu ya anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:04.978425694Z",
+  "model": "glm-5.3"
+}

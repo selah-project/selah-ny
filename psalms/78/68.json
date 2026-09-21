@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Koma anasankha ⟨את⟩ gawo la Yehuda, ⟨את⟩ phiri la Tsiyoni limene anakonda.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "Koma anasankha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gawo la Yehuda"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "gawo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "la Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phiri la Tsiyoni"
+    },
+    {
+      "surface": "הר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "la Tsiyoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "anakonda"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:53.370861212Z",
+  "model": "glm-5.3"
+}

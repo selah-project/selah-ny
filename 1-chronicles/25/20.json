@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 25:20",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Kwa wachikhumi ndi atatu, Shubaeli, ana ake ndi abale ake, anali khumi ndi ziwiri.",
+  "tokens": [
+    {
+      "surface": "לשלשה",
+      "gloss": "kwa atatu (pa wachikhumi ndi…)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "wachikhumi"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "Shubaeli"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ndi abale ake"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "khumi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:33:17.440284854Z",
+  "model": "glm-5.3"
+}

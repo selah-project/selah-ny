@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "ndipo wakumva atamva ⟨את⟩ mawu a shofaro, koma sanachenjezedwe, ndipo lupangalo lidzabwera ndipo lidzamlanda iye — mwazi wake udzakhala pa mutu wake.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "ndipo wakumva"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "atamva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu a shofaro"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "a shofaro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "sanachenjezedwe"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ndipo lidzabwera"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "lupangalo"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "ndipo lidzamlanda iye"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "mwazi wake"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "pa mutu wake"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "udzakhala"
+    }
+  ],
+  "timestamp": "2026-09-21T10:10:26.970299656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Koma wa mtengo wodziwira zabwino ndi zoipa, usadye chokha chilichonse; pakuti tsiku limene udzadya chokha, kufa udzafa.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "koma wa mtengo"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "wodziwira"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zabwino"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ndi zoipa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usadye — osati"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "udzadye"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chokha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku limene"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "udzadya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chokha"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "udzafa"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:20.012816905Z",
+  "model": "glm-5.3"
+}

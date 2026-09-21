@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 46:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 46,
+  "translation": "Mverani inu ndithu, inu banja la Yakobo, ndi onse otsalawo a banja la Yisraeli, amene analemedwa kuchokera m'mimba, amene ananyamulidwa kuchokera m'chiberekero.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mverani"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "inu ndithu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "banja la"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi onse"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "otsalawo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a banja la"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "העמסים",
+      "gloss": "amene analemedwa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kuchokera"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "m'mimba"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "amene ananyamulidwa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kuchokera"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "m'chiberekero"
+    }
+  ],
+  "timestamp": "2026-09-21T09:19:53.211441041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 101,
+  "translation": "Sadzakhala mkati m'nyumba yanga wochita chinyengo; wolankhula zabodza sadzayimirira pamaso panga.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mkati"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "m'nyumba yanga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wochita"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "chinyengo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wolankhula"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "zabodza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "adzayimirira"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maso anga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:39.303642156Z",
+  "model": "glm-5.3"
+}

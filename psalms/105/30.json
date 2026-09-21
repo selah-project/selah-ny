@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Dziko lawo linadzaza ndi zule, m'mipinda yamkati ya mafumu awo.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "linadzaza ndi"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dziko lawo"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "zule"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "m'mipinda yamkati ya"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "mafumu awo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:49.033077031Z",
+  "model": "glm-5.3"
+}

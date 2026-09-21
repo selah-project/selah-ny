@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 66:19",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 66,
+  "translation": "Koma ndithu Elohim wamva; watsekereza khutu mawu a pemphero langa.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "koma ndithu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wamva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "watsekereza khutu"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "pemphero langa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:28.101512734Z",
+  "model": "glm-5.3"
+}

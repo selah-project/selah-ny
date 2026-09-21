@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 29:5",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo ndidzakutaya iwe ku chipululu, ⟨את⟩ iwe ndi ⟨את⟩ nsomba zonse za mitsinje yako; pa pansi pa dzenje udzagwa, sudzasonkhana, ndipo sudzakonzedwa; kwa zinyama za dziko lapansi ndi kwa mbalame za kumwamba ndidakupatsa iwe kukhala chakudya.",
+  "tokens": [
+    {
+      "surface": "ונטשתיך",
+      "gloss": "ndidzakutaya iwe"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "ku chipululu"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ iwe",
+      "marks": "iwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nsomba zonse za mitsinje yako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "דגת",
+      "gloss": "nsomba"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "za mitsinje yako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dzenje"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "udzagwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sudzasonkhana ⟨siti⟩"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "sudzasonkhana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sudzakonzedwa ⟨siti⟩"
+    },
+    {
+      "surface": "תקבץ",
+      "gloss": "sudzakonzedwa"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "kwa zinyama"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "za dziko lapansi"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "ndi kwa mbalame"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "za kumwamba"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ndidakupatsa iwe"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "kukhala chakudya"
+    }
+  ],
+  "timestamp": "2026-09-21T10:08:28.728800907Z",
+  "model": "glm-5.3"
+}

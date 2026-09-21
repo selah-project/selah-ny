@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 73,
+  "translation": "Pakuti palibe makaniziro kwa imfa yawo, ndipo thupi lawo ndi lamphamvu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "makaniziro"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "kwa imfa yawo"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "ndipo … lamphamvu"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "thupi lawo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:54.807768598Z",
+  "model": "glm-5.3"
+}

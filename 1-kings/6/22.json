@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 6:22",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo ⟨את⟩ nyumba yonse adazinga golide, mpaka kutha kwa nyumba yonse; ndipo guwa lonse la nsembe la malo opatulika adazinga golide.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyumba yonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "adazinga"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "תם",
+      "gloss": "kutha kwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo … lonse"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa lonse la nsembe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "la"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "malo opatulika"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "adazinga"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    }
+  ],
+  "timestamp": "2026-09-21T08:33:13.741972592Z",
+  "model": "glm-5.3"
+}

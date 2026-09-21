@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "⟨Kuti⟩ iweruze yatimanda ndi woponderezedwa, kuti munthu wa dziko lapansi asapulusekenso ⟨konse⟩.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "iweruze"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yatimanda"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "ndi woponderezedwa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "asi"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "asapulusekenso"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "konse"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "kupulusa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:40.439951652Z",
+  "model": "glm-5.3"
+}

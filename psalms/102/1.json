@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "Pemphero la wodzozedwa, pamene wathawa, ndipo pamaso pa Yahwe adathira kudandaula kwake.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Pemphero"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "la wodzozedwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pamene"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "wathawa"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ndipo pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "adathira"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "kudandaula kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:05.803279800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 85,
+  "translation": "Unanyamula cholakwa cha anthu ako; unabisa machimo onse awo. Selahi.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "Unanyamula"
+    },
+    {
+      "surface": "עון",
+      "gloss": "cholakwa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cha anthu ako"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "unabisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "machimo awo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:23.455495939Z",
+  "model": "glm-5.3"
+}

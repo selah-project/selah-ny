@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo ngati nsembe yake ichokera m’ziweto, m’nkhosa kapena m’buzi, ya nsembe yopsereka, adzawongolera ⟨woyamba⟩ wamwamuna wopanda chilema.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ndipo ngati"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ichokera m’"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ziweto"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "nsembe yake"
+    },
+    {
+      "surface": "מן",
+      "gloss": "m’"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "מן",
+      "gloss": "m’"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "buzi"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ya nsembe yopsereka"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "wamwamuna"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "wopanda chilema"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "adzawongolera"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:25.874735403Z",
+  "model": "glm-5.3"
+}

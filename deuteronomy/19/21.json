@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo diso lako lisachite chifundo: moyo chifukwa cha moyo, diso chifukwa cha diso, dzino chifukwa cha dzino, dzanja chifukwa cha dzanja, phazi chifukwa cha phazi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ndipo osati"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "lisachite chifundo"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "diso lako"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "chifukwa cha moyo"
+    },
+    {
+      "surface": "עין",
+      "gloss": "diso"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "chifukwa cha diso"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dzino"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "chifukwa cha dzino"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dzanja"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "chifukwa cha dzanja"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "phazi"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "chifukwa cha phazi"
+    }
+  ],
+  "timestamp": "2026-09-21T13:01:29.000213195Z",
+  "model": "glm-5.3"
+}

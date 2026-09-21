@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo ndinapatsa mtima wanga kudziwa nzeru, ndi kudziwa upusu ndi kusazirala; ndinadziwa kuti chabe izi, ndi kusautsika kwa mzimu.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ndipo ndinapatsa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kudziwa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "nzeru"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ndi kudziwa"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "upusu"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "ndi kusazirala"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndinadziwa"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "kuti ngati"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chabe"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "kusautsika"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "kwa mzimu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:54:30.134192860Z",
+  "model": "glm-5.3"
+}

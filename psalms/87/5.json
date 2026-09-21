@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 87,
+  "translation": "Ndipo za Tsiyoni zidzanenedwa: munthu ndi munthu anabadwa m'menemo, ndipo iye Elyoni adzaitsimikizira iye.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "ndipo za Tsiyoni"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "zidzanenedwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ndi munthu"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "anabadwa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ndipo iye"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "adzaitsimikizira iye"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoni"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:41.808424078Z",
+  "model": "glm-5.3"
+}

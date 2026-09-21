@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 99,
+  "translation": "Ndipo mphamvu ya mfumu imaonda chiweruzo; iwe unatsimikizira chilungamo, chiweruzo ndi chilungamo mwa Yakobo iwe unachita.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "ndipo mphamvu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya mfumu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chiweruzo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "imaonda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "unatsimikizira"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "chilungamo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chiweruzo"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ndi chilungamo"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "mwa Yakobo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "unachita"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:47.847961796Z",
+  "model": "glm-5.3"
+}

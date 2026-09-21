@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ine ndili kwa wokondedwa wanga, ndipo wokondedwa wanga ali wanga, wolusa mwa shoshanim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "ndili kwa wokondedwa wanga"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "ndipo wokondedwa wanga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ali wanga"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "wolusa"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "mwa shoshanim"
+    }
+  ],
+  "timestamp": "2026-09-21T11:49:00.702670712Z",
+  "model": "glm-5.3"
+}

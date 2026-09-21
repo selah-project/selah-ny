@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Ndidzaika dzanja lake pa nyanja, ndi dzanja lake lamanja pa mitsinje.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Ndidzaika"
+    },
+    {
+      "surface": "בים",
+      "gloss": "pa nyanja"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "pa mitsinje"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "dzanja lake lamanja"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:24.684619506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo m'chigawo cha Asheri ⟨את⟩ Mishali ndi ⟨את⟩ malo ake, ⟨את⟩ Abdoni ndi ⟨את⟩ malo ake.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Ndipo m'chigawo cha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asheri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishali"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Mishali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malo ake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malo ake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abdoni"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malo ake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malo ake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:42:58.512782274Z",
+  "model": "glm-5.3"
+}

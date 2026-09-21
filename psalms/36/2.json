@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Ndime ya kupandukira kwa woipa ikunena m'mkati mwa mtima wanga: kulibe kuopa ⟨Elohim⟩ pamaso pa maso ake.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "Ndime"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ya kupandukira"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "kwa woipa"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "m'mkati mwa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kulibe"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kuopa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "maso ake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:05.923375550Z",
+  "model": "glm-5.3"
+}

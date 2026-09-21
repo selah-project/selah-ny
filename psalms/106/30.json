@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Ndipo Pinchasi anaima ndi kupemphera, ndipo matendawo anayimitsidwa.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "anaima"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchasi"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "ndi kupemphera"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "anayimitsidwa"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "matendawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:00.973732673Z",
+  "model": "glm-5.3"
+}

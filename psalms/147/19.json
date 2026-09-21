@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 147:19",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 147,
+  "translation": "Amulalikira liwu lake kwa Yakobo; malamulo ake ndi miweruzo yake kwa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "amulalikira"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "liwu lake"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kwa Yakobo"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "malamulo ake"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "ndi miweruzo yake"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kwa Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:13.610684139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndidzakuchulukitsa ⟨את⟩ iwe kwambiri ndithu, ndipo ndidzakupanga iwe kukhala mitundu, ndipo mafumu mwa iwe adzatuluka.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "ndidzakuchulukitsa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ iwe",
+      "marks": "iwe"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "ndidzakupanga"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "mitundu"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "mwa iwe"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "adzatuluka"
+    }
+  ],
+  "timestamp": "2026-09-21T05:49:51.855787166Z",
+  "model": "glm-5.3"
+}

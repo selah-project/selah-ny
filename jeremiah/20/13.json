@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Imbirani kwa Yahwe, lemelani ⟨את⟩ Yahwe, chifukwa adampulumutsa ⟨את⟩ moyo wamphavi wa wofooka m'dzanja la oipa.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Imbirani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lemelani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "adampulumutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wamphavi wa wofooka"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "wa wofooka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "oipa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:36:35.171724559Z",
+  "model": "glm-5.3"
+}

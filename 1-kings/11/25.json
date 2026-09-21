@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo wozizira anali kwa Yisraeli masiku onse a Shelomo, kupatula ⟨את⟩ kuipa kumene Hadadi anachita; nadala Yisraeli, nadzalamulira ku Aramu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo anali"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "wozizira"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kwa Yisraeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "a Shelomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kupatula ⟨את⟩",
+      "marks": "kuipa"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kuipa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kumene"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadi"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "nadala"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "nadzalamulira"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:39:41.594910916Z",
+  "model": "glm-5.3"
+}

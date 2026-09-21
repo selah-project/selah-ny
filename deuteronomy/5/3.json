@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Si ndi ⟨את⟩ makolo athu Yahwe anapanga ⟨את⟩ pangano ili; koma ndi ⟨את⟩ ife ndife — ife amenewa, kuno, lero, tonse ife amoyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Si"
+    },
+    {
+      "surface": "את",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "makolo athu"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "makolo athu"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangano ili"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "pangano"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ili"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koma"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ife"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ife amenewa"
+    },
+    {
+      "surface": "פה",
+      "gloss": "kuno"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "tonse ife"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "amoyo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:15:59.371619833Z",
+  "model": "glm-5.3"
+}

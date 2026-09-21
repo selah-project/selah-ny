@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Elohim anapanga ⟨את⟩ ziwalazo zazikulu ziwiri: ⟨את⟩ kuwalakulu kulamulira usana, ndi ⟨את⟩ kuwalakochepa kulamulira usiku; ndi ⟨את⟩ nyenyezi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziwalazo zazikulu ziwiri"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "ziwalazo"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "zazikulu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuwalakulu"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "kuwala"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "kulu"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "kulamulira"
+    },
+    {
+      "surface": "היום",
+      "gloss": "usana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "kuwalakochepa"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "kuwala"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "kochepera"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "kulamulira"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyenyezi"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "nyenyezi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:41:55.579141701Z",
+  "model": "glm-5.3"
+}

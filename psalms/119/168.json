@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ndasunga malamulo anu ndi mabwalo anu; pakuti njira zanga zonse zili pamaso panu.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "Ndasunga"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "malamulo anu"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "ndi mabwalo anu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "njira zanga"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "pamaso panu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:50.779076675Z",
+  "model": "glm-5.3"
+}

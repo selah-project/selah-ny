@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 103,
+  "translation": "Pakuti monga momwe kumwamba kulili koposa dziko lapansi, koteronso khesedi kwake kulikulu pa iwo akuwaopa iye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "monga momwe … koposa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "kulikulu"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi kwake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "iwo akuwaopa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:28.409622603Z",
+  "model": "glm-5.3"
+}

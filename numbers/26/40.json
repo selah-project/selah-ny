@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 26:40",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo ana a Bela anali Aradi ndi Naamamu; kwa Aradi, gulu la Aaradayi; kwa Naamamu, gulu la Anaamayi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ndipo anali"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "Aradi"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "ndi Naamamu"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "gulu"
+    },
+    {
+      "surface": "הארדי",
+      "gloss": "la Aaradayi"
+    },
+    {
+      "surface": "לנעמן",
+      "gloss": "kwa Naamamu"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "gulu"
+    },
+    {
+      "surface": "הנעמי",
+      "gloss": "la Anaamayi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:06:23.792268099Z",
+  "model": "glm-5.3"
+}

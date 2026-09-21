@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 3:13",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo adasonkhutsa kwa iye ⟨את⟩ ana a Amoni ndi a Amaleki, nayenda, nagunda ⟨את⟩ Yisraeli, ndipo anatenga ⟨את⟩ mzinda wa minazi.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "adasonkhutsa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Amoni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "ndi Amaleki"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nayenda"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "nagunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "ndipo anatenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mzinda wa minazi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "wa minazi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:48:53.044979631Z",
+  "model": "glm-5.3"
+}

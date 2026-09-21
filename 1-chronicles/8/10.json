@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo ⟨את⟩ Yeutsi ndi ⟨את⟩ Sakhia ndi ⟨את⟩ Mirmaha; awa anali ana ake, atsinga a mabanja.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ndipo ⟨את⟩",
+      "marks": "Yeutsi"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Yeutsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Sakhia"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Sakhia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Mirmaha"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmaha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "atsinga"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "a mabanja"
+    }
+  ],
+  "timestamp": "2026-09-21T12:25:01.069673457Z",
+  "model": "glm-5.3"
+}

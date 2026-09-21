@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Koma kwa Chana adamupatsa ⟨את⟩ mbale zawiri, chifukwa adamukonda ⟨את⟩ Chana, ndipo Yahwe atatseka chiberekero chake.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "koma kwa Chana"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "adamupatsa"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "mbale"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "imodzi"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "zawiri (za nkhope zonse)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chana"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Chana"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "adamukonda"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ndipo Yahwe"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "atatseka"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "chiberekero chake"
+    }
+  ],
+  "timestamp": "2026-09-21T13:05:38.970205582Z",
+  "model": "glm-5.3"
+}

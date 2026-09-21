@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Adonayi Yahwe walumbira m'chioteka chake kuti: Taona, masiku akubwera pa inu, ndipo adzakukokani ⟨אתכם⟩ ndi zokolola, ndipo chotsalirani chidzakhala m'zokokera za nsomba.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "walumbira"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "m'chioteka chake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Taona"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "באים",
+      "gloss": "akubwera"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pa inu"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ndipo adzakukokani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "inu"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "ndi zokolola"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "ndipo chotsalirani"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "m'zokokera"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "za nsomba"
+    }
+  ],
+  "timestamp": "2026-09-21T10:26:06.586450019Z",
+  "model": "glm-5.3"
+}

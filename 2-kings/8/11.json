@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo anayimirira ⟨את⟩ nkhope yake kokhazikika, mpaka iye atafera manyazi; ndipo munthu wa Mulungu anayankhula ndi misozi.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "anayimirira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhope yake"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "nkhope yake"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "kokhazikika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "בש",
+      "gloss": "tafera manyazi"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "anayankhula ndi misozi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Mulungu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:52:03.890966697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo ndinati: “Ndidzakwezedwe ⟨את⟩ inu kuchokera ku chisoni cha Mitsrayimu, ku dziko la mwa Akhanaani, ndi Ahiti, ndi wa Aemori, ndi wa Aperizi, ndi wa Ahivi, ndi wa Ayebusi, ku dziko lokhuluka mkaka ndi uchi.”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ndinati"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ndidzakwezedwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "chisoni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "mwa Akhanaani"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "ndi Ahiti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ndi wa Aemori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ndi wa Aperizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ndi wa Ahivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ndi wa Ayebusi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "lokhuluka"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mkaka"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ndi uchi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:09:41.531426411Z",
+  "model": "glm-5.3"
+}

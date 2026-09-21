@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 11:3",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Akhenaani kum'mawa ndi kumanjira, ndi Aamori, ndi Ahiti, ndi Aperizi, ndi Ayevusi m'mapiri, ndi Ahivi pansi pa Hermoni, m'dziko la Mitzpa.",
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "Akhenaani"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "kum'mawa"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ndi kumanjira"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ndi Aamori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "ndi Ahiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ndi Aperizi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ndi Ayevusi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "m'mapiri"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ndi Ahivi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermoni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "la Mitzpa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:39:28.271515245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Ndipo anaphatikiza ⟨את⟩ ziyeriya zisanu, imodzi ku imodzi; ndipo ziyeriya zisanu zina anaziphatikiza imodzi ku imodzi.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "Ndipo anaphatikiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziyeriya zisanu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "zisanu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ziyeriya"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "imodzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "imodzi"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ndipo zisanu"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "ziyeriya"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "anaziphatikiza"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "imodzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "imodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:27:21.107199192Z",
+  "model": "glm-5.3"
+}

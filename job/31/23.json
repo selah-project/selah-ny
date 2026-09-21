@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 31:23",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Pakuti mantha kwa ine ndi tsankho la El, ndipo chifukwa cha ukulu wake sindingathe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "mantha"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "איד",
+      "gloss": "tsankho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומשאתו",
+      "gloss": "ndipo ukulu wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ndingathe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:42:39.190689920Z",
+  "model": "glm-5.3"
+}

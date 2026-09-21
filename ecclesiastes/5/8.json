@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Koma phindu la dziko ndi la onse; mfumu ndiye imaatumikira munda.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "koma phindu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la dziko"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "la onse"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "munda"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "imaatumikira"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:46.965905406Z",
+  "model": "glm-5.3"
+}

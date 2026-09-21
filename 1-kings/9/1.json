@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo zinachitika, Shelomoh atatha kumanga ⟨את⟩ nyumba ya Yahwe ndi ⟨את⟩ nyumba ya mfumu, ndi ⟨את⟩ chikondwerero chonse cha Shelomoh chimene anachifuna kuchita.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo zinachitika"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "atatha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kumanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mfumu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chikondwerero chonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chonse"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "chikondwerero"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "cha Shelomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "anachifuna"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuchita"
+    }
+  ],
+  "timestamp": "2026-09-21T08:37:12.627358640Z",
+  "model": "glm-5.3"
+}

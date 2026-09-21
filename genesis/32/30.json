@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndiipo Jaakobo adafunsa, nati: “Ndiudziwitse, ndapempha, dzina lako.” Koma iye adati: “Chifukwa chiyani ukufunsa dzina langa?” Ndiipo adamdalitsa iye ⟨את⟩ pomwepo.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "adafunsa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Ndiudziwitse"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapempha"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dzina lako"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Chifukwa chiyani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨ziyi⟩"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "ukufunsa"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "dzina langa"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "adamdalitsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pomwepo"
+    }
+  ],
+  "timestamp": "2026-09-21T05:56:47.978510015Z",
+  "model": "glm-5.3"
+}

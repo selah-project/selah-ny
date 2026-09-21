@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "M'chifupi cha khoma la chikwerero, njira ya kum'mawa, pamaso pa malo opatulidwa ndi pamaso pa chipangizo, zipinda.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "m'chifupi cha"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "khoma"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "la chikwerero"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njira ya"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "kum'mawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "malo opatulidwa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "chipangizo"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "zipinda"
+    }
+  ],
+  "timestamp": "2026-09-21T10:14:42.340155275Z",
+  "model": "glm-5.3"
+}

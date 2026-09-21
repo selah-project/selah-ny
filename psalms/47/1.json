@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 47,
+  "translation": "Kwa woyang'anira, wa ana a Korachi, nyimbo ⟨ya kuvina⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wa ana a"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nyimbo ⟨ya kuvina⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:37.138321630Z",
+  "model": "glm-5.3"
+}

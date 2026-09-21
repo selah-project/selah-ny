@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 37:1",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Kwa izi kopanso mtima wanga umagwedezeka ndi mantha, ndipo umatulukira m'malo mwake.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "kopanso"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "kwa izi"
+    },
+    {
+      "surface": "יחרד",
+      "gloss": "umagwedezeka ndi mantha"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ndipo umatulukira"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "m'malo mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:45:40.393216827Z",
+  "model": "glm-5.3"
+}

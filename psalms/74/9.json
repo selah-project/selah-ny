@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 74,
+  "translation": "Zizindikiro zathu sitinaona, palibenso mneneri, ndiponso palibe wa ⟨את⟩ ife amene amadziwa mpaka liti.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "zizindikiro zathu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "tinaona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "-nso"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "mneneri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndiponso palibe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "wa ife"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "amadziwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "liti"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:44.555268506Z",
+  "model": "glm-5.3"
+}

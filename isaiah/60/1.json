@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 60,
+  "translation": "Kweza, wawalitsa, chifukwa kuwala kwako kwadza, ndipo ulemerero wa Yahwe wayamba kuwala pa iwe.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "Kweza"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "wawalitsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kwadza"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "kuwala kwako"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ndi ulemerero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pa iwe"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "wayamba kuwala"
+    }
+  ],
+  "timestamp": "2026-09-21T09:25:41.896998808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 45,
+  "translation": "Mvera, iwe mwana wamkazi, ndipo penyerani, ndipo tendera khutu lako; ndipo waliremba anthu ako ndi nyumba ya atate wako.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Mvera"
+    },
+    {
+      "surface": "בת",
+      "gloss": "iwe mwana wamkazi"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "ndipo penyerani"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "ndipo tendera"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "khutu lako"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "ndipo waliremba"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "anthu ako"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ndi nyumba ya"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atate wako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:58.690737355Z",
+  "model": "glm-5.3"
+}

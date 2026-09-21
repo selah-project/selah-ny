@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Musandikoke ndi oipa, ndi ochita zoipa; akulankhula mtendere ndi anzawo, koma choipa chili mu mitima yawo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "ndikoke"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "oipa"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ochita"
+    },
+    {
+      "surface": "און",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "akulankhula"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mtendere"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "anzawo"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "koma choipa"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "mu mitima yawo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:08.433237736Z",
+  "model": "glm-5.3"
+}

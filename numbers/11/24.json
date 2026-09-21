@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 11:24",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Moshe anatuluka, nalankhula ndi anthu ⟨את⟩ mawu a Yahwe, nasonkhanitsa amuna asanu ndi awiri mwa akulu a anthu, nayimitsa ⟨אתם⟩ kuzungulira chihema.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "anatuluka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "nalankhula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "nasonkhanitsa"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "asanu ndi awiri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amuna"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "mwa akulu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a anthu"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "nayimitsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "amuna asanu ndi awiri"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "kuzungulira"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "chihema"
+    }
+  ],
+  "timestamp": "2026-09-21T06:57:20.529435316Z",
+  "model": "glm-5.3"
+}

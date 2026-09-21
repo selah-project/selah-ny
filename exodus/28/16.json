@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Lijikhale lachinayi, lifupikitsidwe ⟨lija⟩; kufafaniza kwa dzanja kutalika kwake, ndi kufafaniza kwa dzanja m'lifupi mwake.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "lachinayi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lijikhale"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "lifupikitsidwe"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "kufafaniza kwa dzanja"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "kutalika kwake"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "ndi kufafaniza kwa dzanja"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "m'lifupi mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:21:47.199877664Z",
+  "model": "glm-5.3"
+}

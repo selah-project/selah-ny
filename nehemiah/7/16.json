@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 7:16",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ana a Bebayi, mazana asanu ndi anayi makumi awiri ndi asanu ndi anayi.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ana a"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "Bebayi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "mazana asanu ndi anayi makumi awiri ndi asanu ndi anayi — הערך: שש מאות → mazana asanu ndi anayi (chidule)"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana asanu ndi anayi makumi awiri ndi asanu ndi anayi — הערך: עשרים → makumi awiri (chidule)"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi awiri"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ndi asanu ndi anayi"
+    }
+  ],
+  "timestamp": "2026-09-21T13:34:13.471706647Z",
+  "model": "glm-5.3"
+}

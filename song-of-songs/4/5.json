@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 4:5",
+  "book": "song-of-songs",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Mabere awiri ako ali ngati mbawala awiri, mapasa a mhembhe, akudzala m'mamonga mwa madzodzi.",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "mabere ako"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "ngati awiri"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "mbawala"
+    },
+    {
+      "surface": "תאומי",
+      "gloss": "mapasa a"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "mhembhe"
+    },
+    {
+      "surface": "הרועים",
+      "gloss": "akudzala"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "m'mamonga mwa madzodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:49:21.689411662Z",
+  "model": "glm-5.3"
+}

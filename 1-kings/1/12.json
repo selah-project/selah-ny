@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Tsopano chonde, kani, ndakupatseni uphungu womulingalira, ndipo pulumutsa ⟨את⟩ moyo wako ndi ⟨את⟩ moyo wa mwana wako Shelomo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Tsopano"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "kani"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "ndakupatseni uphungu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "chonde"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "womulingalira"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "pulumutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wako"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "moyo wa mwana wako Shelomo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wa mwana wako"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:30:07.297447085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo anatumikira mafano, amene Yahwe adanena kwa iwo: “Musachite ⟨את⟩ chinthu ichi.”",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "anatumikira"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "mafano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "adanena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "osati"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "musachite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chinthu ichi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chinthu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ichi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:56:25.617617777Z",
+  "model": "glm-5.3"
+}

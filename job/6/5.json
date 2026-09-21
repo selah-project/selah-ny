@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Kodi pere ima⟨ng'amba⟩ pa udzu? Kodi ng'ombe yegomera pa chakudya chake?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "kodi ima⟨ng'amba⟩"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "pere"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "udzu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kodi"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "yegomera"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "chakudya chake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:31:05.010363942Z",
+  "model": "glm-5.3"
+}

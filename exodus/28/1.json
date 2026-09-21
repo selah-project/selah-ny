@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 28:1",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Iwe, yandikitsa kwa iwe ⟨את⟩ Aharon m'bale wako, ndi ⟨את⟩ ana ake ⟨את⟩ pamodzi ndi iye, m'mamba mwa ana a Yisraeli, kuti asa memo monga mneneri wanga — ndiye Aharon, Nadabi ndi Abihuwa, Elazara ndi Ithamara, ana a Aharon.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yandikitsa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "m'bale wako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana ake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pamodzi ndi iye"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "m'mamba mwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "kuti asa memo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadabi"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ndi Abihuwa"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazara"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "ndi Ithamara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-09-21T06:21:09.373151185Z",
+  "model": "glm-5.3"
+}

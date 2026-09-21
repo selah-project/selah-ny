@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 43,
+  "translation": "Koma ngati simunamutse, sitikutsika; pakuti munthuyo anati kwa ife: Simuona nkhope yanga pokhapokha m'bale wanu ⟨את⟩ nanu.”",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Koma ngati"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "simunamutse"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "samuta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "tikutsika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munthuyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kwa ife"
+    },
+    {
+      "surface": "לא",
+      "gloss": "simu-"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "muona"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope yanga"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "pokhapokha"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "m'bale wanu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nanu (ali nanu)"
+    }
+  ],
+  "timestamp": "2026-09-21T06:04:25.368755988Z",
+  "model": "glm-5.3"
+}

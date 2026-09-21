@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo Mikali anatsitsa ⟨את⟩ Davide kudzera pa dirini; ndipo iye anapita, nathawa, napulumuka.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "anatsitsa"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "kudzera pa"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "dirini"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "anapita"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "nathawa"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "napulumuka"
+    }
+  ],
+  "timestamp": "2026-09-21T08:09:22.641881068Z",
+  "model": "glm-5.3"
+}

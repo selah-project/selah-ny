@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 62,
+  "translation": "Okha Iye ndiye thanthwe langa ndi chipulumutso changa; chitetezo changa; sindidzasunthika.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "okha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Iye"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "thanthwe langa"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ndi chipulumutso changa"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "chitetezo changa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "didzasunthika"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:20.908021378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "ndi ⟨את⟩ Gati, ndi ⟨את⟩ Maresha, ndi ⟨את⟩ Ziphu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Gati"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Maresha"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Maresha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Ziphu"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Ziphu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:39:11.963234933Z",
+  "model": "glm-5.3"
+}

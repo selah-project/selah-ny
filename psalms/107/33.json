@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Amasandutsa mitsinje kukhala chilengalenga, ndi malo amene madzi amatulukira kukhala chilala.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Amasandutsa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mitsinje"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "kukhala chilengalenga"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "ndi malo amene madzi amatulukira"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "kukhala chilala"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:27.823971328Z",
+  "model": "glm-5.3"
+}

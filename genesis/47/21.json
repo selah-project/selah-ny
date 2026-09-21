@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 47,
+  "translation": "Ndipo ⟨את⟩ anthu anawadutsitsa ku midzi, kuchokera ku chigawo cha mphaka ya Mitsrayimu mpaka ku chigawo chake chomaliza.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "anawadutsitsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ku midzi"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "ku midzi"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ku chigawo"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "cha mphaka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayimu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "ku chigawo chake chomaliza"
+    }
+  ],
+  "timestamp": "2026-09-21T06:06:14.435052955Z",
+  "model": "glm-5.3"
+}

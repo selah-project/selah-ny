@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 31:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Yendetsa kwa ine khutu lako; mwamsanga undilandire; khala thanthwe langa lachitetezo, bwalo la machilire, ondidzetsa.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "Yendetsa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "khutu lako"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "mwamsanga"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "undilandire"
+    },
+    {
+      "surface": "היה",
+      "gloss": "khala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨langa⟩"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "thanthwe"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "lachitetezo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "bwalo"
+    },
+    {
+      "surface": "מצודות",
+      "gloss": "la machilire"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "ondidzetsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:46.138378102Z",
+  "model": "glm-5.3"
+}

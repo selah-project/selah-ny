@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 31:44",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo tsopano bwerani, tipange pangano ife — ine ndi iwe — ndipo chikhale umboni pakati pa ine ndi pakati pa iwe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ndipo tsopano"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "bwerani"
+    },
+    {
+      "surface": "נכרתה",
+      "gloss": "tipange"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pangano"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ndi iwe"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ndipo chikhale"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "umboni"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "pakati pa ine"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ndi pakati pa iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T05:57:52.507761211Z",
+  "model": "glm-5.3"
+}

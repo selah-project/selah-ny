@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndipo ⟨את⟩ Atarothi-Shofani, ndi ⟨את⟩ Yazeri, ndi Yogbeha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Atarothi-Shofani"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarothi"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "Shofani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Yazeri"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazeri"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "ndi Yogbeha"
+    }
+  ],
+  "timestamp": "2026-09-21T07:09:31.322331396Z",
+  "model": "glm-5.3"
+}

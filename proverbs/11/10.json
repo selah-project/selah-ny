@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "M'chabwino cha olungama mzinda umasangalala; ndi potayika kwa oipa ⟨kuli⟩ kuyimba kwakutchindi.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "m'chabwino cha"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "olungama"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "umasangalala"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "ndi potayika kwa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "oipa"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "kuyimba kwakutchindi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:21:18.514708924Z",
+  "model": "glm-5.3"
+}

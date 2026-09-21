@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo adzakapereza ⟨את⟩ malo opatulika a mtengo wake wopatulika, ndi ⟨את⟩ hema ya msonkhano, ndipo ⟨את⟩ guwa lansembe adzakapereza; ndipo pa ansembe, ndi pa anthu onse a msonkhano, adzakapereza.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "adzakapereza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malo opatulika a mtengo wake wopatulika"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "malo opatulika"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a mtengo wake wopatulika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "hema ya msonkhano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya msonkhano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "guwa lansembe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa lansembe"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "adzakapereza"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndipo pa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "a msonkhano"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "adzakapereza"
+    }
+  ],
+  "timestamp": "2026-09-21T06:39:21.901855706Z",
+  "model": "glm-5.3"
+}

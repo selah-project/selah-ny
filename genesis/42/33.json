@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 42:33",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Ndipo munthuwo, mbuye wa dziko, anati kwa ife: “M'zimenezi ndidziwa kuti inu muli olungama; siyani m'bale wanu wina ⟨את⟩ kwa ine, ndipo mutenge ndi ⟨את⟩ chakudya cha njala ya m'nyumba zanu, mudzapita.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kwa ife"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munthuwo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mbuye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa dziko"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "m'zimenezi"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ndidziwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "muli olungama"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "m'bale wanu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "wina"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "siyani"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kwa ine",
+      "marks": "m'bale wanu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chakudya cha njala"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "cha njala"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "ya m'nyumba zanu"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "mutenge"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "mudzapita"
+    }
+  ],
+  "timestamp": "2026-09-21T06:03:09.839106031Z",
+  "model": "glm-5.3"
+}

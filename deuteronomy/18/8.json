@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Gawo monga gawo adzadya, kupatula zogulitsa zake za m'banja la makolo.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "Gawo"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "monga gawo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "adzadya"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "kupatula"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "zogulitsa zake"
+    },
+    {
+      "surface": "על",
+      "gloss": "za m'banja la"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "makolo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:23:08.032298835Z",
+  "model": "glm-5.3"
+}

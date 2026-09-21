@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 58,
+  "translation": "Ndipo munthu adzati: “Inde, pali phindu la wolungama; inde, pali Elohim woweruza pa dziko lapansi.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "adzati"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "inde"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "phindu"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "la wolungama"
+    },
+    {
+      "surface": "אך",
+      "gloss": "inde"
+    },
+    {
+      "surface": "יש",
+      "gloss": "pali"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "woweruza"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pa dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:09.337275169Z",
+  "model": "glm-5.3"
+}

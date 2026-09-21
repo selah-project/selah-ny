@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Khala wamphamvu ndi wokhulupirika mtima, pakuti iwe udzapereka ⟨את⟩ kwa anthu awa monga cholowa ⟨את⟩ dziko limene ndinalumbira kwa makolo awo kuti ndidzaipatsa iwo.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "Khala wamphamvu"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "ndi wokhulupirika mtima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "udzapereka monga cholowa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kwa anthu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ndinalumbira"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "kwa makolo awo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kuti ndidzaipatsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:35:18.540710234Z",
+  "model": "glm-5.3"
+}

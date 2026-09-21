@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 13:13",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo wansembe adzaona, ndipo taona, tsempho tawudzaza ⟨את⟩ thupi lake lonse, ndipo adzayeretsa ⟨את⟩ wolwera; wonse wasanduka woyera — woyera ndiye.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "adzaona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ndipo taona"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "tawudzaza"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsempho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thupi lake lonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "thupi lake"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "adzayeretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wolwera"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "wolwera"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "wasanduka"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "woyera ndiye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    }
+  ],
+  "timestamp": "2026-09-21T06:36:28.689131849Z",
+  "model": "glm-5.3"
+}

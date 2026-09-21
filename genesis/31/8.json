@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 31:8",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ngati anati momwamu: “Zolera zamadontho zidzakhala malipiro ako,” ndipo nkhosa zonse zinabala zolera zamadontho; kapena ngati anati momwamu: “Zolera zithunthithunthi zidzakhala malipiro ako,” ndipo nkhosa zonse zinabala zolera zithunthithunthi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "כה",
+      "gloss": "momwamu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "zolera zamadontho"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zidzakhala"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "malipiro ako"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "ndipo zinabala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "zolera zamadontho"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kapena ngati"
+    },
+    {
+      "surface": "כה",
+      "gloss": "momwamu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "עקדים",
+      "gloss": "zolera zithunthithunthi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zidzakhala"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "malipiro ako"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "ndipo zinabala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "עקדים",
+      "gloss": "zolera zithunthithunthi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:56:36.857221911Z",
+  "model": "glm-5.3"
+}

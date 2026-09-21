@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 18:6",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo anamangirira ndi Yahwe, sanatembenuke kum'mawa kwake, nayisunga malamulo ake amene Yahwe analamula ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "וידבק",
+      "gloss": "Ndipo anamangirira ndi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana-"
+    },
+    {
+      "surface": "סר",
+      "gloss": "anatembenuka"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "kum'mawa kwake"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "nayisunga"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "malamulo ake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "analamula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:56:00.933364699Z",
+  "model": "glm-5.3"
+}

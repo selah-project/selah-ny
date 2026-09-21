@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 86,
+  "translation": "Ikani khutu, Yahwe, pemphero langa, ndipo mverani mawu a mapemphero anga.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Ikani khutu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "pemphero langa"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "ndipo mverani"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "mapemphero anga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:57.215046618Z",
+  "model": "glm-5.3"
+}

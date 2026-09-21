@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "ndipo anayika ⟨את⟩ milungu yawo m'moto, chifukwa si milungu iwo, koma ntchito ya manja a anthu, mtengo ndi mwala; chifukwa cha izi anaononga iwo.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "ndipo anayika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "milungu yawo"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "milungu yawo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "m'moto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "milungu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "koma"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ya manja"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a anthu"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mtengo"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ndi mwala"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "anaononga iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:58:43.089659408Z",
+  "model": "glm-5.3"
+}

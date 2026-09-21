@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo Loti anatuluka kwa iwo pa khomo, natseka khomo m'mbuyo mwake.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "anatuluka"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loti"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "pa khomo"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "khomo"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "natseka"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "m'mbuyo mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T05:48:38.333878296Z",
+  "model": "glm-5.3"
+}

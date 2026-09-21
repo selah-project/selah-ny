@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 91,
+  "translation": "Pakuti iwe, Yahwe, ndiwe chitetezo changa; Elyoni, iwe unaiika malo anu okhala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "chitetezo changa"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoni"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "unaiika"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "malo anu okhala"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:45.637207929Z",
+  "model": "glm-5.3"
+}

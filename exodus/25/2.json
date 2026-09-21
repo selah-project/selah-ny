@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Lankhula ndi ana a Yisraeli, ndipo atenge chopinga changu; mwa ⟨את⟩ munthu aliyense amene mtima wake umamupereka mwaufulu, mudzaona ⟨את⟩ chopinga changa.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Lankhula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ndipo atenge"
+    },
+    {
+      "surface": "לי",
+      "gloss": "changu ⟨kwa ine⟩"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "chopinga"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mwa ⟨את⟩",
+      "marks": "munthu aliyense"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "umamupereka mwaufulu"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "mtima wake"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "mudzaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chopinga changa"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "chopinga changa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:20:11.608014790Z",
+  "model": "glm-5.3"
+}

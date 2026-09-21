@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 98,
+  "translation": "Ndi makasa a siliva ndi liwu la shofara, fulumirani pamaso pa mfumu Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Ndi makasa a siliva"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ndi liwu"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "la shofara"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "fulumirani"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:36.483507899Z",
+  "model": "glm-5.3"
+}

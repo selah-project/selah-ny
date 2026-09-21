@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo mneneri adamuona, ndipo taona, chizindikirocho chasanduka kukhala choyera; ndipo mneneri adayera ⟨את⟩ chizindikirocho; woyera ndi iye.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "adamuona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mneneri"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ndipo taona"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "chasanduka"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "chizindikirocho"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "kukhala choyera"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "adayera"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mneneri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chizindikirocho"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "chizindikirocho"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndi iye"
+    }
+  ],
+  "timestamp": "2026-09-21T06:37:19.931127306Z",
+  "model": "glm-5.3"
+}

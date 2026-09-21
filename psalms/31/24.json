@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Kondani ⟨את⟩ Yahwe, inu onse akhesedi ake; Yahwe amasunga okhulupirika, ndipo akubwezera mwachulukitsa yemwe akuchita kudzikuza.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "Kondani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onu onse"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "akhesedi ake"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "okhulupirika"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "amasunga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "ndipo akubwezera"
+    },
+    {
+      "surface": "על",
+      "gloss": "mwachulukitsa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "zazikulu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akuchita"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "kudzikuza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:43.415062961Z",
+  "model": "glm-5.3"
+}

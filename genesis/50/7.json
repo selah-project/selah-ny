@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 50:7",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 50,
+  "translation": "Ndipo Yosefe anakwera kukakonza ⟨את⟩ atate wake, ndipo anakwera pamodzi ndi iye ⟨את⟩ atumiki onse a Paro, akuluake a nyumba yake, ndi akulu onse a dziko la Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "anakwera"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "kukakonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atate wake"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atate wake"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ndipo anakwera"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "pamodzi ndi iye ⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "atumiki a"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "akuluake"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "a nyumba yake"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi onse"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "akulu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a dziko la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:06:38.612431070Z",
+  "model": "glm-5.3"
+}

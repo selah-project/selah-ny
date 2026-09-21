@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Ndipo ndidzaika ⟨את⟩ phiri la Seiri likhale chipatutso ndi chitayiko, ndipo ndidzadula kumenemo wolowa ndi wobwerera.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ndidzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phiri la Seiri"
+    },
+    {
+      "surface": "הר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "la Seiri"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "likhale chipatutso"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "ndi chitayiko"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ndipo ndidzadula"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kumenemo"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "wolowa"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ndi wobwerera"
+    }
+  ],
+  "timestamp": "2026-09-21T10:12:22.806576203Z",
+  "model": "glm-5.3"
+}

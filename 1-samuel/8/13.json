@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 8:13",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo ⟨את⟩ ana aakazi anu adzazilandira, akhale opanga mafuta omewa, ndi osanza nyama, ndi opanga mkate.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana aakazi anu"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "ana aakazi anu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "adzazilandira"
+    },
+    {
+      "surface": "לרקחות",
+      "gloss": "opanga mafuta omewa"
+    },
+    {
+      "surface": "ולטבחות",
+      "gloss": "ndi osanza nyama"
+    },
+    {
+      "surface": "ולאפות",
+      "gloss": "ndi opanga mkate"
+    }
+  ],
+  "timestamp": "2026-09-21T08:00:45.579599792Z",
+  "model": "glm-5.3"
+}

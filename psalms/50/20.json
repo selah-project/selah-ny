@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 50,
+  "translation": "Umakhala, n'kunena <m'mbuyo mwa m'bale wako, pa mwana wa amayi ako umapereka kuyalutsa.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "Umakhala"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "m'mbuyo mwa m'bale wako"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "n'kunena"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "pa mwana"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "wa amayi ako"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "umapereka"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "kuyalutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:50.052592304Z",
+  "model": "glm-5.3"
+}

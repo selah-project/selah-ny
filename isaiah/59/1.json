@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 59,
+  "translation": "Taonani, dzanja la Yahwe silinafupike ⟨kuti lisapulumutse⟩, ndipo khutu lake silinalemetsere ⟨kuti lisamve⟩.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Taonani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "kunafupika"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dzanja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "kupulumutsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "kunalemetsa"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "khutu lake"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "kumva"
+    }
+  ],
+  "timestamp": "2026-09-21T09:24:49.724266643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 2:9",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo mwana wamkazi wa Paro anati kwa iye: “Wolozetsa mwana uyu, ndipo muyamwitse kwa ine, ndipo ine ndidzakupatsa ⟨את⟩ malipiro ako.” Ndipo mayiwo anatenga ⟨את⟩ mwana uyo, namuyamwitsa.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paro"
+    },
+    {
+      "surface": "היליכי",
+      "gloss": "Wolozetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "והינקהו",
+      "gloss": "muyamwitse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ndipo ine"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndidzakupatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malipiro ako"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "malipiro ako"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mayiwo"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ותניקהו",
+      "gloss": "namuyamwitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:07:39.186832277Z",
+  "model": "glm-5.3"
+}

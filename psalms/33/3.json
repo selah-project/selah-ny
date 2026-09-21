@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Imbirani kwa Iye nyimbo yatsopano; sevelerani bwino kusevela, mwa kulira kwakukulu.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Imbirani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa Iye"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yatsopano"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "sevelerani bwino"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "kusevela"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "mwa kulira kwakukulu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:30.789886128Z",
+  "model": "glm-5.3"
+}

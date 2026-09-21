@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Elohim adaika nkhokwe pokwera kwa m'mawa, lotachiwiri; ndipo idakaniza ⟨את⟩ kikiyoni, ndipo unakhuta.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "adaika"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "nkhokwe"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "pokwera"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "m'mawa"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "lotachiwiri"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "idakaniza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kikiyoni"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "kikiyoni"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "unakhuta"
+    }
+  ],
+  "timestamp": "2026-09-21T13:24:11.191964114Z",
+  "model": "glm-5.3"
+}

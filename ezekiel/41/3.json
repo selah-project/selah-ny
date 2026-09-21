@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 41:3",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Ndiipo analowa mkati, nayesa mwala wa khomo maiye awiri, ndi khomo maiye asanu, ndi lifupi la khomo maiye anayi ndi limodzi.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ndipo analowa"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "mkati"
+    },
+    {
+      "surface": "וייד",
+      "gloss": "nayesa"
+    },
+    {
+      "surface": "איל",
+      "gloss": "mwala wa khomo"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "wa khomo"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "maiye"
+    },
+    {
+      "surface": "והפתח",
+      "gloss": "ndi khomo"
+    },
+    {
+      "surface": "שש",
+      "gloss": "asanu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "maiye"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ndi lifupi"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "la khomo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "anayi ndi limodzi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "maiye"
+    }
+  ],
+  "timestamp": "2026-09-21T10:16:15.600525784Z",
+  "model": "glm-5.3"
+}

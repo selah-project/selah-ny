@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Moshe ndi Aharoni anachita zizindikiro ⟨את⟩ zonse izi pamaso pa Paro; koma Yahwe anakakamiza ⟨את⟩ mtima wa Paro, ndipo sanatume ⟨את⟩ ana a Yisraeli kuti atuluke m'dziko lake.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Ndipo Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ndi Aharoni"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zizindikiro zonse izi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "zizindikiro"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "koma anakakamiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtima wa Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sanatume"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "tume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "m'dziko lake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:10:26.957220911Z",
+  "model": "glm-5.3"
+}

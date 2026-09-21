@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo Paro anaitana ⟨אל⟩ Moshe ndi kwa Aharoni, nati: “Mukani, phani nsembe kwa Elohim wanu m'dzikolo.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "anaitana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨אל⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "ndi kwa Aharoni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Mukani"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "phani nsembe"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "kwa Elohim wanu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dzikolo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:10:50.069897183Z",
+  "model": "glm-5.3"
+}

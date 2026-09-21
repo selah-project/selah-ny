@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 20:21",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo Edomu anakana kupereka ⟨את⟩ Yisraeli kulowa m'malire ake; ndipo Yisraeli anapatuka pa iye.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "anakana"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kupereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kulowa"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "m'malire ake"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "anapatuka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "pa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T07:02:25.542984888Z",
+  "model": "glm-5.3"
+}

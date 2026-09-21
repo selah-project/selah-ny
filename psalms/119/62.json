@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Phakati pa usiku ndidzauka kukayamika ndi kulamba kwa inu, chifukwa cha chiweruzo chanu cholungama.",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "phakati"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pa usiku"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ndidzauka"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "kukayamika ndi kulamba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "על",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "chiweruzo"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "chanu cholungama"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:28.192329978Z",
+  "model": "glm-5.3"
+}

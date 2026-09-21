@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 29:14",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndidabwezeretsa ⟨את⟩ chifungo cha Mitsrayimu, ndipo ndidawabwezera ku dziko la Pathrosi, ku dziko la kubadwira kwawo; ndipo adzakhala komweko ufumu wotsika mtima.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "ndidabwezeretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chifungo cha Mitsrayimu"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "chifungo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "cha Mitsrayimu"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "ndidawabwezera"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "ku dziko la Pathrosi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ku dziko"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "la Pathrosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "מכורתם",
+      "gloss": "la kubadwira kwawo"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "komweko"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "ufumu"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "wotsika mtima"
+    }
+  ],
+  "timestamp": "2026-09-21T10:09:00.062396294Z",
+  "model": "glm-5.3"
+}

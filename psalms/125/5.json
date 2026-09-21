@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 125,
+  "translation": "Koma amene amathamangira ku nzira zawo zachidenga, Yahwe adzawatenga ⟨את⟩ ochita zoipa; khotakhota pa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "koma amene amathamangira"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "ku nzira zawo zachidenga"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "adzawatenga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ochita zoipa"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ochita"
+    },
+    {
+      "surface": "האון",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "khotakhota"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:22.411265539Z",
+  "model": "glm-5.3"
+}

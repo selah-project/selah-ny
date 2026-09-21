@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "“Koma iwe ndi akapolo ako, ndidziwa kuti musanaope pamaso pa Yahwe Elohim.”",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "koma iwe"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "ndi akapolo ako"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndidziwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "musana-"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "muope"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T06:11:21.169307608Z",
+  "model": "glm-5.3"
+}

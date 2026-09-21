@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo Davide anayenda ndi kukulirakulira, ndipo Yahwe Elohim Tsevaoti anali naye.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ndi kupitirira"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "ndi kukulirakulira"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ndipo Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anali naye"
+    }
+  ],
+  "timestamp": "2026-09-21T08:18:34.433993139Z",
+  "model": "glm-5.3"
+}

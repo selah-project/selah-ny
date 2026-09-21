@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 115,
+  "translation": "Akupanga azikhala ngati izo — onse akukhulupirira izo;",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "ngati izo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "azikhala"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "akupanga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akukhulupirira"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "(khulupirira)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "izo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:17.562375360Z",
+  "model": "glm-5.3"
+}

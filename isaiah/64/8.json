@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 64:8",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 64,
+  "translation": "Musakwatire kwakukulu, Yahwe, ndipo usakumbukire zoipa ku nthawi zonse; taonani, penyerani, ndapata, anthu ako ndife tonse.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musai"
+    },
+    {
+      "surface": "תקצף",
+      "gloss": "kusakwatira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwakukulu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo usai"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "kusakumbukira"
+    },
+    {
+      "surface": "עון",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "הן",
+      "gloss": "taonani"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "penyerani"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapata"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "anthu ako"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "ife tonse"
+    }
+  ],
+  "timestamp": "2026-09-21T13:15:07.012364348Z",
+  "model": "glm-5.3"
+}

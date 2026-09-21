@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Zabadi anabala ⟨את⟩ Efalala, ndipo Efalala anabala ⟨את⟩ Obedi.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Ndipo Zabadi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efalala"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Efalala"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "ndipo Efalala"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obedi"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obedi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:22:58.680366335Z",
+  "model": "glm-5.3"
+}

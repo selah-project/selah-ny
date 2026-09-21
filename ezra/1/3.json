@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 1:3",
+  "book": "ezra",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndani mwa inu, wa anthu ake onse? Elohim wake akhale ndi iye, ndipo auke ku Yerushalayimu ili mu Yehuda, namange ⟨את⟩ nyumba ya Yahwe, Elohim wa Yisraeli — iye ndiye Elohim, amene ali ku Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ndani"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mwa inu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "wa…onse"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "akhale"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim wake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndi iye"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "auke"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "ku Yerushalayimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ili"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "mu Yehuda"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "namange"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye ndiye"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene ali"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ku Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:12:00.574155227Z",
+  "model": "glm-5.3"
+}

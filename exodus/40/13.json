@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo muvale ⟨את⟩ Aharoni ndi ⟨את⟩ zovala za chiyero, ndipo mudzoze ⟨את⟩ iye, ndipo mumutegule ⟨את⟩ iye, kuti atumikire Ine monga sembe.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "muvale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zovala za chiyero"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "zovala za"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "chiyero"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "mudzoze"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "mumutegule"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "atumikire monga sembe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Ine"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:44.400151902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 138,
+  "translation": "Yahwe adzamaliza za ine; Yahwe, khesediako likhalabe ku nthawi zonse; ntchito za manja ako musataye.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "adzamaliza"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "za ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesediako"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ntchito za"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "manja ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa-"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "taye"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:05.131091531Z",
+  "model": "glm-5.3"
+}

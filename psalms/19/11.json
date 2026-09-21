@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Zimenezi zikomedwa koposa golide, inde koposa golide wabwino wochuluka; ndi zotsekemera koposa uchi ndi madontho a chisa cha njuchi.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "zikomedwa koposa"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "koposa golide"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "inde koposa golide wabwino"
+    },
+    {
+      "surface": "רב",
+      "gloss": "wochuluka"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "zotsekemera koposa"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "koposa uchi"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "ndi madontho"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "a chisa cha njuchi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:32.746574797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 110,
+  "translation": "Adzamwa madzi akutsanira m'njira; choncho adzakweza mutu.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "madzi akutsanira"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "m'njira"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "adzamwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "choncho (pa izi)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "choncho"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "adzakweza"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:06.230202398Z",
+  "model": "glm-5.3"
+}

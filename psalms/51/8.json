@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 51,
+  "translation": "Taona, choonadi mumkati mukufuna, ndipo m'chinsinsi nzeru mudzandidziwitsa.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Taona"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "choonadi"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "mukufuna"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "mumkati"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "ndipo m'chinsinsi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "nzeru"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "mudzandidziwitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:42.496970006Z",
+  "model": "glm-5.3"
+}

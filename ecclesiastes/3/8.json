@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Nthawi yokonda, ndi nthawi yodana; nthawi ya nkhondo, ndi nthawi ya mtendere.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "nthawi"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "yokonda"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ndi nthawi"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "yodana"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nthawi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ya nkhondo"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ndi nthawi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ya mtendere"
+    }
+  ],
+  "timestamp": "2026-09-21T11:54:39.249085718Z",
+  "model": "glm-5.3"
+}

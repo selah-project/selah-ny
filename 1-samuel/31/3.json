@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 31:3",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo nkhondo inalemera pa Shauli, ndipo oluta amunampeza — amuna a uta — ndipo anavutika kwambiri chifukwa cha oluta.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "inalemera"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "nkhondo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "amunampeza"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "oluta"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "amuna a"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "anavutika"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "מהמורים",
+      "gloss": "chifukwa cha oluta"
+    }
+  ],
+  "timestamp": "2026-09-21T08:16:29.039536013Z",
+  "model": "glm-5.3"
+}

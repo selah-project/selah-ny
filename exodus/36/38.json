@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 36:38",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Ndipo ⟨את⟩ mapilala ake zisanu, ndi ⟨את⟩ mino yawo; ndipo anazinga mitu yawo ndi mizere yawo ndi golide; ndipo maziko awo asanu ⟨anal⟩ a mkuwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mapilala ake zisanu"
+    },
+    {
+      "surface": "עמודיו",
+      "gloss": "mapilala ake"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "zisanu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mino yawo"
+    },
+    {
+      "surface": "וויהם",
+      "gloss": "mino yawo"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "ndipo anazinga"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "mitu yawo"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "ndi mizere yawo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ndi golide"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ndipo maziko awo"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "asanu"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "a mkuwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:26:44.053204838Z",
+  "model": "glm-5.3"
+}

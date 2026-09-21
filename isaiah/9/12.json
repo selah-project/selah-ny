@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Koma anthu sanatembenukire kwa Amene wakuwamenya, ndipo ⟨את⟩ Yahwe Tsevaoti sanamufunefune.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "Koma anthu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "שב",
+      "gloss": "atembenukire"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "Amene wakuwamenya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Yahwe Tsevaoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "amufunefune"
+    }
+  ],
+  "timestamp": "2026-09-21T09:05:58.731382872Z",
+  "model": "glm-5.3"
+}

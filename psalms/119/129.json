@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Zozizwitsa ndi maboni anu; chifukwa chake moyo wanga uwasunga.",
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "zozizwitsa"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "maboni anu"
+    },
+    {
+      "surface": "על",
+      "gloss": "chifukwa chake ⟨pa⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨chifukwa chake⟩"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "uwasunga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:38.757075863Z",
+  "model": "glm-5.3"
+}

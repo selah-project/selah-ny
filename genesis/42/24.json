@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 42:24",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Ndipo anatembenuka kuchokera pawo, nadula; nabwerera kwa iwo, nayankhula nawo; natenga kwa ⟨את⟩ iwo ⟨את⟩ Shimoni, namumangitsa pamaso pawo.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "anatembenuka"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "kuchokera pawo"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "nadula"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nabwerera"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "nayankhula"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "nawo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "natenga"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "kwa ⟨את⟩ iwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shimoni"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimoni"
+    },
+    {
+      "surface": "ויאסר",
+      "gloss": "namumangitsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (Shimoni)"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "pamaso pawo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:03:22.727896019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo Yahwe ananena kwa Yehoshuwa: “Yambani iwe; chifukwa chiyani ichi — iwe wagwa pa nkhope yako?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo ananena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "קם",
+      "gloss": "Yambani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "chifukwa chiyani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "wagwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nkhope yako"
+    }
+  ],
+  "timestamp": "2026-09-21T07:36:42.427754084Z",
+  "model": "glm-5.3"
+}

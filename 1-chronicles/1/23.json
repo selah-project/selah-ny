@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "ndi ⟨את⟩ Ofiri, ndi ⟨את⟩ Chavilahi, ndi ⟨את⟩ Yovavu; onse awa anali ana a Yoktani.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Ofiri"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Chavilahi"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Chavilahi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Yovavu"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovavu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yoktani"
+    }
+  ],
+  "timestamp": "2026-09-21T12:22:25.026919164Z",
+  "model": "glm-5.3"
+}

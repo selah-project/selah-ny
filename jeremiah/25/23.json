@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo ⟨את⟩ Dedani, ndi ⟨את⟩ Tema, ndi ⟨את⟩ Buzi, ndi ⟨את⟩ onse odula zizindikiro za m'maso a nkhope.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "Dedani"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Tema"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Buzi"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "onse odula zizindikiro za m'maso a nkhope"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "odula"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "zizindikiro za m'maso a nkhope"
+    }
+  ],
+  "timestamp": "2026-09-21T09:38:27.734184574Z",
+  "model": "glm-5.3"
+}

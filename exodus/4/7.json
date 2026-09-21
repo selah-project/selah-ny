@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 4:7",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndi Iye anati: “Bwezeretsa dzanja lako m'chifuwa chako.” Ndi iye anabwezeretsa dzanja lake m'chifuwa chake, nachichotza m'chifuwa chake, ndipo taona, chinabweranso, monga thupi lake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ndi anati"
+    },
+    {
+      "surface": "השב",
+      "gloss": "bwezeretsa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dzanja lako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "m'chifuwa chako"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ndipo anabwezeretsa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חיקו",
+      "gloss": "m'chifuwa chake"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "natchotza"
+    },
+    {
+      "surface": "מחיקו",
+      "gloss": "m'chifuwa chake"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ndipo taona"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "chinabweranso"
+    },
+    {
+      "surface": "כבשרו",
+      "gloss": "monga thupi lake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:53.525524324Z",
+  "model": "glm-5.3"
+}

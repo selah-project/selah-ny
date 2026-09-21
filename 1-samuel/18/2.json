@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo Shauli adamutenga tsiku limenelo, sandampatse kuti abwerere ku nyumba ya atate wake.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "adamutenga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "limenelo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "-dampatse"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kuti abwerere"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ku nyumba ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atate wake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:09:43.577166766Z",
+  "model": "glm-5.3"
+}

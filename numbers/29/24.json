@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 29:24",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Nsembe zawo za ufa ndi zakumwa zawo: kwa makombe, kwa mathauni ndi kwa ana a nkhosa, monga mwa chiwerengero chawo, monga mwa chilamulo.",
+  "tokens": [
+    {
+      "surface": "מנחתם",
+      "gloss": "Nsembe zawo za ufa"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "ndi zakumwa zawo"
+    },
+    {
+      "surface": "לפרים",
+      "gloss": "kwa makombe"
+    },
+    {
+      "surface": "לאילם",
+      "gloss": "kwa mathauni"
+    },
+    {
+      "surface": "ולכבשים",
+      "gloss": "ndi kwa ana a nkhosa"
+    },
+    {
+      "surface": "במספרם",
+      "gloss": "monga mwa chiwerengero chawo"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "monga mwa chilamulo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:00:41.813239315Z",
+  "model": "glm-5.3"
+}

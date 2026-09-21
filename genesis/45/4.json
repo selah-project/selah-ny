@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 45,
+  "translation": "Ndipo Yosefu anati kwa abale ake: “Yandikirani kwa ine, chonde.” Ndipo anayandikira. Nati: “Ine ndine Yosefu, m'bale wanu, amene munandigulitsa ⟨את⟩ ine ku Mitsrayimu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abale ake"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Yandikirani"
+    },
+    {
+      "surface": "נא",
+      "gloss": "chonde"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "anayandikira"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "m'bale wanu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "munandigulitsa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ine",
+      "marks": "munandigulitsa"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ku Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:05:51.400058405Z",
+  "model": "glm-5.3"
+}

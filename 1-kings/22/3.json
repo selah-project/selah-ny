@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo mfumu ya Yisraeli inati kwa akapolo ake: “Kodi mudziwa kuti Ramothi wa Gileadi ndi ⟨ya⟩ ife, ndipo ife tachete, osatenga ⟨את⟩ iyi m'dzanja la mfumu ya Aramu?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo inati"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "akapolo ake"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Kodi mudziwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ndi ⟨ya⟩ ife"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramothi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "wa Gileadi"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ndipo ife"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "tachete"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "osatenga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyi (Ramothi)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "la mfumu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ya Aramu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:10:34.739186604Z",
+  "model": "glm-5.3"
+}

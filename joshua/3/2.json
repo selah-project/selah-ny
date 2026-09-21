@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo kunachitika, tata masiku atatu, atsogoleri anayendera mkati mwa msasa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kunachitika"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "tsata"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "anayendera"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "atsogoleri"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mkati mwa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "msasa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:33:58.642209018Z",
+  "model": "glm-5.3"
+}

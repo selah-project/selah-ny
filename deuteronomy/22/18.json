@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo akulu ake a mzindawo adzalandira ⟨את⟩ mwamuna uja, ndipo adzamulanga ⟨את⟩ iye.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ndipo adzalandira"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "akulu ake"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a mzinda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwamuna"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mwamuna"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "ndipo adzamulanga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "mwamuna (kumasulira)"
+    }
+  ],
+  "timestamp": "2026-09-21T07:25:28.988096618Z",
+  "model": "glm-5.3"
+}

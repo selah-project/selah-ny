@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 5:3",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ng'ombe khumi ozengeza, ndi ng'ombe makumi awiri a m'bawalo, ndi nkhosa zana, kupatula ayala, swala, yakhamuri, ndi nkhunda zopingasa.",
+  "tokens": [
+    {
+      "surface": "עשרה",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "Ng'ombe"
+    },
+    {
+      "surface": "בראים",
+      "gloss": "ozengeza"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ndi makumi awiri"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "a m'bawalo"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ndi … zana"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "kupatula"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "ayala"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "swala"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "yakhamuri"
+    },
+    {
+      "surface": "וברברים",
+      "gloss": "nkhunda"
+    },
+    {
+      "surface": "אבוסים",
+      "gloss": "zopingasa"
+    }
+  ],
+  "timestamp": "2026-09-21T08:35:31.470563007Z",
+  "model": "glm-5.3"
+}

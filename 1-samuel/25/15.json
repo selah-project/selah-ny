@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 25:15",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo anthuwo anali abwino kwa ife kwakukulu, ndipo sanatichitire manyazi, ndipo sitinataya kanthu masiku onse tinayenda ⟨את⟩ nawo, pamene tinali kuthengo.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "Ndipo anthuwo"
+    },
+    {
+      "surface": "טבים",
+      "gloss": "anali abwino"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa ife"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwakukulu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sitinachitiridwe"
+    },
+    {
+      "surface": "הכלמנו",
+      "gloss": "manyazi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sitinataya"
+    },
+    {
+      "surface": "פקדנו",
+      "gloss": "kanthu"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "kanthu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "tinayenda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ nawo",
+      "marks": "nawo (anthuwo)"
+    },
+    {
+      "surface": "בהיותנו",
+      "gloss": "pamene tinali"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kuthengo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:06:44.081634380Z",
+  "model": "glm-5.3"
+}

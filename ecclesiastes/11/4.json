@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Woyang'anira mphepo sadzabzala, ndi wopenya mitambo sadzakolola.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Woyang'anira"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mphepo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "dzabzala"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ndi wopenya"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "mitambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "dzakolola"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:55.475766468Z",
+  "model": "glm-5.3"
+}

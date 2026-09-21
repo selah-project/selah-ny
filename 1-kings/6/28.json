@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo anavundikira ⟨את⟩ makerubu ndi golide.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "Ndipo anavundikira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makerubu"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "makerubu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ndi golide"
+    }
+  ],
+  "timestamp": "2026-09-21T08:34:33.632890577Z",
+  "model": "glm-5.3"
+}

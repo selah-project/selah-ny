@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 147,
+  "translation": "Pakuti wamphamvutsa mibaro ya makomo anu, adadalitsa ana anu mkati mwanu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "wamphamvutsa"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "mibaro"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "ya makomo anu"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "adadalitsa"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ana anu"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "mkati mwanu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:06.474853433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 55,
+  "translation": "Mantha ndi kugwedezeka zinalowa mwa ine, ndi nkhawa yokhwima zinandipingasa.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "mantha"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "ndi kugwedezeka"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "zinalowa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mwa ine"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "ndi zinandipingasa"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "nkhawa yokhwima"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:48.283237310Z",
+  "model": "glm-5.3"
+}

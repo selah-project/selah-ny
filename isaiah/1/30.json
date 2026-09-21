@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Pakuti mudzakhala ngati mtengo wowola masamba ake, ndi ngati munda wopanda madzi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "mudzakhala"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "ngati mtengo"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "wowola"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "masamba"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "ndi ngati munda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wopanda"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ake"
+    }
+  ],
+  "timestamp": "2026-09-21T09:01:50.404368027Z",
+  "model": "glm-5.3"
+}

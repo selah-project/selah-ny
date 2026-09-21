@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo mfumu Shelomoh adatuma, natenga ⟨את⟩ Hiramu ku Tsofa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "adatuma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "natenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hiramu"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiramu"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ku Tsofa"
+    }
+  ],
+  "timestamp": "2026-09-21T08:35:23.969680843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Wodala chipatso cha mimba yako, ndi chipatso cha nthaka yako, ndi chipatso cha ziweto zako, kubala kwa nkhosi zako ndi mafumu a nkhosa zako.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Wodala"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "chipatso"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "cha mimba yako"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ndi chipatso"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "cha nthaka yako"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ndi chipatso"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "cha ziweto zako"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "kubala kwa"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "nkhosi zako"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "ndi mafumu a"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "nkhosa zako"
+    }
+  ],
+  "timestamp": "2026-09-21T07:28:57.190629119Z",
+  "model": "glm-5.3"
+}

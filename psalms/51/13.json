@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 51:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 51,
+  "translation": "Musanditaye pamaso pako, ndipo mzimu wako wopatulika musautenge kwa ine.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mus…"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "usanditaye"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "pamaso pako"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ndipo mzimu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "wako wopatulika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mus…"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "usautenge"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:41.285902976Z",
+  "model": "glm-5.3"
+}

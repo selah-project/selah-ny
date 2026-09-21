@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 148,
+  "translation": "Alemekezani Yahwe ⟨את⟩, kuchokera m'dziko lapansi, zinyama zazikulu za m'madzi ndi mabwalo onse a madzi.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Alemekezani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchokera"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "m'dziko lapansi"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "zinyama zazikulu za m'madzi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi onse"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "mabwalo a madzi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:35.154021685Z",
+  "model": "glm-5.3"
+}

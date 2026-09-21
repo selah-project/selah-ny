@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Pakuti akapolo anga ndiwo, amene ndinatulutsa ⟨את⟩ kuchokera m'dziko la Mitsrayimu; asagulitsidwe ndi kugulitsa kwa kapolo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "akapolo anga"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ndiwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ndinatulutsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dziko la Mitsrayimu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuchokera m'dziko la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asa"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "gulitsidwe"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "ndi kugulitsa"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kwa kapolo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:45:06.483379358Z",
+  "model": "glm-5.3"
+}

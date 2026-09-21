@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 15:32",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "ndi Lebauti, ndi Shilikhimu, ndi Ayini, ndi Rimoni; midzi yonse ndi isanu ndi makumi awiri, pamodzi ndi midzi yawo yaying'ono",
+  "tokens": [
+    {
+      "surface": "ולבאות",
+      "gloss": "ndi Lebauti"
+    },
+    {
+      "surface": "ושלחים",
+      "gloss": "ndi Shilikhimu"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ndi Ayini"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "ndi Rimoni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "midzi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi awiri"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ndi isanu"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "pamodzi ndi midzi yawo yaying'ono"
+    }
+  ],
+  "timestamp": "2026-09-21T07:40:27.164930484Z",
+  "model": "glm-5.3"
+}

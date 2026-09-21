@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 4:8",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo ⟨את⟩ chikopi cha cholemba cha lamulo chimene chinaliperekedwa ku Shushani kuwaononga iwo, anapereka kwa iye, kuchiwonetsa ⟨את⟩ Estere ndi kumuuza iye, ndi kumulamulira iye kulowa kwa mfumu, kum'pemphera iye, ndi kufunafuna pamaso pake chifukwa cha anthu ake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chikopi"
+    },
+    {
+      "surface": "פתשגן",
+      "gloss": "chikopi"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "cha cholemba"
+    },
+    {
+      "surface": "הדת",
+      "gloss": "cha lamulo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "chinaliperekedwa"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "ku Shushani"
+    },
+    {
+      "surface": "להשמידם",
+      "gloss": "kuwaononga iwo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anapereka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "kuchiwonetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Estere"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estere"
+    },
+    {
+      "surface": "ולהגיד",
+      "gloss": "ndi kumuuza"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ולצוות",
+      "gloss": "ndi kumulamulira"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "iye"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kulowa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "להתחנן",
+      "gloss": "kum'pemphera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "ndi kufunafuna"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "pamaso pake"
+    },
+    {
+      "surface": "על",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "anthu ake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:01:04.728337877Z",
+  "model": "glm-5.3"
+}

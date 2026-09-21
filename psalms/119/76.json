@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Khale chifundo chonu ⟨khesedi⟩ chonditonthoza, monga mwa lonjezo lanu kwa kapolo wanu, ndikupemphani.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "khale"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndikupemphani"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chifundo chonu ⟨khesedi⟩"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "chonditonthoza"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "monga mwa lonjezo lanu"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "kwa kapolo wanu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:34.806684901Z",
+  "model": "glm-5.3"
+}

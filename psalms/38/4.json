@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Palibe chilengedwe choona m'thupi langa chifukwa cha mkwira wanu; palibe mtendere m'mafupa anga chifukwa cha machimo anga.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "chilengedwe choona"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "m'thupi langa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "mkwira wanu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mtendere"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "m'mafupa anga"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "machimo anga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:33.587982764Z",
+  "model": "glm-5.3"
+}

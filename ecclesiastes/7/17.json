@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Usalakwa kwambiri, ndipo usakhale wopusa; chifukwa chiyani umfa musanafike nthawi yako?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "lalakwa"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo usa-"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "khale"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "wopusa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "chifukwa chiyani"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "umfa"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "musanafike"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "nthawi yako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:16.926360605Z",
+  "model": "glm-5.3"
+}

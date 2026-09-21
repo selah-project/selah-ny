@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Lauda ya Davide. Usayaka mtima ndi oipa, usakhale ndi nsanje kwa ochita zoipa.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Lauda ya Davide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "yake mtima"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "ndi oipa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "khale ndi nsanje"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "kwa ochita"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "zoipa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:33.559327552Z",
+  "model": "glm-5.3"
+}

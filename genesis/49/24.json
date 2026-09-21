@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 49:24",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Koma uta wake unakhazikika mwa mphamvu, ndipo manja ake anakhozeka ndi manja a Wamphamvu wa Yakobo; kumenako kuchokera Mbusa, Mwala wa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ותשב",
+      "gloss": "unakhazikika"
+    },
+    {
+      "surface": "באיתן",
+      "gloss": "mwa mphamvu"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "uta wake"
+    },
+    {
+      "surface": "ויפזו",
+      "gloss": "anakhozeka"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "manja"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ake"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ndi manja a"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "Wamphamvu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "wa Yakobo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kumenako"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Mbusa"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "Mwala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T06:06:36.461234519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 85,
+  "translation": "Chilungamo chidzayenda patsogolo pake, ndipo chidzaika mayendedwe ake njira.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Chilungamo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "patsogolo pake"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "chidzayenda"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ndipo chidzaika"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "mayendedwe ake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:10.962376920Z",
+  "model": "glm-5.3"
+}

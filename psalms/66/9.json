@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 66,
+  "translation": "Amene anayika moyo wathu m'moyo, ndipo sanapereke kuti mapazi athu agwedezeka.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Amene anayika"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "moyo wathu"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "m'moyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sanapereke"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "sanapereke"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "kugwedezeka"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "mapazi athu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:22.287391212Z",
+  "model": "glm-5.3"
+}

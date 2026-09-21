@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 45,
+  "translation": "Ndipo mudzike nayo ⟨את⟩ atate wanu ndi ⟨את⟩ mipando yanu ya m’banja, mudze kwa ine; ndipo ndidzakupatsani ⟨את⟩ zabwino za dziko la Mitsrayimu, ndipo mudye ⟨את⟩ mafuta a dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "mudzike nayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atate wanu"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "atate wanu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mipando yanu ya m’banja"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "mipando yanu ya m’banja"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "mudze"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ndidzakupatsani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zabwino"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zabwino"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "za dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "mudye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:05:40.799303938Z",
+  "model": "glm-5.3"
+}

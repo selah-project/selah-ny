@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Mapazi anga ndaleka ku njira iliyonse ya choipa, kuti ndisunge mawu ako.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ku iliyonse"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "njira"
+    },
+    {
+      "surface": "רע",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "ndaleka"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mapazi anga"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ndisunge"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "mawu ako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:24.564598849Z",
+  "model": "glm-5.3"
+}

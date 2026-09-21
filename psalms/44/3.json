@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Iwe, ndi dzanja lako, unachotsa amitundu ndipo unawatikika; unaswa mitundu ndipo unawatuma.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dzanja lako"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amitundu"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "unachotsa"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "ndipo unawatikika"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "unaswa"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "mitundu"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "ndipo unawatuma"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:31.476467185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 85,
+  "translation": "Kodi iwe sudzabwerera kuti utichitire moyo, ndipo anthu ako adzakondwera ndi iwe?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "kodi...sudza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "udzabwerera"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "kuti utichitire moyo"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ndipo anthu ako"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "adzakondwera"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ndi iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:22.576633262Z",
+  "model": "glm-5.3"
+}

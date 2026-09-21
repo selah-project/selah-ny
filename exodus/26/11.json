@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo udzachita zokulunga makumi asanu ndi anayi a mkuwa; ndipo ulowetse ⟨את⟩ zokulunga m'ziphuphu, ndipo ulumikize ⟨את⟩ ihema, kuti ikhale chimodzi.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "udzachita"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "zokulunga"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "a mkuwa"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "makumi asanu ndi anayi"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "udzalowetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zokulunga"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "zokulunga"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "m'ziphuphu"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "udzalumikiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihema"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ihema"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ndipo idzakhala"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "chimodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:19:51.923456542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 77,
+  "translation": "Unandigwiritsa ⟨את⟩ maso anga osatseguka; ndinavutika, ndipo sindinalankhula.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "Unandigwiritsa"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "kusunga"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maso anga osatseguka"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "ndinavutika"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sindina"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "lankhula"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:28.387968436Z",
+  "model": "glm-5.3"
+}

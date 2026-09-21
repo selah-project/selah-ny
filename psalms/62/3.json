@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 62,
+  "translation": "Iye yekha ndiye thanthwe langa ndi chipulumutso changa, chitetezo changa; sindidzanyamulika kwambiri.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Iye yekha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "thanthwe langa"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ndi chipulumutso changa"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "chitetezo changa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "-dzanyamulika"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "kwambiri"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:52.684446078Z",
+  "model": "glm-5.3"
+}

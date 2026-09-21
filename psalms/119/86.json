@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Malamulo ako onse ndi okhulupirika; ndi bodza anandithamangitsa; ndithandize ine.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "Malamulo ako"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "okhulupirika"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ndi bodza"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "anandithamangitsa"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "ndithandize"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:05.446051775Z",
+  "model": "glm-5.3"
+}

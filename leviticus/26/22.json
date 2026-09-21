@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo ndidzatuma mwa inu ⟨את⟩ nyama za m'thengo, ndipo idzachotsa ⟨את⟩ inu, ndipo idzadula ⟨את⟩ ziweto zanu, ndipo idzachepetsa ⟨את⟩ inu, ndipo njira zanu zidzakhala chilengalenga.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "ndipo ndidzatuma"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mwa inu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama za m'thengo"
+    },
+    {
+      "surface": "חית",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "za m'thengo"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "ndipo idzachotsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "ndipo idzadula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziweto zanu"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "ziweto zanu"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "ndipo idzachepetsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "zidzakhala chilengalenga"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "njira zanu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:48:15.882856582Z",
+  "model": "glm-5.3"
+}

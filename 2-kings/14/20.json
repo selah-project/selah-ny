@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo anamunyamula ⟨אתו⟩ pa mahachi, ndipo anamudika manda ku Yerushalayimu ndi makolo ake, m'mudzi wa Davide.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "anamunyamula"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iye (Amatsiyahu)"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "mahachi"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "anamudika manda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ku Yerushalayimu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "makolo ake"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "m'mudzi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa Davide"
+    }
+  ],
+  "timestamp": "2026-09-21T08:54:41.820476521Z",
+  "model": "glm-5.3"
+}

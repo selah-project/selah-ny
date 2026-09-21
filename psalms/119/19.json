@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ine ndine mlendo pa dziko lapansi; usabise kwa ine malamulo ako.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "mlendo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pa dziko lapansi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "-sabise"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "malamulo ako"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:12.805196482Z",
+  "model": "glm-5.3"
+}

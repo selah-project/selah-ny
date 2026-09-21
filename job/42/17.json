@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Ndipo Ayyubi anafa, wokalamba ndi wokhwima ndi masiku.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "anafa"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayyubi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "wokalamba"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ndi wokhwima"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ndi masiku"
+    }
+  ],
+  "timestamp": "2026-09-21T11:47:18.175395172Z",
+  "model": "glm-5.3"
+}

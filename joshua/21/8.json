@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo ana a Yisraeli anapatsa Alevi ⟨את⟩ mizi iyi ndi ⟨את⟩ malire ake a kuweta, monga Yahwe analamulira m'dzanja la Moshe, m'gololo.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ndipo anapatsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Alevi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizi iyi"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mizi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malire ake a kuweta"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "malire ake a kuweta"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "analamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "m'gololo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:42:38.758734981Z",
+  "model": "glm-5.3"
+}

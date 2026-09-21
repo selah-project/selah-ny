@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 27:3",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo Davide anakhalabe ndi Akhishi ku Gati, iye ndi anthu ake, munthu ndi nyumba yake; Davide ndi akazi ake awiri, Achinoamu wakwa Yizreeli ndi Avigayili mkazi wa Navali, wakwa Karmeli.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "anakhalabe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akhishi"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "ku Gati"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ndi anthu ake"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "ndi nyumba yake"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ndi awiri"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "akazi ake"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Achinoamu"
+    },
+    {
+      "surface": "היזרעאלית",
+      "gloss": "wakwa Yizreeli"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "ndi Avigayili"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "wa Navali"
+    },
+    {
+      "surface": "הכרמלית",
+      "gloss": "wakwa Karmeli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:14:48.031822938Z",
+  "model": "glm-5.3"
+}

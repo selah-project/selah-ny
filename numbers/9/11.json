@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "M'mwezi wachiwiri, pa tsiku lachinayi ndi khumi, pakati pa madzulo adzachita ⟨אתו⟩; ndi mkate wopanda chivundi ndi zakudya zawoitsa adzamudya.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "M'mwezi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wachiwiri"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "pa lachinayi ndi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "madzulo"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "adzachita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Pasika"
+    },
+    {
+      "surface": "על",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mkate wopanda chivundi"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "ndi zakudya zawoitsa"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "adzamudya"
+    }
+  ],
+  "timestamp": "2026-09-21T06:56:14.283599830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "diso m'malo mwa diso, dzino m'malo mwa dzino, dzanja m'malo mwa dzanja, phazi m'malo mwa phazi.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "diso"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "m'malo mwa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "diso"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dzino"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "m'malo mwa"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dzino"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dzanja"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "m'malo mwa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dzanja"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "phazi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "m'malo mwa"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "phazi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:18.530124923Z",
+  "model": "glm-5.3"
+}

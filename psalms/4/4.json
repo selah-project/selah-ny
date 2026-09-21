@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo dziwani kuti Yahwe walekaniza wolungama kwa iye yekha; Yahwe adzamvera pamene ndimuitana kwa Iye.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "Ndipo dziwani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "walekaniza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye yekha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "adzamvera"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "pamene ndimuitana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa Iye"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:43.978630916Z",
+  "model": "glm-5.3"
+}

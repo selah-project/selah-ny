@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "ndipo mkwiyo wa Elohim anakwera pa iwo, anapha olemera mwawo, ndipo achinyamata a Yisraeli anagwadira.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "ndipo mkwiyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "anakwera"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "pa iwo"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "anapha"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "olemera mwawo"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "ndipo achinyamata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "anagwadira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:49.422071666Z",
+  "model": "glm-5.3"
+}

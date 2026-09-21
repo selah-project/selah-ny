@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 43:26",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 43,
+  "translation": "Masiku asanu ndi awiri adzapereka chiwombolo cha ⟨את⟩ malo a nsembe, ndipo adzayeretsa ⟨אתו⟩, ndipo adzadzitsa dzanja lake.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Masiku asanu ndi awiri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku asanu ndi awiri"
+    },
+    {
+      "surface": "יכפרו",
+      "gloss": "adzapereka chiwombolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malo a nsembe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "malo a nsembe"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "ndipo adzayeretsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "malo a nsembe"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ndipo adzadzitsa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:17:36.234016708Z",
+  "model": "glm-5.3"
+}

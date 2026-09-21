@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 63,
+  "translation": "Pakuti khesedi yako ili yabwino koposa moyo; milomo yanga idzakulemekeza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ili yabwino"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedi yako"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "koposa moyo"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "milomo yanga"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "idzakulemekeza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:18.527032289Z",
+  "model": "glm-5.3"
+}

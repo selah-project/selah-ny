@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Onani, Adonayi Yahwe adza mwamphamvu, ndi dzanja lake ndilo lamulira iye; onani, malipiro ake ⟨את⟩ ali naye, ndi ntchito yake patsogolo pake.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Onani"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "mwamphamvu"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "adza"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ndi dzanja lake"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "lamulira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "onani"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "malipiro ake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ali naye",
+      "marks": "malipiro ake"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "ndi ntchito yake"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "patsogolo pake"
+    }
+  ],
+  "timestamp": "2026-09-21T09:17:25.127642601Z",
+  "model": "glm-5.3"
+}

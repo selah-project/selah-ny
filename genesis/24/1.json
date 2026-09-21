@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo Avraham anakalamba, analowa m'masiku, ndipo Yahwe anadalitsa ⟨את⟩ Avraham m'zinthu zonse.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Ndipo Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "anakalamba"
+    },
+    {
+      "surface": "בא",
+      "gloss": "analowa"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "m'masiku"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ndipo Yahwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "anadalitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "m'zinthu zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T05:51:30.702033135Z",
+  "model": "glm-5.3"
+}

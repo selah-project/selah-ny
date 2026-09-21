@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Pakuti khesedi ndifunayo, si nsembe; ndipo kudziwa Elohim kuposa nsembe zopsereza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesedi"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ndifunayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "si"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ndipo kudziwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "kuposa nsembe zopsereza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:19:48.483925367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Mawu a Yahwe ndi mawu oyera; ngati siliva yoyengedwa m'ng'anjo ⟨ya⟩ dziko lapansi, yoyeretsedwa nthawi zisanu ndi ziwiri.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "Mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "oyera"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "yoyengedwa"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "m'ng'anjo"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ya dziko lapansi"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "yoyeretsedwa"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "nthawi zisanu ndi ziwiri"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:05.754934499Z",
+  "model": "glm-5.3"
+}

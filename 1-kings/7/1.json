@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo ⟨את⟩ nyumba yake anamanga Shelomoh miyaka khumi ndi zitatu, namaliza ⟨את⟩ nyumba yake yonse.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyumba yake"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anamanga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "khumi ndi zitatu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "miyaka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miyaka"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "namaliza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba yake yonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    }
+  ],
+  "timestamp": "2026-09-21T13:09:53.555452774Z",
+  "model": "glm-5.3"
+}

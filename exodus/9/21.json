@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Koma amene sanaimike mtima wake pa mawu a Yahwe, anasiya ⟨את⟩ akapolo ake ndi ⟨את⟩ ziweto zake m'themberero.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Koma amene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "שם",
+      "gloss": "-imika"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "mtima wake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "anasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akapolo ake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "akapolo ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ziweto zake"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "ziweto zake"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "m'themberero"
+    }
+  ],
+  "timestamp": "2026-09-21T06:11:59.633245917Z",
+  "model": "glm-5.3"
+}

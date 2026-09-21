@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Ndi ⟨את⟩ altare la fumbi, ndi ⟨את⟩ mikwingwirima yake, ndi ⟨את⟩ mafuta a kudzozedwa, ndi ⟨את⟩ fumbi la zinthu zamkuntho, ndi ⟨את⟩ chikhoma cha khomo, pamaso pa khomo la Malo Opatulika.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "altare la fumbi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "la fumbi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mikwingwirima yake"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mikwingwirima yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mafuta a kudzozedwa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "a kudzozedwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "fumbi la zinthu zamkuntho"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "fumbi"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "la zinthu zamkuntho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chikhoma cha khomo"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "chikhoma"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "cha khomo"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "pamaso pa khomo"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "la Malo Opatulika"
+    }
+  ],
+  "timestamp": "2026-09-21T06:25:09.726573355Z",
+  "model": "glm-5.3"
+}

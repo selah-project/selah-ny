@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 2:3",
+  "book": "lamentations",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Mkwiyo wake wonyezimira adapha mkango wonse wa Israyeli, adabweza dzanja lake lamanja pamaso pa mdani, ndipo adawotcha mwa Yakobo ngati moto woyaka, unadya zonse ku m'mbali zonse.",
+  "tokens": [
+    {
+      "surface": "גדע",
+      "gloss": "adapha"
+    },
+    {
+      "surface": "בחרי",
+      "gloss": "mkuwunya"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mkwiyo wake wonyezimira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "mkango"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Israyeli"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "adabweza"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "kumbuyo"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "dzanja lake lamanja"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mdani"
+    },
+    {
+      "surface": "ויבער",
+      "gloss": "ndipo adawotcha"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "mwa Yakobo"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "ngati moto"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "woyaka"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "unadya"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ku m'mbali zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T13:31:55.184240355Z",
+  "model": "glm-5.3"
+}

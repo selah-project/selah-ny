@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo Lavan anampatsa ⟨את⟩ Zilpah, mntchito wake wamkazi, kukhala mntchito wamkazi wa Lea mwana wake wamkazi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "anapatsa"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpah"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpah"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "mntchito wake wamkazi"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "wa Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "mwana wake wamkazi"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "mntchito wamkazi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:54:10.018121778Z",
+  "model": "glm-5.3"
+}

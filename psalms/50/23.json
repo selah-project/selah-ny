@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 50,
+  "translation": "Wopereka nsembe ya chiyamiko alemeza ine, ndi wowongolera njira yake; ndidzamionetsera chipulumutso cha Elohim.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Wopereka nsembe"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ya chiyamiko"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "alemeza ine"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ndi wowongolera"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njira yake"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "ndidzamionetsera"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "chipulumutso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "cha Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:09.339840581Z",
+  "model": "glm-5.3"
+}

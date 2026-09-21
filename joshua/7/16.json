@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo Yehoshuwa anauka kwachangu mmamawa, nabweretsa ⟨את⟩ Yisraeli patsogolo m'mafuko ake, ndipo fuko la Yehuda lanegidwa.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "anauka kwachangu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mmamawa"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "nabweretsa patsogolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "m'mafuko ake"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ndipo lanegidwa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "fuko"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-21T13:02:39.473805993Z",
+  "model": "glm-5.3"
+}

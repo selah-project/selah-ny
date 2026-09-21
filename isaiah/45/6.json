@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 45,
+  "translation": "Kuti adziwe kuchokera ku kutuluka kwa dzuwa ndi ku kutsika kwake, kuti palibe wina koma Ine; Ine ndine Yahwe, ndipo palibe wina.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Kuti"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "adziwe"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "kuchokera ku kutuluka kwa"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "dzuwa"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "ndi ku kutsika kwake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "koma Ine"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wina"
+    }
+  ],
+  "timestamp": "2026-09-21T09:20:09.533549456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 92,
+  "translation": "Koma iwe, Yahwe, uli pamwamba kosalekeza.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "koma iwe"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "pamwamba"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "kosalekeza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:51.302647699Z",
+  "model": "glm-5.3"
+}

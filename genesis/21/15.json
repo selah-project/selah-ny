@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Madzi anatha m'chidebe, ndipo anaponya ⟨את⟩ mwana pansi pa chimodzi mwa zitsulu.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "anatha"
+    },
+    {
+      "surface": "המים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "m'"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "chidebe"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "anaponya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "chimodzi"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "mwa zitsulu"
+    }
+  ],
+  "timestamp": "2026-09-21T05:51:09.970239363Z",
+  "model": "glm-5.3"
+}

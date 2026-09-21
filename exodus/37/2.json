@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo anazinga ⟨iyo⟩ ndi golide woyera mkati ndi kunja, napanga chisoti cha golide chozungulira.",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "anazinga"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mkati"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "ndi kunja"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "napanga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chake"
+    },
+    {
+      "surface": "זר",
+      "gloss": "chisoti"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "cha golide"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chozungulira"
+    }
+  ],
+  "timestamp": "2026-09-21T06:28:27.761023965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ngati gulu lankhondo lidzakhazikika motsutsana ndi ine, mtima wanga sudzaopa; ngati nkhondo idzayamba motsutsana ndi ine, m'zimenezi ndikakhulupirira.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "lidzakhazikika"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "motsutsana ndi ine"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "gulu lankhondo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "dzaopa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "idzayamba"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "motsutsana ndi ine"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "nkhondo"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "m'zimenezi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "ndikakhulupirira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:04.713791405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Kotero anati Adonayi Yahwe: “Sidzayima, ndipo sidzakhala.”",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kotero"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "dzayima"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si-"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "dzakhala"
+    }
+  ],
+  "timestamp": "2026-09-21T09:03:12.697604798Z",
+  "model": "glm-5.3"
+}

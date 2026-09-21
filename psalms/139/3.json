@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 139,
+  "translation": "Njira yanga ndi kulala kwanga waunsesa; ndi njira zanga zonse mwayanzi.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "Njira yanga"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "ndi kulala kwanga"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "waunsesa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi zonse"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "njira zanga"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "mwayanzi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:29.641505701Z",
+  "model": "glm-5.3"
+}

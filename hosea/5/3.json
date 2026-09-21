@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 5:3",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ine ndikudziwa Efereyimu, ndipo Yisraeli sichinabisike kwa Ine; pakuti tsopano iwe, Efereyimu, wachita chigololo, Yisraeli wadetsedwa.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndikudziwa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efereyimu"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ndipo Yisraeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "chinabisike"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwa Ine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "הזנית",
+      "gloss": "wachita chigololo"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efereyimu"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "wadetsedwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T10:21:15.774822593Z",
+  "model": "glm-5.3"
+}

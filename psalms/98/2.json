@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 98,
+  "translation": "Yahwe wadziwitsa chipulumutso chake; pamaso pa amitundu wavumbulutsa chilungamo chake.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "wadziwitsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "chipulumutso chake"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amitundu"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "wavumbulutsa"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "chilungamo chake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:02.846324715Z",
+  "model": "glm-5.3"
+}

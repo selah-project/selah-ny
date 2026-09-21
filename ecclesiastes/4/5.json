@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Wopusa amasunga ⟨את⟩ manja ake, ndipo amadya ⟨את⟩ thupi lake.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "Wopusa"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "amasunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manja ake"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "manja ake"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ndipo amadya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thupi lake"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "thupi lake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:51.630997058Z",
+  "model": "glm-5.3"
+}

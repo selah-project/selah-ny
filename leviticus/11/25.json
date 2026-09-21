@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo aliyense wonyamula kanthu ka m'thupi lao adzasambitsa zovala zake, nakhala wodetsedwa mpaka madzulo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ndipo aliyense"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "wonyamula"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "kanthu ka m'thupi lao"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "adzasambitsa"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "zovala zake"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "nakhala wodetsedwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "madzulo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:34:55.746009459Z",
+  "model": "glm-5.3"
+}

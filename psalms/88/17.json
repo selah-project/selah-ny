@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 88,
+  "translation": "Kukwiya kwako kwadutsa pa ine; mantha ako anadula ⟨⟨את⟩⟩ ine.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "kwadutsa"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "kukwiya kwako"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "mantha ako"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "anadula ine"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:15.246063174Z",
+  "model": "glm-5.3"
+}

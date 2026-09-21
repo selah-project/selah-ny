@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 135,
+  "translation": "Amene anamenya mayiko ambiri, napha mafumu amphamvu;",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Amene anamenya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mayiko"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ambiri"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "napha"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "amphamvu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:57.525382790Z",
+  "model": "glm-5.3"
+}

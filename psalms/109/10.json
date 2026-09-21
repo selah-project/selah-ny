@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "Ndipo ana ake asunkenge kosalekeza, ndipo apemphe, ndipo afunefune chakudya m'mizimuwao yonse;",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "ndipo asunkenge"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "asunkenge"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "ndipo apemphe"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "ndipo afunefune"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "m'mizimuwao yonse"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:40.514136974Z",
+  "model": "glm-5.3"
+}

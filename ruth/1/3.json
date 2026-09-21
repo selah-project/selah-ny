@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Elimeléke, mwamuna wa Naómi, anamwalira; ndipo iye anasiya ndi ana ake awiri.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "anamwalira"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimeléke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mwamuna wa"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naómi"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "anasiya"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ndi awiri"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ana ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:51:04.717428073Z",
+  "model": "glm-5.3"
+}

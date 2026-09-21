@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Unamucheperetsa pang'ono kuchepera ndi Elohim, ndi ulemerero ndi kukongola unamupatsa chisoti.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "unamucheperetsa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "pang'ono"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "kuchepera ndi Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ndi ulemerero"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ndi kukongola"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "unamupatsa chisoti"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:47.941379667Z",
+  "model": "glm-5.3"
+}

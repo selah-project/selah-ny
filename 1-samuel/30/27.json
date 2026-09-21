@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 30:27",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "kwa amene ali ku Beti-eli, ndi kwa amene ali ku Ramothi wa ku Negevu, ndi kwa amene ali ku Yathiri;",
+  "tokens": [
+    {
+      "surface": "לאשר",
+      "gloss": "kwa amene ali ku"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eli"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "ndi kwa amene ali ku"
+    },
+    {
+      "surface": "ברמות",
+      "gloss": "Ramothi"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "wa ku Negevu"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "ndi kwa amene ali ku"
+    },
+    {
+      "surface": "ביתר",
+      "gloss": "Yathiri"
+    }
+  ],
+  "timestamp": "2026-09-21T08:13:36.638557477Z",
+  "model": "glm-5.3"
+}

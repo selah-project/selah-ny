@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Chifukwa ngati mumvera kwathunthu liwu wake, ndipo muchita zonse zimene ndinena, ndidzakhala mdani ⟨את⟩ wa adani anu, ndipo ndidzavutitsa ⟨את⟩ otsutsa anu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kumva"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "mumvera"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "liwu wake"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ndipo muchita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ndinena"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "ndidzakhala mdani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adani anu"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "wa adani anu"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "ndipo ndidzavutitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otsutsa anu"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "otsutsa anu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:19.021908164Z",
+  "model": "glm-5.3"
+}

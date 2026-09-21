@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo chotsalira kuchokera m'nsembe chikhale cha Aharoni ndi ana ake; chopatulika cha zopatulika, za nsembe za moto za Yahwe.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "Ndipo chotsalira"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchokera"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "m'nsembe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "cha Aharoni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ndi ana ake"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chopatulika"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "cha zopatulika"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "za nsembe za moto za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:26.006416164Z",
+  "model": "glm-5.3"
+}

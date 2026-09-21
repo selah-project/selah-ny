@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Aharoni ndi ana ake adzatsuka m'menemo ⟨את⟩ manja awo ndi ⟨את⟩ mapazi awo.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "adzatsuka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ndi ana ake"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manja awo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "manja awo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mapazi awo"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "mapazi awo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:22:42.288891287Z",
+  "model": "glm-5.3"
+}

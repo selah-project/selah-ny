@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Everi anakhalamo zaka anayi ndi makumi atatu ndi mphambu ziwiri, nabala ⟨את⟩ Pelegi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "anakhalamo"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Everi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "anayi"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ndi makumi atatu ndi mphambu ziwiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "nabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelegi"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Pelegi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:46:14.956733345Z",
+  "model": "glm-5.3"
+}

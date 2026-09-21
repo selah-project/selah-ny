@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Pakuti Yahwe anaona ⟨את⟩ masautso a Yisraeli, kuti anaawa kwakukulu; ndipo pali wotsekedwa palibe, ndipo pali wopezedwa palibe, ndipo palibe wathandizira wa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masautso a Yisraeli"
+    },
+    {
+      "surface": "עני",
+      "gloss": "masautso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "kuti anaawa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwakukulu"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ndipo pali … palibe"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "wotsekedwa"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ndipo pali … palibe"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "wopezedwa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "wathandizira"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "wa Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:54:29.345992151Z",
+  "model": "glm-5.3"
+}

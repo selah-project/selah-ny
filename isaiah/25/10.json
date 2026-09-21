@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 25:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Chifukwa dzanja la Yahwe lidzapuma pa phiri ili, ndipo Mowabu adzatsidzidwa pansi pake, monga udzu umatsidzidwa m'madzi, ku Mmadmenah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "lidzapuma"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dzanja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pa phiri"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ili"
+    },
+    {
+      "surface": "ונדוש",
+      "gloss": "ndipo adzatsidzidwa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowabu"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "pansi pake"
+    },
+    {
+      "surface": "כהדוש",
+      "gloss": "monga kutsidzidwa kwa"
+    },
+    {
+      "surface": "מתבן",
+      "gloss": "udzu"
+    },
+    {
+      "surface": "במי",
+      "gloss": "m'madzi a"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "Mmadmenah"
+    }
+  ],
+  "timestamp": "2026-09-21T09:10:24.566827425Z",
+  "model": "glm-5.3"
+}

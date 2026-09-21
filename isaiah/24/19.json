@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 24:19",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Kusweka kwazithunthu, dziko lapansi lasweka; kupwanyika kwazithunthu, dziko lapansi lapwanyika; kugwedezeka kwazithunthu, dziko lapansi lagwedezeka.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "kusweka kwazithunthu"
+    },
+    {
+      "surface": "התרעעה",
+      "gloss": "lasweka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "פור",
+      "gloss": "kupwanyika kwazithunthu"
+    },
+    {
+      "surface": "התפוררה",
+      "gloss": "lapwanyika"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "kugwedezeka kwazithunthu"
+    },
+    {
+      "surface": "התמוטטה",
+      "gloss": "lagwedezeka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T09:11:00.616410373Z",
+  "model": "glm-5.3"
+}

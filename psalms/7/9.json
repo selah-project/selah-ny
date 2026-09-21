@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Yahwe adzaweruza anthu; weruzani ine, Yahwe, monga mwa chilungamo changa, ndi monga mwa chikhulupiriro changa chomwe chili pa ine.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "adzaweruza"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "weruzani ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "monga mwa chilungamo changa"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "ndi monga mwa chikhulupiriro changa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:39:47.950686535Z",
+  "model": "glm-5.3"
+}

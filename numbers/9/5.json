@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo anachita ⟨את⟩ Pasaka m'mwezi woyamba, pa tsiku la khumi ndi anayi la mwezi, pakati pa zamilomo, m'dziko lakutentha la Sinayi; monga zonse zimene Yahwe analamulira ⟨את⟩ Moshe, kotero anachita ana a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pasaka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pasaka"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "woyamba"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "khumi ndi anayi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "{-nayi}"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la mwezi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "zamilomo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "m'dziko lakutentha"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinayi"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "monga zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "analamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kotero"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T06:55:38.467998472Z",
+  "model": "glm-5.3"
+}

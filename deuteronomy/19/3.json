@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Uzakonza iwe njira, ndipo uzagawaniza m'gawo zitatu ⟨את⟩ mphaka wa dziko lako, umene Yahwe Elohim wako akupatsa iwe kuchirwa; ndipo zikhale kuthawirako kwensekense wa uyo aliyense wapha munthu.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "Uzakonza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "uzagawaniza m'gawo zitatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mphaka wa dziko lako"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "mphaka"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "wa dziko lako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "akupatsa iwe kuchirwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ndipo zikhale"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "kuthawirako"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kwensekense"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "wapha munthu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:23:45.204375825Z",
+  "model": "glm-5.3"
+}

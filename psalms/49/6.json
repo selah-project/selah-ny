@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Ndiopa chiyani m'masiku oipa, pamene molakwa wa m'mapazi anga undizingulira?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ndiopa"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "m'masiku"
+    },
+    {
+      "surface": "רע",
+      "gloss": "oipa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "molakwa"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "wa m'mapazi anga"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "undizingulira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:10.034870095Z",
+  "model": "glm-5.3"
+}

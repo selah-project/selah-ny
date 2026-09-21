@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 122,
+  "translation": "Chifukwa cha abale anga ndi anansi anga, ndidzalankhula ⟨ndi⟩ kuti: mtendere ukhale mwa iwe.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "abale anga"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "ndi anansi anga"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "ndidzalankhula"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨pempho lokoma⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mtendere"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mwa iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:07.531725909Z",
+  "model": "glm-5.3"
+}

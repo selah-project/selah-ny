@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Gwiritsani chishango ndi nsanjero, ndipo uuruka m'chithandizo changa.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "Gwiritsani"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "chishango"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "ndi nsanjero"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "ndipo uuruka"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "m'chithandizo changa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:28.536839626Z",
+  "model": "glm-5.3"
+}

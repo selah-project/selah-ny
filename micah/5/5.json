@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo adzawononga ⟨את⟩ dziko la Ashuru ndi lupanga, ndi ⟨את⟩ dziko la Nimrodi m'zipata zake; ndipo adzapulumutsa ⟨את⟩ ife ku Ashuru pamene adzalowa m'dziko lathu, ndipo pamene adzayenda mumalembwe athu.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "adzawononga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko la Ashuru"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ndi lupanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "dziko la Nimrodi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrodi"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "m'zipata zake"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "ndipo adzapulumutsa"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "ku Ashuru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pamene"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "adzalowa"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "m'dziko lathu"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ndipo pamene"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "adzayenda"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "mumalembwe athu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:30:19.290405612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Mpaka muyaya sindidzaiwala malamulo anu, chifukwa ndiwo munandipatsa moyo.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "mpaka muyaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "didzaiwala"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "malamulo anu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ndiwo"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "munandipatsa moyo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:29.693129863Z",
+  "model": "glm-5.3"
+}

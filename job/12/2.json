@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndithu kuti inu ndinu anthu ⟨omu⟩, ndipo pamodzi ndi inu nzeru idzafa.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Ndithu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "pamodzi ndi inu"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "idzafa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "nzeru"
+    }
+  ],
+  "timestamp": "2026-09-21T11:35:26.678025749Z",
+  "model": "glm-5.3"
+}

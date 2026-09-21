@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo ⟨את⟩ amafumu onse a Arabiya, ndi ⟨את⟩ amafumu onse a anthu osakanikirana akhala m'chipululu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "amafumu onse a Arabiya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amafumu a"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Arabiya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "amafumu onse a anthu osakanikirana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amafumu a"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "anthu osakanikirana"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "akhala"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "m'chipululu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:38:27.734344244Z",
+  "model": "glm-5.3"
+}

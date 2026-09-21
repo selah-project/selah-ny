@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "“Tikwaniritse ⟨את⟩ makonzo awo, ndipo tilize kutali mikwangwanu yake.”",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Tikwaniritse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makonzo awo"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "makonzo awo"
+    },
+    {
+      "surface": "וונשליכה",
+      "gloss": "ndipo tilize kutali"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kutali"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "mikwangwanu yake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:57.326370681Z",
+  "model": "glm-5.3"
+}

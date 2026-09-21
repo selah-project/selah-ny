@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 23:31",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ntchito iliyonse musaichite; lambo la ku nthawi zosatha kwa mibadwo yanu, m’malo onse amene mukhala m’menemo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "iliyonse"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "Ntchito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa-"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ichite"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "lambo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "la ku nthawi zosatha"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "kwa mibadwo yanu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "m’malo onse"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "amene mukhala m’menemo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:44:57.290030267Z",
+  "model": "glm-5.3"
+}

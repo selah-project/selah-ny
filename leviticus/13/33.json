@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo iye adzapheetsetsa, koma ⟨את⟩ neteku sadzachiphala; ndipo wansembe adzatseka ⟨את⟩ neteku masiku sanu ndi iwiri kachiwiri.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "adzapheetsetsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neteku"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "neteku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "-chipha"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "adzatseka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neteku"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "neteku"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "masiku sanu ndi iwiri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "kachiwiri"
+    }
+  ],
+  "timestamp": "2026-09-21T06:37:03.267800366Z",
+  "model": "glm-5.3"
+}

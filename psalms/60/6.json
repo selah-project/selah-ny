@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 60,
+  "translation": "Unapatsa okuzunza ndiwe chizindikiro chodyera kuti chidzikweze chifukwa cha choona. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Unapatsa"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "okuzunza ndiwe"
+    },
+    {
+      "surface": "נס",
+      "gloss": "chizindikiro chodyera"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "kuti chidzikweze"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "choona"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:54.714075362Z",
+  "model": "glm-5.3"
+}

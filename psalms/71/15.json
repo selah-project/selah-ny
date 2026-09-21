@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 71,
+  "translation": "Kamwa kanga kadzalankhula chilungamo chanu, tsiku lonse chipulumutso chanu; pakuti sindinadziwa miwerengero yawo.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Kamwa kanga"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "kadzalankhula"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "chilungamo chanu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "chipulumutso chanu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "dinadziwa"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "miwerengero yawo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:09.022997823Z",
+  "model": "glm-5.3"
+}

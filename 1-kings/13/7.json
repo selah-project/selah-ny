@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 13:7",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo mfumu dayankhula kwa munthu wa Elohim: “Dza ⟨את⟩ ndi ine kunyumba, ulere mtima, ndipo ndidzakupatsa iwe mphatso.”",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dayankhula"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "באה",
+      "gloss": "Dza"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ndi ine"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "kunyumba"
+    },
+    {
+      "surface": "וסעדה",
+      "gloss": "ndipo ulere mtima"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ndipo ndidzakupatsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "mphatso"
+    }
+  ],
+  "timestamp": "2026-09-21T08:40:18.624456337Z",
+  "model": "glm-5.3"
+}

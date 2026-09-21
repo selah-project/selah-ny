@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Mawu a wolalikira: m'chipululu pangani njira ya Yahwe; m'chipululu yolengameni njira ya Elohim wathu.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "wolalikira"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "m'chipululu"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "pangani"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "yolengameni"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "m'chipululu"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "njira"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ya Elohim wathu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:17:59.679124542Z",
+  "model": "glm-5.3"
+}

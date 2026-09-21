@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Koma atatero anatembenukanso, nachititsa kubweranso ⟨את⟩ akapolo ndi ⟨את⟩ akasiqua amene anawatumiza afulu, nagwetsa iwo kukhala akapolo ndi akasiqua.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "anatembenukanso"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pambuyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "pa"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "nachititsa kubweranso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akapolo"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "akapolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "akasiqua"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "akasiqua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "anawatumiza"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "afulu"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "nagwetsa iwo"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "kukhala akapolo"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "ndi akasiqua"
+    }
+  ],
+  "timestamp": "2026-09-21T09:43:42.875520331Z",
+  "model": "glm-5.3"
+}

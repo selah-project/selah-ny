@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo kapolo ananena kwa Yitshaki ⟨את⟩ zonse zimene anachita.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "kapolo"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kwa Yitshaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "⟨zinthu⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachita"
+    }
+  ],
+  "timestamp": "2026-09-21T05:52:29.689688321Z",
+  "model": "glm-5.3"
+}

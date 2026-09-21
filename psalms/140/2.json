@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 140,
+  "translation": "Mlanditse ine, Yahwe, kwa munthu woipa; um'nditse kwa munthu wa nkhaza.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "mlanditse ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "kwa munthu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "woipa"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kwa munthu"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "wa nkhaza"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "um'nditse"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:36.777557555Z",
+  "model": "glm-5.3"
+}

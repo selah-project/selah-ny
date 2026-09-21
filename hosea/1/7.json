@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Koma ndi ⟨את⟩ banja la Yehudahi ndidzaona chifundo ndi konda, ndipo ndidzawapulumutsa mwa Yahwe Elohim wawo; sindidzawapulumutsa ndi uta, kapena ndi lupanga, kapena ndi nkhondo, kapena ndi mahachi, kapena ndi akuda mahachi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "banja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "la Yehudahi"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "ndidzaona chifundo ndi konda"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "ndipo ndidzawapulumutsa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "mwa Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wawo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sindi-"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "-dzawapulumutsa"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "ndi uta"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "kapena ndi lupanga"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "kapena ndi nkhondo"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "kapena ndi mahachi"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "kapena ndi akuda mahachi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:21:12.284321300Z",
+  "model": "glm-5.3"
+}

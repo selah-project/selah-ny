@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Zinthu izi ndimazikumbukira, ndipo ndikadutsa m'gulu la anthu, ndidzayenda nawo mofera mpaka nyumba ya Elohim, ndi mawu a kufuula chikondwerero ndi chiyamiko, gulu lokhutira.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "zinthu izi"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ndimazikumbukira"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "ndipo ndipereka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "ndikadutsa"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "m'gulu la anthu"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "ndidzayenda nawo mofera"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ndi mawu a"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "kufuula chikondwerero"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "ndi chiyamiko"
+    },
+    {
+      "surface": "המון",
+      "gloss": "gulu"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "lokhutira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:24.922169143Z",
+  "model": "glm-5.3"
+}

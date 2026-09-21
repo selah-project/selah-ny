@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo dziko lonse lapansi linkafuna ⟨את⟩ nkhope ya Shelomo, kumva ⟨את⟩ nzeru yake imene Elohim adapatsa mu mtima wake.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "linkafuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhope ya Shelomo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope ya"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kumva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzeru yake"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "nzeru yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adapatsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "mu mtima wake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:36:22.011908128Z",
+  "model": "glm-5.3"
+}

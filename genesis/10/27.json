@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "ndi ⟨את⟩ Hadoramu, ndi ⟨את⟩ Uzali, ndi ⟨את⟩ Dikilahi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Hadoramu"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadoramu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Uzali"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Uzali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Dikilahi"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Dikilahi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:45:55.803606449Z",
+  "model": "glm-5.3"
+}

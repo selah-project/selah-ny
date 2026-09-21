@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo ana a Aharon wansembe adzaika moto pa altyari, ndipo adzakhazikitsa nkhuni pa moto.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "adzaika"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "a Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altyari"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "adzakhazikitsa"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "nkhuni"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:18.681757302Z",
+  "model": "glm-5.3"
+}

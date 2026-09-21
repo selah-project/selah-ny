@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Kodi El amaswa chiweruzo? Kapena Shadayi amaswa chilungamo?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "amaswa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chiweruzo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Kapena"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadayi"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "amaswa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "chilungamo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:31:42.030956994Z",
+  "model": "glm-5.3"
+}

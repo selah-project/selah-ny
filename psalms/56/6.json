@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 56,
+  "translation": "Tsiku lonse amasokoneza mawu anga; maganizo awo onse kudzera pa ine ndi a choipa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Tsiku"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu anga"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "amasokoneza"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kudzera pa ine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "maganizo awo"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ndi a choipa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:44.969430372Z",
+  "model": "glm-5.3"
+}

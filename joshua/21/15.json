@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo ⟨את⟩ Kholoni ndi ⟨את⟩ malire ake, ndi ⟨את⟩ Debiri ndi ⟨את⟩ malire ake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Kholoni"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Kholoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malire ake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malire ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Debiri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malire ake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malire ake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:42:53.288128691Z",
+  "model": "glm-5.3"
+}

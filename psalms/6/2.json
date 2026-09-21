@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Yahwe, musanditsutsire mu mkwiyo wako, ndipo musandilange mu usautso wako.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musandi"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "mu mkwiyo wako"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "-tsutsire"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo musandi"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "mu usautso wako"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "-lange"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:59.498005351Z",
+  "model": "glm-5.3"
+}

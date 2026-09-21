@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndidzapangitsa munthu wofunika koposa ndendeme, ndi munthu koposa ndendeme ya Ophira.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Ndidzapangitsa wofunika"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "koposa ndendeme"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ndi munthu"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "koposa ndendeme ya"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ophira"
+    }
+  ],
+  "timestamp": "2026-09-21T09:05:21.259036712Z",
+  "model": "glm-5.3"
+}

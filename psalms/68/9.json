@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 68,
+  "translation": "Dziko linagwedezeka, komanso kumwamba kunadzira madzi pamaso pa Elohim; uku ndiko Sinayi, pamaso pa Elohim, Elohim wa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Dziko"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "linagwedezeka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "komanso"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "kunadzira madzi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uku"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ndiko Sinayi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:40.857005854Z",
+  "model": "glm-5.3"
+}

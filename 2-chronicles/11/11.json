@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo anamanga mwamphamvu ⟨את⟩ mazingawo, naiika mmenemo atsogoleri, ndi okhata chakudya, mafuta ndi vinyo",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "anamanga mwamphamvu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazingawo"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "mazingawo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "naiika"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mmenemo"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "atsogoleri"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "ndi okhata"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "chakudya"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "vinyo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:39:15.947200658Z",
+  "model": "glm-5.3"
+}

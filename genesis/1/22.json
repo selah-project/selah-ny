@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Elohim adawadalitsa ⟨אתם⟩ nati: “Chitani chipatso, muchuluke, mudzazitse ⟨את⟩ madzi m'nyanja, ndipo mbalame zichuluke m'dziko lapansi.”",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "adawadalitsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "iwo (cholengedwe cha madzi ndi mbalame)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "chitani chipatso"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "muchuluke"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "mudzazitse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madzi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "m'nyanja"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "ndipo mbalame"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "zichuluke"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:53:17.752699914Z",
+  "model": "glm-5.3"
+}

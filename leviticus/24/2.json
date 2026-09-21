@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Lamulira ⟨את⟩ ana a Yisraeli, ndipo abweretse kwa iwe mafuta a zenjezi, oyera, ophwanyidwa, ku kuwunika, kuti akwezere nyale nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Lamulira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ndipo abweretse"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "זית",
+      "gloss": "a zenjezi"
+    },
+    {
+      "surface": "זך",
+      "gloss": "oyera"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "ophwanyidwa"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ku kuwunika"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "kuti akwezere"
+    },
+    {
+      "surface": "נר",
+      "gloss": "nyale"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T06:46:12.721994789Z",
+  "model": "glm-5.3"
+}

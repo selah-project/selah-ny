@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 12:23",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Amakulitsa mitundu, ndipo akawaononga; amafalikitsa mitundu, ndipo akawakhazikitsa.",
+  "tokens": [
+    {
+      "surface": "משגיא",
+      "gloss": "Amakulitsa"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "mitundu"
+    },
+    {
+      "surface": "ויאבדם",
+      "gloss": "ndipo akawaononga"
+    },
+    {
+      "surface": "שטח",
+      "gloss": "amafalikitsa"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "mitundu"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ndipo akawakhazikitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:34:57.789412094Z",
+  "model": "glm-5.3"
+}

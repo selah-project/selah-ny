@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo chinachitika, pamene Davide ndi anthu ake anafika ku Tsiklagu pa tsiku lachitatu, kuti Aamaleki anawukira ku Negevu ndi ku Tsiklagu, natupha ⟨את⟩ Tsiklagu, nayatsa moto mumzindumo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo chinachitika"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "pamene anafika"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ndi anthu ake"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "ku Tsiklagu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pa tsiku"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "lachitatu"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "Aamaleki"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "anawukira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negevu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi ku"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklagu"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "natupha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklagu"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklagu"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "nayatsa moto"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mumzindumo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-09-21T13:06:28.111737498Z",
+  "model": "glm-5.3"
+}

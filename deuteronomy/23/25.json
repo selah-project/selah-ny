@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Pamene ulowa m'⟨munda wa mphesa⟩ wa mnansi wako, udzadya mphesa monga mwa chilakolako chako, mpaka kukhutitsidwa kwako; koma m'chotseka chako sudzayika ⟨kanthu⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pamene"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ulowa"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "m'⟨munda wa mphesa⟩"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "wa mnansi wako"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "udzadya"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "mphesa"
+    },
+    {
+      "surface": "כנפשך",
+      "gloss": "monga mwa chilakolako chako"
+    },
+    {
+      "surface": "שבעך",
+      "gloss": "mpaka kukhutitsidwa kwako"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "koma m'"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "chotseka chako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dzayika"
+    }
+  ],
+  "timestamp": "2026-09-21T07:25:32.081217904Z",
+  "model": "glm-5.3"
+}

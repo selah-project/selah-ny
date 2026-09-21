@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Yahwe adzachotsa mitundu ⟨את⟩ yonse imeneyi pamaso panu, ndipo mudzakhalitsa mitundu yaikulu ndi amphamvu koposa inu.",
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "adzachotsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitundu yonse imeneyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mitundu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "imeneyi"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "pamaso panu"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "mudzakhalitsa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mitundu"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "yaikulu"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "ndi amphamvu"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "koposa inu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:18:16.462390306Z",
+  "model": "glm-5.3"
+}

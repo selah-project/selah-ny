@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 24:11",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo mwana wa mkazi wa Yisraeli anatchula ⟨את⟩ Dzina, nadamtukana; ndipo anamubweretsa ⟨אתו⟩ kwa Moshe. Dzina la mayi ake nadi Shelomiti, mwana wamkazi wa Dibri, wa m'chigawo cha Dani.",
+  "tokens": [
+    {
+      "surface": "ויקב",
+      "gloss": "anatchula"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "wa mkazi"
+    },
+    {
+      "surface": "הישראלית",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dzina"
+    },
+    {
+      "surface": "השם",
+      "gloss": "Dzina"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "nadamtukana"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "anamubweretsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iye (mwana wa mkazi wa Yisraeli)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "Dzina"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "la mayi ake"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Shelomiti"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "wa Dibri"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "wa m'chigawo"
+    },
+    {
+      "surface": "דן",
+      "gloss": "cha Dani"
+    }
+  ],
+  "timestamp": "2026-09-21T06:44:17.363286610Z",
+  "model": "glm-5.3"
+}

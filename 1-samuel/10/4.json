@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo adzakufunsa mtendere, nadzakupatsa mikate iwiri; ndipo udzatenga m'manja mwawo.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "adzakufunsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "mtendere"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "adzakupatsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iwiri"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mikate"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "udzatenga"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "m'manja mwawo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:04:37.238891575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "ndi raa, ndi ⟨את⟩ aya, ndi daya, monga mtundu wake",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "ndi raa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "aya"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "ndi daya"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "monga mtundu wake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:20:22.740297551Z",
+  "model": "glm-5.3"
+}

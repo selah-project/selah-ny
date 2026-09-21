@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ikani njira kuti lupanga loweze: ku ⟨את⟩ Raba wa ana a Amoni, ndi ⟨את⟩ Yuda, ku Yerushalayimu wotchinga.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "Ikani"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kuti … loweze"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "lupanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raba"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Raba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ku Yerushalayimu"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "wotchinga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:03:17.472106199Z",
+  "model": "glm-5.3"
+}

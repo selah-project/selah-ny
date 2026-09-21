@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo chimene chidzatsala m'nyama ndi m'mkate, mudzachotsa ndi moto.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "Ndipo chimene chidzatsala"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "m'nyama"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "ndi m'mkate"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ndi moto"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "mudzachotsa ndi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:58:16.643683515Z",
+  "model": "glm-5.3"
+}

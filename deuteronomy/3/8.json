@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo pa nthawi imeneyo tinatenga ⟨את⟩ dziko mkazi mwa manja a mafumu awiri a Aemori, amene ali kumeneko kwa Yordano, kuyambira mtsinje wa Arnoni mpaka phiri la Chermoni.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "Ndipo tinatenga"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pa nthawi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "imeneyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mkazi mwa manja a"
+    },
+    {
+      "surface": "שני",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "a Aemori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene ali"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "kumeneko kwa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordano"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "kuyambira mtsinje wa"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnoni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "phiri la"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermoni"
+    }
+  ],
+  "timestamp": "2026-09-21T07:13:07.629936395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo ⟨את⟩ nkhumba, popeza imapatura phadzu, phadzu yopatsidwa m'gawo mwathunthu, koma sikubwereretsa chakudya; ndi yodetsedwa kwa inu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nkhumba"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "nkhumba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "imapatura"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "phadzu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "phadzu yopatsidwa m'gawo"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "m'gawo"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "phadzu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "koma"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "chakudya chopatsidwanso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "kubwereretsa"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "yodetsedwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:58:05.493317442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo upange ndodo za altare, ndodo za mitengo ya shiti, ndipo uzisindikize ndi nsingano.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "upange"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "ndodo"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "za altare"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "za"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mitengo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shiti"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "uzisindikize"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ + iwo",
+      "marks": "ndodo za mitengo ya shiti"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nsingano"
+    }
+  ],
+  "timestamp": "2026-09-21T06:21:14.167593726Z",
+  "model": "glm-5.3"
+}

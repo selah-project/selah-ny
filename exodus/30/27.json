@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "ndi ⟨את⟩ tebulo ndi ⟨את⟩ zida zake zonse, ndi ⟨את⟩ chikwaniri cha nyali ndi ⟨את⟩ zida zake zonse, ndi ⟨את⟩ guwa la nsembe zosiira",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "tebulo"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tebulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zida zake zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zida zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chikwaniri cha nyali"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "chikwaniri cha nyali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zida zake zonse"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "zida zake zonse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "guwa la nsembe zosiira"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "guwa la nsembe"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "zosiira"
+    }
+  ],
+  "timestamp": "2026-09-21T06:22:48.338098114Z",
+  "model": "glm-5.3"
+}

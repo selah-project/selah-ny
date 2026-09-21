@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "namufunsa mwa Yahwe, namupatsa chakudya; ndipo ⟨את⟩ lupanga la Goliati wa Afilistino namupatsa iye.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "namufunsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "mwa Yahwe"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "chakudya"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "namupatsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "lupanga la Goliati"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "lupanga"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "la Goliati"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "wa Afilistino"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "namupatsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    }
+  ],
+  "timestamp": "2026-09-21T08:11:31.267470434Z",
+  "model": "glm-5.3"
+}

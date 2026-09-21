@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 91,
+  "translation": "Ndidzati kwa Yahwe: “Lowathira langa ndi boma langa, Elohim wanga, mwa Iye ndidzakhulupirira.”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ndidzati"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "lowathira langa"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ndi boma langa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ndidzakhulupirira"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mwa Iye"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:06.012802728Z",
+  "model": "glm-5.3"
+}

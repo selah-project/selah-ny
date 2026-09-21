@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 127,
+  "translation": "Monga mivi m'dzanja la wamphamvu, mmodzi yemweyo ana a ubwana.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "monga mivi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "m'dzanja"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "la wamphamvu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mmodzi yemweyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "a ubwana"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:08.542705182Z",
+  "model": "glm-5.3"
+}

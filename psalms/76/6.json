@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 76,
+  "translation": "Anavunda amammo a mtima; tulo lawo anagona, ndipo anthu onse a mphamvu sanapeze manja awo.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "anavunda"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "amammo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "a mtima"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "anagona"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "tulo lawo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sanapeze"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "a mphamvu"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "manja awo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:55.165747511Z",
+  "model": "glm-5.3"
+}

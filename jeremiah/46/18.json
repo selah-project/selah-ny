@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 46:18",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 46,
+  "translation": "Ndili ndi moyo, chonena cha ⟨the⟩ Mfumu, Yahwe Tsevaoti dzina lake, kuti monga Tabori pakati pa mapiri, ndi monga Karmeli m'nyanja, momwemo adzadza.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "ndili ndi moyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "chonena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mfumu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dzina lake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "כתבור",
+      "gloss": "monga Tabori"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "pakati pa mapiri"
+    },
+    {
+      "surface": "וככרמל",
+      "gloss": "ndi monga Karmeli"
+    },
+    {
+      "surface": "בים",
+      "gloss": "m'nyanja"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "adzadza"
+    }
+  ],
+  "timestamp": "2026-09-21T09:48:58.893928721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 50,
+  "translation": "Ndipo iwe unaada chilango, nadononga mawu anga kumbuyo kwako.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ndipo iwe"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "unaada"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "chilango"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "nadononga"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu anga"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "kumbuyo kwako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:50.052099742Z",
+  "model": "glm-5.3"
+}

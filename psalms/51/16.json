@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 51,
+  "translation": "Ndipulumutse m'magazi, Elohim, Elohim wa chipulumutso changa, ndipo lilime langa lidzayimba chilungamo chako.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ndipulumutse"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "m'magazi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "chipulumutso changa"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "lidzayimba"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lilime langa"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "chilungamo chako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:41.286386597Z",
+  "model": "glm-5.3"
+}

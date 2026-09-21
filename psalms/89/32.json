@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Ngati akhumudwitsa malamulo anga a mipingo, ndipo malamuliro anga asasunge,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "malamulo anga a mipingo"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "akhumudwitsa"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ndipo malamuliro anga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asa"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "sunge"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:53.977174252Z",
+  "model": "glm-5.3"
+}

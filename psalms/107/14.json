@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Anawatulutsa ku mdima ndi m'mdima wa imfa, ndi minyengo yawu anawathyola.",
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "Anawatulutsa"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "ku mdima"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "ndi m'mdima wa imfa"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "ndi minyengo yawu"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "anawathyola"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:05.145851772Z",
+  "model": "glm-5.3"
+}

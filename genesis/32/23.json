@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 32:23",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndipo iye anauka usiku umenewu, nadza ⟨את⟩ akazi ake awiri ndi ⟨את⟩ akapolo ake awiri akazi, ndi ⟨את⟩ ana ake khumi ndi mmodzi, nadutsa ⟨את⟩ madutsidwe a Yabbok.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "anauka"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "umenewu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akazi ake awiri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "akazi ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "akapolo ake awiri akazi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "שפחתיו",
+      "gloss": "akapolo ake akazi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana ake khumi ndi mmodzi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmodzi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "nadutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madutsidwe a Yabbok"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "madutsidwe"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "a Yabbok"
+    }
+  ],
+  "timestamp": "2026-09-21T12:54:31.882564339Z",
+  "model": "glm-5.3"
+}

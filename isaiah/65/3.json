@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 65,
+  "translation": "Anthu amene andikwiyitsa ⟨את⟩ ⟨אותי⟩ pamaso panga nthawi zonse, amapereka nsembe m’minda, ndi kufwafwala uvundo pa njerwa;",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "anthu amene"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "andikwiyitsa"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ⟨אותי⟩",
+      "marks": "ine"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamaso"
+    },
+    {
+      "surface": "פני",
+      "gloss": "panga"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nthawi zonse"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "amapereka nsembe"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "m’minda"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "ndi kufwafwala uvundo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "njerwa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:27:29.534940734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Adoni-Bezeki anathawa; nanamtsata, namugwira ⟨את⟩ iye, namudula ⟨את⟩ zala zazikulu za manja ake ndi za mapazi ake.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "anathawa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezeki"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "nanamtsata"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pambuyo pake"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "namugwira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "Adoni-Bezeki"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "namudula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zala zazikulu"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "zala zazikulu"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "za manja ake"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "ndi za mapazi ake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:45:37.075664032Z",
+  "model": "glm-5.3"
+}

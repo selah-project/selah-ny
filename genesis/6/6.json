@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo Yahwe anamva chisoni kuti anapanga ⟨את⟩ munthu pa dziko lapansi, ndipo anadandaula m'mtima mwake.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "anamva chisoni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munthu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pa dziko lapansi"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "anadandaula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "m'mtima"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T05:45:01.522571386Z",
+  "model": "glm-5.3"
+}

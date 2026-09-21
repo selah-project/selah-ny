@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo anaika pa iye ⟨את⟩ chida cha pachifuwa, ndipo anaika mu chida cha pachifuwa ⟨את⟩ Uriamu ndi ⟨את⟩ Tumimu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "anaika"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chida cha pachifuwa"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "chida cha pachifuwa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "anaika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "chida cha pachifuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriamu"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Uriamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Tumimu"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:35:46.078203288Z",
+  "model": "glm-5.3"
+}

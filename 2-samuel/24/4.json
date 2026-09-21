@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Koma liwu la mfumu linapambana pa Yoabi ndi pa akulu a nkhondo; ndipo Yoabi ndi akulu a nkhondo anatuluka pamaso pa mfumu, kupita kuwerenga ⟨את⟩ anthu, ⟨את⟩ Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "linapambana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liwu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "la mfumu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "akulu a"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "nkhondo"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "anatuluka"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabi"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ndi akulu a"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "nkhondo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "kupita kuwerenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:30:04.425302837Z",
+  "model": "glm-5.3"
+}

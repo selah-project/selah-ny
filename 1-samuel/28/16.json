@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 28:16",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo Shemuweli anati: “Ndipo chifukwa chiyani ukundifunafuna ine, popeza Yahwe ataperekera kwa iye kwa inwe, nakhala mdani wanu?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo Shemuweli anati"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "chifukwa chiyani"
+    },
+    {
+      "surface": "תשאלני",
+      "gloss": "ukundifunafuna ine"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ataperekera"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "inu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nakhala"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "mdani wanu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:06:50.106982190Z",
+  "model": "glm-5.3"
+}

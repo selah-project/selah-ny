@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 15:21",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Mizinda ya ku maleke a gulu la ana a Yehuda, kufupi ndi m'mphepete mwa Edomu, m'chidzulo, inali Kavetseeli, ndi Edere, ndi Yagura.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "inali"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mizinda"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ku maleke"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "la gulu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kufupi ndi"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "m'mphepete"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "בנגבה",
+      "gloss": "m'chidzulo"
+    },
+    {
+      "surface": "קבצאל",
+      "gloss": "Kavetseeli"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "ndi Edere"
+    },
+    {
+      "surface": "ויגור",
+      "gloss": "ndi Yagura"
+    }
+  ],
+  "timestamp": "2026-09-21T07:40:25.801064040Z",
+  "model": "glm-5.3"
+}

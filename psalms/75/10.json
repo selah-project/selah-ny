@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 75,
+  "translation": "Koma ine ndidzalalikira mpaka muyaya; ndidzayimbira nyimbo Elohim wa Yaakob.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Koma ine"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ndidzalalikira"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "mpaka muyaya"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ndidzayimbira nyimbo"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "wa Yaakob"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:22.088171956Z",
+  "model": "glm-5.3"
+}

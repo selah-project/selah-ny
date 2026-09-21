@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 13:17",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo Moshe adawatumiza ⟨אתם⟩ kuti afufuze ⟨את⟩ dziko la Kanaani, nati kwa iwo: “Kwerani mumenemu m'Nagevu, ndipo mukwere ⟨את⟩ phiri.”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "adawatumiza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "iwo (omwe Moshe adawatumiza)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "kuti afufuze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "la Kanaani"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Kwerani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "mumenemu"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "m'Nagevu"
+    },
+    {
+      "surface": "ועליתם",
+      "gloss": "ndipo mukwere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phiri"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "phiri"
+    }
+  ],
+  "timestamp": "2026-09-21T06:57:37.869563726Z",
+  "model": "glm-5.3"
+}

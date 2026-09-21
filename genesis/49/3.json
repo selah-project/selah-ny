@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 49:3",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Reubene, iwe wobadwa woyamba, mphamvu yanga ndi chiyambi cha mphamvu yanga; wopambana ulemu ndi wopambana mphamvu.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Reubene"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "wobadwa woyamba wanga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "mphamvu yanga"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "ndi chiyambi"
+    },
+    {
+      "surface": "אוני",
+      "gloss": "cha mphamvu yanga"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "wopambana"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ulemu"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ndi wopambana"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mphamvu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:07:00.864332204Z",
+  "model": "glm-5.3"
+}

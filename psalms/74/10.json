@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 74,
+  "translation": "Mpaka liti, Elohim, wodzinyozera adzatipweteka? Mdani adzanyoza Dzina lako mpaka kalekona?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "liti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "adzanyoza"
+    },
+    {
+      "surface": "צר",
+      "gloss": "wodzinyozera"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "adzanyoza"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mdani"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Dzina lako"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "mpaka kalekona"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:44.555510735Z",
+  "model": "glm-5.3"
+}

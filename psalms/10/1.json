@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Chifukwa chiyani, Yahwe, umayima kutali, umabisala pa nthawi za mavuto?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "chifukwa chiyani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "umayima"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "kutali"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "umabisala"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "pa nthawi za"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "mavuto"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:43.664262736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 38:20",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Yahwe wandipulumutsa; ndipo tidzaimba nyimbo zanga masiku onse a moyo wathu mu nyumba ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "wandipulumutsa"
+    },
+    {
+      "surface": "ונגנותי",
+      "gloss": "ndipo nyimbo zanga"
+    },
+    {
+      "surface": "ננגן",
+      "gloss": "tidzaimba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "חיינו",
+      "gloss": "a moyo wathu"
+    },
+    {
+      "surface": "על",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T09:15:29.917240863Z",
+  "model": "glm-5.3"
+}

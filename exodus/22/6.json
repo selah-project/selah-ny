@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 22:6",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ngati munthu apereka kwa mnansi wake siliva kapena zida kuti zisungidwe, ndipo zinabedwa m'nyumba mwa munthuyo — ngati mbava idzapezedwa, adzalipira kaviri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "apereka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mnansi wake"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "zida"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kuti zisungidwe"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "zinabedwa"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mwa munthuyo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "idzapezedwa"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "mbava"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "adzalipira"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kaviri"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:36.563792511Z",
+  "model": "glm-5.3"
+}

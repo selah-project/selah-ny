@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 26:17",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Kwa Arordi, chibanja cha Aarordi; kwa Areli, chibanja cha Aareli.",
+  "tokens": [
+    {
+      "surface": "לארוד",
+      "gloss": "Kwa Arordi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "chibanja cha"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Aarordi"
+    },
+    {
+      "surface": "לאראלי",
+      "gloss": "kwa Areli"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "chibanja cha"
+    },
+    {
+      "surface": "האראלי",
+      "gloss": "Aareli"
+    }
+  ],
+  "timestamp": "2026-09-21T07:05:32.147679063Z",
+  "model": "glm-5.3"
+}

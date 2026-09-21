@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 111,
+  "translation": "Anapatsa chakudya kwa oopa Iye; akumbukira ku nthawi zonse pangano lake.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "chakudya"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Anapatsa"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "kwa oopa Iye"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "akumbukira"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "pangano lake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:01.898130988Z",
+  "model": "glm-5.3"
+}

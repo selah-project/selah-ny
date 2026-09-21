@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 148,
+  "translation": "Lemezani iye, angelo ake onse; lemezani iye, makamu ake onse.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "lemezani iye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "angelo ake"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lemezani iye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "makamu ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:03.671980403Z",
+  "model": "glm-5.3"
+}

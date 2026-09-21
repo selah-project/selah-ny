@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo abale ake anamva nsanje ndi iye; koma atate wake anasunga ⟨את⟩ mawuwo.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "Ndipo abale ake anamva nsanje ndi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abale ake"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "koma atate wake"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "anasunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawuwo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mawuwo"
+    }
+  ],
+  "timestamp": "2026-09-21T05:59:00.334161737Z",
+  "model": "glm-5.3"
+}

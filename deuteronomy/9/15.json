@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo ndinatembenuka, ndipo ndinatsika kuchokera ku phiri, ndipo phirilo linali kutenthedwa ndi moto, ndipo malo awiri a pangano anali pa manja mwanga awiri.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "Ndipo ndinatembenuka"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "ndipo ndinatsika"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchokera"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ku phiri"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "ndipo phirilo"
+    },
+    {
+      "surface": "בער",
+      "gloss": "linali kutenthedwa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ndi moto"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ndipo awiri"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "malo a mbiri (matabulo)"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "a pangano"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "manja mwanga"
+    }
+  ],
+  "timestamp": "2026-09-21T07:18:39.216701655Z",
+  "model": "glm-5.3"
+}

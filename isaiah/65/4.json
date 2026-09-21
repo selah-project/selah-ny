@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 65,
+  "translation": "Amakhala m’manda, ndi kulala m’zolowera chinsinsi; amadya nyama ya nkhumba, ndi kutapa za zoipa zili m’zotengera zawo;",
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "amakhala"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "m’manda"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "ndi kulala m’zolowera chinsinsi"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "kulala"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "amadya"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "ya nkhumba"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "kutapa za zoipa"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "m’zotengera zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:27:29.535083850Z",
+  "model": "glm-5.3"
+}

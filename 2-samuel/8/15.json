@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 8:15",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo Davide anachita ufumu pa Yisraeli wonse; ndipo Davide anali wochita chiweruzo ndi chilungamo kwa anthu ake onse.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "anachita ufumu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "inali"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wochita"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chiweruzo"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ndi chilungamo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa ... onse"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:18:54.828850447Z",
+  "model": "glm-5.3"
+}

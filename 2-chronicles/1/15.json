@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo mfumu inapanga siliva ndi golide m'Yerushalayimu ⟨את⟩ siliva ndi ⟨את⟩ golide — monga miyala; ndipo ⟨את⟩ mikungudza inapanga monga mikuyu imene ili m'dera chotsika, mochuluka.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "inapanga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siliva"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "golide"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "m'Yerushalayimu"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "monga miyala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mikungudza"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "mikungudza"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "inapanga"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "monga mikuyu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "m'dera chotsika"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "mochuluka"
+    }
+  ],
+  "timestamp": "2026-09-21T12:36:08.182860765Z",
+  "model": "glm-5.3"
+}

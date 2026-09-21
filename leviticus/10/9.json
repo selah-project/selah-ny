@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 10:9",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Mkanga ndi chakumwa chowukitsa musamwe iwe ndi ana ako ⟨את⟩ ndi iwe, pokalowa kwenu mu chihema cha msonkhano, ndipo simudzafa — lamulo losatha ku mibadwo yanu.",
+  "tokens": [
+    {
+      "surface": "יין",
+      "gloss": "mkanga"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ndi chakumwa chowukitsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musamu-"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "-we"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ndi ana ako"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ndi iwe"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "pokalowa kwenu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "cha msonkhano"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo simu-"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "-dzafa"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "lamulo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "losatha"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "ku mibadwo yanu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:34:00.784687487Z",
+  "model": "glm-5.3"
+}

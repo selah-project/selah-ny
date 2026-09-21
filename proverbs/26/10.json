@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Monga wonyenga ziwundo zonse, ndi momwemonso yemwe amalemba katswiri, ndi yemwe amalemba olumpha ndi kuluta.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "monga woipesa"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "wonyenga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ndi yemwe amalemba"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "katswiri"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ndi yemwe amalemba"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "olumpha ndi kuluta"
+    }
+  ],
+  "timestamp": "2026-09-21T11:26:56.686810260Z",
+  "model": "glm-5.3"
+}

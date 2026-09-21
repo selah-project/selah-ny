@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 144,
+  "translation": "Amene apereka chipulumutso kwa mafumu, amene amalanditsa ⟨את⟩ Davide, kapolo wake, kuchokera ku lupanga loipa.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Amene apereka"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "chipulumutso"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "kwa mafumu"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "amene amalanditsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "kapolo wake"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "kuchokera ku lupanga"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "loipa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:48.421190294Z",
+  "model": "glm-5.3"
+}

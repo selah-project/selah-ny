@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo inu, balani ndi chulukani; zalikirani dziko lapansi, ndipo chulukanimu.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Ndipo inu"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "balani"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ndi chulukani"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "zalikirani"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ndipo chulukani"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:16.454744464Z",
+  "model": "glm-5.3"
+}

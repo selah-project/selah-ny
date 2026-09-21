@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 55,
+  "translation": "Nditererere ndipo ndiyankhe; ndili wosakhutima m'kadandaulo kwanga, ndipo ndidzafuula.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Nditererere"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ndipo ndiyankhe"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "ndili wosakhutima"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "m'kadandaulo kwanga"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "ndipo ndidzafuula"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:33.087516018Z",
+  "model": "glm-5.3"
+}

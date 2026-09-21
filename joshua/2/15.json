@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 2:15",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo iye anawatsitsa ndi chinga m'khomo la dzanja la dinderengwa, popeza nyumba yake lili pa khomo la briki, ndipo pa briki ameneyu akhala.",
+  "tokens": [
+    {
+      "surface": "ותורדם",
+      "gloss": "anawatsitsa"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "ndi chinga"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "m'khomo la dzanja la"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "dinderengwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "pa khomo la"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "briki"
+    },
+    {
+      "surface": "ובחומה",
+      "gloss": "pa briki"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ameneyu"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "akhala"
+    }
+  ],
+  "timestamp": "2026-09-21T07:33:36.304063576Z",
+  "model": "glm-5.3"
+}

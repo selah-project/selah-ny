@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 3:9",
+  "book": "micah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Mumveni ichi, ndikupemphani: inu mitu ya nyumba ya Yakobo, ndi alamulira a nyumba ya Yisraeli, amene odana ndi chilamulo, ndipo ⟨את⟩ zonse zoona akuzisokoneza.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mumveni"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndikupemphani"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mitu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya nyumba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Yakobo"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "ndi alamulira"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a nyumba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    },
+    {
+      "surface": "המתעבים",
+      "gloss": "odana ndi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chilamulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zonse zoona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "הישרה",
+      "gloss": "zoona"
+    },
+    {
+      "surface": "יעקשו",
+      "gloss": "akuzisokoneza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:28:57.460232289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Mbewu idzamutumikira; zidzayimbiridwa za Adonayi kwa mbadwo.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "mbewu"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "idzamutumikira"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "zidzayimbiridwa"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "za Adonayi"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kwa mbadwo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:16.950277158Z",
+  "model": "glm-5.3"
+}

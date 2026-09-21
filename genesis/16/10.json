@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo mzimu wa Yahwe anati kwa iye: “Ndidzaichulutsa ndikuchulutsa ⟨את⟩ mbewu yako, ndipo sitidzatheke kuwerengedwa chifukwa cha kuchuluka kwake.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ndikuchulutsa"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ndidzaichulutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbewu yako"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbewu yako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "dzatheke kuwerengedwa"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "chifukwa cha kuchuluka"
+    }
+  ],
+  "timestamp": "2026-09-21T05:47:50.501448002Z",
+  "model": "glm-5.3"
+}

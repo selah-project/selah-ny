@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Koma ⟨את⟩ inyama ya ng'ombeyi ndi ⟨את⟩ khosi lake ndi ⟨את⟩ zidyera zake, uotche ndi moto kunja kwa msasa; nsembe ya machimo ndiyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Koma ⟨את⟩",
+      "marks": "inyama ya ng'ombeyi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ng'ombeyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "khosi lake"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "khosi lake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zidyera zake"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "zidyera zake"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "uotche"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ndi moto"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kunja"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kwa msasa"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "nsembe ya machimo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiyo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:22:07.839069928Z",
+  "model": "glm-5.3"
+}

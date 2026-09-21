@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 92,
+  "translation": "Pakuti mwandisangalatsa, Yahwe, m'chitiro chanu; m'nchito za manja anu ndidzayimba mwamphamvu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "mwandisangalatsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "m'chitiro chanu"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "m'nchito za"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "manja anu"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ndidzayimba mwamphamvu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:38.858031007Z",
+  "model": "glm-5.3"
+}

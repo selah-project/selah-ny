@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Anandizingira ndi chizinga, ndipo sindimatuluka; ananyolemeretsa unyolo wanga wa mkuwa.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "Anandizingira ndi chizinga"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ndimatuluka"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "ananyolemeretsa"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "unyolo wanga wa mkuwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:52:00.202417034Z",
+  "model": "glm-5.3"
+}

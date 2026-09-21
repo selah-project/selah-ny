@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 11:8",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo mwana woyamwitsa adzakondwera masewero pa mphambu ya njoka, ndipo mwana wosutsidwa adzayika dzanja lake pa phuli la njoka yowawa.",
+  "tokens": [
+    {
+      "surface": "ושעשע",
+      "gloss": "adzakondwera masewero"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "mwana woyamwitsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חר",
+      "gloss": "mphambu"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "ya njoka"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndipo pa"
+    },
+    {
+      "surface": "מאורת",
+      "gloss": "phuli"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "la njoka yowawa"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "mwana wosutsidwa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "הדה",
+      "gloss": "adzayika"
+    }
+  ],
+  "timestamp": "2026-09-21T09:06:44.150080042Z",
+  "model": "glm-5.3"
+}

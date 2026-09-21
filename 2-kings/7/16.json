@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo anthu anatuluka, ndipo anaba ⟨את⟩ khampu ya Aramu; ndipo chinakhalapo kuti seya imodzi ya ufu woyera pa shekeli imodzi, ndi masewa awiri a baleyi pa shekeli imodzi, monga mawu a Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "anatuluka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "anaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khampu ya Aramu"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "khampu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "chinakhalapo kuti"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "seya imodzi"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ufu woyera"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "pa shekeli imodzi"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "ndi masewa awiri"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "baleyi"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "pa shekeli imodzi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "monga mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:52:18.761226371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 92,
+  "translation": "Ndipo wakweza nyanga yanga ngati ya nyama yowombeza; ndinamizidwa mafuta oyera.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "wakweza"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "ngati ya nyama yowombeza"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "nyanga yanga"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ndinamizidwa"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "mafu"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "oyera"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:51.303107852Z",
+  "model": "glm-5.3"
+}

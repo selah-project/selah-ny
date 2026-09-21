@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 4:13",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Mordekhayi adati abweretse mawu kwa Ester: “Musaganize m'moyo mwako kuti udzapulumuka m'nyumba ya mfumu kuposa Ayuda onse.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhayi"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "kubwezeretsa ⟨mawu⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa-"
+    },
+    {
+      "surface": "תדמי",
+      "gloss": "ganize"
+    },
+    {
+      "surface": "בנפשך",
+      "gloss": "m'moyo mwako"
+    },
+    {
+      "surface": "להמלט",
+      "gloss": "kupulumuka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mfumu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuposa"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Ayuda onse"
+    }
+  ],
+  "timestamp": "2026-09-21T11:59:42.835998620Z",
+  "model": "glm-5.3"
+}

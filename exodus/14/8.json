@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo Yahwe anakakamiza ⟨את⟩ mtima wa Paro, mfumu ya Mitsrayimu, ndipo iye anawirikiza ana a Yisraeli; ndipo ana a Yisraeli anali kutuluka ndi dzanja lokweza.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "anakakamiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtima wa Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayimu"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "anawirikiza"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "m'mbuyo mwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ndipo ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "anali kutuluka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ndi dzanja"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "lokweza"
+    }
+  ],
+  "timestamp": "2026-09-21T06:13:30.944316982Z",
+  "model": "glm-5.3"
+}

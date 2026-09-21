@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo panachiika, pamene Baasha anamva izi, anasiya kumanga ⟨את⟩ Rama, nakhala ku Tirtza.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "panachiika"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "pamene anamva"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "anasiya"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "kumanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nakhala"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "ku Tirtza"
+    }
+  ],
+  "timestamp": "2026-09-21T08:42:25.579962939Z",
+  "model": "glm-5.3"
+}

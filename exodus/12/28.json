@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo ana a Yisraeli anapita, nachita monga momwe Yahwe analamula ⟨את⟩ Moshe ndi Aharoni; momwemonso anachitera.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "anapita"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "nachita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "analamula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ndi Aharoni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "momwemonso"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anachitera"
+    }
+  ],
+  "timestamp": "2026-09-21T06:14:14.888455577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Pakuti Yahwe wawombola ⟨את⟩ Yaakob, ndipo wamlanditsa m'dzanja la wamphamvu kuposa iye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "wawombola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "ndipo wamlanditsa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "la wamphamvu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuposa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T09:41:10.348880900Z",
+  "model": "glm-5.3"
+}

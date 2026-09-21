@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo sadzaibweretsa ku mlango wa chihema cha msonkhano kuperekeza ⟨את⟩ iyo kwa Yahwe; munthu ameneyo adzachotsedwa mwa anthu ake.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ndipo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mlango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "cha msonkhano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "dzaibweretsa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuperekeza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "nsembe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "adzachotsedwa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ameneyo"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "mwa anthu ake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:01.394252503Z",
+  "model": "glm-5.3"
+}

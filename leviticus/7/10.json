@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 7:10",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo mincha iliyonse yophatikizidwa ndi mafuta, ndi yowuma, kwa ana onse a Aharon ikhala — munthu aliyense monga m'bale wake.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ndipo iliyonse"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "yophatikizidwa ndi"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "וחרבה",
+      "gloss": "ndi yowuma"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa onse"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "a Aharon"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ikhala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu aliyense"
+    },
+    {
+      "surface": "כאחיו",
+      "gloss": "monga m'bale wake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:31:34.297507829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Koma Yahwe anaopseza ndi kuwalengeza chifukwa cha Dzina lake, kufotokoza ⟨את⟩ mphamvu yake.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "anaopseza ndi kuwalengeza"
+    },
+    {
+      "surface": "למען",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Dzina lake"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "kufotokoza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mphamvu yake"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "mphamvu yake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:42.961675009Z",
+  "model": "glm-5.3"
+}

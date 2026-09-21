@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 24:13",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Moshe anauka, ndi Yehoshuwa wotumikira iye, ndipo Moshe anakwera ku phiri la Elohim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "anauka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "ndi Yehoshuwa"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "wotumikira iye"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ndipo anakwera"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "la Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:50.725402969Z",
+  "model": "glm-5.3"
+}

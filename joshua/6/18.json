@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 6:18",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo inu okha, samalani ku chopatulidwa, kuti musadzipatule ndipo mutenge kanthu ka chopatulidwa, ndipo mupange ⟨את⟩ gulu la Yisraeli kukhala chopatulidwa, ndipo muzisautse ⟨icho⟩.",
+  "tokens": [
+    {
+      "surface": "ורק",
+      "gloss": "ndipo inu okha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "samalani"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "chopatulidwa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kuti osati"
+    },
+    {
+      "surface": "תחרימו",
+      "gloss": "musadzipatule"
+    },
+    {
+      "surface": "ולקחתם",
+      "gloss": "ndipo mutenge"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kanthu ka"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "chopatulidwa"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ndipo mupange"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gulu la Yisraeli"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "gulu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "la Yisraeli"
+    },
+    {
+      "surface": "לחרם",
+      "gloss": "kukhala chopatulidwa"
+    },
+    {
+      "surface": "ועכרתם",
+      "gloss": "ndipo musautse"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "icho (gulu la Yisraeli)"
+    }
+  ],
+  "timestamp": "2026-09-21T07:35:02.158352317Z",
+  "model": "glm-5.3"
+}

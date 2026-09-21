@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 150,
+  "translation": "Lemekezani Iye ndi mphiringidzo ndi kusamba; lemekezani Iye ndi z cholowa zamivala ndi mbewu.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "lemekezani Iye"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "ndi mphiringidzo"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "ndi kusamba"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lemekezani Iye"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "ndi z cholowa zamivala"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "ndi mbewu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:29.930838171Z",
+  "model": "glm-5.3"
+}

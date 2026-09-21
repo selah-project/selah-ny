@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "nati: “Kwa iwe ndidzapatsa ⟨את⟩ dziko la Kenani, chigawo cha cholowa chanu.”",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndidzapatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko la Kenani"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "la Kenani"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "chigawo"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "cha cholowa chanu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:12.728596225Z",
+  "model": "glm-5.3"
+}

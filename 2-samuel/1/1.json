@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo chinachitika, atamwalira Shauli, Davide anabwerera kuchokera ku kuwukira ⟨את⟩ Ameleki, ndipo Davide anakhala ku Tsikilagi masiku awiri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo chinachitika"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "atamwalira"
+    },
+    {
+      "surface": "מות",
+      "gloss": "imfa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "שב",
+      "gloss": "anabwerera"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "kuwukira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ameleki"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Ameleki"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "ku Tsikilagi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "awiri"
+    }
+  ],
+  "timestamp": "2026-09-21T13:07:08.731134969Z",
+  "model": "glm-5.3"
+}

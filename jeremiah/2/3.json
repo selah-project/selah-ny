@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Yisraeli ndi waoyera kwa Yahwe, chiyambi cha zokolola zake; aliyense wakudya iye adzayesedwa woyipa; zoipa zidzamdzera iwo, mawu a Yahwe.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "waoyera"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "chiyambi"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "cha zokolola zake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "wakudya iye"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "adzayesedwa woyipa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "zidzamdzera"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T09:27:25.618997217Z",
+  "model": "glm-5.3"
+}

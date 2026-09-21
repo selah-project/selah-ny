@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo adzasunga ⟨את⟩ chisunzo changa, ndipo sadzakweza pa ichi machimo, ndipo adzafa m'menemo chifukwa adzaipulitsa icho; ndine Yahwe, wakuyeretsa iwo.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "adzasunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chisunzo changa"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "chisunzo changa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "osati"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "adzakweza"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa ichi"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "machimo"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "adzafa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "adzaipulitsa icho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "wakuyeretsa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:24.253014504Z",
+  "model": "glm-5.3"
+}

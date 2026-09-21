@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Ndipo anafunitsitsa chilakolako m'chilengalenga, anayesedwa ⟨את⟩ El m'dziko lachilengalenga la Yeshimonu.",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "anafunitsitsa"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "chilakolako"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "m'chilengalenga"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "anayesedwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "m'dziko lachilengalenga la Yeshimonu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:27.513830535Z",
+  "model": "glm-5.3"
+}

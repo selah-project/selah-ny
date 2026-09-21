@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 15:22",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo Shemueli anati: Kodi kufunika kwa Yahwe ndi mu nsembe zopsereka ndi nsembe za kulera, monga kumvera mawu a Yahwe? Taona, kumvera kuposa nsembe, ndi kutchera khutu kuposa mafuta a amphongo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "kufunika"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "mu nsembe zopsereka"
+    },
+    {
+      "surface": "וזבחים",
+      "gloss": "ndi nsembe za kulera"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "monga kumvera"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Taona"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kumvera"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "kuposa nsembe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kuposa"
+    },
+    {
+      "surface": "להקשיב",
+      "gloss": "kutchera khutu"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "kuposa mafuta"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "a amphongo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:07:00.215391694Z",
+  "model": "glm-5.3"
+}

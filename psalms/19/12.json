@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Kanso kapolo wako adachenjezedwa ndi izi; posunga izi kulipo mphotho yaikulu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Kanso"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kapolo wako"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "adachenjezedwa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ndi izi"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "posunga izi"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "mphotho"
+    },
+    {
+      "surface": "רב",
+      "gloss": "yaikulu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:32.746700243Z",
+  "model": "glm-5.3"
+}

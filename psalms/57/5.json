@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 57,
+  "translation": "Moyo wanga uli pakati pa mikango; ndikagona pakati pa olamba moto, mwa ana a anthu, amene mano awo ngati mkondo ndi mivi, ndipo lilime lawo ngati lupanga lolaloma.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "mikango"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ndikagona"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "olamba moto"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mano awo"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "mkondo"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "ndi mivi"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "lilime lawo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "lupanga"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "lolaloma"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:15.018160269Z",
+  "model": "glm-5.3"
+}

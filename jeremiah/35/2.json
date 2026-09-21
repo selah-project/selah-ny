@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 35:2",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Pita ku nyumba ya aRekab, ndipo uzilankhula ⟨את⟩ iwo, ndipo uzalowetsa iwo m'nyumba ya Yahwe, ku chipinda chimodzi, ndipo uwapolere ⟨את⟩ iwo vinyo.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Pita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "ya aRekab"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ndipo uzilankhula"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo (aRekab)"
+    },
+    {
+      "surface": "והבאותם",
+      "gloss": "ndipo uzalowetsa iwo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "m’"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "chimodzi"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "chipinda"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "ndipo uwapolere"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo (aRekab)"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vinyo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:17:00.626601525Z",
+  "model": "glm-5.3"
+}

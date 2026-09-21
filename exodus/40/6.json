@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo mudzaika ⟨את⟩ guwa la nsembe yopserezedwa pamaso pa khomo la chihema, chihema cha msonkhano.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "udzaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guwa la nsembe yopserezedwa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "guwa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "la nsembe yopserezedwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "khomo"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "cha msonkhano"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:21.278377377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo Moshe ndi Aharon anadza kutsogolo kwa chihema cha msonkhano.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "anadza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ndi Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kutsogolo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chihema cha"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "msonkhano"
+    }
+  ],
+  "timestamp": "2026-09-21T06:59:39.835862887Z",
+  "model": "glm-5.3"
+}

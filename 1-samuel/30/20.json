@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo Davide anatenga ⟨את⟩ nkhosa zonse ndi ng'ombe; anaziyendetsa patsogolo pa ziweto zimenzo, ndipo anati: “Uku ndiko kolaula kwa Davide.”",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhosa zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "ndi ng'ombe"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "anaziyendetsa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "patsogolo pa"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "ziweto"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "zimenzo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ndipo anati"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uku"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "kolaula"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kwa Davide"
+    }
+  ],
+  "timestamp": "2026-09-21T08:14:53.990081144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 51:20",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 51,
+  "translation": "Ana ako atopa, agona pamutu pa misewu yonse, monga nyamakwangwa m'chande; adzala mkwiyo wa Yahwe, kudzudzula kwa Elohim wako.",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "ana ako"
+    },
+    {
+      "surface": "עלפו",
+      "gloss": "atopa"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "agona"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "pamutu pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "misewu"
+    },
+    {
+      "surface": "כתוא",
+      "gloss": "nyamakwangwa"
+    },
+    {
+      "surface": "מכמר",
+      "gloss": "m'chande"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "adzala"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "mkwiyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "kudzudzula"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "kwa Elohim wako"
+    }
+  ],
+  "timestamp": "2026-09-21T09:22:25.286197166Z",
+  "model": "glm-5.3"
+}

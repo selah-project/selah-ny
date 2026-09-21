@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 23:6",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo zinachitika, pamene Evyathara mwana wa Ahimeleki anathawa kwa Dawidi ku Keila, kuti efode zinatsika m'dzanja lake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zinachitika"
+    },
+    {
+      "surface": "בברח",
+      "gloss": "pamene...anathawa"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyathara"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "wa Ahimeleki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ku Keila"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efode"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "zinatsika"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "m'dzanja lake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:11:13.983508263Z",
+  "model": "glm-5.3"
+}

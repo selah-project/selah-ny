@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Pakuti ine ndinavula ⟨את⟩ Esavu, ndinaulula ⟨את⟩ mabisa ake, ndipo sakhoza kubisika; wonongedwa mbewu yake, ndi abale ake, ndi anansi ake, ndipo iye alibe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "ndinavula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esavu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "ndinaulula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabisa ake"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "mabisa ake"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "kubisika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "khoza"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "wonongedwa"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "mbewu yake"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ndi abale ake"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "ndi anansi ake"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ndipo iye alibe"
+    }
+  ],
+  "timestamp": "2026-09-21T09:51:37.514248366Z",
+  "model": "glm-5.3"
+}

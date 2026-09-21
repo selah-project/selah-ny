@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 110,
+  "translation": "Ndanda ya mphamvu yanu Yahwe adzaituma kuchokera ku Tsiyoni: lamulirani pakati pa adani anu.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "Ndanda"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ya mphamvu yanu"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "adzaituma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "kuchokera ku Tsiyoni"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "lamulirani"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "adani anu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:21.595735803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 5:22",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo Chiram anatumiza kwa Shelomo, ndi kuti: “Namva ⟨את⟩ zimene unatumiza kwa ine; ine ndidzachita ⟨את⟩ chilichonse chofuna chako, ndi mitengo ya sedari ndi mitengo ya berushi.”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "anatumiza"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ndi kuti"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Namva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "unatumiza"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndidzachita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chilichonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chilichonse"
+    },
+    {
+      "surface": "חפצך",
+      "gloss": "chofun {cha iwe} chako"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "mitengo ya"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedari"
+    },
+    {
+      "surface": "ובעצי",
+      "gloss": "ndi mitengo ya"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "berushi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:34:10.931092533Z",
+  "model": "glm-5.3"
+}

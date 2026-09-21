@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo mudzasunga kuchita ⟨את⟩ malamulo onse ndi ⟨את⟩ miweruzo imene ine ndikayikani pamaso panu lero.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "mudzasunga"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuchita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malamulo onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "malamulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "miweruzo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "miweruzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ndikayikani"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pamaso panu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    }
+  ],
+  "timestamp": "2026-09-21T07:19:27.885056636Z",
+  "model": "glm-5.3"
+}

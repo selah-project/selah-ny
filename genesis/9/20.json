@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Noachi, munthu wa nthaka, anayamba, nadzala mpesa.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "anayamba"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu wa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "nthaka"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "nadzala"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "mpesa"
+    }
+  ],
+  "timestamp": "2026-09-21T12:54:08.758132772Z",
+  "model": "glm-5.3"
+}

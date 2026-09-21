@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Ayuda analandira ⟨את⟩ zimene anayamba kuchita, ndi ⟨את⟩ zimene Mordokayi anawalemba kwa iwo.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "analandira"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Ayuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene anayamba kuchita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "anayamba"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuchita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zimene Mordokayi anawalemba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "anawalemba"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokayi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:32:37.576307379Z",
+  "model": "glm-5.3"
+}

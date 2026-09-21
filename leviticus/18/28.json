@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Kuti dziko lapansi lisakuwundenso inu poti mukulidetsa, monga momwe linawundera ⟨את⟩ mtundu umene unali pambuso panu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kuti lisakuwundenso"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "lisakuwundenso"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "poti mukulidetsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dziko lapansi (chiwerengero chachiwiri)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "linawundera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtundu"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "mtundu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pambuso panu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:39:51.224804004Z",
+  "model": "glm-5.3"
+}

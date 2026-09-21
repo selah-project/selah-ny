@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 72,
+  "translation": "Adzachitira chifundo wofala ndi wosowa, ndipo moyo wa osowa adzapulumutsa.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "Adzachitira chifundo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דל",
+      "gloss": "wofala"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ndi wosowa"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "ndipo moyo wa"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "osowa"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "adzapulumutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:39.311662757Z",
+  "model": "glm-5.3"
+}

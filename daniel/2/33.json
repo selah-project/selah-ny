@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Maundo ake anali a chitsulo; mapazi ake — gawo limodzi anali a chitsulo, ndipo gawo lina anali a dothi.",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "maundo ake"
+    },
+    {
+      "surface": "די",
+      "gloss": "a"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "chitsulo"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "mapazi ake"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "gawo limodzi (mwa)"
+    },
+    {
+      "surface": "די",
+      "gloss": "a"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "chitsulo"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "ndipo gawo lina (mwa)"
+    },
+    {
+      "surface": "די",
+      "gloss": "a"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "dothi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:04:22.820793394Z",
+  "model": "glm-5.3"
+}

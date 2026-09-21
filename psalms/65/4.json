@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 65,
+  "translation": "Mawu a zochimwa anagonjetsa ine; zolakwa zathu, iwe udzazimita.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Mawu a"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "zochimwa"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "anagonjetsa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "zolakwa zathu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "udzazimita"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:30.055560747Z",
+  "model": "glm-5.3"
+}

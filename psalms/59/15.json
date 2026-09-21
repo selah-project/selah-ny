@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 59,
+  "translation": "Adzabwerera madzulo, adzalirira ngati galu, ndipo adzazungulira mzinda.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "Adzabwerera"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "madzulo"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "adzalirira"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "ngati galu"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "adzazungulira"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mzinda"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:10.994869763Z",
+  "model": "glm-5.3"
+}

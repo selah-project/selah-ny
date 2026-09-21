@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Arpakhshadi anabala ⟨את⟩ Shalachu, ndipo Shalachu anabala ⟨את⟩ Eberi.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Ndipo Arpakhshadi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shalachu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shalachu"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ndipo Shalachu"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eberi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eberi"
+    }
+  ],
+  "timestamp": "2026-09-21T13:35:02.832870030Z",
+  "model": "glm-5.3"
+}

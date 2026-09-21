@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Koma Paro atapenya kuti pali mpumulo, anachirimitsa ⟨את⟩ mtima wake, sanamva iwo, monga ananena Yahwe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "atapenya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "pali"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "mpumulo"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "anachirimitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtima wake"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "mtima wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "namva"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:10:49.787875165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndinanva ⟨את⟩ liwu la mawu ake, ndipo pamene ndinanva ⟨את⟩ liwu la mawu ake, ineyo ndinagona ledwa pa nkhope yanga, ndipo nkhose yanga inatsikira pansi.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "ndinanva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liwu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "liwu"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "la mawu ake"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "ndipo pamene ndinanva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liwu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "liwu"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "la mawu ake"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ineyo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndinagona ledwa"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "ledwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhose yanga"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ndipo nkhose yanga"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "pansi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:08:17.476493165Z",
+  "model": "glm-5.3"
+}

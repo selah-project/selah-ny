@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo ⟨את⟩ makoma a Yerushalayimu m'zonalitali adavulaza gulu lonse la Akasdimi, amene anali ndi wamkulu wa asilikali.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ndipo ⟨את⟩",
+      "marks": "makoma a Yerushalayimu"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "makoma"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Yerushalayimu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "m'zonalitali"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "adavulaza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "gulu"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "la Akasdimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "רב",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wa asilikali"
+    }
+  ],
+  "timestamp": "2026-09-21T09:01:17.049194263Z",
+  "model": "glm-5.3"
+}

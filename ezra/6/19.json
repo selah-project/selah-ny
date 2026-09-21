@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo ana a chisinga anachita ⟨את⟩ Pasaka pa tsiku la khumi ndi zinayi la mwezi woyamba.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "a chisinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pasaka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pasaka"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "pa tsiku la khumi ndi zinayi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "la"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mwezi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "woyamba"
+    }
+  ],
+  "timestamp": "2026-09-21T12:12:47.238510827Z",
+  "model": "glm-5.3"
+}

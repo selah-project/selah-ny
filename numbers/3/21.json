@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 3:21",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Kwa Gershoni anali mbanja la A-Libni ndi mbanja la A-Shimi; awa ndiwo mabanja a A-Gershoni.",
+  "tokens": [
+    {
+      "surface": "לגרשון",
+      "gloss": "Kwa Gershoni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mabanje"
+    },
+    {
+      "surface": "הלבני",
+      "gloss": "la A-Libni"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "ndi mabanja"
+    },
+    {
+      "surface": "השמעי",
+      "gloss": "la A-Shimi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ndiwo"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mabanja"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "a A-Gershoni"
+    }
+  ],
+  "timestamp": "2026-09-21T06:49:50.349140278Z",
+  "model": "glm-5.3"
+}

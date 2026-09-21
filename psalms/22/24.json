@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Opa Yahwe, mulemekezani Iye; mbewu yonse ya Yakobo, mulemekezani; ndipo mumope Iye, mbewu yonse ya Yisraeli.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Opa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "mulemekezani Iye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbewu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "mulemekezani"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "ndipo mumope"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "Iye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbewu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:40.659593941Z",
+  "model": "glm-5.3"
+}

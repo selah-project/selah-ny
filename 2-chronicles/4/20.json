@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo ⟨את⟩ nyale za golide yoyera, ndi nyale zake zowala, kuwotcha monga molamulidwa pamaso pa chipinda chamkati.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ndipo ⟨את⟩",
+      "marks": "nyale"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "nyale"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "ndi nyale zake zowala"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "kuwotcha"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "monga molamulidwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "chipinda chamkati"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "yoyera"
+    }
+  ],
+  "timestamp": "2026-09-21T12:37:01.296947751Z",
+  "model": "glm-5.3"
+}

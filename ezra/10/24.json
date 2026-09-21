@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 10:24",
+  "book": "ezra",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo a mwa oyimbira nyimbo: Elyashibu. Ndipo a mwa asamalira gete: Shalumu, ndi Telemu, ndi Uri.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "Ndipo a mwa"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "oyimbira nyimbo"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyashibu"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "Ndipo a mwa"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "asamalira gete"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Shalumu"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "ndi Telemu"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "ndi Uri"
+    }
+  ],
+  "timestamp": "2026-09-21T12:15:15.707697696Z",
+  "model": "glm-5.3"
+}

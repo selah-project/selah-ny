@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 18:38",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo moto wa Yahwe unagwa, unadya ⟨את⟩ nsembe yopsereza ndi ⟨את⟩ mitengo ndi ⟨את⟩ miyala ndi ⟨את⟩ dothi, ndipo ⟨את⟩ madzi amene anali m'khomo unamira.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "Ndipo unagwa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ndipo unadya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe yopsereza"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nsembe yopsereza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mitengo"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "mitengo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "miyala"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "miyala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "dothi"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "dothi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "madzi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "בתעלה",
+      "gloss": "m'khomo"
+    },
+    {
+      "surface": "לחכה",
+      "gloss": "unamira"
+    }
+  ],
+  "timestamp": "2026-09-21T08:43:58.289092127Z",
+  "model": "glm-5.3"
+}

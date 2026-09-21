@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 104,
+  "translation": "Iku ndi nyanja yayikulu ndi yambali mbali ⟨za manja⟩; kumeneko kuli zoyendayenda zopanda chiwerengero, zamoyo zazing'ono pamodzi ndi zazikulu.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Iku"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ndi nyanja"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "yayikulu"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ndi yambali mbali"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "⟨za manja⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "zoyendayenda"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "zopanda"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "chiwerengero"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "zamoyo"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "zazing'ono"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "zazikulu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:42.340941875Z",
+  "model": "glm-5.3"
+}

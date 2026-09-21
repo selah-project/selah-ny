@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo unaona ⟨את⟩ chisautso cha makolo athu ku Mitsrayimu, ndipo ⟨את⟩ kufuula kwawo kunamva pa nyanja ya Sufu.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "unaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chisautso cha makolo athu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "chisautso"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "cha makolo athu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ku Mitsrayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "kufuula kwawo"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "kufuula kwawo"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "kunamva"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ya Sufu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:20:04.537452084Z",
+  "model": "glm-5.3"
+}

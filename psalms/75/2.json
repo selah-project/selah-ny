@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 75,
+  "translation": "Tinayamika iwe, Elohim, tinayamika; ndipo pafupi ndi dzina lako; akutaja zozizwitsa zako.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "Tinayamika"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "tinayamika"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "ndipo pafupi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dzina lako"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "akutaja"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "zozizwitsa zako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:08.110851382Z",
+  "model": "glm-5.3"
+}

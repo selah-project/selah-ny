@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo upange ndodo za mtengo wa akashya, ndipo uzivundikira ⟨את⟩ golide.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "upange"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "ndodo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "za mtengo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "wa akashya"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "uzivundikira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "golide"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    }
+  ],
+  "timestamp": "2026-09-21T06:20:00.077717131Z",
+  "model": "glm-5.3"
+}

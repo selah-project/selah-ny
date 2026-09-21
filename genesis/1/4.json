@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Elohim adaona ⟨את⟩ kuwala kuti ndi kokoma; ndipo Elohim anapatulira pakati pa kuwala ndi pakati pa mdima.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ndipo adaona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuwala"
+    },
+    {
+      "surface": "האור",
+      "gloss": "kuwala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ndi kokoma"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "ndipo anapatulira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "האור",
+      "gloss": "kuwala"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "mdima"
+    }
+  ],
+  "timestamp": "2026-09-21T05:41:59.443168676Z",
+  "model": "glm-5.3"
+}

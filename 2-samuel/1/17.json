@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Dawidi anachichira ⟨את⟩ maliro awa pa Shauli ndi pa Yehonatani mwana wake.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "anachichira"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maliro awa"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "maliro"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "awa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:16:22.283327368Z",
+  "model": "glm-5.3"
+}

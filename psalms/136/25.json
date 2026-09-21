@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 136,
+  "translation": "Amene amapatsa chakudya ku nthenda zonse za moyo, chifukwa khesedi wake khalitsa ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "amapatsa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chakudya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku zonse"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nthenda za moyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi wake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:53.493859659Z",
+  "model": "glm-5.3"
+}

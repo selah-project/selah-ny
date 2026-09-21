@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Mwana wanga, Tora yanga (chiphunzitso) musaiwale, ndipo mitsono yanga mtima wako uzisunge.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mwana wanga"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora yanga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musai-"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "wale"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ndipo mitsono yanga"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "uzisunge"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "mtima wako"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:44.631453418Z",
+  "model": "glm-5.3"
+}

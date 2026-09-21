@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 135,
+  "translation": "Pakuti Yahwe adzaweruza anthu ake, ndipo adzakhumudwa pa akapolo ake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "adzaweruza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndipo pa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "akapolo ake"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "adzakhumudwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:21.716080837Z",
+  "model": "glm-5.3"
+}

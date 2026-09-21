@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo mudzabweretsa kumeno nsembe yanu ya kuwotcha, ndi nsembe zanu, ndi ⟨את⟩ zakhumi zanu, ndi ⟨את⟩ zopereka za dzanja lanu, ndi mafundo anu, ndi zopereka mokhulupirika, ndi zoyamba kubadwa za ng'ombe zanu ndi nkhosa zanu.",
+  "tokens": [
+    {
+      "surface": "והבאתם",
+      "gloss": "Ndipo mudzabweretsa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kumeno"
+    },
+    {
+      "surface": "עלתיכם",
+      "gloss": "nsembe yanu ya kuwotcha"
+    },
+    {
+      "surface": "וזבחיכם",
+      "gloss": "ndi nsembe zanu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zakhumi zanu"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "zakhumi zanu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zopereka za dzanja lanu"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "zopereka"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "za dzanja lanu"
+    },
+    {
+      "surface": "ונדריכם",
+      "gloss": "ndi mafundo anu"
+    },
+    {
+      "surface": "ונדבתיכם",
+      "gloss": "ndi zopereka mokhulupirika"
+    },
+    {
+      "surface": "ובכרת",
+      "gloss": "ndi zoyamba kubadwa"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "za ng'ombe zanu"
+    },
+    {
+      "surface": "וצאנכם",
+      "gloss": "ndi nkhosa zanu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:20:54.414004208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo Balak anatenga ⟨את⟩ Bilam ku mutu wa Peori, woyang'anira pa nkhope ya chipululu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ku mutu wa"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "Peori"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "woyang'anira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope ya"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "chipululu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:04:32.073636654Z",
+  "model": "glm-5.3"
+}

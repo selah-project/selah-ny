@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Ndipo anakumbukira kuti Elohim ndiye mwala wawo, ndi El Elyoni, wowomboza wawo.",
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "anakumbukira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "mwala wawo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoni"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "wowomboza wawo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:47.490765608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Yahwe anaponsera mphepo yaikulu pa nyanja, nachitika mkupe waukulu m'nyanja, ndipo chingalawa chinaganiza kuti chidzaphwanyika.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ndipo Yahwe"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "anaponsera"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mphepo"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "yaikulu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nachitika"
+    },
+    {
+      "surface": "סער",
+      "gloss": "mkupe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "waukulu"
+    },
+    {
+      "surface": "בים",
+      "gloss": "m'nyanja"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "ndipo chingalawa"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "chinaganiza kuti"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "chidzaphwanyika"
+    }
+  ],
+  "timestamp": "2026-09-21T10:29:29.808368578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 125,
+  "translation": "Chitire bwino, Yahwe, kwa abwino, ndi kwa olungama m'mitima yawo.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "chitire bwino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "kwa abwino"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "ndi kwa olungama"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "m'mitima yawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:37.118537006Z",
+  "model": "glm-5.3"
+}

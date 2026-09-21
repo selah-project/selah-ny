@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Izi komanso ndi mitheto ya Shelomoh, imene anthu a Chizkiya, mfumu ya Yehuda, anayilembanso.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "komanso"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Izi"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "mitheto"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "anayilembanso"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "anthu a"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-21T11:26:46.577452424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "M'malo opatulika koposa mudzazidya; wamuna aliyense adzaidya ⟨את⟩; chopatulika chidzakhala chako.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "m'malo opatulika"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "koposa"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "mudzazidya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "wamuna"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "adzaidya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iyo (chakudya chopatulika)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chopatulika"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "chidzakhala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "chako"
+    }
+  ],
+  "timestamp": "2026-09-21T07:00:49.990836746Z",
+  "model": "glm-5.3"
+}

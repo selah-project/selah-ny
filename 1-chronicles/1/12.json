@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndi ⟨את⟩ Apatrusi, ndi ⟨את⟩ Akasulukhi, amene anatuluka mmenemo — Afilisti — ndi ⟨את⟩ Akafutori.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ndi ⟨את⟩",
+      "marks": "Apatrusi"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Apatrusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Akasulukhi"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Akasulukhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "anatuluka"
+    },
+    {
+      "surface": "משם",
+      "gloss": "mmenemo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilisti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Akafutori"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Akafutori"
+    }
+  ],
+  "timestamp": "2026-09-21T12:22:52.333111533Z",
+  "model": "glm-5.3"
+}

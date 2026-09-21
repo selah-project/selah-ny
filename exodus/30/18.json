@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 30:18",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo udzapanga cholowa chotsuka chamkuwa ndi pachake pamkuwa, chotsukirako; ndiudzaika ⟨אתו⟩ pakati pa hema ya kusonkhano ndi pakati pa guwa la nsembe; ndipo udzaika pamenepo madzi.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "udzapanga"
+    },
+    {
+      "surface": "כיור",
+      "gloss": "cholowa chotsuka"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "chamkuwa"
+    },
+    {
+      "surface": "וכנו",
+      "gloss": "ndi pachake"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "pamkuwa"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "chotsukirako"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ndiudzaika"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "cholowa chotsuka chamkuwa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kusonkhano"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa la nsembe"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "udzaika"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "pamenepo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:22:42.288708428Z",
+  "model": "glm-5.3"
+}

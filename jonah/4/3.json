@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo tsopano, Yahwe, tanditengere ndapapata ⟨את⟩ moyo wanga kwa ine, pakuti imfa yanga ili yabwino koposa moyo wanga.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ndipo tsopano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "tanditengere"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapapata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wanga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ili yabwino koposa"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "imfa yanga"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "moyo wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:28:51.536630489Z",
+  "model": "glm-5.3"
+}

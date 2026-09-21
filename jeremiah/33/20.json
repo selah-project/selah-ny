@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Motero adati Yahwe: Ngati inu mudula ⟨את⟩ pangano langa la usana, ndi ⟨את⟩ pangano langa la usiku, kuti usana ndi usiku chisakhale pa nthawi yawo —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Motero"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "inu mudula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangano langa la usana"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "pangano langa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "la usana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "pangano langa la usiku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "pangano langa"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "la usiku"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "kuti chisakhale"
+    },
+    {
+      "surface": "היות",
+      "gloss": "kukhala"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "usana"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ndi usiku"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "pa nthawi yawo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:43:12.754404309Z",
+  "model": "glm-5.3"
+}

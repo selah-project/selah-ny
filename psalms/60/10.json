@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 60,
+  "translation": "Mowabu ndiye chotengera mamedzi anga; pa Edomu ndidzakanda nsapato yanga; pa ine, Pelesheti, lemekeza.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Mowabu"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "chotengera mamedzi"
+    },
+    {
+      "surface": "רחציצ",
+      "gloss": "anga"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "ndidzakanda"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "nsapato yanga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesheti"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "lemekeza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:14.022822342Z",
+  "model": "glm-5.3"
+}

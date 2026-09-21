@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo iye anati kwa iye: “Sindidzapita, koma kudziko langa ndi kumabadwa kwanga ndidzapita.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo anati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "sindidzapita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "koma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "dziko langa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi ku"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "kumabadwa kwanga"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ndidzapita"
+    }
+  ],
+  "timestamp": "2026-09-21T06:55:48.917095597Z",
+  "model": "glm-5.3"
+}

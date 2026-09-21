@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "leviticus 14:51",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo adzalandira ⟨את⟩ katundu wa mtengo wa kedere, ndi ⟨את⟩ zvobvu, ndi ⟨את⟩ utoto wofiira, ndi ⟨את⟩ mbalimbali yamoyo, nadzizuma m'madzi a munkhwa wa mbalimbali yophedwa, ndi m'madzi okhala ndi moyo, nadzatereza kunyumba kasanu ndi kaviri.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "adzalandira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katundu wa mtengo wa kedere"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "katundu wa mtengo"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "wa kedere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zvobvu"
+    },
+    {
+      "surface": "האזב",
+      "gloss": "zvobvu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "utoto wofiira"
+    },
+    {
+      "surface": "שני",
+      "gloss": "utoto"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "woyiwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mbalimbali yamoyo"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "mbalimbali"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "yamoyo"
+    },
+    {
+      "surface": "וטבל",
+      "gloss": "nadzizuma"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "zonse izi"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "m'madzi a munkhwa"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "wa mbalimbali"
+    },
+    {
+      "surface": "השחוטה",
+      "gloss": "yophedwa"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ndi m'madzi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "okhala ndi moyo"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "nadzatereza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "kasanu ndi kaviri"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "(mafunde)"
+    }
+  ],
+  "timestamp": "2026-09-21T06:36:26.092344614Z",
+  "model": "glm-5.3"
+}

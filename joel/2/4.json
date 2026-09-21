@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 2:4",
+  "book": "joel",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Mwonekedwe wawo ngati mwonekedwe wa mahachi, ndipo monga akhale mahachi, motero amathamanga.",
+  "tokens": [
+    {
+      "surface": "כמראה",
+      "gloss": "ngati mwonekedwe"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "wa mahachi"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "mwonekedwe wawo"
+    },
+    {
+      "surface": "וכפרשים",
+      "gloss": "ndipo monga akhale mahachi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "motero"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "amathamanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:25:54.692058027Z",
+  "model": "glm-5.3"
+}

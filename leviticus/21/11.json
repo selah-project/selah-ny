@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo pa moyo wa aliyense wakufa sadzalowa; kwa baba wake ndi kwa amake sadzadetsedwa.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Ndipo pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aliyense"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "moyo wa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wakufa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "dzalowa"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "kwa baba wake"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ndi kwa amake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "dzadetsedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:26.970232096Z",
+  "model": "glm-5.3"
+}

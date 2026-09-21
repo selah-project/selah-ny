@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndi talenta ya golide woyera anaipanga ⟨את⟩ ⟨iyo⟩, ndi ⟨את⟩ zipatso zake zonse.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "talenta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anaipanga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ⟨iyo⟩",
+      "marks": "menoriyayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zipatso zake zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "zipatso zake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:26:53.316129006Z",
+  "model": "glm-5.3"
+}

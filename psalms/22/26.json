@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Mwa ⟨את⟩ iwe chiyamiko changa chili, mu gulu lalikulu; malonje aanga ndidzawatumbwa pamaso pa iwo amumuopa iye.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "Mwa ⟨את⟩ iwe",
+      "marks": "chiyamiko changa"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "chiyamiko changa"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "mu gulu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lalikulu"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "malonje aanga"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ndidzawatumbwa"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "iwo amumuopa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:17.892548468Z",
+  "model": "glm-5.3"
+}

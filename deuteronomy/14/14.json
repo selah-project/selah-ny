@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "ndi ⟨את⟩ orevi yense, monga mtundu wake",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "orevi yense"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yense"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "orevi"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "monga mtundu wake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:20:22.740863451Z",
+  "model": "glm-5.3"
+}

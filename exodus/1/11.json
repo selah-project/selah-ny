@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo anaiika pa iwo atsogoleri a ntchito yamphamvu, kuti awonongeze ndi zolemetsa zawo; ndipo ana a Yisraeli anamanga mizi yokhumbitsira kwa Paro: ⟨את⟩ Pitomu ndi ⟨את⟩ Raamsese.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Ndipo anaiika"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iwo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "atsogoleri"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "a ntchito yamphamvu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "awonongeze"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "ndi zolemetsa zawo"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "anamanga"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mizi"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "yokhumbitsira"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kwa Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitomu"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitomu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Raamsese"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamsese"
+    }
+  ],
+  "timestamp": "2026-09-21T06:07:47.030459757Z",
+  "model": "glm-5.3"
+}

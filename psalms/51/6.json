@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 51,
+  "translation": "Kwa inu, inu yekha, ndinaswa malamulo, ndipo choipa nachita pamaso panu, kuti mukhale wolungama m'mawu anu, mukhale woyera m'kuweruza kwanu.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kwa inu"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "inu yekha"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ndinaswa malamulo"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "ndipo choipa"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "pamaso panu"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndinachita"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "mukhale wolungama"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "m'mawu anu"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "mukhale woyera"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "m'kuweruza kwanu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:42.496729662Z",
+  "model": "glm-5.3"
+}

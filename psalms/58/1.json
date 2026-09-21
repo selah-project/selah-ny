@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 58,
+  "translation": "Kwa woyendetsa. Musawononge. Nyimbo ya Davide. Mikithamu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyendetsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musai-"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "wononge"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Davide"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Mikithamu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:43.507312926Z",
+  "model": "glm-5.3"
+}

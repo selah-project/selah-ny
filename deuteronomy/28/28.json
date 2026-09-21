@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 28:28",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Yahwe adzakumenya ndi kupenga, ndi khungu, ndi kudabwa kwa mtima.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "adzakumenya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "ndi kupenga"
+    },
+    {
+      "surface": "ובעורון",
+      "gloss": "ndi khungu"
+    },
+    {
+      "surface": "ובתמהון",
+      "gloss": "ndi kudabwa"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kwa mtima"
+    }
+  ],
+  "timestamp": "2026-09-21T07:28:24.682585981Z",
+  "model": "glm-5.3"
+}

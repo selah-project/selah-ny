@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo anati: “Tembenukira udzitorere.” Ndipo anatambasula dzanja lake, natenga chitsulocho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "Tembenukira udzitorere"
+    },
+    {
+      "surface": "לך",
+      "gloss": "udzitorere"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "anatambasula"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "natenga chitsulocho"
+    }
+  ],
+  "timestamp": "2026-09-21T08:48:26.114401918Z",
+  "model": "glm-5.3"
+}

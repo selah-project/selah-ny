@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Nakhshoni anabala ⟨את⟩ Salmu, ndipo Salmu anabala ⟨את⟩ Boazu.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Ndipo Nakhshoni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmu"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salmu"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "ndipo Salmu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boazu"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:22:57.103446546Z",
+  "model": "glm-5.3"
+}

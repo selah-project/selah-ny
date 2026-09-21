@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 45:7",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 45,
+  "translation": "Ndipo kwa mfumu, kuno ndi kuno kwa nsembe ya chiyero ndi kwa cholowa cha mzindu: patsogolo pa nsembe ya chiyero ndi patsogolo pa cholowa cha mzindu, kuchokera kumbali yakumadzulo kumadzulo, ndi kuchokera kumbali yakum'mawa kum'mawa; ndipo kutalika kuyenerana ndi gawo limodzi la magawo, kuchokera pa malire a kumadzulo mpaka malire a kum'mawa.",
+  "tokens": [
+    {
+      "surface": "ולנשיא",
+      "gloss": "ndi kwa mfumu"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kuno"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "ndi kuno"
+    },
+    {
+      "surface": "לתרומת",
+      "gloss": "kwa nsembe"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya chiyero"
+    },
+    {
+      "surface": "ולאחזת",
+      "gloss": "ndi kwa cholowa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cha mzindu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "patsogolo"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya chiyero"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "patsogolo"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "cholowa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cha mzindu"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "kuchokera kumbali"
+    },
+    {
+      "surface": "ים",
+      "gloss": "yakumadzulo"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "kumadzulo"
+    },
+    {
+      "surface": "ומפאת",
+      "gloss": "ndi kuchokera kumbali"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "yakum'mawa"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "kum'mawa"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "ndi kutalika"
+    },
+    {
+      "surface": "לעמות",
+      "gloss": "kuyenerana ndi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "limodzi"
+    },
+    {
+      "surface": "החלקים",
+      "gloss": "la magawo"
+    },
+    {
+      "surface": "מגבול",
+      "gloss": "kuchokera pa malire"
+    },
+    {
+      "surface": "ים",
+      "gloss": "a kumadzulo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "malire"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "a kum'mawa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:18:45.570313122Z",
+  "model": "glm-5.3"
+}

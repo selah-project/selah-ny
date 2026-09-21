@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Mkazi wamasiye uliwonse ndi mwana wamasiye simudzawaseketsa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "uliwonse"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "mkazi wamasiye"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "ndi mwana wamasiye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "simudza-"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "-waseketsa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:47.285173006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Chokani kwa ine, inu onse ochita zoipa ⟨און⟩, chifukwa Yahwe wamva mawu a kulilira kwanga.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Chokani"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onu onse"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ochita"
+    },
+    {
+      "surface": "און",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wamva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "a kulilira kwanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:39:43.928932943Z",
+  "model": "glm-5.3"
+}

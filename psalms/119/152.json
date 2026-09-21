@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 152,
+  "ref": "psalms 119:152",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Kale ndinadziwa, monga mwa maumboni ako, kuti unawakhazikitsa ku nthawi zosatha.",
+  "tokens": [
+    {
+      "surface": "קדם",
+      "gloss": "kale"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndinadziwa"
+    },
+    {
+      "surface": "מעדתיך",
+      "gloss": "monga mwa maumboni ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zosatha"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "unawakhazikitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:26.280296029Z",
+  "model": "glm-5.3"
+}

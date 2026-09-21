@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 6:24",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndi miyeso isanu chikhutu cha cherubi choyamba, ndi miyeso isanu chikhutu cha cherubi chachiwiri; miyeso khumi kuchokera ku mapeto a makhutu ake mpaka ku mapeto a makhutu ake.",
+  "tokens": [
+    {
+      "surface": "וחמש",
+      "gloss": "Ndi … isanu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "miyeso"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "chikhutu cha"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "cherubi"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "choyamba"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ndi … isanu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "miyeso"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "chikhutu cha"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "cherubi"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "chachiwiri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "miyeso"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "kuchokera ku mapeto a"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "makhutu ake"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpaka ku"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "mapeto a"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "makhutu ake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:33:13.742234030Z",
+  "model": "glm-5.3"
+}

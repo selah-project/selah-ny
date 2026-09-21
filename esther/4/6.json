@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo LaHatiki anatuluka napita kwa Mordekayi, ku dera la m'mudzi, chimene chili pamaso pa khomo la mfumu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "anatuluka napita"
+    },
+    {
+      "surface": "התך",
+      "gloss": "LaHatiki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekayi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "dera"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la m'mudzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "khomo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "la mfumu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:01:04.727927596Z",
+  "model": "glm-5.3"
+}

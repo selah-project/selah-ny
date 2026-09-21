@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 8:3",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo Aharon anachita zotero; kumaso kwa menora adakweza nyale zake, monga Yahwe analamula ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zotero"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מול",
+      "gloss": "kumaso"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kumaso"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "adakweza"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "nyale zake"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "analamula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:56:05.010584858Z",
+  "model": "glm-5.3"
+}

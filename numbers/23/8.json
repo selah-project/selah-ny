@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndingatemerere bwanji? El sanamuemberere; ndipo ndingadzudzule bwanji? Yahwe sanadzudzula.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "bwanji"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "Ndingatemerere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana(-)"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "muemberere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ndipo bwanji"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "ndingadzudzule"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana(-)"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "dzudzula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T07:05:08.575653652Z",
+  "model": "glm-5.3"
+}

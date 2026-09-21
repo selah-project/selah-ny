@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo ndidzapatsa ⟨את⟩ chifundo cha anthu awa maso a Mitsrayimu; ndipo zidzachitika kuti pamene mukankho, simudzanka mopanda kanthu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ndipo ndidzapatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chifundo"
+    },
+    {
+      "surface": "חן",
+      "gloss": "chifundo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "antha awa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "maso a"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ndipo zidzachitika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "pamene mukankho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "-mudzanka"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "mopanda kanthu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:02.126127689Z",
+  "model": "glm-5.3"
+}

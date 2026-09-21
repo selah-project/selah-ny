@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 146,
+  "translation": "Musakhulupirire mfumu ziwirimo, mwana wa munthu, popeza chipulumutso alibe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Musakhulupirire"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "musakhulupirire"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "mfumu ziwirimo"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "alibe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "chipulumutso"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:48.289790815Z",
+  "model": "glm-5.3"
+}

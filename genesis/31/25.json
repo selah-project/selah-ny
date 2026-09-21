@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Lavani anafika pa Yakobo, ndipo Yakobo anakhazikitsa ⟨את⟩ hema yake pa phiri; ndipo Lavani anakhazikitsa ⟨את⟩ abale ake pa phiri la Gileadi.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "anafika pa"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakobo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ndipo Yakobo"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "anakhazikitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hema yake"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "hema yake"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pa phiri"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "ndipo Lavani"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "anakhazikitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abale ake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abale ake"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pa phiri la"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileadi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:56:31.127231399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Mantha a Yahwe ndi oyera, akayima kosaleka kwa nthawi zonse; miweruzo ya Yahwe ndi yoonadi, ndi yolungama pamodzi.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Mantha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "oyera"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "akayima"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kosaleka kwa nthawi zonse"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "miweruzo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "yoonadi"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "yolungama"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:32.746420715Z",
+  "model": "glm-5.3"
+}

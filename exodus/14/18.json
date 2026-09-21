@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo Amissrayimu adzadziwa kuti Ine ndine Yahwe, pamene ndili kulemekezedwa mwa Paro, m'magalimende ake ndi m'akavalo ake.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Ndipo adzadziwa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Amissrayimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "pamene ndili kulemekezedwa"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "mwa Paro"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "m'magalimende ake"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "ndi m'akavalo ake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:14:38.434694602Z",
+  "model": "glm-5.3"
+}

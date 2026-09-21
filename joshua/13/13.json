@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 13:13",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Koma ana a Yisraeli sanathamizitsa ⟨את⟩ Ageşuri ndi ⟨את⟩ Amaakati; ndipo Geşuri ndi Maakati anakhala mkati mwa Yisraeli mpaka tsiku lino.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "koma sanathamizitsa"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "sanathamizitsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ageşuri"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "Ageşuri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Amaakati"
+    },
+    {
+      "surface": "המעכתי",
+      "gloss": "Amaakati"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Geşuri"
+    },
+    {
+      "surface": "ומעכת",
+      "gloss": "ndi Maakati"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mkati mwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lino"
+    }
+  ],
+  "timestamp": "2026-09-21T07:38:39.461429371Z",
+  "model": "glm-5.3"
+}

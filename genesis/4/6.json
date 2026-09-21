@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Yahwe anati kwa Kajini: “Chifukwa chiyani munakwiya, ndipo chifukwa chiyani nkhope zako zinagwa?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajini"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Chifukwa chiyani"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "munakwiya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ndipo chifukwa chiyani"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "zinagwa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nkhope zako"
+    }
+  ],
+  "timestamp": "2026-09-21T12:53:29.362968330Z",
+  "model": "glm-5.3"
+}

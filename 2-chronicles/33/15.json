@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Ndipo anachotsa ⟨את⟩ milungu yachilendo ndi ⟨את⟩ chifanizocho m'nyumba ya Yahwe, ndi mizimbu yonse imene anamanga pa phiri la nyumba ya Yahwe ndi mu Yerushalayimu, nayiponya kunja kwa mzinda.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "anachotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "milungu yachilendo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "milungu"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "yachilendo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chifanizocho"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "chifanizocho"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "m'nyumba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi yonse"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "mizimbu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anamanga"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pa phiri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "ndi mu Yerushalayimu"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "nayiponya"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "kunja"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kwa mzinda"
+    }
+  ],
+  "timestamp": "2026-09-21T12:50:30.925124471Z",
+  "model": "glm-5.3"
+}

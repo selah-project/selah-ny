@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo mthenga anayenda, nalowa, nanauza Davide ⟨את⟩ zonse zimene Yoabi anamutuma nazozo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ndipo anayenda"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mthenga"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nalowa"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "nanauza"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "anamutuma"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:21:19.636719802Z",
+  "model": "glm-5.3"
+}

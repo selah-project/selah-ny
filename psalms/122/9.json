@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 122,
+  "translation": "Chifukwa cha nyumba ya Yahwe Elohim wathu, ndidzafuna zabwino za iwe.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "ndidzafuna"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zabwino"
+    },
+    {
+      "surface": "לך",
+      "gloss": "za iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:18.376559346Z",
+  "model": "glm-5.3"
+}

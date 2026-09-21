@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 59:6",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 59,
+  "translation": "Maulo awo sadzakhala chovala, ndipo sadzavalidwa ndi ntchito zawo; ntchito zawo ndi ntchito za zoipa, ndipo chiwawa chili m'manja mwawo.",
+  "tokens": [
+    {
+      "surface": "קוריהם",
+      "gloss": "maulo awo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadzakhala"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨kukhala⟩"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "chovala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sadzavalidwa"
+    },
+    {
+      "surface": "יתכסו",
+      "gloss": "⟨kuvalidwa⟩"
+    },
+    {
+      "surface": "במעשיהם",
+      "gloss": "ndi ntchito zawo"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ntchito zawo"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ntchito za"
+    },
+    {
+      "surface": "און",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "ndipo ntchito ya"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "chiwawa"
+    },
+    {
+      "surface": "בכפיהם",
+      "gloss": "m'manja mwawo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:25:32.785722521Z",
+  "model": "glm-5.3"
+}

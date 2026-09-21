@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Yehuda anakwera, ndipo Yahwe anapereka ⟨את⟩ Kenani ndi Perizi m'manja mwawo; ndipo anawamenya ku Bezeki — anthu chikwi khumi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Ndipo Yehuda anakwera"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ndipo Yahwe anapereka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenani"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ndi Perizi"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "m'manja mwawo"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ndipo anawamenya"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "ku Bezeki"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "chikwi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:45:30.617044200Z",
+  "model": "glm-5.3"
+}

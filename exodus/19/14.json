@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo Moshe anatsika kuchokera m'mphudzi kufikira kwa anthu, nadziyera ⟨את⟩ anthropu, ndipo iwo anasamba zovala zawo.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "anatsika"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchokera"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "m'mphudzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kufikira kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "nadziyera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "anasamba"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "zovala zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:15:35.202325221Z",
+  "model": "glm-5.3"
+}

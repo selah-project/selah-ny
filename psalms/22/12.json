@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Usakhale kutali ndi ine, pakuti mavuto ali pafupi, pakuti palibe wothandiza.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Usa"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "khale kutali"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ndi ine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "mavuto"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "ali pafupi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "wothandiza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:42.844265160Z",
+  "model": "glm-5.3"
+}

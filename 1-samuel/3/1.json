@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo mnyamata Shemueli ankatumikira ⟨את⟩ Yahwe kutsogolo kwa Eli; ndipo liwu la Yahwe linali wosowa m'masiku amenewa, palibe maonero chotulukira.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "Ndipo mnyamata"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "ankatumikira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kutsogolo kwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ndipo liwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "linali"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "wosowa"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "m'masiku"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "amenewa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "maonero"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "chotulukira"
+    }
+  ],
+  "timestamp": "2026-09-21T08:00:17.798815286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Ndani ndiye amabisira ulongozi popanda chidziwitso? Chifukwa chake ndanena, koma sindimvetsetsa; zinthu zachilendo zoposa ine, zimene sindinazidziwe.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ndani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "amabisira"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ulongozi"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "popanda"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "chidziwitso"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Chifukwa chake"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ndanena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma sindi-"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "mvetsetsa"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "zinthu zachilendo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "zoposa ine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sindi"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "nazidziwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:47:33.428779726Z",
+  "model": "glm-5.3"
+}

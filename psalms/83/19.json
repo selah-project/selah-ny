@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 83,
+  "translation": "Ndipo adziwe kuti iwe — Dzina lako ndi Yahwe — ndi wekha, Wapachulu pa dziko lonse lapansi.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Ndipo adziwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Dzina lako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ndi wekha"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Wapachulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:13.048202551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 148,
+  "translation": "Lemezani iye, miyamba ya miyamba, ndi madzi amene ali pamwamba pa miyamba.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "lemezani iye"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "miyamba ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "miyamba"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "ndi madzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pamwamba pa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "miyamba"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:03.672305262Z",
+  "model": "glm-5.3"
+}

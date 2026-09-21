@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo udzaika komweko ⟨את⟩ chikasa cha umboni, ndipo udzafunda pa chikasacho ⟨את⟩ chikhuta.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "udzaika"
+    },
+    {
+      "surface": "שם",
+      "gloss": "komweko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikasa cha umboni"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chikasa"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "cha umboni"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "udzafunda"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "chikasacho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikhuta"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "chikhuta"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:48.522447026Z",
+  "model": "glm-5.3"
+}

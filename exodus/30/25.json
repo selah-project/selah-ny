@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo uzipanga ⟨את⟩ awo mafuta a kudzozera, a chipatutso, osakanidwa bwino, ntchito ya wosakanira; ndiwo adzakhala mafuta a kudzozera a chipatutso.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ndipo uzipanga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ awo",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "a kudzozera"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "a chipatutso"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "osakanidwa bwino"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "osakanidwa bwino"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "ya wosakanira"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "a kudzozera"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "a chipatutso"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adzakhala"
+    }
+  ],
+  "timestamp": "2026-09-21T06:22:48.337611839Z",
+  "model": "glm-5.3"
+}

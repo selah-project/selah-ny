@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo ndidzatuma pa iwo ⟨את⟩ lupanga, ⟨את⟩ njala, ndi ⟨את⟩ madzimvumbi, kufikira atha kuchoka pa dziko limene ndinawapatsa iwo ndi makolo awo.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ndipo ndidzatuma"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pa iwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupanga"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "lupanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njala"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "njala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "madzimvumbi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "madzimvumbi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "atha"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuchoka pa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndinawapatsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "ndi makolo awo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:38:33.605469846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo anali awiriwa ⟨⟨⟩⟩ adamu ndi mkazi wake, onse akudaumbirapo, ndipo sankazunzika.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ndipo anali"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "awiriwa onse"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "akudaumbirapo (anaulula)"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adamu"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ndi mkazi wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sina"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "sankazunzika"
+    }
+  ],
+  "timestamp": "2026-09-21T05:41:33.996537906Z",
+  "model": "glm-5.3"
+}

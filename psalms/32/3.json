@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Pandachita chidaliro, mafupa anga anamwa m'kuliridwa kwanga tsiku lonse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Panda"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "Pandachita chidaliro"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "anamwa"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mafupa anga"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "m'kuliridwa kwanga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:32.116625535Z",
+  "model": "glm-5.3"
+}

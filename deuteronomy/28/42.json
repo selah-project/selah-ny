@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Mitengo yanu yonse ndi chipatso cha dziko lanu, tsamwa idzaikhazikika pa iyo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "mitengo yanu"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ndi chipatso"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "cha dziko lanu"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "idzaikhazikika pa"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "tsamwa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:28:17.912131976Z",
+  "model": "glm-5.3"
+}

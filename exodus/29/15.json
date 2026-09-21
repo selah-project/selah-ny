@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo ⟨את⟩ nkhosa yamwamuna imodzi ulande, ndipo Aharoni ndi ana ake aisitse ⟨את⟩ manja awo pa mutu wa nkhosayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ndipo ⟨את⟩",
+      "marks": "nkhosa yamwamuna imodzi"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "nkhosa yamwamuna"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "imodzi"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ulande"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "aisitse"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ndi ana ake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manja awo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "manja awo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "nkhosayo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:22:07.839266477Z",
+  "model": "glm-5.3"
+}

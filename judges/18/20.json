@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo mtima wa wansembe unakondwera, ndipo anatenga ⟨את⟩ ephodi ndi ⟨את⟩ terafimu ndi ⟨את⟩ chifanizido cholembedwa, nalowa pakati pa anthu.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "unakondwera"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wa wansembe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ndipo anatenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ephodi"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ephodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "terafimu"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chifanizido cholembedwa"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "chifanizido cholembedwa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ndipo analowa"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:56:31.052371460Z",
+  "model": "glm-5.3"
+}

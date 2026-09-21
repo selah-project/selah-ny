@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 26:4",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo kwa Obedi-Edomu anali ana: Shemaya wamkulu, Yehozabadi wachiwiri, Yoahi wachitatu, Sakari wachinayi, ndi Netaneli wachisanu.",
+  "tokens": [
+    {
+      "surface": "ולעבד",
+      "gloss": "ndipo kwa Obedi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ana"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Shemaya"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "Yehozabadi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wachiwiri"
+    },
+    {
+      "surface": "יואח",
+      "gloss": "Yoahi"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "wachitatu"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ndi Sakari"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "wachinayi"
+    },
+    {
+      "surface": "ונתנאל",
+      "gloss": "ndi Netaneli"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "wachisanu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:34:02.982684913Z",
+  "model": "glm-5.3"
+}

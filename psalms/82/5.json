@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 82,
+  "translation": "Sadziwa, ndipo savomereza; mu mdima amayenda; maziko onse a dziko lapansi adzagwedezeka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "dziwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sa-"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "vomereza"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "mu mdima"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "amayenda"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "adzagwedezeka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "maziko a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:15.023473269Z",
+  "model": "glm-5.3"
+}

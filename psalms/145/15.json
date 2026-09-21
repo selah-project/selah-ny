@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 145,
+  "translation": "Maso a onse akuyembekezera kwa iwe, ndipo iwe umapatsa kwa iwo ⟨את⟩ chakudya chawo pa nthawi yake.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Maso a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "akuyembekezera"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ndipo iwe"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "umapatsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chakudya chawo"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "chakudya chawo"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "pa nthawi yake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:02.155422055Z",
+  "model": "glm-5.3"
+}

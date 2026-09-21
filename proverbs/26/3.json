@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Thichi cha kavalo, chidindo cha bulu, ndi ndodo ku msana wa achidindo.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "thichi"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "cha kavalo"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "chidindo"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "cha bulu"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "ndi ndodo"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "ku msana"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "wa achidindo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:27:05.211537879Z",
+  "model": "glm-5.3"
+}

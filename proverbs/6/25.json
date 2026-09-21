@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Usafune kukongola kwake mu mtima mwako, ndipo usatengedwe ndi zipunu zake.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "fune"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "kukongola kwake"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "mu mtima mwako"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo usa"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "usatengedwe"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "ndi zipunu zake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:20:28.680882418Z",
+  "model": "glm-5.3"
+}

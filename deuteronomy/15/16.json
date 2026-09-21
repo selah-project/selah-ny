@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo zidzakhala kuti akati kwa iwe: 'Sindidzatuluka kwa iwe,' chifukwa iye anakukonda iwe ndi ⟨את⟩ nyumba yako, chifukwa zili zabwino kwa iye pamodzi ndi iwe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ndipo zidzakhala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si(ndi)"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ndidzatuluka"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "anakukonda iwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyumba yako"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nyumba yako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zili zabwino"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pamodzi ndi iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T07:21:15.720065481Z",
+  "model": "glm-5.3"
+}

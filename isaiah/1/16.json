@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Sambani, yeretsani; chotsani choipa cha ntchito zanu kumaso anga; lekeni kuchita choipa.",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "sambani"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "yeretsani"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "chotsani"
+    },
+    {
+      "surface": "רע",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "cha ntchito zanu"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "kumaso"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anga"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "lekeni"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kuchita choipa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:01:39.916958347Z",
+  "model": "glm-5.3"
+}

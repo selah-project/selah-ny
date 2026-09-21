@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Adamu anadziwa ⟨את⟩ Chavva mkazi wake; ndipo iye anayesa ndi kubala ⟨את⟩ Kayini, nanena kuti: “Ndapeza munthu ndi ⟨את⟩ Yahwe.”",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Ndipo Adamu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anadziwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chavva"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chavva"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mkazi wake"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "anayesa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "kubala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kayini"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayini"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "nanena kuti"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "Ndapeza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:56.387941705Z",
+  "model": "glm-5.3"
+}

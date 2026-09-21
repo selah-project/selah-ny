@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo anawachitira mgonero, ndipo anadya ndi anamwa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ndipo anawachitira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "mgonero"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ndipo anadya"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ndipo anamwa"
+    }
+  ],
+  "timestamp": "2026-09-21T05:53:07.928521217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 1:10",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo chifaniziro cha nkhope zawo: nkhope ya munthu, ndipo nkhope ya mkango kumanja kwa izo zinayi, ndipo nkhope ya ng'ombe kumanzere kwa izo zinayi, ndipo nkhope ya mkonga kwa izo zinayi.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "ndipo chifaniziro cha"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "nkhope zawo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope ya"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ndipo nkhope ya"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "mkango"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kumanja kwa"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "kumanja"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "izo zinayi"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ndipo nkhope ya"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "kumanzere"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "kwa izo zinayi"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ndipo nkhope ya"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "mkonga"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "kwa izo zinayi"
+    }
+  ],
+  "timestamp": "2026-09-21T09:53:55.127928787Z",
+  "model": "glm-5.3"
+}

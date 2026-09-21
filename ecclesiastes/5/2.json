@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Pakuti lidabwera lota m'chuluko cha ntchito, ndipo liwu la wopusa m'chuluko cha mawu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "בא",
+      "gloss": "lidabwera"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "lota"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "m'chuluko cha"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ndipo liwu la"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "wopusa"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "m'chuluko cha"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mawu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:56.660757216Z",
+  "model": "glm-5.3"
+}

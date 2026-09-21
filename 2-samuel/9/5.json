@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo mfumu Davide adatuma, ndipo adamutenga m'nyumba ya Makhiri mwana wa Ammieli, m'Lo-Debari.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "adatuma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "adamutenga"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makhiri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammieli"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "m'Lo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "-Debari"
+    }
+  ],
+  "timestamp": "2026-09-21T08:20:04.462804516Z",
+  "model": "glm-5.3"
+}

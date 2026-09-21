@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "Ndayenda ngati mthunzi ukataya pake, ndinachotsedwa ngati dzombe.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "ngati mthunzi"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "ukataya pake"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "Ndayenda"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "ndinachotsedwa"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "ngati dzombe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:36.917284746Z",
+  "model": "glm-5.3"
+}

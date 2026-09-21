@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Dzipulumutsa monga tshebule m'dzanja, ndi monga mbalame m'dzanja la woyenga mbalame.",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "Dzipulumutsa"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "monga tshebule"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "ndi monga mbalame"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "woyenga mbalame"
+    }
+  ],
+  "timestamp": "2026-09-21T11:19:39.441908633Z",
+  "model": "glm-5.3"
+}

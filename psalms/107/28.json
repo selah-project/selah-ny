@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Ndiipo anafuulira kwa Yahwe m'tsoka mwawo, ndipo otsoka mwawo anawatulutsa.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "anafuulira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "m'tsoka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mwawo"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "ndipo otsoka mwawo"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "anawatulutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:13.427170067Z",
+  "model": "glm-5.3"
+}

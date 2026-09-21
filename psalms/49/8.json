@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "M'bale sadziweza munthu ndi mtengo wowonerera; sanapereke kwa Elohim chiwombolo chake.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "m'bale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "sadziweza"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "adziweza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana-"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "sanapereke"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "chiwombolo chake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:10.035088996Z",
+  "model": "glm-5.3"
+}

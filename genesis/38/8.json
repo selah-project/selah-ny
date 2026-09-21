@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Ndipo Yehudha anati kwa Onani: “Lowa kwa mkazi wa m'bale wako, ukachitire udindo wa m'bale ⟨את⟩ iye, ndipo ukaukitse mbewu kwa m'bale wako.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "kwa Onani"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Lowa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mkazi wa"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "m'bale wako"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "ukachitire udindo wa m'bale"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ iye",
+      "marks": "udindo wa m'bale"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "ukaukitse"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbewu"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "kwa m'bale wako"
+    }
+  ],
+  "timestamp": "2026-09-21T06:00:11.440686067Z",
+  "model": "glm-5.3"
+}

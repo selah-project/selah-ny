@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Nolumikiza ⟨את⟩ mapatanti asanu pa okha, ndi ⟨את⟩ mapatanti asanu ndi limodzi pa okha.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "nolumikiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapatanti asanu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "asanu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "mapatanti"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "pa okha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mapatanti asanu ndi limodzi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "asanu ndi limodzi"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "mapatanti"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "pa okha"
+    }
+  ],
+  "timestamp": "2026-09-21T06:27:32.300694754Z",
+  "model": "glm-5.3"
+}

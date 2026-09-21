@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 3:4",
+  "book": "song-of-songs",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Pang'ono chakuti ndinawapitirira, ndinapeza ⟨את⟩ amene moyo wanga umamukonda; ndinamugwira, ndipo sindinamulekereza, mpaka ndinamulowetsa ku nyumba ya amayi anga, ndi ku chipinda cha amene anandibala.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Pang'ono chakuti"
+    },
+    {
+      "surface": "שעברתי",
+      "gloss": "ndinapitirira"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "שמצאתי",
+      "gloss": "ndinapeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amene moyo wanga umamukonda"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "amene moyo wanga umamukonda"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "אחזתיו",
+      "gloss": "ndinamugwira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si"
+    },
+    {
+      "surface": "ארפנו",
+      "gloss": "ndinamulekereza"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "שהביאתיו",
+      "gloss": "ndinamulowetsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ya amayi anga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi ku"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "chipinda"
+    },
+    {
+      "surface": "הורתי",
+      "gloss": "cha amene anandibala"
+    }
+  ],
+  "timestamp": "2026-09-21T11:48:35.749573063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Komanso, onse akuyembekezera Inu sadzachita manyazi; adzachita manyazi iwo akunyenga mpanda mtima.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Komanso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "akuyembekezera Inu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "chita manyazi"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "adzachita manyazi"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "iwo akunyenga"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "mpanda mtima"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:17.959423093Z",
+  "model": "glm-5.3"
+}

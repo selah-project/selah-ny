@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndipo maso a oona sadzafooka, ndi makutu a kumva adzamvera movomerezeka.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "fooka"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maso"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "a oona"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "ndi makutu"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "a kumva"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "adzamvera movomerezeka"
+    }
+  ],
+  "timestamp": "2026-09-21T09:12:33.963508660Z",
+  "model": "glm-5.3"
+}

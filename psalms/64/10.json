@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 64,
+  "translation": "Ndipo anthu onse adzaopa, nadzaulula ntchito ya Elohim, ndipo ntchito yake anazindikira bwino.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "adzaopa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "nadzaulula"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "ndipo ntchito yake"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "anazindikira bwino"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:12.335330320Z",
+  "model": "glm-5.3"
+}

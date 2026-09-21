@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Usakhale wanjala m'maso mwako; opezera Yahwe ⟨את⟩, ndipo patukana ndi choipa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Usa-"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "-khale"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wanjala"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "m'maso mwako"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "opezera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "ndipo patukana"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ndi choipa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:18:26.537629185Z",
+  "model": "glm-5.3"
+}

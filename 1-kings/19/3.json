@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Nipo iye ataona, anayamba, nayenda ⟨kutengera⟩ moyo wake, nafika ku Beersheba ya Yehuda, nadikirira ⟨את⟩ mnyamata wake kumeneko.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ataona"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "anayamba"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nayenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kutengera"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nafika"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ku Beersheba"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Beersheba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "nadikirira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mnyamata wake"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "mnyamata wake"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    }
+  ],
+  "timestamp": "2026-09-21T08:45:33.537752264Z",
+  "model": "glm-5.3"
+}

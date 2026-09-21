@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo mtsinji unatuluka mu Edeni kudziritsa ⟨את⟩ munda; ndipo kumeneko unagawanika, ukhala misala inayi.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "Ndipo mtsinji"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "unatuluka"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "mu Edeni"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "kudziritsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munda"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "munda"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ndipo kumeneko"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "unagawanika"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ukhala"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "inayi"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "misala"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:47.437017328Z",
+  "model": "glm-5.3"
+}

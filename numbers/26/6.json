@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "wa Hezroni, banja la a-Hezroni; wa Karmi, banja la a-Karmi.",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "wa Hezroni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "banja la"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "a-Hezroni"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "wa Karmi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "banja la"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "a-Karmi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:05:05.211885038Z",
+  "model": "glm-5.3"
+}

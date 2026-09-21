@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Sanakumbukire ⟨את⟩ dzanja lake, ⟨ili⟩ tsiku limene anawomboletsa ku mdani.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sana-"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "kumbukire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzanja lake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "anawomboletsa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צר",
+      "gloss": "mdani"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:49.785294149Z",
+  "model": "glm-5.3"
+}

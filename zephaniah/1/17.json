@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zephaniah 1:17",
+  "book": "zephaniah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo ndinaika chidautso pa anthu, nadzayenda ngati akhungu, chifukwa kwa Yahwe anachimwa; ndipo mwazi wawo udzathazidwa ngati dothi, ndi nyama yawo ngati zinyalala.",
+  "tokens": [
+    {
+      "surface": "והצרתי",
+      "gloss": "ndipo ndinaika chidautso"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "pa anthu"
+    },
+    {
+      "surface": "והלכו",
+      "gloss": "nadzayenda"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "ngati akhungu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "anachimwa"
+    },
+    {
+      "surface": "ושפך",
+      "gloss": "udzathazidwa"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "mwazi wawo"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "ngati dothi"
+    },
+    {
+      "surface": "ולחמם",
+      "gloss": "ndi nyama yawo"
+    },
+    {
+      "surface": "כגללים",
+      "gloss": "ngati zinyalala"
+    }
+  ],
+  "timestamp": "2026-09-21T10:33:48.216370829Z",
+  "model": "glm-5.3"
+}

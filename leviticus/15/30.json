@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo msilikali adzachita ⟨את⟩ limodzi ngati nsembe ya machimo ndi ⟨את⟩ limodzi ngati nsembe yopsereka, ndipo msilikali adzawombozera chifukwa cha iye pamaso pa Yahwe chifukwa cha madetsa a letsani lake.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "adzachita"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "msilikali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "limodzi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "limodzi"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ngati nsembe ya machimo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "limodzi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "limodzi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ngati nsembe yopsereka"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "nadzawombozera"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "chifukwa cha iye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "msilikali"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "madetsa"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "a letsani lake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:39:47.486389374Z",
+  "model": "glm-5.3"
+}

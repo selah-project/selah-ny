@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo pambuyo pake Davide anamenya ⟨את⟩ Aplishti nawaleza, ndipo anatenga ⟨את⟩ Gati ndi midzi yake m'manja mwa Aplishti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zinachitika"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pambuyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "pake"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "anamenya"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aplishti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Aplishti"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "anawaleza"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gati"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gati"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ndi midzi yake"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'manja mwa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Aplishti"
+    }
+  ],
+  "timestamp": "2026-09-21T12:32:53.267940666Z",
+  "model": "glm-5.3"
+}

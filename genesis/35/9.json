@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Ndipo Elohim adaonekera kwa Yakobo koposa, m'mene ankabwera kuchokera ku Padani Aramu, ndipo adamdalitsa ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "adaonekera"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "koposa"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "m'mene ankabwera"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "kuchokera ku Padani"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ndipo adamdalitsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Yakobo"
+    }
+  ],
+  "timestamp": "2026-09-21T05:58:38.513680503Z",
+  "model": "glm-5.3"
+}

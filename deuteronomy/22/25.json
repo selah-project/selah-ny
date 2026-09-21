@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Koma ngati munthu apeza m'kati mu there ⟨את⟩ msikana wopalidwa, ndipo munthuyo amugwira, nagona ndi iye, munthu amene anagona ndi iye adzafa yekha okha.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Koma ngati"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "m'kati mu there"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "apeza"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "msikana wopalidwa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "msikana"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "wopalidwa"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "amugwira"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iye"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munthuyo"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "nagona"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ndi iye"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "adzafa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "anagona"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ndi iye"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yekha okha"
+    }
+  ],
+  "timestamp": "2026-09-21T07:26:09.423806608Z",
+  "model": "glm-5.3"
+}

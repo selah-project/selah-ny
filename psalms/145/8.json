@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 145,
+  "translation": "Wachifundo ndi wachikondi Yahwe, wolekereza mkwiyo, ndi wachikulu m'khesedi.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Wachifundo"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ndi wachikondi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "wolekereza"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "mkwiyo"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "ndi wachikulu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "m'khesedi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:05.320004166Z",
+  "model": "glm-5.3"
+}

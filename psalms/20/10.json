@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Yahwe, Landiritsa! Mfumu yotiyang'anire m'mene tiimana!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "Landiritsa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mfumu"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "yotiyang'anire"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "m'mene"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "tiimana"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:03.274452220Z",
+  "model": "glm-5.3"
+}

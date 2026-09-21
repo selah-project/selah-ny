@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 14:3",
+  "book": "zechariah",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo Yahwe adzatuluka, nadzakana nkhondo ndi mayiko amenewo, monga anamenya nkhondo pa tsiku la nkhondo.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ndipo adzatuluka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "nadzakana nkhondo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ndi mayiko"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "amenewo"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "monga pa tsiku"
+    },
+    {
+      "surface": "הלחמו",
+      "gloss": "anamenya nkhondo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pa tsiku"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "la nkhondo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:39:08.845423810Z",
+  "model": "glm-5.3"
+}

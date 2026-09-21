@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo dziko lawo ladzala ndi siliva ndi golide, ndipo palibe mapeto a chuma chawo; dziko lawo ladzala ndi mahachi, ndipo palibe mapeto a magalimoto a nkhondo awo.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "Ndipo dziko lawo ladzala"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "dziko lawo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ndi siliva"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ndi golide"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "mapeto"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "a chuma chawo"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "dziko lawo ladzala"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "dziko lawo"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ndi mahachi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "mapeto"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "a magalimoto a nkhondo awo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:01:51.105497964Z",
+  "model": "glm-5.3"
+}

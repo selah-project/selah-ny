@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 23:13",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo m'zinthu zonse zimene ndati kwa inu muzisunga, ndipo dzina la milungu ina musatchule; sicidzamveka pa mkamwa mwanu.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "ndipo m'zinthu zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndati"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "muzisunga"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ndipo dzina"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "la milungu"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musatchule-si"
+    },
+    {
+      "surface": "תזכירו",
+      "gloss": "musatchule"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "cidzamveka"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "mkamwa mwanu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:28.100030052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 73,
+  "translation": "Koma ine, pang'ono chabe mapazi anga anapindika, makadyero anga anathirika.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "koma ine"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "pang'ono chabe"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "anapindika"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mapazi anga"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "monga chopanda"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "anathirika"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "makadyero anga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:54.807511351Z",
+  "model": "glm-5.3"
+}

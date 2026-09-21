@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo nkhondo inali pakati pa Asa ndi pakati pa Baasha, mfumu ya Yisraeli, masiku awo onse.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Ndipo nkhondo"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "inali"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "masiku awo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:42:03.968829566Z",
+  "model": "glm-5.3"
+}

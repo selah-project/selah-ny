@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 81,
+  "translation": "Ndinachotera pa khosi lake katundu wolemera; manja ake anadutsa m'dengu.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "Ndinachotera"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "katundu wolemera"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "pa khosi lake"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "manja ake"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "m'dengu"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "anadutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:49.231402924Z",
+  "model": "glm-5.3"
+}

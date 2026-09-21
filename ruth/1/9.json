@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 1:9",
+  "book": "ruth",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Yahwe akupatsani inu kuti muzipeze mpumulo, yense m'nyumba ya mwamuna wake.” Ndipo iye anakuma ⟨iwo⟩, ndipo iwo anayera mawu awo, nasira.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "akupatsani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "ומצאן",
+      "gloss": "ndipo muzipeza"
+    },
+    {
+      "surface": "מנוחה",
+      "gloss": "mpumulo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mkazi yense"
+    },
+    {
+      "surface": "בית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ya mwamuna wake"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "ndipo anakuma"
+    },
+    {
+      "surface": "להן",
+      "gloss": "⟨iwo⟩"
+    },
+    {
+      "surface": "ותשאנה",
+      "gloss": "ndipo anayera"
+    },
+    {
+      "surface": "קולן",
+      "gloss": "mawu awo"
+    },
+    {
+      "surface": "ותבכינה",
+      "gloss": "nasira"
+    }
+  ],
+  "timestamp": "2026-09-21T11:50:36.321026004Z",
+  "model": "glm-5.3"
+}

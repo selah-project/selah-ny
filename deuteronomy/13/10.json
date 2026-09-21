@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Pakuti kupha udzamupha; dzanja lako lidzakhala pa iye choyamba kumupha, ndipo dzanja la anthu onse pambuyo pake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "kupha"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "udzamupha"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dzanja lako"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "lidzakhala"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "choyamba"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "kumupha"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ndipo dzanja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "la anthu onse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "la anthu onse"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "pambuyo pake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:20:16.639020003Z",
+  "model": "glm-5.3"
+}

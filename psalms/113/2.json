@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 113,
+  "translation": "Dzina la Yahwe likhale lodalitsidwa, tsopano ndi mpaka ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "likhale"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dzina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "lodalitsidwa"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ndi mpaka ku"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:29.054719568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "⟨את⟩ Khelekati ndi ⟨את⟩ malo ake, ndi ⟨את⟩ Rekhobi ndi ⟨את⟩ malo ake — mizi inayi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khelekati"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Khelekati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malo ake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malo ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Rekhobi"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rekhobi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malo ake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malo ake"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mizi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "inayi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:42:58.512956962Z",
+  "model": "glm-5.3"
+}

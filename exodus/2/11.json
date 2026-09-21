@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 2:11",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo kunali kotero m'masiku oja, Moshe podula, anatuluka kulimbana ndi abale ake, ndipo anaona zolemetsa zawo, ndipo anaona munthu wa ku Mitsrayimu akumenya munthu Mhebri, mwa abale ake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kunali kotero"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "m'masiku"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "oja"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "podula"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "anatuluka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kulimbana ndi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abale ake"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "zolemetsa zawo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "wa ku Mitsrayimu"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "akumenya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Mhebri"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "mwa abale ake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:07:39.187860286Z",
+  "model": "glm-5.3"
+}

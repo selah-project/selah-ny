@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo chinayera kwa Yona choipa chachikulu, ndipo kunavyukira iye.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "chinayera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "chachikulu"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "kunavyukira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    }
+  ],
+  "timestamp": "2026-09-21T10:28:51.536072272Z",
+  "model": "glm-5.3"
+}

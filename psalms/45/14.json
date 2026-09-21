@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 45:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 45,
+  "translation": "Ulemerero wonse wa mwana wamkazi wa mfumu uli mkati; mavwalo ake ndi a golide woluka.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "ulemerero wake"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa mfumu"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "mkati"
+    },
+    {
+      "surface": "ממשבצות",
+      "gloss": "woluka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "mavwalo ake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:36.870648581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 8:2",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "ndipo mizinda imene Churamu anapatsa Shelomo, Shelomo anayimanga ⟨אתם⟩, ndipo anakhalitsa komweko ⟨את⟩ ana a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "ndipo mizinda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anapatsa"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Churamu"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kwa Shelomo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anamanga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "mizinda"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "anakhalitsa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "komweko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T12:39:54.970276451Z",
+  "model": "glm-5.3"
+}

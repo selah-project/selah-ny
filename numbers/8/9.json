@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 8:9",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo udzabweretsa ⟨את⟩ Alevi pamaso pa chihema cha msonkhano, ndipo udzasonkhetsa ⟨את⟩ msonkhano wonse wa ana a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "udzabweretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Alevi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "cha msonkhano"
+    },
+    {
+      "surface": "והקהלת",
+      "gloss": "udzasonkhetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "msonkhano wonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "msonkhano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T06:54:57.939161041Z",
+  "model": "glm-5.3"
+}

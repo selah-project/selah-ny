@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 41:5",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Zilwa zinaona ndipo zinaopa; malekezo a dziko lapansi zanjenjemera; zinayandikira, ndipo zidza.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "zinaona"
+    },
+    {
+      "surface": "איים",
+      "gloss": "zilwa"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ndipo zinaopa"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "malekezo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a dziko lapansi"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "zanjenjemera"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "zinayandikira"
+    },
+    {
+      "surface": "ויאתיון",
+      "gloss": "ndipo zidza"
+    }
+  ],
+  "timestamp": "2026-09-21T09:17:13.330179151Z",
+  "model": "glm-5.3"
+}

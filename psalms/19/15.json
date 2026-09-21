@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Mawu a pakamwa panga ndi kulingalira kwa mtima wanga akhale zokondweretsa pamaso panu, Yahwe, Mwala wanga ndi Wowombola wanga.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "akhale"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "zokondweretsa"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "a pakamwa panga"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "ndi kulingalira"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kwa mtima wanga"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamaso panu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "Mwala wanga"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "ndi Wowombola wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:35.768428812Z",
+  "model": "glm-5.3"
+}

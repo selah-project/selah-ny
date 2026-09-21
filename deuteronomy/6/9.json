@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo uzilemba pa miyala ya zitseko za nyumba yako ndi pa zipata zako.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "uzilemba"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "miyala ya zitseko"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nyumba yako"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "ndi pa zipata zako"
+    }
+  ],
+  "timestamp": "2026-09-21T07:15:56.943621131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Anapempha, ndipo anabweretsa cheche, ndi mkate wakumwamba anawakhutsitsa.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Anapempha"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ndipo anabweretsa"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "cheche"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "ndi mkate"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "wakumwamba"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "anawakhutsitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:52.503074521Z",
+  "model": "glm-5.3"
+}

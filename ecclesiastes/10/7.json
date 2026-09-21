@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndinaona akapolo akwera mahashi, ndipo amkulu wayendanso monga akapolo pa dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ndinaona"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "akapolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "mahashi"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "ndipo amkulu"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "wayendanso"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "monga akapolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:56:28.664528857Z",
+  "model": "glm-5.3"
+}

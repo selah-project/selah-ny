@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo Yakobo anaphunzitsa Rakheli, nakweza ⟨את⟩ liwu lake, naliira.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "anaphunzitsa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rakheli"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "nakweza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liwu lake"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "liwu lake"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "naliira"
+    }
+  ],
+  "timestamp": "2026-09-21T05:54:00.587823913Z",
+  "model": "glm-5.3"
+}

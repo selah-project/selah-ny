@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo ⟨iye⟩ adamulamula za chinthu ichi, kuti asalowe kumva milungu ina; koma sanasunge ⟨את⟩ zimene Yahwe analamula.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "adamulamula"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chinthu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kuti asa-"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "lowe kumva"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kumva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "milungu"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma sanasunge"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "sanasunge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene (אשר)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "analamula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:38:51.565436041Z",
+  "model": "glm-5.3"
+}

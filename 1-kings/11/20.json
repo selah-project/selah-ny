@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo mlongo wa Tahapenesi anabala kwa iye ⟨את⟩ Genubati mwana wake, ndipo Tahapenesi anamutsitsa m'mkaka m'nyumba ya Paro; ndipo Genubati anali m'nyumba ya Paro pakati pa ana a Paro.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "mlongo wa"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "Tahapenesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Genubati mwana wake"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubati"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "anamutsitsa m'mkaka"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "Tahapenesi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "m'"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "anali"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubati"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-21T08:40:07.230970985Z",
+  "model": "glm-5.3"
+}

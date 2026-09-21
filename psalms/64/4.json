@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 64,
+  "translation": "Amene analembetsa lilime lawo ngati lupanga, nakozena mivi yawo — liwu loowawa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Amene"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "analembetsa"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "ngati lupanga"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lilime lawo"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "nakozena"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "mivi yawo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liwu"
+    },
+    {
+      "surface": "מר",
+      "gloss": "loowawa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:51.674905796Z",
+  "model": "glm-5.3"
+}

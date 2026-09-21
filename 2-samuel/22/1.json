@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo Davidi anayankhula kwa Yahwe ⟨את⟩ mawu a nyimboyi, tsiku Yahwe idamupulumutsa ⟨את⟩ iye m'dzanja la adani ake onse ndi m'dzanja la Shauli.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "anayankhula"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "a nyimboyi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "idamupulumutsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "Davidi"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "adani ake"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "ndi m'dzanja la"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:27:46.866408977Z",
+  "model": "glm-5.3"
+}

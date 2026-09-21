@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo zinachitika, mfumu pamene inamva ⟨את⟩ mawu a buku la Tora, iye anang'amba ⟨את⟩ zovala zake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zinachitika"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "pamene inamva"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buku"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "la Tora"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "anang'amba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zovala zake"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "zovala zake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:58:56.153089727Z",
+  "model": "glm-5.3"
+}

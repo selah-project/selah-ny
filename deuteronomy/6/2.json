@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 6:2",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Kuti uope Yahwe Elohim wako, kuti usunge chikhalire machero ake onse ndi malamulo ake, amene ine ndikulamulira iwe, ndi mwana wako, ndi mwana wa mwana wako, masiku onse a moyo wako; ndipo kuti masiku ako atalikitsidwe.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Kuti"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "uope"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim wako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kuti usunge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "machero ake onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "machero ake"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "ndi malamulo ake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ndikulamulira"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "ndi mwana wako"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ndi mwana"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wa mwana wako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "a moyo wako"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ndipo kuti"
+    },
+    {
+      "surface": "יארכן",
+      "gloss": "atalikitsidwe"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "masiku ako"
+    }
+  ],
+  "timestamp": "2026-09-21T07:16:49.228683807Z",
+  "model": "glm-5.3"
+}

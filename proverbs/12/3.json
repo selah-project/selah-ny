@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Munthu sadzakhazikika mu chosalungama, koma muzu wa olungama sudzagwedezeka konse.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "dzakhazikika"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Munthu"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "mu chosalungama"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "koma muzu"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wa olungama"
+    },
+    {
+      "surface": "בל",
+      "gloss": "konse"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sudzagwedezeka"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:36.374441984Z",
+  "model": "glm-5.3"
+}

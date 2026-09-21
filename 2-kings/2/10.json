@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo iye anati: “Wapempha chinthu chovuta kuti upemphe; koma ngati muona ⟨את⟩ ine ndili kutchulidwa kwa ⟨את⟩ iwe, zikhale kwa iwe motero; koma ngati ayi, sizidzakhala.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo iye anati"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "wapempha chinthu chovuta"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kuti upemphe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "muona"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ine"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ndili kutchulidwa"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "kwa ⟨את⟩ iwe"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "zikhale"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "motero"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "koma ngati"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zidzakhala"
+    }
+  ],
+  "timestamp": "2026-09-21T08:47:17.132196567Z",
+  "model": "glm-5.3"
+}

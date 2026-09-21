@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo kukwiya kwa Efereyimi kudzataya, ndi otsutsa a Yudaha adzadulidwa; Efereyimi sadzakwiya ndi ⟨את⟩ Yudaha, ndipo Yudaha sadzavutitsa ⟨את⟩ Efereyimi.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "kudzataya"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "kukwiya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "kwa Efereyimi"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "ndi otsutsa a"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudaha"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "adzadulidwa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efereyimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "adzakwiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yudaha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudaha"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ndipo Yudaha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "adzavutitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efereyimi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efereyimi"
+    }
+  ],
+  "timestamp": "2026-09-21T09:07:06.503472151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 48,
+  "translation": "Pakuti taonani, mafumu anasonkhana, anadutsa limodzi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "taonani"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "anasonkhana"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "anadutsa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "limodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:31.257047054Z",
+  "model": "glm-5.3"
+}

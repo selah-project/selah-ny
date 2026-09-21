@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Popeza iwe ndiwe ⟨amene⟩ ananditulutsa m'chiberekero; anandipatsa chikhulupiriro pa mabele a amayi wanga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Popeza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "ananditulutsa"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "m'chiberekero"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "anandipatsa chikhulupiriro"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "a amayi wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:42.844024118Z",
+  "model": "glm-5.3"
+}

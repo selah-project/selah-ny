@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 130,
+  "translation": "Adonayi, mvera liwu langa; makhutu ako akhale okonzeka kumvera ⟨liwu la⟩ mapemphero anga.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "mvera"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "liwu langa"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "akhale"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "makhutu ako"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "okonzeka kumvera"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "⟨liwu la⟩"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mapemphero anga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:05.477838242Z",
+  "model": "glm-5.3"
+}

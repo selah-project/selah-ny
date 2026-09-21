@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo Moshe adzafika yekha kwa Yahwe, koma iwo sadzafika; ndipo anthuwo sadzakwera pamodzi ndi iye.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "adzafika"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yekha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza- (ai)"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "sadzafika"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "anthuwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "sadzakwera"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamodzi ndi iye"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:02.345092306Z",
+  "model": "glm-5.3"
+}

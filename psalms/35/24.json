@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Mweruzire ine monga molungama kwako, Yahwe Elohim wanga; ndipo asangalale chifukwa cha ine.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Mweruzire ine"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "monga molungama kwako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo asangalale"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "(akasangalale)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "chifukwa cha ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:43.947561559Z",
+  "model": "glm-5.3"
+}

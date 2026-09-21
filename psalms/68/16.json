@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 68,
+  "translation": "Phiri la Elohim, phiri la Bashani; phiri la matumbi, phiri la Bashani.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "la Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "la Bashani"
+    },
+    {
+      "surface": "הר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "la matumbi"
+    },
+    {
+      "surface": "הר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "la Bashani"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:52.374177754Z",
+  "model": "glm-5.3"
+}

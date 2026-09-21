@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 13:15",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Manoah anati kwa mthenga wa Yahwe: 'Tikudikiritire ⟨את⟩ iwe chonde, ndipo tipange pamaso pako mbule ya mbuzi.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Manoah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mthenga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "tikudikiriritire"
+    },
+    {
+      "surface": "נא",
+      "gloss": "chonde"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ iwe",
+      "marks": "iwe"
+    },
+    {
+      "surface": "ונעשה",
+      "gloss": "ndipo tipange"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamaso pako"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "mbule"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ya mbuzi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:54:02.985458022Z",
+  "model": "glm-5.3"
+}

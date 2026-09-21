@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Dawidi adaonetsa ⟨את⟩ anthu amene anali ndi ⟨את⟩ iye, nadzayika pa iwo atsogoleri a chikwi ndi atsogoleri a zana.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "adaonetsa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ndi ⟨את⟩ iye"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nadzayika"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pa iwo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "atsogoleri"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "a chikwi"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ndi atsogoleri"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "a zana"
+    }
+  ],
+  "timestamp": "2026-09-21T08:25:27.535400156Z",
+  "model": "glm-5.3"
+}

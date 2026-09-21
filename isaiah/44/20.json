@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Wakudya phula; mtima wonyenga wamsokekereza, ndipo sangapulumutse ⟨את⟩ moyo wake, ndipo sanene: “Kodi bodza silili m’dzanja langa lamanja?”",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "wakudya"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "phula"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "wonyenga"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "wamsokekereza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sanga-"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "pulumutse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wake"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sana-"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nene"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "kodi ... sili"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bodza"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "m'dzanja langa lamanja"
+    }
+  ],
+  "timestamp": "2026-09-21T09:20:37.781399884Z",
+  "model": "glm-5.3"
+}

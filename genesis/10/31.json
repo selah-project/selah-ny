@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Awa anali ana a Shemu, mwa mabanja awo, m'zilankhulo zawo, m'mayiko awo, m'mitundu yao.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Awa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shemu"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "mwa mabanja awo"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "m'zilankhulo zawo"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "m'mayiko awo"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "m'mitundu yao"
+    }
+  ],
+  "timestamp": "2026-09-21T05:45:52.923442886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Indenso ine ndidzampatsa kukhala wobadwa woyamba, wapachulu pa mafumu a dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Indenso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "wobadwa woyamba"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "ndidzampatsa"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "wapachulu"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "pa mafumu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:24.684876683Z",
+  "model": "glm-5.3"
+}

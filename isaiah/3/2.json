@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Wamphamvu ndi munthu wa nkhondo, weruzi ndi mneneri, wolosera ndi wokalamba —",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Wamphamvu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ndi munthu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wa nkhondo"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "weruzi"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "ndi mneneri"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "ndi wolosera"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "ndi wokalamba"
+    }
+  ],
+  "timestamp": "2026-09-21T09:02:40.963956181Z",
+  "model": "glm-5.3"
+}

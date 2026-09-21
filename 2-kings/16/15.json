@@ -1,0 +1,187 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 16:15",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndi mfumu Achaz anamulamulira ⟨את⟩ Uriya wansembe, nati: Pa guwa la nsembe lalikulu, fotokoza ⟨את⟩ nsembe yopsereza ya mmamawa ndi ⟨את⟩ nsembe ya ufa ya madzulo, ndi ⟨את⟩ nsembe yopsereza ya mfumu ndi ⟨את⟩ nsembe yake ya ufa, ndi ⟨את⟩ nsembe yopsereza ya anthu onse a dziko lapansi, ndi nsembe yawo ya ufa ndi nkhuti zawo; ndipo magazi onse a nsembe yopsereza ndi magazi onse a nsembe ya kupha, uzidzaze pa ilo; koma guwa la nsembe la nsinda lidzakhala langa lofungaira.",
+  "tokens": [
+    {
+      "surface": "ויצוהו",
+      "gloss": "anamulamulira"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya wansembe"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "על",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa la nsembe"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "lalikulu"
+    },
+    {
+      "surface": "הקטר",
+      "gloss": "fotokoza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe yopsereza ya mmamawa"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "nsembe yopsereza"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ya mmamawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nsembe ya ufa ya madzulo"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "nsembe ya ufa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ya madzulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nsembe yopsereza ya mfumu"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "nsembe yopsereza"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mfumu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nsembe yake ya ufa"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "nsembe yake ya ufa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nsembe yopsereza ya anthu onse a dziko lapansi"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "nsembe yopsereza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ya anthu onse"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a dziko lapansi"
+    },
+    {
+      "surface": "ומנחתם",
+      "gloss": "ndi nsembe yawo ya ufa"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "ndi nkhuti zawo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo magazi onse"
+    },
+    {
+      "surface": "דם",
+      "gloss": "magazi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "a nsembe yopsereza"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi magazi onse"
+    },
+    {
+      "surface": "דם",
+      "gloss": "magazi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "a nsembe ya kupha"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa ilo"
+    },
+    {
+      "surface": "תזרק",
+      "gloss": "uzidzaze"
+    },
+    {
+      "surface": "ומזבח",
+      "gloss": "koma guwa la nsembe"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "la nsinda"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lidzakhala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "langa"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "lofungaira"
+    }
+  ],
+  "timestamp": "2026-09-21T08:56:07.129498884Z",
+  "model": "glm-5.3"
+}

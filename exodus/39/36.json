@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "⟨את⟩ gome ndi ⟨את⟩ zida zake zonse, ndi ⟨את⟩ mkate wa pamaso.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gome"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "gome"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zida zake zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zida zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mkate wa pamaso"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "wa pamaso"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:12.826714510Z",
+  "model": "glm-5.3"
+}

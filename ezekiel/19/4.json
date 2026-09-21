@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 19:4",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo mitundu inamva za iye; mu thiti yawo anagwidwa; ndipo anamulowetsa ndi makope ku dziko la Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Ndipo inamva"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "za iye"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mitundu"
+    },
+    {
+      "surface": "בשחתם",
+      "gloss": "mu thiti yawo"
+    },
+    {
+      "surface": "נתפש",
+      "gloss": "anagwidwa"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "anamulowetsa"
+    },
+    {
+      "surface": "בחחים",
+      "gloss": "ndi makope"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:02:40.217704549Z",
+  "model": "glm-5.3"
+}

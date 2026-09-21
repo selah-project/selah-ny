@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 146,
+  "translation": "Yahwe amatsegulira maso akhungu; Yahwe amayimiritsa okhotakhota; Yahwe akonda olungama.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "amatsegulira maso"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "akhungu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "amayimiritsa"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "okhotakhota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "akonda"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "olungama"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:30.419255060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo mfumu inati: “Kufa udzafa, Achiimeleke, iwe ndi nyumba yonse ya abambo ako.”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "inat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "udzafa"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achiimeleke"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi yonse"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya abambo ako"
+    }
+  ],
+  "timestamp": "2026-09-21T13:06:50.726355866Z",
+  "model": "glm-5.3"
+}

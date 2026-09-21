@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 104,
+  "translation": "Ndidzayimbira Yahwe nthawi zonse za moyo wanga; ndidzuyimbira Elohim wanga pamene ndilibe moyo.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "ndidzayimbira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "nthawi zonse za moyo wanga"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ndidzuyimbira"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim wanga"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "pamene ndilibe moyo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:56.291628303Z",
+  "model": "glm-5.3"
+}

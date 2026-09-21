@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 72,
+  "translation": "La Sholomo. Elohim, patsa mfumu malewerero ako, ndi chilungamo chako kwa mwana wa mfumu.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "La Sholomo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "malewerero ako"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "תן",
+      "gloss": "patsa"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ndi chilungamo chako"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "kwa mwana"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa mfumu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:44.035008371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 22:10",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo mfumu ya Yisraeli ndi Yehoshafati, mfumu ya Yuda, anali akhazi, yense pa mpando wake wachifumu, ovala zovala zawo, pa guwa la kusesa zinthu pakomo pa khomo la Shomroni; ndipo aneneri onse anali kunenera pamaso pawo.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Ndipo mfumu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "ndi Yehoshafati"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yuda"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "anali akhazi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yense"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "mpando wake wachifumu"
+    },
+    {
+      "surface": "מלבשים",
+      "gloss": "ovala"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "zovala zawo"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "pa guwa la kusesa zinthu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pakomo pa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "khomo"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "la Shomroni"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo onse"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "aneneri"
+    },
+    {
+      "surface": "מתנבאים",
+      "gloss": "anali kunenera"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pamaso pawo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:46:33.090578341Z",
+  "model": "glm-5.3"
+}

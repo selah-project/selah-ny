@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ndaposa aphunzitsi anga onse mu nzeru, pakuti mboni zako ndi kulingirira kwanga.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "koposa onse"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "aphunzitsi anga"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "Ndaposa mu nzeru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "mboni zako"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "kulingirira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwanga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:43.997476282Z",
+  "model": "glm-5.3"
+}

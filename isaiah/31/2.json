@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 31:2",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndiponso Iye ndi wachenjeru, nabweretsa choipa, ndipo ⟨את⟩ mawu ake sanawachotse; nadzamira pa banja la otchimwa, ndi pa chithandizo cha antchito za zoipa.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ndiponso"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Iye"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wachenjeru"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nabweretsa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mawu ake"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "mawu ake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "anawachotse"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "nadzamira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "banja"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "la otchimwa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "chithandizo"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "cha antchito"
+    },
+    {
+      "surface": "און",
+      "gloss": "za zoipa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:14:30.414546456Z",
+  "model": "glm-5.3"
+}

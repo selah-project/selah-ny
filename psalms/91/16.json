@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 91,
+  "translation": "Ndi nthawi yayitali ya miyezi ingamutseke; ndipo ndidzamuonetsa chipulumutso changa.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "yayitali"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nthawi ya miyezi"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "ingamutseke"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "ndipo ndidzamuonetsa"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "chipulumutso changa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:22.913103773Z",
+  "model": "glm-5.3"
+}

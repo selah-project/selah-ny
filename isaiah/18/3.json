@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 18:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Inu onse okhala m'dziko lapansi ndi okhazikika pa dziko, pamene mbendera ikwezedwa pa mapiri, mudzaiona; ndipo pamene lipenga likulira, mudzamva.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "okhala"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "m'dziko lapansi"
+    },
+    {
+      "surface": "ושכני",
+      "gloss": "ndi okhazikika"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pa dziko"
+    },
+    {
+      "surface": "כנשא",
+      "gloss": "pamene ikwezedwa"
+    },
+    {
+      "surface": "נס",
+      "gloss": "mbendera"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "pa mapiri"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "mudzaiona"
+    },
+    {
+      "surface": "וכתקע",
+      "gloss": "ndipo pamente likulira"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "lipenga"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mudzamva"
+    }
+  ],
+  "timestamp": "2026-09-21T09:09:25.566327864Z",
+  "model": "glm-5.3"
+}

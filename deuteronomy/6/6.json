@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo mawu awa amene ndikulamulira lero adzakhala pa mtima wako.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ndikulamulira"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "mtima wako"
+    }
+  ],
+  "timestamp": "2026-09-21T07:15:10.754640320Z",
+  "model": "glm-5.3"
+}

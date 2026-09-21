@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 20:5",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo a Givea anauka pa inyi, ndipo anazinga ⟨את⟩ nyumba pa inyi usiku; ⟨את⟩ ine anayesera kupha, ndi ⟨את⟩ pilageshi wanga anamwachitira zoipa, ndipo adamfa.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "anauka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa inyi"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "a"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Givea"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "anazinga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa inyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ine",
+      "marks": "anayesera kupha"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "anayesera"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "kupha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "pilageshi wanga"
+    },
+    {
+      "surface": "פילגשי",
+      "gloss": "pilageshi wanga"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "anamwachitira zoipa"
+    },
+    {
+      "surface": "ותמת",
+      "gloss": "ndipo adamfa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:57:37.611299150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo nyama yankhose ⟨את⟩, ndi khosi lake ⟨את⟩, ndi thupi lake ⟨את⟩, ndi zodzola zake ⟨את⟩, anayatsa ndi moto kunja kwa khampo, monga Yahwe anamulamulira ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyama yankhose"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "nyama yankhose"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "khosi lake"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "khosi lake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "thupi lake"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "thupi lake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zodzola zake"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "zodzola zake"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "anayatsa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ndi moto"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kunja"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kwa khampo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "anamulamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:35:11.987706424Z",
+  "model": "glm-5.3"
+}

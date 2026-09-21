@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 53,
+  "translation": "Nkhalamba wanena mu mtima wake: “Palibe Elohim.” Anawononga ndi kuchititsa manyazi chinyengo; palibe wochita zabwino.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "wanena"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nkhalamba"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "mu mtima wake"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Palibe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "Anawononga"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "ndi kuchititsa manyazi"
+    },
+    {
+      "surface": "עול",
+      "gloss": "chinyengo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wochita"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zabwino"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:58.924906883Z",
+  "model": "glm-5.3"
+}

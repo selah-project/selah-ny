@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Koma ine ndine mphutsa, osati munthu; chisyano cha anthu, wochitidwa chipongwe mwa anthu.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "koma ine"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "mphutsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "osati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "chisyano cha"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "wochitidwa chipongwe mwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:15.140254971Z",
+  "model": "glm-5.3"
+}

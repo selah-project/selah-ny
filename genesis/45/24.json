@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 45,
+  "translation": "Ndipo anawatumiza ⟨את⟩ abale ake, ndipo anathawa; nati kwa iwo: musapandane pa njira.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "anawatumiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abale ake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abale ake"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "anathawa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musapanthane"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "kusangalatsa kwinaku"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pa njira"
+    }
+  ],
+  "timestamp": "2026-09-21T12:54:30.147133588Z",
+  "model": "glm-5.3"
+}

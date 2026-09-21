@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Nkhope yanu ikuwale pa kapolo wako, ndipo undiphunzitse ⟨את⟩ miyambo yako.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "Nkhope yanu"
+    },
+    {
+      "surface": "האר",
+      "gloss": "ikuwale"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "pa kapolo wako"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "ndipo undiphunzitse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miyambo yako"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "miyambo yako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:21.124543015Z",
+  "model": "glm-5.3"
+}

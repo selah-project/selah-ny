@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Nzeru zikuyimba nokha kunja, kumisewu kwakuya zikupereka mawu ake.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Nzeru"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "kunja"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "zikuyimba nokha"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "kumisewu kwakuya"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "zikupereka"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "mawu ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:32.637223605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Kupereka kwa zipereka zoyamba muzizibweretsa ⟨את⟩ kwa Yahwe; koma pa guwa la nsembe sizikwere kuwa mphumo yokondweretsa.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "Kupereka"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "zipereka zoyamba"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "muzizibweretsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "zipereka zoyamba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "koma"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pa guwa la nsembe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sizi-"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "sizikwere"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "kuwa mphumo"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "yokondweretsa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:26.006884418Z",
+  "model": "glm-5.3"
+}

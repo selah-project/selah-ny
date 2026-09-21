@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo wansembe wodzozedwa adatenga magazi a ng'ombe yamwamuna, nadiwalowetsa ⟨את⟩ awo ku Hema ya Msonkhano.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "adatenga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "wodzozedwa"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "magazi a"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ng'ombe yamwamuna"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "nadiwalowetsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "awo (magaziwo)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Msonkhano"
+    }
+  ],
+  "timestamp": "2026-09-21T12:58:50.696434658Z",
+  "model": "glm-5.3"
+}

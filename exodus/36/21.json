@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Amite khumi kutalika kwa kapepe limodzi, ndiponso amite imodzi ndi theka lake m'lifupi mwa kapepe limodzi.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "amite"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "kutalika"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "kwa kapepe"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ndiponso amite"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ndi theka lake"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ya amite"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "m'lifupi"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "mwa kapepe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "limodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:27:28.176554171Z",
+  "model": "glm-5.3"
+}

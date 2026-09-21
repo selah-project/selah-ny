@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "Ndayerekezedwa ndi kaombe ka ku chipululu; ndakhala monga kadzidzi ka m'malo a owonongeka.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "ndayerekezedwa"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "ndi kaombe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ku chipululu"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndakhala"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "monga kadzidzi"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "m'malo a owonongeka"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:31.022125643Z",
+  "model": "glm-5.3"
+}

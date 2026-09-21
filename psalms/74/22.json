@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 74,
+  "translation": "Dzuka, Elohim, chitire chiweruzo chanu chomwe; kumbukira chinyozicho cha wopusa, tsiku lonse.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "dzuka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "chitire chiweruzo"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "chanu chomwe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kumbukira"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "chinyozicho cha"
+    },
+    {
+      "surface": "מני",
+      "gloss": "cha"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "wopusa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:35.671707369Z",
+  "model": "glm-5.3"
+}

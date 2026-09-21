@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Davidi adati kwa iye: “Mwazi wako uli pa mutu wako chifukwa kamwaako kudachitira umboni pa iwe pokuti: ‘Ine ndinapha ⟨את⟩ Mashiya wa Yahwe.’”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "Mwazi wako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "mutu wako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "kamwaako"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "kudachitira umboni"
+    },
+    {
+      "surface": "בך",
+      "gloss": "pa iwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pokuti"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "ndinapha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashiya"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashiya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:16:35.168438850Z",
+  "model": "glm-5.3"
+}

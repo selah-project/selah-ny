@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-samuel 19:40",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Anthu onse anadutsa ⟨את⟩ Yarden, ndipo mfumu inadutsa; ndipo mfumu inasuna Barzilayi, namdalitsa, ndipo iye anabwerera ku malo ake.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "anadutsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ndipo mfumu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "inadutsa"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "inasuna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "לברזלי",
+      "gloss": "Barzilayi"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "namdalitsa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "anabwerera"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "ku malo ake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:26:10.961077447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo munthu amene adzapereka kugona kwake ndi nyama — kufa adzafa; ndipo ndi ⟨את⟩ nyambayo mudzapha.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ndipo munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "adzapereka"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "kugona kwake"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "ndi nyama"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "adzafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyambayo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "nyambayo"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "mudzapha"
+    }
+  ],
+  "timestamp": "2026-09-21T06:43:17.390102341Z",
+  "model": "glm-5.3"
+}

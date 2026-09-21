@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-chronicles 6:42",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Yahwe Elohim, musatseke nkhope ya Mashiya wako; kumbukira khesedi za Davide, kapolo wako.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musatseke"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "musatembenuzire"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope ya"
+    },
+    {
+      "surface": "משיחיך",
+      "gloss": "Mashiya wako"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "kumbukira"
+    },
+    {
+      "surface": "לחסדי",
+      "gloss": "khesedi za"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kapolo wako"
+    }
+  ],
+  "timestamp": "2026-09-21T12:36:28.553757707Z",
+  "model": "glm-5.3"
+}

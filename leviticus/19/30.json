@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "⟨את⟩ Sabata zangwe muzisunge, ndi malo angwe opatulika muziopse; ine ndine Yahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sabata zangwe"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Sabata zangwe"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "muzisunge"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "ndi malo angwe opatulika"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "muziopse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:37.797008807Z",
+  "model": "glm-5.3"
+}

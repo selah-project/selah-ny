@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 18:25",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo mpenyeri anafuula, nakuwuzira mfumu; ndi mfumu inati: “Ngati ali yekha, nkhani yabwino ili pakamwa pake.” Ndipo adayenda chiyendi, ndikuyandikira.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "anafuula"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "mpenyeri"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "nakuwuzira"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ali yekha"
+    },
+    {
+      "surface": "בשורה",
+      "gloss": "nkhani yabwino"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "pakamwa pake"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "adayenda"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "chiyendi"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "kuyandikira"
+    }
+  ],
+  "timestamp": "2026-09-21T08:26:02.587899952Z",
+  "model": "glm-5.3"
+}

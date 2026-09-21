@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo izi ndi mbiri ya banja la Terachi: Terachi anabala ⟨את⟩ Avrahamu, ⟨את⟩ Nachori, ndi ⟨את⟩ Harani; ndipo Harani anabala ⟨את⟩ Loti.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ndipo izi"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "mbiri ya banja"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terachi"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terachi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachori"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Harani"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harani"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "ndipo Harani"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Loti"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loti"
+    }
+  ],
+  "timestamp": "2026-09-21T12:53:17.612150884Z",
+  "model": "glm-5.3"
+}

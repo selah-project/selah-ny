@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo ofatsa adzalandira dziko lapansi, nadzakondwera pa kuchuluka kwa mtendere.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "ndipo ofatsa"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "adzalandira"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "nadzakondwera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kuchuluka kwa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mtendere"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:12.595297863Z",
+  "model": "glm-5.3"
+}

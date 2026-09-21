@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Anakana dziko la chikondwerero, sanakhulupirire mawu ake.",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "Anakana"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "la chikondwerero"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana-"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "khulupirira"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "mawu ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:21.778116007Z",
+  "model": "glm-5.3"
+}

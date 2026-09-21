@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Chifukwa cha izi sudzakhala ndi wakutaya chinga m'gawo la maulalo, m'msonkhano wa Yahwe.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Chifukwa cha izi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sudza"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "khala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "משליך",
+      "gloss": "wakutaya"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "chinga"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "m'gawo la maulalo"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "m'msonkhano wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:29:27.404129649Z",
+  "model": "glm-5.3"
+}

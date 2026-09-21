@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo anamithi anachita chimodzimodzi ndi luso lwawo la chinsinsi, ndipo anakweza ⟨את⟩ chule pa dziko la Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chimodzimodzi"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "anamithi"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "ndi luso lwawo la chinsinsi"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ndipo anakweza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chule"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "chule"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:11:29.325348215Z",
+  "model": "glm-5.3"
+}

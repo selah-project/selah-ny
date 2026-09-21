@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Chifukwa cha dzinja wosazolowa sadzalima; adzapempha panthawi ya kusala, koma palibe chake.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "chifukwa cha dzinja"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "wosazolowa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "dadzalima"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "adzapempha"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "panthawi ya kusala"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "koma palibe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:24:52.584259237Z",
+  "model": "glm-5.3"
+}

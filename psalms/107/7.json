@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Ndipo adawatsogolera pa njira yolunjika, kuti alowe ku mzinda wokhalamo.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "adawatsogolera"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pa njira"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "yolunjika"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kuti alowe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "wokhalamo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:02.084869729Z",
+  "model": "glm-5.3"
+}

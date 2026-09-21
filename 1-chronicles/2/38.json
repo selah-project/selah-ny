@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Obedi anabala ⟨את⟩ Yehu, ndipo Yehu anabala ⟨את⟩ Azaraya.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "Ndipo Obedi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "ndipo Yehu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaraya"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaraya"
+    }
+  ],
+  "timestamp": "2026-09-21T12:22:58.680672195Z",
+  "model": "glm-5.3"
+}

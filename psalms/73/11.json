@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 73,
+  "translation": "Ndipo anati: “Kodi El adziwa? Kodi pali chidziwitso mwa Elyoni?”",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Kodi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "adziwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "Kodi pali"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "chidziwitso"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "mwa Elyoni"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:22.395993856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "“Lukani m'chingalawa, iwe ndi mkazi wako, ndi ana anu, ndi akazi a ana anu, ⟨את⟩ ndi iwe.”",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Lukani"
+    },
+    {
+      "surface": "מן",
+      "gloss": "m'"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "chingalawa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "ndi mkazi wako"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ndi ana anu"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ndi akazi a"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ana anu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ndi iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:37.110632162Z",
+  "model": "glm-5.3"
+}

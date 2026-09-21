@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 10:10",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo anafika kumeneko, ku Gibea, ndipo taonani, gulu la aneneri lidza kum'landira, ndipo mzimu wa Elohim unamulowa mwamphamvu, ndipo ananenera pakati pawo.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "anafika"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "ku Gibea"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ndipo taonani"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "gulu"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "la aneneri"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "kum'landira"
+    },
+    {
+      "surface": "ותצלח",
+      "gloss": "unamulowa mwamphamvu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "ויתנבא",
+      "gloss": "ananenera"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "pakati pawo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:04:39.409945949Z",
+  "model": "glm-5.3"
+}

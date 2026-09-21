@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 132,
+  "translation": "Yahwe analumbira kwa Davide mwachoonadi, sadzabweza kuchokera m'menemo: Mwa chipatso cha thako lako ndidzakhazikitsa mpando wachifumu kwa iwe.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "analumbira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kwa Davide"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "mwachoonadi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "-bweza"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kuchokera m'menemo"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "mwa chipatso cha"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "thako lako"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ndidzakhazikitsa"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "mpando wachifumu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:41.547971693Z",
+  "model": "glm-5.3"
+}

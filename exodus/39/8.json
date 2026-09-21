@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndipo anapanga ⟨את⟩ chozikomo, ntchito ya wodzigira, monga ntchito ya efodi: golide, buluu, wunduka, kokhoni, ndi lineni wabwino wophatikizidwa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chozikomo"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "chozikomo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ntchito ya"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "wodzigira"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "monga ntchito ya"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "efodi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "buluu"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ndi wunduka"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ndi nsewa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kokhoni"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ndi lineni"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "wabwino wophatikizidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:28:50.386837248Z",
+  "model": "glm-5.3"
+}

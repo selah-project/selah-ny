@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 42:8",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Ndipo anaitana ⟨את⟩ Yochanan mwana wa Kareahu, ndi ⟨את⟩ atsogoleri onse a ankhondo amene anali nawo, ndi anthu onse, kwa ang'onoang'ono mpaka akuluakulu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "anaitana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yochanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "wa Kareahu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi kwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "atsogoleri"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "a ankhondo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ anali nawo",
+      "marks": "atsogoleri a ankhondo"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ndi anthu onse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu onse"
+    },
+    {
+      "surface": "למקטן",
+      "gloss": "kwa ang'onoang'ono"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "akuluakulu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:16:38.395643605Z",
+  "model": "glm-5.3"
+}

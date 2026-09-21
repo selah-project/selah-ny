@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Yeretsani mitu yanu, inu makomo; mudyeretsedwe, inu zitseko za chikhalire; ndipo mfumu ya ulemerero idzalowa.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Yeretsani"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "inu makomo"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "mitu yanu"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "mudyeretsedwe"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "inu zitseko"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "za chikhalire"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ndipo idzalowa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ya ulemerero"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:47.893100401Z",
+  "model": "glm-5.3"
+}

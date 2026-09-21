@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Abale ake anaona kuti atate wawo anamukonda ⟨את⟩ iye koposa abale ake onse, ndipo anamudana ndi ⟨את⟩ iye, sanathanso kuyankhula naye mwa mtendere.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "Abale ake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "anamukonda iye"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "anamukonda"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "atate wawo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "koposa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abale ake onse"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "anamudana ndi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "iye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sanathanso"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "…"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kuyankhula naye"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "mwa mtendere"
+    }
+  ],
+  "timestamp": "2026-09-21T05:59:33.577366307Z",
+  "model": "glm-5.3"
+}

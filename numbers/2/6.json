@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo gulu lake lankhondo, ndi owerengedwa ake: anayi ndi makumi asanu zikwi, ndi mazana anayi.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ndi gulu lake lankhondo"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "ndi owerengedwa ake"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "anayi"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ndi makumi asanu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "zikwi"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ndi anayi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana anayi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:59:45.944286199Z",
+  "model": "glm-5.3"
+}

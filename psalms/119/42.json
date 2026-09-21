@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ndipo ndidayankha amene akundinyozaini ndi mawu, popeza ndakhulupirira mawu anu.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ndipo ndidayankha"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "amene akundinyoza"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ndi mawu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ndakhulupirira"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "mawu anu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:32.029302166Z",
+  "model": "glm-5.3"
+}

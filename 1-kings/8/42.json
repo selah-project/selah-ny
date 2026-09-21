@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "pakuti adzamva za ⟨את⟩ Dzina lanu lalikulu, ndi ⟨את⟩ dzanja lanu lamphamvu, ndi dzanja lanu lodzalozedwa — ndipo adzadza kupemphera kwa nyumba ino.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "adzamva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dzina lanu lalikulu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Dzina lanu"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "lalikulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "dzanja lanu lamphamvu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dzanja lanu"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "lamphamvu"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "ndi dzanja lanu lodzalozedwa"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "lodzalozedwa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "adzadza"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "kupemphera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ino"
+    }
+  ],
+  "timestamp": "2026-09-21T13:09:52.359194777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Kwa woyang'anira ⟨nyimbo⟩, pa Sheminiti; nyimbo ya Davidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "Sheminiti"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Davidi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:57.415115217Z",
+  "model": "glm-5.3"
+}

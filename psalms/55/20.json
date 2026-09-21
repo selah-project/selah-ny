@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 55,
+  "translation": "El adzamva, nadzawabwezera, Iye Wokhala wa chakale — Selah — amene alibe zosintha, ndipo saopa Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "adzamva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "nadzawabwezera"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "Iye Wokhala"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "wa chakale"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alibe"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "zosintha"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sa"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "opa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:15.848434045Z",
+  "model": "glm-5.3"
+}

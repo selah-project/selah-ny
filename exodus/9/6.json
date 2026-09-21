@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Yahwe anachita ⟨את⟩ mawu awa tsaku limodzi lodza, ndipo ziweto za Mitsrayimu zonse zinafa; koma za ziweto za ana a Yisraeli sindinafa ngakhale chimodzi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu awa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "tsaku limodzi lodza"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "zinafa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ziweto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "koma za ziweto"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "מת",
+      "gloss": "faf"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ngakhale chimodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:11:25.886158191Z",
+  "model": "glm-5.3"
+}

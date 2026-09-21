@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Iye anamenya ⟨את⟩ Afilisti mpaka Aza ndi ⟨את⟩ mipanda yawo, kuyambira phula la akaseta mpaka muzi wamachilengo.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Iye"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "anamenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Afilisti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilisti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mipanda yawo"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "mipanda yawo"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "kuyambira phula la"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "akaseta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "muzi"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "wamachilengo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:56:00.933716449Z",
+  "model": "glm-5.3"
+}

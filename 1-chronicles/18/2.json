@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo anamenya ⟨את⟩ Moabu, ndipo Moabu anakhala akapolo a Davide, akubweretsa mphatso.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "anamenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "akapolo"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "a Davide"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "akubweretsa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mphatso"
+    }
+  ],
+  "timestamp": "2026-09-21T12:32:53.268192605Z",
+  "model": "glm-5.3"
+}

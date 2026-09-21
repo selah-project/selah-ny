@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo lamulo la wamasiye ndi la wothamangitsidwa — chilichonse chimene anamangira pa moyo wake chidzayima pa iye.",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "Ndipo lamulo"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "la wamasiye"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "ndi la wothamangitsidwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chilichonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "anamangira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "chidzayima"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T07:08:49.927600908Z",
+  "model": "glm-5.3"
+}

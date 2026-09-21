@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo Yahwe adzawapatsa iwo pamaso panu, ndipo mudzawachitira monga mwa lamulo lonse limene ndinakulamulira ⟨את⟩ inu.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "adzawapatsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pamaso panu"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mudzawachitira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "monga mwa lonse"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "lamulo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ndinakulamulira"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:32:18.757378497Z",
+  "model": "glm-5.3"
+}

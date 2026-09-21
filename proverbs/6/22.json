@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Pakuyenda kako idzakutsogolzera ⟨את⟩ iwe; pakugona idzakusunga; ndipo pouka, iye idzakuyankhula.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "pakuyenda kako"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "idzakutsogolzera"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ iwe",
+      "marks": "iwe"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "pakugona"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "idzakusunga"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pa iwe"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "ndipo pouka"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "idzakuyankhula"
+    }
+  ],
+  "timestamp": "2026-09-21T11:19:41.198561013Z",
+  "model": "glm-5.3"
+}

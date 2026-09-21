@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Koma ⟨את⟩ Natan mneneri, ndi Benayahu, ndi ⟨את⟩ anthu amphamvu, ndi ⟨את⟩ Shelomo m'bale wake, sanawaitane.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Natan mneneri"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mneneri"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "Benayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anthu amphamvu"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "anthu amphamvu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo m'bale wake"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "m'bale wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "-nawaitane"
+    }
+  ],
+  "timestamp": "2026-09-21T08:30:07.297100993Z",
+  "model": "glm-5.3"
+}

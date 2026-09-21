@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Ndipo anthu a dziko anatora ⟨את⟩ Yehoachazi, mwana wa Yoshiyahu, ndipo anamupangira mfumu m'malo mwa atate wake ku Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "anatora"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a dziko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoachazi"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachazi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "wa Yoshiyahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "anamupangira mfumu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "m'malo mwa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atate wake"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ku Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:52:05.979461772Z",
+  "model": "glm-5.3"
+}

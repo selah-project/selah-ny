@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Mwana wanga, musayende m'msewu ndi ⟨את⟩ iwo; letsa phazi lako kuchokera pa njira zawo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mwana wanga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mus"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "yende"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "m'msewu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ndi ⟨את⟩ iwo",
+      "marks": "iwo"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "letsa"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "phazi lako"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "kuchokera pa njira zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:18:01.191686927Z",
+  "model": "glm-5.3"
+}

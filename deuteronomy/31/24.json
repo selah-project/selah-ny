@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo zinachitika, Moshe atatha kulemba ⟨את⟩ mawu a Torayi ino pa buku, kufikira kutatha kwake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo zinachitika"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "atatha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "kulemba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu a Torayi ino"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torayi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ino"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "kutatha kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:32:10.302385689Z",
+  "model": "glm-5.3"
+}

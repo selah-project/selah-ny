@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "“Lankhula ndi ana a Yisraeli, ndipo uza iwo: Munthu wa inu akapereka nsembe kwa Yahwe, mwa nyama — mwa ng'ombe kapena mwa nkhosa — mupereke ⟨את⟩ nsembe yanu.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Lankhula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ndipo uza"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "akapereka"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "wa inu"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kapena mwa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "mupereke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe yanu"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "nsembe yanu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:35.054183311Z",
+  "model": "glm-5.3"
+}

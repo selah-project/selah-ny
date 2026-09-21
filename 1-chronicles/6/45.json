@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 6:45",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo kuchokera ku m'tundu wa Binjami: ⟨את⟩ Geba ndi malire ake, ndi ⟨את⟩ Alemethi ndi malire ake, ndi ⟨את⟩ Anathothi ndi malire ake; midzi yonse yawo, khumi ndi itatu, m'mabanja mwawo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kuchokera ku m'tundu wa"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malire ake"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "malire ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Alemethi"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemethi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malire ake"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "malire ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Anathothi"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anathothi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malire ake"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "malire ake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "midzi yawo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "khumi ndi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "itatu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "m'midzi"
+    },
+    {
+      "surface": "במשפחותיהם",
+      "gloss": "m'mabanja mwawo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:25:04.394944250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "M'mtendere ndidzagona mogwirizana ndi kulala tulo; pakuti iwe, Yahwe, nokha, m'chitetezo ⟨ndi⟩ undikhazikitsa.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "m'mtendere"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mogwirizana"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ndidzagona"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "ndi kulala tulo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "nokha"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "m'chitetezo"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "undikhazikitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:39:33.035272245Z",
+  "model": "glm-5.3"
+}

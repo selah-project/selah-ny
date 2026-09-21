@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 22:3",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Simusiya anasiya ⟨את⟩ abale anu nthawi yayitali mpaka tsiku lino, ndipo mwasunga ⟨את⟩ chisamaliro cha lamulo la Yahwe Elohim wanu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "anasiya-mu (musasiya)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abale anu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "abale anu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ambiri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lino"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "ndipo mwasunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chisamaliro cha lamulo la Yahwe Elohim wanu"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "chisamaliro"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "cha lamulo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:02:15.219416212Z",
+  "model": "glm-5.3"
+}

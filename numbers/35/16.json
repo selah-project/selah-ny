@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Koma ngati wamuwida ndi chida cha chitsulo nafa, wapha munthu iye; kufa adzafa wapha munthuyo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Koma ngati"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "ndi chida"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "cha chitsulo"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "wamuwida"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "nafa"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "wapha munthu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "adzafa"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "wapha munthuyo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:11:57.397698994Z",
+  "model": "glm-5.3"
+}

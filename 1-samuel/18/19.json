@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo panachedwa nthawi yopatsa ⟨את⟩ Merab, mwana wamkazi wa Shauli, kwa Davide, iye anapatsidwa kwa Adrieri wa Mechola kukhala mkazi wake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo panachedwa"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nthawi"
+    },
+    {
+      "surface": "תת",
+      "gloss": "yopatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merab"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Merab"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "wa Shauli"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kwa Davide"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "anapatsidwa"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "kwa Adrieri"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "wa Mechola"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "khala mkazi wake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:09:51.231045258Z",
+  "model": "glm-5.3"
+}

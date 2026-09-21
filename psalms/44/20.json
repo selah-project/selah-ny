@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Koma iwe watipweteka m'malo a nyalugwe, ndipo watizinga ndi mdima wakuda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Koma"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "watipweteka"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "m'malo a"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "nyalugwe"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ndipo watizinga"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ifeyo"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "ndi mdima wakuda"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:56.546966864Z",
+  "model": "glm-5.3"
+}

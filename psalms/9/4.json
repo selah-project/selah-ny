@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Potabwera kumbuyo adani anga, agwedezeka ndipo aonongeke pamaso pako.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "Potabwera"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "adani anga"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "kumbuyo"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "agwedezeka"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "ndipo aonongeke"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "pamaso pako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:48.187792346Z",
+  "model": "glm-5.3"
+}

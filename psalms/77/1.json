@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 77,
+  "translation": "Kwa woyang'anira nyimbo, monga mwa Yedutuni; wa Asafu; nyimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira nyimbo"
+    },
+    {
+      "surface": "על",
+      "gloss": "monga mwa"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutuni"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "wa Asafu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nyimbo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:30.641891896Z",
+  "model": "glm-5.3"
+}

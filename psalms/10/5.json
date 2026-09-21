@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Njira zake zimasalala nthawi zonse; miweruzo yanu ili pamwamba, kutali ndi iye; adani ake onse amawanyozeza.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "zimasalala"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "njira zake"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nthawi"
+    },
+    {
+      "surface": "עת",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "pamwamba"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "miweruzo yanu"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "kutali ndi iye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "adani ake"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "amawanyozeza"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "pa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:41.714508945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 22:12",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo mfumu inalamulira ⟨את⟩ Khilkiya wansembe, ndi ⟨את⟩ Ahiyakamu mwana wa Shafani, ndi ⟨את⟩ Akaboro mwana wa Mikhaya, ndi ⟨את⟩ Shafani wolemba, ndi ⟨את⟩ Asaya watumiki wa mfumu, nati:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "inalamulira"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khilkiya"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Khilkiya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Ahiyakamu"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Ahiyakamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "wa Shafani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Akaboro"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Akaboro"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מיכיה",
+      "gloss": "wa Mikhaya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Shafani"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafani"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "wolemba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Asaya"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Asaya"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "watumiki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa mfumu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    }
+  ],
+  "timestamp": "2026-09-21T08:58:56.153266021Z",
+  "model": "glm-5.3"
+}

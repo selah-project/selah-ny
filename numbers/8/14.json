@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 8:14",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo uzawasiyanitsa ⟨את⟩ Alevi pakati pa ana a Yisraeli, ndipo Alevi adzakhala anga.",
+  "tokens": [
+    {
+      "surface": "והבדלת",
+      "gloss": "uzawasiyanitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Alevi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "anga (kwa ine)"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Alevi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:55:49.549814686Z",
+  "model": "glm-5.3"
+}

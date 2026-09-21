@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo mudzawerengani kwa inu, kucha kwa sabata, kuyambira tsiku lomwe mukabweretsa ⟨את⟩ omer wa kuwululidwa; sabata zisanu ndi ziwiri zidzakhalabe zathunthu.",
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "ndipo mudzawerengani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "kucha kwa"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sabata"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "kuyambira tsiku"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "lomwe mukabweretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "wa kuwululidwa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zisanu ndi ziwiri"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "sabata"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "zathunthu"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "zidzakhalabe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:44:22.209376601Z",
+  "model": "glm-5.3"
+}

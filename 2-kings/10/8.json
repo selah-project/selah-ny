@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Mthenga anadza, namuuza iye, nati: “Abweretsa ⟨את⟩ mitu ya ana a mfumu.” Nati: “Ikani ⟨את⟩ iwo m'mitundu iwiri pamkati pa khomo mpaka mmawa.”",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "anadza"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mthenga"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "namuuza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "abweretsa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mitu ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "ikani"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo (mitu ija)"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iwiri"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "m'mitundu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pakomo"
+    },
+    {
+      "surface": "השער",
+      "gloss": "pa khomo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mmawa"
+    }
+  ],
+  "timestamp": "2026-09-21T08:53:09.880217496Z",
+  "model": "glm-5.3"
+}

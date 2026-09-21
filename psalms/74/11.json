@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 74,
+  "translation": "Chiyani mubwezera dzanja lako, ndi dzanja lako lamanja, lili mkati mwa chifuwa chako? Tulutsa, athetse!",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "mubwezera"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dzanja lako"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "ndi dzanja lako lamanja"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "mkati mwa"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "chifuwa chako"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "athetse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:44.555680115Z",
+  "model": "glm-5.3"
+}

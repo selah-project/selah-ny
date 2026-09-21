@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo ⟨את⟩ chotsalira cha anthuwo adapereka m'dzanja la Avishai m'bale wake, ndipo iye anaika mndandanda wankhondo kulimbana ndi ana a Amoni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chotsalira cha anthuwo"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "chotsalira"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthuwo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adapereka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "m'dzanja"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "la Avishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "m'bale wake"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "anaika mndandanda"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kulimbana ndi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "a Amoni"
+    }
+  ],
+  "timestamp": "2026-09-21T08:21:13.795718552Z",
+  "model": "glm-5.3"
+}

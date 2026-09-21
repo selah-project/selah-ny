@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo Shemuweli sanadziwepo ⟨את⟩ Yahwe, ndipo mawu a Yahwe sanamuonekerepo kwa iye.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Ndipo Shemuweli"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "pambere (sanayambe)"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sanadziwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "ndipo pambere"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "sanamuonekerepo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T13:04:56.103176180Z",
+  "model": "glm-5.3"
+}

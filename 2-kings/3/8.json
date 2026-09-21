@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo anati: “Njira iti tidzakwerako?” Ndipo iye anati: “Njira ya chilengalenga cha Edomu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אי",
+      "gloss": "iti"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "tidzakwerako"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ya chilengalenga"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "cha Edomu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:47:55.026590281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 121,
+  "translation": "Sadzasiya kuungulira kuti tsende lyanjale; sadzagona amene akusunga iwe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "sadzasiya"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "kuti tsende lyanjale"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "tsende lyanjale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "sadzagona pang'ono"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "amene akusunga iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:26.898349616Z",
+  "model": "glm-5.3"
+}

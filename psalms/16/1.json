@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Mikatamu ya Davide. Ndisunge, El, chifukwa ndathawira mwa Inu.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Mikatamu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Davide"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Ndisunge"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ndathawira"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mwa Inu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:14.967060069Z",
+  "model": "glm-5.3"
+}

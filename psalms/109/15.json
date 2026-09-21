@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "Zikhale pamaso pa Yahwe nthawi zonse; ndipo Yahwe adzachotsera chikumbutso chawo pa dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Zikhale"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nthawi zonse"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ndipo adzachotsera"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "pa dziko lapansi"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "chikumbutso chawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:29.565820222Z",
+  "model": "glm-5.3"
+}

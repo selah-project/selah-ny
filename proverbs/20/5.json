@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 20:5",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Madzi akuya ndi malangizo mu mtima wa munthu; koma munthu wa nzeru adzawatulutsa.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "akuya"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "malangizo"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "mu mtima"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wa munthu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "koma munthu"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "wa nzeru"
+    },
+    {
+      "surface": "ידלנה",
+      "gloss": "adzawatulutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:24:19.191413581Z",
+  "model": "glm-5.3"
+}

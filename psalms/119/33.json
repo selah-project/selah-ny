@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Yendetsani inu, Yahwe, njira za malamulo anu, ndipo ndidzazisunga kufikira chimaliziro.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Yendetsani inu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "za malamulo anu"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "ndipo ndidzazisunga"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "kufikira chimaliziro"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:41.294701352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo Elohim anaona ⟨את⟩ ntchito zawo, kuti anabwerera ku njira yawo yoipa; ndipo Elohim anakhumudwa za choipa chimene ananena kuti achitaire kwa iwo — ndipo sanachite.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ndipo anaona"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntchito zawo"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ntchito zawo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "anabwerera"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "ku njira yawo"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "yoipa"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ndipo anakhumudwa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuti achitaire"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sanachi-"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "-te"
+    }
+  ],
+  "timestamp": "2026-09-21T10:28:30.134296336Z",
+  "model": "glm-5.3"
+}

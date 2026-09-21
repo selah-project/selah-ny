@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo udzakumbukira kuti unali kapolo mu Mitsrayimu, ndipo udzasunga ndi kuchita ⟨את⟩ malamulu awa.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "Ndipo udzakumbukira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kapolo"
+    },
+    {
+      "surface": "היית",
+      "gloss": "unali"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "mu Mitsrayimu"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ndipo udzasunga"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ndi kuchita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malamulu awa"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "malamulu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "awa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:20:39.245658174Z",
+  "model": "glm-5.3"
+}

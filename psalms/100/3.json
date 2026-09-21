@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 100,
+  "translation": "Dziwani kuti Yahwe ndiye Elohim; ndiye anatilenga, ndipo si ife okha; ndife anthu ake, ndi nkhosa za m'bwalo lake.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Dziwani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "anatilenga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ife okha"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ndi nkhosa"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "za m'bwalo lake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:39.240146997Z",
+  "model": "glm-5.3"
+}

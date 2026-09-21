@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Elohim adachita ⟨את⟩ ziwanda za dziko lapansi monga mtundu wawo, ndi ⟨את⟩ nyama zazikulu monga mtundu wawo, ndi ⟨את⟩ zonse zolowera za mthapo monga mtundu wawo; ndipo Elohim adaona kuti zinali zabwino.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "adachita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziwanda za dziko lapansi"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ziwanda za"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "monga mtundu wawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyama zazikulu"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "nyama zazikulu"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "monga mtundu wawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zonse zolowera za mthapo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "zolowera"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "za mthapo"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "monga mtundu wawo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "adaona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zinali zabwino"
+    }
+  ],
+  "timestamp": "2026-09-21T12:53:56.073098908Z",
+  "model": "glm-5.3"
+}

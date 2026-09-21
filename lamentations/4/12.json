@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Mafumu a dziko lapansi, ndi okhalitsa onse a dziko lapansi, sanakhulupirire kuti wosokoneza ndi mdani adzalowa m'makomo a Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "nakhulupirire"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a dziko lapansi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi onse"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "okhalitsa"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "a dziko lapansi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "adzalowa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "wosokoneza"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "ndi mdani"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "m'makomo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:52:59.892940509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Yehuda ndi Yisraeli anali ambiri, ngati mchenga umene uli pa nyanja m'chuluko, akudya ndi kumwa ndi kukondwera.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ndi Yisraeli"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "anali ambiri"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "ngati mchenga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "על",
+      "gloss": "uli pa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "m'chuluko"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "akudya"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ndi kumwa"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "ndi kukondwera"
+    }
+  ],
+  "timestamp": "2026-09-21T13:09:08.919158089Z",
+  "model": "glm-5.3"
+}

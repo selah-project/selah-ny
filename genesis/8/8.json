@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndi kutuma ⟨את⟩ nkhunda kuchokera kwa ⟨את⟩ iye, kuona ngati madzi atachedwa kuchokera pa nkhope ya dziko.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ndi kutuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhunda"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "nkhunda"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "kuchokera kwa ⟨את⟩ iye"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "atachedwa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuchokera pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ya dziko"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:38.385053542Z",
+  "model": "glm-5.3"
+}

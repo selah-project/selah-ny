@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Kasupe ka moyo ndi kamwa kwa wolungama, koma kamwa kwa anthu oipa kadzabisitsa nkhaza.",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "kasupe"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ka moyo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kamwa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "kwa wolungama"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "koma kamwa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kwa anthu oipa"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "kadzabisitsa"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nkhaza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:20:44.010817957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 10:6",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo ana a Yisraeli anayenda kuchokera ku Beyeroti-bene-Yakani ku Mosera; kumeneko Aharoni anamwalira, ndipo anaikidwa m'manda kumeneko, ndipo Elazara mwana wake anakhala wansembe m'malo mwake.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ndipo ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "מבארת",
+      "gloss": "kuchokera ku Beyeroti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "Yakani"
+    },
+    {
+      "surface": "מוסרה",
+      "gloss": "Mosera"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "מת",
+      "gloss": "anamwalira"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "anaikidwa m'manda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "ויכהן",
+      "gloss": "anakhala wansembe"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazara"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "m'malo mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:18:33.585047456Z",
+  "model": "glm-5.3"
+}

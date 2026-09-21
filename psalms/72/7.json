@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 72,
+  "translation": "M'masiku ake wolungama adzatumbuluka, ndi mtendere wochuluka, kufikira mwezi usakhalepo.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "adzatumbuluka"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "M'masiku ake"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ndi wochuluka"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mtendere"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "usakhalepo"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "mwezi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:53.140980559Z",
+  "model": "glm-5.3"
+}

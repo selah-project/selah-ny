@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 3:43",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo zobadwa zoyamba zonse zamwamuna, m'nambala ya maina, kuchokera pa mwana wa mwezi wumodzi ndi kupambula, pa owerengedwa awo, zinali zikwi makumi awiri anayi, mazana awiri, makumi asanu ndi awiri ndi atatu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zinali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "zobadwa zoyamba"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "zamwamuna"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "m'nambala ya"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maina"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "kuchokera pa mwana wa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mwezi wumodzi"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ndi kupambula"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "pa owerengedwa awo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ziwi"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "makumi awiri anayi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "zikwi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "makumi asanu ndi awiri"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "mazana awiri"
+    }
+  ],
+  "timestamp": "2026-09-21T06:50:16.651757508Z",
+  "model": "glm-5.3"
+}

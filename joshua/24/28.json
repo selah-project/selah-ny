@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo Yehoshuwa adatuma ⟨את⟩ anthuwo, munthu aliense ku chilichonse chake cholowa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "adatuma"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthuwo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthuwo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu aliense"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "ku chilichonse chake cholowa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:44:26.344633769Z",
+  "model": "glm-5.3"
+}

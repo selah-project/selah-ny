@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Shemu anakhala ndi moyo pambuyo pobala ⟨את⟩ Arpakhshadi zaka mazana asanu, nabala anaamuna ndi anaakazi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "anakhala ndi moyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shemu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pambuyo pa"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "pobala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakhshadi"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakhshadi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "asanu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anaamuna"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "anaakazi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:46:22.489122507Z",
+  "model": "glm-5.3"
+}

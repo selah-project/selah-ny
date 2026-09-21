@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Mwa ⟨את⟩ oyamba kubadwa a ana a Yisraeli anatenga ⟨את⟩ ndalama: chisanu ndi makumi asanu ndi limodzi ndi chitatu, mazana atatu ndi chikwi chimodzi, m'shekeli wa chiyero.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "mwa ⟨את⟩",
+      "marks": "oyamba kubadwa"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "oyamba kubadwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndalama"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ndalama"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "chisanu"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ndi makumi asanu ndi limodzi"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ndi chitatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana atatu"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ndi chikwi chimodzi"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "m'shekeli"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "wa chiyero"
+    }
+  ],
+  "timestamp": "2026-09-21T06:50:02.851119506Z",
+  "model": "glm-5.3"
+}

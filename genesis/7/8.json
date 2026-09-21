@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Mwa ziwete zazoyera, ndi mwa ziwete zosayera, ndi mwa mbalame, ndi zonse zomwe zimayenda pa nthaka.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Mwa"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ziwete"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "zazoyera"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ndi mwa"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ziwete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zomwe"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "zosayera"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "⟨zoyera⟩"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ndi mwa"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "mbalame"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zomwe"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "timayenda"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "nthaka"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:04.425679118Z",
+  "model": "glm-5.3"
+}

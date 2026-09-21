@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 132,
+  "translation": "Nyimbo ya makwerero. Kumbukira, Yahwe, chifukwa cha Davidi ⟨את⟩ mazunzo onse ake.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya makwerero"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Kumbukira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "chifukwa cha Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazunzo onse ake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "mazunzo ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:07.411614105Z",
+  "model": "glm-5.3"
+}

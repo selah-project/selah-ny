@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 118:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 118,
+  "translation": "Kufuula kwa chimwemwe ndi chipulumutso zili m'mahema a olungama; dzanja lamanja la Yahwe likuchita chamlimba.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "kufuula"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "kwa chimwemwe"
+    },
+    {
+      "surface": "וישועה",
+      "gloss": "ndi chipulumutso"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "m'mahema a"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "olungama"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "dzanja lamanja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "likuchita"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "chamlimba"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:07.086686732Z",
+  "model": "glm-5.3"
+}

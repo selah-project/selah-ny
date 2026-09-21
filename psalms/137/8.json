@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 137,
+  "translation": "Mwana wa Babuloni, wakuzunzidwa — okondedwa ndiye amene adzakubwezera ⟨את⟩ mphoto yako, chimene uninandichitira.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "Mwana wa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babuloni"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "wakuzunzidwa"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "okondedwa ndiye"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "adzakubwezera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mphoto yako"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "mphoto yako"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "chinandichitira"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ina"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:11.132475232Z",
+  "model": "glm-5.3"
+}

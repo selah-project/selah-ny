@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Elohim, aweruze ⟨iwo⟩ olakwa; agwe ndi maupangiridwe awo awomwe; m'kuchuluka kwa ziolankhula zawo muwachotse iwo; pakuti anakanira kwa Inu.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "aweruze olakwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "agwe"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "ndi maupangiridwe awo"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "m'kuchuluka"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "kwa ziolankhula zawo"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "muwachotse iwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "anakanira"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kwa Inu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:00.172586879Z",
+  "model": "glm-5.3"
+}

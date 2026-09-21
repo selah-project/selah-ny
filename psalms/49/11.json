@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Pakuti amapenya kuti anthu anzeru amafa; wopusa ndi wamwala amafa limodzi, ndipo amasiya chuma chawo kwa ena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "amapenya"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "anthu anzeru"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "amafa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "limodzi"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "wopusa"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "ndi wamwala"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "amawonongeka"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "ndipo amasiya"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "kwa ena"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "chuma chawo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:24.777319976Z",
+  "model": "glm-5.3"
+}

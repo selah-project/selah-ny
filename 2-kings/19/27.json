@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo kukhala kwako, ndi kutuluka kwako, ndi kulowa kwako ndawadziwa; ndi ⟨את⟩ kukwiya kwako kwa Ine.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "ndipo kukhala kwako"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "ndi kutuluka kwako"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "ndi kulowa kwako"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndawadziwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "kukwiya kwako"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "kukwiya kwako"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa Ine"
+    }
+  ],
+  "timestamp": "2026-09-21T08:58:27.809428069Z",
+  "model": "glm-5.3"
+}

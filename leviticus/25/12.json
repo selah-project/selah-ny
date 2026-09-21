@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Pakuti yoveli ndiyo — yeretsedwa idzakhala kwa inu; kuchokera m'munda mudzadya ⟨את⟩ zokolola zake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "yoveli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiyo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "yeretsedwa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "idzakhala"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchokera"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "m'munda"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mudzadya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zokolola zake"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "zokolola zake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:45:49.087179639Z",
+  "model": "glm-5.3"
+}

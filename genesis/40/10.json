@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 40:10",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo pa mphesapo pali nthambi zitatu; ndipo monga ikutulutsa maluwa, maluwa ake anakwera; mitolo yake inasala mbidwa.",
+  "tokens": [
+    {
+      "surface": "ובגפן",
+      "gloss": "pa mphesapo"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "zitatu"
+    },
+    {
+      "surface": "שריגם",
+      "gloss": "nthambi"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ndipo iye"
+    },
+    {
+      "surface": "כפרחת",
+      "gloss": "monga ikutulutsa maluwa"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "anakwera"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "maluwa ake"
+    },
+    {
+      "surface": "הבשילו",
+      "gloss": "inasala"
+    },
+    {
+      "surface": "אשכלתיה",
+      "gloss": "mitolo yake"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "mbidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:00:35.467925829Z",
+  "model": "glm-5.3"
+}

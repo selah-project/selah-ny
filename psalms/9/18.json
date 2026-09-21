@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Olakwa adzabwerera ku Sheoli, ndi amitundu onse amene amaiwala Elohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "adzabwerera"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "olakwa"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "ku Sheoli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amitundu"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "amene amaiwala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:17.783172217Z",
+  "model": "glm-5.3"
+}

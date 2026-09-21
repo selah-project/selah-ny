@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Shomeroni adzawonongedwa, mfumu yake, monga chisanu chopanda pake pa pacimbusa pa madzi.",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "adzawonongedwa"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeroni"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "mfumu yake"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "monga chisanu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pacimbusa pa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:23:12.664304648Z",
+  "model": "glm-5.3"
+}

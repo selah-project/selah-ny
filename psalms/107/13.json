@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Ndipo anadanaula kwa Yahwe m'davuto lawu, ndi m'mazunzo awo anawapulumutsa.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Ndipo anadanaula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "m'davuto"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lawu"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "ndi m'mazunzo awo"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "anawapulumutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:05.145594106Z",
+  "model": "glm-5.3"
+}

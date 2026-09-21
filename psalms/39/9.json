@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "M'kulakwa kwanga konse unditsekere; usandipange manyazi a wopusa.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "m'…konse"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "kulakwa kwanga"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "unditsekere"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "manyazi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "a wopusa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "ndipange"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:38.266189825Z",
+  "model": "glm-5.3"
+}

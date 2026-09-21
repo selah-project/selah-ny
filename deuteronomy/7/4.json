@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Pakuti iye adzakutembenuza ⟨את⟩ mwana wako kutsatira ine, ndipo iwo akatumikire milungu ina; ndipo mkwiyo wa Yahwe udzayaka pa inu, ndipo adzakupha mwachangu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "adzakutembenuza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wako"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana wako"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "kutsatira ine"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ndipo akatumikire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "milungu"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ina"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "ndipo udzayaka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mkwiyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "pa inu"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "adzakupha"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "mwachangu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:17:10.239923377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo Azarjaya anabala ⟨את⟩ Serayaya, ndipo Serayaya anabala ⟨את⟩ Yehotsadaki.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "ndipo Azarjaya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayaya"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayaya"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "ndipo Serayaya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehotsadaki"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Yehotsadaki"
+    }
+  ],
+  "timestamp": "2026-09-21T12:23:39.212075444Z",
+  "model": "glm-5.3"
+}

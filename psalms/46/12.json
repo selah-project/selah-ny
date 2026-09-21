@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 46,
+  "translation": "Yahwe Tsevaoti ali ⟨nathu⟩; chitetezo chathu Elohim wa Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ali ⟨nathu⟩"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "chitetezo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "chathu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:14.270307942Z",
+  "model": "glm-5.3"
+}

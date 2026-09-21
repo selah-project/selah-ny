@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Dikirani, ndipo musatcheme machimo; zimaneni mitima yathu pa madebele anu, ndipo khazikani. Selah.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Dikirani"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo musatcheme"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "machimo"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "zimaneni"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "mitima yathu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "madebele anu"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "ndipo khazikani"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah."
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:07.985099515Z",
+  "model": "glm-5.3"
+}

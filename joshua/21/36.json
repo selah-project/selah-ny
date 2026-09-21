@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo chiyambire m'chigawo cha Reubeni: ⟨את⟩ Betseri ndi ⟨את⟩ malo ake owetamo, ndi ⟨את⟩ Yahatsa ndi ⟨את⟩ malo ake owetamo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ndipo chiyambire m'chigawo"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "cha Reubeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betseri"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betseri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malo ake owetamo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malo ake owetamo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Yahatsa"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yahatsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malo ake owetamo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malo ake owetamo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:42:30.613518918Z",
+  "model": "glm-5.3"
+}

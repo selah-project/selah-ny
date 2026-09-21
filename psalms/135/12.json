@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 135,
+  "translation": "Napatsa dziko lawo cholowa, cholowa kwa Yisraeli, anthu ake.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Napatsa"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dziko lawo"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "cholowa"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "cholowa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kwa Yisraeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:57.525649117Z",
+  "model": "glm-5.3"
+}

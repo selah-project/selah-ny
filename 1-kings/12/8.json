@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Koma iye anasiya ⟨את⟩ uphungu wa akuluwo umene anakumupatsa, nadayang'anirana ndi ⟨את⟩ achinyamatawo amene anakulira ndi ⟨את⟩ iye, amene ankayimirira pamaso pake.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "anasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uphungu"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "uphungu"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "wa akuluwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "anakumupatsa"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "ndayang'anirana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "achinyamatawo"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "achinyamatawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "anakulira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ndi ⟨את⟩ iye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ankayimirira"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pamaso pake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:40:24.741523735Z",
+  "model": "glm-5.3"
+}

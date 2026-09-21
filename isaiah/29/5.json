@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 29:5",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo zidzakhala monga fumbi laling'ono gulu la anthu akuchokera kwa anthu ena, ndi monga sukali yopita gulu la anthu olamulira mosawawa; ndipo zidzachitika m'modzi mwa nthawi, mwadzidzidzi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ndipo zidzakhala"
+    },
+    {
+      "surface": "כאבק",
+      "gloss": "monga fumbi"
+    },
+    {
+      "surface": "דק",
+      "gloss": "ling'ono"
+    },
+    {
+      "surface": "המון",
+      "gloss": "gulu la anthu"
+    },
+    {
+      "surface": "זריך",
+      "gloss": "la anthu akuchokera kwa anthu ena"
+    },
+    {
+      "surface": "וכמץ",
+      "gloss": "ndi monga sukali"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yopita"
+    },
+    {
+      "surface": "המון",
+      "gloss": "gulu la anthu"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "olamulira mosawawa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ndipo zidzachitika"
+    },
+    {
+      "surface": "לפתע",
+      "gloss": "m'modzi mwa nthawi"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "mwadzidzidzi"
+    }
+  ],
+  "timestamp": "2026-09-21T09:12:48.740490085Z",
+  "model": "glm-5.3"
+}

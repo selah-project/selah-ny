@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 5:12",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo chitoliro ndi chitoliro chachikulu, ng'oma ndi penipeni, ndi vinyo zili m'maphwando awo; koma ndi ⟨את⟩ ntchito ya Yahwe sayang'ana, ndi ntchito ya manja ake sayaona.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ndipo zili"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "chitoliro"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "ndi chitoliro chachikulu"
+    },
+    {
+      "surface": "תף",
+      "gloss": "ng'oma"
+    },
+    {
+      "surface": "וחליל",
+      "gloss": "ndi penipeni"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ndi vinyo"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "m'maphwando awo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ntchito"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "yang'ana"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ndi ntchito"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ya manja ake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "yaona"
+    }
+  ],
+  "timestamp": "2026-09-21T09:03:41.740856998Z",
+  "model": "glm-5.3"
+}

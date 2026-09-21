@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo Mesha mfumu wa Moabu anali wolisa nkhosa, ndipo anapereka kwa mfumu wa Yisraeli ana a nkhosa zana la zikwi, ndi nkhosa zamamuna zana la zikwi, pamodzi ndi ubweya.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Ndipo Mesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu wa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "anali"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "wolisa nkhosa"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ndipo anapereka"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kwa mfumu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zana la"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "zikwi"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "ana a nkhosa"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ndi zana la"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "zikwi"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "nkhosa zamamuna"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "ubweya"
+    }
+  ],
+  "timestamp": "2026-09-21T08:48:16.975873878Z",
+  "model": "glm-5.3"
+}

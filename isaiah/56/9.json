@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 56,
+  "translation": "Nyama zonse za m'thengo, idzani kudya ⟨nyama⟩ zonse za m'nkhalango.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "za m'thengo"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "idzani"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kudya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "⟨nyama⟩ zonse"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "za m'nkhalango"
+    }
+  ],
+  "timestamp": "2026-09-21T09:21:36.958319463Z",
+  "model": "glm-5.3"
+}

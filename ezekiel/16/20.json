@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo munatenga ⟨את⟩ ana anu amuna ndi ⟨את⟩ ana anu akazi amene munandibayira kwa ine, ndipo munawapereka kwa iwo kuti adye. Kodi ichi ndi chochepa cha chigololo chanu?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "ndipo munatenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana anu amuna"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ana anu amuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana anu akazi"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "ana anu akazi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "munandibayira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "ndipo munawapereka nsembe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "kuti adye"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "kodi ichi ndi chochepa"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "cha chigololo chanu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:00:36.321294092Z",
+  "model": "glm-5.3"
+}

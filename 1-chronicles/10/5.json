@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo wosenza zida zake ataona kuti Shauli wamwalira, iye nawo anagwa pa lupanga, nadi imfa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ataona"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "wosenza"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zida zake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wamwalira"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "anagwa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nawo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "lupanga"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "nadi imfa"
+    }
+  ],
+  "timestamp": "2026-09-21T12:27:02.201951575Z",
+  "model": "glm-5.3"
+}

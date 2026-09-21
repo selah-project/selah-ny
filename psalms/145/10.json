@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 145,
+  "translation": "Ntchito zako zonse zidzakuyamika, iwe Yahwe, ndi oyera mtima ako zidzakudalitsa.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "zidzakuyamika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "iwe Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ntchito zako"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "ndi oyera mtima ako"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "zidzakudalitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:47.331009265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 17:1",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Uchimo wa Yuda walembedwa ndi peni ya chitsulo, ndi tsiro la shamiri, wonyengedwa pa chida cha mtima wawo, ndi pa nyanga za malu a nsembe anu.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "uchimo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "walembedwa"
+    },
+    {
+      "surface": "בעט",
+      "gloss": "ndi peni"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ya chitsulo"
+    },
+    {
+      "surface": "בצפרן",
+      "gloss": "ndi tsiro"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "la shamiri"
+    },
+    {
+      "surface": "חרושה",
+      "gloss": "wonyengedwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "chida"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "cha mtima wawo"
+    },
+    {
+      "surface": "ולקרנות",
+      "gloss": "ndi pa nyanga"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "za malu a nsembe anu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:35:57.231900546Z",
+  "model": "glm-5.3"
+}

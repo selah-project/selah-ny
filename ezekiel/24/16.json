@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 24:16",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Mwana wa munthu, taona, ndikutora kwa iwe ⟨את⟩ chokondweretsa maso ako ndi nthombo; koma usaphimbe maliro, ndipo usalire, ndipo misozi yako isatuluke.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa munthu"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "taona, ndili kuno ndikutora"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ndikutora"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chokondweretsa maso ako"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "chokondweretsa"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "maso ako"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "ndi nthombo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma usa-"
+    },
+    {
+      "surface": "תספד",
+      "gloss": "-phimbe maliro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo usa-"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "-lire"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "ndipo i-"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "-satuluke"
+    },
+    {
+      "surface": "דמעתך",
+      "gloss": "misozi yako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:05:57.579263831Z",
+  "model": "glm-5.3"
+}

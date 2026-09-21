@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 73,
+  "translation": "Pakuti ndinakhumudwa ndi odzikuza, pamene ndinaona mtendere wa oipa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "ndinakhumudwa"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "ndi odzikuza"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mtendere"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wa oipa"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "pamene ndinaona"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:54.807643082Z",
+  "model": "glm-5.3"
+}

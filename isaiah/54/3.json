@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 54,
+  "translation": "Pakuti udzalankhula ku manja awiri ndi ku chimodzi, ndipo mbewu yako idzachirikiza midzi ya anthu a mitundu, ndipo mizi yotayika idzakhazikanso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ku manja awiri"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ndi ku chimodzi"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "udzalankhula"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "ndipo mbewu yako"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "midzi ya anthu a mitundu"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "idzachirikiza"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "ndipo mizi"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "yotayika"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "idzakhazikanso"
+    }
+  ],
+  "timestamp": "2026-09-21T09:22:46.162744224Z",
+  "model": "glm-5.3"
+}

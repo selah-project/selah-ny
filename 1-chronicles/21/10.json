@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 21:10",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Yenda, nena kwa Davidi, nati: Kotero anati Yahwe: Zinthu zitatu ndikulengerako; sankha chimodzi mwa izi, ndipo ine ndidzachichitira iwe.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "yenda"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "nena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kotero"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "zitatu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ndikulengerako"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pa iwe"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "sankha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "chimodzi"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "mwa izi"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ndipo ndidzachichitira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T12:31:39.853197155Z",
+  "model": "glm-5.3"
+}

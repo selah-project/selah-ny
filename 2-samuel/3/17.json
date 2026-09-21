@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 3:17",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Mawu a Avneri anali ndi akuluakulu a Yisraeli, nati: “Dzulo ndi tsiku lomaliza lija munali kufuna ⟨את⟩ Davide kukhala mfumu yanu.”",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "Mawu"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "a Avneri"
+    },
+    {
+      "surface": "היה",
+      "gloss": "anali"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "akuluakulu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "dzulo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "tsiku lomaliza lija"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "munali"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "kufuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kukhala mfumu"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "yanu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:17:46.755439807Z",
+  "model": "glm-5.3"
+}

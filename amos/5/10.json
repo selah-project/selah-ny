@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 5:10",
+  "book": "amos",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Amadana ndi wolalatura pa khomo, ndipo wolankhula wokhulupirika amakana naye.",
+  "tokens": [
+    {
+      "surface": "שנאו",
+      "gloss": "amadana"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "pa khomo"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "wolalatura"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ndi wolankhula"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "wokhulupirika"
+    },
+    {
+      "surface": "יתעבו",
+      "gloss": "amakana naye"
+    }
+  ],
+  "timestamp": "2026-09-21T10:26:39.763199195Z",
+  "model": "glm-5.3"
+}

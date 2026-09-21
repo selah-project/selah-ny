@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 7:10",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo ana a Yediaeli: Bilhani; ndipo ana a Bilhani: Yeushi, ndi Benyamini, ndi Ehudi, ndi Kenaana, ndi Zeitani, ndi Tarshishi, ndi Ahishahari.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ndipo ana a"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "Yediaeli"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhani"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ndipo ana a"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhani"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeushi"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ndi Benyamini"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "ndi Ehudi"
+    },
+    {
+      "surface": "וכנענה",
+      "gloss": "ndi Kenaana"
+    },
+    {
+      "surface": "וזיתן",
+      "gloss": "ndi Zeitani"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "ndi Tarshishi"
+    },
+    {
+      "surface": "ואחישחר",
+      "gloss": "ndi Ahishahari"
+    }
+  ],
+  "timestamp": "2026-09-21T12:25:22.980454199Z",
+  "model": "glm-5.3"
+}

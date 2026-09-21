@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Pakuti mcheso wa mkaka umatulutsa tchizi, ndi mcheso wa mphuno umatulutsa magazi, ndipo mcheso wa mkwiyo umatulutsa nkhondo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "mcheso"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mkaka"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "umatulutsa"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "tchizi"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "ndi mcheso"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mphuno"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "umatulutsa"
+    },
+    {
+      "surface": "דם",
+      "gloss": "magazi"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "ndipo mcheso"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "mkwiyo"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "umatulutsa"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "nkhondo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:28:26.194609154Z",
+  "model": "glm-5.3"
+}

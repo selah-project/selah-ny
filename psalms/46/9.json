@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 46,
+  "translation": "Bwerani, penyani ntchito za Yahwe, amene wasandutsa zowonongeka m'dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Bwerani"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "penyani"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "za Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wasandutsa"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "zowonongeka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:14.269765928Z",
+  "model": "glm-5.3"
+}

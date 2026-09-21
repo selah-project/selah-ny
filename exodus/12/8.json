@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo adzadya ⟨את⟩ inyama usiku uno, yophikidwa ndi moto, ndi mkate wosatuta; ndi masamba owawa adzadya ilo pamodzi nawo.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "adzadya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyama"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uno"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "yophikidwa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ndi moto"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "mkate wosatuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "masamba owawa"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "adzadya ilo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:55:59.392596472Z",
+  "model": "glm-5.3"
+}

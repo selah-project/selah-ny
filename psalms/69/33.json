@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Oonafo okhumudwa adzakondwa; olonda Elohim — mtima wathu ukhale ndi moyo.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "adzaona"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "okhumudwa"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "adzakondwa"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "olonda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "ukhale ndi moyo"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "mtima wathu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:07.435535557Z",
+  "model": "glm-5.3"
+}

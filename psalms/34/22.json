@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Choipa chidzapha woipa, ndi odana ndi wolungama adzatere chimo.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "chidzapha"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "woipa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "ndi odana ndi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wolungama"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "adzatere chimo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:27.210260792Z",
+  "model": "glm-5.3"
+}

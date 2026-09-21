@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 1:19",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo kunakhala madzulo, ndipo kunakhala m'mawa — tsiku lachinayi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kunakhala"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "madzulo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kunakhala"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "m'mawa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "lachinayi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:16.135699632Z",
+  "model": "glm-5.3"
+}

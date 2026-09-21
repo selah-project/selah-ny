@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 40:19",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo anatambasula ⟨את⟩ chihema pa malo oyera, nakaika ⟨את⟩ chikhuto cha chihema pamwamba pa chake, monga Yahwe anamulamulira ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "anatambasula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chihema"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "malo oyera"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nakaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikhuto"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "chikhuto"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "cha chihema"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pamwamba pa chake"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "anamulamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:41.863891369Z",
+  "model": "glm-5.3"
+}

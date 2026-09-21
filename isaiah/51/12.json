@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 51,
+  "translation": "Ine, Ine ndi yemwe amakutonthozerani. Ndiwe ani, kuti uope munthu amene adzafa, ndi mwana wa munthu amene aperekedwa ngati udzu?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndi yemwe"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "amakutonthozerani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiwe ani"
+    },
+    {
+      "surface": "את",
+      "gloss": "kuti iwe"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "uope"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "amene adzafa"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "ndi mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa munthu"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ngati udzu"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "aperekedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:21:52.085307442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 26:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ngati mwanozipatsidwa woipa, saphunzira chilungamo; mu dziko la chiwolongoka achita zoipa, ndipo saona ulemerero wa Yahwe.",
+  "tokens": [
+    {
+      "surface": "יחן",
+      "gloss": "ngati mwanozipatsidwa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "woipa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "למד",
+      "gloss": "aphunzira"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "chilungamo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu dziko"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "la chiwolongoka"
+    },
+    {
+      "surface": "יעול",
+      "gloss": "achita zoipa"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ndipo sa-"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ulemerero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T09:10:17.139034539Z",
+  "model": "glm-5.3"
+}

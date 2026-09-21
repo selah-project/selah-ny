@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-kings 8:50",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipoakhule mtima anthu anu amene anachimira kwa inu, ndi kupandukira kwawo konse amene anakupandukirani, ndipo muwapatse chifundo pamaso a akumanga uja, kuti aachitire chifundo.",
+  "tokens": [
+    {
+      "surface": "וסלחת",
+      "gloss": "Ndipoakhule mtima"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "anthu anu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "anachimira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ndi konse"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "kupandukira kwawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "anakupandukirani"
+    },
+    {
+      "surface": "בך",
+      "gloss": "(kwa inu)"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ndipo muwapatse chifundo"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "chifundo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso a"
+    },
+    {
+      "surface": "שביהם",
+      "gloss": "akumanga uja"
+    },
+    {
+      "surface": "ורחמום",
+      "gloss": "aachitire chifondo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:35:56.603488521Z",
+  "model": "glm-5.3"
+}

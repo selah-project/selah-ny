@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 24:3",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo ndinatenga ⟨את⟩ atate wanu, ⟨את⟩ Avraham, kunja kwa mtsinjawo, ndipo ndinamuyendetsa m'dziko lonse la Kenaani, ndipo ndinachulukitsa ⟨את⟩ mbadwo wake, ndipo ndinamupatsa ⟨את⟩ Yitsakhi.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "ndipo ndinatenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atate wanu"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "atate wanu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "kunja kwa mtsinjawo"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "mtsinjawo"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "ndipo ndinamuyendetsa"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "iye (Avraham)"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "m'dziko lonse la"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "ndipo ndinachulukitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbadwo wake"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "mbadwo wake"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ndipo ndinamupatsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsakhi"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsakhi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:45:25.514273020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 110,
+  "translation": "Wa Davide, nyimbo. Ndamu ya Yahwe kwa Adonayi wanga: “Khala pa dzanja langa lamanja, mpaka ndikaika adani anu chidalitso cha mapazi anu.”",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Wa Davide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Ndamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kwa Adonayi wanga"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Khala"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "pa dzanja langa lamanja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ndikaika"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "adani anu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "chidalitso"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "cha mapazi anu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:21.595405986Z",
+  "model": "glm-5.3"
+}

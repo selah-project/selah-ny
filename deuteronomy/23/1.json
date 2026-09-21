@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Munthu sadzatora ⟨את⟩ mkazi wa bambo wake, ndipo sadzavula chiphadzwa cha bambo wake.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "tora"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkazi wa bambo wake"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mkazi wa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bambo wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sadza-"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "vula"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "chiphadzwa cha"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bambo wake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:26:38.844216579Z",
+  "model": "glm-5.3"
+}

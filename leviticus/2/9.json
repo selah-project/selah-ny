@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo wansembe adzanyamura kuchokera m'nsembe ⟨את⟩ chikumbutso chake, nadiofya pa guwa la nsembe; nsembe ya moto, mphumo yokondweretsa kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "adzanyamura"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchokera"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "m'nsembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikumbutso chake"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "chikumbutso chake"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "nadiofya"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pa guwa la nsembe"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nsembe ya moto"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "mphumo"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "yokondweretsa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:26.005975010Z",
+  "model": "glm-5.3"
+}

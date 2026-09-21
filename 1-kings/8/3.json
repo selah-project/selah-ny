@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo akuluakulu onse a Yisraeli analowa, ndipo ansembe adanyamula ⟨את⟩ sandukulo.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "analowa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "akuluakulu a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "adanyamula"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandukulo"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sandukulo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:36:25.157864036Z",
+  "model": "glm-5.3"
+}

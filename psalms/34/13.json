@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Ndani ndi munthu wofuna moyo, wokonda masiku ambiri, kuti aone chabwino?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "wofuna"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "wokonda"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku ambiri"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuti aone"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "chabwino"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:55.528010689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Tsiku lomwelo munthu adzaponya ⟨את⟩ mafano a siliva yake ndi ⟨את⟩ mafano a golide wake, amene anapanga iye mwini kuti apembedse, kwa mphese ndi zipatso.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lomwelo"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "adzaponya"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafano a siliva yake"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "mafano"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "a siliva yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mafano a golide wake"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "mafano"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "a golide wake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye mwini"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "kuti apembedse"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "kwa mphese"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "mphese"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "ndi zipatso"
+    }
+  ],
+  "timestamp": "2026-09-21T09:01:42.768065991Z",
+  "model": "glm-5.3"
+}

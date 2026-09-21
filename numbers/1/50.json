@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 1:50",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Koma iwe, ikira Alaviyi pa chihema cha umboni, ndi pa zida zake zonse, ndi pa zonse zake; iwo adzanyamula ⟨את⟩ chihema ndi ⟨את⟩ zida zake zonse, ndipo iwo adzachitira ntchito chipatso; ndipo kuzungulira chihema adzakhala.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Koma iwe"
+    },
+    {
+      "surface": "הפקד",
+      "gloss": "ikira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alaviyi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Alaviyi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "cha umboni"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zida zake"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cha"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "adzanyamula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chihema"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zida zake zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zida zake"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ndipo iwo"
+    },
+    {
+      "surface": "ישרתהו",
+      "gloss": "adzachitira ntchito"
+    },
+    {
+      "surface": "וסביב",
+      "gloss": "ndipo kuzungulira"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "adzakhala"
+    }
+  ],
+  "timestamp": "2026-09-21T06:49:15.505154992Z",
+  "model": "glm-5.3"
+}

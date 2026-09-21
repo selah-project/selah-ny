@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Tsoka kwa Ashuru, mchere wa mkwiyo wanga, ndipo iye ndiye ndodo ili m'manja mwawo, msautso wanga.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Tsoka"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "kwa Ashuru"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "mchere"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "wa mkwiyo wanga"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "ndipo ndodo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye ndiye"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "m'manja mwawo"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "msautso wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T09:05:11.736228257Z",
+  "model": "glm-5.3"
+}

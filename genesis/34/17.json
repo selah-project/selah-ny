@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Koma ngati simutimvera ife kuti mudzodulidwa, tidzalandira ⟨את⟩ mwana wathu wamkazi, ndipo tidzachoka.”",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Koma ngati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "simu-"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "timvera"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "kuti mudzodulidwa"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "tidzalandira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wathu wamkazi"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "mwana wathu wamkazi"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "tidzachoka"
+    }
+  ],
+  "timestamp": "2026-09-21T05:58:45.102080375Z",
+  "model": "glm-5.3"
+}

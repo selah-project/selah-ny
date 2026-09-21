@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Chakafirira chilichonse simudzadya; m'malo onse anu okhala mudzadya mkate wopanda chimere.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "chilichonse"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "chakafirira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mudzadya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "m'malo onse"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "anu okhala"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mudzadya"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mkate wopanda chimere"
+    }
+  ],
+  "timestamp": "2026-09-21T06:13:46.193532418Z",
+  "model": "glm-5.3"
+}

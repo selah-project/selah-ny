@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 40:17",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Mayiko onse ali ngati palibe pamaso pake; ngati chopanda kanthu ndi wopanda pake aonedwa kwa iye.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mayiko"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "ngati palibe"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "pamaso pake"
+    },
+    {
+      "surface": "מאפס",
+      "gloss": "ngati chopanda kanthu"
+    },
+    {
+      "surface": "ותהו",
+      "gloss": "ndi wopanda pake"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "aonedwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T09:17:56.211040213Z",
+  "model": "glm-5.3"
+}

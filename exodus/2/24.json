@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Elohim anamva ⟨את⟩ kudandaula kwawo, ndipo Elohim anakumbukira ⟨את⟩ pangano lake, ⟨את⟩ Avraham, ⟨את⟩ Yitschaki, ndi ⟨את⟩ Yakobo.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "anamva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kudandaula kwawo"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "kudandaula kwawo"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "anakumbukira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangano lake"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "pangano lake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschaki"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Yakobo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:14.274634255Z",
+  "model": "glm-5.3"
+}

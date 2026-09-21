@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo kwa mbali yachiwiri ya Malo Opatulira, kumpoto, zitanda makumi awiri.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "kwa mbali"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ya Malo Opatulira"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "yachiwiri"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "kumpoto"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi awiri"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "zitanda"
+    }
+  ],
+  "timestamp": "2026-09-21T06:20:20.427067032Z",
+  "model": "glm-5.3"
+}

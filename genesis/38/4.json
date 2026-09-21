@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Ndiponso adapangidwa ndi mimba, nabala mwana wamwamuna, nayitana ⟨את⟩ dzina lake Onani.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ndapangidwa ndi mimba"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nabala"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wamwamuna"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "nayitana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzina lake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dzina lake"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onani"
+    }
+  ],
+  "timestamp": "2026-09-21T05:59:54.927545890Z",
+  "model": "glm-5.3"
+}

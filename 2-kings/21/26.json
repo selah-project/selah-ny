@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo anam'kumbatira ⟨אתו⟩ m'manda ake m'munda wa Uza; ndipo Yoshiya mwana wake anachita ufumu m'malo mwake.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "Ndipo anam'kumbatira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iye (Amoni)"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "m'manda ake"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "m'munda"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "wa Uza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ndipo anachita ufumu"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "m'malo mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:57:55.419358304Z",
+  "model": "glm-5.3"
+}

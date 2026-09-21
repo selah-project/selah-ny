@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo izi ndi zimene simudzadya mwa izo: Nesheri, ndi Peresi, ndi Azniya.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Ndipo izi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mudzadya"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "mwa izo"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "Nesheri"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "ndi Peresi"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "ndi Azniya"
+    }
+  ],
+  "timestamp": "2026-09-21T07:20:16.895038541Z",
+  "model": "glm-5.3"
+}

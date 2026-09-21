@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Noa anadzuka mu vinyo wake, nadziwa ⟨את⟩ zimene mwana wake wamng'ono anamuchitira.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "anadzuka"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "mu vinyo wake"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "nadziwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anamuchitira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "wamng'ono"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:55.861152111Z",
+  "model": "glm-5.3"
+}

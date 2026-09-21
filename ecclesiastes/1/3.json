@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Kodi phindu n'chiyani kwa munthu mu ntchito yake yonse imene amagwira pansi pa dzuwa?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kodi … n'chiyani"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "phindu"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "kwa munthu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu … yonse"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ntchito yake"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "imene amagwira"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dzuwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:02.772427029Z",
+  "model": "glm-5.3"
+}

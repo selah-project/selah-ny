@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo mfumu ya Yisraeli inati: “Ah! Pakuti Yahwe wawaitana mafumu atatuwa kuti awapereke m'dzanja la Moabu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo inati"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ah!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "wawaitana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kuti apereke"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iwo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "m'dzanja"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:10:44.271838755Z",
+  "model": "glm-5.3"
+}

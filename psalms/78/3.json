@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Zimene tinamva ndipo tidazidziwa, ndipo makolo athu anazilankhula kwa ife.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Zimene"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "tinamva"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "ndipo tidazidziwa"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "ndipo makolo athu"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "anazilankhula"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa ife"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:26.265718353Z",
+  "model": "glm-5.3"
+}

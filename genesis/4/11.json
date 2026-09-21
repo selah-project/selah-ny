@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Tsopano ulakedwa, wobweretsedwa m'dziko lapansi, lomwe latsegula ⟨את⟩ kamwa kwake kulandira ⟨את⟩ magazi a bale wako m'dzanja lako.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Tsopano"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "ulakedwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchokera m'"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lomwe"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "latsegula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamwa kwake"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "kamwa kwake"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "kulandira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magazi a bale wako"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "magazi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "a bale wako"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "m'dzanja lako"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:20.086655092Z",
+  "model": "glm-5.3"
+}

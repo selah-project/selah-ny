@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Wosauka uyu anaitana, ndipo Yahwe damva, namupulumutsa kuchokera ku mavuto onse ake.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "Wosauka"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "anaitana"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ndipo Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "damva"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "kuchokera ku onse"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "mavuto ake"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "namupulumutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:41.028130612Z",
+  "model": "glm-5.3"
+}

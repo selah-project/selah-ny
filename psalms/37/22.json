@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Pakuti odalitsidwa ndi Iye adzalowa manja dziko; ndipo otemberedwa ndi Iye adzatayidwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "odalitsidwa ndi Iye"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "adzalowa manja"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "ndipo otemberedwa ndi Iye"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "adzatayidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:11.612378845Z",
+  "model": "glm-5.3"
+}

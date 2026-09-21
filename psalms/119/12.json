@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Wodala ndi inu, Yahwe; ndiphunzitsani malamulo anu.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Wodala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "inu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ndiphunzitsani"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "malamulo anu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:10:12.160915047Z",
+  "model": "glm-5.3"
+}

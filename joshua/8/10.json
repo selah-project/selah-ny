@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo Yehoshuwa anauka mmamawa, ndipo anaweruza ⟨את⟩ anthu, ndipo anakwera iye ndi akuluakulu a Yisraeli pamaso pa anthu, kufikira ku Ayi.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "anauka mmamawa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mmamawa"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "anaweruza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "anakwera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ndi akuluakulu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ayi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:36:10.794291979Z",
+  "model": "glm-5.3"
+}

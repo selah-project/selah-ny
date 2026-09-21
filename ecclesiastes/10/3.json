@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndiponso pomwe wopusa ayenda pa njira, mtima wake umachoka, nati kwa wonse: iye ndi wopusa.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ndiponso"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pa njira"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "pomwe wopusa"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ayenda"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "mtima wake"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "umachoka"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa wonse"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "wopusa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    }
+  ],
+  "timestamp": "2026-09-21T13:31:49.409085629Z",
+  "model": "glm-5.3"
+}

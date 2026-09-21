@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 19:25",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Kodi sumva? Kwa kutalitali, ⟨את⟩ ichi ndinalichita kumayamba a kale, ndipo ndinaichimika; tsopano ndaibweretsa, kuti ikhale yokhulupirika ku chisanduliro cha matumbwi — midzi ya machumu isandulikere matumbwi a mapa.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "kodi si"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "sumva"
+    },
+    {
+      "surface": "למרחוק",
+      "gloss": "kwa kutalitali"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ichi (ichimene ndinalichita)"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndinalichita"
+    },
+    {
+      "surface": "למימי",
+      "gloss": "kumayamba a"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kale"
+    },
+    {
+      "surface": "ויצרתיה",
+      "gloss": "ndipo ndinaichimika"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "הביאתיה",
+      "gloss": "ndaibweretsa"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "kuti ikhale"
+    },
+    {
+      "surface": "להשות",
+      "gloss": "ku chisanduliro cha"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "matumbwi"
+    },
+    {
+      "surface": "נצים",
+      "gloss": "a mapa"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "midzi"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "ya machumu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:58:27.809032106Z",
+  "model": "glm-5.3"
+}

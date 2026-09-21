@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Chilimwe chilichonse chogawanitsa dzere dzese, ndi kuchititsa dzenje la dzere mwadzenje, ndi kubwereretsa chakudya m'kamwa mwa zilimwe — chimenecho mudzachidya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "chilichonse"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "chogawanitsa"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "dzere dzese"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "ndi kuchititsa dzenje"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "mwadzenje"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "la dzere"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "ndi kubwereretsa chakudya m'kamwa"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "chakudya m'kamwa"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "mwa zilimwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "chimenecho"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mudzachidya"
+    }
+  ],
+  "timestamp": "2026-09-21T06:34:28.194957575Z",
+  "model": "glm-5.3"
+}

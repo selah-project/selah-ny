@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Kutumiza ndithu utumize ⟨את⟩ mai, ndipo ⟨את⟩ ana uziwayera kokha iwe, kuti kukhale bwino kwa iwe, ndipo kuti utale masiku.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "kutumiza"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "utumize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mai"
+    },
+    {
+      "surface": "האם",
+      "gloss": "mai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ana"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uziwayera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kokha iwe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ukhale bwino"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "ndipo kuti utale"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    }
+  ],
+  "timestamp": "2026-09-21T07:24:42.037506796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 91,
+  "translation": "Ndiponso matenda amene amayenda mu mdima, chiwonongeko chimene chimaononga usana.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "matenda"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "mu mdima"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "amayenda"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "chiwonongeko"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "chimaononga"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "usana"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:34.191630458Z",
+  "model": "glm-5.3"
+}

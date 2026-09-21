@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo Davide anakalamba nakhala ndi masiku akwanira, namulamulitsa ⟨את⟩ Shelomo mwana wake pa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Ndipo Davide"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "anakalamba"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "nakhala ndi akwanira"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "namulamulitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T12:33:38.218692547Z",
+  "model": "glm-5.3"
+}

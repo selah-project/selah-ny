@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo dothi lidzabwerera pa dziko lapansi monga linali, ndipo mzimu udzabwerera kwa Elohim amene unampereka.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ndipo lidzabwerera"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "dothi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "monga linali"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "ndipo mzimu"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "udzabwerera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "unampereka"
+    }
+  ],
+  "timestamp": "2026-09-21T11:59:16.430668718Z",
+  "model": "glm-5.3"
+}

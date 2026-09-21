@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Ndipo Ayiyobu anakhala ndi moyo atatero zaka zana ndi makumi anayi, ndipo anaona ⟨את⟩ ana ake ndi ⟨את⟩ ana a ana ake, mibadwo inayi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "anakhala ndi moyo"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayiyobu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "atatero"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izi"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zana"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ndi makumi anayi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana ake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana a ana ake"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "a ana ake"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "inayi"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "mibadwo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:47:45.887224652Z",
+  "model": "glm-5.3"
+}

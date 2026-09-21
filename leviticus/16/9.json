@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo Aharon adzabweretsa ⟨את⟩ mbuzi imene chiwalo chinakweza pa iye kwa Yahwe, nadzachipereka ngati nsembe ya machimo.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "adzabweretsa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbuzi"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "mbuzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "chinakweza"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "chiwalo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "nadzachipereka"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "nsembe ya machimo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:40:08.171968820Z",
+  "model": "glm-5.3"
+}

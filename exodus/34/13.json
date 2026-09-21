@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Mabilike awo mudzazimutsa ⟨את⟩, ndipo ⟨את⟩ miyala yawo yoyimirira mudzaphwanya, ndipo ⟨את⟩ mitengo yake ya Ashera mudzati.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabilike awo"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "mabilike awo"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "mudzazimutsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "miyala yawo yoyimirira"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "miyala yawo yoyimirira"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "mudzaphwanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mitengo yake ya Ashera"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "mitengo yake ya Ashera"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "mudzati"
+    }
+  ],
+  "timestamp": "2026-09-21T06:25:22.117675075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Iwo amakhulupirira mphamvu yawo, nadzikuza m'chuluko cha chuma chawo;",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "amakhulupirira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "mphamvu yawo"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "nadzikuza m'chuluko"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "chuma chawo"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "nadzikuza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:10.034981781Z",
+  "model": "glm-5.3"
+}

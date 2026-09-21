@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Ndipulumutse m'matope, ndipo musandilole ndizike; ndisandulutsidwe mwa odana nanga, ndi m'mathomwe a madzi.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Ndipulumutse"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "m'matope"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo musa"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "ndizike"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "ndisandulutsidwe"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "mwa odana nanga"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "ndi m'mathomwe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "a madzi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:29.667211598Z",
+  "model": "glm-5.3"
+}

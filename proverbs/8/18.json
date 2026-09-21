@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Chuma ndi ulemerero zili ⟨את⟩ kwa ine; nazo cholowa chokhalitsa ndi chilungamo.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Chuma"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ndi ulemerero"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kwa ine",
+      "marks": "Chuma ndi ulemerero"
+    },
+    {
+      "surface": "הון",
+      "gloss": "cholowa"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "chokhalitsa"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ndi chilungamo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:20:15.641489515Z",
+  "model": "glm-5.3"
+}

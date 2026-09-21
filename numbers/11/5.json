@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Tinakumbukira ⟨את⟩ nsomba zimene tinazidya ku Mitsrayimu kwaulere: ⟨את⟩ makholo, ndi ⟨את⟩ mahobo, ndi ⟨את⟩ sibwawu, ndi ⟨את⟩ anyani, ndi ⟨את⟩ galiki.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "Tinakumbukira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsomba"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "nsomba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "tinazidya"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ku Mitsrayimu"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "kwaulere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makholo"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "makholo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mahobo"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "mahobo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "sibwawu"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "sibwawu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "anyani"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "anyani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "galiki"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "galiki"
+    }
+  ],
+  "timestamp": "2026-09-21T12:59:52.333213031Z",
+  "model": "glm-5.3"
+}

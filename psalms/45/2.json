@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 45,
+  "translation": "Mtima wanga wathirira liwu labwino; ndikunena: ntchito zanga za mfumu; lilime langa ndi lakulemba la wolemba wolusa.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "wathirira"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Mtima wanga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liwu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labwino"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ndikunena"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ntchito zanga"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "za mfumu"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lilime langa"
+    },
+    {
+      "surface": "עט",
+      "gloss": "lakulemba"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "la wolemba"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "wolusa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:35.087299423Z",
+  "model": "glm-5.3"
+}

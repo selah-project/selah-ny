@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo iye adatuluka nakaniza nankhondo Achifilisti, nadyonza ⟨את⟩ khoma la Gati ndi ⟨את⟩ khoma la Yavne ndi ⟨את⟩ khoma la Ashdodi; nadzamanga mizati m'Ashdodi ndi mwa Achifilisti.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "adatuluka"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "nakaniza nankhondo"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Achifilisti"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "nadyonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khoma la Gati"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "khoma la"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "khoma la Yavne"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "khoma la"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yavne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "khoma la Ashdodi"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "khoma la"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdodi"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "nadzamanga"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mizati"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "m'Ashdodi"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "mwa Achifilisti"
+    }
+  ],
+  "timestamp": "2026-09-21T12:46:46.503605373Z",
+  "model": "glm-5.3"
+}

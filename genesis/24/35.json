@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 24:35",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo Yahwe anadalitsa kwambiri ⟨את⟩ mbuye wanga, nakhala wamkulu; ndipo anampatsa iye nkhosa ndi mbuzi, ng'ombe, siliva, golide, akapolo amuna, akapolo akazi, ngamira ndi abulu.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ndipo Yahwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "anadalitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbuye wanga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mbuye wanga"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "nakhala wamkulu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "anampatsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nkhosa ndi mbuzi"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "ועבדם",
+      "gloss": "akapolo amuna"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "akapolo akazi"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "ngamira"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "abulu"
+    }
+  ],
+  "timestamp": "2026-09-21T05:52:10.429774181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Wakupha munthu ndipo wafa, aphedwa adzaphedwa.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "Wakupha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ndipo wafa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "aphedwa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "adzaphedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:11.923626556Z",
+  "model": "glm-5.3"
+}

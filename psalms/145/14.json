@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 145,
+  "translation": "Yahwe amathandiza ogwa onse, ndipo amayimita okotama onse.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "amathandiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "ogwa"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "ndipo amayimita"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "okotama"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:02.155280196Z",
+  "model": "glm-5.3"
+}

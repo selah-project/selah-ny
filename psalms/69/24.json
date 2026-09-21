@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Maso awo azizima osapenya, ndipo tuvi zawo zikhale zozungazika ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "azizime"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "maso awo"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "kupenya"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "ndipo tuvi zawo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "kuzeruzeruka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:45.588817266Z",
+  "model": "glm-5.3"
+}

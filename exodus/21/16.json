@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo wakuba munthu nndikumugulitsa, kapena wapezedwa ali naye m'dzanja mwake — afa adzafa.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "Ndipo wakuba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "nndikumugulitsa"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "kapena wapezedwa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "m'dzanja mwake"
+    },
+    {
+      "surface": "מות",
+      "gloss": "afa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "adzafa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:36.665434475Z",
+  "model": "glm-5.3"
+}

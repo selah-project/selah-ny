@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Yahwe wasungunula mkati mwa iye mzimu wa kusokonezeka, ndipo anasochetsa ⟨את⟩ Mitsrayimu m'ntchito yake yonse, monga kusokonezeka kwa waledyera m'kasuzumwa kwake.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "wasungunula"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "mkati mwa iye"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu wa"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "kusokonezeka"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "ndipo anasochetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "m'... yonse"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "ntchito yake"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "monga kusokonezeka kwa"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "waledyera"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "m'kasuzumwa kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T09:08:09.399597650Z",
+  "model": "glm-5.3"
+}

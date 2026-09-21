@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo munthu amene adzatenga ⟨את⟩ mkazi ndi ⟨את⟩ amake — zimuna ndizo zimenezo; mumoto adzawotcha ⟨את⟩ iye ndi ⟨את⟩ iwo; ndipo zimuna sidzakhalapo pakati panu.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ndipo munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "adzatenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkazi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "amake"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amake"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "zimuna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndizo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mumoto"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "adzawotcha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "ndi ⟨את⟩ iwo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo osati"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "idzakhalapo"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "zimuna"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "pakati panu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:43:17.389951192Z",
+  "model": "glm-5.3"
+}

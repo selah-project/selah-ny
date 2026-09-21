@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 8:5",
+  "book": "amos",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Nati: “Kodi mwezi utapita nthawi inji, ndipo tigulitse mbewu, ndi Sabata, ndipo titsegule chipata cha mbewu — kuti tichepetse efa, ndi kuwonjezera shekeli, ndi kusokoneza miyeso ya chiwembu?”",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nthawi inji"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "utapita"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "mwezi"
+    },
+    {
+      "surface": "ונשבירה",
+      "gloss": "ndipo tigulitse"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "mbewu"
+    },
+    {
+      "surface": "והשבת",
+      "gloss": "ndi Sabata"
+    },
+    {
+      "surface": "ונפתחה",
+      "gloss": "ndipo titsegule"
+    },
+    {
+      "surface": "בר",
+      "gloss": "chipata cha mbewu"
+    },
+    {
+      "surface": "להקטין",
+      "gloss": "kuti tichepetse"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "ולהגדיל",
+      "gloss": "ndi kuwonjezera"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekeli"
+    },
+    {
+      "surface": "ולעות",
+      "gloss": "ndi kusokoneza"
+    },
+    {
+      "surface": "מאזני",
+      "gloss": "miyeso"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ya chiwembu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:27:09.250918764Z",
+  "model": "glm-5.3"
+}

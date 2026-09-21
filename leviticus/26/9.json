@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo ndidzatembenuzira kwa inu, ndipo ndidzakuchulutsani ⟨את⟩ inu, ndipo ndidzawonjezera ⟨את⟩ inu, ndipo ndidzayimikitsa ⟨את⟩ pangano langa ⟨את⟩ ndi inu.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "ndidzatembenuzira"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "ndidzakuchulutsani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ndidzawonjezera"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "ndidzayimikitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangano langa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "pangano langa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ndi inu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:45:39.124007226Z",
+  "model": "glm-5.3"
+}

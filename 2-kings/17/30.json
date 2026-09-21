@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo anthu a Babiloni anapanga ⟨את⟩ Sukotu-Benoti, ndipo anthu a Kuti anapanga ⟨את⟩ Nergali, ndipo anthu a Hamati anapanga ⟨את⟩ Ashima.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "ndipo anthu a"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babiloni"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukotu-Benoti"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukotu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "-Benoti"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ndipo anthu a"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kuti"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergali"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergali"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ndipo anthu a"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamati"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashima"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Ashima"
+    }
+  ],
+  "timestamp": "2026-09-21T08:56:50.700539207Z",
+  "model": "glm-5.3"
+}

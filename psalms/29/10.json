@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Yahwe anakhala pa chigumula, ndipo Yahwe anakhala mfumu ku nthawi zosatha.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "pa chigumula"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ndipo anakhala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zosatha"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:57.440423483Z",
+  "model": "glm-5.3"
+}

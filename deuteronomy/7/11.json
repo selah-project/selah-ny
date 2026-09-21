@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Choncho usunge ⟨את⟩ lamulo, ndi ⟨את⟩ misonkhano, ndi ⟨את⟩ miweruzo, umene ndikulamulira lero lino kuzichita.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Choncho usunge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lamulo"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "lamulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "misonkhano"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "misonkhano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "miweruzo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "miweruzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "kulamulira"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero lino"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "kuzichita"
+    }
+  ],
+  "timestamp": "2026-09-21T07:17:46.229192514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo zinthu zili zotero, mtima wa Davide unamugwera ⟨iye⟩, chifukwa cha kudula ⟨את⟩ mphambo ya kanzu ya Shauli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo zinthu zili zotero"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pambuyo pa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zimenezo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "unamugwera"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa Davide"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Davide"
+    },
+    {
+      "surface": "על",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "anadula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mphambo ya kanzu"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "mphambo ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shauli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:11:25.195227652Z",
+  "model": "glm-5.3"
+}

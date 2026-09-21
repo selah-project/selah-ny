@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Kodi chifukwa chiyani umatiwala ku nthawi zonse, umatisiya kwa masiku autali?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "chifukwa chiyani"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "umatiwala"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "umatisiya"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "kwa masiku autali"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    }
+  ],
+  "timestamp": "2026-09-21T11:54:29.724717509Z",
+  "model": "glm-5.3"
+}

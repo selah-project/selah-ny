@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo mfumu inayika ⟨את⟩ chisiliva ku Yerushalayimu monga miyala, ndi ⟨את⟩ macedwa inayika monga mikwiju imene ili m'chigwa, mochuluka.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ndipo mfumu inayika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chisiliva"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "chisiliva"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ku Yerushalayimu"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "monga miyala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "macedwa"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "macedwa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "inayika"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "monga mikwiju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "m'chigwa"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "mochuluka"
+    }
+  ],
+  "timestamp": "2026-09-21T08:36:33.593418322Z",
+  "model": "glm-5.3"
+}

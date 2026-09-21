@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo analowera ⟨את⟩ Yorodani, nakhazikika ku Aroeri, kumtima kwa dziko la mu mchere wa Gadi, ndi kufika ku Yazeri.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "analowera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yorodani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorodani"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "nakhazikika"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "ku Aroeri"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "kumtima"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dziko la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "la"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "mchere"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "wa Gadi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi kufika"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "ku Yazeri"
+    }
+  ],
+  "timestamp": "2026-09-21T08:29:14.682929278Z",
+  "model": "glm-5.3"
+}

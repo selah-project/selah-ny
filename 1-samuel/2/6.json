@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Yahwe amapha ndi kuwatsa moyo; amatsika ⟨kwa⟩ Sheoli ndi kukweza.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "amapha"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "ndi kuwatsa moyo"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "amatsika"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheoli"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ndi kukweza"
+    }
+  ],
+  "timestamp": "2026-09-21T07:58:54.924531631Z",
+  "model": "glm-5.3"
+}

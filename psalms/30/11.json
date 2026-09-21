@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "“Mvera, Yahwe, ndipo undichitire chifundo; Yahwe, khala wothandiza wanga.”",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "mvera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ndipo undichitire chifundo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "khala"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "wothandiza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:13.652960774Z",
+  "model": "glm-5.3"
+}

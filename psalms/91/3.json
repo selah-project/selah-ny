@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 91,
+  "translation": "Pakuti Iye adzakupulumutsa iwe ku chide cha wolanda mbalame, ndi ku matenda a chiwonongeko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Iye"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "adzakupulumutsa iwe"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "ku chide cha"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "wolanda mbalame"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ndi ku matenda a"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "chiwonongeko"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:06.012961700Z",
+  "model": "glm-5.3"
+}

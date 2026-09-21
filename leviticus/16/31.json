@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Sabbata yokhazikika ⟨is⟩ yathu kwa inu; ndipo mudzazunza ⟨את⟩ miyoyo yanu — lamulo losatha.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Sabbata"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "yokhazikika"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "mudzazunza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miyoyo yanu"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "miyoyo yanu"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "lamulo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "losatha"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:10.477896483Z",
+  "model": "glm-5.3"
+}

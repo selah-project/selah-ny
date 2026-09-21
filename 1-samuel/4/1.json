@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 4:1",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo mawu a Shemueli adafika kwa Yisraeli wonse; ndipo Yisraeli adatuluka kukakomana ndi Afilisti pa nkhondo, nadzera ku Eveni-Ezeri; ndipo Afilisti anadzera ku Afeki.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "adafika"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "a Shemueli"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa wonse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "adatuluka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kukakomana ndi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilisti"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pa nkhondo"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "nadzera"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "Eveni"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Ezeri"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ndipo Afilisti"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "anadzera"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "ku Afeki"
+    }
+  ],
+  "timestamp": "2026-09-21T08:01:26.896920868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 120,
+  "translation": "Mivi ya nkhondo ya mnkhondo wanzeru, ndi makala a mtengo wa retsemo.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Mivi"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ya mnkhondo wanzeru"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "yowoma (yopukuta)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "makala a"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "mtengo wa retsemo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:22.560065035Z",
+  "model": "glm-5.3"
+}

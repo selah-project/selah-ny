@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 3:5",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Mdima ndi chithunzi cha imfa azichisuntha; mtambo ukakhale pa iyo; azichimaniza monga kunyezimira kwakukali kwa tsiku.",
+  "tokens": [
+    {
+      "surface": "יגאלהו",
+      "gloss": "azichisuntha"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mdima"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "ndi chithunzi cha imfa"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "ukakhale"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iyo"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "mtambo"
+    },
+    {
+      "surface": "יבעתהו",
+      "gloss": "azichimaniza"
+    },
+    {
+      "surface": "כמרירי",
+      "gloss": "monga kunyezimira kwakukali"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    }
+  ],
+  "timestamp": "2026-09-21T11:29:32.136917837Z",
+  "model": "glm-5.3"
+}

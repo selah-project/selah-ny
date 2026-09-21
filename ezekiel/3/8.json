@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Taona, ndapanga ⟨את⟩ nkhope yako yolimba motsutsana ndi nkhope zawo, ndi ⟨את⟩ phongo lako lolimba motsutsana ndi phongo lawo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Taona"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhope yako"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nkhope yako"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "yolimba"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "motsutsana ndi"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "nkhope zawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "phongo lako"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "phongo lako"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "lolimba"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "motsutsana ndi"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "phongo lawo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:56:49.121783860Z",
+  "model": "glm-5.3"
+}

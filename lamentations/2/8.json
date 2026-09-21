@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 2:8",
+  "book": "lamentations",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Yahwe anaganiza kuwononga koma la mwana wamkazi wa Tsiyoni; anatambasula chingwe, sanabweletse dzanja lake kuchoka kuwononga; ndipo adaliritsa chitetezo ndi koma, pamodzi anafatsa.",
+  "tokens": [
+    {
+      "surface": "חשב",
+      "gloss": "anaganiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "kuwononga"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "koma"
+    },
+    {
+      "surface": "בת",
+      "gloss": "la mwana wamkazi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "wa Tsiyoni"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "anatambasula"
+    },
+    {
+      "surface": "קו",
+      "gloss": "chingwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana-"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "bweretse"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "מבלע",
+      "gloss": "kuchoka kuwononga"
+    },
+    {
+      "surface": "ויאבל",
+      "gloss": "ndipo adaliritsa"
+    },
+    {
+      "surface": "חל",
+      "gloss": "chitetezo"
+    },
+    {
+      "surface": "וחומה",
+      "gloss": "ndi koma"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamodzi"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "anafatsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:53:23.014205236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 150,
+  "translation": "Chilichonse chopuma chilemekeze Yah; lemekani Yah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Chilichonse"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "chopuma"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "chilemekeze"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lemekani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:29.778758169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo mfumu idatembenuza ⟨את⟩ nkhope yake, nadalitira ⟨את⟩ gulu lonse la Yisraeli; ndipo gulu lonse la Yisraeli linayimirira.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Ndipo mfumu idatembenuza"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhope yake"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "nkhope yake"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "nadalitira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gulu lonse la Yisraeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "gulu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "la Yisraeli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo gulu lonse"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "gulu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "la Yisraeli"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "linayimirira"
+    }
+  ],
+  "timestamp": "2026-09-21T13:09:54.656626628Z",
+  "model": "glm-5.3"
+}

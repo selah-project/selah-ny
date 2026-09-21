@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 77,
+  "translation": "M'nyanja panali njira yanu, ndi mayendedwe anu m'madzi ambiri; koma zitsanzo zanu sizinadziwidwe.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "m'nyanja"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "njira yanu"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "mayendedwe anu"
+    },
+    {
+      "surface": "במים",
+      "gloss": "m'madzi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ambiri"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "zitsanzo zanu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sizinadziwidwe"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "sizinadziwidwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:03.953059519Z",
+  "model": "glm-5.3"
+}

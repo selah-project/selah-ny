@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndiye Yahwe anayankha ⟨את⟩ Iyobu kuchokera m'chipewa chankhungu, nati:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "anayankha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyobu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobu"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "kuchokera m'"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "chipewa chankhungu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    }
+  ],
+  "timestamp": "2026-09-21T11:45:43.842726455Z",
+  "model": "glm-5.3"
+}

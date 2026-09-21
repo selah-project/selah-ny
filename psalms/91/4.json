@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 91,
+  "translation": "M'phapu zake adzakuphunga iwe, ndi pansi pa mapiko ake udzawathira; choonadi chake ⟨ndi⟩ chishango ndi chitetezo.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "M'phapu zake"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "adzakuphunga iwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ndi pansi pa"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "mapiko ake"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "udzawathira"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "chishango"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "ndi chitetezo"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "choonadi chake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:06.013111801Z",
+  "model": "glm-5.3"
+}

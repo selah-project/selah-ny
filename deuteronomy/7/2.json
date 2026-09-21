@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo Yahwe Elohim wako adzawapatsa pamaso pako, ndipo uziwamenya: pha iwo onse mopatulidwa ⟨אתם⟩. Usapange ndi iwo pangano, ndipo usawachitire chifundo.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "adzawapatsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamaso pako"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "ndipo uziwamenya"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "pha iwo onse"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "mopatulidwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "upange"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ndi iwo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pangano"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo usa"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "wawachitire chifundo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:17:10.239618705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Yahwe ananena kwa Moshe: “Pita kwa anthu, ndi kuwapatula lero ndi mawa, ndipo awetse chovalo chawo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Pita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "ndi kuwapatula"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "ndi mawa"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "ndipo awetse"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "chovalo chawo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:15:03.255538148Z",
+  "model": "glm-5.3"
+}

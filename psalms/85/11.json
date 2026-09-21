@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 85,
+  "translation": "Khesedi ndi choonadi zinakumana; chilungamo ndi mtendere zinaphatikizana mwachikondi.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Khesedi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ndi choonadi"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "zinakumana"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "chilungamo"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "ndi mtendere"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "zinaphatikizana mwachikondi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:27.678707095Z",
+  "model": "glm-5.3"
+}

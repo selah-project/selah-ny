@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Chabodza cha mazabodza, anati Koheleti; chabodza cha mazabodza, zonse ndi chabodza.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Chabodza"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "cha mazabodza"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Koheleti"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "chabodza"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "cha mazabodza"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "chabodza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:02.772282935Z",
+  "model": "glm-5.3"
+}

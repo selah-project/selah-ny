@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Bululi la mwana wa mwana wako kapena mwana wa mwana wako wamkazi — sudzaulula bululi lawo, pakuti bululi lake ndi lako.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "bululi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wa mwana wako"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "wa mwana wako wamkazi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "dzaulula"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "bululi lawo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "bululi lako"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ndi lake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:39:24.548914006Z",
+  "model": "glm-5.3"
+}

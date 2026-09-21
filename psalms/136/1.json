@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 136,
+  "translation": "Yamikani Yahwe, chifukwa ndi wabwino, chifukwa kwa nthawi zonse ndi khesedi wake.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Yamikani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wabwino"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kwa nthawi zonse"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi wake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:05.592946639Z",
+  "model": "glm-5.3"
+}

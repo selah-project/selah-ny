@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Hataki anadza, nadziwitsa kwa Esteri ⟨את⟩ mawu a Mordikai.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "anadza"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hataki"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "nadziwitsa"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kwa Esteri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "a Mordikai"
+    }
+  ],
+  "timestamp": "2026-09-21T11:58:53.322264737Z",
+  "model": "glm-5.3"
+}

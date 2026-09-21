@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 84,
+  "translation": "Moyo wanga wafuula ndipo wathawa mantha n'kufuna malo a Yahwe; mtima wanga ndi thupi langa ziyimba mokondwa kwa El wamoyo.",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "wafuula"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndipo"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "wathawa mantha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Moyo wanga"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "n'kufuna malo a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "ndi thupi langa"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ziyimba mokondwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wamoyo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:18.186779290Z",
+  "model": "glm-5.3"
+}

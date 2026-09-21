@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo Yahwe adaukitsa pa Yehoram ⟨את⟩ mzimu wa Apelisiti ndi wa Aarabu, amene ali m'manja mwana ⟨za⟩ Akushi.",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "Ndipo adaukitsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mzimu wa Apelisiti ndi wa Aarabu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "wa Apelisiti"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "ndi wa Aarabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "על",
+      "gloss": "m'manja mwa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "anja"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "Akushi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:44:40.691538437Z",
+  "model": "glm-5.3"
+}

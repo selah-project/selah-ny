@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo Shemuweli anayandikitsa ⟨את⟩ mafuko onse a Yisraeli, ndipo mafuko a Benjamini anagwidwa.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "anayandikitsa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuko onse a Yisraeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "mafuko a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "anagwidwa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "lafuko la"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamini"
+    }
+  ],
+  "timestamp": "2026-09-21T08:04:17.765796978Z",
+  "model": "glm-5.3"
+}

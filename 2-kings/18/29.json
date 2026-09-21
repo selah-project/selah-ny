@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 18:29",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Mwa mmene mfumu ikunena: Chizkiyahu asakunyengere ⟨את⟩ inu, pakuti sakhoza kupulumutsa ⟨את⟩ inu m'dzanja lake.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Mwa mmene"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ikunena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asa-"
+    },
+    {
+      "surface": "ישיא",
+      "gloss": "kunyengere"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "khoza"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "kupulumutsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "m'dzanja lake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:58:15.750085582Z",
+  "model": "glm-5.3"
+}

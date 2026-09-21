@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Mpaka liti, Yahwe, ndidzafuula, ndipo simumva? Ndikupemphera kwa inu za chiwawa, ndipo simupulumutsa!",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Mpaka"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "liti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ndidzafuula"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si-"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "mumva"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "Ndikupemphera"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "chiwawa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si-"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "pulumutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:32:34.448015893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 138,
+  "translation": "Ndipo iwo adzayimba za njira za Yahwe, pakuti ulemerero wa Yahwe ndi wamkulu.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "Ndipo iwo adzayimba"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "za njira za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ulemerero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:05.130363515Z",
+  "model": "glm-5.3"
+}

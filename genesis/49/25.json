@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Kuchokera kwa El wa atate wako, amene akuthandiza iwe, ndi ⟨את⟩ Shadayi, amene adakudalitsa iwe — madalitso a kumwamba kuchokera kumwamba, madalitso a Tehomu wogona pansi, madalitso a mabeche ndi chiberekero.",
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "kuchokera kwa El"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atate wako"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "ndipo akuthandiza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Shadayi"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadayi"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "ndipo adakudalitsa"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "madalitso a"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuchokera kumwamba"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "madalitso a"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "Tehomu"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "wogona"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "madalitso a"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "mabeche"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "ndi chiberekero"
+    }
+  ],
+  "timestamp": "2026-09-21T06:07:35.993204569Z",
+  "model": "glm-5.3"
+}

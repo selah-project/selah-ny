@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 72,
+  "translation": "Pamaso pake anthu a chipululu adzagwada, ndi adani ake adzaleka dothi.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "pamaso pake"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "adzagwada"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "anthu a chipululu"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "ndi adani ake"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dothi"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "adzaleka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:49.969092639Z",
+  "model": "glm-5.3"
+}

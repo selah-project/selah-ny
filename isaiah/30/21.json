@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 30:21",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo makutu anu adzamva mawu kumbuyo kwanu, akuti: “Uyu ndiwo njira, yendani mmenemo, mukatembenukira ku manja, kapena mukatembenukira ku chavinji.”",
+  "tokens": [
+    {
+      "surface": "ואזניך",
+      "gloss": "makutu anu"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "adzamva"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "kumbuyo kwanu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akuti"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "yendani"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mmenemo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mukatembenukira"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "ku manja"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "kapena mukatembenukira"
+    },
+    {
+      "surface": "תשמאילו",
+      "gloss": "ku chavinji"
+    }
+  ],
+  "timestamp": "2026-09-21T09:13:30.617761760Z",
+  "model": "glm-5.3"
+}

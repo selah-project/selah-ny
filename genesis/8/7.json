@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndi kutuma ⟨את⟩ kwale; nachokapo, pokapoka ndi kubwerera, mpaka madzi anakomoka kuchokera pa dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ndi kutuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kwale"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kwale"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "nachokapo"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "pokapoka"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ndi kubwerera"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "anakomoka"
+    },
+    {
+      "surface": "המים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuchokera pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:38.384864046Z",
+  "model": "glm-5.3"
+}

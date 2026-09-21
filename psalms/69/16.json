@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Musandizundulire mtsinje wa madzi, ndipo musandime ndi m'madzi aakulu, ndipo kholo lisatse pakamwa patho pa ine.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "ndizundulire"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "mtsinje wa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo musa"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "ndime"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "m'madzi aakulu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "lisatse"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa ine"
+    },
+    {
+      "surface": "באר",
+      "gloss": "kholo"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "pakamwa patho"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:29.667351501Z",
+  "model": "glm-5.3"
+}

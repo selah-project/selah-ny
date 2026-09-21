@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 5:6",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo ndidzaichitira kuwonongeka; sidzadulidwa, ndiponso sidzalimidwa, koma mibanga ndi malambe adzakwera; ndipo mitambo ndidzalamulira kuti isagwetse mvula pa iyo.",
+  "tokens": [
+    {
+      "surface": "ואשיתהו",
+      "gloss": "ndidzaichitira"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "kuwonongeka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "יזמר",
+      "gloss": "dzadulidwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndiponso si"
+    },
+    {
+      "surface": "יעדר",
+      "gloss": "dzalimidwa"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "koma adzakwera"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "mibanga"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "ndi malambe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndipo pa"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "mitambo"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "ndidzalamulira"
+    },
+    {
+      "surface": "מהמטיר",
+      "gloss": "kuti isagwetse"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iyo"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "mvula"
+    }
+  ],
+  "timestamp": "2026-09-21T09:04:22.230126994Z",
+  "model": "glm-5.3"
+}

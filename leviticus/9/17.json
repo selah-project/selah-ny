@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 9:17",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo anayandikira ndi ⟨את⟩ nsembe ya mgaiwa, nadzaza dzanja lake m'menemo, nayotcha pa guwa, kupyolera pa nsembe yopsereza ya m'mawa.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "anayandikira ndi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe ya mgaiwa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "nsembe ya mgaiwa"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "nadzaza"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "nayotcha"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "kupyolera pa"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "nsembe yopsereza"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ya m'mawa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:34:26.778715931Z",
+  "model": "glm-5.3"
+}

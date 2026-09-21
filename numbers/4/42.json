@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 4:42",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo okwerengedwa a mabanja a ana a Merari, m'mabanja awo, m'nyumba za makolo awo —",
+  "tokens": [
+    {
+      "surface": "ופקודי",
+      "gloss": "Ndipo okwerengedwa"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "a mabanja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "m'mabanja awo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "m'nyumba za"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "makolo awo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:50:34.420886496Z",
+  "model": "glm-5.3"
+}

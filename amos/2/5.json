@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo ndidzatuma moto m'Yehuda, ndipo udzadya maumboni a Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ndipo ndidzatuma"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "m'Yehuda"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ndipo udzadya"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "maumboni"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:24:12.088872975Z",
+  "model": "glm-5.3"
+}

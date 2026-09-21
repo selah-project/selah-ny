@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo wosauka musam'lemekeze mkangano wake.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "ndipo wosauka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musam'-"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "lemekeze"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "mkangano wake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:18:20.131209439Z",
+  "model": "glm-5.3"
+}

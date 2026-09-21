@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Izi ndi gawo lako, mbali ya muyeso wako wochokera ⟨את⟩ kwa Ine, mawu a Yahwe, chifukwa mwaiwala ⟨את⟩ Ine, ndipo mwakhulupirira chinyengo.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Izi"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "gawo lako"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "mbali"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "ya muyeso wako"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ kwa Ine"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "mwaiwala"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ Ine",
+      "marks": "Ine (Yahwe)"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "mwakhulupirira"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "chinyengo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:34:17.478144681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo musunge ⟨את⟩ malamulo anga onse ndi ⟨את⟩ chiweruzo changa chonse, ndipo muchite ⟨את⟩ izo; ndine Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ndipo musunge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malamulo anga onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "malamulo anga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chiweruzo changa chonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chonse"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "chiweruzo changa"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ndipo muchite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ izo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:21.432282239Z",
+  "model": "glm-5.3"
+}

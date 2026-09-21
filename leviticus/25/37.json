@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "⟨את⟩ ndalama zako sadzipereka kwa iye pa malipiro a ngongole, ndipo pa maphindu sadzapereka chakudya chako.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndalama zako"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "ndalama zako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadzi-"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "-pereka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "pa malipiro a ngongole"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "ndipo pa maphindu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "-pereka"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "chakudya chako"
+    }
+  ],
+  "timestamp": "2026-09-21T06:45:26.094750369Z",
+  "model": "glm-5.3"
+}

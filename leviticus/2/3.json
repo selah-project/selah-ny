@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo chotsalira m'nsembe ya ufa chidzakhala cha Aharoni ndi ana ake; ndi chopatulika kwambiri, mwa nsembe za moto za Yahwe.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "chotsalira"
+    },
+    {
+      "surface": "מן",
+      "gloss": "m'"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "nsembe ya ufa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "cha Aharoni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ndi ana ake"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chopatulika"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "mwa nsembe za moto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "za Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:30:32.933211569Z",
+  "model": "glm-5.3"
+}

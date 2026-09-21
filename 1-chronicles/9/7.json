@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo mwa ana a Binjamini analipo Sallu mwana wa Meshulamu, mwana wa Hodavjah, mwana wa wa Senuahi.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamini"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "Sallu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Meshulamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "Hodavjah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "wa Senuahi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:26:09.974794875Z",
+  "model": "glm-5.3"
+}

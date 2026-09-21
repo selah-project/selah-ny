@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Taonani, ndikudzaukira pa iwo ⟨את⟩ a Madayi, amene siliva sayisamalira, ndiponso golide sayikonda mu iyoyi.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Taonani"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ndikudzaukira"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pa iwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Madayi"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "a Madayi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sayi-"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "sayisamalira"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ndiponso golide"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sayi-"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "sayikonda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mu iyoyi"
+    }
+  ],
+  "timestamp": "2026-09-21T09:05:46.633277059Z",
+  "model": "glm-5.3"
+}

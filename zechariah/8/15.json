@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Moteso ndinatembenuka mtima; ndinafunga m'masiku ano kuchitira zabwino ⟨את⟩ Yerushalayimu ndi ⟨את⟩ banja la Yehudahu; musopse.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Moteso"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "ndinatembenuka mtima"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "ndinafunga"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "m'masiku"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "kuchitira zabwino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "banja la Yehudahu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "banja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "la Yehudahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "musopse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:37:45.290813950Z",
+  "model": "glm-5.3"
+}

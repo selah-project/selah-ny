@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 22:8",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo chinali chakuti, pamene Yehuu ankaweruza ndi nyumba ya Ahab, anaona ⟨את⟩ atsogoleri a Yuda ndi ana a abale a Ahaziya, akutumikira Ahaziya, nawapha.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "chinali chakuti"
+    },
+    {
+      "surface": "כהשפט",
+      "gloss": "pamene ankaweruza"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehuu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ya Ahab"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atsogoleri a Yuda"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "atsogoleri"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yuda"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ndi ana"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "a abale"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "a Ahaziya"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "akutumikira"
+    },
+    {
+      "surface": "לאחזיהו",
+      "gloss": "Ahaziya"
+    },
+    {
+      "surface": "ויהרגם",
+      "gloss": "nawapha"
+    }
+  ],
+  "timestamp": "2026-09-21T12:46:01.103982686Z",
+  "model": "glm-5.3"
+}

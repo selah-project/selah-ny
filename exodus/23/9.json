@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo mlendo musamwetse, popeza inu mudziwa ⟨את⟩ moyo wa mlendo, chifukwa inu munali alendo mu dziko la Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Ndipo mlendo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musamwetse"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "musamwetse"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "mudziwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "wa mlendo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "alendo"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "munali"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:36.885579972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 75,
+  "translation": "Pakuti pamene ndidzalandira nthawi yoyikidwa, ine ndidzaweruza molunjika.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ndidzalandira"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nthawi yoyikidwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "molunjika"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "ndidzaweruza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:08.111003020Z",
+  "model": "glm-5.3"
+}

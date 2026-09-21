@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Pakuti woipa wadzikuza pa zilakolako za moyo wake, wokolera zonse nadala, nadzudzula Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "wadzikuza"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "woipa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "zilakolako"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "wokolera zonse"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "nadala"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "nadzudzula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:43.664809638Z",
+  "model": "glm-5.3"
+}

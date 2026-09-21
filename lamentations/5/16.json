@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Chikhutu cha mutu wathu chinagwa; uku, tsopano, masoka kwa ife, chifukwa ife tachimwa.",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "chinagwa"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "chikhutu"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "cha mutu wathu"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "masoka kwa ife"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa ife"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "tachimwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:54:25.027329207Z",
+  "model": "glm-5.3"
+}

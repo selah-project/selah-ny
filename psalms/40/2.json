@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndinayembekezera, ndinayembekezera Yahwe, ndipo Iye anatsinjira kwa ine, namva kuliliridwa kwanga.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Ndinayembekezera"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ndinayembekezera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "anatsinjira"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "namva"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "kuliliridwa kwanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:48.768702850Z",
+  "model": "glm-5.3"
+}

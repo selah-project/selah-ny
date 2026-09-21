@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Eliyahu anatenga ⟨את⟩ chophimba chake, nachivumbuluta, nagunda ⟨את⟩ madzi; ndipo anagawanika kuno ndi kumeneko, ndipo iwo awiri anadutsa pa maluma.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chophimba chake"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "chophimba chake"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "nachivumbuluta"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "nagunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madzi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "anagawanika"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kuno"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ndi kumeneko"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "anadutsa"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "iwo awiri"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "pa maluma"
+    }
+  ],
+  "timestamp": "2026-09-21T08:47:14.941154683Z",
+  "model": "glm-5.3"
+}

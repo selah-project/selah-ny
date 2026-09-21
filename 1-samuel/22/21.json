@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo Ebjathar anamuuza Davide kuti Shauli anapha ⟨את⟩ ansembe a Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "anamuuza"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebjathar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kwa Davide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "anapha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ansembe"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:10:43.013036944Z",
+  "model": "glm-5.3"
+}

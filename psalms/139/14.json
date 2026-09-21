@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 139,
+  "translation": "Ndidzakuyamika, chifukwa ndapangidwa mwazozizwitsa; zodabwitsa ndi ntchito zako, ndipo moyo wanga umadziwa izi kwambiri.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ndidzakuyamika"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "mwazozizwitsa"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "ndapangidwa"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "zodabwitsa"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ntchito zako"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "ndipo moyo wanga"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "umadziwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:50.233005948Z",
+  "model": "glm-5.3"
+}

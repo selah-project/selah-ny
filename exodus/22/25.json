@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ngati muwachitira chikole mvalo wa mnzako, mubweretse kwa iye kufikira kuchoka kwa dzuwa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "muwachitira"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "chikole"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "mvalo"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "wa mnzako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kuchoka"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kwa dzuwa"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "mubweretse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:17.806610283Z",
+  "model": "glm-5.3"
+}

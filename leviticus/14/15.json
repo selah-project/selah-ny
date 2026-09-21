@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo wansembe adzatenga m'logi la mafuta, nadzathira pa dzanja lake lamanzere.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "adzatenga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "m'logi la"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "nadzathira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כף",
+      "gloss": "dzanja"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "lake"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "lamanzere"
+    }
+  ],
+  "timestamp": "2026-09-21T06:37:53.234331926Z",
+  "model": "glm-5.3"
+}

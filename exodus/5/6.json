@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo Paro analamula tsiku lomwelo ⟨את⟩ atsogoleri antchito a mwa anthu aja, ndi ⟨את⟩ akapolo ake olamulira, nati:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ndipo analamula"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lomwelo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atsogoleri antchito"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "atsogoleri antchito"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "a mwa anthu aja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "akapolo ake olamulira"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "akapolo ake olamulira"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    }
+  ],
+  "timestamp": "2026-09-21T06:09:30.820095546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "Anandetsa mphamvu yanga panjira; anaphimba masiku anga.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Anandetsa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "panjira"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "mphamvu yanga"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "anaphimba"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "masiku anga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:21.079988702Z",
+  "model": "glm-5.3"
+}

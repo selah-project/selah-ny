@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 3:15",
+  "book": "zephaniah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Yahwe wachotsa chiweruzo chako, watembenuza mdani wako; mfumu ya Yisraeli, Yahwe, ali m'mkati mwanu; sudzafera choipa kenaka.",
+  "tokens": [
+    {
+      "surface": "הסיר",
+      "gloss": "wachotsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "chiweruzo chako"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "watembenuza"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "mdani wako"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ali m'mkati mwanu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "dzafera"
+    },
+    {
+      "surface": "רע",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kenaka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:34:08.133768865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Iwe ndiwe mfumu yanga, Elohim; lamulira chipulumutso cha Yaakob.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiwe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mfumu yanga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "lamulira"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "chipulumutso"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:39.960596553Z",
+  "model": "glm-5.3"
+}

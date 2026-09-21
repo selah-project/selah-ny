@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 130,
+  "translation": "Moyo wanga ndi wa Adonayi, koposa akalindira mamawa; ndithu, akalindira mamawa.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Moyo wanga"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ndi wa Adonayi"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "koposa akalindira"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "mamawa"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "ndithu, akalindira"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "mamawa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:10.274143647Z",
+  "model": "glm-5.3"
+}

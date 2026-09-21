@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 120,
+  "translation": "Nthawi yayitali munthu wanga wakhala pamodzi ndi wakudana ndi mtendere.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Nthawi yayitali"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "wakhala"
+    },
+    {
+      "surface": "לה",
+      "gloss": "—"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "munthu wanga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "wakudana ndi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mtendere"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:22.705755709Z",
+  "model": "glm-5.3"
+}

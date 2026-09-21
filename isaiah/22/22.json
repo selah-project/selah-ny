@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 22:22",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo ndidzaika chinsinsi cha nyumba ya Davide pa phewa lake; adzatseula, ndipo palibe wotseka; adzatseka, ndipo palibe wotseula.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ndidzaika"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "chinsinsi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "cha nyumba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya Davide"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "phewa lake"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "adzatseula"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "wotseka"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "adzatseka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "wotseula"
+    }
+  ],
+  "timestamp": "2026-09-21T09:09:59.989553020Z",
+  "model": "glm-5.3"
+}

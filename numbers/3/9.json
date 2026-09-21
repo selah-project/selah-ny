@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 3:9",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo udzapereka ⟨את⟩ Alevi kwa Aharoni ndi kwa ana ake; aperekedwa, aperekedwa iye mwa ⟨את⟩ ana a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "udzapereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Alevi"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kwa Aharoni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ndi kwa ana ake"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "aperekedwa"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "aperekedwa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iye"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mwa ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T06:49:54.635701224Z",
+  "model": "glm-5.3"
+}

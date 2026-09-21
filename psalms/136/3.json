@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 136,
+  "translation": "Yamikani Adonayi wa ambuye, chifukwa kwa nthawi zonse ndi khesedi wake.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Yamikani"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonayi wa"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "ambuye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "kwa nthawi zonse"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi wake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:05.593324232Z",
+  "model": "glm-5.3"
+}

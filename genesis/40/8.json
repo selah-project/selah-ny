@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 40:8",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo anamulankhula nati: “Tinalota ndoto, koma wofotokoza ⟨את⟩ iye palibe.” Ndipo Yosefu anawauza: “Kodi masuliro a ndoto sali a Elohim? Muuze ine, ndapemha.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "anamulankhula"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ndoto"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "tinalota"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "ndi wofotokoza"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "anawauza"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "kodi si"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "פתרנים",
+      "gloss": "masuliro a ndoto"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "muuze"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapemha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    }
+  ],
+  "timestamp": "2026-09-21T06:00:51.730724834Z",
+  "model": "glm-5.3"
+}

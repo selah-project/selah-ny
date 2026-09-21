@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Sanene zolakwika ndi lilime lake, sanachitire choipa mnansi wake, ndipo sananyamule manyazi pa wofanana naye.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "nene zolakwika"
+    },
+    {
+      "surface": "על",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "lilime lake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nachitire"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "mnansi wake"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "ndiponso manyazi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nanyamule"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "wofanana naye"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:55.351316683Z",
+  "model": "glm-5.3"
+}

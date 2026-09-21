@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 28:45",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo malando onse awa adzadza pa iwe, nadzakutsata, nadzakufikira ndiwe, mpaka kuwonongedwa kwako; chifukwa sunamvera mawu a Yahwe Elohim wako, kosunga malamulo ake ndi michali yake, amene anakulamulira iwe.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "adzadza"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pa iwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "הקללות",
+      "gloss": "malando"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "ורדפוך",
+      "gloss": "nadzakutsata"
+    },
+    {
+      "surface": "והשיגוך",
+      "gloss": "nadzakufikira ndiwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "kuwonongedwa kwako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "sunamvera"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kosunga"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "malamulo ake"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ndi michali yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "anakulamulira"
+    }
+  ],
+  "timestamp": "2026-09-21T07:28:31.447206585Z",
+  "model": "glm-5.3"
+}

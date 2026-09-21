@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "ndi kuti unene m'makutu mwa mwana wako ndi mwana wa mwana wako ⟨את⟩ zimene ndinachitira ku Mitsrayimu, ndi ⟨את⟩ zizindikiro zanga zimene ndinaika mwa iwo, kuti mudziwe kuti ine ndine Yahwe.”",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "ndi kuti"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "unene"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "m'makutu mwa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana wako"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ndi mwana wa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana wako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene ndinachitira ku Mitsrayimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "ndinachitira"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ku Mitsrayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zizindikiro zanga"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "zizindikiro zanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "ndinaika"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mwa iwo"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "kuti mudziwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:12:20.402182634Z",
+  "model": "glm-5.3"
+}

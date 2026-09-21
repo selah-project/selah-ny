@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 3:19",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo mudzamenya mzinda uliwonse wobzindikirira, ndi mzinda uliwonse wosankhika, ndipo mudzagwetesa mtengo uliwonse wabwino, ndipo mudzatseka akasupe onse a madzi, ndipo mundawo wabwino wonse mudzawononga ndi miyala.",
+  "tokens": [
+    {
+      "surface": "והכיתם",
+      "gloss": "ndipo mudzamenya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "uliwonse"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "wobzindikirira"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi uliwonse"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "מבחור",
+      "gloss": "wosankhika"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo uliwonse"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mtengo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wabwino"
+    },
+    {
+      "surface": "תפילו",
+      "gloss": "mudzagwetesa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo onse"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "akasupe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "a madzi"
+    },
+    {
+      "surface": "תסתמו",
+      "gloss": "mudzatseka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo wonse"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "mundawo"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "wabwino"
+    },
+    {
+      "surface": "תכאבו",
+      "gloss": "mudzawononga"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "ndi miyala"
+    }
+  ],
+  "timestamp": "2026-09-21T08:48:21.413549168Z",
+  "model": "glm-5.3"
+}

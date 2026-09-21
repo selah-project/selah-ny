@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Nthawi yobadwa, ndi nthawi yofa; nthawi yodzala, ndi nthawi yochotsa wodzalidwa.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "nthawi"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "yobadwa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ndi nthawi"
+    },
+    {
+      "surface": "למות",
+      "gloss": "yofa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nthawi"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "yodzala"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ndi nthawi"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "yochotsa"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "wodzalidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:54:59.807278819Z",
+  "model": "glm-5.3"
+}

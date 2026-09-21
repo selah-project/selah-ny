@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Pakuti mapazi awo amathamangira ku zoipa, ndipo amafuula kuthira mkazi magazi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "mapazi awo"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ku zoipa"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "amathamangira"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "ndipo amafuula"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "kuthira mkazi"
+    },
+    {
+      "surface": "דם",
+      "gloss": "magazi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:18:01.191829485Z",
+  "model": "glm-5.3"
+}

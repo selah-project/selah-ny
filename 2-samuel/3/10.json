@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "kusintha ufumu m'nyumba ya Shauli, ndi kuimiritsa ⟨את⟩ mpando wachifumu wa Davide pa Yisraeli ndi pa Yehuda, kuyambira Dani mpaka Beersheba.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "kusintha"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ufumu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "m'nyumba ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "ndi kuimiritsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpando wachifumu wa Davide"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "mpando wachifumu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa Davide"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "kuyambira Dani"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beersheba"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Beersheba"
+    }
+  ],
+  "timestamp": "2026-09-21T08:16:44.245663023Z",
+  "model": "glm-5.3"
+}

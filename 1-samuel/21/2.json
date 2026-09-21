@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 21:2",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo Davide anabwera Noba, kwa Akhimereki wansembe; ndipo Akhimereki anagwedezeka pochitirana okha ndi Davide, nati kwa iye: “Chifukwa chiyani ndiwe wekha, ndipo palibe munthu ndi ⟨את⟩ iwe?”",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "anabwera"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "Noba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Akhimereki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "anagwedezeka"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Akhimereki"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "pochitirana okha ndi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "chifukwa chiyani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "wekha"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ndipo munthu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ndi ⟨את⟩ iwe",
+      "marks": "munthu — womwe ali kufupi ndi iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:11:03.697148906Z",
+  "model": "glm-5.3"
+}

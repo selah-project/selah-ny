@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo Iye aniika kutali ndi chiwunda cha m'madzi a thanthwe, kuchokera m'thanthwe la yave; anayimiritsa mapazi anga pa thanthwe lalikulu, nakonza mayendedwe anga.",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "ananditsogolera kutali ndi"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "chiwunda"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "cha m'madzi a thanthwe"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "kuchokera m'thanthwe la"
+    },
+    {
+      "surface": "היון",
+      "gloss": "yave"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "anayimiritsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "thanthwe lalikulu"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mapazi anga"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "nakonza"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mayendedwe anga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:48.768937816Z",
+  "model": "glm-5.3"
+}

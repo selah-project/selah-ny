@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo nkhango khumi ndi ziwiiri zima komweko pa makwerero asanu, pa mbali iyi ndi pa mbali iyoyo; palibe chotere chinapangidwa kwa maufumu onse.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "ndipo ziwiiri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "nkhango"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "zima"
+    },
+    {
+      "surface": "שם",
+      "gloss": "komweko"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "asanu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "makwerero"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "pa mbali iyi"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "ndi pa mbali iyoyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "chinapangidwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chotere"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa onse"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "maufumu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:37:50.580967114Z",
+  "model": "glm-5.3"
+}

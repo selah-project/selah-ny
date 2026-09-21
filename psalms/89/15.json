@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Chilungamo ndi chiweruzo ndi maziko a mpando wachifumu wako; khesedi ndi choonadi zimasunga pamaso pako.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "chilungamo"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ndi chiweruzo"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "maziko"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "a mpando wachifumu wako"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesedi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ndi choonadi"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "zimasunga pamaso"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "pako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:10.369975944Z",
+  "model": "glm-5.3"
+}

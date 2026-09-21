@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Shelomo anatsata Ashitoreti, mulungu wa Atsidoni, ndi Milkomu, chonyansa cha Amoni.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "anatsata"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kutsata"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Ashitoreti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mulungu wa"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "Atsidoni"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ndi kutsata"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Milkomu"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "chonyansa cha"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "Amoni"
+    }
+  ],
+  "timestamp": "2026-09-21T08:38:54.868165051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 52:3",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 52,
+  "translation": "Chifukwa cha mkwiyo wa Yahwe zinachitika mu Yerushalayimu ndi mu Yuda, kufikira atawaponya ⟨אתם⟩ kuchokera pamaso pake; ndipo Tsidkiyahu anamukanira mfumu ya Babeli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "cha"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mkwiyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "zinachitika"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "mu Yerushalayimu"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ndi mu Yuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "השליכו",
+      "gloss": "atawaponya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨אתם⟩",
+      "marks": "iwo (Yerushalayimu ndi Yuda)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuchokera"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "pamaso pake"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "anamukanira"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babeli"
+    }
+  ],
+  "timestamp": "2026-09-21T09:55:00.218816487Z",
+  "model": "glm-5.3"
+}

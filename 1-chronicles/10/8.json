@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo kunatero tsiku lomwe lidza, Afelisti anadza kusuntha zovala za ⟨את⟩ akufa, napeza ⟨את⟩ Shauli ndi ⟨את⟩ ana ake amuna amene anagwa pa phiri la Giliboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kunatero"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "tsiku lomwe lidza"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "anadza"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afelisti"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "kusuntha zovala za akufa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akufa"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "akufa"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "napeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shauli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana ake amuna"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake amuna"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "amene anagwa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pa phiri la"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Giliboa"
+    }
+  ],
+  "timestamp": "2026-09-21T12:27:02.202719058Z",
+  "model": "glm-5.3"
+}

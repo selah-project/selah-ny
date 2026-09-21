@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 120,
+  "translation": "Ine ndine wa mtendere; koma pamene ndilankhula, iwo ndi a nkhondo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "wa mtendere"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "koma pamene"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ndilankhula"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ndi a nkhondo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:22.705869490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 30:26",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo ndidzafalitsa ⟨את⟩ Mitsrayimu mwa mitundu ya anthu, ndipo ndidzawathiriza ⟨את⟩ iwo m'mayiko; ndipo adzadziwa kuti ndine Yahwe.",
+  "tokens": [
+    {
+      "surface": "והפצותי",
+      "gloss": "ndipo ndidzafalitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mwa mitundu ya anthu"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "ndipo ndidzawathiriza"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "Mitsrayimu (anthu ake)"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "m'mayiko"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ndipo adzadziwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:09:07.845304634Z",
+  "model": "glm-5.3"
+}

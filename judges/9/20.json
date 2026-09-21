@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Koma ngati ayi, moto udzatuluka kwa Avimeleke, ndipo udzadya ⟨את⟩ atsogoleri a Shekemu ndi ⟨את⟩ nyumba ya Millo; ndipo moto udzatuluka kwa atsogoleri a Shekemu ndi kwa nyumba ya Millo, ndipo udzadya ⟨את⟩ Avimeleke.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Koma ngati"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "udzatuluka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "kwa Avimeleke"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ndipo udzadya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atsogoleri a Shekemu"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "atsogoleri"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "a Shekemu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyumba ya Millo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "ndipo udzatuluka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "kwa atsogoleri"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "a Shekemu"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "ndi kwa nyumba ya"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ndipo udzadya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimeleke"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleke"
+    }
+  ],
+  "timestamp": "2026-09-21T07:51:25.974940427Z",
+  "model": "glm-5.3"
+}

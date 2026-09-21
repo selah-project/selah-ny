@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "ndi ⟨את⟩ malo opereka nsembe yopsereza ndi ⟨את⟩ zida zake zonse, ndi ⟨את⟩ chotchinga ndi ⟨את⟩ pachake chake;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malo opereka nsembe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "malo opereka nsembe"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yopsereza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zida zake zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zida zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chotchinga"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "chotchinga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "pachake chake"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "pachake chake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:22:15.326017715Z",
+  "model": "glm-5.3"
+}

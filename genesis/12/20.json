@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo Paro analamula anthu za iye, ndipo anamutuma ⟨את⟩ iye, ndi ⟨את⟩ mkazi wake, ndi ⟨את⟩ zonse zimene anali nazo.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "analamula"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "za iye"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "anamutuma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "iye (Avraham)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mkazi wake"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mkazi wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zonse zimene anali nazo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "לו",
+      "gloss": "anali nazo"
+    }
+  ],
+  "timestamp": "2026-09-21T05:46:21.635615135Z",
+  "model": "glm-5.3"
+}

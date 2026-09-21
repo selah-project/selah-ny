@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 55,
+  "translation": "Ndipo ndinati: Ndani angandipatse kwa ine phiko monga la nkhunda? Ndidzawunda ndi kupumula.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ndipo ndinati"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ndani"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "angandipatse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "phiko"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "monga la nkhunda"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "Ndidzawunda"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "ndi kupumula"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:48.283356120Z",
+  "model": "glm-5.3"
+}

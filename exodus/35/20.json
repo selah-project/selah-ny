@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Ndipo gulu lonse la ana a Yisraeli linatuluka pamaso pa Moshe.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "linatuluka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "gulu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:24:14.259880620Z",
+  "model": "glm-5.3"
+}

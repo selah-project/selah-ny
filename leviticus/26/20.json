@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo mphamvu zanu zidzathela ku chopanda phindu, ndipo dziko lanu silidzapereka ⟨את⟩ zokolola zake, ndipo mitengo ya dziko silidzapereka zipatso zake.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "Ndipo zidzathela"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "ku chopanda phindu"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "mphamvu zanu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si-"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "didzapereka"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "dziko lanu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zokolola zake"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "zokolola zake"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ndipo mitengo ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "didzapereka"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "zipatso zake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:59:04.618896687Z",
+  "model": "glm-5.3"
+}

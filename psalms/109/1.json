@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "Kwa woyang'anira. Ximene mwa Davidi. Elohim wa matamando anga, usakhale chete.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ximene mwa Davidi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ximene"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "matamando anga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "khale chete"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:24.048443840Z",
+  "model": "glm-5.3"
+}

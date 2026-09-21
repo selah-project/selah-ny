@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Ndiipo adani awo anawakakamiza, nawerama m'manja mwa iwo.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "anawakakamiza"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "adani awo"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "nawerama"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "m'manja mwa"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:45.044746469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 147,
+  "translation": "Lemekezetani Yahwe, chifukwa ndi zabwino kuyimba nyimbo kwa Elohim wathu, chifukwa ndi zokondweretsa; yoyenera ndi mleketro.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "lemekezetani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ndi zabwino"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "kuyimba nyimbo"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "zokondweretsa"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "yoyenera"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "mleketro"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:02.701089401Z",
+  "model": "glm-5.3"
+}

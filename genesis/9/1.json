@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Elohim adadalitsa ⟨את⟩ Noa ndi ⟨את⟩ ana ake, nati kwa iwo: “Balani, chulukani, mudzaze ⟨את⟩ dziko lapansi.”",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "adadalitsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana ake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "balani"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "chulukani"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "mudzaze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko lapansi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:45:05.245098544Z",
+  "model": "glm-5.3"
+}

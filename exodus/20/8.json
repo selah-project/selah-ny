@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Kumbukira ⟨את⟩ tsiku la Sabata, kuti ulipatule.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Kumbukira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsiku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "la Sabata"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "kuti ulipatule"
+    }
+  ],
+  "timestamp": "2026-09-21T06:15:04.663399821Z",
+  "model": "glm-5.3"
+}

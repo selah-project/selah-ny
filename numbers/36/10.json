@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Monga momwe Yahwe adamu ⟨את⟩ Moshe, motero anakonza ana aakazi a Tselofechadi.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Monga momwe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "adamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "motero"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anakonza"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ana aakazi a"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofechadi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:12:31.903211897Z",
+  "model": "glm-5.3"
+}

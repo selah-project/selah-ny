@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "ndipo wolanda mwazi amupeza ⟨את⟩ iye kunja kwa mphaka wa mzinda wothawirako, ndipo wolanda mwazi aphе ⟨את⟩ wophayo — palibe mwazi pa iye.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "amupeza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "wophayo"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "wolanda"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "mwazi"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kunja kwa"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "mphaka wa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "wothawirako"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "aphe"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "wolanda"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "mwazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wophayo"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "wophayo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "דם",
+      "gloss": "mwazi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:12:22.000174958Z",
+  "model": "glm-5.3"
+}

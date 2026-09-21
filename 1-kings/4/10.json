@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Mwana wa Chesedi, mu Arubothi; kwa iye anali Sokoho ndi dziko lonse la Cheferi.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Mwana"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "wa Chesedi"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "mu Arubothi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "anali Sokoho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi ... lonse"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "la Cheferi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:31:02.180125658Z",
+  "model": "glm-5.3"
+}

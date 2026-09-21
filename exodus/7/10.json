@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 7:10",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo Moshe ndi Aharon analowa kwa Paro, nachita choncho, monga Yahwe anawalamulira; ndipo Aharon anaponya ⟨את⟩ ndodo yake pamaso pa Paro ndi pamaso pa atumiki ake, nakhala njoka.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ndipo analowa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ndi Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "nachita"
+    },
+    {
+      "surface": "כן",
+      "gloss": "choncho"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "anawalamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ndipo anaponya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndodo yake"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "ndodo yake"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ndi pamaso pa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "atumiki ake"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nakhala"
+    },
+    {
+      "surface": "לתנין",
+      "gloss": "njoka"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:48.689700845Z",
+  "model": "glm-5.3"
+}

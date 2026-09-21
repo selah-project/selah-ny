@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo Yahwe Elohim wako adzaika ⟨את⟩ matembero onse awa pa adani ako ndi pa odana nawe, amene anakuthamangitsa.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "adzaika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matembero onse awa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "matembero"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "adani ako"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "odana nawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "anakuthamangitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:29:30.012757905Z",
+  "model": "glm-5.3"
+}

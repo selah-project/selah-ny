@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo Khananya mneneri anatenga ⟨את⟩ cholowera chimene chinali pa khosi la Yiremiya mneneri, nachipwanya.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Khananya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mneneri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cholowera"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "cholowera"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "khosi"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "la Yiremiya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mneneri"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "nachipwanya"
+    }
+  ],
+  "timestamp": "2026-09-21T09:40:48.009779732Z",
+  "model": "glm-5.3"
+}

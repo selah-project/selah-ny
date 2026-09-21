@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 40:31",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo akuyembekezera Yahwe adzasandutsa mphamvu zawo, adzakwera ndi nthenga monga washamba; adzathamanga ndipo sadzatopa, adzayenda ndipo sadzafowoka.",
+  "tokens": [
+    {
+      "surface": "וקוי",
+      "gloss": "ndipo akuyembekezera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחליפו",
+      "gloss": "adzasandutsa"
+    },
+    {
+      "surface": "כח",
+      "gloss": "mphamvu zawo"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "adzakwera"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "nthenga"
+    },
+    {
+      "surface": "כנשרים",
+      "gloss": "monga washamba"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "adzathamanga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sadza"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": "topa"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "adzayenda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sadza"
+    },
+    {
+      "surface": "ייעפו",
+      "gloss": "fowoka"
+    }
+  ],
+  "timestamp": "2026-09-21T09:17:41.480691662Z",
+  "model": "glm-5.3"
+}

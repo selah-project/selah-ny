@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 140,
+  "translation": "Adzagwetse mifulum mwa ≤moto> pa iwo; adzawatayitsa mumoto; m'mabwalo akuya sadzaukitsanso — sadzakhazikanso.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "adzagwetse"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pa iwo"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "mifulum"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mumoto"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "adzawatayitsa"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "m'mabwalo akuya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sadzaukitsanso"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "sadzakhazikanso"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:05.493427937Z",
+  "model": "glm-5.3"
+}

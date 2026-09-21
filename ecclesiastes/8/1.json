@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndani ali monga wachenjeri, ndi ndani wodziwa kufotokoza kwamawu? Nzeru za munthu zimawalitsa nkhope yake, ndipo kukana kwa nkhope yake kudzasinthidwa.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ndani"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "monga wachenjeri"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ndi ndani"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "wodziwa"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "kufotokoza"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwamawu"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "Nzeru"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "za munthu"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "zimawalitsa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "nkhope yake"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ndipo kukana"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kwa nkhope yake"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "kudzasinthidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:14.186434567Z",
+  "model": "glm-5.3"
+}

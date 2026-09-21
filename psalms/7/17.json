@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Chisautso chake chidzabwerera pa mutu wake, ndipo pa dulu la mutu wake chiwawa chake chidzatsika.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "chidzabwerera"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "chisautso chake"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "pa mutu wake"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndipo pa"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "dulu la mutu wake"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "chiwawa chake"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "chidzatsika"
+    }
+  ],
+  "timestamp": "2026-09-21T10:39:36.268355504Z",
+  "model": "glm-5.3"
+}

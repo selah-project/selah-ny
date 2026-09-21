@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 1:15",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo zikhale zowala m'chiphadziko cha kumwamba, kuwala pa dziko lapansi; ndipo chinali chomwecho.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "zikhale"
+    },
+    {
+      "surface": "למאורת",
+      "gloss": "zowala"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "m'chiphadziko"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cha kumwamba"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "kuwala"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "chinali"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chomwecho"
+    }
+  ],
+  "timestamp": "2026-09-21T05:41:55.578918119Z",
+  "model": "glm-5.3"
+}

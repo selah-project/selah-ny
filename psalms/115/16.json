@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 115,
+  "translation": "⟨Kumwamba⟩ kumwamba ndi kwa Yahwe; koma dziko lapansi anapatsa ana a anthu.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "⟨Kumwamba⟩"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "koma dziko lapansi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anapatsa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:08.245252310Z",
+  "model": "glm-5.3"
+}

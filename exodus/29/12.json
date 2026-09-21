@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 29:12",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo udzatenga magazi a ng'ombe, ndipo udzaika pa nkhope za guwa ndi chala chako; ndipo ⟨את⟩ magazi onse udzatereka kumaziko a guwa.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "udzatenga"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "magazi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "a ng'ombe"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "udzaika"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "nkhope za guwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa"
+    },
+    {
+      "surface": "באצבעך",
+      "gloss": "ndi chala chako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "magazi onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "magazi"
+    },
+    {
+      "surface": "תשפך",
+      "gloss": "udzatereka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "maziko"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "a guwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:22:11.252416397Z",
+  "model": "glm-5.3"
+}

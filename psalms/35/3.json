@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Ndipo funani mkufu, ndipo tsekani ⟨njira⟩ kutsanza akanditsata; nena kwa moyo wanga: “Ndine chipulumutso chako.”",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "Ndipo funani"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "mkufu"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "ndipo tsekani"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kutsanza"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "akanditsata"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nena"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kwa moyo wanga"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "chipulumutso chako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ndine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:28.536981695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Wa Yuda, Nakhshoni mwana wa Aminadabu.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "Wa Yuda"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhshoni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "wa Aminadabu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:48:11.901786928Z",
+  "model": "glm-5.3"
+}

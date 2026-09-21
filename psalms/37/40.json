@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo Yahwe adawathandiza ndi kuwapulumutsa; adawapulumutsa <kwa> oipa, ndi kuwasunga, popeza anakhulupirira mwa Iye.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "Ndipo… adawathandiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "ndi kuwapulumutsa"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "adawapulumutsa"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "<kwa> oipa"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "ndi kuwasunga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "anakhulupirira"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mwa Iye"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:07.984720805Z",
+  "model": "glm-5.3"
+}

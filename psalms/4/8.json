@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Mwapatsa chimwemwe m'mtima mwanga, koposa pa nthawi imene mbewu yawo ndi vinyo wawo anachuluka.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Mwapatsa"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "chimwemwe"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "m'mtima mwanga"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "koposa pa nthawi imene"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "mbewu yawo"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "ndi vinyo wawo"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "anachuluka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:07.985578038Z",
+  "model": "glm-5.3"
+}

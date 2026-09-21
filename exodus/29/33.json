@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo adzadya izi ⟨את⟩ zimene anafodwa mwa izo, kudzaza ⟨את⟩ manja awo, kuyeretsa ⟨את⟩ iwo; koma mlendo sadzadya, chifukwa iwo ndi opatulika.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "adzadya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "anafodwa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mwa izo"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "kudzaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manja awo"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "manja awo"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "kuyeretsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "koma mlendo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dzadya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "opatulika"
+    },
+    {
+      "surface": "הם",
+      "gloss": "iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:22:28.940531175Z",
+  "model": "glm-5.3"
+}

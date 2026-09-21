@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 29:6",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo atsogoleri a makolo aja, ndi atsogoleri a mafuko a Yisraeli, ndi atsogoleri a zikwi ndi a zana, pamodzi ndi atsogoleri a ntchito ya mfumu, anadzipereka mwaufulu.",
+  "tokens": [
+    {
+      "surface": "ויתנדבו",
+      "gloss": "anadzipereka mwaufulu"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "atsogoleri a"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "makolo"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ndi atsogoleri a"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "mafuko a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ndi atsogoleri a"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "zikwi"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "ndi zana"
+    },
+    {
+      "surface": "ולשרי",
+      "gloss": "ndi atsogoleri a"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ntchito ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:36:12.443659915Z",
+  "model": "glm-5.3"
+}

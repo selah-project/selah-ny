@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 88,
+  "translation": "Mulole pemphero langa lize pamaso panu; sindikizani khutu lanu ku kulira kwanga.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "lize"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamaso panu"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "pemphero langa"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "sindikizani"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "khutu lanu"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "ku kulira kwanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:35.667984433Z",
+  "model": "glm-5.3"
+}

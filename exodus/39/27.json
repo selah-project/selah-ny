@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 39:27",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndipo anapanga ⟨את⟩ mahati a ulusi woyera, ntchito ya wosela, wa Aharoni ndi ana ake.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahati"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "mahati"
+    },
+    {
+      "surface": "שש",
+      "gloss": "a ulusi woyera"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ntchito ya"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "wosela"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "wa Aharoni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ndi ana ake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:29:34.271979444Z",
+  "model": "glm-5.3"
+}

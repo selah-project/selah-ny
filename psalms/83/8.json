@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 83,
+  "translation": "Gebalu, ndi Amoni, ndi Amaleki, Filistiyimu, pamodzi ndi okhala ku Tsori.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gebalu"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "ndi Amoni"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "ndi Amaleki"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filistiyimu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "okhala"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ku Tsori"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:34.020867258Z",
+  "model": "glm-5.3"
+}

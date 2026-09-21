@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo Avraham anaika ⟨את⟩ nkhosa zamphuno zisanu ndi zaziwiri za m'gulu, zakhe okha.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "anaika"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhosa zamphuno zisanu ndi zaziwiri"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zisanu ndi zaziwiri"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "nkhosa zamphuno"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "za m'gulu"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "zakhe okha"
+    }
+  ],
+  "timestamp": "2026-09-21T05:50:06.882806355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Nzeru ndi zabwino pamodzi ndi chakhale, ndipo ndiponso phindu kwa iwo akuona dzuwa.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "zabwino"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Nzeru"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "chakhale"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ndipo ndiponso phindu"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "kwa iwo akuona"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dzuwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:56:44.581396119Z",
+  "model": "glm-5.3"
+}

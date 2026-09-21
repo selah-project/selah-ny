@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo ndinayankhula kwa inu, koma simunamve; mudanyoza ⟨את⟩ kamva ka Yahwe, mudazama mtima, ndipo munakwera phiri.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "ndinayankhula"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma simunamve"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "simunamve"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "mudanyoza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamva ka Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kamva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "mudazama mtima"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "munakwera"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "phiri"
+    }
+  ],
+  "timestamp": "2026-09-21T13:01:19.143090045Z",
+  "model": "glm-5.3"
+}

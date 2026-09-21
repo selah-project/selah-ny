@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 22:2",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo anachita cholungama m'maso mwa Yahwe, nayanjayinga m'njira zonse za Davide atate wake, ndipo sanatembenuke kudzanja lamanja ndi kudzanja lamanzere.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ndipo anachita"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "cholungama"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "m'maso mwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nayanjayinga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "m'njira zonse... m'"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njira zonse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "za Davide"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atate wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo s(-anatembenuke)"
+    },
+    {
+      "surface": "סר",
+      "gloss": "anatembenuka"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "kudzanja lamanja"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ndi kudzanja lamanzere"
+    }
+  ],
+  "timestamp": "2026-09-21T08:59:37.304771599Z",
+  "model": "glm-5.3"
+}

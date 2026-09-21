@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo Zebuli, mkulu wa mzindawu, anamva ⟨את⟩ mawu a Gaali mwana wa Ebedi, ndipo mkwiyo wake unayaka.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "anamva"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebuli"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mkulu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wa mzindawu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "געל",
+      "gloss": "a Gaali"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "wa Ebedi"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "unayaka"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "mkwiyo wake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:51:21.734637480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Mangani nyumba mukakhalemo; mbandire minda, mudyetsane ⟨את⟩ zipatso zake.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "mangani"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "mukakhalemo"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "mbandire"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "minda"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "mudyetsane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chipatso zake"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "zipatso zake"
+    }
+  ],
+  "timestamp": "2026-09-21T13:15:49.281682366Z",
+  "model": "glm-5.3"
+}

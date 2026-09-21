@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Esteri ananena kwa Hataki, namulamulira ⟨kwa⟩ Mordikai kuti:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "kwa Hataki"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "namulamulira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordikai"
+    }
+  ],
+  "timestamp": "2026-09-21T11:58:53.322513252Z",
+  "model": "glm-5.3"
+}

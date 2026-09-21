@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "⟨את⟩ nkhosa zawo ndi ⟨את⟩ ng'ombe zawo ndi ⟨את⟩ abulu awo, ndi ⟨את⟩ zonse zili m'mzinda ndi ⟨את⟩ zonse zili kuthengo, anazitenga.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhosa zawo"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "nkhosa zawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ng'ombe zawo"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "ng'ombe zawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "abulu awo"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "abulu awo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zonse zili m'mzinda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "zili m'mzinda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zonse zili kuthengo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "zili kuthengo"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "anazitenga"
+    }
+  ],
+  "timestamp": "2026-09-21T05:58:44.436069678Z",
+  "model": "glm-5.3"
+}

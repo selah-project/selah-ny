@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 7:4",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Musakhulupirire yekha mawu a bodza, akuti: ‘Kachisi wa Yahwe, kachisi wa Yahwe, kachisi wa Yahwe — awa ndiwo.’",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "khulupirire"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yekha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "a bodza"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akuti"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "Kachisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "kachisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "kachisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "awa ndiwo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:31:02.351275213Z",
+  "model": "glm-5.3"
+}

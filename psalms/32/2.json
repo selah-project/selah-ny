@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Odala munthu amene Yahwe samuwerengera zoipa, ndipo m'mzimu mwake mulibe chinyengo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Odala"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "werengera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "עון",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo mulibe"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "m'mzimu mwake"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "chinyengo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:32.116495340Z",
+  "model": "glm-5.3"
+}

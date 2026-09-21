@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Amene anati: “Ndi lilime lathu tidzamphamvuzitsa; milomo yathu ili ⟨את⟩ ⟨ndi⟩ ife; ndani ndi mbuye wathu?”",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Amene"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "anati"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "lilime lathu"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "tidzamphamvuzitsa"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "milomo yathu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ⟨ndi⟩ ife"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "mbuye"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "wathu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:31.449800442Z",
+  "model": "glm-5.3"
+}

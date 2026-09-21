@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "La Davide. Yahwe ndiye kuwala kwanga ndi chipulumutso changa — ndidzaope ndani? Yahwe ndiye chitetezo cha moyo wanga — ndidzaopera ndani?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "La Davide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "kuwala kwanga"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "ndi chipulumutso changa"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ndidzaope"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "chitetezo"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "cha moyo wanga"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "ndidzaopera"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:04.713218938Z",
+  "model": "glm-5.3"
+}

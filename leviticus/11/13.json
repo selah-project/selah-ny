@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo ⟨את⟩ izi mudzaona kuti ndi zoletsedwa mwa mbalame; sizidyedwa, sheketu ndi izi: ⟨את⟩ haneseri, ndi ⟨את⟩ haperesi, ndi ⟨את⟩ ha'azniya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "izi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "mudzaona kuti ndi zoletsedwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "mbalame"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zidyedwa"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "sheketu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ndi izi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haneseri"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "haneseri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "haperesi"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "haperesi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ha'azniya"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "ha'azniya"
+    }
+  ],
+  "timestamp": "2026-09-21T06:33:46.700909058Z",
+  "model": "glm-5.3"
+}

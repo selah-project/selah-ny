@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 37:22",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo ndidawapanga ⟨את⟩ kukhala mtundu umodzi m'dziko, pa mapiri a Yisraeli, ndipo mfumu imodzi idzakhala kwa iwo onse mfumu; ndipo sadzakhalanso mitundu iwiri, ndipo sadzagawananso kukhala ufumu wawiri, konse.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "ndipo ndidawapanga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mtundu umodzi"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "kukhala mtundu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "umodzi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "בהרי",
+      "gloss": "pa mapiri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ndipo mfumu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imodzi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "idzakhala"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "kwa iwo onse"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sadzakhalanso"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨idzakhala⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "-nsanso"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "iwiri"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mitundu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sadzagawananso"
+    },
+    {
+      "surface": "יחצו",
+      "gloss": "kugawanitsidwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "-nsanso"
+    },
+    {
+      "surface": "לשתי",
+      "gloss": "wawiri"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ufumu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "konse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:13:35.217633690Z",
+  "model": "glm-5.3"
+}

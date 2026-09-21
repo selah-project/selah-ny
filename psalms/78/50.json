@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Adaumulira njira kukwiira kwake; sanawombole ku imfa moyo wawo, ndipo moyo wawo anamupereka kwa mataba.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "Adaumulira njira"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "njira"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "kukwiira kwake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sanawombole"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ku imfa"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ku imfa"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "moyo wawo"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "ndipo moyo wawo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kwa mataba"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "anamupereka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:45.151090378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Iye anati: “Fitikiza pansi.” Ndipo anautaya pansi, nakhala njoka; ndipo Moshe anathawa pamaso pake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "Fitikiza (utowe)"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "pansi"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "anautaya"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "pansi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nakhala"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "njoka"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "anathawa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "pamaso pake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:09:01.125146354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Pakuti tsopano ndikadatuma ⟨את⟩ dzanja langa, ndikakupha iwe ndi ⟨את⟩ anthu ako ndi dzombo, iwe unakanachotsedwa m'dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ndikadatuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzanja langa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "dzanja langa"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ iwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "anthu ako"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "anthu ako"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ndi dzombo"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "unkanachotsedwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "m'dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:11:22.163588893Z",
+  "model": "glm-5.3"
+}

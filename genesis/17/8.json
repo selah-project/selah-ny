@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 17:8",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndidzapatsa kwa iwe, ndi kwa mbewu yako ya pambuyo pako, ⟨את⟩ dziko la maulendo ako, ⟨את⟩ dziko lonse la Kenakani, kukhala cholowa chambiro, ndipo ndidzakhala kwawo Elohim.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ndidzapatsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "ndi kwa mbewu yako"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ya pambuyo pako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "la maulendo ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko lonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "la Kenakani"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "kukhala cholowa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "lambiro"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "ndidzakhala"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwawo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T05:49:51.856116566Z",
+  "model": "glm-5.3"
+}

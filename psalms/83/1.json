@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 83,
+  "translation": "Nyimbo, nsanje ya nyimbo, ya Asafu.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyimbo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nsanje ya nyimbo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asafu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:22.359563335Z",
+  "model": "glm-5.3"
+}

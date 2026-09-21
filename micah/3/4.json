@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Pamenepo adzafuula kwa Yahwe, koma sadzawayankha ⟨את⟩ iwo; ndipo adzabisa nkhope yake kwa iwo pa nthawiyo, monga momwe zoipa zachitidwa ndi ntchito zawo.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Pamenepo"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "adzafuula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma sа"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "dzawayankha"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "ndipo adzabisa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "nkhope yake"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pa nthawi"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "yo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "zoipa zachitidwa"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ndi ntchito zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:29:58.057544871Z",
+  "model": "glm-5.3"
+}

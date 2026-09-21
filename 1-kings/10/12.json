@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 10:12",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo mfumu anapanga ⟨את⟩ mitengo ya almagi kukhala chithandizo ku nyumba ya Yahwe ndi ku nyumba ya mfumu, ndi zida zakuimbira nyimbo kwa oyimba; palibe chifukwa chidadza kotere mtengo wa almagi, ndipo chinaonekere ngati kotere, mpaka tsiku lino lero.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ndipo mfumu anapanga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitengo ya almagi"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mitengo ya"
+    },
+    {
+      "surface": "האלמגים",
+      "gloss": "almagi"
+    },
+    {
+      "surface": "מסעד",
+      "gloss": "chithandizo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ku nyumba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ndi ku nyumba ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "ndi zida zakuimbira nyimbo"
+    },
+    {
+      "surface": "ונבלים",
+      "gloss": "(zida zina za kuimba)"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "kwa oyimba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "chidadza"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kotere"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mtengo wa"
+    },
+    {
+      "surface": "אלמגים",
+      "gloss": "almagi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "chinaonekere ngati kotere"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku lino"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lero"
+    }
+  ],
+  "timestamp": "2026-09-21T13:10:13.390045469Z",
+  "model": "glm-5.3"
+}

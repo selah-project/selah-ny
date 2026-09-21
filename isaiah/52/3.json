@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 52,
+  "translation": "Pakuti motero anati Yahwe: mwagulitsidwa mwaulere, ndipo si ndi ndalama mudzawombedwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "motero"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mwaulere"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "mwagulitsidwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ndi ndalama"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "mudzawombedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:23:05.216519755Z",
+  "model": "glm-5.3"
+}

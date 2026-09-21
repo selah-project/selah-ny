@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Ndipo mafupa a ansembe anawotcha pa maambire awo, nadziyeretsa ⟨את⟩ Yuda ndi ⟨את⟩ Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "Ndipo mafupa"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "a ansembe"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "anawotcha"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "maambire awo"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "nadziyeretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Yerushalayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:51:43.866462551Z",
+  "model": "glm-5.3"
+}

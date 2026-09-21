@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Kwa woyang'anira ⟨nyimbo⟩, kwa Yedutunu; nyimbo ya Davide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "kwa Yedutunu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nyimbo ⟨nyimbo⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Davide"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:53.444112715Z",
+  "model": "glm-5.3"
+}

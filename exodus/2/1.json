@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo munthu wa m'nyumba ya Levi analuta, natora mkazi wachiwiri wa m'banja la Levi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "analuta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wa m'nyumba ya"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "natora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wamkazi wa Levi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "wa Levi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:03.555156449Z",
+  "model": "glm-5.3"
+}

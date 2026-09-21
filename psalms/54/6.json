@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 54,
+  "translation": "Taona, Elohim ndi wothandiza ine; Adonayi ndi mwa owirikiza moyo wanga.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Taona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "wothandiza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "mwa owirikiza"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:07.372159783Z",
+  "model": "glm-5.3"
+}

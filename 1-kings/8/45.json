@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Mumve m'mwamba ⟨את⟩ mapemphero awo ndi ⟨את⟩ pempho lawo, ndipo udzachita chiweruzo chawo.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Mumve"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "m'mwamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapemphero awo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "mapemphero awo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "pempho lawo"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "pempho lawo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "udzachita"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "chiweruzo chawo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:37:20.727074725Z",
+  "model": "glm-5.3"
+}

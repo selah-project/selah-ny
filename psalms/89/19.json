@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 89:19",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Pakuti kwa Yahwe ndi chishango chathu, ndi Kodzera Yisraeli ndiye mfumu yathu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "chishango chathu"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "ndi Kwa Kodzera"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "mfumu yathu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:02.805888232Z",
+  "model": "glm-5.3"
+}

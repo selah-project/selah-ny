@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo masiku a Davide anayandikira kufa, ndipo adalamulira ⟨את⟩ Shelomo mwana wake, nati:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "anayandikira"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "a Davide"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "adalamulira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    }
+  ],
+  "timestamp": "2026-09-21T08:32:26.428945079Z",
+  "model": "glm-5.3"
+}

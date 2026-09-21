@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 48:2",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 48,
+  "translation": "Pakuti adzitchulira monga wa mzinda woyera, ndipo akukhulupirira pa Elohim wa Yisraeli; Yahwe Tsevaoti ndiye dzina lake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "נקראו",
+      "gloss": "adzitchulira"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndipo pa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "נסמכו",
+      "gloss": "akukhulupirira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dzina lake"
+    }
+  ],
+  "timestamp": "2026-09-21T09:20:42.332800444Z",
+  "model": "glm-5.3"
+}

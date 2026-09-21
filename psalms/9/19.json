@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Pakuti wosowa sadzaiwalidwa mpaka muyaya; chiyembekezo cha odzichepetsa sichidzaonongeka mpaka nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "mpaka muyaya"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "dzaiwalidwa"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "wosowa"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "chiyembekezo"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "cha odzichepetsa"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "sichidzaonongeka"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "mpaka nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:17.783333564Z",
+  "model": "glm-5.3"
+}

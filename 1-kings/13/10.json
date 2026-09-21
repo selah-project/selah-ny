@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo anapita njira ina, ndipo sanabwerere m'njira imene anabwera nayo ku Bet-El.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ndipo anapita"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sanabwerere"
+    },
+    {
+      "surface": "שב",
+      "gloss": "kubwerera"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "m'njira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "בא",
+      "gloss": "anabwera"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-21T08:39:32.438606431Z",
+  "model": "glm-5.3"
+}

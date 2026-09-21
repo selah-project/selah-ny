@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 116,
+  "translation": "Ndakonda, chifukwa Yahwe amamva ⟨את⟩ liwu langa, mapemphero anga.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Ndakonda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "amamva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liwu langa"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "liwu langa"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mapemphero anga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:54.001982237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 118,
+  "translation": "Kwabwino kudzitikira mwa Yahwe kusati kukhulupirira munthu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Kwabwino"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "kudzitikira"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "mwa Yahwe"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "kusati kukhulupirira"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "munthu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:04.499360836Z",
+  "model": "glm-5.3"
+}

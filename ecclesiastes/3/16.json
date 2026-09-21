@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipononso ndinaona pansi pa dzuwa: malo a chiweruzo — pompo pali zoipa; ndipo malo a chilungamo — pompo pali zoipa.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Ndipononso"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndinaona"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dzuwa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "malo a"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "chiweruzo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "pompo"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "ndipo malo a"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "chilungamo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "pompo"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "zoipa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:20.741953275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Mkate simunadye, ndi vinyo ndi zakumwa zolewa simunamwa, kuti mudziwe kuti ine ndine Yahwe Elohim wanu.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "munadye"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ndi vinyo"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ndi zakumwa zolewa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "munamwa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "mudziwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:28:45.732544373Z",
+  "model": "glm-5.3"
+}

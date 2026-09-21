@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 17:32",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo anali kuopa ⟨את⟩ Yahwe, ndipo anapanga kwa iwo, mwa otsika awo, ansembe a mabwalo apachulu; ndipo anali kuwachitira m'nyumba za mabwalo apachulu.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "anali"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "kuopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "מקצותם",
+      "gloss": "mwa otsika awo"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "ansembe a"
+    },
+    {
+      "surface": "במות",
+      "gloss": "mabwalo apachulu"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ndipo anali"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "kuwachitira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "za mabwalo apachulu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:56:50.701005576Z",
+  "model": "glm-5.3"
+}

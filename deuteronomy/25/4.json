@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Usamangire kamwa ka ng'ombe m'kusana kwake.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "mangire kamwa ka"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "m'kusana kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T07:26:04.539636707Z",
+  "model": "glm-5.3"
+}

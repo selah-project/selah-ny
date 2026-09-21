@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndiani adzakhala pa phiri la Yahwe, ndipo ndiani adzaima m'malo wake opatulika?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pa phiri la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ndipo ndiani"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "adzaima"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "m'malo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "wake opatulika"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:26.727629417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 88,
+  "translation": "Chifukwa chiyani, Yahwe, uluka moyo wanga, ubisa nkhope yako kwa ine?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "chifukwa chiyani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "uluka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ubisa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nkhope yako"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:20.934349025Z",
+  "model": "glm-5.3"
+}

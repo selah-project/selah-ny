@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 131,
+  "translation": "Yisraeli, dikirira kwa Yahwe, kuyambira tsopano mpaka kalekale.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "dikirira"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kuyambira tsopano"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kalekale"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:47.415875047Z",
+  "model": "glm-5.3"
+}

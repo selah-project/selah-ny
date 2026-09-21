@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 59,
+  "translation": "Mphamvu yanga, kwa inu ndidzayimba nyimbo; pakuti Elohim ndiye chitetezo changa, Elohim wa khesedi yanga.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Mphamvu yanga"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ndidzayimba nyimbo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "chitetezo changa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "wa khesedi yanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:53.628136255Z",
+  "model": "glm-5.3"
+}

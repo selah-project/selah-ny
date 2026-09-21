@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 15:28",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Koma ngati wayera kuchokera pa kuchuluka kwa magazi ake, adzawerenga kwa iye masiku asanu ndi awiri, ndipo pambuyo pake adzayera.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Koma ngati"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "wayera"
+    },
+    {
+      "surface": "מזובה",
+      "gloss": "kuchokera pa kuchuluka kwa magazi ake"
+    },
+    {
+      "surface": "וספרה",
+      "gloss": "adzawerenga"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "masiku asanu ndi awiri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ndipo pambuyo pake"
+    },
+    {
+      "surface": "תטהר",
+      "gloss": "adzayera"
+    }
+  ],
+  "timestamp": "2026-09-21T06:39:30.812148142Z",
+  "model": "glm-5.3"
+}

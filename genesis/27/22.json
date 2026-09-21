@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 27:22",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo Yaakob anafikirapo kwa Yitschak atate wake; ndipo anamukhudza, nati: “Mawu ⟨ndi⟩ mawu a Yaakob, koma manja ⟨ndi⟩ manja a Esav.”",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "anafikirapo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atate wake"
+    },
+    {
+      "surface": "וימשהו",
+      "gloss": "anamukhudza"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "והידים",
+      "gloss": "koma manja"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "manja a"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-09-21T05:53:50.011340936Z",
+  "model": "glm-5.3"
+}

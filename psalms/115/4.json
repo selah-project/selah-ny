@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 115,
+  "translation": "Mafano awo ⟨ndi⟩ siliva ndi golide, ntchito ya manja a anthu.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "Mafano awo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ndi golide"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ya manja"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:33.392976180Z",
+  "model": "glm-5.3"
+}

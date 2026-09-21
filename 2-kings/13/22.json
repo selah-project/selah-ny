@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo Khazaeli, mfumu ya Aramu, anakakamiza ⟨את⟩ Yisraeli masiku onse a Yehoahazi.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Ndipo Khazaeli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ya Aramu"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "anakakamiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "masiku a"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahazi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:54:02.787151874Z",
+  "model": "glm-5.3"
+}

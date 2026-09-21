@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Yahwe ndiye mphamvu yawo, ndiponso malire a chipulumutso cha Mashiya wake iye.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mphamvu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "yawo"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "malire a"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "chipulumutso cha"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiya wake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:34.882914487Z",
+  "model": "glm-5.3"
+}

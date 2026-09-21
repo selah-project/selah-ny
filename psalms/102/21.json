@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 102:21",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "Kumva kulira kwa wotsekedwa, kuti atulutse ana a imfa;",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "kumva"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "kulira"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "wa wotsekedwa"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "kuti atulutse"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "a imfa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:21.079437050Z",
+  "model": "glm-5.3"
+}

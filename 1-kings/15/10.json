@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Anamulira ku Yerushalayimu makumi anayi ndi chaka chimodzi; dzina la mai wake linali Maakaha, mwana wa Avishalomi.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "makumi anayi"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "ndi chimodzi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "chaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "anamulira"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ku Yerushalayimu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dzina la"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mai wake"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakaha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avishalomi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:41:41.359497960Z",
+  "model": "glm-5.3"
+}

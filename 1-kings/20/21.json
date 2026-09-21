@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo mfumu ya Yisraeli inatuluka, ndipo inamenya ⟨את⟩ mahachi ndi ⟨את⟩ magalomongolo, ndipo inamenya mu Aramu menya ndi kuukulu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "inatuluka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "inamenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahachi"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "mahachi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "magalomongolo"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "magalomongolo"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "inamenya mu"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "menya"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ndi kuukulu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:44:49.595829899Z",
+  "model": "glm-5.3"
+}

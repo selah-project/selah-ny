@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 83,
+  "translation": "Amene anati: Tipange kulanda kwa ife ⟨את⟩ malo a kusakaza ziweto a Elohim.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Amene"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "anati"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "Tipange kulanda"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa ife"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malo a kusakaza ziweto a Elohim"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "malo a kusakaza ziweto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:43.156184179Z",
+  "model": "glm-5.3"
+}

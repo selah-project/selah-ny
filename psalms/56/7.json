@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 56,
+  "translation": "Amadikirira pamodzi, abisala; iwo amayang'anira mapazi anga; monga momwe anayembekezera moyo wanga.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "Amadikirira pamodzi"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "abisala"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "mapazi anga"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "amayang'anira"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "anayembekezera"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:44.969600240Z",
+  "model": "glm-5.3"
+}

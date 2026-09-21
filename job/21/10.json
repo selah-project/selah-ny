@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 21:10",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ng'ombe yake yachimuna imabala, ndipo sagwa; ng'ombe yake yikulu yakazi imasalira, ndipo siwathyoka.",
+  "tokens": [
+    {
+      "surface": "שורו",
+      "gloss": "Ng'ombe yake yachimuna"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "imabala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sa-"
+    },
+    {
+      "surface": "יגעל",
+      "gloss": "gwa"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "imasalira"
+    },
+    {
+      "surface": "פרתו",
+      "gloss": "ng'ombe yake yikulu yakazi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si-"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "wathyoka"
+    }
+  ],
+  "timestamp": "2026-09-21T11:37:44.544990785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Odala munthu amene anayika Yahwe kukhala chikhulupiriro chake, ndipo sanatembere ku odzikuza, ndi osocherera ku bodza.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "odala"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "שם",
+      "gloss": "anayika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "kukhala chikhulupiriro chake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sanatembere"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "kutembere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "odzikuza"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "ndi osocherera"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ku bodza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:35.050894231Z",
+  "model": "glm-5.3"
+}

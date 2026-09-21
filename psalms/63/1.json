@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 63,
+  "translation": "Nyimbo ya Davide, pamene anali ku chilengalenga cha Yehuda.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Davide"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "pamene anali"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ku chilengalenga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "cha Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:18.526347299Z",
+  "model": "glm-5.3"
+}

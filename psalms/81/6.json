@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 81,
+  "translation": "Umboni mwa Yehosefe adaumika poti ⟨iye⟩ adatuluka pa dziko la Mitsrayimu; mawu osadziwa ndinamva.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "Umboni"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "mwa Yehosefe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "adaumika"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "poti adatuluka"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "osa-"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "dziwa"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ndinamva"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:49.231272799Z",
+  "model": "glm-5.3"
+}

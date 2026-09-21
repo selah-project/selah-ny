@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 101,
+  "translation": "Ndidzachita化疗 molunjika m'njira yopanda chilema; liti mudzadza kwa ine? Ndidzayenda m'chilungamo cha mtima wanga, mkati mwa nyumba yanga.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "ndidzachita bwino"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "m'njira"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "yopanda chilema"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "liti"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "mudzadza"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "ndidzayenda"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "m'chilungamo"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "cha mtima wanga"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mkati mwa"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "nyumba yanga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:00.209838020Z",
+  "model": "glm-5.3"
+}

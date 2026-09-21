@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Atumize thandizo lako chochokera m'malo opatulika, ndipo kuchokera ku Tsiyoni akulimbikitse.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Atumize"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "thandizo lako"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "chochokera m'malo opatulika"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "ndipo kuchokera ku Tsiyoni"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "akulimbikitse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:25.617760088Z",
+  "model": "glm-5.3"
+}

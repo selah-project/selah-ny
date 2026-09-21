@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 139,
+  "translation": "Chidziwitso chake chili chodabwitsa kwa ine, chili kumwamba kwambiri; sindingathe kufikira.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "chodabwitsa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "chidziwitso"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "chili kumwamba kwambiri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ndingathe"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kufikira"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:23.518146632Z",
+  "model": "glm-5.3"
+}

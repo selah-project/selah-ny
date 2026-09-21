@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Khale khesedi kako, Yahwe, pa ife, monga momwe tinayembekezera mwa iwe.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "khale"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedi kako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "pa ife"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "tinayembekezera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mwa iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:29.031410416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 147,
+  "translation": "Imbirani kwa Yahwe ndi chiyamiko; imbirani kwa Elohim wathu ndi kinora.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Imbirani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ndi chiyamiko"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "imbirani"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "kwa Elohim wathu"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ndi kinora"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:16.424059929Z",
+  "model": "glm-5.3"
+}

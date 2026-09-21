@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 83,
+  "translation": "Elohim, usakhale chete ⟨kwa iwe⟩, usabise, ndipo usakhale chete, El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "khale chete"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "bise"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndipo usa"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "khale chete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:16.638454127Z",
+  "model": "glm-5.3"
+}

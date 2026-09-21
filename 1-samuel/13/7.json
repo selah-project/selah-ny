@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo Ahebri anadutsa ⟨את⟩ Yordeni, ku dziko la Gadi ndi Giladi; ndipo Shauli anali chakale ku Gilgali, ndipo anthu onse anachita mantha pambuyo pake ⟨akumutsata⟩.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Ndipo Ahebri"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "anadutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yordeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordeni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ku dziko la"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "ndi Giladi"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ndipo Shauli"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "anali chakale"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "ku Gilgali"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo onse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "anachita mantha"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pambuyo pake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:03:54.815020791Z",
+  "model": "glm-5.3"
+}

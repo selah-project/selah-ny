@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Naarahi anamubereka ⟨את⟩ Ahuzamu ndi ⟨את⟩ Hefere ndi ⟨את⟩ Temeni ndi ⟨את⟩ Ahashhtari; awa ndi ana a Naarahi.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "anamubereka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahuzamu"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Ahuzamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Hefere"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Hefere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Ahashhtari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Ahashhtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarahi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:23:50.562336404Z",
+  "model": "glm-5.3"
+}

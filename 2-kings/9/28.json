@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo akapolo ake anamulalikira ⟨אתו⟩ ku Yerushalayimu, namukhanda ⟨אתו⟩ m'manda mwake, pamodzi ndi makolo ake, mu mzinda wa Dawidi.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "anamulalikira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iye (Achazia)"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "akapolo ake"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "ku Yerushalayimu"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "namukhanda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iye (Achazia)"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "m'manda mwake"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "makolo ake"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mu mzinda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-21T13:10:56.796236482Z",
+  "model": "glm-5.3"
+}

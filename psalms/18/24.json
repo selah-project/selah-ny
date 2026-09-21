@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo ndinakhala wamphamvuyonse ndi Iye, ndipo ndinasunga mtima wanga kuchoka pa mphulupulu zanga.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "Ndipo ndinakhala"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "wamphamvuyonse"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndi Iye"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "ndipo ndinasunga mtima wanga"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "kuchoka pa mphulupulu zanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:12.202280901Z",
+  "model": "glm-5.3"
+}

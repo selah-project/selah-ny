@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Mphepo yodzaza kuchokera m'menewa idzadza kwa Ine; tsopano Inenso ndidzalankhula chiweruzo ndi ⟨את⟩ iwo.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "mphepo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "yodzaza"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "kuchokera m'menewa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "idzadza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa Ine"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Inenso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ndidzalankhula"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "chiweruzo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:15:47.958885293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 53,
+  "translation": "Kodi ochita zoipa sadziwa? Akadya anthu ⟨את⟩ afa monga akadya mkate; Elohim sanaimbe.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "kodi…sadi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "sadziwa"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ochita"
+    },
+    {
+      "surface": "און",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "akadya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "anthu afa"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "akadya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-\/san-"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "imbe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:19.339241463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Pita kwa chiswe, iwe wosachedwa; penya njira zake, ndipo khala wachenjera.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Pita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "chiswe"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "iwe wosachedwa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "penya"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "njira zake"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ndipo khala wachenjera"
+    }
+  ],
+  "timestamp": "2026-09-21T11:19:39.442107418Z",
+  "model": "glm-5.3"
+}

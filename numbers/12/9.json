@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo mkwiyo wa Yahwe unayaka pa iwo, nipo anachoka.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "unayaka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mkwiyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pa iwo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "anachoka"
+    }
+  ],
+  "timestamp": "2026-09-21T06:57:14.328841826Z",
+  "model": "glm-5.3"
+}

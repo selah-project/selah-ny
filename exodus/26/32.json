@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 26:32",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo udzaiika ⟨את⟩ pa mipando inayi ya mtengo wa shiti, yofundiwa golide, ndipo mahomwe awo ndi agolide, pa maziko anayi a siliva.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Ndipo udzaiika"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "(-iyo, chiphadziko)"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "inayi"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "mipando"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ya mtengo wa shiti"
+    },
+    {
+      "surface": "מצפים",
+      "gloss": "yofundiwa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "וגויהם",
+      "gloss": "ndipo mahomwe awo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "agolide"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "anayi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "maziko"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "a siliva"
+    }
+  ],
+  "timestamp": "2026-09-21T06:20:52.846224653Z",
+  "model": "glm-5.3"
+}

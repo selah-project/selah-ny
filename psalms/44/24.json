@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Dzukani! Chifukwa chiyani mukugona, Adonayi? Aukitsani! Musatichotse ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Dzukani"
+    },
+    {
+      "surface": "למה",
+      "gloss": "chifukwa chiyani"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "mukugona"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Aukitsani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musati"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "chotse"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ku nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:49.823903162Z",
+  "model": "glm-5.3"
+}

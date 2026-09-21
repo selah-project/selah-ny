@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Mfumu ya Yisraeli inati kwa Elisha, pamene anaona ⟨את⟩ ⟨אותם⟩: “Atate wanga, kodi ndiwaomenya? kodi ndiwaomenya?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "inati"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "pamene anaona"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "kodi ndiwaomenya?"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "kodi ndiwaomenya?"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atate wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T08:49:01.246575759Z",
+  "model": "glm-5.3"
+}

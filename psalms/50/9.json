@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 50,
+  "translation": "Sindidzalandira mphati yam'nyumba yako, kapena mbuzi amuna m'zera zako.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sindi-"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "dzalandira"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "m'nyumba yako"
+    },
+    {
+      "surface": "פר",
+      "gloss": "mphati"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "m'zera zako"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "mbuzi amuna"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:12.509892004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Pakuti anamwaza ⟨את⟩ mzimu wake, ndipo iye ananena mosaganira ndi milomo yake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "anamwaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mzimu wake"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "mzimu wake"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "ananena mosaganira"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "ndi milomo yake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:55.007383760Z",
+  "model": "glm-5.3"
+}

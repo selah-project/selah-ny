@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 45,
+  "translation": "Ndipo mwana wamkazi wa Tsori ⟨adza⟩ ndi mphoto; olemera a mwa anthu adzapempha pamaso pako.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Ndipo mwana wamkazi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "wa Tsori"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "ndi mphoto"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "pamaso pako"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "adzapempha"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "olemera"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a mwa anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:36.870201071Z",
+  "model": "glm-5.3"
+}

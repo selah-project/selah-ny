@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndiye adazunza ⟨את⟩ Tofeti, ilipo m'mboni za ana a Hinomu, kuti munthu asadutitse ⟨את⟩ mwana wake wamwamuna ndi ⟨את⟩ mwana wake wamkazi m'moto ku Moleki.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "adazunza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofeti"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofeti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ili"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "m'mboni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a ana a"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinomu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kuti asa"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "dadutitse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wake wamwamuna"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake wamwamuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mwana wake wamkazi"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "mwana wake wamkazi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "m'moto"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ku Moleki"
+    }
+  ],
+  "timestamp": "2026-09-21T09:00:06.176362148Z",
+  "model": "glm-5.3"
+}

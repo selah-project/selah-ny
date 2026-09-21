@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 28:15",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo upange chophimba cha chiweruzo, ntchito ya wosewera ntchito; monga ntchito ya efode upange ⟨את⟩ chacho; za golide, wa bululu, ndi wofiira wakuda, ndi wofiira wowirikiza, ndi kanje yakhotakhota upange ⟨את⟩ chacho.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ndipo upange"
+    },
+    {
+      "surface": "חשן",
+      "gloss": "chophimba"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "cha chiweruzo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "ya wosewera ntchito"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "monga ntchito"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "ya efode"
+    },
+    {
+      "surface": "תעשנו",
+      "gloss": "upange"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "za golide"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "wa bululu"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ndi wofiira wakuda"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ndi wofiira wowirikiza"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wofiira wowirikiza"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ndi kanje"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "yakhotakhota"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "upange"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chacho (chophimba)"
+    }
+  ],
+  "timestamp": "2026-09-21T06:21:47.199741183Z",
+  "model": "glm-5.3"
+}

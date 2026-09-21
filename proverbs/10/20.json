@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Lilime la wolungama ndi siliva yosankhika, koma mtima wa oipa uli ndi mtengo wochepa.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "yosankhika"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lilime"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wa wolungama"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wa oipa"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "mtengo wochepa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:21:03.100233496Z",
+  "model": "glm-5.3"
+}

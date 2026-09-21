@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Hasatani anayankha ⟨את⟩ Yahwe, nati: “Khungo chifukwa cha khungo, ndipo zonse zili kwa munthu adzapereka chifukwa cha moyo wake.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "anayankha"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Hasatani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "עור",
+      "gloss": "khungo"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "עור",
+      "gloss": "khungo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zili"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kwa munthu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "adzapereka"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moyo wake"
+    }
+  ],
+  "timestamp": "2026-09-21T13:29:51.964174449Z",
+  "model": "glm-5.3"
+}

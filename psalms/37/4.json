@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo kondwerera ndi Yahwe, ndipo adzakupatsa zopempha za mtima wako.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "kondwerera"
+    },
+    {
+      "surface": "על",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "adzakupatsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "zopempha"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "za mtima wako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:33.559933894Z",
+  "model": "glm-5.3"
+}

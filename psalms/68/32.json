@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 68,
+  "translation": "Olemera adzafika kuchokera ku Mitsrayimu; Kush adzathamangitsa manja ake kwa Elohim.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "adzafika"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "Olemera"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kuchokera"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ku Mitsrayimu"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "adzathamangitsa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "manja ake"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:58.405072759Z",
+  "model": "glm-5.3"
+}

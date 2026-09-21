@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Iwe udziwa kunyozedwa kwanga ndi manyazi anga ndi kuchititsa manyazi kwanga; pamaso pako onse odani anga.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "udziwa"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "kunyozedwa kwanga"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "ndi manyazi anga"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "ndi kuchititsa manyazi kwanga"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "pamaso pako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "odani anga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:54.982270495Z",
+  "model": "glm-5.3"
+}

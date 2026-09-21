@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo Balaki mwana wa Tsipori anaona ⟨את⟩ zonse zimene Yisraeli anachita kwa Aemori.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "wa Tsipori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anachita"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "kwa Aemori"
+    }
+  ],
+  "timestamp": "2026-09-21T07:03:58.780782073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Tsopano lo, lembani pa chidebwe ⟨את⟩ iwo, ndipo m'buku lemberani; ndipo izi zikhale cha tsiku lomaliza, kosatha mpaka nthawi zosatha.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "lo"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "lembani"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "chidebwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndipo m'"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buku"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "lemberani"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ndipo zikhale"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "cha tsiku"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "lomaliza"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kosatha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nthawi zosatha"
+    }
+  ],
+  "timestamp": "2026-09-21T09:13:54.583627170Z",
+  "model": "glm-5.3"
+}

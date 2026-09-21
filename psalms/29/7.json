@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Mawu a Yahwe amadula ziliwa za moto.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "amadula"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "ziliwa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "za moto"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:24.389871862Z",
+  "model": "glm-5.3"
+}

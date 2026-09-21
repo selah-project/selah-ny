@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Pangano langa sindiliwononga, ndi zimene zikatuluka m'milomo yanga sizindizindulitsa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sindi"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "liwononga"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Pangano langa"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "ndi zimene zikatuluka"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "m'milomo yanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sizi"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "ndizindulitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:53.258634868Z",
+  "model": "glm-5.3"
+}

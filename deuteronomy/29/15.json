@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Pakuti inu mudziwa zimene tinaikhala m'dziko la Mitsrayimu, ndi zimene tinadutsa pakati pa anthu a mitundu, amene inu mudawadutsa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "mudziwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene tinaikhala m'dziko la Mitsrayimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "tinaikhala"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zimene tinadutsa pakati pa anthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "tinadutsa"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "anthu a mitundu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "mudawadutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:28:36.241459758Z",
+  "model": "glm-5.3"
+}

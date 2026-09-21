@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Ndipo anati kwa ine: Wembeni wanga ndiwe iwe, Yisraeli, amene mwa iwe ndidzadzikuza.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Wembeni wanga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ndiwe iwe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mwa iwe"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "ndidzadzikuza"
+    }
+  ],
+  "timestamp": "2026-09-21T09:21:07.393893987Z",
+  "model": "glm-5.3"
+}

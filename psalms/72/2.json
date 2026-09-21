@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 72,
+  "translation": "Adzaweruza anthu ako m'chilungamo, ndi osauka ako m'chilamulo.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "adzaweruza"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "anthu ako"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "m'chilungamo"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "ndi osauka ako"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "m'chilamulo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:44.035224198Z",
+  "model": "glm-5.3"
+}

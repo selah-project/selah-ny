@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 3:8",
+  "book": "ruth",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo chinali choitika m'chimake cha usiku, ndipo mwamunayo anagwedezeka natembenuka; ndipo taona, mkazi anali ali kugona pa mapazi ake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "chinali choitika"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "m'chimake"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "cha usiku"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "anagwedezeka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mwamunayo"
+    },
+    {
+      "surface": "וילפת",
+      "gloss": "natembenuka"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "anali ali kugona"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "pa mapazi ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:50:41.296264951Z",
+  "model": "glm-5.3"
+}

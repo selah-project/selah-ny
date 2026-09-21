@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 130,
+  "translation": "Ngati ulonda mphulupulu, Yah, Adonayi, ndani angayime?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "mphulupulu"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ulonda"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "angayime"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:05.477987436Z",
+  "model": "glm-5.3"
+}

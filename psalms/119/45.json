@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ndipo ndidzayenda m'malo aakulu, popeza ndasanthula ziyenero zanu.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "ndipo ndidzayenda"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "m'malo aakulu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ziyenero zanu"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ndasanthula"
+    }
+  ],
+  "timestamp": "2026-09-21T11:10:29.237174806Z",
+  "model": "glm-5.3"
+}

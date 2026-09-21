@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 82,
+  "translation": "Ine ndinati: “Inu ndinu Elohim, ndipo nonse ndinu ana a Elyoni.”",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndinati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ndipo ana a"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoni"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "nonse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:15.023798896Z",
+  "model": "glm-5.3"
+}

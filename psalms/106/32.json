@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Ndipo anamkwiitsa pa madzi a Meribaha, ndipo zinthu zinayamba kumva Moshe chifukwa cha iwo.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "anamkwiitsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "madzi a"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meribaha"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "zinthu zinayamba kumva"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "chifukwa cha iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:00.974050407Z",
+  "model": "glm-5.3"
+}

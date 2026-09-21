@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo zinali choncho: pamene ufumu wa Rehoboamu ukhazikika ndi pamene iye analimbika, iye anasiya ⟨את⟩ Tora ya Yahwe, ndi Yisraeli wonse pamodzi ndi iye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo zinali choncho"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "pamene ukhazikika"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ufumu"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehoboamu"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "ndi pamene iye analimbika"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "anasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi wonse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamodzi ndi iye"
+    }
+  ],
+  "timestamp": "2026-09-21T12:40:34.911974557Z",
+  "model": "glm-5.3"
+}

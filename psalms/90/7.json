@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 90,
+  "translation": "Pakuti ife tatha m'mkunthi mwako, ndi m'kwiyo mwako tazunzidwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "ife tatha"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "m'mkunthi mwako"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "ndi m'kwiyo mwako"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "tazunzidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:32.524123841Z",
+  "model": "glm-5.3"
+}

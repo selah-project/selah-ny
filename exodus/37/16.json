@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 37:16",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo anapanga ⟨את⟩ zida zomwe zili pa tebulo: ⟨את⟩ mbale zake, ndi ⟨את⟩ zikhwanu zake, ndi ⟨את⟩ zidebe zake, ndi ⟨את⟩ zophimba zomwe zimathiramo m'menemo — golide yoyera.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zida"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "zida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zomwe zili"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tebulo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbale zake"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "mbale zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "כפתיו",
+      "gloss": "zikhwanu zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "מנקיתיו",
+      "gloss": "zidebe zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "הקשות",
+      "gloss": "zophimba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zomwe"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "zimathiramo"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "yoyera"
+    }
+  ],
+  "timestamp": "2026-09-21T06:27:54.914582053Z",
+  "model": "glm-5.3"
+}

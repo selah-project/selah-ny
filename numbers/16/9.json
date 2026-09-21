@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 16:9",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Kodi n'zochepa kwa inu kuti Elohim wa Yisraeli anasiyanitsani ⟨את⟩ inu m'gulu la Yisraeli, kukuyandikitsani ⟨את⟩ inu kwa iye, kuchitira ⟨את⟩ ntchito ya chihema cha Yahwe, ndi kuyimirira pamaso pa gulu, kuwatumikira iwo?",
+  "tokens": [
+    {
+      "surface": "המעט",
+      "gloss": "Kodi n'zochepa"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "anasiyanitsani"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "m'gulu la Yisraeli"
+    },
+    {
+      "surface": "מעדת",
+      "gloss": "m'gulu la"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "kukuyandikitsani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "kwa iye"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kuchitira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntchito"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ya chihema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "cha Yahwe"
+    },
+    {
+      "surface": "ולעמד",
+      "gloss": "ndi kuyimirira"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "gulu"
+    },
+    {
+      "surface": "לשרתם",
+      "gloss": "kuwatumikira iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:59:55.704219967Z",
+  "model": "glm-5.3"
+}

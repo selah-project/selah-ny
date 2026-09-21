@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo Yahwe adatumiza mwa anthuwo ⟨את⟩ njoka zotentha, ndipo zinulumiza ⟨את⟩ anthuwo, ndipo anthu ambiri a ku Yisraeli anafa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "adatumiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "mwa anthuwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njoka zotentha"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "njoka"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "zotentha"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "zinulumiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthuwo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthuwo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "anafa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ambiri"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "a ku Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T12:59:26.668413238Z",
+  "model": "glm-5.3"
+}

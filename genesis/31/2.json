@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo Yaakov anaona ⟨את⟩ nkhope ya Lavan, ndipo taona, sinali ndi iye monga dzana ndi m'mawa umene ulipo kale.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhope"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ya Lavan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ndipo taona"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "sinali"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndi iye"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "monga dzana"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ndi m'mawa umene ulipo kale"
+    }
+  ],
+  "timestamp": "2026-09-21T05:56:36.534655460Z",
+  "model": "glm-5.3"
+}

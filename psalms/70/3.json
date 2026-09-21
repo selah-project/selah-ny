@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 70,
+  "translation": "Achite manyazi ndi kunyozedwa, iwo akufunafuna moyo wanga; abwerere m'mbuyo ndi kuchititsidwa manyazi, iwo akondwera ndi kuvutika kwanga.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "achite manyazi"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ndi kunyozedwa"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "akufunafuna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "abwerere"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "m'mbuyo"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ndi kuchititsidwa manyazi"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "akondwera ndi"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "kuvutika kwanga"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:00.908073138Z",
+  "model": "glm-5.3"
+}

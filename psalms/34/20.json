@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Zoipa za wolungama nzambiri, koma Yahwe adzamupulumutsa mwa zonsezo.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "nzambiri"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "za wolungama"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "koma mwa zonsezo"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "adzamupulumutsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:02.726586060Z",
+  "model": "glm-5.3"
+}

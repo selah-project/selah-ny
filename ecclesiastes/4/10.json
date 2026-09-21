@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Chifukwa ngati ⟨iya⟩ agwa, mmodzi adzamuimiritsa ⟨את⟩ mnzake; koma ngati mmodziyo agwa, ndipo palibe wachiwiri womuumiritsa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chifukwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "agwa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mmodzi"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "adzamuimiritsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mnzake"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "mnzake"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "koma ngati"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mmodziyo"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "agwa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wachiwiri"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "womuumiritsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:54:58.922450663Z",
+  "model": "glm-5.3"
+}

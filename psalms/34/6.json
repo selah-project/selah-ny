@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 34,
+  "translation": "Anayang'ana kwa iye, nakuwala, ndipo nkhope zawo zisanachitidwe manyazi.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Anayang'ana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "nakuwala"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "nkhope zawo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "zisanachitidwe manyazi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:41.027960744Z",
+  "model": "glm-5.3"
+}

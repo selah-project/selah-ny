@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Yahwe Elohim wanu wakuonjezani ⟨את⟩ inu; ndipo taonani, lero inu muli ngati nyenyezi za kumwamba, kuchuluka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "wakuonjezani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "ndipo taonani inu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "ngati nyenyezi za"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "kuchuluka"
+    }
+  ],
+  "timestamp": "2026-09-21T07:12:37.914904937Z",
+  "model": "glm-5.3"
+}

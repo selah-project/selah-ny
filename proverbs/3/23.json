@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Pamenepo udzayenda mokhulupirika njira yako, ndipo kutyoko kwako sikudzaigwa.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "pamenepo"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "udzayenda"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "mokhulupirika"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "njira yako"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "ndipo kutyoko kwako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "-kudzaigwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:54.024017939Z",
+  "model": "glm-5.3"
+}

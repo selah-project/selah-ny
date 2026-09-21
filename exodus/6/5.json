@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndiponso ine ndinamva ⟨את⟩ liliro la ana a Yisraeli, amene a Mitsrayimu akuwatengera iwo ⟨את⟩ kuukapolo, ndipo ndinakumbukira ⟨את⟩ pangano langa.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndinamva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liliro la ana a Yisraeli"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "liliro"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "akuwatengera kuukapolo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "ndinakumbukira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangano langa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "pangano langa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:09:55.918727440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Mphepo imayenda ku m'mwera, ndipo imazungulira ku mpoto; imazungulira, imazungulira, imayenda mphepo; ndipo pa mazente ake mphepo imabwerera.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "imayenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "m'mwera"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "ndipo imazungulira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "mpoto"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "imazungulira"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "imazungulira"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "imayenda"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "mphepo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndipo pa"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "mazente ake"
+    },
+    {
+      "surface": "שב",
+      "gloss": "imabwerera"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "mphepo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:56:07.912077818Z",
+  "model": "glm-5.3"
+}

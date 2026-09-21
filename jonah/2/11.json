@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Yahwe ananena kwa nsomba, ndipo inayo anatulutsa ⟨את⟩ Yona ku dziko louma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo ananena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "kwa nsomba"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "ndipo anatulutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "dziko louma"
+    }
+  ],
+  "timestamp": "2026-09-21T10:28:21.050106599Z",
+  "model": "glm-5.3"
+}

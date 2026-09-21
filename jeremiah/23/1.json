@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Tsoka kwa abusa olakwitsa ndi kufalitsa ⟨את⟩ nkhosa za danga langa, ndime ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Tsoka kwa"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "abusa"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "olakwitsa"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "ndi kufalitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhosa"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "za danga langa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ndime ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T09:38:03.123229995Z",
+  "model": "glm-5.3"
+}

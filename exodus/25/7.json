@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "mwala wa shohamu, ndi miyala yofuna pa efodi ndi pa chikhazi.",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "mwala wa"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shohamu"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ndi miyala"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "yofuna"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "pa efodi"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "ndi pa chikhazi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:19:20.806887001Z",
+  "model": "glm-5.3"
+}

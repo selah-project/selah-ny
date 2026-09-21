@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Koma kawirikwiri sako kumkati kwa chiphadzuwa, ndiponso sayandikira pa nsembe, chifukwa chimwemwe chili m'iye; sadzaipweteka ⟨את⟩ malo anga opatulika; chifukwa ine ndine Yahwe, amene ndimapatulika iwo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "koma kawirikwiri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kumkati kwa"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "chiphadzuwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ko kulowa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndiponso ku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "yandikira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "מום",
+      "gloss": "chimwemwe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "m'iye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sadzai-"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "pweteka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malo anga opatulika"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "malo anga opatulika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "ndimapatulika iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:16.584730451Z",
+  "model": "glm-5.3"
+}

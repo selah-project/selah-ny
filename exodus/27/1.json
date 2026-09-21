@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo upange ⟨את⟩ guwa la mitengo ya shitimu: amah isanu kutalika kwake, ndi amah isanu m'chifupi chake; guwaja likhale lachikwangwala, ndipo kukwera kwake amah isatu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "upange"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwaja"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mitengo ya"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitimu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "isanu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amah"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "kutalika kwake"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ndi amah isanu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amah"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "m'chifupi chake"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "lachikwangwala"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "likhale"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwaja"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ndi amah isatu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amah"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "kukwera kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:21:15.537391760Z",
+  "model": "glm-5.3"
+}

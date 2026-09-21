@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Opuusa mantha ako abwerere kwa ine, ndi odziwa mboni zako.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "abwerere"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "Opuusa mantha ako"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ndi odziwa"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "mboni zako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:13.620607089Z",
+  "model": "glm-5.3"
+}

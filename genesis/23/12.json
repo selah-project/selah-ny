@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo Avraham anagwada pamaso pa anthu a dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "anagwada"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:50:27.111482703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 90,
+  "translation": "Ndawauchitira monga chiwunde; akhala ngati tulo; m'mawa ali ngati udzu womera.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "Ndawauchitira monga chiwunde"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tulo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "akhala"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "m'mawa"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ngati udzu"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "womera"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:32.523757702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "ndi ⟨את⟩ maziko a chikwerero chozungulira, ndi ⟨את⟩ maziko a khomo la chikwerero, ndi ⟨את⟩ miyala yonse ya chihema ndi ⟨את⟩ miyala yonse ya chikwerero chozungulira.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "maziko a chikwerero chozungulira"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "maziko a"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "chikwerero"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chozungulira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "maziko a khomo la chikwerero"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "maziko a"
+    },
+    {
+      "surface": "שער",
+      "gloss": "khomo la"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "chikwerero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "miyala yonse ya chihema"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "miyala ya"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "miyala yonse ya chikwerero chozungulira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "miyala ya"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "chikwerero"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chozungulira"
+    }
+  ],
+  "timestamp": "2026-09-21T12:57:19.361344217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Kodi masiku ako ⟨ndi⟩ monga masiku a anthu, kapena zaka zako monga masiku a munthu wamphamvu?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "monga masiku"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "a anthu"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "masiku ako"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "zaka zako"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "monga masiku"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "a munthu wamphamvu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:34:32.716435683Z",
+  "model": "glm-5.3"
+}

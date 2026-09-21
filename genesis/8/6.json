@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo chinachitika, atatha masiku makumi anayi, Nowa anatseula ⟨את⟩ dzereulo la chingalawa chimene anapanga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo chinachitika"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "potsiriza"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi anayi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "anatseula"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nowa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzereulo"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "dzereulo"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "la chingalawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anapanga"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:38.384703327Z",
+  "model": "glm-5.3"
+}

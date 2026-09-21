@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Shigayoni ya Davide, imene adaimba kwa Yahwe, pa mawu a Kushi, wa m'banja la Benjamini.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Shigayoni"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Davide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "שר",
+      "gloss": "adaimba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wa m'banja la"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Benjamini"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:48.315454412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo Abishua adabala ⟨את⟩ Bukki; ndipo Bukki adabala ⟨את⟩ Uzi.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "Ndipo Abishua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "adabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bukki"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Bukki"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "ndipo Bukki"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "adabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzi"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:24:06.827512266Z",
+  "model": "glm-5.3"
+}

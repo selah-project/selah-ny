@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Si choncho oipa, koma ali ngati chumbudzo umene mphepo imautaya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "כן",
+      "gloss": "choncho"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "oipa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koma"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "ngati chumbudzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "imautaya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mphepo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:05.995606370Z",
+  "model": "glm-5.3"
+}

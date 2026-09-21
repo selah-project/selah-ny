@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Muyankhule kwa ana a Yisraeli, muziti: Izi ndi zamoyo zimene mungadye mwa zilimwe zonse za pa dziko lapansi:",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Muyankhule"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "muziti"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Izi"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ndi zamoyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mungadye"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mwa zonse za"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "zilimwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "za"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:34:28.194772829Z",
+  "model": "glm-5.3"
+}

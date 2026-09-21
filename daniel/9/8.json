@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Yahwe, kwa ife kunyozeka kwa nkhope, kwa mafumu athu, kwa akulu athu ndi kwa makolo athu, amene tinachimwira inu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa ife"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "kunyozeka"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "kwa nkhope"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "kwa mafumu athu"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "kwa akulu athu"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "ndi kwa makolo athu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "tinachimwira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "inu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:08:55.575234083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "ndi ⟨את⟩ aaravadi, ndi ⟨את⟩ atsemari, ndi ⟨את⟩ ahamati.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "aaravadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "aaravadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "atsemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "atsemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ahamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "ahamati"
+    }
+  ],
+  "timestamp": "2026-09-21T12:23:00.208645453Z",
+  "model": "glm-5.3"
+}

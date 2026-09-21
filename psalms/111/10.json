@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 111,
+  "translation": "Kuopa Yahwe ndi ⟨את⟩ chiyambi cha nzeru; luntha labwino ali nako onse akuchita izo; mayamiko ake achirimika kosalekeza.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "chiyambi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "cha nzeru"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "kuopa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "luntha"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labwino"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ali nako onse"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "akuchita izo"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "mayamiko ake"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "achirimika"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kosalekeza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:37.607230684Z",
+  "model": "glm-5.3"
+}

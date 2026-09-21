@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 61,
+  "translation": "Mvera, Elohim, kufuula kwanga; phulira pemphero langa.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Mvera"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "kufuula kwanga"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "phulira"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "pemphero langa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:04.458377483Z",
+  "model": "glm-5.3"
+}

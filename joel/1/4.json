@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Chotsalira cha gazamu arbeh anachidya, ndi chotsalira cha arbeh yeleke anachidya, ndi chotsalira cha yeleke chasili anachidya.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "chotsalira"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "cha gazamu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "anachidya"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbeh"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ndi chotsalira"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "cha arbeh"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "anachidya"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "yeleke"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ndi chotsalira"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "cha yeleke"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "anachidya"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "chasili"
+    }
+  ],
+  "timestamp": "2026-09-21T13:19:57.845181739Z",
+  "model": "glm-5.3"
+}

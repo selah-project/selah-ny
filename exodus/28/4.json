@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 28:4",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo izi ndi zovala zimene adzapanga: khosheni ndi ephodi, ndi mphuto, ndi chovala chosonidwa ndi mitundu, chiphunzitso cha mutu ndi ching'oma; ndipo apange zovala zopatulika za Aharon m'bale wako ndi za ana ake, kuti asa memo kwa ine.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ndipo izi"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "ndi zovala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "adzapanga"
+    },
+    {
+      "surface": "חשן",
+      "gloss": "khosheni"
+    },
+    {
+      "surface": "ואפוד",
+      "gloss": "ndi ephodi"
+    },
+    {
+      "surface": "ומעיל",
+      "gloss": "ndi mphuto"
+    },
+    {
+      "surface": "וכתנת",
+      "gloss": "ndi chovala"
+    },
+    {
+      "surface": "תשבץ",
+      "gloss": "chosonidwa ndi mitundu"
+    },
+    {
+      "surface": "מצנפת",
+      "gloss": "chiphunzitso cha mutu"
+    },
+    {
+      "surface": "ואבנט",
+      "gloss": "ndi ching'oma"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ndipo apange"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "zovala"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "zopatulika"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "za Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "m'bale wako"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ndi za ana ake"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "kuti asa memo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T06:21:09.373813893Z",
+  "model": "glm-5.3"
+}

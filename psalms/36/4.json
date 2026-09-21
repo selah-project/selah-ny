@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Mawu a pakamwa pake ndi zoipa ndi chinyengo; wasiya kuzindikira, kuchita chokoma.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Mawu"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "a pakamwa pake"
+    },
+    {
+      "surface": "און",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "ndi chinyengo"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "wasiya"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "kuzindikira"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "kuchita chokoma"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:05.923653611Z",
+  "model": "glm-5.3"
+}

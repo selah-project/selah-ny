@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 7:42",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo ⟨את⟩ manganje mazana anayi kwa nkhokwe ziwiri, mizere iwiri ya manganje pa nkhokwe imodzi, kufunda ⟨את⟩ mabwalo awiri a zikhwaniri zili patsogolo pa mitsindo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "manganje mazana anayi"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "manganje"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "anayi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "לשתי",
+      "gloss": "kwa ziwiri"
+    },
+    {
+      "surface": "השבכות",
+      "gloss": "nkhokwe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iwiri"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "mizere"
+    },
+    {
+      "surface": "רמנים",
+      "gloss": "ya manganje"
+    },
+    {
+      "surface": "לשבכה",
+      "gloss": "pa nkhokwe"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "imodzi"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "kufunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabwalo awiri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "mabwalo"
+    },
+    {
+      "surface": "הכתרת",
+      "gloss": "a zikhwaniri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zili"
+    },
+    {
+      "surface": "על",
+      "gloss": "patsogolo pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "patsogolo"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "wa mitsindo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:33:28.666738997Z",
+  "model": "glm-5.3"
+}

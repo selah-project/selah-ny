@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 91,
+  "translation": "Wokhala m'chinsinsi cha Elyoni, m'mthunzi wa Shadayi adzakhala ⟨usiku ndi usiku⟩.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Wokhala"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "m'chinsinsi cha"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoni"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "m'mthunzi wa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadayi"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "adzakhala ⟨usiku ndi usiku⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:06.012518939Z",
+  "model": "glm-5.3"
+}

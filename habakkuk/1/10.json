@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 1:10",
+  "book": "habakkuk",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo iye amachitira chinyengo mafumu, ndipo atsogoleri ndi chiseko chake; iye amaseka boma lililonse losateketsa, adasanza fumbi, nodaligwira.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ndipo iye"
+    },
+    {
+      "surface": "במלכים",
+      "gloss": "mafumu"
+    },
+    {
+      "surface": "יתקלס",
+      "gloss": "amachitira chinyengo"
+    },
+    {
+      "surface": "ורזנים",
+      "gloss": "ndipo atsogoleri"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "chiseko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "lililonse"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "boma losateketsa"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "amaseka"
+    },
+    {
+      "surface": "ויצבר",
+      "gloss": "adasanza"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "fumbi"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "nodaligwira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:31:34.116059637Z",
+  "model": "glm-5.3"
+}

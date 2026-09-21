@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 5:3",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "ana a Reubeni woyamba kubadwa wa Yisraeli: Khanokhi, ndi Palu, Chetsroni, ndi Karmi",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubeni"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "woyamba kubadwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanokhi"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "ndi Palu"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsroni"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "ndi Karmi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:23:59.033958521Z",
+  "model": "glm-5.3"
+}

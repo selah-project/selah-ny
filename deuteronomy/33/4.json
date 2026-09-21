@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Tora Moshe anatipereka ife ngati lamulo, cholowa cha msonkhano wa Yaakob.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "anatipereka ngati lamulo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "cholowa"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "cha msonkhano"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "wa Yaakob"
+    }
+  ],
+  "timestamp": "2026-09-21T07:31:03.004882483Z",
+  "model": "glm-5.3"
+}

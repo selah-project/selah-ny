@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "⟨את⟩ hema ya kusonkhana, ndi ⟨את⟩ chikwama cha umboni, ndi ⟨את⟩ hakaporeti imene ili pa iyo, ndi ⟨את⟩ zida zonse za hema",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hema ya kusonkhana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kusonkhana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chikwama cha umboni"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "chikwama"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "cha umboni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "hakaporeti"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "hakaporeti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ili pa iyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zida zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zida"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "za hema"
+    }
+  ],
+  "timestamp": "2026-09-21T06:23:36.256989962Z",
+  "model": "glm-5.3"
+}

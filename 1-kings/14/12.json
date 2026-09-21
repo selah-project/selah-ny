@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Iwe ndiwe, dzukirani? — dzukira, pita ku nyumba yako; poti mapazi anu akalowa mu mzinda, mwana adzafa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Iwe ndiwe"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "dzukira"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "pita"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "ku nyumba yako"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "poti akalowa"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "mapazi anu"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "mu mzinda"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "mwana adzafa"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    }
+  ],
+  "timestamp": "2026-09-21T08:40:50.009150828Z",
+  "model": "glm-5.3"
+}

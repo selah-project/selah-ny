@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo iye anawonjezera kubala ⟨את⟩ m'bale wake, ⟨את⟩ Hebeli. Ndipo Hebeli anakhala woyang'anira nkhosa, ndipo Kayini wolima mdziko.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "anawonjezera"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "kubala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "m'bale wake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "m'bale wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebeli"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebeli"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo anakakhala"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebeli"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "woyang'anira"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "ndipo Kayini"
+    },
+    {
+      "surface": "היה",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "wolima"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "mdziko"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:56.388189803Z",
+  "model": "glm-5.3"
+}

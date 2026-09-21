@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 22:1",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo Davidi adati: “Uyu ⟨ndi⟩ nyumba ya Yahwe Elohim, ndi uwu ⟨ndi⟩ guwa la nsemphero za kuwotcha la Yisraeli.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo adati"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Uyu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ndi⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ndi uwu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "guwa"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "la nsemphero za kuwotcha"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "la Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T12:31:48.350833188Z",
+  "model": "glm-5.3"
+}

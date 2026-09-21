@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo iye adati: “Pempho limodzi lating'ono ndikupempha ⟨את⟩ kwa iwe; musabweze ⟨את⟩ nkhope yanga.” Ndipo mfumu inati kwa iye: “Pempha, amayi wanga, pakuti sindidzabweza ⟨את⟩ nkhope yako.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ndipo iye adati"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "pempho"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "limodzi"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "lating'ono"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "-kupempha"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "kwa iwe ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musandi-"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "-sabweze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhope yanga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope yanga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo inati"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "pempha"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "amayi wanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi-"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "-dzabweza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhope yako"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nkhope yako"
+    }
+  ],
+  "timestamp": "2026-09-21T08:32:30.414086962Z",
+  "model": "glm-5.3"
+}

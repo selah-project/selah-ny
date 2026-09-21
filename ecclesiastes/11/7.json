@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo kuwala ndi kwakoma, ndipo ndi kwabwino kwa maso kuona ⟨את⟩ dzuwa.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "ndipo kuwala ndi kwakoma"
+    },
+    {
+      "surface": "האור",
+      "gloss": "kuwala"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ndipo ndi kwabwino"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "kwa maso"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzuwa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dzuwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:58:25.080425415Z",
+  "model": "glm-5.3"
+}

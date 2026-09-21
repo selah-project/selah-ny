@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo adati: “Pita, ndipo unena kwa anthu awa, kuti: Mverani mverani, koma musazindikire; ndipo penyerani penyerani, koma musadziwe.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo adati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Pita"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ndipo unena"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kwa anthu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Mverani"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "mverani"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "koma musa-"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "-zindikire"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ndipo penyerani"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "penyerani"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "koma musa-"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "-dziwe"
+    }
+  ],
+  "timestamp": "2026-09-21T09:03:48.627280560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Ndipo chiwombolo cha moyo wawo chili chokomeka, ndipo chidzaleka ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "ndipo chokomeka"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "chiwombolo"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "cha moyo wawo"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "ndipo chidzaleka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:24.776903967Z",
+  "model": "glm-5.3"
+}

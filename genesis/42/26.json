@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Ndipo anayika ⟨את⟩ mbewu yawo pa bulu awo, naluta kumeneko.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "anayika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbewu yawo"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "mbewu yawo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "bulu awo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "naluta"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kumeneko"
+    }
+  ],
+  "timestamp": "2026-09-21T06:03:43.803532514Z",
+  "model": "glm-5.3"
+}

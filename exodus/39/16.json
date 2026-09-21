@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 39:16",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndipo anapanga zikhazikizo ziwiri za golide, ndi maphete awiri a golide; ndipo anayika ⟨את⟩ maphete awiri pa mapeto awiri a chifua.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ndipo anapanga"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "zikhazikizo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "za golide"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ndi awiri"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "maphete"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "a golide"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ndipo anayika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maphete awiri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "maphete"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "mapeto"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "a chifua"
+    }
+  ],
+  "timestamp": "2026-09-21T06:28:57.473110586Z",
+  "model": "glm-5.3"
+}

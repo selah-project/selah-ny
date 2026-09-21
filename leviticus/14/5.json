@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo mkahanu adzalamulira, ndipo adzapha ⟨את⟩ mbalame imodzi mu chotengera cha mchenga, pa madzi amoyo.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "adzalamulira"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mkahanu"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "adzapha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbalame imodzi"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "mbalame"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "imodzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "chotengera"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "cha mchenga"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "amoyo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:38:06.366192830Z",
+  "model": "glm-5.3"
+}

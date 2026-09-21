@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 90,
+  "translation": "M'mawa umera, ndipo upita; madzulo amedwa, ndipo umoma.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "M'mawa"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "umera"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "ndipo upita"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "madzulo"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "amedwa"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ndipo umoma"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:32.523989385Z",
+  "model": "glm-5.3"
+}

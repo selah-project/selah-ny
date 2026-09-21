@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Makolo anu, ali kuti iwo? Ndi aneneri, kodi ku nthawi zonse adzakhala ndi moyo?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "makolo anu"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ali kuti"
+    },
+    {
+      "surface": "הם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "ndi aneneri"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "adzakhala ndi moyo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:35:45.316423207Z",
+  "model": "glm-5.3"
+}

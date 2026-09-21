@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 22:12",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Nadati: “Usatambasule dzanja lako kwa mnyamata wongo, usamuchitire kanthu; pakuti tsopano ndadziwa kuti iwe ndiwe woopa Elohim, popeza sinaletsa ⟨את⟩ mwana wako, ⟨את⟩ wokhayo wako, kwa ine.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Nadati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "usatambasule"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dzanja lako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mnyamata wongo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "usamuchitire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-mu-"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "kanthu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndadziwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "woopa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sina-"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "sinaletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wako"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana wako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wokhayo wako"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "wokhayo wako"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T05:50:38.679006617Z",
+  "model": "glm-5.3"
+}

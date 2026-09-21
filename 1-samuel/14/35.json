@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo Shauli anamanga guwa kwa Yahwe; ndi lomenelo anayamba kumanga maambuye a nsembe kwa Yahwe ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "anamanga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "guwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "lomenelo (guwalo)"
+    },
+    {
+      "surface": "החל",
+      "gloss": "anayamba"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kumanga"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "maambuye a nsembe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:07:24.472664876Z",
+  "model": "glm-5.3"
+}

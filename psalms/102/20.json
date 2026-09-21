@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "Pakuti anakweza maso a ku mpando wake woyera; Yahwe akayang'ana kumwamba kunka ku dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "anakweza maso"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "a ku"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "mpando wake woyera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "akayang'ana kumwamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kunka ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "akayang'ana"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:47.312344387Z",
+  "model": "glm-5.3"
+}

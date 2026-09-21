@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo Afilisiti anatora ⟨את⟩ chihema cha Elohim, ndipo anachibwera kuchokera ku Ebeni-ha-Ezeri kufikira ku Ashdodi.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Ndipo Afilisiti"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "anatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chihema cha Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "cha Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "anachibwera"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "kuchokera ku Ebeni"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezeri"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "kufikira ku Ashdodi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:02:23.387858397Z",
+  "model": "glm-5.3"
+}

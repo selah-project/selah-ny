@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 136,
+  "translation": "Ndipo adukiza Paro ndi nkhondo zake m'nyanja ya sufu, pakuti khesedi kwake kumakhala ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "Ndipo adukiza"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "ndi nkhondo zake"
+    },
+    {
+      "surface": "בים",
+      "gloss": "m'nyanja"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ya sufu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi kwake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:57.647646468Z",
+  "model": "glm-5.3"
+}

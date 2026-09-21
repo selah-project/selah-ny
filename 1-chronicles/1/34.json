@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 1:34",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Avraham anabala ⟨את⟩ Yitsakh. Ana aamuna a Yitsakh: Esavu ndi Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Ndipo anabala"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsakh"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsakh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ana aamuna a"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsakh"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ndi Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T12:23:09.045666857Z",
+  "model": "glm-5.3"
+}

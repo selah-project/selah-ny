@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo anagwira ⟨את⟩ mfumu, namukweza ⟨אתו⟩ kwa mfumu ya Babeli, ku Riblahi; ndipo anamweruzira ⟨את⟩ chiweruzo.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "anagwira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfumu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "namukweza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "mfumu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babeli"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "ku Riblahi"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "anamweruzira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "mfumu (chiweruzo chidaperekedwa kwa iye)"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chiweruzo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:01:03.252517511Z",
+  "model": "glm-5.3"
+}

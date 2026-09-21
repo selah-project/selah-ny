@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Usayanjane ⟨את⟩ mwini mkwiyo, ndipo ndi ⟨את⟩ munthu wa chidwi chakukwiya usayende naye.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "yanjane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwini mkwiyo"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "mwini"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mkwiyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu wa"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "chidwi chakukwiya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "yende naye"
+    }
+  ],
+  "timestamp": "2026-09-21T11:25:44.477753041Z",
+  "model": "glm-5.3"
+}

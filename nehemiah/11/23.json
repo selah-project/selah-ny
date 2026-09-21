@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 11:23",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Pakuti lamulo la mfumu linali pa iwo, ndipo chithandizo cholimbika chinaperekedwa pa oyimbira nyimbo, chinthu cha tsiku mutsiku wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "lamulo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "la mfumu"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pa iwo"
+    },
+    {
+      "surface": "ואמנה",
+      "gloss": "ndipo chithandizo cholimbika"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "oyimbira nyimbo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "chinthu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "cha tsiku"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "mutsiku wake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:21:44.071200358Z",
+  "model": "glm-5.3"
+}

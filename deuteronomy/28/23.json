@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Kumwamba kwako kumene kuli pamwamba pa mutu wako kuzakhala nsinda, ndipo dziko limene lili pansi pako likhala chitsulo.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "kuzakhala"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "kumwamba kwako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kumene"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamwamba pa"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "mutu wako"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nsinda"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ndipo dziko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "pansi pako"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "chitsulo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:28:43.195796101Z",
+  "model": "glm-5.3"
+}

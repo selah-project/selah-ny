@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo mzimu wa Yahwe anati kwa iye: “Bwererako kwa mbuye wako, ndipo dzipereke pansi pa manja ake.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "Bwererako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "mbuye wako"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "dzipereke"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pa"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "manja ake"
+    }
+  ],
+  "timestamp": "2026-09-21T05:47:50.501017743Z",
+  "model": "glm-5.3"
+}

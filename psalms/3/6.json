@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ine ndinagona ndipo ndinagona tulo, ndinadzuka; chifukwa Yahwe anditsimikizira.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "ndinagona"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "ndipo ndinagona tulo"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "ndinadzuka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "anditsimikizira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:18.100499621Z",
+  "model": "glm-5.3"
+}

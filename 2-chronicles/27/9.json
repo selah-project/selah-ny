@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 27:9",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo Yotamu anagona ndi makolo ake, ndipo anamuika ⟨את⟩ m'mudzi wa Dawide; ndipo Mwana wake Ahazi anachita ufumu m'malo mwake.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "anagona"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotamu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "makolo ake"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "anamuika"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (Yotamu)"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "m'mudzi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "wa Dawide"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "anachita ufumu"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahazi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "Mwana wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "m'malo mwake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:45:56.203405476Z",
+  "model": "glm-5.3"
+}

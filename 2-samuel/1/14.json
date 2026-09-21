@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 1:14",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Davidi adati kwa iye: “Kodi sunaope kutulutsa dzanja lako kuononga ⟨את⟩ Mashiya wa Yahwe?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kodi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "sunaope"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kutulutsa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dzanja lako"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "kuononga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashiya"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashiya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:16:35.168141580Z",
+  "model": "glm-5.3"
+}

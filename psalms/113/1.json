@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 113,
+  "translation": "Lamanira Yah, lamanira akapolo a Yahwe, lamanira ⟨את⟩ dzina la Yahwe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "lamanira"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lamanira"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "akapolo a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lamanira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzina la Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dzina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:29.054453241Z",
+  "model": "glm-5.3"
+}

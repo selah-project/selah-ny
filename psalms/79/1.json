@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 79,
+  "translation": "Ndiyimbo ya Asafu. Elohim, amitundu anabwera m'cholo chako, analetsetsa ⟨את⟩ nyumba yopatulika yako, anayika ⟨את⟩ Yerushalayimu kukhala matumbi.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Ndiyimbo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asafu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "anabwera"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amitundu"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "m'cholo chako"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "analetsetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba yopatulika yako"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "nyumba yopatulika"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "yopatulika yako"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "anayika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "kukhala matumbi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:59.797267557Z",
+  "model": "glm-5.3"
+}

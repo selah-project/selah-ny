@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 37,
+  "translation": "Ndipo kukhala kwako ndi kutuluka kwako ndi kulowa kwako ndakudziwa, ndi ⟨את⟩ kukwiya kwako kwa ine.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "Ndipo kukhala kwako"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "ndi kutuluka kwako"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "ndi kulowa kwako"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndakudziwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "kukwiya kwako"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "kukwiya kwako"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T09:16:08.620322744Z",
+  "model": "glm-5.3"
+}

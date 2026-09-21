@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo iye anakayesa Yisraeli ⟨את⟩; ndipo Yonathani mwana wa Shimaya, m'bale wa Dawidi, anamupha.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "anakayesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "anamupha"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonathani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimaya"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "m'bale wa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:31:11.696188914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 7:20",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo Akhani anayankha ⟨את⟩ Yehoshuwa, nanena: “Ndithu ndinatumbwa kwa Yahwe, Elohim wa Yisraeli; ndipo motero ndi motero ndinachita.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "anayankha"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "Akhani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshuwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanena"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "Ndithu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ndinatumbwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "motero"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "ndi motero"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndinachita"
+    }
+  ],
+  "timestamp": "2026-09-21T07:37:36.787359910Z",
+  "model": "glm-5.3"
+}

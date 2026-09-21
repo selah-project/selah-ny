@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Mitsinje yonse imayenda ku nyanja, koma nyanja siyodzala; ku malo kumene mitsinje imayenda, kumeneko zimabwerera ku kuyenda.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "mitsinje"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "imayenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "והים",
+      "gloss": "koma nyanja"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "si"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "yodzala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "malo"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "kumene mitsinje"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "imayenda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ndikumene"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "zimabwerera"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ku kuyenda"
+    }
+  ],
+  "timestamp": "2026-09-21T11:56:07.912260188Z",
+  "model": "glm-5.3"
+}

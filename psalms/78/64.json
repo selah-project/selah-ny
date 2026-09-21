@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Ansembe ake anagwa ndi ndewu, ndi akazi amasiye ake sanalire.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "ansembe ake"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ndi ndewu"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "anagwa"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "ndi akazi amasiye ake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sanalire"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "sanalire"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:00.376685592Z",
+  "model": "glm-5.3"
+}

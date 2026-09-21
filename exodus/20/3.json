@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Sangakhale nawe milungu ina pamaso panga.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Sanga-"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "-khale"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "milungu"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ina"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "maso panga"
+    }
+  ],
+  "timestamp": "2026-09-21T06:15:50.207145646Z",
+  "model": "glm-5.3"
+}

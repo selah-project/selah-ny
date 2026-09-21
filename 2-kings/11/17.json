@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 11:17",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Yehoyada adaphimza ⟨את⟩ pangano pakati pa Yahwe ndi mfumu ndi anthu, kuti akhale anthu a Yahwe, ndiponso pakati pa mfumu ndi anthu.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "adaphimza"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangano"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "pangano"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kuti akhale"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndiponso pakati pa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:10:52.521827680Z",
+  "model": "glm-5.3"
+}

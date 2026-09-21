@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo Avraham anapemphera kwa Elohim, ndipo Elohim anachiritsa ⟨את⟩ Avimeleke ndi ⟨את⟩ mkazi wake ndi akazitumbi ake, ndipo anabala.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "anapemphera"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "anachiritsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimeleke"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mkazi wake"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mkazi wake"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "ndi akazitumbi ake"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "anabala"
+    }
+  ],
+  "timestamp": "2026-09-21T05:50:06.314212294Z",
+  "model": "glm-5.3"
+}

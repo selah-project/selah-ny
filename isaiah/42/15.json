@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 42:15",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Ndidzaononga mapiri ndi mipiri, ndipo udzu wawonse ndidzauma; ndipo ndidzasandutsa mitsinjira kukhala mathithi, ndipo mitsime ndidzauma.",
+  "tokens": [
+    {
+      "surface": "אחריב",
+      "gloss": "ndidzaononga"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "ndi mipiri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndipo udzu wawonse"
+    },
+    {
+      "surface": "עשבם",
+      "gloss": "udzu wawo"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "ndidzauma"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "ndidzasandutsa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mitsinjira"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "kukhala mathithi"
+    },
+    {
+      "surface": "ואגמים",
+      "gloss": "ndipo mitsime"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "ndidzauma"
+    }
+  ],
+  "timestamp": "2026-09-21T09:18:21.150377585Z",
+  "model": "glm-5.3"
+}

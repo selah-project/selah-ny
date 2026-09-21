@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo Yehoshuwa anagonjetsa ⟨את⟩ Amaleki ndi ⟨את⟩ anthu ake ⟨monga⟩ pakamwa pa lupanga.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "anagonjetsa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "anthu ake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "pakamwa pa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "lupanga"
+    }
+  ],
+  "timestamp": "2026-09-21T12:55:58.806275910Z",
+  "model": "glm-5.3"
+}

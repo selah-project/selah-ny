@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Akhale Yahwe weruzi, naweruze pakati pa ine ndi pakati pa iwe, naone, natsautse ⟨את⟩ mlandu wanga, nandipulumutse m'dzanja lako.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Akhale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "weruzi"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "naweruze"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "pakati pa ine"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ndi pakati pa iwe"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "naone"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "natsautse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mlandu wanga"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "mlandu wanga"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "nandipulumutse"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "m'dzanja lako"
+    }
+  ],
+  "timestamp": "2026-09-21T08:11:26.075464661Z",
+  "model": "glm-5.3"
+}

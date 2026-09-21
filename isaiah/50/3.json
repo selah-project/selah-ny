@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 50,
+  "translation": "Ndimaika kumwamba ku mdima, ndipo nsanza ndimaika chikhire chawo.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "ndimaika"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "ku mdima"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "ndipo nsanza"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ndimaika"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "chikhire chawo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:22:59.661840283Z",
+  "model": "glm-5.3"
+}

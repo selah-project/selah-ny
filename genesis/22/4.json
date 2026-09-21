@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Tsiku lachitatu Avraham anakweza ⟨את⟩ maso ake, ndipo anaona ⟨את⟩ malowo kuchokera kutali.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Tsiku"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "lachitatu"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "anakweza"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maso ake"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "maso ake"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malowo"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "malowo"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kuchokera kutali"
+    }
+  ],
+  "timestamp": "2026-09-21T12:53:59.485155032Z",
+  "model": "glm-5.3"
+}

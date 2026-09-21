@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo tsopano mutu wanga udzakwezedwa kumwamba pa adani anga akandizinga; ndipo ndidzapereka m'hema yake nsembe za kufuula; ndidzayimba nyimbo, ndipo ndidzayimbira kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ndipo tsopano"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "udzakwezedwa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mutu wanga"
+    },
+    {
+      "surface": "על",
+      "gloss": "kumwamba pa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "adani anga"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "akandizinga"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "ndipo ndidzapereka"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "m'hema yake"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "za kufuula"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ndidzayimba nyimbo"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ndipo ndidzayimbira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:53.544066242Z",
+  "model": "glm-5.3"
+}

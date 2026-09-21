@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 63,
+  "translation": "Pamene ndimakukumbukira Inu pa bedi yanga, m'maola usiku ndimaganizira mwa Inu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Pamene"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "ndimakukumbukira Inu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "bedi yanga"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "m'maola usiku"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "ndimaganizira"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mwa Inu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:56.907602926Z",
+  "model": "glm-5.3"
+}

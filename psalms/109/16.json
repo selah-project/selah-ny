@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "Chifukwa chakuti sanakumbukire kuchita khesedi, koma anamulonda munthu wopalidwa ndi wovutika, ndi wosweka mtima, kuti apha.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Chifukwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "anakumbukira"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "kuchita"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesedi"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "koma anamulonda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wopalidwa"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ndi wovutika"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "ndi wosweka"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "kuti apha"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:29.565952233Z",
+  "model": "glm-5.3"
+}

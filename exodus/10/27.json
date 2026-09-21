@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo Yahwe anakukiza ⟨את⟩ mtima wa Paro, ndipo sanafune kuwamasula.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Ndipo anakukiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtima"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sana"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "afune"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "kuwamasula"
+    }
+  ],
+  "timestamp": "2026-09-21T06:12:04.447813899Z",
+  "model": "glm-5.3"
+}

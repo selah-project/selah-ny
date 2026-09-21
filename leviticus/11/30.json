@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "ndi anaka, ndi koa, ndi letaaha, ndi khometi, ndi tinishameti.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "ndi anaka"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "ndi koa"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "ndi letaaha"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "ndi khometi"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ndi tinishameti"
+    }
+  ],
+  "timestamp": "2026-09-21T06:35:25.404079023Z",
+  "model": "glm-5.3"
+}

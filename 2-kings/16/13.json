@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo anafotokoza ⟨את⟩ nsembe yake yopsereza, ndi ⟨את⟩ nsembe yake ya ufa, anathira ⟨את⟩ nkhuti zake, nadzaza ⟨את⟩ magazi a nsembe zazikulu za mtendere zake paguwa la nsembe.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "anafotokoza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe yake yopsereza"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "nsembe yake yopsereza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nsembe yake ya ufa"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "nsembe yake ya ufa"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "anathira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhuti zake"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "nkhuti zake"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "nadzaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magazi"
+    },
+    {
+      "surface": "דם",
+      "gloss": "magazi"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "a nsembe zazikulu za mtendere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa la nsembe"
+    }
+  ],
+  "timestamp": "2026-09-21T08:56:07.128878641Z",
+  "model": "glm-5.3"
+}

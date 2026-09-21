@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 51,
+  "translation": "Pakuti ndimadziwa zopandukira zanga, ndipo tchimo langa lili pamaso panga kosatha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "zopandukira zanga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ndimadziwa"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "ndipo tchimo langa"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "pamaso panga"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kosatha"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:42.496444337Z",
+  "model": "glm-5.3"
+}

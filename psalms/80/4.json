@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 80,
+  "translation": "Elohim, tibwereretsani, ndipo weretsa kuwala kwa nkhope yako, ndipo tidzapulumuka.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "tibwereretsani"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "ndipo weretsa kuwala"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kwa nkhope yako"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "ndipo tidzapulumuka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:57.205199609Z",
+  "model": "glm-5.3"
+}

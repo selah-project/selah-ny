@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 95,
+  "translation": "Kotero ndalumbira mu mkwiyo wanga: “Sadzalowa mu phumulo langa.”",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Kotero"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ndalumbira"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "mu mkwiyo wanga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "sadzalowa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "phumulo langa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:46.719357924Z",
+  "model": "glm-5.3"
+}

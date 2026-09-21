@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 90,
+  "translation": "Masiku a miyaka yathu mwa iwo ndi miyaka makumi anayi ndi khumi, ndipo ngati mwa mphamvu, miyaka makumi anayi ndi iwiri; koma kukudzitsa kwawo ndi mavuto ndi chochititsa chisoni, pakuti chamudula mwachangu, ndipo tatunduka.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "a miyaka yathu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mwa iwo"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "makumi anayi ndi khumi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miyaka"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ndipo ngati"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "mwa mphamvu"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "makumi anayi ndi iwiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miyaka"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "koma kukudzitsa kwawo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mavuto"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ndi chochititsa chisoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "גז",
+      "gloss": "chamudula"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "mwachangu"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "ndipo tatunduka"
+    }
+  ],
+  "timestamp": "2026-09-21T11:00:51.557901650Z",
+  "model": "glm-5.3"
+}

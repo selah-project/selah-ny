@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo Zikhri, munthu wamphamvu wa Efurayimu, anapha ⟨את⟩ Maaseya mwana wa mfumu, ndi ⟨את⟩ Azirikamu woyang'anira nyumba, ndi ⟨את⟩ Elkana wachiwiri kwa mfumu.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "anapha"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikhri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "munthu wamphamvu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "wa Efurayimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maaseya"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maaseya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa mfumu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Azirikamu"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azirikamu"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "woyang'anira"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Elkana"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "wachiwiri"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kwa mfumu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:47:30.314108905Z",
+  "model": "glm-5.3"
+}

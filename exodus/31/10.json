@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "ndi ⟨את⟩ mavwalo a utumiki, ndi ⟨את⟩ mavwalo oyera a Aharoni wasembe, ndi ⟨את⟩ mavwalo a ana ake, kukhala ansembe;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mavwalo a utumiki"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mavwalo"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "a utumiki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mavwalo oyera"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mavwalo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "oyera"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "a Aharoni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wasembe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mavwalo a ana ake"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mavwalo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "a ana ake"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kukhala ansembe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:22:15.326295357Z",
+  "model": "glm-5.3"
+}

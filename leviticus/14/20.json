@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo wansembe adzakweza pa guwa ⟨את⟩ nsembe yopsereka ndi ⟨את⟩ nsembe ya ufa; ndipo wansembe adzamupempherera, ndipo adzayera.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "adzakweza"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe yopsereka"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nsembe yopsereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nsembe ya ufa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "nsembe ya ufa"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pa guwa"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "adzamupempherera"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "adzayera"
+    }
+  ],
+  "timestamp": "2026-09-21T06:36:58.945534848Z",
+  "model": "glm-5.3"
+}

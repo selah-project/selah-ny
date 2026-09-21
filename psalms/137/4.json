@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 137,
+  "translation": "Tingaimbe bwanji ⟨את⟩ nyimbo ya Yahwe pa dziko la anthu akunja?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "bwanji"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "tingaimbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyimbo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "la anthu akunja"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:25.409306922Z",
+  "model": "glm-5.3"
+}

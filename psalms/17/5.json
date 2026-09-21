@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Sunga mayendedwe anga m'njira zanu; mapazi angu sadzagwedezeka.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "Sunga"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mayendedwe anga"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "m'njira zanu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "gwedezeka"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "mapazi angu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:37.464595959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "ndipo ngati mukaniza miteseno yanga, ndipo ngati moyo wanu adana nacho ⟨את⟩ miweruzo yanga, kuti muchite ⟨את⟩ zonse za malamuro anga, pophwanya ⟨את⟩ pangano langa;",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ndipo ngati"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "miteseno yanga"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "mukaniza"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ndipo ngati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miweruzo yanga"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "miweruzo yanga"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "adana nacho"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "moyo wanu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kuti musa-"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "muchite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse za malamuro anga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "malamuro anga"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "pophwanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangano langa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "pangano langa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:46:27.845287307Z",
+  "model": "glm-5.3"
+}

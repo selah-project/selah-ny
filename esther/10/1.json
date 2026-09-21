@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo mfumu Achashverosh adaika mthwano pa dziko lapansi ndi pa zilwa za nyanja.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "adaika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "מס",
+      "gloss": "mthwano"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "ndi pa zilwa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "za nyanja"
+    }
+  ],
+  "timestamp": "2026-09-21T12:01:28.657435453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 111,
+  "translation": "Zazikulu ndi ntchito za Yahwe, zofufuzidwa ndi onse akondwerera nazo.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Zazikulu"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "za Yahwe"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "zofufuzidwa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ndi onse"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "akondwerera nazo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:15.564305814Z",
+  "model": "glm-5.3"
+}

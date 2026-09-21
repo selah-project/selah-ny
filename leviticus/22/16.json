@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "ndipo awatengeketsa chimo cha cholakwika m'kudyawo ⟨את⟩ zopatulidwa zawo; pakuti ine ndine Yahwe wopatulitsa ⟨את⟩ iwo.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "ndipo awatengeketsa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iwo"
+    },
+    {
+      "surface": "עון",
+      "gloss": "chimo"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "cha cholakwika"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "m'kudyawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zopatulidwa zawo"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "zopatulidwa zawo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "wopatulitsa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:54.000327471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo Yahwe adabweza kwa ine monga mwa chilungamo changa, monga mwa choyera changa pamaso pa maso ake.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "adabweza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "monga mwa chilungamo changa"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "monga mwa choyera changa"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "maso ake"
+    }
+  ],
+  "timestamp": "2026-09-21T08:28:40.685590529Z",
+  "model": "glm-5.3"
+}

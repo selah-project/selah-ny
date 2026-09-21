@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo kuti muchiritse pakati pa choyera ndi chachilengedwe, ndi pakati pa chodetsa ndi choyera.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "Ndipo kuti muchiritse"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "choyera"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "החל",
+      "gloss": "chachilengedwe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "chodetsa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "choyera"
+    }
+  ],
+  "timestamp": "2026-09-21T06:34:00.784964291Z",
+  "model": "glm-5.3"
+}

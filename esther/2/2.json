@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 2:2",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo anyamala a mfumu, akapolo ake, anati: “Asanthule mfumu anyamala akazi atete okongola maonekedwe.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "anyamala a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "akapolo ake"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "asanthule"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ya mfumu"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "anyamala akazi"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "atete"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "okongola"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "maonekedwe"
+    }
+  ],
+  "timestamp": "2026-09-21T12:00:16.499747637Z",
+  "model": "glm-5.3"
+}

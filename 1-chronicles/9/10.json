@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo mwa ansembe panali Yedaya, ndi Yehoyarivi, ndi Yakhinu;",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "Ndipo mwa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Yedaya"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "ndi Yehoyarivi"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "ndi Yakhinu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:25:59.555802060Z",
+  "model": "glm-5.3"
+}

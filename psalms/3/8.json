@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Dzuka, Yahwe; undipulumutse, Elohim wanga; chifukwa iwe wamenya ⟨את⟩ adani onse a pa nkhope, dino la anthu oipa wawononga.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Dzuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "undipulumutse"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "iwe wamenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adani onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "adani"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "a pa nkhope"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dino la"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "anthu oipa"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "wawononga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:18.100781035Z",
+  "model": "glm-5.3"
+}

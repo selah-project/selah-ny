@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Kuchokera ku malekezero a miyamba kutuluka kwake, ndi kuzungulira kwake kufikira ku malekezero awo; ndipo palibe chobisika ku chotentha chake.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Kuchokera ku malekezero a"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "miyamba"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "kutuluka kwake"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "ndi kuzungulira kwake"
+    },
+    {
+      "surface": "על",
+      "gloss": "kufikira ku"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "malekezero awo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndipo palibe"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "chobisika"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "ku chotentha chake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:34.964265396Z",
+  "model": "glm-5.3"
+}

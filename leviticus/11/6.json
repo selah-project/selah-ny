@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo ⟨את⟩ kalulu, chifukwa iyi amakweza cholowera, koma chidole sichinapature; yodetsa iyi kwa inu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "kalulu"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "kalulu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "amakweza"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "cholowera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "ndipo chidole"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sichi-"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "napature"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "yodetsa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:58:40.338586480Z",
+  "model": "glm-5.3"
+}

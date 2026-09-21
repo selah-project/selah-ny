@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 36:2",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "ndipo anati: “Adonayi wanga, Yahwe adalamulira kupereka ⟨את⟩ dziko lapansi monga cholowa m'golo kwa ana a Yisraeli, ndipo Adonayi wanga wadalamulidwa ndi Yahwe kupereka ⟨את⟩ cholowa cha Tselofekhadi, m'bale wathu, kwa ana ake akazi.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "anati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonayi wanga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi wanga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "adalamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kupereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko lapansi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "monga cholowa"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "m'golo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "ndipo Adonayi wanga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wadalamulidwa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ndi Yahwe"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kupereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cholowa cha Tselofekhadi"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "cholowa cha"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofekhadi"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "m'bale wathu"
+    },
+    {
+      "surface": "לבנתיו",
+      "gloss": "kwa ana ake akazi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:12:38.800885088Z",
+  "model": "glm-5.3"
+}

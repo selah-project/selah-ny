@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Usachitire chinyengo wathu ⟨את⟩ mnansi wako, ndipo usabire; malipiro a wogwirira ntchito adzakhalabe ndi iwe ⟨את⟩ mpaka mmawa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "chitire chinyengo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mnansi wako"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "mnansi wako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo usa"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "bire"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "adzakhalabe"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "malipiro"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "wa wogwirira ntchito"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ndi iwe ⟨את⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mmawa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:37.267013079Z",
+  "model": "glm-5.3"
+}

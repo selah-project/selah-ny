@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 43,
+  "translation": "Ine ndine Yahwe, Wopatulika wanu, Mlengi wa Yisraeli, Mfumu yanu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "Wopatulika wanu"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Mlengi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "Mfumu yanu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:17:22.160233507Z",
+  "model": "glm-5.3"
+}

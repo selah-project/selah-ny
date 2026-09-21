@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 28:18",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo pangano lanu ndi ⟨את⟩ imfa lidzaphimbidwa, ndi maonero anu ndi ⟨את⟩ Sheoli sadzayima; mkhwanje wodzaza pamene udzalowa, mudzakhala chodzayedwa chake.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "lidzaphimbidwa"
+    },
+    {
+      "surface": "בריתכם",
+      "gloss": "pangano lanu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imfa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "imfa"
+    },
+    {
+      "surface": "וחזותכם",
+      "gloss": "ndi maonero anu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheoli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheoli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadza"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "yima"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "mkhwanje"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "wodzaza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pamene"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "udzalowa"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "mudzakhala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chake"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "chodzayedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:12:08.061184840Z",
+  "model": "glm-5.3"
+}

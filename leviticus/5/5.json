@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo zidzakhala kotero, akadakhala molakwa pa chimodzi mwa izi, adzavomereza chimene anachimwa pa chimenecho.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ndipo zidzakhala kotero"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akada"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "akhala molakwa"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "pa chimodzi"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "mwa izi"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "adzavomereza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "anachimwa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pa chimenecho"
+    }
+  ],
+  "timestamp": "2026-09-21T06:33:16.265067132Z",
+  "model": "glm-5.3"
+}

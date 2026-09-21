@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ngati udzachita ⟨את⟩ chinthu ichi, ndipo Elohim adzakulamulira choncho, ndipo udzakhoza kuyimirira, ndiponso anthu onse awa adzabwera ku malo awo m'mtendere.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chinthu ichi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chinthu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "udzachita"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "adzakulamulira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "udzakhoza"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "kuyimirira"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "malo awo"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "adzabwera"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "m'mtendere"
+    }
+  ],
+  "timestamp": "2026-09-21T06:15:58.465017199Z",
+  "model": "glm-5.3"
+}

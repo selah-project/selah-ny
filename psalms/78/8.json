@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "Ndipo asakhale monga makolo awo, mbadwo wosamvera ndi wokana, mbadwo umene sunakonze mtima wake, ndipo mzimu wake sunakhale wokhulupirika ⟨את⟩ El.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ndipo asakhale"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "asakhale"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "monga makolo awo"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mbadwo"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "wosamvera"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "ndi wokana"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mbadwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "suna"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "sunakonze"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "mtima wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo suna"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "sunakhale wokhulupirika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "mzimu wake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:35.048350914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 31:3",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo Moshe analankhula kwa anthu, nati: “Konzani ⟨את⟩ okhala mwa inu anthu a nkhondo, ndipo akhale pa Midiyani, kupereka chiweruzo cha Yahwe pa Midiyani.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "analankhula"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "החלצו",
+      "gloss": "Konzani"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "okhala mwa inu ⟨את⟩",
+      "marks": "anthu a nkhondo"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "a nkhondo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "akhale"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyani"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kupereka"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "chiweruzo cha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "pa Midiyani"
+    }
+  ],
+  "timestamp": "2026-09-21T07:08:57.428145928Z",
+  "model": "glm-5.3"
+}

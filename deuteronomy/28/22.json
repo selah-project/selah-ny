@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 28:22",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Yahwe adzakumenya ndi chiwola, ndi ndulu, ndi mabula, ndi chilangalala, ndi lupanga, ndi kunyezimira, ndi chinyezimiro; ndipo izi zidzakulondola mpaka iwe kuonongeka.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "adzakumenya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשחפת",
+      "gloss": "ndi chiwola"
+    },
+    {
+      "surface": "ובקדחת",
+      "gloss": "ndi ndulu"
+    },
+    {
+      "surface": "ובדלקת",
+      "gloss": "ndi mabula"
+    },
+    {
+      "surface": "ובחרחר",
+      "gloss": "ndi chilangalala"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "ndi lupanga"
+    },
+    {
+      "surface": "ובשדפון",
+      "gloss": "ndi kunyezimira"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "ndi chinyezimiro"
+    },
+    {
+      "surface": "ורדפוך",
+      "gloss": "zidzakulondola"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "iwe kuonongeka"
+    }
+  ],
+  "timestamp": "2026-09-21T07:28:43.195632450Z",
+  "model": "glm-5.3"
+}

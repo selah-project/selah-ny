@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Zinalipo pa kubweranso kwa chaka, ndipo Beni-Hadadi ⟨את⟩ anakonza ⟨את⟩ Aramu, nakwera ku Apeka, kulimbana ndi Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zinalipo"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "pa kubweranso"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "kwa chaka"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "anakonza ⟨את⟩",
+      "marks": "Aramu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "wa Hadadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "nakwera"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "ku Apeka"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kulimbana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:45:26.486323679Z",
+  "model": "glm-5.3"
+}

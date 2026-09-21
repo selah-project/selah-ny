@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 144,
+  "translation": "Tambasula manja ako kumwamba kwapamwamba, undotse ine ndi undilandire ku madzi ambiri, m'dzanja la ana a anthu akunja.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "tambasula"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "manja ako"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "kumwamba kwapamwamba"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "undotse ine"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ndi undilandire"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "ku madzi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ambiri"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a anthu"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "akunja"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:10.045061795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 110,
+  "translation": "Yahwe analumbira, sadzasintha mtima: “Iwe ndiwe wansembe ku nthawi zonse, monga Malki-Tsedek.”",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "analumbira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sadzasintha"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ndiwe wansembe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "על",
+      "gloss": "monga"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "chitsanzo cha"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "-Tsedek"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:21.596009743Z",
+  "model": "glm-5.3"
+}

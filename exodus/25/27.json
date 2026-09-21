@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Pafupi ndi lamba la mbali ya mpando mipanga ya golide ikhale ⟨⟨:⟩⟩ malo a ndodo zonyamula ⟨את⟩ tebulo.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "pafupi ndi"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "lamba la mbali ya mpando"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "ikhale"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "mipanga ya golide"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "malo a"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "ndodo"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "zonyamula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tebulo"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tebulo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:56:08.657104560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Nthawi yolira, ndi nthawi yoseka; nthawi yokunditira, ndi nthawi yodina.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "nthawi"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "yolira"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ndi nthawi"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "yoseka"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nthawi"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "yokunditira"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ndi nthawi"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "yodina"
+    }
+  ],
+  "timestamp": "2026-09-21T11:54:59.807589287Z",
+  "model": "glm-5.3"
+}

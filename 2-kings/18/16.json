@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Pa nthawi imeneyo Chizkiya anadula ⟨את⟩ zitseko za tempile ya Yahwe ndi ⟨את⟩ miyala ya zitseko, amene Chizkiya mfumu wa Yehuda anaikhidira golide, napereka ⟨iyo⟩ kwa mfumu wa Ashuru.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Pa nthawi"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "imeneyo"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "anadula"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zitseko za tempile ya Yahwe"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "zitseko"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "za tempile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "miyala ya zitseko"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "miyala ya zitseko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "anaikhidira"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "napereka ⟨iyo⟩"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kwa mfumu wa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    }
+  ],
+  "timestamp": "2026-09-21T08:56:06.782335640Z",
+  "model": "glm-5.3"
+}

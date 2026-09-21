@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 17:33",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Analemeza ⟨את⟩ Yahwe, ndipo anatumikira ⟨את⟩ milungu yawo, monga mwa chiweruzo cha amitundu amene anawatengera kutali ⟨את⟩ iwo kumeneko.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "anali"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "woalemeza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "milungu yawo",
+      "marks": "milungu yawo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "anali"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "otumikira"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "monga mwa chiweruzo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "cha amitundu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "anawatengera kutali"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "amitundu"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kumeneko"
+    }
+  ],
+  "timestamp": "2026-09-21T08:56:46.855746136Z",
+  "model": "glm-5.3"
+}

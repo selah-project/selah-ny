@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo Davide anaopa ⟨את⟩ Elohim tsiku lomwelo, nati: Ndingalowetse bwanji kwa ine ⟨את⟩ chikuta cha Elohim?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "anaopa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lomwelo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "היך",
+      "gloss": "bwanji"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "Ndingalowetse"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikuta cha Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chikuta"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "cha Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T12:28:54.553430799Z",
+  "model": "glm-5.3"
+}

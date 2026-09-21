@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo Yerikho inatseka, inatsekedwa, chifukwa cha ana a Yisraeli; palibe wotuluka ndi palibe wolowa.",
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "Ndipo Yerikho"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "inatseka"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "inatsekedwa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "wotuluka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndi palibe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wolowa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:35:17.224016472Z",
+  "model": "glm-5.3"
+}

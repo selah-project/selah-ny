@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo Yehotsadaki anapita m'chitsirizo, pamene Yahwe anawatengera ⟨את⟩ Yehuda ndi Yerushalayimu, m'dzanja la Nebukadnetsari.",
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "Ndipo Yehotsadaki"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "anapita"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "m'chitsirizo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ndi Yerushalayimu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnetsari"
+    }
+  ],
+  "timestamp": "2026-09-21T12:23:32.874730951Z",
+  "model": "glm-5.3"
+}

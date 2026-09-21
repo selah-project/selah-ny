@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 51,
+  "translation": "Undimvetse chimwemwe ndi chikondwerero; mafupa omwe unawavunda adzakondwera.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "Undimvetse"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "chimwemwe"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "ndi chikondwerero"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "adzakondwera"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mafupa"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "omwe unawavunda"
+    }
+  ],
+  "timestamp": "2026-09-21T13:26:45.466326307Z",
+  "model": "glm-5.3"
+}

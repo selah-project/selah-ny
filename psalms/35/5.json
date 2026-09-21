@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Akhale ngati usi pamaso pa mphepo, ndipo mthenga wa Yahwe awataye.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Akhale"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "ngati usi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mphepo"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ndipo mthenga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "awataye"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:06.341930948Z",
+  "model": "glm-5.3"
+}

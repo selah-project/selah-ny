@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Imbani kwa Yahwe nyimbo yatsopano, mayamiko ake kuchokera ku malekezero a dziko lapansi; okhetsa nyanja ndi zonse zili mmenemo, zirwa ndi okhala mmenemo.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Imbani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yatsopano"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "mayamiko ake"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kuchokera ku malekezero"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a dziko lapansi"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "okhetsa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ndi zonse zili mmenemo"
+    },
+    {
+      "surface": "איים",
+      "gloss": "zirwa"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "ndi okhala mmenemo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:17:12.772915052Z",
+  "model": "glm-5.3"
+}

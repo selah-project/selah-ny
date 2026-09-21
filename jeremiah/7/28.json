@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 7:28",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo udzawatero kwa iwo: Uwu ndi mtundu umene súnvera mawu a Yahwe Elohim wake, ndipo sanalandire chilango; chikhulupiriro chatha, nachotsedwa pakamwa pawo.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "udzawatero"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uwu"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "mtundu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "sú-"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nvera"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sa-"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "nalandire"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "chilango"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "chatha"
+    },
+    {
+      "surface": "האמונה",
+      "gloss": "chikhulupiriro"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "nachotsedwa"
+    },
+    {
+      "surface": "מפיהם",
+      "gloss": "pakamwa pawo"
+    }
+  ],
+  "timestamp": "2026-09-21T13:15:05.581872963Z",
+  "model": "glm-5.3"
+}

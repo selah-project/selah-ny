@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 148,
+  "translation": "Mapiri ndi mapiri ang'onoang'ono onse; mitengo ya zipatso ndi mikungudza yonse:",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "mapiri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi onse"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "mapiri ang'onoang'ono"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mitengo"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ya zipatso"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi yonse"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "mikungudza"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:32.523757053Z",
+  "model": "glm-5.3"
+}

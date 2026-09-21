@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndi ⟨את⟩ Parshandatha, ndi ⟨את⟩ Dalfoni, ndi ⟨את⟩ Aspatha;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Parshandatha"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "Parshandatha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Dalfoni"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "Dalfoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Aspatha"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "Aspatha"
+    }
+  ],
+  "timestamp": "2026-09-21T12:01:13.727018860Z",
+  "model": "glm-5.3"
+}

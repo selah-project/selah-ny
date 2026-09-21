@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 170,
+  "ref": "psalms 119:170",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Pemphero langa lifike pamaso pako; monga mwa lonjezo lako, landitsa ndi chipulumutso.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "lifike"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "Pemphero langa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamaso pako"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "monga mwa lonjezo lako"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "landitsa ndi chipulumutso"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:46.240263870Z",
+  "model": "glm-5.3"
+}

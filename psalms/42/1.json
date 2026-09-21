@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Kwa woyang'anira ⟨ndi⟩ mphatso wa chiphunzitso, wa ana a Korahi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mphatso wa chiphunzitso"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wa ana a"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:16.248819085Z",
+  "model": "glm-5.3"
+}

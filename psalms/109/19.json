@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "Ikhale kwa iye monga chovala chimene amavala, ndipo monga chikhwazo chimene amachinga nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Ikhale"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "monga chovala"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "chimene amavala"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "ndipo monga chikhwazo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nthawi zonse"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "amachinga"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:36.496335001Z",
+  "model": "glm-5.3"
+}

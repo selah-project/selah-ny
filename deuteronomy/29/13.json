@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo si ndi inu okha ⟨אתכם⟩ amene ndikuphéra pangano ili ndi ⟨את⟩ imverero ili;",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩ ndi inu"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "okha"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ndikuphéra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangano ili"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "pangano"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "imverero ili"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "imverero"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ili"
+    }
+  ],
+  "timestamp": "2026-09-21T07:28:36.241066589Z",
+  "model": "glm-5.3"
+}

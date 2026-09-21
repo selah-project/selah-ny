@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 81,
+  "translation": "Koma anthu anga sanamvera mawu anga, ndipo Yisraeli sanavomera ine.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Koma sanamvera"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sanamvera"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "anthu anga"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "mawu anga"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ndipo Yisraeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sanavomera"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "sanavomera"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:12.469408040Z",
+  "model": "glm-5.3"
+}

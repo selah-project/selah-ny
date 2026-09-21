@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo kufuma m'chigawo cha Gad, ⟨את⟩ Raamothi m'Gileadhi pamodzi ndi ⟨את⟩ malo ake ozungulira, ndi ⟨את⟩ Machanayimu pamodzi ndi ⟨את⟩ malo ake ozungulira.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kufuma m'chigawo cha"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raamothi"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamothi"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "m'Gileadhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "pamodzi ndi ⟨את⟩",
+      "marks": "malo ake ozungulira"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "malo ake ozungulira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Machanayimu"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Machanayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "pamodzi ndi ⟨את⟩",
+      "marks": "malo ake ozungulira"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "malo ake ozungulira"
+    }
+  ],
+  "timestamp": "2026-09-21T12:24:44.268708277Z",
+  "model": "glm-5.3"
+}

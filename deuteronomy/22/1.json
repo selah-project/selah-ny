@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Usaone ⟨את⟩ bulu wa m'bale wako kapena ⟨את⟩ nkhosa yake zotayidwa, ndipo usadzibise ndi izi; bwezera ndithu kwa m'bale wako.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "one"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bulu"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bulu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wa m'bale wako"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhosa yake"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "nkhosa yake"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "zotayidwa"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "ndipo usadzibise"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ndi izi"
+    },
+    {
+      "surface": "השב",
+      "gloss": "bwezera ndithu"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "bwezera"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "kwa m'bale wako"
+    }
+  ],
+  "timestamp": "2026-09-21T07:24:58.216078552Z",
+  "model": "glm-5.3"
+}

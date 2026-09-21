@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo sonkha ⟨את⟩ msonkhano wonse ku khomo la Chihema cha Msonkhano.”",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ndipo ⟨את⟩",
+      "marks": "msonkhano wonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "msonkhano"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "sonkha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "khomo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Chihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "cha Msonkhano"
+    }
+  ],
+  "timestamp": "2026-09-21T06:33:13.754108160Z",
+  "model": "glm-5.3"
+}

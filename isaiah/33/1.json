@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Tsoka kwa iwe wononga, pomwe iwe sondaongedwa; wachinyengo, ndipo sanachinyengere ndi iwe! Pamene utatha kuononga, udzaongedwa; pamene ⟨machimo anu⟩ atatha kuchinyenga, adzakuchinyengerani.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Tsoka"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "kwa iwe wononga"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "pomwe iwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "son-"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "-daongedwa"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "wachinyengo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sana-"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "-chinyengere"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ndi iye"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "Pamene utatha"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "kuononga"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "udzaongedwa"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "Pamene atatha"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "kuchinyenga"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "adzakuchinyengerani"
+    },
+    {
+      "surface": "בך",
+      "gloss": "(mwa iwe)"
+    }
+  ],
+  "timestamp": "2026-09-21T09:13:54.677857092Z",
+  "model": "glm-5.3"
+}

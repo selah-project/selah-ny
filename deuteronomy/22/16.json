@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo atate wa mtsikana adzati kwa akulu: ⟨את⟩ mwana wanga wamkazi ndinampatsa kwa munthu uyu kukhala mkazi wake, ndipo wamudana.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "adzati"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atate"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "wa mtsikana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "akulu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wanga wamkazi"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mwana wanga wamkazi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndinampatsa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kwa munthu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kukhala mkazi wake"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "ndipo wamudana"
+    }
+  ],
+  "timestamp": "2026-09-21T07:25:21.985106970Z",
+  "model": "glm-5.3"
+}

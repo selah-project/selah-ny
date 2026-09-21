@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo m'fuko la Yisakhara ⟨את⟩ Kishiyoni ndi ⟨את⟩ malo ake ozungulira, ⟨את⟩ Daberatha ndi ⟨את⟩ malo ake ozungulira.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Ndipo m'fuko la"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yisakhara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kishiyoni"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "Kishiyoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malo ake ozungulira"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malo ake ozungulira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberatha"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberatha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malo ake ozungulira"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malo ake ozungulira"
+    }
+  ],
+  "timestamp": "2026-09-21T07:42:59.305932674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo iwo anayandikira, nadzakwatula iwo m'mavalo awo, kudyera kunja kwa msasa, monga momwe Moshe ananena.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "anayandikira"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "nadzakwatula iwo"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "m'mavalo awo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kudyera"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kunja"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kwa msasa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:34:36.580390356Z",
+  "model": "glm-5.3"
+}

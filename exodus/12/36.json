@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo Yahwe anapatsa ⟨את⟩ chisomo cha anthuwo maso a a Mitsrayimu; ndipo a Mitsrayimu anawapatsa zimene anapempha; ndipo ana a Yisraeli anabetsa ⟨את⟩ a Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ndipo Yahwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anapatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chisomo"
+    },
+    {
+      "surface": "חן",
+      "gloss": "chisomo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "cha anthuwo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "maso a"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "a Mitsrayimu"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "anawapatsa zimene anapempha"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "anabetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Mitsrayimu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "a Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:13:02.566121590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Ndipo anamanguwa, ndipo mmodzimmodzi anatsitsa ⟨את⟩ thumba lake pansi pa dziko, ndipo mmodzimmodzi anatsegula thumba lake.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "anamanguwa"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "anatsitsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmodzimmodzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thumba lake"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "thumba lake"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "pansi pa dziko"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "anatsegula"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmodzimmodzi"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "thumba lake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:03:44.092922835Z",
+  "model": "glm-5.3"
+}

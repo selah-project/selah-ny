@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Yambitsani khesedi chako kwa odziwa iwe, ndi chilungamo chako kwa olungama mtima.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "Yambitsani"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesedi chako"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "kwa odziwa iwe"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ndi chilungamo chako"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "kwa olungama"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:37.781250885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo adakweza ⟨את⟩ sanduku la Yahwe, ndi ⟨את⟩ hema ya msonkhano, ndi ⟨את⟩ zida zonse za chiyero zimene zili m'hema; ndipo ansembe ndi Alevi adazikweza ⟨את⟩ iwo.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "adakweza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku la Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "hema ya msonkhano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema ya"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "msonkhano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zida zonse za chiyero"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zida za"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "chiyero"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "m'hema"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "adazikweza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo (zinthu zimenezi)"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ansembe"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ndi Alevi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:36:25.158008899Z",
+  "model": "glm-5.3"
+}

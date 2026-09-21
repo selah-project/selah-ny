@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Moyo wathu adayembekezera Yahwe; Iye ndiye thandizo lathu ndi chishango chathu.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Moyo wathu"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "adayembekezera"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "thandizo lathu"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "ndi chishango chathu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Iye ndiye"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:58.305022677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Pakuti moyo wanga wonyoka m'dandaulo, ndi zaka zanga mu kudandaula; mphamvu yanga yagwira chifukwa cha mphulupulu zanga, ndipo mafupa anga onenepere.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "wonyoka"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "m'dandaulo"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "ndi zaka zanga"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "mu kudandaula"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "yagwira"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "chifukwa cha mphulupulu zanga"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "mphamvu yanga"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "ndipo mafupa anga"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "onenepere"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:20.555987780Z",
+  "model": "glm-5.3"
+}

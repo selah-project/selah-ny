@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Yahwe, ndakonda malo okhala a nyumba yanu, ndi malo a chikhomo cha ulemerero wanu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ndakonda"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "malo okhala"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "a nyumba yanu"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "ndi malo"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "a chikhomo"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "cha ulemerero wanu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:20.067470039Z",
+  "model": "glm-5.3"
+}

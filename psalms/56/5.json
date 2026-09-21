@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 56,
+  "translation": "Mwa Elohim ndidzatamanda liwu lake; mwa Elohim ndatsimikiza; sindidzaopa chimene thupi chingachitire kwa ine.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Mwa Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ndidzatamanda"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "liwu lake"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "mwa Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ndatsimikiza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "didzaopa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "chingachitire"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "thupi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:44.969182415Z",
+  "model": "glm-5.3"
+}

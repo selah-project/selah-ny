@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo mlamudziyo ankachotsa ⟨את⟩ zakudya zawo ndi vinyo lawo la kumwa, ndipo ankawapatsa mbewu zobzaladi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "mlamudziyo"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ankachotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zakudya zawo"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "zakudya zawo"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ndi vinyo"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "la kumwa kwawo"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ndipo ankawapatsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "mbewu zobzaladi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:01:41.148224674Z",
+  "model": "glm-5.3"
+}

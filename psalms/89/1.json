@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Chiphunzitso cha Eytani wa ku Ezra.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "chiphunzitso"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "cha Eytani"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "wa ku Ezra"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:40.822806751Z",
+  "model": "glm-5.3"
+}

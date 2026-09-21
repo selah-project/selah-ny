@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 75,
+  "translation": "Musayimitse kumwamba kwambiri nyanga yanu; musayankhule molimba Khosi ⟨wamkhalachala⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musayimitse (chiletsa: musa-)"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "musayimitse"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "kumwamba kwambiri"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "nyanga yanu"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "musayankhule (chiletsa: musa- + yankhula)"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "molimba Khosi"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "⟨wamkhalachala⟩"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:01.844523327Z",
+  "model": "glm-5.3"
+}

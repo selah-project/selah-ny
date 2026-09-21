@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 12:3",
+  "book": "daniel",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo anzeru adzawala ngati kuwala kwa m'mwamba, ndipo olungitsa ambiri ngati nyenyezi ku nthawi zosatha ndi ku nthawi zambiri.",
+  "tokens": [
+    {
+      "surface": "והמשכלים",
+      "gloss": "ndipo anzeru"
+    },
+    {
+      "surface": "יזהרו",
+      "gloss": "adzawala"
+    },
+    {
+      "surface": "כזהר",
+      "gloss": "ngati kuwala"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "kwa m'mwamba"
+    },
+    {
+      "surface": "ומצדיקי",
+      "gloss": "ndipo olungitsa"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "ambiri"
+    },
+    {
+      "surface": "ככוכבים",
+      "gloss": "ngati nyenyezi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zosatha"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ndi ku nthawi zambiri"
+    }
+  ],
+  "timestamp": "2026-09-21T12:11:15.660945682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 106,
+  "translation": "Ndipo anasintha ⟨את⟩ ulemerero wawo kukhala chifaniziro cha ngori idyako budulo.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "Ndipo anasintha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulemerero wawo"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ulemerero wawo"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "chifaniziro cha"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ngori"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "idyako"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "budulo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:43.231825375Z",
+  "model": "glm-5.3"
+}

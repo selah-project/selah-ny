@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Mawu amene Yesayahu, mwana wa Amotsi, anaona za Yuda ndi Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Mawu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yesayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "wa Amotsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ndi Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:02:23.640312234Z",
+  "model": "glm-5.3"
+}

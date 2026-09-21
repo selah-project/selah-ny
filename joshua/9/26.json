@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo anawachitira choncho, nadzapulumutsa ⟨את⟩ iwo m'dzanja la ana a Yisraeli, ndipo sanawaphete.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ndipo anawachitira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwawo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "choncho"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "nadzapulumutsa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sa-"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "-nawaphete"
+    }
+  ],
+  "timestamp": "2026-09-21T07:35:54.489330992Z",
+  "model": "glm-5.3"
+}

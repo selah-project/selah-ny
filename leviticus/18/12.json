@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Bululi la mlongo wa bambo wako sudzaulula, pakuti thupi la bambo wako ndiye iye.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "bululi"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "mlongo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wa bambo wako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "dzaulula"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "thupi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "la bambo wako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    }
+  ],
+  "timestamp": "2026-09-21T06:39:24.549216025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo mawu a Yahwe anafika kwa iye, nati:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo anafika"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    }
+  ],
+  "timestamp": "2026-09-21T08:41:55.249252455Z",
+  "model": "glm-5.3"
+}

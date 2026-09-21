@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 1:5",
+  "book": "ezra",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo anauka mitu ya mabanja a Yehudah ndi Benjamini, ndi ansembe ndi Alevi, onse amene Elohim adaukitsa ⟨את⟩ mzimu wawo, kuti adzamuke kukamanga ⟨את⟩ nyumba ya Yahwe imene ili ku Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "anauka"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mitu ya mabanja"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "a mabanja"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "a Yehudah"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ndi Benjamini"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ndi ansembe"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ndi Alevi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "onse amene"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "adaukitsa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mzimu wawo"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "mzimu wawo"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "kuti adzamuke"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kukamanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ili ku Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:12:12.432303749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Ndipo aliyense wachangu mtima mwa inu abwere, ndi kupanga ⟨את⟩ zonse zimene Yahwe adalamulira.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ndi aliyense"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wachangu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mwa inu"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "abwere"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ndi kupanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "adalamulira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:25:06.435255542Z",
+  "model": "glm-5.3"
+}

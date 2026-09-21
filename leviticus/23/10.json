@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 23:10",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Yankhulani kwa ana a Yisraeli, ndipo muwauze iwo: Pamene mulowa m'dziko limene ine ndikupatsani, ndipo mwerera ⟨את⟩ zolowa zake, ndipo mubwere ndi ⟨את⟩ mthinga, chiyambi cha zolowa zanu, kwa wansembe.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Yankhulani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ndipo muwauze"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pamene"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "mulowa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "m'"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ndikupatsani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "וקצרתם",
+      "gloss": "ndipo mwerera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zolowa zake"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "zolowa zake"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "ndipo mubwere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mthinga"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "mthinga"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "chiyambi cha"
+    },
+    {
+      "surface": "קצירכם",
+      "gloss": "zolowa zanu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:59.483256901Z",
+  "model": "glm-5.3"
+}

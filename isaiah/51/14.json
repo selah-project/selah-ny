@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 51,
+  "translation": "Wosunthidwa adzakonzedwa mwachangu kuti amasulidwe; ndipo sadzafa m'bwenzi, ndipo mkate wake sudzasowa.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "mwachangu"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "wosunthidwa"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "kuti amasulidwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo osati"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "adzafa"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "m'bwenzi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo osati"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "sudzasowa"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "mkate wake"
+    }
+  ],
+  "timestamp": "2026-09-21T09:22:22.891752402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo Mikhayahu adati: “Yahwe wamoyo, chifukwa ⟨את⟩ chimene Yahwe adzati kwa ine, ndilo ndidzayankhula ⟨אתו⟩.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo adati"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikhayahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wamoyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chimene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "adzati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ndidzayankhula"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ndidzayankhula"
+    }
+  ],
+  "timestamp": "2026-09-21T08:46:29.389292919Z",
+  "model": "glm-5.3"
+}

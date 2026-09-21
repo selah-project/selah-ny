@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 27,
+  "translation": "Ndipo Akishi anati: “Simunaphange lero ali kuti?” Ndipo Davide anati: “Pa kumwera kwa Yehuda, ndi pa kumwera kwa Ayerahimeeli, ndi pa kumwera kwa Keni.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akishi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Simu-"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "-naphange"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "kumwera"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "kumwera"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "Ayerahimeeli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi pa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "kumwera"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "Keni"
+    }
+  ],
+  "timestamp": "2026-09-21T08:14:08.960611812Z",
+  "model": "glm-5.3"
+}

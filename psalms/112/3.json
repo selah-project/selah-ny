@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 112,
+  "translation": "Chuma ndi chuma chachikuli chili m'nyumba yake; ndipo chilungamo chake chikhala chokhazikika ku nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Chuma"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ndi chuma chachikuli"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "m'nyumba yake"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ndipo chilungamo chake"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "chikhala chokhazikika"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ku nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:36.296743237Z",
+  "model": "glm-5.3"
+}

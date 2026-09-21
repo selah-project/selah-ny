@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 57:11",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 57,
+  "translation": "Ndipo ndi ⟨את⟩ ndani unadanda, ndipo unaopa, popeza unanamiza? Ndi ⟨את⟩ ine simunandikumbukire, simunaika pa mtima wako. Kodi sindine wocheta ndipo kuyambira kale? Ndi ⟨את⟩ ine simbaope.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ndani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "דאגת",
+      "gloss": "unadanda"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "ndipo unaopa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "תכזבי",
+      "gloss": "unanamiza"
+    },
+    {
+      "surface": "ואותי",
+      "gloss": "ndi ⟨את⟩ ine",
+      "marks": "ine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "זכרת",
+      "gloss": "-munandikumbukire"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "-munaika"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "mtima wako"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "kodi si-"
+    },
+    {
+      "surface": "אני",
+      "gloss": "-ndine"
+    },
+    {
+      "surface": "מחשה",
+      "gloss": "wocheta"
+    },
+    {
+      "surface": "ומעלם",
+      "gloss": "ndipo kuyambira kale"
+    },
+    {
+      "surface": "ואותי",
+      "gloss": "ndi ⟨את⟩ ine",
+      "marks": "ine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "-mubaope"
+    }
+  ],
+  "timestamp": "2026-09-21T09:23:01.108111196Z",
+  "model": "glm-5.3"
+}

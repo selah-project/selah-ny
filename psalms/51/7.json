@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 51,
+  "translation": "Taona, mu cholakwa ndinabadwa, ndipo mu tchimo amayi wanga anandiyembekezera.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Taona"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "mu cholakwa"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "ndinabadwa"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "ndipo mu tchimo"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "anandiyembekezera"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "amayi wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:42.496849869Z",
+  "model": "glm-5.3"
+}

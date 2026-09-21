@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 5:1",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Moshe adaitana Yisraeli wonse, ndipo anati kwa iwo: “Imva, Yisraeli, ⟨את⟩ malamulo ndi ⟨את⟩ miweruzo imene ine ndikuyankhula m'makutu mwanu lero; muphunzire ⟨את⟩ izo, ndipo musunge kuchita izo.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "adaitana"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ndipo anati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Imva"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malamulo"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "malamulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "miweruzo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "miweruzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ndikuyankhula"
+    },
+    {
+      "surface": "באזניכם",
+      "gloss": "m'makutu mwanu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lero"
+    },
+    {
+      "surface": "ולמדתם",
+      "gloss": "muphunzire"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ izo",
+      "marks": "malamulo ndi miweruzo"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "musunge"
+    },
+    {
+      "surface": "לעשתם",
+      "gloss": "kuchita izo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:15:59.371245314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 15:11",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo anapereka nsembe kwa Yahwe tsiku limenelo, kuchokera m'chuma chavula chimene anabweretsa: ng'ombe 700 ndi nkhosa 7,000.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "anapereka nsembe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "limenelo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuchokera"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "m'chuma chavula"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "anabweretsa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zisanu ndi ziwiri m'madoko (7)"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "madoko (100)"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ndi nkhosa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "zisanu ndi ziwiri m'mazana (7)"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mazana (1,000)"
+    }
+  ],
+  "timestamp": "2026-09-21T12:41:55.100983556Z",
+  "model": "glm-5.3"
+}

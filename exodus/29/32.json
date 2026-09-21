@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo Aharoni ndi ana ake adzadya ⟨את⟩ inyama ya nkhosa yambuta ndi ⟨את⟩ mkate umene uli mu chikwatu, pa khomo la chihema cha msonkhano.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "ndipo adzadya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ndi ana ake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyama ya nkhosa yambuta"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ya nkhosa yambuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umene"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "uli mu chikwatu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pa khomo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "la chihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "cha msonkhano"
+    }
+  ],
+  "timestamp": "2026-09-21T06:22:47.593473602Z",
+  "model": "glm-5.3"
+}

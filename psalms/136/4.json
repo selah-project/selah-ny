@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 136,
+  "translation": "Kwa Iye amene amachita zozizwitsa zazikulu yekha, chifukwa kwa nthawi zonse ndi khesedi wake.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "amene amachita"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "zozizwitsa"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "zazikulu"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yekha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kwa nthawi zonse"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi wake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:05.593429771Z",
+  "model": "glm-5.3"
+}

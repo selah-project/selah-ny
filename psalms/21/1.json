@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Kwa woyang'anira ⟨nyimbo⟩. Ndiye chikondwerero cha Davide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "⟨nyimbo⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "cha Davide"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:10.762953391Z",
+  "model": "glm-5.3"
+}

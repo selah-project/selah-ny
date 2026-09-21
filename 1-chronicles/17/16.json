@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 17:16",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo mfumu Davide analowa, nakhala pamaso pa Yahwe, nati: “Ndine ndani, Yahwe Elohim, ndipo nyumba yanga ndi ndani, kuti mwandibweretsa mpaka chano apa?”",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ndipo analowa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nakhala"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ndipo ndani"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "nyumba yanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הביאתני",
+      "gloss": "mwandibweretsa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "chano apa"
+    }
+  ],
+  "timestamp": "2026-09-21T12:30:47.164296549Z",
+  "model": "glm-5.3"
+}

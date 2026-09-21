@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "“Ndipo mudzakhala kuti m'utsinja umenewu mudzamwa; ndipo ⟨את⟩ akakuda ndawalamulira kudzakudyetsa iwe komweko.”",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ndipo mudzakhala kuti"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "m'utsinja umenewu"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "mudzamwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "akakuda"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "akakuda"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ndawalamulira"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "kudzakudyetsa iwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "komweko"
+    }
+  ],
+  "timestamp": "2026-09-21T08:41:55.249605462Z",
+  "model": "glm-5.3"
+}

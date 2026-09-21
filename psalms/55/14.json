@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 55,
+  "translation": "Koma ndiwe iwe, munthu wofanana ndi ine, bwenzi langa ndi mnzanga wodziwa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Koma ndiwe iwe"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "wofanana ndi ine"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "bwenzi langa"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "ndi mnzanga wodziwa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:11.136818733Z",
+  "model": "glm-5.3"
+}

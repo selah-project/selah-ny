@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Musayese ⟨את⟩ Yahwe Elohim wanu, monga munamuyesa ku Massa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Mus"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "ayese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim wanu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "munamuyesa"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "ku Massa"
+    }
+  ],
+  "timestamp": "2026-09-21T07:15:39.935503061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo Avraham anayenda, kuyenda ndi kupita ⟨kulikonse⟩ ku Negevu.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "kuyenda"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "ndi kupita"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "ku Negevu"
+    }
+  ],
+  "timestamp": "2026-09-21T05:46:38.500262258Z",
+  "model": "glm-5.3"
+}

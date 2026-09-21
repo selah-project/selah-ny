@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Mawu a Koheleti, mwana wa Davide, mfumu ku Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Mawu"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Koheleti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ku Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:02.772056353Z",
+  "model": "glm-5.3"
+}

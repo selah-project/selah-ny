@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Davidi adaitana mmodzi mwa anyamatawo, nati: “Wandikomere, m’menyeni.” Iye adam’menya, nadafa.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "adaitana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "mmodzi"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "mwa anyamatawo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "גש",
+      "gloss": "wandikomere"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "m’menyeni"
+    },
+    {
+      "surface": "בו",
+      "gloss": "-mu"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "adam’menya"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "nadafa"
+    }
+  ],
+  "timestamp": "2026-09-21T08:16:35.168281345Z",
+  "model": "glm-5.3"
+}

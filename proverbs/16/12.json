@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 16:12",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Kuchita zoipa ndi zonyansa kwa mafumu, pakuti mwachilungamo mpando wachifumu umakhazikika.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "zonyansa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kwa mafumu"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "kuchita"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "zoipa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "mwachilungamo"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "umakhazikika"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "mpando wachifumu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:23:00.407008102Z",
+  "model": "glm-5.3"
+}

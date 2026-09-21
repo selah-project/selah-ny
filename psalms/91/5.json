@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 91,
+  "translation": "Sudza kuopa mantha usiku, kapena munda uli kuuluka masana.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sudza"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "kuopa"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "mantha"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "munda"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "uli kuuluka"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "masana"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:34.191366925Z",
+  "model": "glm-5.3"
+}

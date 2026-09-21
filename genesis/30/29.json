@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 30:29",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndiipo adati kwa iye: “Iwe umadziwa ⟨את⟩ zimene ndinakutumikira, ndi ⟨את⟩ zimene ziweto zako zinali ⟨את⟩ ndi ine.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ndiipo adati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "umadziwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zimene ndinakutumikira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "ndinakutumikira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ziweto zako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "היה",
+      "gloss": "zinali"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "ziweto zako"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ndi ine"
+    }
+  ],
+  "timestamp": "2026-09-21T12:55:20.745691952Z",
+  "model": "glm-5.3"
+}

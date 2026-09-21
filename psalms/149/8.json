@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 149,
+  "translation": "Kukamangira mafumu awo ndi mauni, ndi olemekezedwa awo ndi zisompa za chitsulo.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "kukamangira"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "mafumu awo"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "ndi mauni"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "ndi olemekezedwa awo"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "ndi zisompa"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "za chitsulo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:02.781257118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "chifukwa m'mwa mkwiyo wa Yahwe kunachitika choipa mu Yerushalayimu ndi mu Yehudah, mpaka atawaponya ⟨אתם⟩ iwo pamaso pake; ndipo Tsidkiyahu anapandukira mfumu ya Babuloni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "m'mwa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mkwiyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kunachitika"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "mu Yerushalayimu"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "ndi mu Yehudah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "ataponya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "Yerushalayimu ndi Yehudah"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pamaso"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "pake"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "anapandukira"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ya Babuloni"
+    }
+  ],
+  "timestamp": "2026-09-21T09:00:54.811387129Z",
+  "model": "glm-5.3"
+}

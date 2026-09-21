@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo anayeretsa akeneri ndi Alevi, ndipo anayeretsa ⟨את⟩ anthu, ndi ⟨את⟩ makomo, ndi ⟨את⟩ khoma.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "Ndipo anayeretsa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "akeneri"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ndi Alevi"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "ndipo anayeretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "makomo"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "makomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "khoma"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "khoma"
+    }
+  ],
+  "timestamp": "2026-09-21T12:21:45.282651222Z",
+  "model": "glm-5.3"
+}

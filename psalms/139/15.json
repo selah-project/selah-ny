@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 139,
+  "translation": "Thupi langa sinanabisike ndi iwe, pamene ndinapangidwa m'chinsinsi, ndipo ndaphatikizidwa m'munsi mwa dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sina-"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "-nabisike"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "Thupi langa"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ndi iwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pamene"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndinapangidwa"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "m'chinsinsi"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "ndaphatikizidwa"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "m'munsi mwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:50.233155769Z",
+  "model": "glm-5.3"
+}

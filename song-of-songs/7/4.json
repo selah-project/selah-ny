@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 7:4",
+  "book": "song-of-songs",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Mabadali aho awiri ali monga ana awiri a chencherere, mapere a chencherere wachikazi.",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "mabadali aho"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "monga ana awiri"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "a chencherere"
+    },
+    {
+      "surface": "תאמי",
+      "gloss": "mapere"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "chencherere wachikazi"
+    }
+  ],
+  "timestamp": "2026-09-21T13:30:34.101661862Z",
+  "model": "glm-5.3"
+}

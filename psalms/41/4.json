@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Yahwe adzam'thatira pa bedi la kuvutika; malo ake onse ogona unawasintha m'udwala wake.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "adzam'thatira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "bedi"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "la kuvutika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "malo ake ogona"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "unawasintha"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "m'udwala wake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:08.217375018Z",
+  "model": "glm-5.3"
+}

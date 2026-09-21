@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 3:24",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Analowa mu kampinga wa Israyeli, ndipo a Israyeli anauka, namenya ⟨את⟩ Moab, ndipo anathawa pamaso pawo; analowa mmenemo, ndi kumenya ⟨את⟩ Moab.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Analowa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampinga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Israyeli"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "anauka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Israyeli"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "namenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "anathawa"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "pamaso pawo"
+    },
+    {
+      "surface": "ויבו",
+      "gloss": "analowa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mmenemo"
+    },
+    {
+      "surface": "והכות",
+      "gloss": "ndi kumenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-09-21T08:48:23.936382078Z",
+  "model": "glm-5.3"
+}

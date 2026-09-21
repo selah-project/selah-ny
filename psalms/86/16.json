@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 86,
+  "translation": "Tembenukira ine, ndi undichitire chifundo; patika mphamvu yawo kwa kapolo wako, ndipo pandipulumutse mwana wa mdzakazi wako.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "tembenukira"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ndi undichitire chifundo"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "patika"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "mphamvu yawo"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "kwa kapolo wako"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "ndipo pandipulumutse"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "mdzakazi wako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:44.337528666Z",
+  "model": "glm-5.3"
+}

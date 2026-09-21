@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndithu, Yahwe, mafumu a Ashuru anawononga ⟨את⟩ mitundu ya anthu ndi ⟨את⟩ dziko lawo.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Ndithu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "anawononga"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mafu a"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitundu ya anthu"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mitundu ya anthu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "dziko lawo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "dziko lawo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:58:43.089350544Z",
+  "model": "glm-5.3"
+}

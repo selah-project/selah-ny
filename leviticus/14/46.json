@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo wolowa m'nyumba, masiku onse a kutsekedwa ⟨את⟩ iyo, adzadetsa mpaka madzilo.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "wolowa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "m'"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "masiku a"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "kutsekedwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "adzadetsa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "madzilo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:38:24.404684250Z",
+  "model": "glm-5.3"
+}

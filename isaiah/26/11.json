@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 26:11",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Yahwe, dzanja lako linatulukiridwa, iwo saona; adzaona ndi kuchititsidwa manyazi — nsanje za anthu; inde, moto udzawadya odometsa iwo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "linatulukiridwa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dzanja lako"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יחזיון",
+      "gloss": "saona"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "adzaona"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ndi kuchititsidwa manyazi"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "nsanje"
+    },
+    {
+      "surface": "עם",
+      "gloss": "za anthu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "inde"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "wa adani anu"
+    },
+    {
+      "surface": "תאכלם",
+      "gloss": "udzawadya odometsa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:10:17.139190577Z",
+  "model": "glm-5.3"
+}

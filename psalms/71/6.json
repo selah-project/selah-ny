@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 71,
+  "translation": "Pa iye ndinayimirira kuyambira m'mimba; ndi m'mimba mwa amayi wanga iwe ndiye wondichotera. Mwa iye matamando anga nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Pa iye"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "ndinayimirira"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "kuyambira m'mimba"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "ndi m'mimba"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mwa amayi wanga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "wondichotera"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Mwa iye"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "matamando anga"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:42.801111729Z",
+  "model": "glm-5.3"
+}

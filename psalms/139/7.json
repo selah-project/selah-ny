@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 139,
+  "translation": "Ndikapita kwali ndi mzimu wako? Ndipo ndikathawa ku nkhope yako ndikapita kwali?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "kwali"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ndikapita"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "ndi mzimu wako"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "ndipo ndikapita kwali"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ku nkhope yako"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "ndikathawa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:23.518263486Z",
+  "model": "glm-5.3"
+}

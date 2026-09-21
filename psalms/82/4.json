@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 82,
+  "translation": "Mlanditseni wolala ndi wosowa; m'dzanja la oipa mlanditseni.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "mlanditseni"
+    },
+    {
+      "surface": "דל",
+      "gloss": "wolala"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ndi wosowa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "m'dzanja"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "la oipa"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "mlanditsani"
+    }
+  ],
+  "timestamp": "2026-09-21T10:58:12.868435936Z",
+  "model": "glm-5.3"
+}

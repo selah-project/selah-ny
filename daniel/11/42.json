@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 11:42",
+  "book": "daniel",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo adzatambasula dzanja lake pa maderawa; ndipo dziko la Mitsrayimu silidzakhalabe chapulumutso.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ndipo adzatambasula"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "pa maderawa"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ndipo dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "lidzakhalabe"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "chapulumutso"
+    }
+  ],
+  "timestamp": "2026-09-21T13:33:57.090966388Z",
+  "model": "glm-5.3"
+}

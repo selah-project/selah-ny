@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "“Munthu, mbuye wa dziko, anayankhula nati ⟨את⟩ mwaukali, naika ⟨את⟩ ife ngati abalire ⟨את⟩ dziko.”",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "anayankhula"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mbuye wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "nati ⟨את⟩"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "mwaukali"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "naika"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ife"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "ngati abalire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    }
+  ],
+  "timestamp": "2026-09-21T06:03:58.357020104Z",
+  "model": "glm-5.3"
+}

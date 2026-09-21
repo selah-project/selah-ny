@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo ⟨את⟩ ana ake sindidzawachitira chifundo; pakuti ana a chigololo ndiwo iwo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ana ake"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "chitira chifundo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "chigololo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:20:23.874583851Z",
+  "model": "glm-5.3"
+}

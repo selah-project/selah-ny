@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Amene anakutulutsa ⟨את⟩ inu mu dziko la Mitsrayimu, kuti ndikhale Elohim wanu; ndine Yahwe.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "Amene anakutulutsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kuti ndikhale"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wanu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:24.496250618Z",
+  "model": "glm-5.3"
+}

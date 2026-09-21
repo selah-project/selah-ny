@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo anthu anapuma pa tsiku lachinkiranzo.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "anapuma"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pa tsiku"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "lachinkiranzo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:15:45.574432461Z",
+  "model": "glm-5.3"
+}

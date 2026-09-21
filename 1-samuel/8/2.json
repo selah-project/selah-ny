@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Dzina la mwana wake wamkulu linali Yoeli, ndipo dzina la wachiwiri wake linali Aviya; anali aweruzi kuBeersheba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ndipo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dzina"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "la mwana wake"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoeli"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ndipo dzina"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "la wachiwiri wake"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviya"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "aweruzi"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Beersheba"
+    }
+  ],
+  "timestamp": "2026-09-21T08:01:26.897182517Z",
+  "model": "glm-5.3"
+}

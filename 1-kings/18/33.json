@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo anapangiriza ⟨את⟩ mitengo, nadula ⟨את⟩ ng'ombeyo, nayika pa mitengoyo.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "anapangiriza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitengo"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "mitengo"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "nadula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombeyo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ng'ombeyo"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nayika"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "mitengoyo"
+    }
+  ],
+  "timestamp": "2026-09-21T08:43:53.646076745Z",
+  "model": "glm-5.3"
+}

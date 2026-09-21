@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 66,
+  "translation": "Unatilowetsa mu chida cholowetsa; unaika chisautso pa ziwalo zathu.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "Unatilowetsa"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "mu chida cholowetsa"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "unaika"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "chisautso"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "pa ziwalo zathu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:22.287877626Z",
+  "model": "glm-5.3"
+}

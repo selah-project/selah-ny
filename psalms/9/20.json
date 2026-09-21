@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Auke Yahwe; munthu asapotereze; amitundu auweruzidwe pamaso pako.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Auke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asa-"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "potereze"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "auweruzidwe"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amitundu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamaso"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "pako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:17.783501476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndiye mfumu mayankha, nati: “Mupatse iye ⟨את⟩ mwana wamoyo, ndipo musamuphe — iye ndi mai wake.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "mayankha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Mupatse"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wamoyo"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "החי",
+      "gloss": "wamoyo"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "ndipo musamuphe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musamuphe"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "musamuphe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mai wake"
+    }
+  ],
+  "timestamp": "2026-09-21T13:08:32.652313421Z",
+  "model": "glm-5.3"
+}

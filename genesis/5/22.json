@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo Khanokhe anayenda ndi ⟨את⟩ Elohim atabala ⟨את⟩ Metushelakhi, zaka mazana atatu; ndipo anabala ana aamuna ndi aakazimwali.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanokhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "atabala"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "(atabala)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metushelakhi"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metushelakhi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ana aamuna"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ndi aakazimwali"
+    }
+  ],
+  "timestamp": "2026-09-21T05:43:44.496525724Z",
+  "model": "glm-5.3"
+}

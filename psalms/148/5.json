@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 148,
+  "translation": "Alemekezani ⟨את⟩ Dzina la Yahwe, chifukwa iye adalamulira, ndipo ⟨zinalengedwa⟩.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Alemekezani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dzina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Dzina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "adalamulira"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "ndipo zinalengedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:35.153601554Z",
+  "model": "glm-5.3"
+}

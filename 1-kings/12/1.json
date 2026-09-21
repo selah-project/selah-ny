@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo Rehavamu anapita ku Shekemu, chifukwa Yisraeli wonse anadza ku Shekemu kumufumitsa ⟨את⟩ iye.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "anapita"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavamu"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ku Shekemu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ku Shekemu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "anadza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "kumufumitsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "iye (Rehavamu)"
+    }
+  ],
+  "timestamp": "2026-09-21T08:40:34.741706188Z",
+  "model": "glm-5.3"
+}

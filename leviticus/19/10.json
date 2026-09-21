@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo mzerewa wanu musazukhitse konse kale, ndipo mphungu za mzerewa wanu musazitutire; wosauka ndi mlendo muwasiye ⟨אתם⟩. Ine ndine Yahwe Elohim wanu.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "mzerewa wanu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "musazukhitse konse kale"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "ndipo mphungu"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "za mzerewa wanu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "musazitutire"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "wosauka"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "ndi mlendo"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "muwasiye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "iwo (wosauka ndi mlendo)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:57:42.398523140Z",
+  "model": "glm-5.3"
+}

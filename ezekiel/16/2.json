@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Mwana wa munthu, chizidziwitse ⟨את⟩ Yerushalayimu ⟨את⟩ zoipa zake,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa munthu"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "chizidziwitse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zoipa zake"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "zoipa zake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:00:34.949371492Z",
+  "model": "glm-5.3"
+}

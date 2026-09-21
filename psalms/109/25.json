@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "Ndipo ineyo ndinakhala chinyengo kwa iwo; akandiona ndithu, amanyozetsa mutu wawo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ndipo ineyo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndinakhala"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "chinyengo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "akandiona ndithu"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "amanyozetsa"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "mutu wawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:45.314036031Z",
+  "model": "glm-5.3"
+}

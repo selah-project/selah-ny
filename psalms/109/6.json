@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "M'yesetse woipa pa iye, ndipo wotsutsa ayimire pa dzanja lake lamanja.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "m'yesetse"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "woipa"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "ndipo wotsutsa"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ayimire"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "dzanja lake lamanja"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:50.952190824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo ndinayankha, ndipo ndinati kwa mngelo woyankhula ndi ine, ndi kunena: “Chiyani izi, Adonayi wanga?”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ndinayankha"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ndipo ndinati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mngelo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "woyankhula"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ndi ine"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ndi kunena"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Chiyani"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:36:35.790394940Z",
+  "model": "glm-5.3"
+}

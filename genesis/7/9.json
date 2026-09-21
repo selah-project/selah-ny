@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ziwiri ndi ziwiri zinalowa kwa Noa, m'ngalawa, chachimwamuna ndi chachikazi, monga Elohim adalamulira ⟨את⟩ Noa.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "באו",
+      "gloss": "zinalowa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "m'"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ngalawa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "chachimwamuna"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ndi chachikazi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "adalamulira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:06.734105566Z",
+  "model": "glm-5.3"
+}

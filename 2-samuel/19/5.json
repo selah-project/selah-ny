@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo mfumu inabisa ⟨את⟩ nkhope yake, ndipo mfumu inalira lilo likulu, ikuti: “Mwana wanga, Avshalomu! Avshalomu, mwana wanga, mwana wanga!”",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ndipo mfumu"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "inabisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhope yake"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "nkhope yake"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "ndipo inalira"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lilo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "likulu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana wanga"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalomu"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalomu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana wanga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T08:28:06.748805405Z",
+  "model": "glm-5.3"
+}

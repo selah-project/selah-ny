@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Landirani chilango, n'chidzagwedezeka; yankhulani mawu, ndipo sadzayima; pakuti El ali nafe.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "landirani"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "chilango"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "n'chidzagwedezeka"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "yankhulani"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sadza"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "yima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ali nafe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-21T09:03:11.141158683Z",
+  "model": "glm-5.3"
+}

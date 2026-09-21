@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 145,
+  "translation": "Umaturutsa ⟨את⟩ dzanja lako, ndipo umakhutsa zonse zimoyo ndi chikondwerero.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "Umaturutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzanja lako"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "dzanja lako"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "ndipo umakhutsa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "חי",
+      "gloss": "zimoyo"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "chikondwerero"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:02.155639768Z",
+  "model": "glm-5.3"
+}

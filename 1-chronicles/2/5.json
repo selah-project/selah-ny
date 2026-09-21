@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 2:5",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ana a Peretsi: Chetsironi ndi Chamuli.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peretsi"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsironi"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "ndi Chamuli"
+    }
+  ],
+  "timestamp": "2026-09-21T12:22:25.529556219Z",
+  "model": "glm-5.3"
+}

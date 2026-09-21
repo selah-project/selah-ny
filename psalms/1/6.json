@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Pakuti Yahwe amadziwa njira ya olungama, koma njira ya oipa idzawonongoka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "amadziwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ya olungama"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "koma njira"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya oipa"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "idzawonongoka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:39:42.999558700Z",
+  "model": "glm-5.3"
+}

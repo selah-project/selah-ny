@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndani adziwa, angabwerere, nakhumudwe, Elohim, nabwerere ku nyali ya mkwiyo wake — kuti ife sitidzawonongoka?”",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ndani"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "adziwa"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "angabwerere"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "nakhumudwe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "nabwerere"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "ku nyali ya mkwiyo"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "siti-"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "-dzawonongoka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:28:30.133918813Z",
+  "model": "glm-5.3"
+}

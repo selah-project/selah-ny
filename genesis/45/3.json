@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 45,
+  "translation": "Ndipo Yosefu anati kwa abale ake: “Ine ndine Yosefu. Kodi aboyo wanga ali ndi moyo?” Koma abale ake sanakhoze kuyankha ⟨את⟩ iye, chifukwa anagwedezeka pamaso pake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abale ake"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "kodi ... ali"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aboyo wanga"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ndi moyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma ... sana-"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "anakhoza"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abale ake"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "kuyankha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "⟨את⟩ iye — chinthu choyankhidwa ndi Yosefu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "anagwedezeka"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "pamaso pake"
+    }
+  ],
+  "timestamp": "2026-09-21T06:05:51.399884067Z",
+  "model": "glm-5.3"
+}

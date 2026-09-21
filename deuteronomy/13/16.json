@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Udzamena ndithu ⟨את⟩ okhala mzinda umenewo ndi kumwa kwa lupanga; uzunike ngati cheremo ⟨את⟩ iye ndi ⟨את⟩ zonse zili mmenemo, ndi ⟨את⟩ ziweto zake ndi kumwa kwa lupanga.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "mena"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "udzamena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okhala mzinda umenewo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "okhala"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "umenewo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ndi kumwa kwa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "lupanga"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "uzunike ngati cheremo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iye (mzindawo)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zi-"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mmenemo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "ziweto zake"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ndi kumwa kwa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "lupanga"
+    }
+  ],
+  "timestamp": "2026-09-21T07:20:49.048301586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Ndipo anasungitsa ⟨את⟩ iwo m'ndende masiku atatu.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "anasungitsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "m'"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "ndende"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    }
+  ],
+  "timestamp": "2026-09-21T06:03:04.232720648Z",
+  "model": "glm-5.3"
+}

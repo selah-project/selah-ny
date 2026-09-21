@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo pambuyo pake anabala mwana wamkazi, nadaita dzina lake ⟨את⟩ Dina.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ndipo pambuyo pake"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "nadaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzina lake"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dzina lake"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    }
+  ],
+  "timestamp": "2026-09-21T05:54:51.173452764Z",
+  "model": "glm-5.3"
+}

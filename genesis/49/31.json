@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 49,
+  "translation": "Kumeneko anayikitsa m'manda ⟨את⟩ Avraham ndi ⟨את⟩ Sara mkazi wake; kumeneko anayikitsa m'manda ⟨את⟩ Yitschaki ndi ⟨את⟩ Rivka mkazi wake; ndipo kumeneko ineyo ndinayikitsa m'manda ⟨את⟩ Lea.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Kumeneko"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "anayikitsa m'manda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mkazi wake"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "anayikitsa m'manda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschaki"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אשתwo",
+      "gloss": "mkazi wake"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ndipo kumeneko"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "ndinayikitsa m'manda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    }
+  ],
+  "timestamp": "2026-09-21T06:07:12.675773066Z",
+  "model": "glm-5.3"
+}

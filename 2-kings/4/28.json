@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo iye anati: “Kodi ndinapempha ⟨את⟩ mwana kwa ambuye wanga? Kodi sindinanena kuti: Musandidanisire ⟨את⟩ ine?”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ndipo iye anati"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "Kodi ndinapempha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kwa ⟨את⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ambuye wanga"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "kodi sindi-"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nanena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kuti musa-"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "ndidanisire"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ine"
+    }
+  ],
+  "timestamp": "2026-09-21T08:49:06.990826160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 55,
+  "translation": "Pakuti maganizo anga si maganizo anu, ndipo njira zanu si njira zanga, ndilo mawu a Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "maganizo anga"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "maganizo anu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo si"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "njira zanu"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "njira zanga"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ndilo mawu a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T09:21:45.133038738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 132,
+  "translation": "osati kupereka tulo kwa maso anga, kwa zilonda za maso anga kunozemera.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "osati"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "kupereka"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "tulo"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "kwa maso anga"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "kwa zilonda za maso anga"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "kunozemera"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:07.412123430Z",
+  "model": "glm-5.3"
+}

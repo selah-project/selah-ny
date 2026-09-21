@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 30,
+  "translation": "Ndipo udzapanga chihema chofukizira uvundo; ndi nkhuni za ashitimu udzachipanga ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "udzapanga"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "chofukizira"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "uvundo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "nkhuni za"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ashitimu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "udzachipanga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "chihema"
+    }
+  ],
+  "timestamp": "2026-09-21T06:23:03.007219495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 13:17",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo chitachitika, Paro atatuma ⟨את⟩ anthu, Elohim sanawongolere njira ya dziko la Afilisiti, popeza ilingu pafupi; pakuti Elohim anati: Kuti anthu asatembenuke mtima pawona nkhondo, ndipo abwerere ku Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "chitachitika"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "atatuma"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "wongolere"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "la Afilisiti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "pafupi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ili (lingu)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kuti … asa-"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "atembenuke mtima"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "pawona"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "nkhondo"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "nabwerere"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ku Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:14:23.986211042Z",
+  "model": "glm-5.3"
+}

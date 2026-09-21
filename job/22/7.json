@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Madzi satseretsa wodwala, ndipo mkango wa nsanza umamana chakudya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "wodwala"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "satseretsa"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "ndipo mkango wa nsanza"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "umamana"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chakudya"
+    }
+  ],
+  "timestamp": "2026-09-21T11:37:25.944358333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 47,
+  "translation": "Ndipo Yosefu analowetsa ⟨את⟩ Yakobo atate wake, namuyimiritsa pamaso pa Paro; ndipo Yakobo adadalitsa ⟨את⟩ Paro.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "nalowetsa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakobo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atate wake"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "namuyimiritsa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "adadalitsa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-21T06:05:44.985636777Z",
+  "model": "glm-5.3"
+}

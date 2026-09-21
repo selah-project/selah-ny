@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 51,
+  "translation": "Nsembe za Elohim ndi mzimu wosweka; mtima wosweka ndi wodzazunzidwa, Elohim, simudzanyoza.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "nsembe za"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "wosweka"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "wosweka"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "ndi wodzazunzidwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "mudzanyoza"
+    }
+  ],
+  "timestamp": "2026-09-21T10:51:30.093896991Z",
+  "model": "glm-5.3"
+}

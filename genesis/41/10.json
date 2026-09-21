@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Paro anakwatira <את> kulira kwa akapolo ake, ndipo anandipereka m'kutsegerezedwe kwa nyumba ya mkulu wa aphika; ⟨את⟩ ine ndi <את> mkulu wa aopota.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "anakwatira kulira"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "akapolo ake"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "anandipereka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ine"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "m'kutsegerezedwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mkulu wa"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "aphika"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mkulu wa"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "aopota"
+    }
+  ],
+  "timestamp": "2026-09-21T06:01:02.659468992Z",
+  "model": "glm-5.3"
+}

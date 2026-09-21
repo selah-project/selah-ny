@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "kuti munthu wakumva sangakuchitire manyazi, ndipo mawu oipa za inu chisabwerenso.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "sangakuchitire manyazi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "munthu wakumva"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "ndipo mawu oipa za inu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "-sabwerenso"
+    }
+  ],
+  "timestamp": "2026-09-21T11:26:01.560815266Z",
+  "model": "glm-5.3"
+}

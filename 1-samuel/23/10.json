@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo Davide anati: “Yahwe, Elohim wa Yisraeli, kapolo wako wamva ndithu kuti Shauli afuna kudza ku Keila, kuti awononge mzindu chifukwa cha ine.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wamva"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kapolo wako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "afuna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kudza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "kuti awononge"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "mzindu"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "chifukwa cha ine"
+    }
+  ],
+  "timestamp": "2026-09-21T08:11:04.144560794Z",
+  "model": "glm-5.3"
+}

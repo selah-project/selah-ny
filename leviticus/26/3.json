@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ngati muyenda m'malamulo anga, ndipo musunga ⟨את⟩ malamuliro anga, ndipo muchita ⟨את⟩ iwo;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "m'malamulo anga"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "muyenda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "malamuliro anga"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "malamuliro anga"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "musunga"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "muchita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "malamuliro anga"
+    }
+  ],
+  "timestamp": "2026-09-21T12:58:24.814207344Z",
+  "model": "glm-5.3"
+}

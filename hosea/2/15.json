@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 2:15",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo ndidzaweruzira pa ⟨את⟩ masiku a mabaala, amene iye anawunikira fodya ku iwo, ndipo anazikongoletsa ndi nsisi wake ndi chovalo chake, natsata akondweretsa ake; ndipo ⟨את⟩ ine anaiwala — mawu a Yahwe.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "ndipo ndidzaweruzira pa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masiku"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "masiku a"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "mabaala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "תקטיר",
+      "gloss": "anawunikira fodya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ku iwo"
+    },
+    {
+      "surface": "ותעד",
+      "gloss": "ndipo anazikongoletsa"
+    },
+    {
+      "surface": "נזמה",
+      "gloss": "ndi nsisi wake"
+    },
+    {
+      "surface": "וחליתה",
+      "gloss": "ndi chovalo chake"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "natsata"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "natsata (pambuyo pa)"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "akondweretsa ake"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "ndipo ⟨את⟩ ine",
+      "marks": "ine"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "anaiwala"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:20:32.323797480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndadziwa kuti palibe chabwino mwa iwo, koma kokha kukondwera ndi kuchita zabwino mu moyo wawo.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Ndadziwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "chabwino"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mwa iwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kokha"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "kukondwera"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ndi kuchita"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zabwino"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "mu moyo wawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:55:09.161542693Z",
+  "model": "glm-5.3"
+}

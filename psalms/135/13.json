@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 135,
+  "translation": "Yahwe, dzina lako likhala ku nthawi zonse; Yahwe, chikumbutso chako kwa mbadwo ndi mbadwo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dzina lako"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "chikumbutso chako"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwa mbadwo"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ndi mbadwo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:21.715845173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Ngati ana ake asiya Tora yanga, ndipo m'malamulo anga asayende,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "asiya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora yanga"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "ndipo m'malamulo anga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asa"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "yende"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:53.977036304Z",
+  "model": "glm-5.3"
+}

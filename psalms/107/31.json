@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 107,
+  "translation": "Alemekeze Yahwe chifundo chake chokoma (khesedi wake), ndi zodabwitsa zake kwa ana a anthu.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Alemekeze"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesedi wake"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ndi zodabwitsa zake"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa ana a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:05:20.143294846Z",
+  "model": "glm-5.3"
+}

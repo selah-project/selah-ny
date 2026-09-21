@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Opembedza ⟨את⟩ Yahwe, mwana wanga, ndi mfumu; ndi osandulukira musamengere nawo.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "Opembedza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana wanga"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ndi mfumu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "osandulukira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musai-"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "-mengere nawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:25:49.021464732Z",
+  "model": "glm-5.3"
+}

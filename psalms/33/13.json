@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Kuchokera kumwamba Yahwe adayang'anitsa; anaona ⟨את⟩ ana onse a anthu.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "kuchokera kumwamba"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "adayang'anitsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana onse a anthu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "a anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:10.689678187Z",
+  "model": "glm-5.3"
+}

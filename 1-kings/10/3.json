@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo Shelomo namuuza iye ⟨את⟩ zonse mawu ake; palibe lamulo lachinsinsi kwa mfumu chimene sanamuuze.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "namuuza"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iye"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "mawu ake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "zinali"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lamulo"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "lachinsinsi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana-"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "-muuze"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iye"
+    }
+  ],
+  "timestamp": "2026-09-21T08:36:52.565113403Z",
+  "model": "glm-5.3"
+}

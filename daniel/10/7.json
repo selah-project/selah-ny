@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 10:7",
+  "book": "daniel",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ine ndiyetu, Daniyeli, ndinaokha ⟨את⟩ maonekedwe; koma anthu amene anali ndi ine sanaona ⟨את⟩ maonekedwe, koma mantha akulu anagwa pa iwo, ndipo anathawa kubisika.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "ndinaona"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyeli"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "okha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maonekedwe"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "maonekedwe"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "koma anthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "היו",
+      "gloss": "anali"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndi ine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sanaona <— ndi 'lo' pomwepo"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maonekedwe"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "maonekedwe"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "koma"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "mantha"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "akulu"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "anagwa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pa iwo"
+    },
+    {
+      "surface": "ויברחו",
+      "gloss": "ndipo anathawa"
+    },
+    {
+      "surface": "בהחבא",
+      "gloss": "kubisika"
+    }
+  ],
+  "timestamp": "2026-09-21T12:09:18.315049693Z",
+  "model": "glm-5.3"
+}

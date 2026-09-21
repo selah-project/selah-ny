@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 8:34",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo pambuyo pa izi ⟨iye⟩ anawerenga ⟨את⟩ mawu onse a Tora, chidalitso ndi chitembero, monga zonse zolembedwa m'buku la Tora.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "ndipo pambuyo pa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "anawerenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu onse a Tora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "chidalitso"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "ndi chitembero"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "monga zonse"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "zolembedwa"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "m'buku"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "la Tora"
+    }
+  ],
+  "timestamp": "2026-09-21T13:02:29.995547346Z",
+  "model": "glm-5.3"
+}

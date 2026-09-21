@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 69:37",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Ndipo mbadwa za atumiki ake adzaidzilandidza ⟨iyo⟩, ndi akonda dzina lake adzakhala mumenemo.",
+  "tokens": [
+    {
+      "surface": "וזרע",
+      "gloss": "Ndipo mbadwa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "za atumiki ake"
+    },
+    {
+      "surface": "ינחלוה",
+      "gloss": "adzaidzilandidza ⟨iyo⟩"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "ndi akonda"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dzina lake"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mumenemo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:10.154189210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 25:29",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo upange zibale zake, ndi zikhapu zake, ndi zopingasa zake, ndi zikomo zake, zamene zimathiridwa m'menemo; ndi golide woyera uzipanga ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ndipo upange"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "zibale zake"
+    },
+    {
+      "surface": "וכפתיו",
+      "gloss": "ndi zikhapu zake"
+    },
+    {
+      "surface": "וקשותיו",
+      "gloss": "ndi zopingasa zake"
+    },
+    {
+      "surface": "ומנקיתיו",
+      "gloss": "ndi zikomo zake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zamene"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "zimathiridwa"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uzipanga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo (zida zonse zatchulidwapo)"
+    }
+  ],
+  "timestamp": "2026-09-21T06:20:55.516012646Z",
+  "model": "glm-5.3"
+}

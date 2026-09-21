@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo Moshe anakwetula ⟨את⟩ dzanja lake kumwamba, ndipo kunakhala mdima wakuda m'dziko lonse la Mitsrayimu masiku atatu.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "anakwetula"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzanja lake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "על",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ndipo kunakhala"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mdima"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "wakuda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "m'dziko lonse"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "atatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    }
+  ],
+  "timestamp": "2026-09-21T06:11:17.499646284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo adzalandira matumbi ena, nadzabweretsa m'malo mwa matumbiwo, ndipo dothi lina adzalandira, nadzadzala ⟨את⟩ nyumbayo.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Ndipo adzalandira"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "matumbi"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "ena"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "nadzabweretsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "m'malo mwa"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "matumbiwo"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "ndipo dothi lina"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lina"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "adzalandira"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "nadzadzala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumbayo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumbayo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:37:22.289766602Z",
+  "model": "glm-5.3"
+}

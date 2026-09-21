@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 72,
+  "translation": "Akuopani iwe pamodzi ndi dzuwa, ndi pamaso pa mwezi, mibadwo ya mibadwo.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "Akuopani iwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "dzuwa"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ndi pamaso pa"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "mwezi"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mibadwo ya"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "mibadwo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:55:53.140542828Z",
+  "model": "glm-5.3"
+}

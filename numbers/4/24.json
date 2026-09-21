@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 4:24",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Uku ndi kukonda ntchito ya m'mabanja awa a Gershoni, kuchita ntchito ndi kusenza zinthu.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "uku"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "m'mabanja"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "a Gershoni"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kuchita ntchito"
+    },
+    {
+      "surface": "ולמשא",
+      "gloss": "ndi kusenza zinthu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:51:29.022385813Z",
+  "model": "glm-5.3"
+}

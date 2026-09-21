@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 122,
+  "translation": "Pamenepo makamu akwera — makamu a Yah — umboni kwa Yisraeli, kuyamika Dzina la Yahwe.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "pamenepo"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "akwera"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "makamu"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "makamu a"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "umboni"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kwa Yisraeli"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "kuyamika"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "Dzina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:13.930419648Z",
+  "model": "glm-5.3"
+}

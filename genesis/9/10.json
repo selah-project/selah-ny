@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 9:10",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "ndi ⟨את⟩ moyo uliwonse wamoyo uli ⟨את⟩ ndi inu, m'mbalame, m'nyama za m'banja, ndi m'nyama zonse za dziko lapansi zili ⟨את⟩ ndi inu, mwa zonse zotuluka m'chingalawa, kwa nyama zonse za dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "uliwonse"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "wamoyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uli"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ndi inu"
+    },
+    {
+      "surface": "בעוף",
+      "gloss": "m'mbalame"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "m'nyama za m'banja"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ndi m'nyama zonse"
+    },
+    {
+      "surface": "חית",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "za dziko lapansi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ndi inu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mwa zonse"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "zotuluka"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "m'chingalawa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa zonse"
+    },
+    {
+      "surface": "חית",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "za dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:45:35.815993305Z",
+  "model": "glm-5.3"
+}

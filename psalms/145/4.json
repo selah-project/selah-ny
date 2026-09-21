@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 145,
+  "translation": "Mbadwo kwa mbadwo adzatamanda ntchito zako, ndipo mphamvu zako adzalalikira.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Mbadwo"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kwa mbadwo"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "adzatamanda"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ntchito zako"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "ndipo mphamvu zako"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "adzalalikira"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:29.128467794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 28:25",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo iye anayikha patsogolo pa Shauli ndi patsogolo pa akapolo ake, ndipo anadya; ndipo anauka, nandichoka usiku umenewu.",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "anayikha patsogolo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "patsogolo pa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ndi patsogolo pa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "akapolo ake"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ndipo anadya"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "ndipo anauka"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "nandichoka"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "umenewu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:06:00.453601516Z",
+  "model": "glm-5.3"
+}

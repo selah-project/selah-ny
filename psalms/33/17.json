@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Chinyozo ndicho chikhosi chipulumutso; ndi kuchuluka kwa mphamvu yake sadzapulumutsa.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "chinyozo"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "chikhosi"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "chipulumutso"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "ndi kuchuluku"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "mphamvu yake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "dapulumutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:58.304510698Z",
+  "model": "glm-5.3"
+}

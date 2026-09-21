@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 6:4",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ana a Merari: Machli ndi Mushyi. Ndipo awa ndi mabanja a Alevi monga ana a makolo awo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ana a"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Machli"
+    },
+    {
+      "surface": "ומשי",
+      "gloss": "ndi Mushyi"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "Ndipo awa"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "mabanja"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "a Alevi"
+    },
+    {
+      "surface": "לאבותיהם",
+      "gloss": "monga ana a makolo awo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:24:38.356931729Z",
+  "model": "glm-5.3"
+}

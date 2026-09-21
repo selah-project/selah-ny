@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "sanafike mtengo wamasiku oipa: dzuwa li sanachitike, ndi kuwala, ndi mwezi, ndi nyenyezi, ndipo mitambo isanabwerere pambuyo pa mvula.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sanafike"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "(zazikana)"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "li sanachitike"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dzuwa"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "ndi kuwala"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "ndi mwezi"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "ndi nyenyezi"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "isanabwerere"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "mitambo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pambuyo pa"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "mvula"
+    }
+  ],
+  "timestamp": "2026-09-21T11:59:08.279592217Z",
+  "model": "glm-5.3"
+}

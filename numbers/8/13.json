@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 8:13",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo uzaimiritsa ⟨את⟩ Alevi pamaso pa Aharoni ndi pamaso pa ana ake, ndipo uzawapereka pochotsera ⟨את⟩ iwo monga tenufa kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "והעמדת",
+      "gloss": "uzaimiritsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Alevi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ndi pamaso pa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "uzawapereka pochotsera"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo (Alevi)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "monga tenufa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:55:49.549572457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Pakuti m'malo amene anam'tsegereza ⟨אתו⟩ kumeneko adzafa, ndipo ⟨את⟩ dziko ili sadzaliona kachiwiri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "m'malo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "anam'tsegereza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Shalumu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "adzafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "dziko ili"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ili"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sadzali-"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "-ona"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kachiwiri"
+    }
+  ],
+  "timestamp": "2026-09-21T09:37:18.341402097Z",
+  "model": "glm-5.3"
+}

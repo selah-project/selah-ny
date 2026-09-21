@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 41:30",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Ndipo zaka zisanu ndi ziwiri za njala zidzauka pambuyo pawo, ndipo chiswe chonse chidzaiwedwa m'dziko la Mitsrayimu, ndipo njalayi idzathetsa ⟨את⟩ dziko.",
+  "tokens": [
+    {
+      "surface": "וקמו",
+      "gloss": "Ndipo zidzauka"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "zisanu ndi ziwiri"
+    },
+    {
+      "surface": "שני",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "za njala"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "pambuyo pawo"
+    },
+    {
+      "surface": "ונשכח",
+      "gloss": "ndipo chidzaiwedwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chonse"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "chiswe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayimu"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ndipo idzathetsa"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "njalayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dziko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko"
+    }
+  ],
+  "timestamp": "2026-09-21T06:01:36.767081052Z",
+  "model": "glm-5.3"
+}

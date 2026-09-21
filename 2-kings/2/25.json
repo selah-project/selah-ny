@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo anayenda kuchokera kumeneko kuli phiri la Karmeli, ndipo kuchokera kummeneko anabwerera ku Shomeroni.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kuchokera kummeneko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "la Karmeli"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ndipo kuchokera kummeneko"
+    },
+    {
+      "surface": "שב",
+      "gloss": "anabwerera"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ku Shomeroni"
+    }
+  ],
+  "timestamp": "2026-09-21T08:45:54.646358398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo akuluakulu ako ndi akuweruza ako adzatuluka, nadza kupima kumadera kwa midzi yozungulira wolumbidwavo.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "adzatuluka"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "akuluakulu ako"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "ndi akuweruza ako"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "nadza kupima"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kude"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kwa midzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yozungulira"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "kuzungulira"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "wolumbidwavo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:24:30.167631072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Yahwe anayankha ⟨את⟩ Iyobu mwa msemo, nati:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "anayankha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyobu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobu"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "msemo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    }
+  ],
+  "timestamp": "2026-09-21T11:46:45.569970031Z",
+  "model": "glm-5.3"
+}

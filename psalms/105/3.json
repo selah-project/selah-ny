@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Khalani odzitchulira m'dzina lake lopatulika; mtima wa akufufuza Yahwe ukondwerere.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Khalani odzitchulira"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "m'dzina"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "lake lopatulika"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ukondwerere"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "wa akufufuza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:26.999736485Z",
+  "model": "glm-5.3"
+}

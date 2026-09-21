@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ndimitu za milomo yanga ndinatchula maungamo onse a kamako.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "ndimitu za milomo yanga"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "ndinatchula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "maungamo"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "a kamako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:43.148665383Z",
+  "model": "glm-5.3"
+}

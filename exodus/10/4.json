@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "“Pakuti ngati iwe ukana kutuma ⟨את⟩ anthu anga, taona, ndikubweretsa mawa dzombe m'malire anu.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ukana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kutuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu anga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "anthu anga"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "taona"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ndikubweretsa"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "dzombe"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "m'malire anu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:12:20.402571891Z",
+  "model": "glm-5.3"
+}

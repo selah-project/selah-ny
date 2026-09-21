@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Mtima wanga unatentha m'mkati mwa ine; m'kuwangirira kwanga, moto unayaka; ndinayankhula ndi lilime langa.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "unatentha"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Mtima wanga"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "m'mkati mwa ine"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "m'kuwangirira kwanga"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "unayaka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ndinayankhula"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "ndi lilime langa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:53.444691258Z",
+  "model": "glm-5.3"
+}

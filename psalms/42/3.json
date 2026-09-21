@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Moyo wanga suna chilakolako cha Elohim, cha El wamoyo; liti ndidzalowa ndi kuonekera pamaso pa Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "suna chilakolako"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Moyo wanga"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "cha Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "cha El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wamoyo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "liti"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ndidzalowa"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ndi kuonekera"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:16.249240682Z",
+  "model": "glm-5.3"
+}

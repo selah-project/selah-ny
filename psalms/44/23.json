@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Pakuti chifukwa cha iwe tikhulupiridwa kuwonjezedwa mtima tsiku lonse; tikaonedwa ngati nkhosa zakuphereka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "chifukwa cha iwe"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "tikhulupiridwa kuwonjezedwa mtima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "tikaonedwa"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "ngati nkhosa"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "zakuphereka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:49.823760883Z",
+  "model": "glm-5.3"
+}

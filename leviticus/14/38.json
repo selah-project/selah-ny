@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo wansembe adzatuluka m'nyumba, kufikira khomo la nyumba, ndipo adzatseka ⟨את⟩ nyumba masiku asanu ndi awiri.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "adzatuluka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "m'"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kufikira"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "khomo la"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ndipo adzatseka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "masiku asanu ndi awiri (chisanu ndi chimodzi)"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku asanu ndi awiri"
+    }
+  ],
+  "timestamp": "2026-09-21T06:36:51.892682433Z",
+  "model": "glm-5.3"
+}

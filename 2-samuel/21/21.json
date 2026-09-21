@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo iye anakayesa Yisraeli ⟨את⟩; koma Yehonatani mwana wa Shimeyi, m'bale wa Davide, namugwira.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "anakayesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "namugwira"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimeyi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "m'bale wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    }
+  ],
+  "timestamp": "2026-09-21T08:25:35.630334955Z",
+  "model": "glm-5.3"
+}

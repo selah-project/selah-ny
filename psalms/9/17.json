@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Yahwe wadziwika, wachita mwalamulo; wochimwa watundumira m'ntchito ya manja ake mwini. Higayoni. Selah.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "wadziwika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mwalamulo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wachita"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "m'ntchito ya"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "manja ake mwini"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "watundumira"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wochimwa"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higayoni"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:17.782933480Z",
+  "model": "glm-5.3"
+}

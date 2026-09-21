@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 134,
+  "translation": "Simulani manja anu oyera, ndipo dalitsani ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "simulani"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "manja anu"
+    },
+    {
+      "surface": "קדשׁ",
+      "gloss": "oyera"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "ndipo dalitsani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:35.128631904Z",
+  "model": "glm-5.3"
+}

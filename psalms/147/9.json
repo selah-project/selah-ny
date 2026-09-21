@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 147,
+  "translation": "Amapatsa nyama chakudya chake, ndi ana a khangale amene akuitana.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "Amapatsa"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "ku nyama"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "chakudya chake"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ku ana a"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "khangale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "akuitana"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:45.696745440Z",
+  "model": "glm-5.3"
+}

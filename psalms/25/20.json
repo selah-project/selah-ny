@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Nditsirikire moyo wanga, ndi ndipulumutseni; ndisandabwe, chifukwa ndatembenukira kwa iwe.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Nditsirikire"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ndi ndipulumutseni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndisandabwe ⟨ayi⟩"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "⟨ayi⟩ ndisandabwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ndatembenukira"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kwa iwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:10.857746676Z",
+  "model": "glm-5.3"
+}

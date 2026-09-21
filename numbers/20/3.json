@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 20:3",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo anthu anatsutsana ndi Moshe, ndipo ananena, kuti: Ah, tikadataya moyo pamene abale athu anataya moyo pamaso pa Yahwe!",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "anatsutsana"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ananena"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "ah"
+    },
+    {
+      "surface": "גוענו",
+      "gloss": "tikadataya moyo"
+    },
+    {
+      "surface": "בגוע",
+      "gloss": "pamene … anataya moyo"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "abale athu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T07:02:59.107980895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 130,
+  "translation": "Yisraeli, yembekezera kwa Yahwe; pakuti kwa Yahwe muli khesedi (chifundo), ndipo kwa iye muli chiwombolo chochuluka.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "yembekezera"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "muli khesedi (chifundo)"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "ndipo chochuluka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "chiwombolo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:10.274317007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Zebuluni sanatulutse ⟨את⟩ okhala m'Kitroni ndi ⟨את⟩ okhala m'Nahaloli; ndipo Mukanaini anakhala pakati pawo, nakhala olipira chirango.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zebuluni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana-"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "-tulutse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okhala m'Kitroni"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "okhala"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "m'Kitroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "okhala m'Nahaloli"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "okhala"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "m'Nahaloli"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "anakhala"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mukanaini"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "pakati pawo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "nakhala"
+    },
+    {
+      "surface": "למס",
+      "gloss": "olipira chirango"
+    }
+  ],
+  "timestamp": "2026-09-21T07:45:07.231991815Z",
+  "model": "glm-5.3"
+}

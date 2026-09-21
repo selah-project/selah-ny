@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ya Davide, chiphunzitso. Odala iye amene mphulupulu yake yamwazidwa, machimo ake abisidwa.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Davide"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "chiphunzitso"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Odala"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "yamwazidwa"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "mphulupulu"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "abisidwa"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "machimo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:32.116207919Z",
+  "model": "glm-5.3"
+}

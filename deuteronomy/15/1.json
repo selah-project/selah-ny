@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 15:1",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Potha miyaka isanu ndi iwiri udzachita shemitah.",
+  "tokens": [
+    {
+      "surface": "מקץ",
+      "gloss": "potha"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "isanu ndi iwiri"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "miyaka"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "udzachita"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "shemitah"
+    }
+  ],
+  "timestamp": "2026-09-21T07:21:56.936145917Z",
+  "model": "glm-5.3"
+}

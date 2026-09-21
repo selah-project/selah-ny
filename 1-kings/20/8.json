@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo anamuwuza akuluakulu onse ndi anthu onse, kuti: “Usamvera, ndipo usavomereze.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ndipo anamuwuza"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "akuluakulu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi onse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a anthu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Usa-"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "mvera"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "ndipo usa-"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "vomereze"
+    }
+  ],
+  "timestamp": "2026-09-21T08:45:12.272451164Z",
+  "model": "glm-5.3"
+}

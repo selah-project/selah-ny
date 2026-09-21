@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 138,
+  "translation": "Patsiku lomwe ndinaitana, unandiyankha; unandilimbutsa moyo wanga ndi mphamvu.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Patsiku"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "lomwe ndinaitana"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "unandiyankha"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "unandilimbutsa"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ndi mphamvu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:44.607633210Z",
+  "model": "glm-5.3"
+}

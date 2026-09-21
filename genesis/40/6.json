@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Ndipo Yosefu anabwera kwa iwo mmawa, ndipo anaona ⟨את⟩ iwo, ndipo taonani, anali odandaula.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "anabwera"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mmawa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "ndipo taonani"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "odandaula"
+    }
+  ],
+  "timestamp": "2026-09-21T06:00:51.730399416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo ⟨את⟩ mafuta onse ake adzawulula kuchokera m'menemo, nadzawotcha pa ⟨the⟩ guwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndipo ⟨את⟩",
+      "marks": "mafuta onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "mafuta ake"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "adzawulula"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuchokera m'menemo"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "nadzawotcha"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pa guwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:31:33.939448414Z",
+  "model": "glm-5.3"
+}

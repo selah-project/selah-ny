@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo kudzikuza kwa Yisraeli kudzayankha m'maso pake; ndipo Yisraeli ndi Efrayimu adzagwedezeka mu mphulupulu zawo; Yehudahonso adzagwedezeka pamodzi ndi iwo.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "kudzayankha"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kudzikuza"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "m'maso pake"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ndipo Yisraeli"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ndi Efrayimu"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "adzagwedezeka"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "mu mphulupulu zawo"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "adzagwedezeka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "onso"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "pamodzi ndi iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:20:28.654932776Z",
+  "model": "glm-5.3"
+}

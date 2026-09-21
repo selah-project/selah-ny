@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Ndipo anapanga ⟨את⟩ zida zonse za guwalo: ⟨את⟩ zotopola, ndi ⟨את]] mapiko, ndi ⟨את]] mabatire, ⟨את]] zokolola, ndi ⟨את]] zoimitira moto; zida zake zonse anazipanga ndi kopala.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zida zonse za guwalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zida"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "za guwalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zotopola"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "zotopola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mapiko"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "mapiko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mabatire"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "mabatire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zokolola"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "zokolola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zoimitira moto"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "zoimitira moto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zida zake"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anazipanga"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ndi kopala"
+    }
+  ],
+  "timestamp": "2026-09-21T06:27:34.903742643Z",
+  "model": "glm-5.3"
+}

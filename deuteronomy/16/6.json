@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 16:6",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Koma pa malo amene Yahwe Elohim wako adzasankha kuti Dzina lake chikhaleko, komweko udzapha ⟨את⟩ Pasaka madzulo, potsha kwa dzuwa, pa nthawi ya kutuluka kwako ku Mitsrayimu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "koma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨koma⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "malo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "adzasankha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "kuti … chikhaleko"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Dzina lake"
+    },
+    {
+      "surface": "שם",
+      "gloss": "komweko"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "udzapha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pasaka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pasaka"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "madzulo"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "potsha kwa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "dzuwa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pa nthawi ya"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "kutuluka kwako"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ku Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:21:53.383560762Z",
+  "model": "glm-5.3"
+}

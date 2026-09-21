@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 41:23",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Tilongose zizindikiro za m'mawa m'tsogolo, ndipo tidziwe kuti inu ndinu Elohim; inde, chitani zabwino kapena zoipa, ndipo tidabwe ndi kuona pamodzi.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "Tilongose"
+    },
+    {
+      "surface": "האתיות",
+      "gloss": "zizindikiro"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "za m'mawa m'tsogolo"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "ndipo tidziwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "inu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "inde"
+    },
+    {
+      "surface": "תיטיבו",
+      "gloss": "chitani zabwino"
+    },
+    {
+      "surface": "ותרעו",
+      "gloss": "kapena zoipa"
+    },
+    {
+      "surface": "ונשתעה",
+      "gloss": "ndipo tidabwe"
+    },
+    {
+      "surface": "ונרא",
+      "gloss": "ndi kuona"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T09:17:40.715695633Z",
+  "model": "glm-5.3"
+}

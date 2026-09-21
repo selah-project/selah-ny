@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ngati mzimu wa wamkulu ukufunika, usasiye malo anu; popeza chifatso chimathamangitsa machimo akulu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ngati"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "wa wamkulu"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "ukufunika"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "⟨pa iwe⟩"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "malo anu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "siye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "chifatso"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "chimathamangitsa"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "machimo"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "akulu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:31:49.409342526Z",
+  "model": "glm-5.3"
+}

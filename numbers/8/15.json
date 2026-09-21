@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 8:15",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo atatero Alevi adzalowa kuti agwire ntchito ⟨את⟩ ohema la msonkhano, ndipo uzawayeretsa ⟨את⟩ iwo, ndipo uzawapereka pochotsera ⟨את⟩ iwo tenufa.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "ndipo ata-"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tero"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "adzalowa"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Alevi"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kuti agwire ntchito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohema la msonkhano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ohema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "la msonkhano"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "uzawayeretsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo (Alevi)"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "uzawapereka pochotsera"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo (Alevi)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "tenufa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:55:49.549950328Z",
+  "model": "glm-5.3"
+}

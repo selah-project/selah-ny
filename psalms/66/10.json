@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 66,
+  "translation": "Pakuti iwe, Elohim, unatiyesa; unatisungunula monga kusungunula kwa siliva.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "unatiyesa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "unatisungunula"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "monga kusungunula"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "siliva"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:22.287734370Z",
+  "model": "glm-5.3"
+}

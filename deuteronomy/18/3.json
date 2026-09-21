@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 18:3",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Uyu ndiwo ulamuliro wa ansembe kwa ⟨את⟩ anthu, kuchokera ku ⟨את⟩ opereka nsembe — ngati ng'ombe, ngati nkhosa — ndipo adzapereka kwa mnsembe chiphapha, mitaya yiwiri, ndi mimba.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Uyu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ndiwo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ulamuliro"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "wa ansembe"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kwa ⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kuchokera ku ⟨את⟩",
+      "marks": "opereka nsembe"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "opereka nsembe"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "שה",
+      "gloss": "nkhosa"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ndipo adzapereka"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kwa mnsembe"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "chiphapha"
+    },
+    {
+      "surface": "והלחיים",
+      "gloss": "mitaya yiwiri"
+    },
+    {
+      "surface": "והקבה",
+      "gloss": "ndi mimba"
+    }
+  ],
+  "timestamp": "2026-09-21T07:24:48.461372148Z",
+  "model": "glm-5.3"
+}

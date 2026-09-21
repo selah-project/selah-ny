@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 128,
+  "translation": "Nyimbo ya makwerero. Odala aliense woopinga Yahwe, woyenda m'mzere wawo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya makwerero"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "odala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aliense"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "woopinga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "woyenda"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "m'mzere wawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:41.648994342Z",
+  "model": "glm-5.3"
+}

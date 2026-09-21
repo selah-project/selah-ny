@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 44,
+  "translation": "Watiika ife chitsanzo mwa mitundu ya anthu, kunyambitsa mutu mwa mitundu yonse.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Watiika ife"
+    },
+    {
+      "surface": "משל",
+      "gloss": "chitsanzo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mwa mitundu ya anthu"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "kunyambitsa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "mitundu yonse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:52.825089560Z",
+  "model": "glm-5.3"
+}

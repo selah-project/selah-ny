@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo mitengo inanena kwa mkuyu: “Dzani iwe, chitamfumu pa ife.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "inanena"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "mitengo"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "kwa mkuyu"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Dzani"
+    },
+    {
+      "surface": "את",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "chitamfumu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "pa ife"
+    }
+  ],
+  "timestamp": "2026-09-21T07:50:04.568960847Z",
+  "model": "glm-5.3"
+}

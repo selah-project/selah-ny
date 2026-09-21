@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 26:1",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo ⟨את⟩ chihema udza⟨chi⟩panga ndi misunkhi khumi: ya ubewu woyera wotumbatizidwa, ndi tekheleti, ndi arigamani, ndi tolaat-shani; kerubimu, ntchito ya luso, udzapanga ⟨את⟩ iwo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chihema"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "udza⟨chi⟩panga"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "khumi"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "misunkhi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ubewu woyera"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "wotumbatizidwa"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "ndi tekheleti"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ndi arigamani"
+    },
+    {
+      "surface": "ותלעת",
+      "gloss": "ndi tolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shani"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubimu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "ya luso"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "udzapanga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:20:52.388303884Z",
+  "model": "glm-5.3"
+}

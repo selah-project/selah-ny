@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Anayika pakati pawo mawu a zizindikiro zake, ndi zodabwitsa m'dziko la Cham.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "Anayika"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pakati pawo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu a"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "zizindikiro zake"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "ndi zodabwitsa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko la"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:33.567871591Z",
+  "model": "glm-5.3"
+}

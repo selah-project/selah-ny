@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Mordekayi namuuza ⟨את⟩ zonse zimene zam'fikira, ndi ⟨את⟩ chiwerengero cha siliva chimene Hamani analankhula kulekerera nkhokwe za mfumu chifukwa cha ayuda, kuwaononga.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "anauza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "zam'fikira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chiwerengero cha siliva"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "chiwerengero"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "cha siliva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "analankhula"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamani"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "kulekerera"
+    },
+    {
+      "surface": "על",
+      "gloss": "nkhokwe za"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "nkhokwe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "za mfumu"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "chifukwa cha ayuda"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "kuwaononga"
+    }
+  ],
+  "timestamp": "2026-09-21T12:01:04.728134902Z",
+  "model": "glm-5.3"
+}

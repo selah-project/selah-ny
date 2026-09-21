@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "⟨את⟩ Dimna ndi ⟨את⟩ malo ake owetamo, ⟨את⟩ Nahalali ndi ⟨את⟩ malo ake owetamo — misumba inayi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dimna"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "Dimna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malo ake owetamo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malo ake owetamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahalali"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malo ake owetamo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malo ake owetamo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "misumba"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "inayi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:42:30.613356175Z",
+  "model": "glm-5.3"
+}

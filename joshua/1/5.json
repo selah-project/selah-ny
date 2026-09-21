@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 1:5",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Palibe munthu adzayimirira pamaso pako masiku onse a moyo wako; monga ndinali ndi Moshe, momwemonso ndidzakhala ndi iwe; sindidzakuchotsera ⟨manja⟩, ndipo sindidzakusiya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "adzayimirira"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamaso pako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "a moyo wako"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndinali"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ndidzakhala"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndi iwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi-"
+    },
+    {
+      "surface": "ארפך",
+      "gloss": "dzakuchotsera manja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sindi-"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "dzakusiya"
+    }
+  ],
+  "timestamp": "2026-09-21T07:35:18.540201329Z",
+  "model": "glm-5.3"
+}

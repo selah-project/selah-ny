@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 17:6",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo wansembe adzathira ⟨את⟩ magazi pa altare la Yahwe, pa khomo la hema ya msonkhano, ndi kuwotcha mafuta pa nkhoko yakoma kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "וזרק",
+      "gloss": "Ndipo wansembe adzathira"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magazi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "magazi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pa khomo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "la hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya msonkhano"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ndi kuwotcha"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "pa nkhoko"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "yakoma"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:04.954405614Z",
+  "model": "glm-5.3"
+}

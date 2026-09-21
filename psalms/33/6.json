@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Mwa mawu a Yahwe miyamba inapangidwa, ndi mwa mpweya wa kamwa pake makamu onse awo.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "Mwa mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "miyamba"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "inapangidwa"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "ndi mwa mpweya"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "wa kamwa pake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "makamu awo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:40.171148594Z",
+  "model": "glm-5.3"
+}

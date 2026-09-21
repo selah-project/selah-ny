@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Mapazi athu tsopano andizinga; maso awo aikhazikitsa kuti atigonje m'dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "mapazi athu"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tsopano"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "andizinga"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "maso awo"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "aikhazikitsa"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "kuti atigonje"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:56.756066514Z",
+  "model": "glm-5.3"
+}

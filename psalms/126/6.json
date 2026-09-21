@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 126,
+  "translation": "Woyenda adzayenda ndi kulira, akulifta kufesa kwake; kudza adzadza ndi kuyimba, akulifta mipanda yake.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "woyenda"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "adzayenda"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "ndi kulira"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "akulifta"
+    },
+    {
+      "surface": "משך",
+      "gloss": "kufesa kwake"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "(kufesa)"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kudza"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "adzadza"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ndi kuyimba"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "akulifta"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "mipanda yake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:39.945322033Z",
+  "model": "glm-5.3"
+}

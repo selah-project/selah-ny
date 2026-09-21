@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Maganizo a wodiligira ndi chulukitsiro chokha; koma yense wodunda, chokha kusowa.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "Maganizo"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "wodiligira"
+    },
+    {
+      "surface": "אך",
+      "gloss": "chokha"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "chulukitsiro"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yense"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "wodunda"
+    },
+    {
+      "surface": "אך",
+      "gloss": "chokha"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "kusowa"
+    }
+  ],
+  "timestamp": "2026-09-21T13:29:05.793865203Z",
+  "model": "glm-5.3"
+}

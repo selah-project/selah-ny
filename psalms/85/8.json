@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 85,
+  "translation": "Wationetse khesediako, Yahwe, ndipo chipulumutso chako utipatse ife.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Wationetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesediako"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "ndi chipulumutso chako"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "utipatse"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ife"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:22.576797333Z",
+  "model": "glm-5.3"
+}

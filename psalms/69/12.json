@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 69,
+  "translation": "Ndipo ndinaika chovala changa chikhale nsanza, ndipo ndinakhala kwa iwo chitsanzo.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ndinaika"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "chovala changa"
+    },
+    {
+      "surface": "שק",
+      "gloss": "nsanza"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ndinakhala"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "chitsanzo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:50.377993081Z",
+  "model": "glm-5.3"
+}

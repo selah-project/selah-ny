@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "⟨את⟩ nyanja imodzi, ndi ⟨את⟩ ng'ombe khumi ndi ziwiri pansi pake.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyanja imodzi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "nyanja"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imodzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ng'ombe"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "khumi ndi"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "pansi pake"
+    }
+  ],
+  "timestamp": "2026-09-21T12:38:04.105934243Z",
+  "model": "glm-5.3"
+}

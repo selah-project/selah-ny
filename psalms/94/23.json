@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 94,
+  "translation": "Ndipo adzabweza pa iwo ⟨את⟩ zoipa zawo, ndipo m'kuipa kwawo adzaononga iwo; adzaononga iwo Yahwe Elohim wathu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ndipo adzabweza"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pa iwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zoipa zawo"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "zoipa zawo"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "ndipo m'kuipa kwawo"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "adzaononga iwo"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "adzaononga iwo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wathu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:14.384534739Z",
+  "model": "glm-5.3"
+}

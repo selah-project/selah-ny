@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Khesedi kanu, Yahwe, kwazikitsa dziko lapansi lonse; zikonzero zanu zindiphunzitse.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "Khesedi kanu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "kwazikitsa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi lonse"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "zikonzero zanu"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "zindiphunzitse"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:28.192651903Z",
+  "model": "glm-5.3"
+}

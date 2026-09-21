@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 68,
+  "translation": "Kwa woyang'anira, ya Davide, nyimbo ya mizembe, nyimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Davide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nyimbo ya mizembe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyimbo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:28.184161879Z",
+  "model": "glm-5.3"
+}

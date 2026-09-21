@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 139,
+  "translation": "Ndipo penyerani ngati pali njira ya chisoni mwa ine, ndipo nditsogolere m'njira ya ku nthawi zosatha.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ndipo penyerani"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ya chisoni"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mwa ine"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "ndipo nditsogolere"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "m'njira"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya ku nthawi zosatha"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:24.941667877Z",
+  "model": "glm-5.3"
+}

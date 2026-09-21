@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndipo munthu ngati adya chopatulidwa mwa kusadziwa, amawonjezera chala cha chisanu ndi chimodzi cha pa chimenecho, ndipereke ⟨את⟩ chopatulidwacho kwa mkoheni.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ndipo munthu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "adya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chopatulidwa"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "mwa kusadziwa"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "amawonjezera"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "chala cha chisanu ndi chimodzi cha"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa chimenecho"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ndipereke"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kwa mkoheni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chopatulidwacho"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "chopatulidwacho"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:53.999969156Z",
+  "model": "glm-5.3"
+}

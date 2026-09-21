@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 9:18",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Taonani, pofanana ndi nthawi ino mawa ndidzavulira chiwembu cholemetsa kwambiri, chomwe sinakhale chimodzimodzi mu Mitsrayimu, kuyambira tsiku linayikidwa maziko ake mpaka lero.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Taonani"
+    },
+    {
+      "surface": "ממטיר",
+      "gloss": "ndidzavulira"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "pofanana ndi nthawi ino"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "chiwembu"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "cholemetsa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chomwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "היה",
+      "gloss": "sinakhale"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "chimodzimodzi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "mu Mitsrayimu"
+    },
+    {
+      "surface": "למן",
+      "gloss": "kuyambira"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "הוסדה",
+      "gloss": "linayikidwa maziko ake"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "lero"
+    }
+  ],
+  "timestamp": "2026-09-21T12:56:04.915644662Z",
+  "model": "glm-5.3"
+}

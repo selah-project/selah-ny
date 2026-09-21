@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 43,
+  "translation": "Pakuti iwe ndiwe Elohim wa kukhala pachikhalidwe changa; chifukwa chinandi mtanizia? Chifukwa chinandi ndiyenda mdima podzazidwa ndi mdani?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "wa kukhala pachikhalidwe changa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "chifukwa chinandi"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "mtanizia"
+    },
+    {
+      "surface": "למה",
+      "gloss": "chifukwa chinandi"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "mdima"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "ndiyenda"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "podzazidwa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mdani"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:00.235122744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 19:31",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Musatembenuzire ku akufuula mizimu ndi ku ophunzira mizimu; musazifune, kuti mudzamenedwa ndi iwo; ine ndine Yahwe Elohim wanu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musatembenuzire (osati)"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "musatembenuzire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האבת",
+      "gloss": "akufuula mizimu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi ku"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "ophunzira mizimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musazifune (osati)"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "musazifune"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "kuti mudzamenedwa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ndi iwo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:41:37.797163588Z",
+  "model": "glm-5.3"
+}

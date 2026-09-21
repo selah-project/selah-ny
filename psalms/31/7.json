@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndadana ndi iwo amene amasunga ziphuphu zaubodza; koma ine, kwa Yahwe ndakhulupirira.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Ndadana"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "amasunga"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "ziphuphu"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "zaubodza"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "koma ine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ndakhulupirira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:46:11.750469650Z",
+  "model": "glm-5.3"
+}

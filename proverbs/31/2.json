@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Chiyani, mwana wanga? chiyani, mwana wa mimba yanga? ndi chiyani, mwana wa mavoti anga?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Chiyani"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "mwana wanga"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ndi chiyani"
+    },
+    {
+      "surface": "בר",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "wa mimba yanga"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ndi chiyani"
+    },
+    {
+      "surface": "בר",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "wa mavoti anga"
+    }
+  ],
+  "timestamp": "2026-09-21T11:29:07.143836246Z",
+  "model": "glm-5.3"
+}

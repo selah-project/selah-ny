@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Ndipo munthu adagwadizidwa, ndi mwamuna adanyozedwa, ndipo maso a odzikuza adzanyozedwa.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "adagwadizidwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "adanyozedwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mwamuna"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "maso a"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "odzikuza"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "adzanyozedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:03:41.383627523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 7:4",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo udzamuuza kuti: “Sungalira ndi khutakhuta; usaope, ndipo mtima wako usalephere, chifukwa cha mitsonga iwiri ya ziwewewe zofuta izi — mkwiyo waukulu wa Retisini ndi wa Aramu ndi wa mwana wa Remalyahu.”",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "udzamuuza kuti"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Sungalira"
+    },
+    {
+      "surface": "והשקט",
+      "gloss": "ndi khutakhuta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usaope"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "kuopa"
+    },
+    {
+      "surface": "ולבבך",
+      "gloss": "ndipo mtima wako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usalephere"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "kusalephera"
+    },
+    {
+      "surface": "משני",
+      "gloss": "chifukwa cha iwiri"
+    },
+    {
+      "surface": "זנבות",
+      "gloss": "mitsonga"
+    },
+    {
+      "surface": "האודים",
+      "gloss": "ya ziwewewe"
+    },
+    {
+      "surface": "העשנים",
+      "gloss": "zofuta"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "בחרי",
+      "gloss": "mkwiyo waukulu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "wa ufitsa"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retisini"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "ndi Aramu"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ndi mwana wa"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remalyahu"
+    }
+  ],
+  "timestamp": "2026-09-21T09:04:39.991894Z",
+  "model": "glm-5.3"
+}

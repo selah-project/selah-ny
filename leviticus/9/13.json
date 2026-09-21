@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 9:13",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo anamuperekera ⟨את⟩ nsembe yopsereza kwa iye, ndi zigawo zake, ndi ⟨את⟩ mutu; nipo anayiwotcha pa guwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nsembe yopsereza"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nsembe yopsereza"
+    },
+    {
+      "surface": "המציאו",
+      "gloss": "anamuperekera"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "ndi zigawo zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mutu"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "anayiwotcha"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "guwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:33:33.798139417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Pamene ugunda mtengo wako wa zeituni, usazikonze ⟨zotsalira⟩ pambuyo pako; zidzakhala za mlendo, za wamasiye, ndi za mkazi wamasiye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pamene"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "ugunda"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "mtengo wako wa zeituni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "zikonze"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "pambuyo pako"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "za mlendo"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "za wamasiye"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "ndi za mkazi wamasiye"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zidzakhala"
+    }
+  ],
+  "timestamp": "2026-09-21T07:27:22.305392481Z",
+  "model": "glm-5.3"
+}

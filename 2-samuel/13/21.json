@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo mfumu Davide inamva ⟨את⟩ mawu onse awa, ndipo kunamutsaukira iye kwakukulu.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ndipo mfumu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "inamva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "kunamutsaukira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwakukulu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:21:47.670604207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 40,
+  "translation": "Pamenepo ndinati: “Taona, ndabwera; m'chipepala cha buku kulembedwa za ine.”",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "pamenepo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndinati"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ndabwera"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "m'chipepala cha"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buku"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "kulembedwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "za ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:35.051439108Z",
+  "model": "glm-5.3"
+}

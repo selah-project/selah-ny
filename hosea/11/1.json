@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Pakuti Yisraeli anali mwana, ndipo ine ndinamukonda; ndi ku Mitsrayimu ndinaitana mwana wanga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "נער",
+      "gloss": "anali mwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "ndipo ine ndinamukonda"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "ndi ku Mitsrayimu"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ndinaitana"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mwana wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:22:33.306824054Z",
+  "model": "glm-5.3"
+}

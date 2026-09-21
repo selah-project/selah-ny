@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Mitsrayimu anabala ⟨את⟩ Aludi, ndi ⟨את⟩ Aanamu, ndi ⟨את⟩ Alehabu, ndi ⟨את⟩ Anafutukhi.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Ndipo Mitsrayimu"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aludi"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "Aludi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Aanamu"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Aanamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Alehabu"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Alehabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Anafutukhi"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Anafutukhi"
+    }
+  ],
+  "timestamp": "2026-09-21T12:22:52.332900945Z",
+  "model": "glm-5.3"
+}

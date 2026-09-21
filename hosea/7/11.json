@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 7:11",
+  "book": "hosea",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo Efrayimu wakhala ngati nkhunda yopusa, yopanda mtima; adaitana ku Mitsrayimu, adayenda ku Ashuru.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo wakhala"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "ngati nkhunda"
+    },
+    {
+      "surface": "פותה",
+      "gloss": "yopusa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yopanda"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "adaitana"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "adayenda"
+    }
+  ],
+  "timestamp": "2026-09-21T10:22:48.959098904Z",
+  "model": "glm-5.3"
+}

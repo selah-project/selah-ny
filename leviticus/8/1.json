@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 8:1",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo Yahwe analankhula kwa Moshe, kuti:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ndipo analankhula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti:"
+    }
+  ],
+  "timestamp": "2026-09-21T06:33:13.752445871Z",
+  "model": "glm-5.3"
+}

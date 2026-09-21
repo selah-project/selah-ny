@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 12:15",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo adzadziwa kuti ndine Yahwe, pamene ndawafalitsa ⟨את⟩ iwo m'mitundu ya amitundu, ndipo ndawazaza ⟨את⟩ iwo m'mayiko.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "adzadziwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהפיצי",
+      "gloss": "pamene ndawafalitsa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "m'mitundu ya amitundu"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "ndipo ndawazaza"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "m'mayiko"
+    }
+  ],
+  "timestamp": "2026-09-21T13:18:38.255751568Z",
+  "model": "glm-5.3"
+}

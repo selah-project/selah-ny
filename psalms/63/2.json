@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 63,
+  "translation": "Elohim, iwe ndiwe El wanga; mwachangu ndidzakufunafuna, moyo wanga unamva ludzu kwa iwe, thupi langa linakufuwa kwa iwe, mu dziko louma ndi lotsitsimba, lopanda madzi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El wanga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "mwachangu ndidzakufunafuna"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "unamva ludzu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "linakufuwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "thupi langa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mu dziko"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "louma"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "ndi lotsitsimba"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "lopanda"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madzi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:18.526710504Z",
+  "model": "glm-5.3"
+}

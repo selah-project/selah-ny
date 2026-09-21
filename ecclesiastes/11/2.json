@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Patsa gawo kwa isanu ndi iwiri, ndiponso kwa isanu ndi zitatu, chifukwa iwe sudziwa chiyani choipa chidzakhala pa dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Patsa"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "gawo"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "kwa isanu ndi iwiri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ndiponso"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "kwa isanu ndi zitatu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "udziwa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "chidzakhala"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:55.475439026Z",
+  "model": "glm-5.3"
+}

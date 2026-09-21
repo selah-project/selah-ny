@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Imbirani kwa iye, yambirani kwa iye; kambiraniponso za zozizitsa zake zonse.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Imbirani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "yambirani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "kambiraniponso"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "za … zonse"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "zozizitsa zake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:26.999554533Z",
+  "model": "glm-5.3"
+}

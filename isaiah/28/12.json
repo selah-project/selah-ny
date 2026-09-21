@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 28:12",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "amene adanena kwa iwo: “Iyi ndi mpumulo; patsani mpumulo wotopa; ndipo iyi ndi kopumutsa.” Koma sanafune kumva.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "adanena"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "mpumulo"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "patsani mpumulo"
+    },
+    {
+      "surface": "לעיף",
+      "gloss": "wotopa"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "ndipo iyi"
+    },
+    {
+      "surface": "המרגעה",
+      "gloss": "kopumutsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koma sanafune"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "sanafune"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "kumva"
+    }
+  ],
+  "timestamp": "2026-09-21T09:10:36.431127357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Thupi langa limadzaza mantha ndi mantha anu, ndipo ndaopa mweruzo anu.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "limadzaza mantha"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "ndi mantha anu"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "Thupi langa"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "ndipo ... mweruzo anu"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "ndaopa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:51.636259273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 68,
+  "translation": "Mvula yaulemu iwe Elohim umawulula m'cholowa chako; ndipo pamene chinali chotopa, iwe unatsimikizira chija.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "Mvula"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "yaulemu"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "umawulula"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "cholowa chako"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "ndipo pamene chinali chotopa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "unatsimikizira chija"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:40.857282449Z",
+  "model": "glm-5.3"
+}

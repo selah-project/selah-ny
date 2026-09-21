@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Mulingo wa zomwe mudzachita, momwemo mudzazichita kwa iliyonse, monga mulingo wawo.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "Mulingo wa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zomwe"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mudzachita"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "momwemo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mudzazichita"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "kwa iliyonse"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "monga mulingo wawo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:59:15.670423113Z",
+  "model": "glm-5.3"
+}

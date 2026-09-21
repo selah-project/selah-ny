@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo Davide anafika Mahanayimu; ndipo Abishalomo anadutsa ⟨את⟩ Yorodano, iye ndi anthu onse a Yisraeli pamodzi ndi iye.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Ndipo Davide"
+    },
+    {
+      "surface": "בא",
+      "gloss": "anafika"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "Mahanayimu"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "ndipo Abishalomo"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "anadutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yorodano"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorodano"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi onse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "anthu a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamodzi ndi iye"
+    }
+  ],
+  "timestamp": "2026-09-21T13:07:40.627500742Z",
+  "model": "glm-5.3"
+}

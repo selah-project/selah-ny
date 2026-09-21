@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 15:32",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 15,
+  "translation": "Ndipo ana a Yisraeli anali m'nkhalango, ndipo anapeza munthu akusonkha nkhuni tsiku la Sabata.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ndipo anali"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "m'nkhalango"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "anapeza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "akusonkha"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "nkhuni"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku la"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabata"
+    }
+  ],
+  "timestamp": "2026-09-21T07:00:15.673963636Z",
+  "model": "glm-5.3"
+}

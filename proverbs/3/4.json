@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo udzapeza chisomo ndi nzeru zabwino m'maso za Elohim ndi za anthu.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "Ndipo udzapeza"
+    },
+    {
+      "surface": "חן",
+      "gloss": "chisomo"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "ndi nzeru"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zabwino"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "m'maso za"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ndi za anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:53.234449525Z",
+  "model": "glm-5.3"
+}

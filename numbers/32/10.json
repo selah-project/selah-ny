@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Ndipo mkwiyo wa Yahwe unayaka tsiku limenelo, ndipo analumbira, nati:",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "unayaka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mkwiyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "limenelo"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "analumbira"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati:"
+    }
+  ],
+  "timestamp": "2026-09-21T07:08:55.172319501Z",
+  "model": "glm-5.3"
+}

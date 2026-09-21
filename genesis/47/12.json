@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 47,
+  "translation": "Ndipo Yosef adadyetsa ⟨את⟩ atate wake ndi ⟨את⟩ abale ake ndi ⟨את⟩ onse a banja la atate wake, ndi chakudya monga m'kamwa mwa ana ang'onoang'ono.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "adadyetsa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atate wake"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atate wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "abale ake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abale ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "onse a banja la atate wake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "בית",
+      "gloss": "banja"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "la atate wake"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chakudya"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "monga m'kamwa mwa"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "ana ang'onoang'ono"
+    }
+  ],
+  "timestamp": "2026-09-21T06:05:06.614444157Z",
+  "model": "glm-5.3"
+}

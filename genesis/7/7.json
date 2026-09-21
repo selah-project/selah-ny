@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo Noachi analowa, ndi ana ake amuna, ndi mkazi wake, ndi akazi a ana ake ndi ⟨את⟩ iye, m'chikwa, chifukwa cha madzi a chigwa.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "analowa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachi"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ndi ana ake amuna"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ndi mkazi wake"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ndi akazi a"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ndi ⟨את⟩ iye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "m'chikwa ⟨kuti⟩"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "chikwa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "מי",
+      "gloss": "madzi a"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "chigwa"
+    }
+  ],
+  "timestamp": "2026-09-21T05:44:04.425513300Z",
+  "model": "glm-5.3"
+}

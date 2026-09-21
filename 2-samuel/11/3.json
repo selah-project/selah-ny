@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Dawidi anatumiza, nafufuza za mkaziyo; ndipo <wina> anati: Kodi siyuwo Bat-Sheva, mwana wa Eliyamu, mkazi wa Uriya Muhiti?",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "anatumiza"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "nafufuza"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za mkaziyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Kodi siyuwo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "yuwo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Bat-Sheva"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "Eliyamu"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mkazi wa"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Muhiti"
+    }
+  ],
+  "timestamp": "2026-09-21T08:22:29.959777923Z",
+  "model": "glm-5.3"
+}

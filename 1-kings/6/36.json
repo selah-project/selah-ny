@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo adamanga ⟨את⟩ chikuta chamkati, mizere mitatu ya miyala yodulidwa, ndi mzere wodziwula wa makuni acedari.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Ndipo adamanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikuta chamkati"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "chikuta"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "chamkati"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mitatu"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "mizere"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "ya miyala yodulidwa"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "ndi mzere"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "wodziwula"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "wa makuni acedari"
+    }
+  ],
+  "timestamp": "2026-09-21T08:33:58.924358548Z",
+  "model": "glm-5.3"
+}

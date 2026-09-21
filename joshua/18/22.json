@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "ndi Beit-ha-Araba, ndi Tsemarayimu, ndi Beit-El;",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ndi Beit-"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ha-Araba"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "ndi Tsemarayimu"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ndi Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-21T07:40:44.469136736Z",
+  "model": "glm-5.3"
+}

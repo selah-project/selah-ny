@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Ndipo za kubadwa kwako, tsiku linabadwa ⟨את⟩ iwe, chinga chako chinadulidwa ayi, ndi m'madzi sunatsukidwa kusweputsidwa, ndi mchere sunaphikidwa, ndi kuzungulidwa sunazungulidwa.",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "Ndipo za kubadwa kwako"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "linabadwa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "iwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "chinadulidwa"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "chinga chako"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ndi m'madzi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sunatsukidwa"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "kusukidwa"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "kusweputsidwa"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "ndi mchere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "sunaphikidwa"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "ndi kuzungulidwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "sunazungulidwa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:00:34.949734557Z",
+  "model": "glm-5.3"
+}

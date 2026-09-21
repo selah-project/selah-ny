@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Ndipo zabwino sizidzakhala kwa woipa, ndipo sadzalitsa masiku monga mthunzi, iye amene saopa pamaso pa Elohim.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "Ndipo zabwino"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dzakhala"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "kwa woipa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sa"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "dzalitsa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "monga mthunzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "iye sa"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "opa"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T11:58:39.970298099Z",
+  "model": "glm-5.3"
+}

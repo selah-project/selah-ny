@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo adzasuntha ⟨את⟩ mthinga pamaso pa Yahwe, kuti mukhale okondedwa; tsiku lina pambuyo pa Sabata wansembe adzasuntha.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "adzasuntha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mthinga"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "mthinga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "kuti mukhale okondedwa"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "tsiku lina pambuyo pa"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabata"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "adzasuntha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:59.483446117Z",
+  "model": "glm-5.3"
+}

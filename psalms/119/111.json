@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ineyo ndinakhalira mawuto anu ku nthawi zonse, pakuti iwo ndiokondweretsa mtima wanga.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "ndinakhalira"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "mawuto anu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "kondweretsa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:03.912719092Z",
+  "model": "glm-5.3"
+}

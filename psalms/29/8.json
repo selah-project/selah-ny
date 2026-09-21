@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Mawu a Yahwe amagwetsetsa chipululu; Yahwe amagwetsetsa chipululu cha Kadeshi.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "amagwetsetsa"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "chipululu"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "amagwetsetsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "chipululu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "cha Kadeshi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:24.389991999Z",
+  "model": "glm-5.3"
+}

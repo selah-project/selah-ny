@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo Shemuweli anaitana ⟨את⟩ anthu kwa Yahwe ku Mitzipa.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "anaitana"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "ku Mitzipa"
+    }
+  ],
+  "timestamp": "2026-09-21T08:04:17.765002953Z",
+  "model": "glm-5.3"
+}

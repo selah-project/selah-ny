@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 17:23",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Koma sanamve, ndipo sanatsite ⟨את⟩ khutu lwawo, ndipo anapimitsa ⟨את⟩ khosi yawo, kuti asamve, ndi kuti asalandire chilango.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "sanamve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo sa-"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "sanatsite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khutu lwawo"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "khutu lwawo"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "anapimitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khosi yawo"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "khosi yawo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kuti asa-"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "mve"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "ndi kuti asa-"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "landire"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "chilango"
+    }
+  ],
+  "timestamp": "2026-09-21T09:36:23.837322837Z",
+  "model": "glm-5.3"
+}

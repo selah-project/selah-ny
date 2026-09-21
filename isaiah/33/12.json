@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 33:12",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Ndipo anthu adzakhala ngati kuwunika kwa nkhwi; adzakhala ngati mathithi odulidwa, ndi moto adzawatentha.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "adzakhala"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "משרפות",
+      "gloss": "ngati kuwunika kwa"
+    },
+    {
+      "surface": "שיד",
+      "gloss": "nkhwi"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "ngati mathithi"
+    },
+    {
+      "surface": "כסוחים",
+      "gloss": "odulidwa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ndi moto"
+    },
+    {
+      "surface": "יצתו",
+      "gloss": "adzawatentha"
+    }
+  ],
+  "timestamp": "2026-09-21T09:12:08.185733480Z",
+  "model": "glm-5.3"
+}

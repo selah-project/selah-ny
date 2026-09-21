@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Ndipo ana a Yisraeli adzasunga ⟨את⟩ Sabata, kuchita ⟨את⟩ Sabata kwa mibadwo yawo, pangano losatha.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Ndipo adzasunga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sabata"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabata"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuchita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sabata"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabata"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "kwa mibadwo yawo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pangano"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "losatha"
+    }
+  ],
+  "timestamp": "2026-09-21T06:23:05.621152088Z",
+  "model": "glm-5.3"
+}

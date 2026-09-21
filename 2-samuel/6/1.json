@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo Davide anabweranso kuti asonkhane ⟨את⟩ anthu onse osankhidwa mwa Yisraeli, makumi atatu a zikwi.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "anabweranso"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kakamwe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu onse osankhidwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "osankhidwa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mwa Yisraeli"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "makumi atatu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "a zikwi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:20:43.076029923Z",
+  "model": "glm-5.3"
+}

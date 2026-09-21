@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 109,
+  "translation": "Ndi mawu a udani anandizingirira, ndipo anandilimbana ndi ine popanda chifukwa.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "ndi mawu a"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "udani"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "anandizingirira"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "anandilimbana ndi ine"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "popanda chifukwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:06:24.048843226Z",
+  "model": "glm-5.3"
+}

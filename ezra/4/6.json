@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 4:6",
+  "book": "ezra",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo m'ufumu wa Achashverosh, m'chiyambi cha ufumu wake, analemba chinyozo pa okhala ku Yehuda ndi Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "m'ufumu wa"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "m'chiyambi cha"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ufumu wake"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "analemba"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "chinyozo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "okhala"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ndi Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T12:12:39.413635231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 4:7",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Chiyambi cha nzeru: peza nzeru; ndi zonse zopeza zako, peza chidziwitso.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "chiyambi cha"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "nzeru"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "peza"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "nzeru"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ndi zonse za"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "zopeza zako"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "peza"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "chidziwitso"
+    }
+  ],
+  "timestamp": "2026-09-21T11:18:27.866579101Z",
+  "model": "glm-5.3"
+}

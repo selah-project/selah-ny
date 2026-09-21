@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 28,
+  "translation": "Ndipo upange pa chikhazi zikhwamba ziwiri zagolide, ndipo uike ⟨את⟩ zikhwamba ziwiri pa malekezero awiri a chikhazi.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ndipo upange"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "chikhazi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "zikhwamba"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zagolide"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ndipo uike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zikhwamba ziwiri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "zikhwamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "awiri"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "malekezero"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "a chikhazi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:21:33.192832758Z",
+  "model": "glm-5.3"
+}

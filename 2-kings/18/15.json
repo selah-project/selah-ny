@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Chizkiya anapereka ⟨את⟩ siliva yonse yopezeka m'nyumba ya Yahwe ndi m'zosungika za nyumba ya mfumu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "anapereka"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siliva yonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonse"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "yopezeka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "ndi m'zosungika"
+    },
+    {
+      "surface": "בית",
+      "gloss": "za nyumba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mfumu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:56:06.782155225Z",
+  "model": "glm-5.3"
+}

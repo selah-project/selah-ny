@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo adzatulutsa ⟨את⟩ ng'ombeyi ku kunja kwa msasa, nadzayotcha ⟨את⟩ iye monga momwe anayotcha ⟨את⟩ ng'ombe woyamba; ndi nsembe ya tchimo cha gulu imeneyo.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "adzatulutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombeyi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ng'ombeyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kunja"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kwa msasa"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "nadzayotcha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "ng'ombeyi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "anayotcha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombe"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "woyamba"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "nsembe ya tchimo"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "cha gulu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "imeneyo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:32:07.996737753Z",
+  "model": "glm-5.3"
+}

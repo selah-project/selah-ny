@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Ndipo udzapha ⟨את⟩ ng'ombe pamaso pa Yahwe, pa khomo la hema ya msonkhano.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "udzapha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombe"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pa khomo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya msonkhano"
+    }
+  ],
+  "timestamp": "2026-09-21T06:22:11.252257216Z",
+  "model": "glm-5.3"
+}

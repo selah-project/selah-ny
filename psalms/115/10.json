@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 115,
+  "translation": "Banja la Aharoni, khulupilirani mwa Yahwe; iye ndiye thandizo lanu ndi chishango chanu.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "banja la"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "khulupilirani"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "mwa Yahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "thandizo lawo"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "ndi chishango chawo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:01.261336184Z",
+  "model": "glm-5.3"
+}

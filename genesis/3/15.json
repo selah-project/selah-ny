@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 3:15",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndipo udani ndidzaika pakati pa iwe ndi mkaziyu, ndi pakati pa mbewu yako ndi mbewu yake; iye adzakupweteka mutu, ndipo iwe udzampweteka chikhwirikhwiri.”",
+  "tokens": [
+    {
+      "surface": "ואיבה",
+      "gloss": "ndipo udani"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ndidzaika"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "pakati pa iwe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mkaziyu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbewu yako"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ndi pakati pa"
+    },
+    {
+      "surface": "זרעה",
+      "gloss": "mbewu yake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ישופך",
+      "gloss": "adzakupweteka"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ndipo iwe"
+    },
+    {
+      "surface": "תשופנו",
+      "gloss": "udzampweteka"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "chikhwirikhwiri"
+    }
+  ],
+  "timestamp": "2026-09-21T05:42:49.489233461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Moshe analemba ⟨את⟩ kutuluka kwawo monga mwa maulendo awo, monga mwa kamwa ka Yahwe; ndipo awa ndi maulendo awo monga mwa kutuluka kwawo.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "nalemba"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutuluka kwawo"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "kutuluka kwawo"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "monga mwa maulendo awo"
+    },
+    {
+      "surface": "על",
+      "gloss": "monga mwa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kamwa ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ndipo awa"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "maulendo awo"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "monga mwa kutuluka kwawo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:11:36.148025399Z",
+  "model": "glm-5.3"
+}

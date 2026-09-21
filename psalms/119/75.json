@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ndidziwa, Yahwe, kuti chiweruzo chanu ndi cholungama, ndi m'chikondi chenu munanditsutsa.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "ndidziwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cholungama"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "chiweruzo chanu"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "ndi m'chikondi chenu"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "munanditsutsa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:34.806532146Z",
+  "model": "glm-5.3"
+}

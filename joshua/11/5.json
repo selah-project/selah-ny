@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 11:5",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo mfumu zonsezi zinayang'anizana, ndipo zidadza, ndipo zinakhala mishitu pamodzi ku madzi a Meromu, kulimbana ndi Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויועדו",
+      "gloss": "zinayang'anizana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "zidadza"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "zinakhala mishitu"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamodzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מי",
+      "gloss": "madzi"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "a Meromu"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "kulimbana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T07:40:05.784496128Z",
+  "model": "glm-5.3"
+}

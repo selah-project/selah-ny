@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 13:12",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo Yisraeli wonse adzamva, nadzaopa, ndipo sadzaonjezera kuchita monga chaipa ichi pakati panu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "adzamva"
+    },
+    {
+      "surface": "ויראון",
+      "gloss": "adzaopa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sadza-"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "onjezera"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuchita"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "chaipa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "pakati panu"
+    }
+  ],
+  "timestamp": "2026-09-21T07:20:16.639322301Z",
+  "model": "glm-5.3"
+}

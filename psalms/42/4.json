@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Misodzi yanga idakhala chakudya changa usana ndi usiku, polankhulidwa ndi ine usana wonse: “Kodi Elohim wako ali kuti?”",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "idakhala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "changa"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "Misodzi yanga"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chakudya"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "usana"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ndi usiku"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "polankhulidwa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ndi ine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "usana"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ali kuti"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    }
+  ],
+  "timestamp": "2026-09-21T10:49:16.249373112Z",
+  "model": "glm-5.3"
+}

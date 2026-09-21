@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "Izi zidzalembedwa kwa mbadwo wotsata, ndipo anthu omwe adzalengidwa adzalemekeza Yah.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "zidzalembedwa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izi"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kwa mbadwo"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "wotsata"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ndipo anthu"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "omwe adzalengidwa"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "adzalemekeza"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:47.312153425Z",
+  "model": "glm-5.3"
+}

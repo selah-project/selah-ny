@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Iwe unalamulira zalamulo zako kuti zisungidwe kwambiri.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "unalamulira"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "zalamulo zako"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kuti zisungidwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:54.855074386Z",
+  "model": "glm-5.3"
+}

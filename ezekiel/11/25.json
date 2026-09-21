@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo ndinayankhula kwa aku chigwirizo ⟨את⟩ mawu onse a Yahwe amene anandiwonetsa.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "Ndipo ndinayankhula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "aku chigwirizo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu onse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "anandiwonetsa"
+    }
+  ],
+  "timestamp": "2026-09-21T09:57:28.938885128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 12:10",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Ndipo mudzadutsa ⟨את⟩ Yordano, mudzakhalabe m'dziko limene Yahwe Elohim wanu akupatsani ⟨את⟩ inu chokolola, ndipo adzakupatsani mpumulo kuchokera kwa adani anu onse akuzungulira, ndipo mudzakhala mwachitetezo.",
+  "tokens": [
+    {
+      "surface": "ועברתם",
+      "gloss": "Ndipo mudzadutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yordano"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordano"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "mudzakhalabe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "limene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wanu"
+    },
+    {
+      "surface": "מנחיל",
+      "gloss": "akupatsani chokolola"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "ndipo adzakupatsani mpumulo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa inu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuchokera kwa onse"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "adani anu"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "akuzungulira"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "ndipo mudzakhala"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "mwachitetezo"
+    }
+  ],
+  "timestamp": "2026-09-21T07:22:37.058162466Z",
+  "model": "glm-5.3"
+}

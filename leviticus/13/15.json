@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo wansembe ataona ⟨את⟩ thupi lamoyo, adzamudetsa; thupi lamoyo ndi lodetsedwa — ndi tsempho.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Ndipo wansembe ataona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thupi lamoyo"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "thupi"
+    },
+    {
+      "surface": "החי",
+      "gloss": "lamoyo"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "adzamudetsa"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "thupi"
+    },
+    {
+      "surface": "החי",
+      "gloss": "lamoyo"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ndi lodetsedwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": ""
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsempho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:36:28.689502387Z",
+  "model": "glm-5.3"
+}

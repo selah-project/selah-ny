@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndi ⟨את⟩ Kesedi, ndi ⟨את⟩ Hazu, ndi ⟨את⟩ Pildashi, ndi ⟨את⟩ Yidlaphi, ndi ⟨את⟩ Betueli.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Kesedi"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "Kesedi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Hazu"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "Hazu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Pildashi"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "Pildashi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Yidlaphi"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "Yidlaphi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Betueli"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betueli"
+    }
+  ],
+  "timestamp": "2026-09-21T05:50:21.160034493Z",
+  "model": "glm-5.3"
+}

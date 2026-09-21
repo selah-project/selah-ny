@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Nadachita ⟨את⟩ efodi ya golide, buluu, wouni, thonya la aswenya, ndi usi wabwino wopindika.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nadachita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "buluu"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "wouni"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "thonya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "la aswenya"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ndi usi wabwino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "wopindika"
+    }
+  ],
+  "timestamp": "2026-09-21T06:28:54.798834360Z",
+  "model": "glm-5.3"
+}

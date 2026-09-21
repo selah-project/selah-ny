@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo zinatero pa tsiku lachisanu ndi chiwiri, Moshe anaitana kwa Aharoni, ndi kwa ana ake, ndi kwa akuluakulu a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo zinatero"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pa tsiku"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "lachisanu ndi chiwiri"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "anaitana"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kwa Aharoni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ndi kwa ana ake"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "ndi kwa akuluakulu a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T06:35:31.406335535Z",
+  "model": "glm-5.3"
+}

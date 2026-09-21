@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 129,
+  "translation": "Pa msana wanga analima alimi; anawalitsa mizere yawo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "msana wanga"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "analima"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "alimi"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "anawalitsa"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "mizere yawo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:56.995246143Z",
+  "model": "glm-5.3"
+}

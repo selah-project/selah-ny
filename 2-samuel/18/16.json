@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo Yowabu anuvira nyanga, ndipo anthu anabwerera kutsata Yisraeli, chifukwa Yowabu anatsekereza ⟨את⟩ anthu.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "Ndipo anuvira"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabu"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "nyanga"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ndipo anabwerera"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "kutsata"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kutsata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "anatsekereza"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:26:37.258635509Z",
+  "model": "glm-5.3"
+}

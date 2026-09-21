@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 1:23",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Atsogoleri anu ali opalamba, ndi anzawo a mbala; onse akonda chinkholo, ndipo akulonda mphotho; saweruza mwana wamasiye, ndipo mlandu wa mkazi wamasiye sawalowa kwa iwo.",
+  "tokens": [
+    {
+      "surface": "שריך",
+      "gloss": "Atsogoleri anu"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "opalamba"
+    },
+    {
+      "surface": "וחברי",
+      "gloss": "ndi anzawo a"
+    },
+    {
+      "surface": "גנבים",
+      "gloss": "mbala"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "onse"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "akonda"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "chinkholo"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "ndipo akulonda"
+    },
+    {
+      "surface": "שלמנים",
+      "gloss": "mphotho"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "mwana wamasiye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "weruza"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "ndipo mlandu"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "wa mkazi wamasiye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "walowa"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:01:12.671695811Z",
+  "model": "glm-5.3"
+}

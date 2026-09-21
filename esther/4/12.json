@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo anamuuza Mordikai ⟨את⟩ mawu a Esteri.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "anamuuza"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordikai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "a Esteri"
+    }
+  ],
+  "timestamp": "2026-09-21T11:58:53.322979899Z",
+  "model": "glm-5.3"
+}

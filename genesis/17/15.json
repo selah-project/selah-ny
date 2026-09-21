@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Ndipo Elohim anati kwa Avraham: Sarayi, mkazi wako — simudzaita ⟨את⟩ dzina lake Sarayi; pakuti Sarah ndi dzina lake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndipo anati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarayi"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "mkazi wako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "udzaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzina lake"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dzina lake"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarayi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dzina lake"
+    }
+  ],
+  "timestamp": "2026-09-21T05:48:34.931399831Z",
+  "model": "glm-5.3"
+}

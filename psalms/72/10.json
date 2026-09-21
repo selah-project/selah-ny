@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 72,
+  "translation": "Mafumu a Tarshishi ndi a zilumba adzabwezera mphatso; mafumu a Sheba ndi Seba adzapereka zopereka zaulemu.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "mafumu a"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshishi"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "ndi a zilumba"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mphatso"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "adzabwezera"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mafumu a"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "ndi Seba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "zopereka zaulemu"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "adzapereka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:49.969412748Z",
+  "model": "glm-5.3"
+}

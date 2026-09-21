@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Tumikirani ⟨את⟩ Yahwe ndi mantha, ndipo kondwererani ndi kugwedezeka.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Tumikirani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "ndi mantha"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "ndipo kondwererani"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "ndi kugwedezeka"
+    }
+  ],
+  "timestamp": "2026-09-21T10:40:13.881708912Z",
+  "model": "glm-5.3"
+}

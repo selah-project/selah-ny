@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 52,
+  "translation": "Poti Doegi Mdomya anadza, nadziwitsa Shauli, nati kwa iye: “Davide wasankhana m'nyumba ya Aḥimelekhi.”",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Poti … anadza"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doegi"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Mdomya"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "nadziwitsa"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wasankhana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "m'"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "ya Aḥimelekhi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:19.092838787Z",
+  "model": "glm-5.3"
+}

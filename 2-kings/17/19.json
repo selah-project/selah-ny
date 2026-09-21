@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 17:19",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 17,
+  "translation": "Yehudhanso sanasunge ⟨את⟩ malamulo a Yahwe Elohim awo, koma anayenda m'michitidwe ya Yisraeli amene anachita.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "komanso"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "anasunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malamulo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "malamulo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim awo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "anayenda"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "m'michitidwe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "anachita"
+    }
+  ],
+  "timestamp": "2026-09-21T08:57:21.449948563Z",
+  "model": "glm-5.3"
+}

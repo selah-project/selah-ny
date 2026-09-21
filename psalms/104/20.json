@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 104,
+  "translation": "Umakhazikitsa mdima, ndipo khala usiku; m'menemo nyama zonse za nkhalango zikolola.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Umakhazikitsa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mdima"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ndipo khala"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "m'menemo"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "zikolola"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "יער",
+      "gloss": "za nkhalango"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:29.681120340Z",
+  "model": "glm-5.3"
+}

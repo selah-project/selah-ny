@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndiponso mlongo wake wamkazi wachikondwerero, woyandikana naye, amene sanakhale kwa mwamuna; chifukwa cha iye adzadetsedwa.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "mlongo wake wamkazi"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "wachikondwerero"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "woyandikana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nakhale"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kwa mwamuna"
+    },
+    {
+      "surface": "לה",
+      "gloss": "cha iye"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "adzadetsedwa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:14.789475077Z",
+  "model": "glm-5.3"
+}

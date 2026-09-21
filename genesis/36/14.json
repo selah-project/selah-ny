@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Ndipo awa anali ana a Oholibamahi, mwana wamkazi wa Anahi, mwana wamkazi wa Tsivoni, mkazi wa Esavu; ndipo anabala kwa Esavu ⟨את⟩ Yeyishi, ⟨את⟩ Yaalamu ndi ⟨את⟩ Korahi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ndipo awa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "anali"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholibamahi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi wa"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anahi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi wa"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tsivoni"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mkazi wa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ndipo anabala"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "kwa Esavu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeyishi"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeyishi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Yaalamu"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yaalamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Korahi"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:58:12.259403526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 42,
+  "translation": "Koma ⟨את⟩ Beniyamini, m'bale wa Yosefe, Yakobo sanamutumize ndi ⟨את⟩ abale ake; pakuti adati: “Kupanda munthu kupatsa choonadi.”",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Beniyamini"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Beniyamini"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "m'bale"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "wa Yosefe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "namutumize"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abale ake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abale ake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "adati"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kupanda"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "munthu kupatsa"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "choonadi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:03:27.969964919Z",
+  "model": "glm-5.3"
+}

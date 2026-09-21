@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Pakuti Ezira adakonzekera mtima wake kufufuza ⟨את⟩ Tora ya Yahwe, ndi kuchita, ndi kuphunzitsa m'Yisraeli chilamulo ndi chiweruzo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezira"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "adakonzekera"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "mtima wake"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "kufufuza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "ndi kuchita"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "ndi kuphunzitsa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "m'Yisraeli"
+    },
+    {
+      "surface": "חק",
+      "gloss": "chilamulo"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ndi chiweruzo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:12:49.383610323Z",
+  "model": "glm-5.3"
+}

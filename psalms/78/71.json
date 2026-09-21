@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 78:71",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 78,
+  "translation": "M'mbuyo mwa ziweto zokhathamira adamulowetsa kuti awete mwa Yakobo mtundu wake, ndi mwa Yisraeli cholowa chake.",
+  "tokens": [
+    {
+      "surface": "מאחר",
+      "gloss": "m'mbuyo mwa"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "ziweto zokhathamira"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "adamulowetsa"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "kuti awete"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "mwa Yakobo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mtundu wake"
+    },
+    {
+      "surface": "ובישראל",
+      "gloss": "ndi mwa Yisraeli"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "cholowa chake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:57:47.863194911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 11,
+  "translation": "Ndipo Yahwe anayankhula kwa Moshe ndi kwa Aharoni, nati kwa iwo:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ndipo anayankhula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndi kwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwa iwo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:34:28.194522358Z",
+  "model": "glm-5.3"
+}

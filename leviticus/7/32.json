@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo ndi ⟨את⟩ chiphapha cha dzanja lamanja mudzapereka ngati mphatso kwa wansembe, kuchokera mu nsembe za mtendere zanu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "chiphapha"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "cha dzanja lamanja"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "mudzapereka"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "ngati mphatso"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kwa wansembe"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "kuchokera mu nsembe"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "za mtendere zanu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:31:54.988204286Z",
+  "model": "glm-5.3"
+}

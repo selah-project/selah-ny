@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 2:19",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo amayi ake amampangira chovala chaching'ono, ndipo amachimubweretsa chaka ndi chaka, pokwera pamodzi ndi ⟨את⟩ mwamuna wake kupereka ⟨את⟩ nsembe ya chaka.",
+  "tokens": [
+    {
+      "surface": "ומעיל",
+      "gloss": "chovala"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "chaching'ono"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "amampangira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "amayi ake"
+    },
+    {
+      "surface": "והעלתה",
+      "gloss": "amachimubweretsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "chaka"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "ndi chaka"
+    },
+    {
+      "surface": "בעלותה",
+      "gloss": "pokwera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwamuna wake"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "mwamuna wake"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "kupereka nsembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsembe ya chaka"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "nsembe"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ya chaka"
+    }
+  ],
+  "timestamp": "2026-09-21T08:00:03.440700668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Ndipo adani anga ali ndi moyo, analimba; ndipo odana ndi ine anachuluka molakwa.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "Ndipo adani anga"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ali ndi moyo"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "analimba"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ndipo anachuluka"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "odana ndi ine"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "molakwa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:48:32.176813943Z",
+  "model": "glm-5.3"
+}

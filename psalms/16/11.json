@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Uzandidziwitse njira ya moyo; chodzaza chimene chili pamaso pako ⟨את⟩ chimakondweretsa; zokondweretsa zili dzanja lako lamanja mpaka nthawi zonse.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Uzandidziwitse"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "njira"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ya moyo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "chodzaza"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "chimakondweretsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pamaso pako"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "pamaso pako"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "zokondweretsa"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "dzanja lako lamanja"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "mpaka nthawi zonse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:45.777731777Z",
+  "model": "glm-5.3"
+}

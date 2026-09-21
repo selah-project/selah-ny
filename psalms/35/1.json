@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "La Davide. Yesani chiweruzo, Yahwe, ⟨את⟩ otsutsa ndi ine; menyanani ⟨את⟩ omenyana ndi ine.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "La Davide"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "Yesani chiweruzo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otsutsa ndi ine"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "otsutsa ndi ine"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "menyanani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omenyana ndi ine"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "omenyana ndi ine"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:28.536632669Z",
+  "model": "glm-5.3"
+}

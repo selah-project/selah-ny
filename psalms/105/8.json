@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Anakumbukira ku nthawi zonse pangano lake, liwu limene analamula kwa mazana ambiri a mibadwa.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "anakumbukira"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "pangano lake"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liwu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "analamula"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "kwa mazana ambiri"
+    },
+    {
+      "surface": "דור",
+      "gloss": "a mibadwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:55.972239259Z",
+  "model": "glm-5.3"
+}

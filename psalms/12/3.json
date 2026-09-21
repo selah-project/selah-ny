@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 12,
+  "translation": "Chinyengo akuyankhulana munthu ndi ⟨את⟩ mnzake; milomo ya chifewa, ndi mtima ndi mtima, akuyankhula.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Chinyengo"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "akuyankhulana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mnzake"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mnzake"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "milomo"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "ya chifewa"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "mtima"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ndi mtima"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "akuyankhula"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:57.415729242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo Rehabeamu anapita ku Shekemu, chifukwa ku Shekemu anadza onse a Yisraeli kum'fumitsa ⟨את⟩ iye.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "anapita"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeamu"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "ku Shekemu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ku Shekemu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "anadza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "kum'fumitsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "iye (Rehabeamu)"
+    }
+  ],
+  "timestamp": "2026-09-21T12:40:38.281000653Z",
+  "model": "glm-5.3"
+}

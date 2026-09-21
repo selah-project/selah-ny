@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 13:10",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo wansembe adzaona, ndipo taona, kukweza koyera mu khungu, ndipo kutalikitsa kwawirikiza tsitsi kukhala loyera, ndipo chibumba cha thupi chamoyo mu kukweza.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ndipo adzaona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wansembe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ndipo taona"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "kukweza"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "koyera"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "mu khungu"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ndipo kutalikitsa"
+    },
+    {
+      "surface": "הפכה",
+      "gloss": "kwawirikiza"
+    },
+    {
+      "surface": "שער",
+      "gloss": "tsitsi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "kukhala loyera"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "ndipo chibumba"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "cha thupi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "chamoyo"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "mu kukweza"
+    }
+  ],
+  "timestamp": "2026-09-21T06:36:42.709300013Z",
+  "model": "glm-5.3"
+}

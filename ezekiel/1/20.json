@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 1:20",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Kumene mzimu ukafuna kukhala, komweko amayenda; mzimu ukafuna kukhala komweko, ndipo maulo amamuledwa pafupi ndi iwo, pakuti mzimu wa cholengwa chamoyo uli m'maulo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imene"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ukafuna kukhala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "komwe"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kuti ayende"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "amayenda"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "komweko"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kuti ayende"
+    },
+    {
+      "surface": "והאופנים",
+      "gloss": "ndipo maulo"
+    },
+    {
+      "surface": "ינשאו",
+      "gloss": "amamuledwa"
+    },
+    {
+      "surface": "לעמתם",
+      "gloss": "pafupi ndi iwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mzimu"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "wa cholengwa chamoyo"
+    },
+    {
+      "surface": "באופנים",
+      "gloss": "m'maulo"
+    }
+  ],
+  "timestamp": "2026-09-21T09:54:30.688665183Z",
+  "model": "glm-5.3"
+}

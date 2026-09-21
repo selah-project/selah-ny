@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo iwe, mwana wa munthu, titengere ⟨kwa iwe⟩ njerwa, n'uyike ⟨את⟩ iyi pamaso pako, ndipo ulembe pa iyo mzinda, ⟨את⟩ Yerushalayimu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ndipo iwe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa munthu"
+    },
+    {
+      "surface": "קח",
+      "gloss": "titengere"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨kwa iwe⟩"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "njerwa"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "n'uyike"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "iyi (njerwa)"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamaso pako"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "n'ulembe"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pa iyo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mzinda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimu"
+    }
+  ],
+  "timestamp": "2026-09-21T13:19:25.436633682Z",
+  "model": "glm-5.3"
+}

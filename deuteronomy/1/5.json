@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Kunja kwa Yorodano, m'dziko la Moabu, Moshe anayamba kufotokoza ⟨את⟩ Tora (chilamulo) iyi, kuti:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "kunja kwa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorodano"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko la"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "anayamba"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "באר",
+      "gloss": "kufotokoza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora iyi"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora iyi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti"
+    }
+  ],
+  "timestamp": "2026-09-21T07:13:41.053708238Z",
+  "model": "glm-5.3"
+}

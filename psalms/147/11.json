@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 147,
+  "translation": "Yahwe akondwera ndi ⟨את⟩ omuopa Iye, ⟨את⟩ akuyembekezera khesedi wake.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "akondwera ndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omuopa Iye"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "omuopa Iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akuyembekezera"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "akuyembekezera"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "khesedi wake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:16:45.697167247Z",
+  "model": "glm-5.3"
+}

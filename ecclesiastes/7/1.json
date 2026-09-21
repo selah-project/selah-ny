@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Dzina lomaliza kuposa mafuta abwino, ndi tsiku la imfa lomaliza tsiku lobadwa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lomaliza"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dzina"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "kuposa mafuta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "abwino"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ndi tsiku"
+    },
+    {
+      "surface": "המות",
+      "gloss": "la imfa"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "kuposa tsiku"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "lobadwa"
+    }
+  ],
+  "timestamp": "2026-09-21T11:57:05.055190486Z",
+  "model": "glm-5.3"
+}

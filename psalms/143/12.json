@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 143,
+  "translation": "Ndipo m'khesedi wanu mudzaononga adani anga, nadzalaperetsa onse odzupulirira nefeshi yanga; pakuti ine ndine kapolo wanu.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "Ndipo m'khesedi wanu"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "mudzaononga"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "adani anga"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "nadzalaperetsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "odzupulirira"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi yanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ndine kapolo wanu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:15:43.524542913Z",
+  "model": "glm-5.3"
+}

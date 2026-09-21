@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "kuti ifenso tikhale monga anthu a mitundu yonse; ndipo mfumu yathu idzaweruza ife, idzatuluka pamaso pathu, ndipo idzalimbana ⟨את⟩ nkhondo zathu.”",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "tikhale"
+    },
+    {
+      "surface": "גם",
+      "gloss": "-nso"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ife"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "monga onse"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "anthu a mitundu"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "idzaweruza ife"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "mfumu yathu"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "idzatuluka"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "pamaso pathu"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "idzalimbana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkhondo zathu"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "nkhondo zathu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:00:57.635316098Z",
+  "model": "glm-5.3"
+}

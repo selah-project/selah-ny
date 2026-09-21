@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Onse adapatuka, pamodzi adaswa; palibe wochita zabwino, palibe, ngakhale mmodzi yekha.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Onse"
+    },
+    {
+      "surface": "סר",
+      "gloss": "adapatuka"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamodzi"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "adaswa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wochita"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zabwino"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ngakhale"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmodzi yekha"
+    }
+  ],
+  "timestamp": "2026-09-21T10:42:20.143582437Z",
+  "model": "glm-5.3"
+}

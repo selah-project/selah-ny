@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 16,
+  "translation": "Pakuti iwe susiyedwa moyo wanga ku Sheoli, simupereka wokhulupirika wako kuona manda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "musasiye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wanga"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ku Sheoli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mupereke"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "wokhulupirika wako"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "manda"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:45.777571827Z",
+  "model": "glm-5.3"
+}

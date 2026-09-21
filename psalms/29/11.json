@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Yahwe amapereka mphamvu kwa anthu ake; Yahwe amadalitsa ⟨את⟩ anthu ake ndi mtendere.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mphamvu"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "kwa anthu ake"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "amapereka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "amadalitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anthu ake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ndi mtendere"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:57.440580080Z",
+  "model": "glm-5.3"
+}

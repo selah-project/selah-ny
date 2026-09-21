@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo Shelomo anamanga ⟨את⟩ nyumba, ndipo anamaliza.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "anamanga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "anamaliza"
+    }
+  ],
+  "timestamp": "2026-09-21T08:34:49.944066365Z",
+  "model": "glm-5.3"
+}

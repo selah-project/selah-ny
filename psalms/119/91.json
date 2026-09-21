@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Mwa malemba a chilamulo chako zakhazikika mpaka lero lino; pakuti zonse ndi akapolo ako.",
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "mwa malemba a chilamilo chako"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "zakhazikika"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mpaka lero lino"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ndi akapolo ako"
+    }
+  ],
+  "timestamp": "2026-09-21T13:28:20.458769444Z",
+  "model": "glm-5.3"
+}

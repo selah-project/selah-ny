@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 6:24",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Tinamva ⟨את⟩ mbiri yake; manja athu zalephera; madzudzulo watigwira, zowawa, monga mayi woyembekezera.",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "Tinamva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbiri yake"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mbiri yake"
+    },
+    {
+      "surface": "רפו",
+      "gloss": "zalephera"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "manja athu"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "madzudzulo"
+    },
+    {
+      "surface": "החזיקתנו",
+      "gloss": "watigwira"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "zowawa"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "monga mayi woyembekezera"
+    }
+  ],
+  "timestamp": "2026-09-21T09:29:33.572696159Z",
+  "model": "glm-5.3"
+}

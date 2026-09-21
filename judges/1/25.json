@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo anawaonetsa ⟨את⟩ kolowera ka mzindau, ndipo anagwetsa ⟨את⟩ mzindau ndi kano la lupanga; koma ⟨את⟩ munthuyo ndi ⟨את⟩ banja lake lonse anawatuma mkati mwa mtendere.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "anawaonetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kolowera ka mzindau"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "kolowera"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mzindau"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "anagwetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mzindau"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mzindau"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "kano la"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "lupanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "koma ⟨את⟩",
+      "marks": "munthuyo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munthuyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "banja lake lonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "banja lake"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "anawatuma mkati mwa mtendere"
+    }
+  ],
+  "timestamp": "2026-09-21T07:46:11.638277425Z",
+  "model": "glm-5.3"
+}

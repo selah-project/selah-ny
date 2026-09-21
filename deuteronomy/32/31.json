@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 32:31",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 32,
+  "translation": "Pakuti mwala wawo si monga mwala wathu, ndipo mdani wathu ndiye mweruzi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "כצורנו",
+      "gloss": "monga mwala wathu"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "mwala wawo"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "ndipo mdani wathu"
+    },
+    {
+      "surface": "פלילים",
+      "gloss": "mweruzi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:30:22.953287952Z",
+  "model": "glm-5.3"
+}

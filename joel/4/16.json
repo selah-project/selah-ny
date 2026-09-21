@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joel 4:16",
+  "book": "joel",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo Yahwe adzaphulira kuchokera ku Tsiyoni, ndipo kuchokera ku Yerushalayimu adzapereka mawu ake; kumwamba ndi dziko lapansi zidzagwedezeka; ndipo Yahwe adzakhala chitetezo kwa anthu ake, ndi mphamvu kwa ana a Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ndipo Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "kuchokera ku Tsiyoni"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "adzaphulira"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "ndipo kuchokera ku Yerushalayimu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "adzapereka"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "mawu ake"
+    },
+    {
+      "surface": "ורעשו",
+      "gloss": "zidzagwedezeka"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kumwamba"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ndi dziko lapansi"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ndipo Yahwe"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "chitetezo"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "kwa anthu ake"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "ndi mphamvu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T10:24:31.842160980Z",
+  "model": "glm-5.3"
+}

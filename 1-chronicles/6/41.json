@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 6,
+  "translation": "Ndipo ⟨את⟩ minda ya mzinda ndi ⟨את⟩ malire ake anapatsa Kalevu, mwana wa Yefunne.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "minda ya mzinda"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "minda"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ya mzinda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malire ake"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "malire ake"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "anapatsa"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalevu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefunne"
+    }
+  ],
+  "timestamp": "2026-09-21T12:24:57.628344633Z",
+  "model": "glm-5.3"
+}

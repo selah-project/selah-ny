@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Mtima wawo wafuta monga mafuta; koma ine Tora yanu ndikondwera nayo.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "wafuta"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "monga mafuta"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "mtima wawo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora yanu"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "ndikondwera nayo"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:46.915258196Z",
+  "model": "glm-5.3"
+}

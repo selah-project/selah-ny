@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 102,
+  "translation": "Chifukwa cha mkwiyo wako ndi mkuwo wako; pakuti iwe munandikweza, ndipo munandiponya.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "mkwiyo wako"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "ndi mkuwo wako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "munandikweza"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "ndipo munandiponya"
+    }
+  ],
+  "timestamp": "2026-09-21T11:02:44.555874225Z",
+  "model": "glm-5.3"
+}

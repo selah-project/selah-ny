@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 2:6",
+  "book": "esther",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Amene anatengedwa kuukapo m'Yerushalayimu pamodzi ndi anthu onse anatengedwawo pamodzi ndi Yekonyahu, mfumu ya Yuda, amene Nebukadnetsara, mfumu ya Babuloni, anawatenga kuukapo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "anatengedwa kuukapo"
+    },
+    {
+      "surface": "מירושלים",
+      "gloss": "m'Yerushalayimu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "anthu onse anatengedwawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "הגלתה",
+      "gloss": "anatengedwawo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamodzi ndi"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Yekonyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "anawatenga kuukapo"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnetsara"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babuloni"
+    }
+  ],
+  "timestamp": "2026-09-21T13:31:29.275068222Z",
+  "model": "glm-5.3"
+}

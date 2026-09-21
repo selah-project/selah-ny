@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Akhale kuti njira zanga zikhazikike zosunga malamulo anu.",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "akhale kuti"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "zikhazikike"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "njira zanga"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "zosunga"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "malamulo anu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:45.622655584Z",
+  "model": "glm-5.3"
+}

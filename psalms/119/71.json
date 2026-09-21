@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Ndili bwino kwa ine kuti ndinavutika; kuti ndiphunzire malamulo anu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Ndili bwino"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ndinavutika"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "ndiphunzire"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "malamulo anu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:46.915373165Z",
+  "model": "glm-5.3"
+}

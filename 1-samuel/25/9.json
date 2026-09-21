@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 25:9",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Anyamata a Davide anafika, nalankhula kwa Nabali monga mwa mawu onse awa m'dzina la Davide, ndipo anapuma.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "anafika"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "anyamata a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "nalankhula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabali"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "monga mwa onse"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "m'dzina la"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "וינוחו",
+      "gloss": "anapuma"
+    }
+  ],
+  "timestamp": "2026-09-21T08:11:32.471141780Z",
+  "model": "glm-5.3"
+}

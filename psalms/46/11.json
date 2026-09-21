@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 46,
+  "translation": "Khazikani, ndipo dziwani kuti ine ndine Elohim; ndidzakwezedwa mwa amitundu, ndidzakwezedwa m'dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Khazikani"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "ndipo dziwani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ndine Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ndidzakwezedwa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mwa amitundu"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ndidzakwezedwa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "m'dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:50:14.270167549Z",
+  "model": "glm-5.3"
+}

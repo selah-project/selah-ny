@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 116,
+  "translation": "Chifukwa adagwetse khutu lake kwa ine, ndipo masiku anga onse ndidzamuitana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chifukwa"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "adagwetse"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "khutu lake"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "ndipo masiku anga onse"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndidzamuitana"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:54.002163490Z",
+  "model": "glm-5.3"
+}

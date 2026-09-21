@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 77,
+  "translation": "Ndinakumbukira Elohim, ndipo ndinadandaula; ndinaganizira, ndipo mzimu wanga unafooka. Selah.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Ndinakumbukira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "ndipo ndinadandaula"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ndinaganizira"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "ndipo unafooka"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mzimu wanga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:40.192266294Z",
+  "model": "glm-5.3"
+}

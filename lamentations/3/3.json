@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "ny",
+  "chapter": 3,
+  "translation": "Ndithu ine yekha ndiye amabwerera, asandutsa dzanja lake tsiku lonse.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ndithu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ine yekha ndiye"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "amabwerera"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "asandutsa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dzanja lake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku"
+    }
+  ],
+  "timestamp": "2026-09-21T11:52:28.963811716Z",
+  "model": "glm-5.3"
+}

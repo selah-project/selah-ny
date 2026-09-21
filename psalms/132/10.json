@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 132,
+  "translation": "Chifukwa cha Davide kapolo wako, musataye nkhope ya Mashiya wako.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kapolo wako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musataye"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "musataye"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkhope ya"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiya wako"
+    }
+  ],
+  "timestamp": "2026-09-21T11:13:41.547818100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "M'malamulo anu ndidzakondwera, sindidzaiwala mawu anu.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "m'malamulo anu"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "ndidzakondwera"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sindi"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "dzaiwala"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "mawu anu"
+    }
+  ],
+  "timestamp": "2026-09-21T11:09:43.149142298Z",
+  "model": "glm-5.3"
+}

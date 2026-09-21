@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 5:8",
+  "book": "ezra",
+  "lang": "ny",
+  "chapter": 5,
+  "translation": "Mfumu ikadziwa kuti tinapita ku Yuda, ku chigawo, ku nyumba ya Eloha wamkulu; ndipo iyo ikumangidwa ndi miala yayikulu, ndipo nkhuni zikukhazikitsidwa m'makoma; ndipo ntchito iyi ikuchitidwa mwachangu, ndipo ikupambana m'manja mwawo.",
+  "tokens": [
+    {
+      "surface": "ידיע",
+      "gloss": "ikadziwa"
+    },
+    {
+      "surface": "להוא",
+      "gloss": "Mfumu i-"
+    },
+    {
+      "surface": "למלכא",
+      "gloss": "kwa mfumu"
+    },
+    {
+      "surface": "די",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אזלנא",
+      "gloss": "tinapita"
+    },
+    {
+      "surface": "ליהוד",
+      "gloss": "ku Yuda"
+    },
+    {
+      "surface": "מדינתא",
+      "gloss": "ku chigawo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ku nyumba"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "ya Eloha"
+    },
+    {
+      "surface": "רבא",
+      "gloss": "wamkulu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ndipo iyo"
+    },
+    {
+      "surface": "מתבנא",
+      "gloss": "ikumangidwa"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ndi miala"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "yayikulu"
+    },
+    {
+      "surface": "ואע",
+      "gloss": "ndi nkhuni"
+    },
+    {
+      "surface": "מתשם",
+      "gloss": "zikukhazikitsidwa"
+    },
+    {
+      "surface": "בכתליא",
+      "gloss": "m'makoma"
+    },
+    {
+      "surface": "ועבידתא",
+      "gloss": "ndipo ntchito"
+    },
+    {
+      "surface": "דך",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "אספרנא",
+      "gloss": "mwachangu"
+    },
+    {
+      "surface": "מתעבדא",
+      "gloss": "ikuchitidwa"
+    },
+    {
+      "surface": "ומצלח",
+      "gloss": "ndipo ikupambana"
+    },
+    {
+      "surface": "בידהם",
+      "gloss": "m'manja mwawo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:13:36.801155665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 35,
+  "translation": "Pakuti mwachuma anabisa kwa ine dzenje, momba yawo; mwachuma anachimba za moyo wanga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mwachuma"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "anabisa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "dzenje"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "momba yawo"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mwachuma"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "anachimba"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "za moyo wanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:06.342296038Z",
+  "model": "glm-5.3"
+}

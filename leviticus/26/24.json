@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "ndipo Ine ndidzayenda ndithu pamodzi ndi inu mokana, ndipo ndidzamenya ⟨את⟩ inu, Ine yemwe, nthawi isanu ndi iwiri, chifukwa cha machimo anu.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "ndipo ndidzayenda"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "pamodzi ndi inu"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "mokana"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "ndipo ndidzamenya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "yemwe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nthawi isanu ndi iwiri"
+    },
+    {
+      "surface": "על",
+      "gloss": "chifukwa cha"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "machimo anu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:48:15.883220272Z",
+  "model": "glm-5.3"
+}

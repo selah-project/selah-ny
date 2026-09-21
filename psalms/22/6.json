@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Kwa iwe anafuula, nadzipulumutsa; mwa iwe anakhulupirira, sanachitidwe manyazi.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "anafuula"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "nadzipulumutsa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mwa iwe"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "anakhulupirira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sana-"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "chitidwe manyazi"
+    }
+  ],
+  "timestamp": "2026-09-21T10:43:15.140103053Z",
+  "model": "glm-5.3"
+}

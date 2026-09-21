@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 66,
+  "translation": "Wodala ndi Elohim, amene sanasocheretse pemphero langa, ndipo khesedi wake kwa ine ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "wodala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sana-"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "anasocheretsa"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "pemphero langa"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "ndipo khesedi wake"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "kwa ine ⟨את⟩",
+      "marks": "khesedi wake"
+    }
+  ],
+  "timestamp": "2026-09-21T10:53:28.101671845Z",
+  "model": "glm-5.3"
+}

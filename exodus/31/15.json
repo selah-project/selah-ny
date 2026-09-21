@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 31:15",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 31,
+  "translation": "Masiku anayi ndi awiri ntchito idzachitika, koma tsiku lachinkirano ndi Sabata, mpumulo wathunthu, yapatulika kwa Yahwe; yense wochita ntchito tsiku la Sabata, kufa adzafa.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "anayi ndi awiri"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "idzachitika"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "koma tsiku la"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "lachinkirano"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabata"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "mpumulo wathunthu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "yapatulika"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yense"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "wochita"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ntchito"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tsiku la"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabata"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "adzafa"
+    }
+  ],
+  "timestamp": "2026-09-21T06:23:05.621012883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Ndipo udzapanga mambulo a matsitsi a mbuzi, akhale chihema chophimira pa chihema chachikulu; mambulo khumi ndi limodzi udzawapanga ⟨את⟩-awo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "udzapanga"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "mambulo"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "a mbuzi"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "chihema chophimira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "chihema chachikulu"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "khumi ndi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "limodzi"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "mambulo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "udzawapanga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-awo",
+      "marks": "mambulo khumi ndi limodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T06:20:08.757780597Z",
+  "model": "glm-5.3"
+}

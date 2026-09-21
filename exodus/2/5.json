@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Mwana wamkazi wa Paro anatsika kusambira pa mtsinje, ndi anyamata ake akuyenda m'mbali mwa mtsinje; ndipo anaona ⟨את⟩ chikwatu chili mkati mwa zizallire, natuma ⟨את⟩ kalongo wake, nao anachitenga.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "anatsika"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wamkazi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "kusambira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "mtsinje"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "ndi anyamata ake"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "akuyenda"
+    },
+    {
+      "surface": "על",
+      "gloss": "m'mbali mwa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mbali"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "mtsinje"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikwatu"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "chikwatu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mkati mwa"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "zizallire"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "natuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalongo wake"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "kalongo wake"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "anachitenga"
+    }
+  ],
+  "timestamp": "2026-09-21T06:07:46.059453025Z",
+  "model": "glm-5.3"
+}

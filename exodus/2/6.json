@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Anatsegula, nao anaona ⟨את⟩ mwana — taona, khwiri lalira. Anamuchitira chifundo, nati: “Wa ana a Ahebri mmodzi ndiyu.”",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "anatsegula"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "anaona iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "נער",
+      "gloss": "khwiri"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "lalira"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "anamuchitira chifundo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "wa ana a"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ahebri"
+    },
+    {
+      "surface": "זה",
+      "gloss": "mmodzi ndiyu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:07:46.060822097Z",
+  "model": "glm-5.3"
+}

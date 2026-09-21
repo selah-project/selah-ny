@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 26,
+  "translation": "Sindakhala ndi anthu a zabodza, ndipo ndi obisala sindidzalowa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "sindakhala"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "a zabodza"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ndipo ndi"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "obisala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "sindidzalowa"
+    }
+  ],
+  "timestamp": "2026-09-21T10:45:56.626689775Z",
+  "model": "glm-5.3"
+}

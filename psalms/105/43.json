@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 105,
+  "translation": "Ndipo adatulutsa anthu ake ndi chikondwerero, ⟨את⟩ osankhidwa ake ndi kwimba.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "adatulutsa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "anthu ake"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "ndi chikondwerero"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ndi kwimba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "osankhidwa ake"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "osankhidwa ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:04:00.913051278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo Akwa Sheba anagwa pa iwo, natenga izo; ndipo anaamuna ⟨את⟩ omasulira anawapha ndi mphapo ya lupanga; ndipo inenso ndinapulumuka, ndekha yekha, kukuza kuti nkhalitseni.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "anagwa"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Akwa Sheba"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "natenga izo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "anaamuna omasulira"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "anaamuna omasulira"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "anawapha"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ndi mphapo ya"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "lupanga"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "ndinapulumuka"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ndekha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ineneso"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "yekha"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "kukuza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "khalani"
+    }
+  ],
+  "timestamp": "2026-09-21T11:29:43.361991376Z",
+  "model": "glm-5.3"
+}

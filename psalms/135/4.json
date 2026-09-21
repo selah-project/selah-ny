@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 135,
+  "translation": "Pakuti Yah anasankha kwa iye ⟨את⟩ Yakobo, Yisraeli kukhala chuma chake chodzikonda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "anasankha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "kukhala chuma chake chodzikonda"
+    }
+  ],
+  "timestamp": "2026-09-21T11:14:34.864148458Z",
+  "model": "glm-5.3"
+}

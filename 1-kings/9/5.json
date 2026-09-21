@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 9:5",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo ndidzayimiritsa ⟨את⟩ mpando wa ufumu wako pa Yisraeli ku nthawi zonse, monga momwe ndinalankhulira kwa Davidi atate wako, ndi kuti: Sidzadulidwa kwa iwe munthu aliyense mpando wa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "ndidzayimiritsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpando wa ufumu wako"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "mpando"
+    },
+    {
+      "surface": "ממלכתך",
+      "gloss": "wa ufumu wako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ndinalankhulira"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atate wako"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ndi kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "dzadulidwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu aliyense"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "mpando"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "mpando"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-21T08:37:40.043692353Z",
+  "model": "glm-5.3"
+}

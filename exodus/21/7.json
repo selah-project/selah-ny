@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo ngati munthu agulitsa ⟨את⟩ mwana wake wamkazi kukhala mdzakazi, sadzachoka monga momwe akapolo amachokera.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ndipo ngati"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "agulitsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wake wamkazi"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "mwana wake wamkazi"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "kukhala mdzakazi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "dzachoka"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "monga momwe amachokera"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "akapolo"
+    }
+  ],
+  "timestamp": "2026-09-21T12:56:22.575134202Z",
+  "model": "glm-5.3"
+}

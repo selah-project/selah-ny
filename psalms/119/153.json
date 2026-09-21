@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 119,
+  "translation": "Penyerani kusautika kwanga, ndipo nditontholeni; pakuti Tora yanu sindinaiwale.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Penyerani"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "kusautika kwanga"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "ndipo nditontholeni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora yanu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ndinaiwale"
+    }
+  ],
+  "timestamp": "2026-09-21T11:12:16.576098250Z",
+  "model": "glm-5.3"
+}

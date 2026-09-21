@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndipo ⟨את⟩ zonyezimira, ndi ⟨את⟩ zotereka, amene anala golide, golide, ndi amene anala siliva, siliva, mfumu ya asilikali anazitenga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zonyezimira"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "zonyezimira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zotereka"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "zotereka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ndi amene"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "anazitenga"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mfumu ya"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "asilikali"
+    }
+  ],
+  "timestamp": "2026-09-21T09:01:13.363777532Z",
+  "model": "glm-5.3"
+}

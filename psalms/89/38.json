@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Monga mwezi zidzakhazikika ku nthawi zonse, ndipo mboni yodaliyika m'thambo yamakhulupirika. Selah.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "Monga mwezi"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "zidzakhazikika"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ku nthawi zonse"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ndipo mboni"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "m'thambo"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "yamakhulupirika"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:42.418992844Z",
+  "model": "glm-5.3"
+}

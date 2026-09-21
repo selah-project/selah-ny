@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 73,
+  "translation": "Ndakhala ndivutika tsiku lonse, ndipo chidzudzulo changa chili mmawa iliyonse.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ndakhala"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "ndivutika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsiku"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "ndipo chidzudzulo changa"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "mmawa iliyonse"
+    }
+  ],
+  "timestamp": "2026-09-21T10:56:26.326240323Z",
+  "model": "glm-5.3"
+}

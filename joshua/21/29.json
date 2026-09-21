@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 21:29",
+  "book": "joshua",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "⟨את⟩ Yarmuti ndi ⟨את⟩ malo ake, ⟨את⟩ Eni-Ganimu ndi ⟨את⟩ malo ake — mizi inayi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarmuti"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "Yarmuti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malo ake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malo ake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eni-Ganimu"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Eni-"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "Ganimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malo ake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "malo ake"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mizi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "inayi"
+    }
+  ],
+  "timestamp": "2026-09-21T07:42:58.512515529Z",
+  "model": "glm-5.3"
+}

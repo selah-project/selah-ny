@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Ndi iye anabala kwa iye ⟨את⟩ Zimurani ndi ⟨את⟩ Yokashani ndi ⟨את⟩ Medani ndi ⟨את⟩ Midiyani ndi ⟨את⟩ Yishibaki ndi ⟨את⟩ Shuwakhi.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "anabala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimurani"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimurani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Yokashani"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokashani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Medani"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Midiyani"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Yishibaki"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Yishibaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "Shuwakhi"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Shuwakhi"
+    }
+  ],
+  "timestamp": "2026-09-21T05:53:16.249468471Z",
+  "model": "glm-5.3"
+}

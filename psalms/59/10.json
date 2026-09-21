@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 59,
+  "translation": "Mphamvu yanga, kwa iwe ndidzasamalira; chifukwa Elohim ndiye chitetezo changa chamwamba.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Mphamvu yanga"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "ndidzasamalira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "chitetezo changa chamwamba"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:56.058700804Z",
+  "model": "glm-5.3"
+}

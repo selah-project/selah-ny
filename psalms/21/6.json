@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Waukulu ndi ulemerero wake mu chipulumutso chako; ulemu ndi chikondwerero chachikulu mwaika pa iye.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "waukulu"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ulemerero wake"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "mu chipulumutso chako"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "ulemu"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ndi chikondwerero chachikulu"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "mwaika"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa iye"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:13.043811873Z",
+  "model": "glm-5.3"
+}

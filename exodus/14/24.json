@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 14:24",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Ndipo zinachitika m'gawo lausiku la m'mawa, Yahwe dayang'ana kampu ya Aigupto kudzera mumzati wa moto ndi wa mtambo, nachititsa chisokonezo ⟨את⟩ kampu ya Aigupto.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zinachitika"
+    },
+    {
+      "surface": "באשמרת",
+      "gloss": "m'gawo lausiku"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "la m'mawa"
+    },
+    {
+      "surface": "וישקף",
+      "gloss": "dayang'ana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampu ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Aigupto"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "kudzera mumzati"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wa moto"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "ndi wa mtambo"
+    },
+    {
+      "surface": "ויהם",
+      "gloss": "nachititsa chisokonezo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampu ya Aigupto"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampu ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Aigupto"
+    }
+  ],
+  "timestamp": "2026-09-21T06:13:07.312716679Z",
+  "model": "glm-5.3"
+}

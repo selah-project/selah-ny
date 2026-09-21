@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Chakudya cha Elohim wake, cha zinthu zopatulika kwambiri, ndiponso cha zopatulika, adzadya.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "chakudya"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "cha Elohim wake"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "cha zinthu zopatulika kwambiri"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "zopatulika kwambiri"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ndiponso cha"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "zopatulika"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "adzadya"
+    }
+  ],
+  "timestamp": "2026-09-21T06:42:16.584550735Z",
+  "model": "glm-5.3"
+}

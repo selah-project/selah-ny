@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 29,
+  "translation": "Munthu wanjala ayesa ⟨את⟩ munthu wachifoolu; angatseke mtima kapena aseke, palibe mphotho.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wanjala"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "ayesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munthu wachifoolu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "wachifoolu"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "angatseke mtima"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "kapena aseke"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "mphotho"
+    }
+  ],
+  "timestamp": "2026-09-21T11:27:14.336174722Z",
+  "model": "glm-5.3"
+}

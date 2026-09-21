@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 10,
+  "translation": "Ndipo ndinatembenuka, ndipo ndinatsika m'phiri, ndipo ndinaika ⟨את⟩ malo a miyala m'chikwata chimene ndinapanga; ndipo analipo kumeneko, monga Yahweh anandiuza.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "ndinatembenuka"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "ndinatsika"
+    },
+    {
+      "surface": "מן",
+      "gloss": "m'"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ndinaika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malo a miyala"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "malo a miyala"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "m'chikwata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chimene"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndinapanga"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "analipo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "anandiuza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T07:18:33.584732586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 4:5",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Kuti akhulupirire kuti anakudziwitsa iwe Yahwe, Mulungu wa makolo awo, Elohim wa Avraham, Elohim wa Yitsaki, ndi Elohim wa Yakobo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "akhulupirire"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "anakudziwitsa iwe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "makolo awo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaki"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ndi Elohim wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    }
+  ],
+  "timestamp": "2026-09-21T06:08:53.525087779Z",
+  "model": "glm-5.3"
+}

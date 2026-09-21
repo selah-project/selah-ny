@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Ndipo ngati ng'ombe anawukira ⟨את⟩ munthu kapena ⟨את⟩ mkazi, namwalira, ng'ombeyo adzaponyedwa miyala ndithu, ndipo nyama yake sadzadyedwa ⟨את⟩, ndipo mwini ng'ombeyo ndi wopanda mulandu.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ndipo ngati"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "anawukira"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munthu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkazi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "namwalira"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "adzaponyedwa miyala"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "ndithu"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ng'ombeyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndipo... sadzadyedwa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sadzadyedwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama yake"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nyama yake"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ndipo mwini"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ng'ombeyo"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "wopanda mulandu"
+    }
+  ],
+  "timestamp": "2026-09-21T06:17:44.957457797Z",
+  "model": "glm-5.3"
+}

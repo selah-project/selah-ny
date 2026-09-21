@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 19:42",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 19,
+  "translation": "Ndipo taona, anthu onse a Yisraeli anadza kwa mfumu, nanena kwa mfumu: “Chifukwa chiyani abale athu, anthu a Yehuda, anakuba iwe, nadutsa ⟨את⟩ mfumu ndi ⟨את⟩ nyumba yake kudutsa ⟨את⟩ Yordani, ndi anthu onse a Davide pamodzi ndi iye?”",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ndipo taona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "באים",
+      "gloss": "anadza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nanena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "chifukwa chiyani"
+    },
+    {
+      "surface": "גנבוך",
+      "gloss": "anakuba iwe"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "abale athu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yehuda"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "nadutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfumu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyumba yake"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yordani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordani"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ndi anthu onse"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "a Davide"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamodzi ndi iye"
+    }
+  ],
+  "timestamp": "2026-09-21T08:28:24.890504611Z",
+  "model": "glm-5.3"
+}

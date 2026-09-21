@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Ndamutsulidwa ngati madzi, ndipo mafupa anga onse apatukana; mtima wanga wakhala ngati khobiri, wasungunuka mkati mwa mimba yanga.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "ngati madzi"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "Ndamutsulidwa"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "ndipo apatukana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onse"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mafupa anga"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wakhala"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wanga"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "ngati khobiri"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "wasungunuka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mkati mwa"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mimba yanga"
+    }
+  ],
+  "timestamp": "2026-09-21T10:44:02.512800276Z",
+  "model": "glm-5.3"
+}

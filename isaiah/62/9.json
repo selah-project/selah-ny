@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 62,
+  "translation": "Pakuti owasonkhanitsa adzawadya, nadzatamandira ⟨את⟩ Yahwe; ndipo owakonzeretsa adzawamwa m'mabwalo a chipatso changa choyera.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "owasonkhanitsa"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "adzawadya"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "nadzatamandira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "ndipo owakonzeretsa"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "adzawamwa"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "m'mabwalo a"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "chipatso changa choyera"
+    }
+  ],
+  "timestamp": "2026-09-21T09:24:45.632206432Z",
+  "model": "glm-5.3"
+}

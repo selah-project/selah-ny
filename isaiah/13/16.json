@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 13:16",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 13,
+  "translation": "Ndipo ana awo adzapukutidwa pamaso pawo; nyumba zawo zidzavayidwa, ndipo akazi awo adzalankhulidwa mwa chidani.",
+  "tokens": [
+    {
+      "surface": "ועלליהם",
+      "gloss": "ndipo ana awo"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "adzapukutidwa"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "pamaso pawo"
+    },
+    {
+      "surface": "ישסו",
+      "gloss": "zidzavayidwa"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "nyumba zawo"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "ndipo akazi awo"
+    },
+    {
+      "surface": "תשגלנה",
+      "gloss": "adzalankhulidwa mwa chidani"
+    }
+  ],
+  "timestamp": "2026-09-21T09:05:20.932264933Z",
+  "model": "glm-5.3"
+}

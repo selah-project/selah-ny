@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndi mivi ndi uta munthu adzalowapo; pakuti dziko lonse lapansi lidzakhala maungu ndi makeche.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "Ndi mivi"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "ndi uta"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "adzalowapo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "munthu kumene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "maungu"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "ndi makeche"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "lidzakhala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T09:03:18.048621807Z",
+  "model": "glm-5.3"
+}

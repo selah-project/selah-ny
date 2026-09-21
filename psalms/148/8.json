@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 148,
+  "translation": "Moto ndi chilime, chiwala ndi minkhungwa, mphepo ya chigwenga, yokhazikitsa mawu ake.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Moto"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "ndi chilime"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "chiwala"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "ndi minkhungwa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mphepo"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "ya chigwenga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yokhazikitsa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "mawu ake"
+    }
+  ],
+  "timestamp": "2026-09-21T11:17:35.154214254Z",
+  "model": "glm-5.3"
+}

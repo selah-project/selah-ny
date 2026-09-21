@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 24:18",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 24,
+  "translation": "Ndipo Moshe analowa m'mkati mwa mtambo, nanyamula pa phiri; ndipo Moshe anakhalapo pa phiri masiku makumi anayi ndi usiku makumi anayi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "analowa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "m'mkati mwa"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "mtambo"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "nanyamula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ndipo anakhalapo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pa phiri"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi anayi (masiku)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "masiku"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "makumi anayi (usiku)"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "usiku"
+    }
+  ],
+  "timestamp": "2026-09-21T06:19:13.563959834Z",
+  "model": "glm-5.3"
+}

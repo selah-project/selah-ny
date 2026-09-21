@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo a Mitsrayimu anapangitsa ⟨את⟩ ana a Yisraeli kuti agwire ntchito mokhwimitsa.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "anapangitsa kuti agwire ntchito"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "a Mitsrayimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "mokhwimitsa"
+    }
+  ],
+  "timestamp": "2026-09-21T12:54:58.887449236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 22:44",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 22,
+  "translation": "Koma mabwalo a pansi mwamba sanachotsedwe; anthu akadapereka nsembe ndi kutsentsera fumbi pa mabwalo a pansi mwamba.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Koma"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "mabwalo a pansi mwamba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "-nachotsedwe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "akada-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "pereka nsembe"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "kutsentsera fumbi"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "pa mabwalo a pansi mwamba"
+    }
+  ],
+  "timestamp": "2026-09-21T08:46:13.412927377Z",
+  "model": "glm-5.3"
+}

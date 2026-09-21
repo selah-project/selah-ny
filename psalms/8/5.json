@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 8,
+  "translation": "Munthu wofa n'chiyani, kuti umamukumbukira? Ndipo mwana wa munthu, kuti umamusufunira?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "n'chiyani"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "munthu wofa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "umamukumbukira"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ndipo mwana wa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "umamusufunira"
+    }
+  ],
+  "timestamp": "2026-09-21T10:41:47.941148893Z",
+  "model": "glm-5.3"
+}

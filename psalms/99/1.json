@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 99,
+  "translation": "Yahwe wachita ufumu — akutchetsemetsane anthu; wokhala pakati pa akerubu — anthazike dziko lapansi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wachita ufumu"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "akutchetsemetsane"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wokhala"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "pakati pa akerubu"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "anthazike"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dziko lapansi"
+    }
+  ],
+  "timestamp": "2026-09-21T13:27:39.846713850Z",
+  "model": "glm-5.3"
+}

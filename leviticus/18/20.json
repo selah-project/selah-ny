@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "ny",
+  "chapter": 18,
+  "translation": "Ndipo kwa mkazi wa mnzako, sumapereka kugona kwako kuti uberekane nayo, kuti udzimasolwa ndi iye.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ndipo kwa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mkazi"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "wa mnzako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "-pereka"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "kugona kwako"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "kuti uberekane"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "kuti udzimasolwa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ndi iye"
+    }
+  ],
+  "timestamp": "2026-09-21T06:40:16.448532693Z",
+  "model": "glm-5.3"
+}

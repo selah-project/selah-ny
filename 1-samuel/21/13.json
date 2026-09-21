@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "ny",
+  "chapter": 21,
+  "translation": "Davide anayika ⟨את⟩ mawu awa mu mtima mwake, ndipo adaopa kwambiri pamaso pa Akishi, mfumu ya Gathi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "anayika"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawu awa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mawu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "mu mtima mwake"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "adaopa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwambiri"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akishi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gathi"
+    }
+  ],
+  "timestamp": "2026-09-21T08:11:02.213955662Z",
+  "model": "glm-5.3"
+}

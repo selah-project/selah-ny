@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 36,
+  "translation": "Kwa woyang'anira ⟨ndi nyimbo⟩, wa kapolo wa Yahwe, wa Davide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "wa kapolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Davide"
+    }
+  ],
+  "timestamp": "2026-09-21T10:47:05.923146801Z",
+  "model": "glm-5.3"
+}

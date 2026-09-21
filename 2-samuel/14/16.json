@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "ny",
+  "chapter": 14,
+  "translation": "Pakuti mfumu idzamvera, kudzapulumutsa ⟨את⟩ mdzakazi wake m'dzanja la munthu wofuna kuononga ⟨את⟩ ine ndi ⟨את⟩ mwana wanga pamodzi, kuwachotsa m'cholowa cha Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "idzamvera"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "kudzapulumutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mdzakazi wake"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "mdzakazi wake"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "m'dzanja la"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "wofuna kuononga"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ine",
+      "marks": "ine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mwana wanga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana wanga"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamodzi"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "m'cholowa cha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-21T08:23:22.933497734Z",
+  "model": "glm-5.3"
+}

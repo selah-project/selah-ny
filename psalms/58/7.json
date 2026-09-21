@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 58,
+  "translation": "Elohim, wononga manino awo mkamwa mwawo; malulo a mikango yaching'ono wonongani, Yahwe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "wononga"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "manino awo"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "mkamwa mwawo"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "malulo"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "a mikango yaching'ono"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "wonongani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-21T10:52:50.503286934Z",
+  "model": "glm-5.3"
+}

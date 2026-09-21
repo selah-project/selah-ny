@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "ny",
+  "chapter": 33,
+  "translation": "Ndipo ndidzabweza ⟨את⟩ ku chifalo cha Yehuda ndi ⟨את⟩ ku chifalo cha Yisraeli, ndipo ndidzawamanganso monga pachiyambi.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "Ndipo ndidzabweza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ku chifalo cha Yehuda"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ku chifalo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "cha Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "ku chifalo cha Yisraeli"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ku chifalo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "cha Yisraeli"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "ndipo ndidzawamanganso"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "monga pachiyambi"
+    }
+  ],
+  "timestamp": "2026-09-21T09:43:11.263563193Z",
+  "model": "glm-5.3"
+}

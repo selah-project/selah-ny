@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 23:18",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Kwa Avraham kukhala cholowa chake chogulidwa, pamaso pa ana a Heti, kwa onse akulowa m'khomo la mzinda wake.",
+  "tokens": [
+    {
+      "surface": "לאברהם",
+      "gloss": "kwa Avraham"
+    },
+    {
+      "surface": "למקנה",
+      "gloss": "kukhala cholowa chake chogulidwa"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heti"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kwa onse"
+    },
+    {
+      "surface": "באי",
+      "gloss": "akulowa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "m'khomo"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "la mzinda wake"
+    }
+  ],
+  "timestamp": "2026-09-21T05:51:05.218942486Z",
+  "model": "glm-5.3"
+}

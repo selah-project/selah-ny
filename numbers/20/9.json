@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "ny",
+  "chapter": 20,
+  "translation": "Ndipo Moshe anatenga ⟨את⟩ ndodo yochokera pamaso pa Yahwe, monga momweadamulamulira.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "anatenga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndodo"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ndodo"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "kuchokera pamaso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga momwe"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "adamulamulira"
+    }
+  ],
+  "timestamp": "2026-09-21T07:02:20.143820160Z",
+  "model": "glm-5.3"
+}

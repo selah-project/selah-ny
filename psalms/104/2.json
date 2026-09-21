@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 104,
+  "translation": "Wazungulira kuwala monga chovalo, wotambasula miyamba monga chihema.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "Wazungulira"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kuwala"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "monga chovalo"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "wotambasula"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "miyamba"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "monga chihema"
+    }
+  ],
+  "timestamp": "2026-09-21T11:03:32.548715828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 89,
+  "translation": "Ndipo ndidzaweruza m'chimango kulondola kwawo, ndi m'zimenyedwe zoipa zawo.",
+  "tokens": [
+    {
+      "surface": "ופפקדתי",
+      "gloss": "Ndipo ndidzaweruza"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "m'chimango"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "kulondola kwawo"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "ndi m'zimenyedwe"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "zoipa zawo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:59:53.258189732Z",
+  "model": "glm-5.3"
+}

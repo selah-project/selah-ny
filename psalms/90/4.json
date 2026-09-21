@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 90,
+  "translation": "Pakuti chaka chazigawo zindiwiri m'maso pako n’chonga monga tsiku lacha ; pakuli limene limalowa, ndi gawo la usiku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pakuti"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "(zazigawo zindiwiri)"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "chaka chazigawo zindiwiri"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "m'maso pako"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "monga tsiku"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "lacha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuli limene"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "limalowa"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "ndi gawo la"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "usiku"
+    }
+  ],
+  "timestamp": "2026-09-21T11:01:19.074665333Z",
+  "model": "glm-5.3"
+}

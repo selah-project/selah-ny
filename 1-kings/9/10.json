@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "ny",
+  "chapter": 9,
+  "translation": "Ndipo zinthu zitatero, pamapeto pa zaka makumi awiri, pamene Shelomo anamanga ⟨את⟩ nyumba ziwiri, ⟨את⟩ nyumba ya Yahwe ndi ⟨את⟩ nyumba ya mfumu —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo zinthu zitatero"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "pamapeto pa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi awiri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pamene"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anamanga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba ziwiri"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ziwiri"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "nyumba ya mfumu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfumu"
+    }
+  ],
+  "timestamp": "2026-09-21T08:35:58.611345101Z",
+  "model": "glm-5.3"
+}

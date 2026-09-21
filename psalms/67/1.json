@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "ny",
+  "chapter": 67,
+  "translation": "Kwa woyang'anira, ndi b'neginot. Mizamoro, nyimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa woyang'anira"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ndi b'neginot"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizamoro"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyimbo"
+    }
+  ],
+  "timestamp": "2026-09-21T10:54:02.232413648Z",
+  "model": "glm-5.3"
+}
