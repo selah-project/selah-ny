@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Usatuluke kukaniza mwachangu, kapena sudzidziwa kuchita chiyani m'mapeto mwake, pamene mnansi wako wakuchititsa manyazi ⟨את⟩ iwe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "-tuluke"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "kukaniza"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "mwachangu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kapena"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chiyani"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kuchita"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "m'mapeto mwake"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "pamene … wakuchititsa manyazi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ iwe",
+      "marks": "iwe — cholinga cha kuchititsa manyazi"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "mnansi wako"
+    }
+  ],
+  "timestamp": "2026-09-21T14:43:24.198501459Z",
+  "model": "glm-5.3"
+}

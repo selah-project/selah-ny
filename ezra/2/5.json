@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ana a Arahi, mazana asanu ndi awiri, makumi asanu ndi limodzi, ndi zisanu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ana a"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Arahi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "mazana asanu ndi awiri"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "zisanu"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "makumi asanu ndi limodzi"
+    }
+  ],
+  "timestamp": "2026-09-21T14:43:12.873458849Z",
+  "model": "glm-5.3"
+}
