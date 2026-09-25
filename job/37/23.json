@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "ny",
   "chapter": 37,
-  "translation": "Shadayi sitingamupeze; <ndi Mmodzi> wa mphamvu zazikulu, ndi chiweruzo ndi chilungamo chambiri — sadzazunza.",
+  "translation": "Shadayi, sitimupeza ⟨iye⟩ — wamphamvu zoposa, ndipo wa chiweruzo ndi chilungamo chochuluka; sadzavutitsa.",
   "tokens": [
     {
       "surface": "שדי",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "לא",
-      "gloss": "sitingamupeze"
+      "gloss": "si-"
     },
     {
       "surface": "מצאנהו",
-      "gloss": "sitingamupeze"
+      "gloss": "timupeza iye"
     },
     {
       "surface": "שגיא",
-      "gloss": "zazikulu"
+      "gloss": "wamphamvu zoposa"
     },
     {
       "surface": "כח",
-      "gloss": "mphamvu zazikulu"
+      "gloss": "mphamvu"
     },
     {
       "surface": "ומשפט",
@@ -33,21 +33,21 @@
     },
     {
       "surface": "ורב",
-      "gloss": "chambiri"
+      "gloss": "chochuluka"
     },
     {
       "surface": "צדקה",
-      "gloss": "chilungamo chambiri"
+      "gloss": "chilungamo"
     },
     {
       "surface": "לא",
-      "gloss": "sadzazunza"
+      "gloss": "sa-"
     },
     {
       "surface": "יענה",
-      "gloss": "sadzazunza"
+      "gloss": "dzavutitsa"
     }
   ],
-  "timestamp": "2026-09-21T11:45:53.416936522Z",
+  "timestamp": "2026-09-25T07:33:01.795057529Z",
   "model": "glm-5.3"
 }

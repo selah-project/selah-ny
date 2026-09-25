@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "ny",
   "chapter": 23,
-  "translation": "Ndipo Davide anati: “Kodi abwana a Keila adzapereka ⟨את⟩ ine ndi ⟨את⟩ anthu anga mʼdzanja la Shauli?” Ndipo Yahwe anati: “Adzakupereka.”",
+  "translation": "Davide anafunsa: “Kodi amwini a Keila adzandipereka ⟨את⟩ ine ndi ⟨את⟩ anthu anga m'dzanja la Shauli?” Ndipo Yahwe anati: “Adzapereka.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ndipo anati"
+      "gloss": "anafunsa"
     },
     {
       "surface": "דוד",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "היסגרו",
-      "gloss": "Kodi adzapereka"
+      "gloss": "adzandipereka"
     },
     {
       "surface": "בעלי",
-      "gloss": "abwana a"
+      "gloss": "amwini a"
     },
     {
       "surface": "קעילה",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "ביד",
-      "gloss": "mʼdzanja la"
+      "gloss": "m'dzanja la"
     },
     {
       "surface": "שאול",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "Ndipo anati"
+      "gloss": "anati"
     },
     {
       "surface": "יהוה",
@@ -59,9 +59,9 @@
     },
     {
       "surface": "יסגירו",
-      "gloss": "Adzakupereka"
+      "gloss": "Adzapereka"
     }
   ],
-  "timestamp": "2026-09-21T08:11:04.144943278Z",
+  "timestamp": "2026-09-25T07:15:08.163192407Z",
   "model": "glm-5.3"
 }

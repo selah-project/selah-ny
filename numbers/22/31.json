@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "ny",
   "chapter": 22,
-  "translation": "Ndipo Yahwe anatsegula ⟨את⟩ maso a Bilamu, ndipo anaona ⟨את⟩ mthenga wa Yahwe ataima pa njira, ndipo lupanga lake lophulidwa m'dzanja lake; ndipo anagwada, nadzichepetsa <pansi pa nkhope yake>.",
+  "translation": "Ndipo Yahwe adazimutsa ⟨את⟩ maso a Bilam, ndipo iye adaona ⟨את⟩ mthenga wa Yahwe yimirira pa njira, ndi lupanga lake lotulutsidwa m'dzanja lake; ndipo adagwada ndi kuwerama kumaso pake.",
   "tokens": [
     {
       "surface": "ויגל",
-      "gloss": "anatsegula"
+      "gloss": "adazimutsa"
     },
     {
       "surface": "יהוה",
@@ -18,24 +18,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "maso"
+      "marks": "maso a Bilam"
     },
     {
       "surface": "עיני",
-      "gloss": "maso"
+      "gloss": "maso a"
     },
     {
       "surface": "בלעם",
-      "gloss": "Bilamu"
+      "gloss": "Bilam"
     },
     {
       "surface": "וירא",
-      "gloss": "anaona"
+      "gloss": "adaona"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mthenga"
+      "marks": "mthenga wa Yahwe"
     },
     {
       "surface": "מלאך",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "נצב",
-      "gloss": "ataima"
+      "gloss": "yimirira"
     },
     {
       "surface": "בדרך",
@@ -55,11 +55,11 @@
     },
     {
       "surface": "וחרבו",
-      "gloss": "ndipo lupanga lake"
+      "gloss": "ndi lupanga lake"
     },
     {
       "surface": "שלפה",
-      "gloss": "lophulidwa"
+      "gloss": "lotulutsidwa"
     },
     {
       "surface": "בידו",
@@ -67,17 +67,17 @@
     },
     {
       "surface": "ויקד",
-      "gloss": "anagwada"
+      "gloss": "adagwada"
     },
     {
       "surface": "וישתחו",
-      "gloss": "nadzichepetsa"
+      "gloss": "ndi kuwerama"
     },
     {
       "surface": "לאפיו",
-      "gloss": "pansi pa nkhope yake"
+      "gloss": "kumaso pake"
     }
   ],
-  "timestamp": "2026-09-21T13:01:19.356663377Z",
+  "timestamp": "2026-09-25T07:34:57.043920231Z",
   "model": "glm-5.3"
 }

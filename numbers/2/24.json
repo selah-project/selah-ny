@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "ny",
   "chapter": 2,
-  "translation": "Onse awo anawerengedwa a gulu la Efrayimu anali ⟨⟨⟩⟩ zikwi zana limodzi ndi zisanu ndi chitatu ndi zana limodzi, m'magulu awo anankondo; ndipo iwo adzayenda lachitatu.",
+  "translation": "Onse a kuwerengedwa a gulu la Efrayimu ndi zana limodzi la zikwi ndi zikwi zisanu ndi zitatu ndi zana limodzi, mwa magulu awo ankhondo; ndipo iwo adzayenda achitatu.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "onse"
+      "gloss": "Onse"
     },
     {
       "surface": "הפקדים",
-      "gloss": "anawerengedwa"
+      "gloss": "a kuwerengedwa"
     },
     {
       "surface": "למחנה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "zana limodzi"
+      "gloss": "zana limodzi la"
     },
     {
       "surface": "אלף",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ושמנת",
-      "gloss": "ndi zisanu ndi chitatu"
+      "gloss": "ndi zikwi zisanu ndi zitatu"
     },
     {
       "surface": "אלפים",
-      "gloss": "zikwi"
+      "gloss": "(zikwi zisanu ndi zitatu)"
     },
     {
       "surface": "ומאה",
@@ -45,17 +45,17 @@
     },
     {
       "surface": "לצבאתם",
-      "gloss": "m'magulu awo anankondo"
+      "gloss": "mwa magulu awo ankhondo"
     },
     {
       "surface": "ושלשים",
-      "gloss": "lachitatu"
+      "gloss": "achitatu"
     },
     {
       "surface": "יסעו",
       "gloss": "adzayenda"
     }
   ],
-  "timestamp": "2026-09-21T15:33:08.252586730Z",
+  "timestamp": "2026-09-25T07:35:56.300036320Z",
   "model": "glm-5.3"
 }

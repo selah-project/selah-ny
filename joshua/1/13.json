@@ -5,33 +5,32 @@
   "book": "joshua",
   "lang": "ny",
   "chapter": 1,
-  "translation": "Kumbukirani ⟨את⟩ liwu limene Moshe, mtsogoleri wa Yahwe, adalamulira ⟨את⟩ inu, nati: Yahwe Elohim wanu akupatsani mpumulo, ndipo adzapatsani ⟨את⟩ dziko ili.",
+  "translation": "Kumbukira ⟨את⟩ mawu amene Moshe, mntchito wa Yahwe, anakulamulirani, nati: Yahwe Elohim wanu akupatsani mpumulo, ndipo adzakupatsani ⟨את⟩ dziko ili.",
   "tokens": [
     {
       "surface": "זכור",
-      "gloss": "Kumbukirani"
+      "gloss": "Kumbukira"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "liwu"
+      "marks": "mawu"
     },
     {
       "surface": "הדבר",
-      "gloss": "liwu"
+      "gloss": "mawu"
     },
     {
       "surface": "אשר",
-      "gloss": "limene"
+      "gloss": "amene"
     },
     {
       "surface": "צוה",
-      "gloss": "adalamulira"
+      "gloss": "anakulamulirani"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ inu",
-      "marks": "inu"
+      "gloss": "⟨את⟩ -ni"
     },
     {
       "surface": "משה",
@@ -39,7 +38,7 @@
     },
     {
       "surface": "עבד",
-      "gloss": "mtsogoleri <kapena> kapolo"
+      "gloss": "mntchito"
     },
     {
       "surface": "יהוה",
@@ -63,15 +62,15 @@
     },
     {
       "surface": "לכם",
-      "gloss": "inu"
+      "gloss": "-ani"
     },
     {
       "surface": "ונתן",
-      "gloss": "ndipo adzapatsani"
+      "gloss": "ndipo adzakupatsani"
     },
     {
       "surface": "לכם",
-      "gloss": "inu"
+      "gloss": "-ani"
     },
     {
       "surface": "את",
@@ -87,6 +86,6 @@
       "gloss": "ili"
     }
   ],
-  "timestamp": "2026-09-21T14:23:59.816028885Z",
+  "timestamp": "2026-09-25T07:34:09.205857125Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "ny",
   "chapter": 1,
-  "translation": "Ndipo Kenaani anabala ⟨את⟩ Tsидoni wamwazi wake woyamba, ndi ⟨את⟩ Kheti.",
+  "translation": "Ndipo Kenaani analinga ⟨את⟩ Tsidoni woyamba wake, ndi ⟨את⟩ Heti.",
   "tokens": [
     {
       "surface": "וכנען",
@@ -13,31 +13,31 @@
     },
     {
       "surface": "ילד",
-      "gloss": "anabala"
+      "gloss": "analinga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Tsидoni"
+      "marks": "Tsidoni"
     },
     {
       "surface": "צידון",
-      "gloss": "Tsидoni"
+      "gloss": "Tsidoni"
     },
     {
       "surface": "בכרו",
-      "gloss": "wamwazi wake woyamba"
+      "gloss": "woyamba wake"
     },
     {
       "surface": "ואת",
       "gloss": "ndi ⟨את⟩",
-      "marks": "Kheti"
+      "marks": "Heti"
     },
     {
       "surface": "חת",
-      "gloss": "Kheti"
+      "gloss": "Heti"
     }
   ],
-  "timestamp": "2026-09-21T12:23:00.208008100Z",
+  "timestamp": "2026-09-25T07:12:55.173951492Z",
   "model": "glm-5.3"
 }

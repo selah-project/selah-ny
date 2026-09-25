@@ -1,1 +1,91 @@
-{"tier": "glm-5.2", "verse": 23, "ref": "1-chronicles 2:23", "book": "1-chronicles", "lang": "ny", "chapter": 2, "translation": "Ndipo Geshuri ndi Aramu anatenga ⟨את⟩ midzi ya Yairi kwa iwo ⟨מאתם⟩, ⟨את⟩ Kenati ndi ⟨את⟩ midzi yake, ⟨את⟩ midzi makumi asanu ndi limodzi; onse awa anali ana a Makiri, atate wa Giladi.", "tokens": [{"surface": "ויקח", "gloss": "anatenga"}, {"surface": "גשור", "gloss": "Geshuri"}, {"surface": "וארם", "gloss": "ndi Aramu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "midzi ya Yairi"}, {"surface": "חות", "gloss": "midzi"}, {"surface": "יאיר", "gloss": "ya Yairi"}, {"surface": "מאתם", "gloss": "kwa iwo ⟨את⟩"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Kenati"}, {"surface": "קנת", "gloss": "Kenati"}, {"surface": "ואת", "gloss": "ndi ⟨את⟩"}, {"surface": "בנתיה", "gloss": "midzi yake"}, {"surface": "ששים", "gloss": "makumi asanu ndi limodzi"}, {"surface": "עיר", "gloss": "midzi"}, {"surface": "כל", "gloss": "onse"}, {"surface": "אלה", "gloss": "awa"}, {"surface": "בני", "gloss": "ana a"}, {"surface": "מכיר", "gloss": "Makiri"}, {"surface": "אבי", "gloss": "atate wa"}, {"surface": "גלעד", "gloss": "Giladi"}], "timestamp": "2026-09-21T12:23:44.482723286Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 2:23",
+  "book": "1-chronicles",
+  "lang": "ny",
+  "chapter": 2,
+  "translation": "Ndipo Geshuri ndi Aramu adatenga ⟨את⟩ mizinda ya Yair, ku ⟨את⟩ iwo, ⟨את⟩ Kenati ndi ⟨את⟩ midzi yake, mizinda makumi asanu ndi limodzi; onsewa anali ana a Makiri, atate wa Giladi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "adatenga"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Geshuri"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "ndi Aramu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizinda ya Yair"
+    },
+    {
+      "surface": "חות",
+      "gloss": "mizinda"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ya Yair"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "ku ⟨את⟩ iwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenati"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "midzi yake"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "makumi asanu ndi limodzi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mizinda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onsewa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "onsewa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "a Makiri"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atate"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "wa Giladi"
+    }
+  ],
+  "timestamp": "2026-09-25T07:14:38.445307361Z",
+  "model": "glm-5.3"
+}

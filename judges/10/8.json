@@ -5,15 +5,15 @@
   "book": "judges",
   "lang": "ny",
   "chapter": 10,
-  "translation": "Ndipo anavutitsa ndi kukakamiza ⟨את⟩ ana a Yisraeli chaka chimenicho, zaka khumi ndi zisanu ndi zitatu, ⟨את⟩ ana onse a Yisraeli amene anali kudutsa Yorudani, m'dzikо la Aemori, limene lili m'Giladi.",
+  "translation": "Ndipo adavutitsa ndi kukankhudza ⟨את⟩ ana a Yisraeli chaka chomwecho — zaka khumi ndi zisanu ndi ziwiri, ⟨את⟩ onse ana a Yisraeli amene ali kumbali ina ya Yorudani, m'dziko la Aemori, limene lili m'Gileadi.",
   "tokens": [
     {
       "surface": "וירעצו",
-      "gloss": "anavutitsa"
+      "gloss": "adavutitsa"
     },
     {
       "surface": "וירצצו",
-      "gloss": "ndi kukakamiza"
+      "gloss": "ndi kukankhudza"
     },
     {
       "surface": "את",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "ההיא",
-      "gloss": "chimenicho"
+      "gloss": "chomwecho"
     },
     {
       "surface": "שמנה",
-      "gloss": "khumi ndi zisanu ndi zitatu"
+      "gloss": "zisanu ndi zitatu"
     },
     {
       "surface": "עשרה",
-      "gloss": "zaka"
+      "gloss": "khumi ndi zisanu ndi ziwiri"
     },
     {
       "surface": "שנה",
@@ -51,7 +51,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ana onse a Yisraeli"
+      "marks": "onse ana a Yisraeli"
     },
     {
       "surface": "כל",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "בעבר",
-      "gloss": "kudutsa"
+      "gloss": "kumbali ina ya"
     },
     {
       "surface": "הירדן",
@@ -91,9 +91,9 @@
     },
     {
       "surface": "בגלעד",
-      "gloss": "m'Giladi"
+      "gloss": "m'Gileadi"
     }
   ],
-  "timestamp": "2026-09-21T15:33:55.904268456Z",
+  "timestamp": "2026-09-25T07:33:40.150439920Z",
   "model": "glm-5.3"
 }

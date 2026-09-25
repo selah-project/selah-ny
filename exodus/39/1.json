@@ -5,31 +5,31 @@
   "book": "exodus",
   "lang": "ny",
   "chapter": 39,
-  "translation": "Mʼbuluu, mʼwouni ndi mʼthonya la aswenya anachita zovala zosonera kutumikira mʼchopatulika; nadachita ⟨את⟩ zovala zopatulika za Aharoni, monga Yahwe analamulira ⟨את⟩ Moshe.",
+  "translation": "Ndipo m'tekeleti, ndi m'argamani, ndi m'tolaat wofiira, anapanga zovala zodindidwa kuti zigwire ntchito m'chotengera chopatulika; ndipo anapanga ⟨את⟩ zovala zopatulika za Aharoni, monga Yahwe analamula ⟨את⟩ Moshe.",
   "tokens": [
     {
       "surface": "ומן",
-      "gloss": "mʼ"
+      "gloss": "Ndipo m'"
     },
     {
       "surface": "התכלת",
-      "gloss": "buluu"
+      "gloss": "tekeleti"
     },
     {
       "surface": "והארגמן",
-      "gloss": "mʼwouni"
+      "gloss": "ndi m'argamani"
     },
     {
       "surface": "ותולעת",
-      "gloss": "thonya"
+      "gloss": "ndi m'tolaat"
     },
     {
       "surface": "השני",
-      "gloss": "la aswenya"
+      "gloss": "wofiira"
     },
     {
       "surface": "עשו",
-      "gloss": "anachita"
+      "gloss": "anapanga"
     },
     {
       "surface": "בגדי",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "שרד",
-      "gloss": "zosonera"
+      "gloss": "zodindidwa"
     },
     {
       "surface": "לשרת",
-      "gloss": "kutumikira"
+      "gloss": "kuti zigwire ntchito"
     },
     {
       "surface": "בקדש",
-      "gloss": "mʼchopatulika"
+      "gloss": "m'chotengera chopatulika"
     },
     {
       "surface": "ויעשו",
-      "gloss": "nadachita"
+      "gloss": "ndipo anapanga"
     },
     {
       "surface": "את",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "amene"
+      "gloss": "za"
     },
     {
       "surface": "לאהרן",
-      "gloss": "za Aharoni"
+      "gloss": "Aharoni"
     },
     {
       "surface": "כאשר",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "analamulira"
+      "gloss": "analamula"
     },
     {
       "surface": "יהוה",
@@ -94,6 +94,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-09-21T06:28:54.798577183Z",
+  "timestamp": "2026-09-25T07:21:49.775861882Z",
   "model": "glm-5.3"
 }

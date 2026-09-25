@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 34, "ref": "ezekiel 23:34", "book": "ezekiel", "lang": "ny", "chapter": 23, "translation": "Udzaimwa ⟨⟨את⟩ iye⟩ ndi kumwa mpaka mathero, ndipo ⟨את⟩ zitsulo zake udzazisefera, ndipo zibere zako udzazikankhula; popeza Ine ndinanena, mawu a Adonayi Yahwe.", "tokens": [{"surface": "ושתית", "gloss": "udzaimwa"}, {"surface": "אותה", "gloss": "⟨את⟩iye", "marks": "iye (chikho)"}, {"surface": "ומצית", "gloss": "ndi kumwa mpaka mathero"}, {"surface": "ואת", "gloss": "ndi ⟨את⟩", "marks": "zitsulo zake"}, {"surface": "חרשיה", "gloss": "zitsulo zake"}, {"surface": "תגרמי", "gloss": "udzazisefera"}, {"surface": "ושדיך", "gloss": "ndipo zibere zako"}, {"surface": "תנתקי", "gloss": "udzazikankhula"}, {"surface": "כי", "gloss": "popeza"}, {"surface": "אני", "gloss": "Ine"}, {"surface": "דברתי", "gloss": "ndinanena"}, {"surface": "נאם", "gloss": "mawu a"}, {"surface": "אדני", "gloss": "Adonayi"}, {"surface": "יהוה", "gloss": "Yahwe"}], "timestamp": "2026-09-21T13:19:09.280167796Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezekiel 23:34",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 23,
+  "translation": "Ndipo udzamwa ⟨את⟩ iyo ndi kudzitsanitsa kufikira chitsitsi, ndipo ⟨את⟩ zidutswa zake za chitsumbu udzazigaya, ndipo mapewu ako udzadulutsa, chifukwa ine ndayankhula, ndime ya Adonayi Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושתית",
+      "gloss": "udzamwa"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "iyo (chikho)"
+    },
+    {
+      "surface": "ומצית",
+      "gloss": "udzitsanitsa kufikira chitsitsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩"
+    },
+    {
+      "surface": "חרשיה",
+      "gloss": "zidutswa zake za chitsumbu"
+    },
+    {
+      "surface": "תגרמי",
+      "gloss": "udzazigaya"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "mapewu ako"
+    },
+    {
+      "surface": "תנתקי",
+      "gloss": "udzadulutsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ndayankhula"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ndime"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-25T07:27:04.409602569Z",
+  "model": "glm-5.3"
+}

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "ny",
   "chapter": 1,
-  "translation": "Yahwe, Elohim wa makolo anu, waonjezere pa inu monga momwe muli ⟨⟨⟩⟩mphambu zana, ndipo akudalitseni ⟨את⟩ inu, monga ananenera kwa inu.",
+  "translation": "Yahwe, Elohim wa makolo anu, akwonjezere pa inu monga inu ⟨ndi⟩ nthawi chikwi, ndipo akudalire ⟨את⟩ inu, monga adalankhula kwa inu.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יסף",
-      "gloss": "waonjezere"
+      "gloss": "akwonjezere"
     },
     {
       "surface": "עליכם",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "ככם",
-      "gloss": "monga momwe muli"
+      "gloss": "monga inu"
     },
     {
       "surface": "אלף",
-      "gloss": "zana"
+      "gloss": "chikwi"
     },
     {
       "surface": "פעמים",
-      "gloss": "mphambu"
+      "gloss": "nthawi"
     },
     {
       "surface": "ויברך",
-      "gloss": "ndipo akudalitseni"
+      "gloss": "ndipo akudalire"
     },
     {
       "surface": "אתכם",
@@ -54,13 +54,13 @@
     },
     {
       "surface": "דבר",
-      "gloss": "ananenera"
+      "gloss": "adalankhula"
     },
     {
       "surface": "לכם",
       "gloss": "kwa inu"
     }
   ],
-  "timestamp": "2026-09-21T13:00:35.155112993Z",
+  "timestamp": "2026-09-25T07:19:30.055929696Z",
   "model": "glm-5.3"
 }

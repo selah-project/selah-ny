@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "ny",
   "chapter": 7,
-  "translation": "Ngati ndinagona, ndinati: “Ndidzauka liti?” Ndipo anayesa madulo <kufikira> usiku utathe, ndipo ndakhuta ndi kugwedezekanso mpaka m'mawa.",
+  "translation": "Ngati ndinagona, ndipo ndinati: “Ndidzauka liti?” Ndipo madzulo amayesedwa ⟨koma⟩ usiku wautali, ndipo ndakhuta ndi kusunthasuntha kwa pabedindo mpaka m'mawa.",
   "tokens": [
     {
       "surface": "אם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ואמרתי",
-      "gloss": "ndinati"
+      "gloss": "ndipo ndinati"
     },
     {
       "surface": "מתי",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ומדד",
-      "gloss": "anayesa"
+      "gloss": "amayesedwa"
     },
     {
       "surface": "ערב",
-      "gloss": "madulo"
+      "gloss": "madzulo"
     },
     {
       "surface": "ושבעתי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נדדים",
-      "gloss": "ndi kugwedezekanso"
+      "gloss": "ndi kusunthasuntha kwa pabedindo"
     },
     {
       "surface": "עדי",
@@ -52,6 +52,6 @@
       "gloss": "m'mawa"
     }
   ],
-  "timestamp": "2026-09-21T11:31:36.368428823Z",
+  "timestamp": "2026-09-25T07:43:18.790131328Z",
   "model": "glm-5.3"
 }

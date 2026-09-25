@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "ny",
   "chapter": 12,
-  "translation": "Koma mbale za siliva, zosuna nyale, miphera, lipenga, ndi chida chilichonse cha golide kapena chida cha siliva sizinapangidwe kuchokera mʼndalama zimene zinalowedwa nyumba ya Yahwe.",
+  "translation": "Koma sizinapangidwe nyumba ya Yahwe zotsegula za siliva, zodula, mabowola, malipenga, chida chilichonse cha golide ndi chida cha siliva, kuchokera m'siliva imene inkalowedwa nyumba ya Yahwe.",
   "tokens": [
     {
       "surface": "אך",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "sizinapangidwe"
+      "gloss": "sizinapangidwe (negation: si-)"
     },
     {
       "surface": "יעשה",
-      "gloss": "zinapangidwe"
+      "gloss": "sizinapangidwe"
     },
     {
       "surface": "בית",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ספות",
-      "gloss": "mbale"
+      "gloss": "zotsegula"
     },
     {
       "surface": "כסף",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "מזמרות",
-      "gloss": "zosuna nyale"
+      "gloss": "zodula"
     },
     {
       "surface": "מזרקות",
-      "gloss": "miphera"
+      "gloss": "mabowola"
     },
     {
       "surface": "חצצרות",
-      "gloss": "lipenga"
+      "gloss": "malipenga"
     },
     {
       "surface": "כל",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "וכלי",
-      "gloss": "kapena chida"
+      "gloss": "ndi chida"
     },
     {
       "surface": "כסף",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "הכסף",
-      "gloss": "mʼndalama"
+      "gloss": "m'siliva"
     },
     {
       "surface": "המובא",
-      "gloss": "zinalowedwa"
+      "gloss": "imene inkalowedwa"
     },
     {
       "surface": "בית",
@@ -88,6 +88,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-09-21T08:53:38.410815208Z",
+  "timestamp": "2026-09-25T07:18:23.628856940Z",
   "model": "glm-5.3"
 }

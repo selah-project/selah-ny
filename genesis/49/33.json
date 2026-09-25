@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "ny",
   "chapter": 49,
-  "translation": "Yakobo atatha kulamulira ⟨את⟩ ana ake aamuna, ndipo anaikira mapazi ake pa bedi, nafuula moyo <wodzadza> ndipo anasonkhana kwa anthu ake.",
+  "translation": "Yakobo atatha kulamula ⟨את⟩ ana ake, ndipo anasonkhanitsa mapazi ake m'katengero, napuma kokha, nadziwindikira kwa anthu ake.",
   "tokens": [
     {
       "surface": "ויכל",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "לצות",
-      "gloss": "kulamulira"
+      "gloss": "kulamula"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ana ake aamuna"
+      "marks": "ana ake"
     },
     {
       "surface": "בניו",
-      "gloss": "ana ake aamuna"
+      "gloss": "ana ake"
     },
     {
       "surface": "ויאסף",
-      "gloss": "anaikira"
+      "gloss": "anasonkhanitsa"
     },
     {
       "surface": "רגליו",
@@ -38,19 +38,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "pa"
+      "gloss": "m'katengero (kwa)"
     },
     {
       "surface": "המטה",
-      "gloss": "bedi"
+      "gloss": "katengero"
     },
     {
       "surface": "ויגוע",
-      "gloss": "nafuula moyo ⟨wodzadza⟩"
+      "gloss": "napuma kokha"
     },
     {
       "surface": "ויאסף",
-      "gloss": "anasonkhana"
+      "gloss": "nadziwindikira"
     },
     {
       "surface": "אל",
@@ -61,6 +61,6 @@
       "gloss": "anthu ake"
     }
   ],
-  "timestamp": "2026-09-21T06:06:01.599658894Z",
+  "timestamp": "2026-09-25T07:27:27.464112328Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,27 @@
   "book": "genesis",
   "lang": "ny",
   "chapter": 6,
-  "translation": "Panga chokha chidebhe cha mbao za goferi; zipinda udzazipanga ⟨⟨את⟩ chidebhe⟩ ndipo udzazifinkha ⟨את⟩ icho m'munda ndi kunja ndi mafuta akuda (ulatinga).",
+  "translation": "Pangira chako chidebwe cha makuni a goferi; zipinda udzapanga ⟨את⟩ chidebwe, ndipo udzapakira ⟨את⟩ chidebwe mkati ndi kunja ndi kopho.",
   "tokens": [
     {
       "surface": "עשה",
-      "gloss": "Panga"
+      "gloss": "Pangira"
     },
     {
       "surface": "לך",
-      "gloss": "chokha"
+      "gloss": "chako"
     },
     {
       "surface": "תבת",
-      "gloss": "chidebhe"
+      "gloss": "chidebwe"
     },
     {
       "surface": "עצי",
-      "gloss": "cha mbao"
+      "gloss": "cha makuni"
     },
     {
       "surface": "גפר",
-      "gloss": "za goferi"
+      "gloss": "a goferi"
     },
     {
       "surface": "קנים",
@@ -33,29 +33,29 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "udzazipanga"
+      "gloss": "udzapanga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "chidebhe"
+      "marks": "chidebwe"
     },
     {
       "surface": "התבה",
-      "gloss": "chidebhe"
+      "gloss": "chidebwe"
     },
     {
       "surface": "וכפרת",
-      "gloss": "ndipo udzazifinkha"
+      "gloss": "ndipo udzapakira"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ icho",
-      "marks": "chidebhe"
+      "gloss": "⟨את⟩",
+      "marks": "chidebwe"
     },
     {
       "surface": "מבית",
-      "gloss": "m'munda"
+      "gloss": "mkati"
     },
     {
       "surface": "ומחוץ",
@@ -63,9 +63,9 @@
     },
     {
       "surface": "בכפר",
-      "gloss": "ndi mafuta akuda (ulatinga)"
+      "gloss": "ndi kopho"
     }
   ],
-  "timestamp": "2026-09-21T12:53:57.968957038Z",
+  "timestamp": "2026-09-25T07:26:03.846691533Z",
   "model": "glm-5.3"
 }

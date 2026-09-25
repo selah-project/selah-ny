@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "ny",
   "chapter": 21,
-  "translation": "Wamakumi atatu ndi awiri anali ⟨po⟩mala kulamulira kwake, ndipo zaka zisanu ndi zitatu analamulira mu Yerushalayimu; nandikapita wopanda chikondwerero, ndipo anamuka m'munda <mbali>—anamuika m'mudzi wa Davide, koma osati m'manda a mafumu.",
+  "translation": "Wana makumi atatu ndi ziwiri anali atayamba kutchuka, ndipo zaka zisanu ndi zitatu anatchuka m'Yerushalayimu; naponopokeka ndi okhulupirika: koma anamukumba m'mudzi wa Davide, koma osati m'manda a mafumu.",
   "tokens": [
     {
       "surface": "בן",
-      "gloss": "wamakumi atatu ndi awiri anali"
+      "gloss": "wana"
     },
     {
       "surface": "שלשים",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ושתים",
-      "gloss": "ndi awiri"
+      "gloss": "ndi ziwiri"
     },
     {
       "surface": "היה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "במלכו",
-      "gloss": "pokulamulira kwake"
+      "gloss": "atayamba kutchuka"
     },
     {
       "surface": "ושמונה",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "מלך",
-      "gloss": "analamulira"
+      "gloss": "anatchuka"
     },
     {
       "surface": "בירושלם",
-      "gloss": "mu Yerushalayimu"
+      "gloss": "m'Yerushalayimu"
     },
     {
       "surface": "וילך",
-      "gloss": "nandikapita"
+      "gloss": "naponopokeka ndi okhulupirika"
     },
     {
       "surface": "בלא",
-      "gloss": "wopanda"
+      "gloss": "osati"
     },
     {
       "surface": "חמדה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ויקברהו",
-      "gloss": "anamuika m'manda"
+      "gloss": "anamukumba"
     },
     {
       "surface": "בעיר",
@@ -80,6 +80,6 @@
       "gloss": "a mafumu"
     }
   ],
-  "timestamp": "2026-09-21T14:28:46.056349165Z",
+  "timestamp": "2026-09-25T07:18:09.152295641Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ny",
   "chapter": 7,
-  "translation": "Munthu aliyense amene adzadya magazi onse, munthu ameneyo adzachedwa <m'gulu la anthu ake>.",
+  "translation": "Munthu aliyense amene adzadya magazi onse, munthu ameneyo adzachotsedwa mwa anthu ake.",
   "tokens": [
     {
       "surface": "כל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "onse"
+      "gloss": "oniyanonso"
     },
     {
       "surface": "דם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ונכרתה",
-      "gloss": "adzachedwa"
+      "gloss": "adzachotsedwa"
     },
     {
       "surface": "הנפש",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "מעמיה",
-      "gloss": "m'gulu la anthu ake"
+      "gloss": "mwa anthu ake"
     }
   ],
-  "timestamp": "2026-09-21T06:32:40.081124650Z",
+  "timestamp": "2026-09-25T07:34:49.708383907Z",
   "model": "glm-5.3"
 }

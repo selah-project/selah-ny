@@ -5,20 +5,20 @@
   "book": "numbers",
   "lang": "ny",
   "chapter": 35,
-  "translation": "ndipo wolanda mwazi amupeza ⟨את⟩ iye kunja kwa mphaka wa mzinda wothawirako, ndipo wolanda mwazi aphе ⟨את⟩ wophayo — palibe mwazi pa iye.",
+  "translation": "Ndipo wolanda-mwazi adapeza ⟨את⟩ iye kunja kwa malire a msumba wothawirako, ndipo wolanda-mwazi adapha ⟨את⟩ wophayo; mulibe mwazi pa iye.",
   "tokens": [
     {
       "surface": "ומצא",
-      "gloss": "amupeza"
+      "gloss": "adapeza"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ iye",
-      "marks": "wophayo"
+      "marks": "wolanda-mwazi"
     },
     {
       "surface": "גאל",
-      "gloss": "wolanda"
+      "gloss": "wolanda-mwazi"
     },
     {
       "surface": "הדם",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "מחוץ",
-      "gloss": "kunja kwa"
+      "gloss": "kunja"
     },
     {
       "surface": "לגבול",
-      "gloss": "mphaka wa"
+      "gloss": "kwa malire"
     },
     {
       "surface": "עיר",
-      "gloss": "mzinda"
+      "gloss": "msumba"
     },
     {
       "surface": "מקלטו",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "ורצח",
-      "gloss": "aphe"
+      "gloss": "adapha"
     },
     {
       "surface": "גאל",
-      "gloss": "wolanda"
+      "gloss": "wolanda-mwazi"
     },
     {
       "surface": "הדם",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "אין",
-      "gloss": "palibe"
+      "gloss": "mulibe"
     },
     {
       "surface": "לו",
@@ -74,6 +74,6 @@
       "gloss": "mwazi"
     }
   ],
-  "timestamp": "2026-09-21T07:12:22.000174958Z",
+  "timestamp": "2026-09-25T07:35:58.180601821Z",
   "model": "glm-5.3"
 }

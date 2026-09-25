@@ -5,15 +5,15 @@
   "book": "malachi",
   "lang": "ny",
   "chapter": 1,
-  "translation": "Pakuti kuchokera ku mʼmawa kwa dzuwa mpaka kuloa kwake, Dzina langa ndi lalikulu mwa mitundu; ndi mu malo ⟨ali⟩ onse nsembe yofunda imaperekedwa ku Dzina langa, ndipo nsembe yoyera; pakuti Dzina langa ndi lalikulu mwa mitundu, adati Yahwe Tsevaoti.",
+  "translation": "Pakuti kuchokera pamene dzuwa limatuluka mpaka pamene limatuluka <limadzipereka>, Dzina langa ndi lalikulu mwa amitundu, ndi m'malo onse <kufuwatizidwa>, <kuperekedwa> kwa Dzina langa, ndi nsembe yoyera; pakuti Dzina langa ndi lalikulu mwa amitundu, wati Yahwe Tsevaoti.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "pakuti"
+      "gloss": "Pakuti"
     },
     {
       "surface": "ממזרח",
-      "gloss": "kuchokera ku mʼmawa"
+      "gloss": "kuchokera pamene dzuwa limatuluka"
     },
     {
       "surface": "שמש",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "מבואו",
-      "gloss": "kuloa kwake"
+      "gloss": "pamene <limadzipereka>"
     },
     {
       "surface": "גדול",
@@ -37,31 +37,31 @@
     },
     {
       "surface": "בגוים",
-      "gloss": "mwa mitundu"
+      "gloss": "mwa amitundu"
     },
     {
       "surface": "ובכל",
-      "gloss": "ndi mu onse"
+      "gloss": "ndi m'malo onse"
     },
     {
       "surface": "מקום",
-      "gloss": "malo"
+      "gloss": "m'malo onse"
     },
     {
       "surface": "מקטר",
-      "gloss": "nsembe yofunda imaperekedwa"
+      "gloss": "<kufuwatizidwa>"
     },
     {
       "surface": "מגש",
-      "gloss": "imaperekedwa"
+      "gloss": "<kuperekedwa>"
     },
     {
       "surface": "לשמי",
-      "gloss": "ku Dzina langa"
+      "gloss": "kwa Dzina langa"
     },
     {
       "surface": "ומנחה",
-      "gloss": "ndipo nsembe"
+      "gloss": "ndi nsembe"
     },
     {
       "surface": "טהורה",
@@ -81,11 +81,11 @@
     },
     {
       "surface": "בגוים",
-      "gloss": "mwa mitundu"
+      "gloss": "mwa amitundu"
     },
     {
       "surface": "אמר",
-      "gloss": "adati"
+      "gloss": "wati"
     },
     {
       "surface": "יהוה",
@@ -96,6 +96,6 @@
       "gloss": "Tsevaoti"
     }
   ],
-  "timestamp": "2026-09-21T10:39:21.552029052Z",
+  "timestamp": "2026-09-25T07:36:45.114707277Z",
   "model": "glm-5.3"
 }

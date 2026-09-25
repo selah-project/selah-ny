@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "ny",
   "chapter": 150,
-  "translation": "Lemekezani Yah; lemekezani El m'chikhalidwe chake chopatulika; lemekezani Yehova m'kumwamba kwa mphamvu zake. Koma m'malingaliro a Dzina: lemekezani Yah; lemekezani El m'chipatulo chake; lemekezani Iye m'rakia ya mphamvu zake.",
+  "translation": "Lemekezedwani Yah; lemekezedwani El m'chiyero chake choyera; lemekezedwani Iye m'kumwamba kwa mphamvu yake.",
   "tokens": [
     {
       "surface": "הללו",
-      "gloss": "lemekezani"
+      "gloss": "lemekezedwani"
     },
     {
       "surface": "יה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הללו",
-      "gloss": "lemekezani"
+      "gloss": "lemekezedwani"
     },
     {
       "surface": "אל",
@@ -25,21 +25,21 @@
     },
     {
       "surface": "בקדשו",
-      "gloss": "m'chipatulo chake"
+      "gloss": "m'chiyero chake choyera"
     },
     {
       "surface": "הללוהו",
-      "gloss": "lemekezani Iye"
+      "gloss": "lemekezedwani Iye"
     },
     {
       "surface": "ברקיע",
-      "gloss": "m'rakia"
+      "gloss": "m'kumwamba kwa"
     },
     {
       "surface": "עזו",
-      "gloss": "ya mphamvu zake"
+      "gloss": "mphamvu yake"
     }
   ],
-  "timestamp": "2026-09-21T11:16:29.930391988Z",
+  "timestamp": "2026-09-25T07:38:16.922245417Z",
   "model": "glm-5.3"
 }

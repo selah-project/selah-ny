@@ -5,23 +5,23 @@
   "book": "1-kings",
   "lang": "ny",
   "chapter": 11,
-  "translation": "Ndipo ichi ndi chifukwa chimene anayamutsa dzanja <pa> mfumu: Shelomo anamanga ⟨את⟩ Millo, natseka ⟨את⟩ chikhomo cha mzinda wa Davide, atate wake.",
+  "translation": "Ndipo uwu ndi nkhani imene ananyamula dzanja pa mfumu Shelomo: Shelomo anamanga ⟨את⟩ Millo, anatseka ⟨את⟩ chikaiko cha mzinda wa Daudi, bambo wake.",
   "tokens": [
     {
       "surface": "וזה",
-      "gloss": "Ndipo ichi"
+      "gloss": "Ndipo uwu"
     },
     {
       "surface": "הדבר",
-      "gloss": "chifukwa"
+      "gloss": "nkhani"
     },
     {
       "surface": "אשר",
-      "gloss": "chimene"
+      "gloss": "imene"
     },
     {
       "surface": "הרים",
-      "gloss": "anayamutsa"
+      "gloss": "ananyamula"
     },
     {
       "surface": "יד",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "במלך",
-      "gloss": "<pa> mfumu"
+      "gloss": "pa mfumu"
     },
     {
       "surface": "שלמה",
@@ -50,16 +50,16 @@
     },
     {
       "surface": "סגר",
-      "gloss": "natseka"
+      "gloss": "anatseka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "chikhomo"
+      "marks": "chikaiko cha mzinda"
     },
     {
       "surface": "פרץ",
-      "gloss": "chikhomo"
+      "gloss": "chikaiko"
     },
     {
       "surface": "עיר",
@@ -67,13 +67,13 @@
     },
     {
       "surface": "דוד",
-      "gloss": "wa Davide"
+      "gloss": "Daudi"
     },
     {
       "surface": "אביו",
-      "gloss": "atate wake"
+      "gloss": "bambo wake"
     }
   ],
-  "timestamp": "2026-09-21T08:39:41.595293398Z",
+  "timestamp": "2026-09-25T07:12:30.358017096Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "ny",
   "chapter": 31,
-  "translation": "Ndipo musunge ⟨את⟩ Sabata, chifukwa ndi yopatulika kwa inu; woidyetsa yu adzafa ndithu, chifukwa yense amene achita m'menemo ntchito, munthu ameneyo adzadulidwa m'kati mwathu pa anthu ake.",
+  "translation": "Ndipo musunge ⟨את⟩ tsiku la Sabata, chifukwa ndi lotopatulika kwa inu; woyipetsa lidzafa ndithu, kufa adzafa, chifukwa yense achita mmenemo ntchito, munthuyo adzadulidwa m'mkati mwa anthu ake.",
   "tokens": [
     {
       "surface": "ושמרתם",
@@ -14,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Sabata"
+      "marks": "tsiku la Sabata"
     },
     {
       "surface": "השבת",
-      "gloss": "Sabata"
+      "gloss": "tsiku la Sabata"
     },
     {
       "surface": "כי",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "קדש",
-      "gloss": "yopatulika"
+      "gloss": "lotopatulika"
     },
     {
       "surface": "הוא",
-      "gloss": "yu ⟨⟨ndi⟩⟩"
+      "gloss": "ndi ⟨lomwe⟩"
     },
     {
       "surface": "לכם",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "מחלליה",
-      "gloss": "woidyetsa yu"
+      "gloss": "woyipetsa"
     },
     {
       "surface": "מות",
-      "gloss": "adzafa"
+      "gloss": "kufa"
     },
     {
       "surface": "יומת",
-      "gloss": "ndithu"
+      "gloss": "adzafa"
     },
     {
       "surface": "כי",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "העשה",
-      "gloss": "amene achita"
+      "gloss": "achita"
     },
     {
       "surface": "בה",
-      "gloss": "m'menemo"
+      "gloss": "mmenemo"
     },
     {
       "surface": "מלאכה",
@@ -74,21 +74,21 @@
     },
     {
       "surface": "הנפש",
-      "gloss": "munthu"
+      "gloss": "munthuyo"
     },
     {
       "surface": "ההוא",
-      "gloss": "ameneyo"
+      "gloss": "⟨omweyo⟩"
     },
     {
       "surface": "מקרב",
-      "gloss": "m'kati mwathu"
+      "gloss": "m'mkati mwa"
     },
     {
       "surface": "עמיה",
-      "gloss": "pa anthu ake"
+      "gloss": "anthu ake"
     }
   ],
-  "timestamp": "2026-09-21T15:03:57.292247374Z",
+  "timestamp": "2026-09-25T07:23:52.967072089Z",
   "model": "glm-5.3"
 }

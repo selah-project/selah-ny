@@ -5,15 +5,15 @@
   "book": "proverbs",
   "lang": "ny",
   "chapter": 23,
-  "translation": "Mtima wako musaulire ndi ochimwa, koma ukhale m'kuopa Yahwe tsiku lonse.",
+  "translation": "Mtima wako usakhale ndi nsanje kwa ochimwa, koma mwa mantha a Yahwe tsiku lonse.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "musa"
+      "gloss": "usa-"
     },
     {
       "surface": "יקנא",
-      "gloss": "ulire"
+      "gloss": "khale ndi nsanje"
     },
     {
       "surface": "לבך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בחטאים",
-      "gloss": "ndi ochimwa"
+      "gloss": "kwa ochimwa"
     },
     {
       "surface": "כי",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "⟨koma⟩"
     },
     {
       "surface": "ביראת",
-      "gloss": "m'kuopa"
+      "gloss": "mwa mantha a"
     },
     {
       "surface": "יהוה",
@@ -48,6 +48,6 @@
       "gloss": "tsiku"
     }
   ],
-  "timestamp": "2026-09-21T15:13:29.793920461Z",
+  "timestamp": "2026-09-25T07:37:15.589018668Z",
   "model": "glm-5.3"
 }

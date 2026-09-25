@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ny",
   "chapter": 23,
-  "translation": "Yankhulani kwa ana a Yisraeli, ndipo muwuze kuti: Nyengo zopatulika za Yahwe, zimene mudzaitanira ⟨⟨את⟩⟩ sikuti — mwambo wopatulika; izi ndi nyengo zanga zopatulika.",
+  "translation": "Lankhulitsa kwa ana a Yisraeli, ndipo udzati kwa iwo: nthawi zothekera za Yahwe, imene muzilaita ⟨את⟩ kukhala misonkhano yopatulika — izi ndizo nthawi zothekera zanga.",
   "tokens": [
     {
       "surface": "דבר",
-      "gloss": "Yankhulani"
+      "gloss": "Lankhulitsa"
     },
     {
       "surface": "אל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ואמרת",
-      "gloss": "muwuze kuti"
+      "gloss": "ndipo udzati"
     },
     {
       "surface": "אלהם",
@@ -33,32 +33,32 @@
     },
     {
       "surface": "מועדי",
-      "gloss": "nyengo zopatulika"
+      "gloss": "nthawi zothekera"
     },
     {
       "surface": "יהוה",
-      "gloss": "za Yahwe"
+      "gloss": "Yahwe"
     },
     {
       "surface": "אשר",
-      "gloss": "zimene"
+      "gloss": "imene"
     },
     {
       "surface": "תקראו",
-      "gloss": "mudzaitanira"
+      "gloss": "muzilaita"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "nyengo (מועדי)"
+      "marks": "misonkhano yopatulika"
     },
     {
       "surface": "מקראי",
-      "gloss": "mwambo wopatulika"
+      "gloss": "misonkhano"
     },
     {
       "surface": "קדש",
-      "gloss": "wopatulika"
+      "gloss": "yopatulika"
     },
     {
       "surface": "אלה",
@@ -66,13 +66,13 @@
     },
     {
       "surface": "הם",
-      "gloss": "ndi"
+      "gloss": "ndizo"
     },
     {
       "surface": "מועדי",
-      "gloss": "nyengo zanga zopatulika"
+      "gloss": "nthawi zothekera zanga"
     }
   ],
-  "timestamp": "2026-09-21T06:43:01.804048282Z",
+  "timestamp": "2026-09-25T07:36:16.332108700Z",
   "model": "glm-5.3"
 }

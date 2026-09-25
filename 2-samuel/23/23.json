@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "ny",
   "chapter": 23,
-  "translation": "Mwa makumi atatu analemedwa, koma kwa atatu sanafike; ndipo Davide anaika iye ku kumvera kwake ⟨⟨-⟩⟩ pa msonkhano wake.",
+  "translation": "Mwa makumi atatu analemezedwa, koma kwa atatu sanafike; ndipo Davide anaika iye pa kumvera kwake ⟨msungiri wake⟩.",
   "tokens": [
     {
       "surface": "מן",
-      "gloss": "Mwa"
+      "gloss": "mwa"
     },
     {
       "surface": "השלשים",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נכבד",
-      "gloss": "analemedwa"
+      "gloss": "analemezedwa"
     },
     {
       "surface": "ואל",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "sanafike"
+      "gloss": "sa-"
     },
     {
       "surface": "בא",
-      "gloss": "fike"
+      "gloss": "-fike"
     },
     {
       "surface": "וישמהו",
-      "gloss": "anaika iye"
+      "gloss": "ndipo anaika iye"
     },
     {
       "surface": "דוד",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "pa"
     },
     {
       "surface": "משמעתו",
-      "gloss": "kumvera kwake"
+      "gloss": "kumvera kwake ⟨msungiri wake⟩"
     }
   ],
-  "timestamp": "2026-09-21T15:06:54.871772448Z",
+  "timestamp": "2026-09-25T07:17:08.625204778Z",
   "model": "glm-5.3"
 }

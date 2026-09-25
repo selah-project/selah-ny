@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":18,"ref":"isaiah 63:18","book":"isaiah","lang":"ny","chapter":63,"translation":"Kwa nthawi yochepa <anthu> ananalowa anthu opatulika ako; odani athu anaponda malo opatulika ako.","tokens":[{"surface":"למצער","gloss":"Kwa nthawi yochepa"},{"surface":"ירשו","gloss":"ananalowa"},{"surface":"עם","gloss":"anthu"},{"surface":"קדשך","gloss":"opatulika ako"},{"surface":"צרינו","gloss":"odani athu"},{"surface":"בוססו","gloss":"anaponda"},{"surface":"מקדשך","gloss":"malo opatulika ako"}],"timestamp":"2026-09-21T09:24:17.817362564Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 63:18",
+  "book": "isaiah",
+  "lang": "ny",
+  "chapter": 63,
+  "translation": "Kwa kanthawi kokha anthu opatulika anu analanda; adani athu anamizitsa malo opatulika anu.",
+  "tokens": [
+    {
+      "surface": "למצער",
+      "gloss": "kwa kanthawi kokha"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "analanda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "anthu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "opatulika anu"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "adani athu"
+    },
+    {
+      "surface": "בוססו",
+      "gloss": "anamizitsa"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "malo opatulika anu"
+    }
+  ],
+  "timestamp": "2026-09-25T07:28:20.973458816Z",
+  "model": "glm-5.3"
+}

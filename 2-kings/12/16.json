@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "ny",
   "chapter": 12,
-  "translation": "Ndipo sanawerengere ⟨את⟩ anthu amene anapatsa ⟨את⟩ ndalama mʼmanja mwawo kupatsa ochita ntchito, pakuti ali okhulupirika pochita.",
+  "translation": "Ndipo sanawerenge ⟨את⟩ anthu amene anapatsidwa ⟨את⟩ ndalama m'manja mwawo, kuwapatsa ogwira ntchito, chifukwa ali kuchita mokhulupirika.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "Ndipo sana-"
+      "gloss": "ndipo sana-"
     },
     {
       "surface": "יחשבו",
-      "gloss": "werengere"
+      "gloss": "-werenge"
     },
     {
       "surface": "את",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "יתנו",
-      "gloss": "anapatsa"
+      "gloss": "anapatsidwa"
     },
     {
       "surface": "את",
@@ -43,19 +43,19 @@
     },
     {
       "surface": "על",
-      "gloss": "mʼ"
+      "gloss": "m'manja"
     },
     {
       "surface": "ידם",
-      "gloss": "manja mwawo"
+      "gloss": "mwawo"
     },
     {
       "surface": "לתת",
-      "gloss": "kupatsa"
+      "gloss": "kuwapatsa"
     },
     {
       "surface": "לעשי",
-      "gloss": "ochita ntchito"
+      "gloss": "ogwira"
     },
     {
       "surface": "המלאכה",
@@ -63,11 +63,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "pakuti"
+      "gloss": "chifukwa"
     },
     {
       "surface": "באמנה",
-      "gloss": "okhulupirika"
+      "gloss": "mokhulupirika"
     },
     {
       "surface": "הם",
@@ -75,9 +75,9 @@
     },
     {
       "surface": "עשים",
-      "gloss": "pochita"
+      "gloss": "kuchita"
     }
   ],
-  "timestamp": "2026-09-21T08:53:38.411112966Z",
+  "timestamp": "2026-09-25T07:16:58.001517716Z",
   "model": "glm-5.3"
 }

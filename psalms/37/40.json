@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "ny",
   "chapter": 37,
-  "translation": "Ndipo Yahwe adawathandiza ndi kuwapulumutsa; adawapulumutsa <kwa> oipa, ndi kuwasunga, popeza anakhulupirira mwa Iye.",
+  "translation": "Ndipo Yahwe adawathandiza ndipo adawapulumutsa; adzawapulumutsa mwa oipa ndipo adzawapulumutsa, chifukwa anakhulupirira mwa iye.",
   "tokens": [
     {
       "surface": "ויעזרם",
-      "gloss": "Ndipo… adawathandiza"
+      "gloss": "adawathandiza"
     },
     {
       "surface": "יהוה",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "ויפלטם",
-      "gloss": "ndi kuwapulumutsa"
-    },
-    {
-      "surface": "יפלטם",
       "gloss": "adawapulumutsa"
     },
     {
+      "surface": "יפלטם",
+      "gloss": "adzawapulumutsa"
+    },
+    {
       "surface": "מרשעים",
-      "gloss": "<kwa> oipa"
+      "gloss": "mwa oipa"
     },
     {
       "surface": "ויושיעם",
-      "gloss": "ndi kuwasunga"
+      "gloss": "adzawapulumutsa"
     },
     {
       "surface": "כי",
-      "gloss": "popeza"
+      "gloss": "chifukwa"
     },
     {
       "surface": "חסו",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "בו",
-      "gloss": "mwa Iye"
+      "gloss": "mwa iye"
     }
   ],
-  "timestamp": "2026-09-21T10:48:07.984720805Z",
+  "timestamp": "2026-09-25T07:38:42.347798607Z",
   "model": "glm-5.3"
 }

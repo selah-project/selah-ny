@@ -5,23 +5,23 @@
   "book": "leviticus",
   "lang": "ny",
   "chapter": 7,
-  "translation": "Ndipo madzi onse <amntchito> simudzawadya, madzi a mbalame ndi a nyama, m'malo onse amene mukhala.",
+  "translation": "Ndipo madzi onse <si> Mukhale ndi kudya, m'malo onse anu okhalamo, <kwa> mbalame ndi <kwa> nyama.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "Ndipo madzi onse"
+      "gloss": "Ndipo onse"
     },
     {
       "surface": "דם",
-      "gloss": "madzi <amntchito>"
+      "gloss": "madzi"
     },
     {
       "surface": "לא",
-      "gloss": "simudzawadya"
+      "gloss": "si"
     },
     {
       "surface": "תאכלו",
-      "gloss": "simudzawadya"
+      "gloss": "Mukhale ndi kudya"
     },
     {
       "surface": "בכל",
@@ -29,17 +29,17 @@
     },
     {
       "surface": "מושבתיכם",
-      "gloss": "amene mukhala"
+      "gloss": "anu okhalamo"
     },
     {
       "surface": "לעוף",
-      "gloss": "a mbalame"
+      "gloss": "kwa mbalame"
     },
     {
       "surface": "ולבהמה",
-      "gloss": "ndi a nyama"
+      "gloss": "ndi kwa nyama"
     }
   ],
-  "timestamp": "2026-09-21T06:32:40.080788616Z",
+  "timestamp": "2026-09-25T07:36:02.451200258Z",
   "model": "glm-5.3"
 }

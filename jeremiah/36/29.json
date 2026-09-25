@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "ny",
   "chapter": 36,
-  "translation": "Ndipo za Yehoyakimu, mfumu ya Yuda, udzati: “Kotero anati Yahwe: Iwe unayentcha ⟨את⟩ chipepala ichi, ndi kunena: Chifukwa chiyani munalembedwa pa icho, kuti: Mfumu ya Babuloni idzadza ndithu, ndi kuononga ⟨את⟩ dziko ili, ndi kuletsa mʼmeno munthu ndi nyama?”",
+  "translation": "Ndipo za Yehojakimu, mfumu ya Yuda, udzati: Kotero anati Yahwe: Iwe wawayala ⟨את⟩ maziko awa, nati: Chifukwa chake chiyani munalemba pamwamba pake, kuti: Mfumu ya Babuloni idzadza ndithu, ndipo idzaononga ⟨את⟩ dziko ili, ndipo idzachotsera mmenemo munthu ndi nyama?",
   "tokens": [
     {
       "surface": "ועל",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "יהויקים",
-      "gloss": "Yehoyakimu"
+      "gloss": "Yehojakimu"
     },
     {
       "surface": "מלך",
-      "gloss": "mfumu"
+      "gloss": "mfumu ya"
     },
     {
       "surface": "יהודה",
@@ -45,36 +45,36 @@
     },
     {
       "surface": "שרפת",
-      "gloss": "unayentcha"
+      "gloss": "wawayala"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "chipepala ichi"
+      "marks": "maziko awa"
     },
     {
       "surface": "המגלה",
-      "gloss": "chipepala"
+      "gloss": "maziko awa"
     },
     {
       "surface": "הזאת",
-      "gloss": "ichi"
+      "gloss": "awa"
     },
     {
       "surface": "לאמר",
-      "gloss": "ndi kunena"
+      "gloss": "nati"
     },
     {
       "surface": "מדוע",
-      "gloss": "Chifukwa chiyani"
+      "gloss": "Chifukwa chake chiyani"
     },
     {
       "surface": "כתבת",
-      "gloss": "munalembedwa"
+      "gloss": "munalemba"
     },
     {
       "surface": "עליה",
-      "gloss": "pa icho"
+      "gloss": "pamwamba pake"
     },
     {
       "surface": "לאמר",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "מלך",
-      "gloss": "mfumu"
+      "gloss": "mfumu ya"
     },
     {
       "surface": "בבל",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "והשחית",
-      "gloss": "ndi kuononga"
+      "gloss": "ndipo idzaononga"
     },
     {
       "surface": "את",
@@ -115,11 +115,11 @@
     },
     {
       "surface": "והשבית",
-      "gloss": "ndi kuletsa"
+      "gloss": "ndipo idzachotsera"
     },
     {
       "surface": "ממנה",
-      "gloss": "mʼmeno"
+      "gloss": "mmenemo"
     },
     {
       "surface": "אדם",
@@ -130,6 +130,6 @@
       "gloss": "ndi nyama"
     }
   ],
-  "timestamp": "2026-09-21T09:47:55.229049217Z",
+  "timestamp": "2026-09-25T07:31:09.787426824Z",
   "model": "glm-5.3"
 }

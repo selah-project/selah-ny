@@ -5,24 +5,24 @@
   "book": "leviticus",
   "lang": "ny",
   "chapter": 26,
-  "translation": "Ndipo ndidzatyola ⟨את⟩ ulemerero wa mphamvu yanu, ndipo ndidzaika ⟨את⟩ miyamba yanu monga chitsulo cha任期 ironi, ndi ⟨את⟩ dziko lanu monga nkhokwe ya zitsulo.",
+  "translation": "Ndipo ndidzavunda ⟨את⟩ chilemerero cha mphamvu yanu, ndipo ndidzaika ⟨את⟩ kumwamba kwanu monga chitsulo, ndi ⟨את⟩ dziko lanu monga mkuwa.",
   "tokens": [
     {
       "surface": "ושברתי",
-      "gloss": "ndidzatyola"
+      "gloss": "Ndipo ndidzavunda"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ulemerero wa mphamvu yanu"
+      "marks": "chilemerero cha mphamvu yanu"
     },
     {
       "surface": "גאון",
-      "gloss": "ulemerero"
+      "gloss": "chilemerero"
     },
     {
       "surface": "עזכם",
-      "gloss": "wa mphamvu yanu"
+      "gloss": "cha mphamvu yanu"
     },
     {
       "surface": "ונתתי",
@@ -31,15 +31,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "miyamba yanu"
+      "marks": "kumwamba kwanu"
     },
     {
       "surface": "שמיכם",
-      "gloss": "miyamba yanu"
+      "gloss": "kumwamba kwanu"
     },
     {
       "surface": "כברזל",
-      "gloss": "monga chitsulo cha任期 ironi"
+      "gloss": "monga chitsulo"
     },
     {
       "surface": "ואת",
@@ -52,9 +52,9 @@
     },
     {
       "surface": "כנחשה",
-      "gloss": "monga nkhokwe ya zitsulo"
+      "gloss": "monga mkuwa"
     }
   ],
-  "timestamp": "2026-09-21T12:59:04.618642095Z",
+  "timestamp": "2026-09-25T07:35:14.018880389Z",
   "model": "glm-5.3"
 }

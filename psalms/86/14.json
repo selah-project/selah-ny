@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "ny",
   "chapter": 86,
-  "translation": "Elohim, odzikuza anauka pa ine, ndi gulu la anthu amphamvu linafunafuna moyo wanga, ndipo sanakuike ⟨⟨⟩⟩ patsogolo pawo.",
+  "translation": "Elohim, achifwamba aanuka pa ine, ndi gulu la anthu aamphamvu akufuna moyo wanga, ndipo sanakuikire iwe pamaso pawo.",
   "tokens": [
     {
       "surface": "אלהים",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "זדים",
-      "gloss": "odzikuza"
+      "gloss": "achifwamba"
     },
     {
       "surface": "קמו",
-      "gloss": "anauka"
+      "gloss": "aanuka"
     },
     {
       "surface": "עלי",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "עריצים",
-      "gloss": "anthu amphamvu"
+      "gloss": "anthu aamphamvu"
     },
     {
       "surface": "בקשו",
-      "gloss": "linafunafuna"
+      "gloss": "akufuna"
     },
     {
       "surface": "נפשי",
@@ -41,17 +41,17 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ndipo sana"
+      "gloss": "ndipo sanakuikire"
     },
     {
       "surface": "שמוך",
-      "gloss": "kuike iwe"
+      "gloss": "iwe"
     },
     {
       "surface": "לנגדם",
-      "gloss": "patsogolo pawo"
+      "gloss": "pamaso pawo"
     }
   ],
-  "timestamp": "2026-09-21T10:59:44.337249208Z",
+  "timestamp": "2026-09-25T07:40:59.265044400Z",
   "model": "glm-5.3"
 }

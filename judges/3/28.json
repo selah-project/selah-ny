@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "ny",
   "chapter": 3,
-  "translation": "Ndipo anawawu: “Mlandirani ine, chifukwa Yahwe wapereka ⟨את⟩ adani anu, ⟨את⟩ Moabu, mʼmanja mwenu.” Ndipo anatsika kumene mbuyo mwake, natenga ⟨את⟩ madutsiro a Yorodano oku Moabu, ndipo sanapereke munthu aliyense kudutsa.",
+  "translation": "Ndipo adati kwa iwo: “Munditsate pambuyo panga, chifukwa Yahwe wapatsa ⟨את⟩ adani anu ⟨את⟩ Moabu m'manja mwanu.” Ndipo anatsika pambuko pake, natenga ⟨את⟩ malo odutsira a Yordanu okumana ndi Moabu, ndipo sanapereke munthu aliyense kudutsa.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "anawawu"
+      "gloss": "adati"
     },
     {
       "surface": "אלהם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "רדפו",
-      "gloss": "Mlandirani"
+      "gloss": "munditsate"
     },
     {
       "surface": "אחרי",
-      "gloss": "ine"
+      "gloss": "pambuyo panga"
     },
     {
       "surface": "כי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "wapereka"
+      "gloss": "wapatsa"
     },
     {
       "surface": "יהוה",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "בידכם",
-      "gloss": "mʼmanja mwenu"
+      "gloss": "m'manja mwanu"
     },
     {
       "surface": "וירדו",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "אחריו",
-      "gloss": "kumene mbuyo mwake"
+      "gloss": "pambuyo pake"
     },
     {
       "surface": "וילכדו",
@@ -72,23 +72,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "madutsiro"
+      "marks": "malo odutsira a Yordanu"
     },
     {
       "surface": "מעברות",
-      "gloss": "madutsiro"
+      "gloss": "malo odutsira"
     },
     {
       "surface": "הירדן",
-      "gloss": "a Yorodano"
+      "gloss": "a Yordanu"
     },
     {
       "surface": "למואב",
-      "gloss": "oku Moabu"
+      "gloss": "okumana ndi Moabu"
     },
     {
       "surface": "ולא",
-      "gloss": "ndipo sanapereke"
+      "gloss": "ndipo sanapereke — ayi"
     },
     {
       "surface": "נתנו",
@@ -103,6 +103,6 @@
       "gloss": "kudutsa"
     }
   ],
-  "timestamp": "2026-09-21T07:47:01.880376472Z",
+  "timestamp": "2026-09-25T07:43:18.898709268Z",
   "model": "glm-5.3"
 }

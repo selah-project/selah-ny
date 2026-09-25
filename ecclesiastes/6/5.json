@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "ny",
   "chapter": 6,
-  "translation": "Ngakhale dzuwa silinaone, sanadziwe ⟨ichoke⟩; wakhalibe mphumulo woposa <yesamenya>. Correction follows in tokens.",
+  "translation": "Kamakono dzuwa silinaona, sindinadziwe kanthu; kwa uyu pali mpumulo woposa wa mnzake.",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "ngakhale"
+      "gloss": "Kamakono"
     },
     {
       "surface": "שמש",
@@ -17,33 +17,33 @@
     },
     {
       "surface": "לא",
-      "gloss": "si"
+      "gloss": "si-"
     },
     {
       "surface": "ראה",
-      "gloss": "anaone"
+      "gloss": "-naona"
     },
     {
       "surface": "ולא",
-      "gloss": "sana"
+      "gloss": "sindi-"
     },
     {
       "surface": "ידע",
-      "gloss": "dziwe"
+      "gloss": "-nadziwe kanthu"
     },
     {
       "surface": "נחת",
-      "gloss": "mphumulo"
+      "gloss": "mpumulo"
     },
     {
       "surface": "לזה",
-      "gloss": "wa uyu"
+      "gloss": "kwa uyu"
     },
     {
       "surface": "מזה",
-      "gloss": "kuposa uja"
+      "gloss": "wa mnzake"
     }
   ],
-  "timestamp": "2026-09-21T11:57:39.066345723Z",
+  "timestamp": "2026-09-25T07:23:26.975046826Z",
   "model": "glm-5.3"
 }

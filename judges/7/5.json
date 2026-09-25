@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "ny",
   "chapter": 7,
-  "translation": "Adatsitsa ⟨את⟩ anthu kumadzi, ndipo Yahwe anati kwa Gideyoni: “Yense amene adzalamula madzi ndi lilime lake, monga momwe galu amalamera, ⟨את⟩ m'meneyu m'chiika yekha; ndiponso yense amene adzagwada <pa mafupa ake> kunywa.”",
+  "translation": "Iye adatsitsa ⟨את⟩ anthu kwa madzi, ndipo Yahwe anati kwa Gideon: “Yense amene adzamwera ndi lilime lake m'madzi, monga momwe galu amamwera, iye m'modzi muzimucheza; ndiponso yense amene adzagwada m'madondo ake kuti amire.”",
   "tokens": [
     {
       "surface": "ויורד",
-      "gloss": "Adatsitsa"
+      "gloss": "adatsitsa"
     },
     {
       "surface": "את",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ku"
+      "gloss": "kwa"
     },
     {
       "surface": "המים",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "anati"
+      "gloss": "ndipo anati"
     },
     {
       "surface": "יהוה",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "גדעון",
-      "gloss": "Gideyoni"
+      "gloss": "Gideon"
     },
     {
       "surface": "כל",
-      "gloss": "Yense"
+      "gloss": "yense"
     },
     {
       "surface": "אשר",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ילק",
-      "gloss": "adzalamula"
+      "gloss": "adzamwera"
     },
     {
       "surface": "בלשונו",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "-"
+      "gloss": "m'ma"
     },
     {
       "surface": "המים",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "monga momwe"
+      "gloss": "monga"
     },
     {
       "surface": "ילק",
-      "gloss": "amalamera"
+      "gloss": "amamwera"
     },
     {
       "surface": "הכלב",
@@ -82,15 +82,16 @@
     },
     {
       "surface": "תציג",
-      "gloss": "m'chiika"
+      "gloss": "muzimucheza"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ m'meneyu"
+      "gloss": "⟨את⟩",
+      "marks": "iye m'modzi"
     },
     {
       "surface": "לבד",
-      "gloss": "yekha"
+      "gloss": "iye m'modzi"
     },
     {
       "surface": "וכל",
@@ -106,17 +107,17 @@
     },
     {
       "surface": "על",
-      "gloss": "pa"
+      "gloss": "m'ma"
     },
     {
       "surface": "ברכיו",
-      "gloss": "<mafupa ake>"
+      "gloss": "dondo ake"
     },
     {
       "surface": "לשתות",
-      "gloss": "kunywa"
+      "gloss": "kuti amire"
     }
   ],
-  "timestamp": "2026-09-21T07:49:36.776962449Z",
+  "timestamp": "2026-09-25T07:33:11.451354845Z",
   "model": "glm-5.3"
 }

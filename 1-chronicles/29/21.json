@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "ny",
   "chapter": 29,
-  "translation": "Ndipo anapereka kwa Yahwe nsembe za chiweto, nanyakitsa nsembe zoopsa kwa Yahwe, mawa kutsata tsiku limenelo, mombola chikwi, nkhosa zazimuna chikwi, mwanakondwerа chikwi, ndi nsembe zawo zamadzi, ndi nsembe zambiri kwa onse a Yisraeli.",
+  "translation": "Ndipo anapereka nsembe kwa Yahwe, nsembe, nipo anakweza nsembe zoophyera kwa Yahwe, mawa wa tsiku limenelo: ndiombo chikwi chimodzi, nkhosa zalamulo chikwi chimodzi, nakhosa zing'onong'ono chikwi chimodzi, ndi nsembe zawo zothirira, ndi nsembe zambiri kwa Yisraeli onse.",
   "tokens": [
     {
       "surface": "ויזבחו",
-      "gloss": "anapereka nsembe za chiweto"
+      "gloss": "anapereka nsembe"
     },
     {
       "surface": "ליהוה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "זבחים",
-      "gloss": "nsembe za chiweto"
+      "gloss": "nsembe"
     },
     {
       "surface": "ויעלו",
-      "gloss": "nanyakitsa"
+      "gloss": "ndipo anakweza"
     },
     {
       "surface": "עלות",
-      "gloss": "nsembe zoopsa"
+      "gloss": "nsembe zoophyera"
     },
     {
       "surface": "ליהוה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "למחרת",
-      "gloss": "mawa kutsata"
+      "gloss": "mawa wa"
     },
     {
       "surface": "היום",
@@ -45,31 +45,31 @@
     },
     {
       "surface": "פרים",
-      "gloss": "mombola"
+      "gloss": "ndiombo"
     },
     {
       "surface": "אלף",
-      "gloss": "chikwi"
+      "gloss": "chikwi chimodzi"
     },
     {
       "surface": "אילים",
-      "gloss": "nkhosa zazimuna"
+      "gloss": "nkhosa zalamulo"
     },
     {
       "surface": "אלף",
-      "gloss": "chikwi"
+      "gloss": "chikwi chimodzi"
     },
     {
       "surface": "כבשים",
-      "gloss": "mwanakondwerа"
+      "gloss": "nakhosa zing'onong'ono"
     },
     {
       "surface": "אלף",
-      "gloss": "chikwi"
+      "gloss": "chikwi chimodzi"
     },
     {
       "surface": "ונסכיהם",
-      "gloss": "ndi nsembe zawo zamadzi"
+      "gloss": "ndi nsembe zawo zothirira"
     },
     {
       "surface": "וזבחים",
@@ -88,6 +88,6 @@
       "gloss": "Yisraeli"
     }
   ],
-  "timestamp": "2026-09-21T12:35:17.092993999Z",
+  "timestamp": "2026-09-25T07:15:28.017757711Z",
   "model": "glm-5.3"
 }

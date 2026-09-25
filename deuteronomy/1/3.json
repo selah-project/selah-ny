@@ -1,1 +1,90 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "deuteronomy 1:3", "book": "deuteronomy", "lang": "ny", "chapter": 1, "translation": "Ndipo chinachitika mu chaka cha makumi anayi, m'mwezi wachikhumi ndi umodzi, tsiku loyamba ya mwezi, Moshe ananena kwa ana a Yisraeli monga molingana ndi zonse zimene Yahwe anamulamulira ⟨⟨את⟩ iye⟩ za iwo.", "tokens": [{"surface": "ויהי", "gloss": "Ndipo chinachitika"}, {"surface": "בארבעים", "gloss": "mu makumi anayi a"}, {"surface": "שנה", "gloss": "chaka"}, {"surface": "בעשתי", "gloss": "m'mwezi wachikhumi"}, {"surface": "עשר", "gloss": "ndi umodzi"}, {"surface": "חדש", "gloss": "mwezi"}, {"surface": "באחד", "gloss": "tsiku loyamba ya"}, {"surface": "לחדש", "gloss": "mwezi"}, {"surface": "דבר", "gloss": "ananena"}, {"surface": "משה", "gloss": "Moshe"}, {"surface": "אל", "gloss": "kwa"}, {"surface": "בני", "gloss": "ana a"}, {"surface": "ישראל", "gloss": "Yisraeli"}, {"surface": "ככל", "gloss": "monga molingana ndi zonse"}, {"surface": "אשר", "gloss": "zimene"}, {"surface": "צוה", "gloss": "anamulamulira"}, {"surface": "יהוה", "gloss": "Yahwe"}, {"surface": "אתו", "gloss": "⟨את⟩ iye", "marks": "za iwo"}, {"surface": "אלהם", "gloss": "za iwo"}], "timestamp": "2026-09-21T07:14:06.893117962Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 1:3",
+  "book": "deuteronomy",
+  "lang": "ny",
+  "chapter": 1,
+  "translation": "Ndipo zinali mu chaka la makumi anayi, m'mwezi wakhumi ndi chimodzi, tsiku loyamba la mwezi, Moshe anayankhula kwa ana a Yisraeli, monga zonse zimene Yahwe adamu ⟨את⟩ iye kwa iwo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo zinali"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "mu makumi anayi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "chaka"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "m'mwezi wakhumi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ndi chimodzi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mwezi"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "tsiku loyamba"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la mwezi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "anayankhula"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraeli"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "monga zonse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zimene"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "adamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwa iwo"
+    }
+  ],
+  "timestamp": "2026-09-25T07:19:12.449400500Z",
+  "model": "glm-5.3"
+}

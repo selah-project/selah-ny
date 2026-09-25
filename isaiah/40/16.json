@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "ny",
   "chapter": 40,
-  "translation": "Ndipo Lebanoni sulingakwanire kuwotcha, ndi nyama zake sulingakwanire nsembe yopsereza.",
+  "translation": "Ndipo Lebanoni si yokwanira kuwotcha, ndi nyama zake sizikwanira ⟨the⟩ nsembe yopsereza.",
   "tokens": [
     {
       "surface": "ולבנון",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אין",
-      "gloss": "sulingakwanire"
+      "gloss": "si"
     },
     {
       "surface": "די",
-      "gloss": "kuwotcha <kusakwanira>"
+      "gloss": "yokwanira"
     },
     {
       "surface": "בער",
@@ -29,17 +29,17 @@
     },
     {
       "surface": "אין",
-      "gloss": "sulingakwanire"
+      "gloss": "sizi"
     },
     {
       "surface": "די",
-      "gloss": "<kusakwanira>"
+      "gloss": "kwanira"
     },
     {
       "surface": "עולה",
       "gloss": "nsembe yopsereza"
     }
   ],
-  "timestamp": "2026-09-21T09:17:43.558298207Z",
+  "timestamp": "2026-09-25T07:42:17.330766144Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "ny",
   "chapter": 7,
-  "translation": "Nsembe yake ndi yopatsa: mbale imodzi ya siliva, zana limodzi ndi makumi atatu shekele kulemera kwake; chikho chimodzi cha siliva, makumi asanu ndi awiri shekele, mwa shekele wa chiyeretso; zonse ziwiri zodzala ufa wabwino wosakanizidwa ndi mafuta, kuikhapo ⟨⟨⟩⟩ngati nsembe.",
+  "translation": "Chopereka chake chinali mbale ya siliva imodzi, kulemera kwake zana limodzi ndi makumi atatu amashekeli, ndi chotseka chimodzi cha siliva chamakumi asanu ndi awiri amashekeli, monga mwa shekel wa chiyeretso; awiri onse odzala ndi ufa wabwino wosakanidwa ndi mafuta, kuikhira nsembe ya ufa.",
   "tokens": [
     {
       "surface": "קרבנו",
-      "gloss": "nsembe yake"
+      "gloss": "chopereka chake"
     },
     {
       "surface": "קערת",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "מזרק",
-      "gloss": "chikho"
+      "gloss": "chotseka"
     },
     {
       "surface": "אחד",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "שבעים",
-      "gloss": "makumi asanu ndi awiri"
+      "gloss": "chamakumi asanu ndi awiri"
     },
     {
       "surface": "שקל",
-      "gloss": "shekele"
+      "gloss": "amashekeli"
     },
     {
       "surface": "בשקל",
-      "gloss": "mwa shekele"
+      "gloss": "monga mwa shekel"
     },
     {
       "surface": "הקדש",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "שניהם",
-      "gloss": "zonse ziwiri"
+      "gloss": "awiri onse"
     },
     {
       "surface": "מלאים",
-      "gloss": "zodzala"
+      "gloss": "odzala"
     },
     {
       "surface": "סלת",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "בלולה",
-      "gloss": "wosakanizidwa"
+      "gloss": "wosakanidwa"
     },
     {
       "surface": "בשמן",
@@ -85,9 +85,9 @@
     },
     {
       "surface": "למנחה",
-      "gloss": "kuikhapo ngati nsembe"
+      "gloss": "kuikhira nsembe ya ufa"
     }
   ],
-  "timestamp": "2026-09-21T14:23:47.303756394Z",
+  "timestamp": "2026-09-25T07:35:39.560817769Z",
   "model": "glm-5.3"
 }

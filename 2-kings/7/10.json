@@ -1,1 +1,121 @@
-{"tier":"glm-5.2","verse":10,"ref":"2-kings 7:10","book":"2-kings","lang":"ny","chapter":7,"translation":"Iwo anadza, nadayitana kwa wosunga khomo wa mzindawo, nadziwitsa kwa iwo, nati: “Takalowa ku machane wa Aramu, ndipo taonani, palibe munthu kumeneko, ndiponso liu la munthu, koma farashi wamangidwa ndi bulu wamangidwa, ndi mahema ali monga ali.”","tokens":[{"surface":"ויבאו","gloss":"anadza"},{"surface":"ויקראו","gloss":"nadayitana"},{"surface":"אל","gloss":"kwa"},{"surface":"שער","gloss":"wosunga khomo"},{"surface":"העיר","gloss":"wa mzindawo"},{"surface":"ויגידו","gloss":"nadziwitsa"},{"surface":"להם","gloss":"kwa iwo"},{"surface":"לאמר","gloss":"nati"},{"surface":"באנו","gloss":"takalowa"},{"surface":"אל","gloss":"ku"},{"surface":"מחנה","gloss":"machane"},{"surface":"ארם","gloss":"wa Aramu"},{"surface":"והנה","gloss":"ndipo taonani"},{"surface":"אין","gloss":"palibe"},{"surface":"שם","gloss":"kumeneko"},{"surface":"איש","gloss":"munthu"},{"surface":"וקול","gloss":"ndiponso liu"},{"surface":"אדם","gloss":"la munthu"},{"surface":"כי","gloss":"koma"},{"surface":"אם","gloss":""},{"surface":"הסוס","gloss":"farashi"},{"surface":"אסור","gloss":"wamangidwa"},{"surface":"והחמור","gloss":"ndi bulu"},{"surface":"אסור","gloss":"wamangidwa"},{"surface":"ואהלים","gloss":"ndi mahema"},{"surface":"כאשר","gloss":"monga"},{"surface":"המה","gloss":"ali"}],"timestamp":"2026-09-21T15:07:19.879049733Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 7:10",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 7,
+  "translation": "Ndipo adalowa, nayitana kwa wosungitsa khomo la mzinda, nadziwitsa kwa iwo, nati: “Talowa ku msumba wa Aramu, ndipo taonani, palibe munthu kumeneko, palibe mawu a munthu, koma kalonga kakoledwa, ndi bulu wakoledwa, ndi mahema monga zimene zilili.”",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "adalowa"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "nayitana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "wosungitsa khomo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la mzinda"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "nadziwitsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa iwo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "Talowa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "msumba"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "wa Aramu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ndipo taonani"
+    },
+    {
+      "surface": "אין",
+      "gloss": "palibe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kumeneko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munthu"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "palibe mawu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a munthu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "koma"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "kalonga kakoledwa"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "kakoledwa"
+    },
+    {
+      "surface": "והחמור",
+      "gloss": "ndi bulu wakoledwa"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "wakoledwa"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "ndi mahema"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "monga"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zimene zilili"
+    }
+  ],
+  "timestamp": "2026-09-25T07:42:36.165031430Z",
+  "model": "glm-5.3"
+}

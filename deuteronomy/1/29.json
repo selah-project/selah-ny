@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "ny",
   "chapter": 1,
-  "translation": "Ndipo ndinati kwa inu: Musadere, ndipo musaope iwo.",
+  "translation": "Ndi Ine ndinakamba kwa inu: Musachititsa mantha, ndipo musawaope iwo.",
   "tokens": [
     {
       "surface": "ואמר",
-      "gloss": "ndipo ndinati"
+      "gloss": "ndipo ndinakamba"
     },
     {
       "surface": "אלכם",
@@ -17,25 +17,25 @@
     },
     {
       "surface": "לא",
-      "gloss": "musadere <לא>"
+      "gloss": "musai-"
     },
     {
       "surface": "תערצון",
-      "gloss": "musadere"
+      "gloss": "chititsa mantha"
     },
     {
       "surface": "ולא",
-      "gloss": "ndipo musaope"
+      "gloss": "ndipo musai-"
     },
     {
       "surface": "תיראון",
-      "gloss": "musaope"
+      "gloss": "ope"
     },
     {
       "surface": "מהם",
       "gloss": "iwo"
     }
   ],
-  "timestamp": "2026-09-21T07:13:30.555859029Z",
+  "timestamp": "2026-09-25T07:19:18.559491414Z",
   "model": "glm-5.3"
 }

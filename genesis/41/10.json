@@ -1,1 +1,71 @@
-{"tier":"glm-5.2","verse":10,"ref":"genesis 41:10","book":"genesis","lang":"ny","chapter":41,"translation":"Paro anakwatira <⟨את⟩> kulira kwa akapolo ake, ndipo anandipereka m'kutsegerezedwe kwa nyumba ya mkulu wa aphika; ⟨את⟩ ine ndi <⟨את⟩> mkulu wa aopota.","tokens":[{"surface":"פרעה","gloss":"Paro"},{"surface":"קצף","gloss":"anakwatira kulira"},{"surface":"על","gloss":"kwa"},{"surface":"עבדיו","gloss":"akapolo ake"},{"surface":"ויתן","gloss":"anandipereka"},{"surface":"אתי","gloss":"⟨את⟩","marks":"ine"},{"surface":"במשמר","gloss":"m'kutsegerezedwe"},{"surface":"בית","gloss":"nyumba ya"},{"surface":"שר","gloss":"mkulu wa"},{"surface":"הטבחים","gloss":"aphika"},{"surface":"אתי","gloss":"⟨את⟩ ine"},{"surface":"ואת","gloss":"ndi ⟨את⟩"},{"surface":"שר","gloss":"mkulu wa"},{"surface":"האפים","gloss":"aopota"}],"timestamp":"2026-09-21T06:01:02.659468992Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "ny",
+  "chapter": 41,
+  "translation": "Paro anakwiya ndi akapolo ake, ndipo anapatsa ⟨את⟩ ine m'kusungidwa m'nyumba ya mkulu wa aphika, ine ndi ⟨את⟩ mkulu wa opanga mkate.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "anakwiya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "akapolo ake"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ndipo anapatsa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ine",
+      "marks": "m'kusungidwa"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "m'kusungidwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "m'nyumba"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mkulu"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "wa aphika"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mkulu wa opanga mkate"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mkulu"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "wa opanga mkate"
+    }
+  ],
+  "timestamp": "2026-09-25T07:26:50.614387823Z",
+  "model": "glm-5.3"
+}

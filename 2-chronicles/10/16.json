@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "ny",
   "chapter": 10,
-  "translation": "Ndipo Yisraeli wonse, poti mfumu sinamvera iwo, anthuwo anayankhira ⟨את⟩ mfumu kuti: “Ifе tili ndi gawo lanji mwa Davidi? Ndipo sitili ndi cholowa mwa mwana wa Yishai! Aliyense, kuhema kwako, iwe Yisraeli! Tsopano penyerani nyumba yanu, iwe Davidi!” Ndipo Yisraeli wonse anapita ku hema yawo yense.",
+  "translation": "Ndipo Yisraeli onse, poti mfumu sinawamvera, anthu anayankha ⟨את⟩ mfumu, nati: “Ndife ndi gawo lanji mwa Davide, ndipo sipali cholowa mwa mwana wa Yishayi? Munthu aliyense, ku mahema ako, Yisraeli! Tsopano penyerera nyumba yako, Davide.” Ndipo Yisraeli onse anapita ku mahema awo.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "Ndipo ... wonse"
+      "gloss": "Ndipo … onse"
     },
     {
       "surface": "ישראל",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "sina-"
+      "gloss": "si"
     },
     {
       "surface": "שמע",
-      "gloss": "namvera"
+      "gloss": "wamvera"
     },
     {
       "surface": "המלך",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "וישיבו",
-      "gloss": "anayankhira"
+      "gloss": "anayankha"
     },
     {
       "surface": "העם",
-      "gloss": "anthuwo"
+      "gloss": "anthu"
     },
     {
       "surface": "את",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "kuti"
+      "gloss": "nati"
     },
     {
       "surface": "מה",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "לנו",
-      "gloss": "Ifе tili ndi"
+      "gloss": "Ndife ndi"
     },
     {
       "surface": "חלק",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "בדויד",
-      "gloss": "mwa Davidi"
+      "gloss": "mwa Davide"
     },
     {
       "surface": "ולא",
-      "gloss": "Ndipo sitili ndi"
+      "gloss": "ndipo sipali"
     },
     {
       "surface": "נחלה",
@@ -82,19 +82,19 @@
     },
     {
       "surface": "בבן",
-      "gloss": "mwa mwana wa"
+      "gloss": "mwa mwana"
     },
     {
       "surface": "ישי",
-      "gloss": "Yishai"
+      "gloss": "wa Yishayi"
     },
     {
       "surface": "איש",
-      "gloss": "Aliyense"
+      "gloss": "Munthu aliyense"
     },
     {
       "surface": "לאהליך",
-      "gloss": "kuhema kwako"
+      "gloss": "ku mahema ako"
     },
     {
       "surface": "ישראל",
@@ -106,15 +106,15 @@
     },
     {
       "surface": "ראה",
-      "gloss": "penyerani"
+      "gloss": "penyerera"
     },
     {
       "surface": "ביתך",
-      "gloss": "nyumba yanu"
+      "gloss": "nyumba yako"
     },
     {
       "surface": "דויד",
-      "gloss": "Davidi"
+      "gloss": "Davide"
     },
     {
       "surface": "וילך",
@@ -122,7 +122,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "wonse"
+      "gloss": "onse"
     },
     {
       "surface": "ישראל",
@@ -130,9 +130,9 @@
     },
     {
       "surface": "לאהליו",
-      "gloss": "kuhema yawo yense"
+      "gloss": "ku mahema awo"
     }
   ],
-  "timestamp": "2026-09-21T12:40:36.468452044Z",
+  "timestamp": "2026-09-25T07:14:00.710367232Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "ny",
   "chapter": 7,
-  "translation": "Mwana wanga, sunga mawu anga, ndipo malamulo anga awabisе ⟨⟨את⟩ kwa iwe⟩.",
+  "translation": "Mwana wanga, sunga mawu anga, ndipo malamulo anga adzawabisika ndi ⟨את⟩ iwe.",
   "tokens": [
     {
       "surface": "בני",
@@ -25,13 +25,14 @@
     },
     {
       "surface": "תצפן",
-      "gloss": "awabisе"
+      "gloss": "adzawabisika"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ kwa iwe"
+      "gloss": "⟨את⟩ ndi iwe",
+      "marks": "iwe"
     }
   ],
-  "timestamp": "2026-09-21T11:20:38.790276763Z",
+  "timestamp": "2026-09-25T07:37:50.744374552Z",
   "model": "glm-5.3"
 }

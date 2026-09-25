@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "ny",
   "chapter": 22,
-  "translation": "Ndipo mthenga wa Yahwe anati kwa iye: “Chifukwa chiyani munamenya ⟨את⟩ bululi wanu nthawi zitatu izi? Taona, ine ndinatuluka kukhala <satana> kwa inu, popeza njirayo <inatero> pamaso panga.”",
+  "translation": "Ndipo mthenga wa Yahwe anati kwa iye: “Kodi munamenya ⟨את⟩ bulu wanu wamayi izi zisanu ndi ziwiri ⟨mapazi⟩? Taona, ine ndinatuluka kukhala wosatana, popeza njirayo inakhotakhota pamaso panga.”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "anati"
+      "gloss": "ndipo mthenga… anati"
     },
     {
       "surface": "אליו",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "על",
-      "gloss": "chifukwa chiyani ⟨pa⟩"
+      "gloss": "kodi"
     },
     {
       "surface": "מה",
-      "gloss": "chiyani"
+      "gloss": "chifukwa chiyani"
     },
     {
       "surface": "הכית",
@@ -38,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bululi wanu"
+      "marks": "bulu wanu wamayi"
     },
     {
       "surface": "אתנך",
-      "gloss": "bululi wanu"
+      "gloss": "bulu wanu wamayi"
     },
     {
       "surface": "זה",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "שלוש",
-      "gloss": "nthawi zitatu"
+      "gloss": "zisanu ndi ziwiri"
     },
     {
       "surface": "רגלים",
-      "gloss": "nthawi zitatu"
+      "gloss": "⟨mapazi⟩ (kayendo)"
     },
     {
       "surface": "הנה",
-      "gloss": "Taona"
+      "gloss": "taona"
     },
     {
       "surface": "אנכי",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "לשטן",
-      "gloss": "kukhala satana"
+      "gloss": "kukhala wosatana"
     },
     {
       "surface": "כי",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "ירט",
-      "gloss": "inatero"
+      "gloss": "inakhotakhota"
     },
     {
       "surface": "הדרך",
@@ -89,6 +89,6 @@
       "gloss": "pamaso panga"
     }
   ],
-  "timestamp": "2026-09-21T13:01:19.356978735Z",
+  "timestamp": "2026-09-25T07:35:06.843921442Z",
   "model": "glm-5.3"
 }

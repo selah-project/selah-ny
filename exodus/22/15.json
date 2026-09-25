@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "ny",
   "chapter": 22,
-  "translation": "Ndipo ngati munthu anakayenga mtsikana wosakhazikitsidwa, nagong'amba naye — adzawombola adzawombolera mahari a mtsikana uja, kukhala iye mkazi wake.",
+  "translation": "Ndipo ngati munthu akanyenga mtsikana wachimbudzi amene sanayesedwe, ndipo nagona nayi, mahari amalipira kwa iye, amukwatira kukhala mkazi wake.",
   "tokens": [
     {
       "surface": "וכי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יפתה",
-      "gloss": "anakayenga"
+      "gloss": "akanyenga"
     },
     {
       "surface": "איש",
@@ -21,35 +21,35 @@
     },
     {
       "surface": "בתולה",
-      "gloss": "mtsikana wosakhazikitsidwa"
+      "gloss": "mtsikana wachimbudzi"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨amene⟩"
+      "gloss": "amene"
     },
     {
       "surface": "לא",
-      "gloss": "osakhazikitsidwa <osati>"
+      "gloss": "sa-"
     },
     {
       "surface": "ארשה",
-      "gloss": "khazikitsidwa <kukwatiridwa>"
+      "gloss": "nayesedwe"
     },
     {
       "surface": "ושכב",
-      "gloss": "nagong'amba naye"
+      "gloss": "ndipo nagona"
     },
     {
       "surface": "עמה",
-      "gloss": "naye"
+      "gloss": "nayi"
     },
     {
       "surface": "מהר",
-      "gloss": "adzawombola <mahari>"
+      "gloss": "mahari"
     },
     {
       "surface": "ימהרנה",
-      "gloss": "adzawombolera mahari"
+      "gloss": "amalipira"
     },
     {
       "surface": "לו",
@@ -60,6 +60,6 @@
       "gloss": "kukhala mkazi wake"
     }
   ],
-  "timestamp": "2026-09-21T06:17:52.707151130Z",
+  "timestamp": "2026-09-25T07:22:49.297558746Z",
   "model": "glm-5.3"
 }

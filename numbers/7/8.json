@@ -5,12 +5,12 @@
   "book": "numbers",
   "lang": "ny",
   "chapter": 7,
-  "translation": "Ndi ⟨את⟩ magalimodzi anayi ndi ⟨את⟩ ng'ombe zisanu ndi zitatu anapatsa kwa ana a Merari, monga mwa ntchito yawo, m'dzanja la Itamara mwana wa Aharoni mneneri wa Yehova ⟨mulungu wa ulemerero⟩.",
+  "translation": "Ndipo ⟨את⟩ magalimodi anayi ndi ⟨את⟩ ng'ombe zisanu ndi zitatu adapatsa ana a Merari, monga mwa ntchito yawo, m'dzanja la Itamara mwana wa Aharoni wansembe.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "ndi ⟨את⟩",
-      "marks": "magalimodzi anayi"
+      "marks": "magalimodi anayi"
     },
     {
       "surface": "ארבע",
@@ -18,7 +18,7 @@
     },
     {
       "surface": "העגלת",
-      "gloss": "magalimodzi"
+      "gloss": "magalimodi"
     },
     {
       "surface": "ואת",
@@ -35,11 +35,11 @@
     },
     {
       "surface": "נתן",
-      "gloss": "anapatsa"
+      "gloss": "adapatsa"
     },
     {
       "surface": "לבני",
-      "gloss": "kwa ana a"
+      "gloss": "ana a"
     },
     {
       "surface": "מררי",
@@ -71,9 +71,9 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "mneneri wa Yehova ⟨mulungu wa ulemerero⟩"
+      "gloss": "wansembe"
     }
   ],
-  "timestamp": "2026-09-21T14:23:26.379364778Z",
+  "timestamp": "2026-09-25T07:35:20.737923132Z",
   "model": "glm-5.3"
 }

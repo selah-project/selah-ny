@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "exodus 38:3", "book": "exodus", "lang": "ny", "chapter": 38, "translation": "Ndipo anapanga ⟨את⟩ zida ⟨את⟩ zonse za guwalo: ⟨את⟩ zotopola, ⟨את⟩ ndi ⟨את]] mapiko, ⟨את⟩ ndi ⟨את]] mabatire, ⟨את]] zokolola, ndi ⟨את]] zoimitira moto; zida zake ⟨את⟩ zonse anazipanga ndi kopala.", "tokens": [{"surface": "ויעש", "gloss": "anapanga"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "zida zonse za guwalo"}, {"surface": "כל", "gloss": "zonse"}, {"surface": "כלי", "gloss": "zida"}, {"surface": "המזבח", "gloss": "za guwalo"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "zotopola"}, {"surface": "הסירת", "gloss": "zotopola"}, {"surface": "ואת", "gloss": "ndi ⟨את⟩", "marks": "mapiko"}, {"surface": "היעים", "gloss": "mapiko"}, {"surface": "ואת", "gloss": "ndi ⟨את⟩", "marks": "mabatire"}, {"surface": "המזרקת", "gloss": "mabatire"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "zokolola"}, {"surface": "המזלגת", "gloss": "zokolola"}, {"surface": "ואת", "gloss": "ndi ⟨את⟩", "marks": "zoimitira moto"}, {"surface": "המחתת", "gloss": "zoimitira moto"}, {"surface": "כל", "gloss": "zonse"}, {"surface": "כליו", "gloss": "zida zake"}, {"surface": "עשה", "gloss": "anazipanga"}, {"surface": "נחשת", "gloss": "ndi kopala"}], "timestamp": "2026-09-21T06:27:34.903742643Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 38,
+  "translation": "Ndipo adapanga ⟨את⟩ zida zonse za guwa: ⟨את⟩ mapoto ndi ⟨את⟩ makaso ndi ⟨את⟩ mambale, ⟨את⟩ mauni a nyama ndi ⟨את⟩ zotengera moto; zida zonse zake adapanga ndi nsimbi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ndipo adapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zida zonse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zida"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "za guwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapoto"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "mapoto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "makaso"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "makaso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mambale"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "mambale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mauni a nyama"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "mauni a nyama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zotengera moto"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "zotengera moto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonse"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zida zake"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "adapanga"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nsimbi"
+    }
+  ],
+  "timestamp": "2026-09-25T07:23:05.873682606Z",
+  "model": "glm-5.3"
+}

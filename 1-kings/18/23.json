@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "ny",
   "chapter": 18,
-  "translation": "Apatseni ife nkhumba zamphongo ziwiri; ndisankhe mwini nkhumba yamphongo imodzi, nidule nthawi zonsE ⟨⟨⟩⟩ yathunthu, niike pa nkhuni, koma moto asaike; ndipo ine ndidzakonza ⟨את⟩ nkhumba yamphongo ina, ndidzaika pa nkhuni, koma moto sindidzaika.",
+  "translation": "Apatseni ife ng'ombe ziwiri zachibambo; ndipo asankhe kwa iwo ng'ombe yachibambo imodzi, nuidule zipatso, nuike pa nkhuni, koma moto asaikhire; ndipo ine ndidzachita ⟨את⟩ ng'ombe yachibambo imodzi, ndipo ndidzaika pa nkhuni, koma moto sindidzaika.",
   "tokens": [
     {
       "surface": "ויתנו",
-      "gloss": "apatseni"
+      "gloss": "Apatseni"
     },
     {
       "surface": "לנו",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "פרים",
-      "gloss": "nkhumba zamphongo"
+      "gloss": "ng'ombe zachibambo"
     },
     {
       "surface": "ויבחרו",
-      "gloss": "ndisankhe"
+      "gloss": "asankhe"
     },
     {
       "surface": "להם",
-      "gloss": "mwini"
+      "gloss": "kwa iwo"
     },
     {
       "surface": "הפר",
-      "gloss": "nkhumba yamphongo"
+      "gloss": "ng'ombe yachibambo"
     },
     {
       "surface": "האחד",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "וינתחהו",
-      "gloss": "nidule yathunthu"
+      "gloss": "nuidule zipatso"
     },
     {
       "surface": "וישימו",
-      "gloss": "niike"
+      "gloss": "nuike"
     },
     {
       "surface": "על",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "asaike"
+      "gloss": "asa-"
     },
     {
       "surface": "ישימו",
-      "gloss": "asaike"
+      "gloss": "aikhire"
     },
     {
       "surface": "ואני",
@@ -73,24 +73,24 @@
     },
     {
       "surface": "אעשה",
-      "gloss": "ndidzakonza"
+      "gloss": "ndidzachita"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nkhumba yamphongo"
+      "marks": "ng'ombe yachibambo imodzi"
     },
     {
       "surface": "הפר",
-      "gloss": "nkhumba yamphongo"
+      "gloss": "ng'ombe yachibambo"
     },
     {
       "surface": "האחד",
-      "gloss": "ina"
+      "gloss": "imodzi"
     },
     {
       "surface": "ונתתי",
-      "gloss": "ndidzaika"
+      "gloss": "ndipo ndidzaika"
     },
     {
       "surface": "על",
@@ -106,13 +106,13 @@
     },
     {
       "surface": "לא",
-      "gloss": "sindidzaika"
+      "gloss": "sindi-"
     },
     {
       "surface": "אשים",
-      "gloss": "sindidzaika"
+      "gloss": "ndidzaika"
     }
   ],
-  "timestamp": "2026-09-21T13:09:38.518134924Z",
+  "timestamp": "2026-09-25T07:14:54.421974131Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "ny",
   "chapter": 11,
-  "translation": "Ndipo Yarobowamu, mwana wa Nebati, Mefurati wochokera ku Tsereda — dzina la amake Tseruwa, mkazi wamasiye — anali kapolo wa Shelomo, nadzaulula dzanja <pa> mfumu.",
+  "translation": "Ndipo Yarobowamu mwana wa Nevati, Mefiramu wa ku Tsereda, ndipo dzina la amake nake Tseruwa, mkazi wamasiye, kapolo wa Shelomo, nadzikweza dzanja pa mfumu.",
   "tokens": [
     {
       "surface": "וירבעם",
@@ -13,31 +13,31 @@
     },
     {
       "surface": "בן",
-      "gloss": "mwana"
+      "gloss": "mwana wa"
     },
     {
       "surface": "נבט",
-      "gloss": "wa Nebati"
+      "gloss": "Nevati"
     },
     {
       "surface": "אפרתי",
-      "gloss": "Mefurati"
+      "gloss": "Mefiramu"
     },
     {
       "surface": "מן",
-      "gloss": "wochokera"
+      "gloss": "wa ku"
     },
     {
       "surface": "הצרדה",
-      "gloss": "ku Tsereda"
+      "gloss": "Tsereda"
     },
     {
       "surface": "ושם",
-      "gloss": "dzina"
+      "gloss": "ndipo dzina la"
     },
     {
       "surface": "אמו",
-      "gloss": "la amake"
+      "gloss": "amake nake"
     },
     {
       "surface": "צרועה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "וירם",
-      "gloss": "nadzaulula"
+      "gloss": "nadzikweza"
     },
     {
       "surface": "יד",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "במלך",
-      "gloss": "<pa> mfumu"
+      "gloss": "pa mfumu"
     }
   ],
-  "timestamp": "2026-09-21T08:39:41.595140573Z",
+  "timestamp": "2026-09-25T07:14:22.832609248Z",
   "model": "glm-5.3"
 }

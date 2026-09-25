@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "ny",
   "chapter": 26,
-  "translation": "Ndipo anatilowetsa ku malo uyu, natipatsa ife ⟨את⟩ dziko ili, dziko lakukhalitsa kukhazikika ⟨⟨⟩⟩ dziko lakuyalidwa mkaka ndi uchi.",
+  "translation": "Ndiipo adatilowetsa ku malo awa, nadzipereka kwa ife ⟨את⟩ dziko ili, dziko lophulika mkaka ndi uchi.",
   "tokens": [
     {
       "surface": "ויבאנו",
-      "gloss": "anatilowetsa"
+      "gloss": "adatilowetsa"
     },
     {
       "surface": "אל",
@@ -17,28 +17,28 @@
     },
     {
       "surface": "המקום",
-      "gloss": "malo"
+      "gloss": "malo awa"
     },
     {
       "surface": "הזה",
-      "gloss": "uyu"
+      "gloss": "awa"
     },
     {
       "surface": "ויתן",
-      "gloss": "natipatsa"
+      "gloss": "nadzipereka"
     },
     {
       "surface": "לנו",
-      "gloss": "ife"
+      "gloss": "kwa ife"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dziko"
+      "marks": "dziko ili"
     },
     {
       "surface": "הארץ",
-      "gloss": "dziko"
+      "gloss": "dziko ili"
     },
     {
       "surface": "הזאת",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "זבת",
-      "gloss": "lakuyalidwa"
+      "gloss": "lophulika"
     },
     {
       "surface": "חלב",
@@ -61,6 +61,6 @@
       "gloss": "ndi uchi"
     }
   ],
-  "timestamp": "2026-09-21T07:26:30.868695402Z",
+  "timestamp": "2026-09-25T07:20:20.659188196Z",
   "model": "glm-5.3"
 }

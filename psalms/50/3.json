@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "ny",
   "chapter": 50,
-  "translation": "Elohim wathu adzadza, ndipo sadzakhumudwa ⟨⟨⟩⟩: moto udzadya patsogolo pake, ndipo kozungulira kwake kudzakhala nyali yamphamvu kwambiri.",
+  "translation": "Elohim wathu adzadza, ndipo sadzakhala chete; moto pamaso pake udzadya, ndipo kuzungulira kwake mphepo idzalasa kwambiri.",
   "tokens": [
     {
       "surface": "יבא",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ואל",
-      "gloss": "ndipo sadza-"
+      "gloss": "ndipo sadza(khala)"
     },
     {
       "surface": "יחרש",
-      "gloss": "khumudwa"
+      "gloss": "khala chete"
     },
     {
       "surface": "אש",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "לפניו",
-      "gloss": "patsogolo pake"
+      "gloss": "pamaso pake"
     },
     {
       "surface": "תאכל",
@@ -37,17 +37,17 @@
     },
     {
       "surface": "וסביביו",
-      "gloss": "ndipo kozungulira kwake"
+      "gloss": "ndi kuzungulira kwake"
     },
     {
       "surface": "נשערה",
-      "gloss": "kudzakhala nyali yamphamvu"
+      "gloss": "idzalasa mphepo"
     },
     {
       "surface": "מאד",
       "gloss": "kwambiri"
     }
   ],
-  "timestamp": "2026-09-21T15:10:54.610242919Z",
+  "timestamp": "2026-09-25T07:40:01.902916550Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "ny",
   "chapter": 12,
-  "translation": "Ndipo tsiku loyamba ⟨⟨⟩ msonkhano wopatulika, ndipo tsiku lachisanu ndi chiwiri msonkhano wopatulika udzakhalapo kwa inu; ntchito iliyonse sichidzachitika m'menemo, koma chinthu chokha chimene chidzadyedwa ndi munthu aliyense, ichi chokha chidzachitika ndi inu.",
+  "translation": "Ndipo tsiku loyamba mudzakhala ⟨nayo⟩ msonkhano wopatulika, ndipo tsiku lachisanu ndi chiwiri mudzakhala ⟨nayo⟩ msonkhano wopatulika; ntchito iliyonse sichidzachitike m'masiku amenewa, koma chimene chidzadyedwa ndi munthu aliyense — ichokha chimenecho mudzachita.",
   "tokens": [
     {
       "surface": "וביום",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מקרא",
-      "gloss": "msonkhano wopatulika"
+      "gloss": "msonkhano"
     },
     {
       "surface": "קדש",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מקרא",
-      "gloss": "msonkhano wopatulika"
+      "gloss": "msonkhano"
     },
     {
       "surface": "קדש",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "udzakhalapo"
+      "gloss": "mudzakhala"
     },
     {
       "surface": "לכם",
-      "gloss": "kwa inu"
+      "gloss": "⟨nayo⟩ inu"
     },
     {
       "surface": "כל",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "sichidzachitika"
+      "gloss": "si"
     },
     {
       "surface": "יעשה",
-      "gloss": "sichidzachitika"
+      "gloss": "chidzachitike"
     },
     {
       "surface": "בהם",
-      "gloss": "m'menemo"
+      "gloss": "m'masiku amenewa"
     },
     {
       "surface": "אך",
@@ -89,21 +89,21 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ichi"
+      "gloss": "icho"
     },
     {
       "surface": "לבדו",
-      "gloss": "chokha"
+      "gloss": "chokha chimenecho"
     },
     {
       "surface": "יעשה",
-      "gloss": "chidzachitika"
+      "gloss": "mudzachita"
     },
     {
       "surface": "לכם",
-      "gloss": "ndi inu"
+      "gloss": "inu"
     }
   ],
-  "timestamp": "2026-09-21T15:32:30.613696091Z",
+  "timestamp": "2026-09-25T07:22:35.534196662Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "ny",
   "chapter": 11,
-  "translation": "Ndipo zidzakhala, ngati mumvera makamaka miyambo yanga imene ndikulamulirani ⟨את⟩ inu lero, kukonda ⟨את⟩ Yahwe Elohim wanu, ndi kumutumikira ndi mtima wanu wonse ndi ndi moyo wanu wonse.",
+  "translation": "Ndipo zidzakhala, ngati kumvera mudzamvera malamulo anga amene ine ndikulamulira ⟨את⟩ inu lero, kukonda ⟨את⟩ Yahwe Elohim wanu, ndi kumutumikira ndi mtima wanu wonse ndi ndi moyo wanu wonse,",
   "tokens": [
     {
       "surface": "והיה",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "שמע",
-      "gloss": "makamaka"
+      "gloss": "kumvera"
     },
     {
       "surface": "תשמעו",
-      "gloss": "mumvera"
+      "gloss": "mudzamvera"
     },
     {
       "surface": "אל",
-      "gloss": "<elision: el->"
+      "gloss": "⟨ku⟩"
     },
     {
       "surface": "מצותי",
-      "gloss": "miyambo yanga"
+      "gloss": "malamulo anga"
     },
     {
       "surface": "אשר",
-      "gloss": "imene"
+      "gloss": "amene"
     },
     {
       "surface": "אנכי",
@@ -45,7 +45,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ inu"
+      "gloss": "⟨את⟩ inu",
+      "marks": "inu"
     },
     {
       "surface": "היום",
@@ -74,21 +75,21 @@
     },
     {
       "surface": "בכל",
-      "gloss": "ndi … wonse"
+      "gloss": "ndi"
     },
     {
       "surface": "לבבכם",
-      "gloss": "mtima wanu"
+      "gloss": "mtima wanu wonse"
     },
     {
       "surface": "ובכל",
-      "gloss": "ndi … wonse"
+      "gloss": "ndi"
     },
     {
       "surface": "נפשכם",
-      "gloss": "moyo wanu"
+      "gloss": "moyo wanu wonse"
     }
   ],
-  "timestamp": "2026-09-21T07:18:56.057909987Z",
+  "timestamp": "2026-09-25T07:19:50.090458254Z",
   "model": "glm-5.3"
 }

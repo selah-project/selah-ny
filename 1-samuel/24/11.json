@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "ny",
   "chapter": 24,
-  "translation": "Onani, lero maso anu aona ⟨את⟩ zimene Yahwe anakupatsani lero m'dzanja langa m'phanga; ndipo wina ananena kuti ndikuphe, koma maso anga anakuchitira chifundo; ndipo ndinati: Sindidzaweza dzanja langa pa mbuye wanga, popeza ndiye Mashiya wa Yahwe.",
+  "translation": "Onani, lero maso anu anaona ⟨את⟩ zimene Yahwe anakupatsani lero m'dzanja langa m'phanga, ndipo ⟨enye⟩ adanena kuti andiphe, koma sindinakuphulitsirani, ndipo ndinati: Sindidzatsogolera dzanja langa pa mbuye wanga, pakuti Mashiya wa Yahwe ndi iyeyo.",
   "tokens": [
     {
       "surface": "הנה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "הזה",
-      "gloss": "<dyera>"
+      "gloss": "tsikuli"
     },
     {
       "surface": "ראו",
-      "gloss": "aona"
+      "gloss": "anaona"
     },
     {
       "surface": "עיניך",
@@ -30,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "zimene Yahwe anakupatsani"
+      "marks": "zimene (zimene Yahwe anakupatsani)"
     },
     {
       "surface": "אשר",
@@ -58,31 +58,31 @@
     },
     {
       "surface": "ואמר",
-      "gloss": "ananena"
+      "gloss": "ndipo adanena"
     },
     {
       "surface": "להרגך",
-      "gloss": "kuti ndikuphe"
+      "gloss": "kukuphanitsani"
     },
     {
       "surface": "ותחס",
-      "gloss": "anakuchitira chifundo"
+      "gloss": "koma sindinakuphulitsirani"
     },
     {
       "surface": "עליך",
-      "gloss": "<pa iwe>"
+      "gloss": "pa inu"
     },
     {
       "surface": "ואמר",
-      "gloss": "ndinati"
+      "gloss": "ndipo ndinati"
     },
     {
       "surface": "לא",
-      "gloss": "Sindi"
+      "gloss": "ayi, sindidza-"
     },
     {
       "surface": "אשלח",
-      "gloss": "dzaweza"
+      "gloss": "-tsogolera"
     },
     {
       "surface": "ידי",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "popeza"
+      "gloss": "pakuti"
     },
     {
       "surface": "משיח",
@@ -106,9 +106,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ndiye"
+      "gloss": "ndi iyeyo"
     }
   ],
-  "timestamp": "2026-09-21T08:12:03.794123068Z",
+  "timestamp": "2026-09-25T07:13:16.330962508Z",
   "model": "glm-5.3"
 }

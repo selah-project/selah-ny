@@ -5,23 +5,24 @@
   "book": "genesis",
   "lang": "ny",
   "chapter": 40,
-  "translation": "Koma ⟨את⟩ mfumu ya obulitsa adayiyika pa mtanda, monga Yosef anawamasulira.",
+  "translation": "Ndipo ⟨את⟩ mbuye wa osunga chakudya iye anamulinga, monga anawamasulira Yosefe.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Koma ⟨את⟩"
+      "gloss": "ndi ⟨את⟩",
+      "marks": "mbuye wa osunga chakudya"
     },
     {
       "surface": "שר",
-      "gloss": "mfumu"
+      "gloss": "mbuye"
     },
     {
       "surface": "האפים",
-      "gloss": "ya obulitsa"
+      "gloss": "wa osunga chakudya"
     },
     {
       "surface": "תלה",
-      "gloss": "adayiyika pa mtanda"
+      "gloss": "anamulinga"
     },
     {
       "surface": "כאשר",
@@ -33,13 +34,13 @@
     },
     {
       "surface": "להם",
-      "gloss": "−iwо"
+      "gloss": "ku iwo"
     },
     {
       "surface": "יוסף",
-      "gloss": "Yosef"
+      "gloss": "Yosefe"
     }
   ],
-  "timestamp": "2026-09-21T05:59:36.576861159Z",
+  "timestamp": "2026-09-25T07:42:07.452029052Z",
   "model": "glm-5.3"
 }

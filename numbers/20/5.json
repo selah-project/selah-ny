@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "ny",
   "chapter": 20,
-  "translation": "Ndipo chifukwa chiyani mdatilengedwa <ὲng> kuchokera ku Mitsrayimu kuti mubweretse ⟨אתנו⟩ ku malo oipa awa? Si malo a mbewu, kapena mtengo wa mkuyu, kapena mphesa, kapena mkanira; ndipo madzi alibe okhwa.",
+  "translation": "Ndipo chifukwa chiyani mwatikwetsa kuchokera ku Mitsrayimu, kudzatibweretsa ku malo woipa uwu? Ndi malo wosafala mbewu, wopanda mkuyu, mphesa ndi mkanira; ndipo madzi palibe omwa.",
   "tokens": [
     {
       "surface": "ולמה",
-      "gloss": "chifukwa chiyani"
+      "gloss": "Ndipo chifukwa chiyani"
     },
     {
       "surface": "העליתנו",
-      "gloss": "mdatilengedwa"
+      "gloss": "mwatikwetsa"
     },
     {
       "surface": "ממצרים",
@@ -21,12 +21,12 @@
     },
     {
       "surface": "להביא",
-      "gloss": "kuti mubweretse"
+      "gloss": "kudzatibweretsa"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨אתנו⟩",
-      "marks": "ife"
+      "gloss": "⟨את⟩ ife",
+      "marks": "ife (cholinga cha kubweretsa)"
     },
     {
       "surface": "אל",
@@ -38,27 +38,27 @@
     },
     {
       "surface": "הרע",
-      "gloss": "oipa"
+      "gloss": "woipa"
     },
     {
       "surface": "הזה",
-      "gloss": "awa"
+      "gloss": "uwu"
     },
     {
       "surface": "לא",
-      "gloss": "si"
+      "gloss": "palibe"
     },
     {
       "surface": "מקום",
-      "gloss": "malo a"
+      "gloss": "malo"
     },
     {
       "surface": "זרע",
-      "gloss": "mbewu"
+      "gloss": "wosafala mbewu"
     },
     {
       "surface": "ותאנה",
-      "gloss": "mtengo wa mkuyu"
+      "gloss": "mkuyu"
     },
     {
       "surface": "וגפן",
@@ -74,13 +74,13 @@
     },
     {
       "surface": "אין",
-      "gloss": "alibe"
+      "gloss": "palibe"
     },
     {
       "surface": "לשתות",
-      "gloss": "okhwa"
+      "gloss": "omwa"
     }
   ],
-  "timestamp": "2026-09-21T07:02:26.363547107Z",
+  "timestamp": "2026-09-25T07:35:49.008657006Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "ny",
   "chapter": 42,
-  "translation": "Ndiipo adathira pa iye mkwiyo wa pakhosi pake, ndi mphamvu ya nkhondo; ndipo <ya-moto> inamuunika mozungulira, koma sanadziwe; ndipo inamulira moto mwa iye, koma sanaike pa mtima.",
+  "translation": "Adathira pa iye mkwiyo, chimwemo chake, ndi mphamvu ya nankhondo; ndipo zinamuwotcherera m'mbali zonse, koma sanadziwe; ndipo moto unauka mwa iye, koma sinaika ⟨iyi⟩ pa mtima.",
   "tokens": [
     {
       "surface": "וישפך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אפו",
-      "gloss": "wa pakhosi pake"
+      "gloss": "chimwemo chake"
     },
     {
       "surface": "ועזוז",
@@ -29,27 +29,27 @@
     },
     {
       "surface": "מלחמה",
-      "gloss": "ya nkhondo"
+      "gloss": "ya nankhondo"
     },
     {
       "surface": "ותלהטהו",
-      "gloss": "inamuunika <ya-moto>"
+      "gloss": "ndipo zinamuwotcherera"
     },
     {
       "surface": "מסביב",
-      "gloss": "mozungulira"
+      "gloss": "m'mbali zonse"
     },
     {
       "surface": "ולא",
-      "gloss": "koma"
+      "gloss": "koma sana-"
     },
     {
       "surface": "ידע",
-      "gloss": "sanadziwe"
+      "gloss": "-dziwe"
     },
     {
       "surface": "ותבער",
-      "gloss": "inamulira moto"
+      "gloss": "ndipo moto unauka"
     },
     {
       "surface": "בו",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "koma"
+      "gloss": "koma sina-"
     },
     {
       "surface": "ישים",
-      "gloss": "sanaike"
+      "gloss": "-ika"
     },
     {
       "surface": "על",
@@ -72,6 +72,6 @@
       "gloss": "mtima"
     }
   ],
-  "timestamp": "2026-09-21T13:13:18.467687815Z",
+  "timestamp": "2026-09-25T07:28:33.694502120Z",
   "model": "glm-5.3"
 }

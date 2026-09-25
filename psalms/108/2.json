@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "ny",
   "chapter": 108,
-  "translation": "Wokhazikika ⟨⟨ndi⟩⟩ mtima wanga, Elohim; ndidzayimba, ndithu ndidzayimba ndi ziwalo, ndiponso ulemerero wanga.",
+  "translation": "Mtima wanga wokhazikika, Elohim; ndidzayimba, inde ndidzayimbira nyimbo, ndipo ulemerero wanga <⟨naye⟩>",
   "tokens": [
     {
       "surface": "נכון",
-      "gloss": "Wokhazikika"
+      "gloss": "wokhazikika"
     },
     {
       "surface": "לבי",
@@ -25,17 +25,17 @@
     },
     {
       "surface": "ואזמרה",
-      "gloss": "ndithu ndidzayimba ndi ziwalo"
+      "gloss": "ndipo ndidzayimbira nyimbo"
     },
     {
       "surface": "אף",
-      "gloss": "ndiponso"
+      "gloss": "inde"
     },
     {
       "surface": "כבודי",
       "gloss": "ulemerero wanga"
     }
   ],
-  "timestamp": "2026-09-21T11:05:50.933061953Z",
+  "timestamp": "2026-09-25T07:38:23.485086009Z",
   "model": "glm-5.3"
 }

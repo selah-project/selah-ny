@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "ny",
   "chapter": 10,
-  "translation": "Ndipo chitachitika, pamene Yehu atatha kupereka nsembe yopsereka, Yehu anati kwa othamanga ndi kwa akulu ankhondo: “Lowani, muwaphe; wina asatuluke.” Ndipo anawapha ndi µlomo wa lupanga; ndipo othamanga ndi akulu ankhondo anawataya, ndipo anapita mpaka ku mzinda wa nyumba ya Habeyali.",
+  "translation": "Ndipo panali, pamene Yehu atatha kupereka nsembe yolao, Yehu anati kwa alonda ndi kwa akulu ankhondo: “Lowani, mukawapha; munthu asatuluke.” Ndipo anawapha m'kamwa mwa chikwangwala, ndipo alonda ndi akulu ankhondo anawataya ⟨kunja⟩, nayenda mpaka ku mzinda wa nyumba ya Baali.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "chitachitika"
+      "gloss": "panali"
     },
     {
       "surface": "ככלתו",
-      "gloss": "pamene atatha"
+      "gloss": "atatha"
     },
     {
       "surface": "לעשות",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "העלה",
-      "gloss": "nsembe yopsereka"
+      "gloss": "nsembe yolao"
     },
     {
       "surface": "ויאמר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לרצים",
-      "gloss": "kwa othamanga"
+      "gloss": "kwa alonda"
     },
     {
       "surface": "ולשלשים",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "באו",
-      "gloss": "lowani"
+      "gloss": "Lowani"
     },
     {
       "surface": "הכום",
-      "gloss": "muwaphe"
+      "gloss": "mukawapha"
     },
     {
       "surface": "איש",
-      "gloss": "wina"
+      "gloss": "munthu"
     },
     {
       "surface": "אל",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "יצא",
-      "gloss": "-watuluke"
+      "gloss": "atuluke"
     },
     {
       "surface": "ויכום",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "לפי",
-      "gloss": "ndi lomo"
+      "gloss": "m'kamwa"
     },
     {
       "surface": "חרב",
-      "gloss": "lupanga"
+      "gloss": "chikwangwala"
     },
     {
       "surface": "וישלכו",
@@ -77,15 +77,15 @@
     },
     {
       "surface": "הרצים",
-      "gloss": "othamanga"
+      "gloss": "alonda"
     },
     {
       "surface": "והשלשים",
-      "gloss": "ndi akulu ankhondo"
+      "gloss": "akulu ankhondo"
     },
     {
       "surface": "וילכו",
-      "gloss": "anapita"
+      "gloss": "nayenda"
     },
     {
       "surface": "עד",
@@ -93,17 +93,17 @@
     },
     {
       "surface": "עיר",
-      "gloss": "ku mzinda"
+      "gloss": "mzinda"
     },
     {
       "surface": "בית",
-      "gloss": "wa nyumba"
+      "gloss": "nyumba"
     },
     {
       "surface": "הבעל",
-      "gloss": "ya Habeyali"
+      "gloss": "Baali"
     }
   ],
-  "timestamp": "2026-09-21T08:50:47.728305065Z",
+  "timestamp": "2026-09-25T07:17:48.357653980Z",
   "model": "glm-5.3"
 }

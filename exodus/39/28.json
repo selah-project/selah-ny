@@ -1,1 +1,64 @@
-{"tier": "glm-5.2", "verse": 28, "ref": "exodus 39:28", "book": "exodus", "lang": "ny", "chapter": 39, "translation": "Ndipo ⟨את⟩ chikhuto cha ulusi woyera, ⟨את⟩ ndi ⟨את〉 zokometsera mutu za zovala zapamutu, za ulusi woyera, ndi ⟨את⟩ malaya a bululu, a ulusi woyera wosonzonkhapo.", "tokens": [{"surface": "ואת", "gloss": "ndi ⟨את⟩"}, {"surface": "המצנפת", "gloss": "chikhuto"}, {"surface": "שש", "gloss": "ulusi woyera"}, {"surface": "ואת", "gloss": "ndi ⟨את⟩"}, {"surface": "פארי", "gloss": "zokometsera mutu"}, {"surface": "המגבעת", "gloss": "zovala zapamutu"}, {"surface": "שש", "gloss": "ulusi woyera"}, {"surface": "ואת", "gloss": "ndi ⟨את⟩"}, {"surface": "מכנסי", "gloss": "malaya a bululu"}, {"surface": "הבד", "gloss": "bululu"}, {"surface": "שש", "gloss": "ulusi woyera"}, {"surface": "משזר", "gloss": "wosonzonkhapo"}], "timestamp": "2026-09-21T06:29:34.272151268Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "ny",
+  "chapter": 39,
+  "translation": "Ndipo ⟨את⟩ chikhwa cha ubleachedi woyera, ndi ⟨את⟩ zodzikongoletsa za zipewu za ubleachedi woyera, ndi ⟨את⟩ malaya a pansi a ubleachedi woyera wosonkhanitswa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "chikhwa"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "chikhwa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ubleachedi woyera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "zodzikongoletsa za zipewu"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "zodzikongoletsa"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "za zipewu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ubleachedi woyera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ndi ⟨את⟩",
+      "marks": "malaya a pansi"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "malaya a pansi"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "ubleachedi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "woyera"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "wosonkhanitswa"
+    }
+  ],
+  "timestamp": "2026-09-25T07:21:14.393782318Z",
+  "model": "glm-5.3"
+}

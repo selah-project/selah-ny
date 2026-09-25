@@ -5,19 +5,19 @@
   "book": "psalms",
   "lang": "ny",
   "chapter": 35,
-  "translation": "Kuwonongeka kumudzafika, sadziwa; ndipo momba wake amene anaubisa kumudzi iye yemwe; m'kuwonongekako adzagwa mmenemo.",
+  "translation": "Chivundo chidzamudza, ndipo iye sadziwa; ndipo mseke wake umene anabisanso udzamugwira — m'chivundo chimenecho adzagwa.",
   "tokens": [
     {
       "surface": "תבואהו",
-      "gloss": "kumudzafika"
+      "gloss": "chidzamudza"
     },
     {
       "surface": "שואה",
-      "gloss": "kuwonongeka"
+      "gloss": "chivundo"
     },
     {
       "surface": "לא",
-      "gloss": "sadziwa <negation>"
+      "gloss": "sadziwa (osati-dziwa)"
     },
     {
       "surface": "ידע",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ורשתו",
-      "gloss": "ndipo momba wake"
+      "gloss": "ndipo mseke wake"
     },
     {
       "surface": "אשר",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "טמן",
-      "gloss": "anaubisa"
+      "gloss": "anabisanso"
     },
     {
       "surface": "תלכדו",
-      "gloss": "kumudzi iye yemwe"
+      "gloss": "udzamugwira"
     },
     {
       "surface": "בשואה",
-      "gloss": "m'kuwonongekako"
+      "gloss": "m'chivundo"
     },
     {
       "surface": "יפל",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "בה",
-      "gloss": "mmenemo"
+      "gloss": "m'chimenecho"
     }
   ],
-  "timestamp": "2026-09-21T10:47:06.342441250Z",
+  "timestamp": "2026-09-25T07:39:32.332735393Z",
   "model": "glm-5.3"
 }

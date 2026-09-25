@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "ny",
   "chapter": 6,
-  "translation": "Ndipo ulamu (chodyeretsa patsogolo) chiri pamaso pa hekhala (nyumba yachikulu) la nyumbayo, kutalika kwake <censored> pamaso pa lifupi la nyumbayo, ndi lifupi lake <censored> pa amama m'modzi, pamaso pa nyumbayo.",
+  "translation": "Ndipo chikwererocho pamaso pa hekhala la nyumbayo, litala makumi awiri kutalika kwake, pamaso pa m'lifupi wa nyumbayo; ndipo litala khumi m'lifupi mwake pamaso pa nyumba.",
   "tokens": [
     {
       "surface": "והאולם",
-      "gloss": "ndipo ulamu"
+      "gloss": "Ndipo chikwererocho"
     },
     {
       "surface": "על",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "פני",
-      "gloss": "pamaso pa"
+      "gloss": "pamaso"
     },
     {
       "surface": "היכל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הבית",
-      "gloss": "la nyumbayo"
+      "gloss": "la nyumba"
     },
     {
       "surface": "עשרים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אמה",
-      "gloss": "amama (kipimiro)"
+      "gloss": "litala"
     },
     {
       "surface": "ארכו",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "פני",
-      "gloss": "pamaso pa"
+      "gloss": "pamaso"
     },
     {
       "surface": "רחב",
-      "gloss": "lifupi"
+      "gloss": "m'lifupi"
     },
     {
       "surface": "הבית",
-      "gloss": "la nyumbayo"
+      "gloss": "wa nyumba"
     },
     {
       "surface": "עשר",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "באמה",
-      "gloss": "pa amama m'modzi"
+      "gloss": "m'litala"
     },
     {
       "surface": "רחבו",
-      "gloss": "lifupi lake"
+      "gloss": "m'lifupi mwake"
     },
     {
       "surface": "על",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "פני",
-      "gloss": "pamaso pa"
+      "gloss": "pamaso"
     },
     {
       "surface": "הבית",
-      "gloss": "nyumbayo"
+      "gloss": "nyumba"
     }
   ],
-  "timestamp": "2026-09-21T08:34:09.630614516Z",
+  "timestamp": "2026-09-25T07:13:37.882300476Z",
   "model": "glm-5.3"
 }

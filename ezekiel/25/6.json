@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":6,"ref":"ezekiel 25:6","book":"ezekiel","lang":"ny","chapter":25,"translation":"Popeza motero anati Adonayi Yahwe: Popeza unaphimpha manja, ndi kugunda ndi kuvala <kum']>","tokens":[{"surface":"כי","gloss":"popeza"},{"surface":"כה","gloss":"motero"},{"surface":"אמר","gloss":"anati"},{"surface":"אדני","gloss":"Adonayi"},{"surface":"יהוה","gloss":"Yahwe"},{"surface":"יען","gloss":"popeza"},{"surface":"מחאך","gloss":"unaphimpha"},{"surface":"יד","gloss":"manja"},{"surface":"ורקעך","gloss":"kugunda ndi kuvala"},{"surface":"ברגל","gloss":"ndi phazi"},{"surface":"ותשמח","gloss":"unakondwera"},{"surface":"בכל","gloss":"ndi"},{"surface":"שאטך","gloss":"kunyozo kwako konse"},{"surface":"בנפש","gloss":"m'moyo"},{"surface":"אל","gloss":"ku"},{"surface":"אדמת","gloss":"dziko"},{"surface":"ישראל","gloss":"la Yisraeli"}],"timestamp":"2026-09-21T10:06:27.496876165Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 25:6",
+  "book": "ezekiel",
+  "lang": "ny",
+  "chapter": 25,
+  "translation": "Chifukwa motere anati Adonayi Yahwe: popeza unaphwanya manja, ndi kuponda ndi tsogolo, ndipo unakondwera ndi kunyozo kwako konse mu moyo wako ku dziko la Yisraeli —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chifukwa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "motere"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anati"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "מחאך",
+      "gloss": "unaphwanya manja kwako"
+    },
+    {
+      "surface": "יד",
+      "gloss": "dzanja"
+    },
+    {
+      "surface": "ורקעך",
+      "gloss": "ndi kuponda kwako"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "ndi tsogolo"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "ndipo unakondwera"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "konse"
+    },
+    {
+      "surface": "שאטך",
+      "gloss": "kunyozo kwako"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "mu moyo wako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "dziko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-09-25T07:25:15.689309639Z",
+  "model": "glm-5.3"
+}

@@ -5,7 +5,7 @@
   "book": "micah",
   "lang": "ny",
   "chapter": 3,
-  "translation": "Pamenepo adzafuula kwa Yahwe, koma sadzawayankha ⟨את⟩ iwo; ndipo adzabisa nkhope yake kwa iwo pa nthawiyo, monga momwe zoipa zachitidwa ndi ntchito zawo.",
+  "translation": "Pamenepo iwo adzalira kwa Yahwe, koma sadzawayankha ⟨את⟩ iwo; ndipo adzabisa nkhope yake kwa iwo pa nthawito, monga momwe mauzo awo anachitira zoipa.",
   "tokens": [
     {
       "surface": "אז",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יזעקו",
-      "gloss": "adzafuula"
+      "gloss": "adzalira"
     },
     {
       "surface": "אל",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "ולא",
-      "gloss": "koma sа"
+      "gloss": "koma sadza-"
     },
     {
       "surface": "יענה",
-      "gloss": "dzawayankha"
+      "gloss": "-wayankha"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "iwo"
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo (omwe sadzayankhidwa)"
     },
     {
       "surface": "ויסתר",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ההיא",
-      "gloss": "yo"
+      "gloss": "-to"
     },
     {
       "surface": "כאשר",
@@ -62,13 +62,13 @@
     },
     {
       "surface": "הרעו",
-      "gloss": "zoipa zachitidwa"
+      "gloss": "anachitira zoipa"
     },
     {
       "surface": "מעלליהם",
-      "gloss": "ndi ntchito zawo"
+      "gloss": "mauzo awo"
     }
   ],
-  "timestamp": "2026-09-21T10:29:58.057544871Z",
+  "timestamp": "2026-09-25T07:37:04.840206763Z",
   "model": "glm-5.3"
 }

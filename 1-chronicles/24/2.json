@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "ny",
   "chapter": 24,
-  "translation": "Ndipo Nadabu ndi Abihuyu anafa pamaso pa abambo awo, ndipo ana sanawakhale ⟨את⟩; chifukwa chake Elazara ndi Itamara anautumikira ukhuna.",
+  "translation": "Ndipo Nadabu ndi Abihuyu anafa pamaso pa abambo awo, ndipo ana sanawakhale; ndipo Elazara ndi Itamara anatumikira ngati ansembe.",
   "tokens": [
     {
       "surface": "וימת",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "היו",
-      "gloss": ""
+      "gloss": "⟨anawakhala⟩"
     },
     {
       "surface": "להם",
-      "gloss": ""
+      "gloss": "kwa iwo"
     },
     {
       "surface": "ויכהנו",
-      "gloss": "anautumikira ukhuna"
+      "gloss": "anatumikira ngati ansembe"
     },
     {
       "surface": "אלעזר",
@@ -56,6 +56,6 @@
       "gloss": "ndi Itamara"
     }
   ],
-  "timestamp": "2026-09-21T15:13:40.607016249Z",
+  "timestamp": "2026-09-25T07:14:44.474221201Z",
   "model": "glm-5.3"
 }

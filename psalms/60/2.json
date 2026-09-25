@@ -5,16 +5,16 @@
   "book": "psalms",
   "lang": "ny",
   "chapter": 60,
-  "translation": "Poti iye ankamenya ⟨את⟩ Aramu Naharayimu ndi ⟨את⟩ Aramu Tsovaha, ndipo Yoabu anabwerera, nadula ⟨את⟩ Edomu m'chigwa cha mchere, ziwiri khumi (chifukwa cha mazana khumi ndi awiri) αχιλomwe — achiwiri kukwanira: khumi ndi ziwiri mazana.",
+  "translation": "Pokakomana kwake ⟨את⟩ Aramu ya Mitsinje iwiri ndi ⟨את⟩ Aramu ya Tsobaha, ndipo Yoabu anabweranso, ndipo anapha ⟨את⟩ Edomu m'chigwa cha mchere, zikwi khumi ndi ziwiri.",
   "tokens": [
     {
       "surface": "בהצותו",
-      "gloss": "Poti iye ankamenya"
+      "gloss": "pokakomana kwake"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Aramu Naharayimu"
+      "marks": "Aramu ya Mitsinje iwiri"
     },
     {
       "surface": "ארם",
@@ -22,12 +22,12 @@
     },
     {
       "surface": "נהרים",
-      "gloss": "Naharayimu"
+      "gloss": "ya Mitsinje iwiri"
     },
     {
       "surface": "ואת",
       "gloss": "ndi ⟨את⟩",
-      "marks": "Aramu Tsovaha"
+      "marks": "Aramu ya Tsobaha"
     },
     {
       "surface": "ארם",
@@ -35,11 +35,11 @@
     },
     {
       "surface": "צובה",
-      "gloss": "Tsovaha"
+      "gloss": "ya Tsobaha"
     },
     {
       "surface": "וישב",
-      "gloss": "anabwerera"
+      "gloss": "anabweranso"
     },
     {
       "surface": "יואב",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "ויך",
-      "gloss": "nadula"
+      "gloss": "anapha"
     },
     {
       "surface": "את",
@@ -60,11 +60,11 @@
     },
     {
       "surface": "בגיא",
-      "gloss": "m'chigwa cha"
+      "gloss": "m'chigwa"
     },
     {
       "surface": "מלח",
-      "gloss": "mchere"
+      "gloss": "cha mchere"
     },
     {
       "surface": "שנים",
@@ -72,13 +72,13 @@
     },
     {
       "surface": "עשר",
-      "gloss": "khumi"
+      "gloss": "khumi ndi"
     },
     {
       "surface": "אלף",
-      "gloss": "mazana khumi ndi awiri"
+      "gloss": "zikwi"
     }
   ],
-  "timestamp": "2026-09-21T10:53:36.641691840Z",
+  "timestamp": "2026-09-25T07:40:09.916283731Z",
   "model": "glm-5.3"
 }

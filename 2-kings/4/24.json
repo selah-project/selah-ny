@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":24,"ref":"2-kings 4:24","book":"2-kings","lang":"ny","chapter":4,"translation":"Ndipo iye anautsa <האתון> ndonkey, namuyitana <נערה> boy: “Yendetsa ndi kupita; unditengere nyengo yopanda kwerapo mwachindunji, kupatula ngati ndakuuzira iwe.”","tokens":[{"surface":"ותחבש","gloss":"anautsa (donkey)"},{"surface":"האתון","gloss":"bulankha ya kulima <האתון>"},{"surface":"ותאמר","gloss":"nati"},{"surface":"אל","gloss":"kwa"},{"surface":"נערה","gloss":"mtsogoleri wake wamng'ono (kapena wamkazi, <נערה> boy)"},{"surface":"נהג","gloss":"Yendetsa"},{"surface":"ולך","gloss":"kupita"},{"surface":"אל","gloss":"unda—"},{"surface":"תעצר","gloss":"—tengere nyengo yopanda kwerapo mwachindunji (unda—)"},{"surface":"לי","gloss":"kwa ine"},{"surface":"לרכב","gloss":"kulowera (monga <לרכב> ride)"},{"surface":"כי","gloss":"kupatula ngati (monga <כי> except)"},{"surface":"אם","gloss":"ngati (<אם> if)"},{"surface":"אמרתי","gloss":"ndakuuzira"},{"surface":"לך","gloss":"iwe"}],"timestamp":"2026-09-21T08:48:18.869268099Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 4:24",
+  "book": "2-kings",
+  "lang": "ny",
+  "chapter": 4,
+  "translation": "Ndipo iye anakwaniritsa ⟨את⟩ bulu wake, nati kwa mtsikana wake: “Yendetsa, ndipo pita; usandiletse kulowerera popeza ine ndawuza kokha.”",
+  "tokens": [
+    {
+      "surface": "ותחבש",
+      "gloss": "anakwaniritsa (bulu)"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "bulu wake"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "nati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "mtsikana wake"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "Yendetsa"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ndipo pita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תעצר",
+      "gloss": "-ndiletse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "kulowerera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "popeza"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kokha"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndawuza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-25T07:16:42.842722006Z",
+  "model": "glm-5.3"
+}

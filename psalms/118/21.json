@@ -5,19 +5,19 @@
   "book": "psalms",
   "lang": "ny",
   "chapter": 118,
-  "translation": "Ndikuyamike iwe, pakuti ndayankhidwa, nakhala chipulumutso changa.",
+  "translation": "Ndikuyamika Inu, chifukwa mwayandulira ine, nakhala chisomo <⟨khulupiriro: chithandizo\/chipulumutsi>> changa.",
   "tokens": [
     {
       "surface": "אודך",
-      "gloss": "Ndikuyamike iwe"
+      "gloss": "Ndikuyamika Inu"
     },
     {
       "surface": "כי",
-      "gloss": "pakuti"
+      "gloss": "chifukwa"
     },
     {
       "surface": "עניתני",
-      "gloss": "ndayankhidwa"
+      "gloss": "mwayandulira ine"
     },
     {
       "surface": "ותהי",
@@ -25,13 +25,13 @@
     },
     {
       "surface": "לי",
-      "gloss": "changа"
+      "gloss": "chang<a>"
     },
     {
       "surface": "לישועה",
-      "gloss": "chipulumutso"
+      "gloss": "chisomo <khulupiriro: chithandizo>"
     }
   ],
-  "timestamp": "2026-09-21T11:09:17.005429644Z",
+  "timestamp": "2026-09-25T07:38:00.957020807Z",
   "model": "glm-5.3"
 }

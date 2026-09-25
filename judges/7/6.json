@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "ny",
   "chapter": 7,
-  "translation": "Ndipo chiwerengero cha olamera, awochika dzanja lawo <ku> pakamwa pawo, chinali anthu mazana atatu; koma onse amtundu wa anthu amene anatsala adagwada <pa mafupa awo> kunywa madzi.",
+  "translation": "Ndipo chiwerengero cha iwo olamba madzi, olowetsa dzanja lawo pakamwa pawo, chinakhala anthu mazana atatu; koma yathya yonse ya anthu adagwada pa makhundi awo kuti amwe madzi.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Ndipo"
+      "gloss": "Ndipo chinakhala"
     },
     {
       "surface": "מספר",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "המלקקים",
-      "gloss": "cha olamera"
+      "gloss": "cha iwo olamba madzi"
     },
     {
       "surface": "בידם",
-      "gloss": "dzanja lawo"
+      "gloss": "ndi dzanja lawo"
     },
     {
       "surface": "אל",
-      "gloss": "<ku>"
+      "gloss": "ku"
     },
     {
       "surface": "פיהם",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "וכל",
-      "gloss": "koma onse"
+      "gloss": "koma yonse"
     },
     {
       "surface": "יתר",
-      "gloss": "amene anatsala"
+      "gloss": "yathya"
     },
     {
       "surface": "העם",
-      "gloss": "a anthu"
+      "gloss": "ya anthu"
     },
     {
       "surface": "כרעו",
@@ -65,17 +65,17 @@
     },
     {
       "surface": "ברכיהם",
-      "gloss": "<mafupa awo>"
+      "gloss": "makhundi awo"
     },
     {
       "surface": "לשתות",
-      "gloss": "kunywa"
+      "gloss": "kuti amwe"
     },
     {
       "surface": "מים",
       "gloss": "madzi"
     }
   ],
-  "timestamp": "2026-09-21T07:49:36.777223607Z",
+  "timestamp": "2026-09-25T07:32:26.533438343Z",
   "model": "glm-5.3"
 }

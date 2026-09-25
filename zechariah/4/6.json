@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "ny",
   "chapter": 4,
-  "translation": "Ndipo iye anayankha nati kwa ine, kuti: Uli ndi mawu a Yahwe kwa Zerubabeli, kuti: Si ndi mphamvu za nkhondo, kapena ndi mphulupulu, koma ndi Mzimu wanga, wati Yahwe Tsevaoti.",
+  "translation": "Ndipo iye anayankha nanditaura ndithu kuti: Uwu ndi mawu a Yahwe kwa Zerubabeli, kuti: Si m'chilimbirira, ndiponso si m'mphamvu, koma m'mzimu wanga, ayamba Yahwe Tsevaoti.",
   "tokens": [
     {
       "surface": "ויען",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "nati"
+      "gloss": "nanditaura ndithu"
     },
     {
       "surface": "אלי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "imeneyi"
+      "gloss": "uwu"
     },
     {
       "surface": "דבר",
@@ -53,19 +53,19 @@
     },
     {
       "surface": "בחיל",
-      "gloss": "ndi mphamvu za nkhondo"
+      "gloss": "m'chilimbirira"
     },
     {
       "surface": "ולא",
-      "gloss": "kapena si"
+      "gloss": "ndiponso si"
     },
     {
       "surface": "בכח",
-      "gloss": "ndi mphulupulu"
+      "gloss": "m'mphamvu"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "koma"
     },
     {
       "surface": "אם",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "ברוחי",
-      "gloss": "ndi Mzimu wanga"
+      "gloss": "m'mzimu wanga"
     },
     {
       "surface": "אמר",
-      "gloss": "wati"
+      "gloss": "ayamba"
     },
     {
       "surface": "יהוה",
@@ -88,6 +88,6 @@
       "gloss": "Tsevaoti"
     }
   ],
-  "timestamp": "2026-09-21T15:10:46.004783605Z",
+  "timestamp": "2026-09-25T07:41:39.743829675Z",
   "model": "glm-5.3"
 }
