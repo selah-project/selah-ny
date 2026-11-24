@@ -12,7 +12,7 @@ muchidziwa ndi chimene mukungoganiza.
 - Ngati cholakwika ndi kukonza kwake zonse zili zoonekeratu —
   tsegulani **Pull request**.
 - Pa mafunso a pulogalamu kapena a chitetezo — [Selah
-  Support](https://selahproject.com/support).
+  Support](https://s33k3r.com/learn/support).
 
 ## Chimene sichisinthidwa
 
